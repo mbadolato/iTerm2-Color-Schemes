@@ -13,6 +13,5 @@ To install:<br>
 - Navigate to Colors tab<br>
 - Click on Load Presets<br>
 - Click on Import<br>
-- Select the .itermcolors file of the scheme you'd like to use<br>
-- Repeat for any other schemes you'd like<br>
-- Click on Load Presets and switch to a color scheme<br>
+- Select the .itermcolors file(s) of the scheme you'd like to use<br>
+- Click on Load Presets and choose a color scheme<br>
