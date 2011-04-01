@@ -4,7 +4,7 @@ These are the iTerm2 themes I use. The schemes Novel, Grass, and Red Sands are c
 ![Screeshot](http://www.badodev.com/images/iterm/Desert.png)
 ![Screeshot](http://www.badodev.com/images/iterm/Grass.png)
 ![Screeshot](http://www.badodev.com/images/iterm/Novel.png)
-![Screeshot](http://www.badodev.com/images/iterm/Red%20Sands)
+![Screeshot](http://www.badodev.com/images/iterm/Red%20Sands.png)
 
 
 To install:<br>
