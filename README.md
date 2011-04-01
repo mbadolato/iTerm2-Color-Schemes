@@ -1,4 +1,6 @@
-These are the iTerm2 themes I use. The schemes Novel, Grass, and Red Sands are copies of the schemes of the same name included with the Mac Terminal application.
+These are the iTerm2 themes I use. The schemes Novel, Grass, and Red Sands are copies of the schemes of the same name included with the Mac Terminal application.<br>
+
+Note: The scheme Novel appears as Default in the screenshots.<br>
 
 ![Screeshot](http://www.badodev.com/images/iterm/Dark%20Pastel.png)
 ![Screeshot](http://www.badodev.com/images/iterm/Desert.png)
