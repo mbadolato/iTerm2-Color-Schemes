@@ -23,10 +23,10 @@ These are the iTerm2 themes I use. The schemes Novel, Grass, and Red Sands are c
 
 To install:
 
-* Open iTerm2 (iTerm2 SVN r480 or later is <a href="http://code.google.com/p/iterm2/source/detail?r=480">required</a>)
+* Launch iTerm2. iTerm2 version SVN r480 or later is required. Get the latest version <a href="http://code.google.com/p/iterm2/downloads/list">here</a>
 * Type CMD+i
 * Navigate to Colors tab
 * Click on Load Presets
 * Click on Import
-* Select the .itermcolors file(s) of the scheme you'd like to use
+* Select the .itermcolors file(s) of the scheme(s) you'd like to use
 * Click on Load Presets and choose a color scheme
