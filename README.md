@@ -1,7 +1,7 @@
 These are the iTerm2 themes I use. The schemes Novel, Grass, and Red Sands are copies of the schemes of the same name included with the Mac Terminal application.
 
 **Dark Pastel**
-![Screeshot](http://www.badodev.com/images/iterm/dark_pastel_.png)
+![Screeshot](http://www.badodev.com/images/iterm/dark_pastel.png)
 
 **Desert**
 ![Screeshot](http://www.badodev.com/images/iterm/desert.png)
