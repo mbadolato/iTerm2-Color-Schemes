@@ -12,6 +12,10 @@ These are the iTerm2 themes I use. The schemes Novel, Grass, and Red Sands are c
 
 ![Screeshot](http://www.badodev.com/images/iterm/grass.png)
 
+**Man Page**
+
+![Screeshot](http://www.badodev.com/images/iterm/man_page.png)
+
 **Novel**
 
 ![Screeshot](http://www.badodev.com/images/iterm/novel.png)
