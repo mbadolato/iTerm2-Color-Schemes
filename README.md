@@ -1,4 +1,4 @@
-These are the iTerm2 themes I use. The schemes Novel, Grass, and Red Sands are copies of the schemes of the same name included with the Mac Terminal application.
+These are the iTerm2 themes I use. The schemes Novel, Grass, Man Page, and Red Sands are copies of the schemes of the same name included with the Mac Terminal application.
 
 **Dark Pastel**
 
