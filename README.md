@@ -25,6 +25,7 @@ These are the iTerm2 themes I use. The schemes Novel, Grass, Man Page, and Red S
 ![Screeshot](http://www.badodev.com/images/iterm/red_sands.png)
 
 **Xavier**
+
 ![Screeshot](http://www.badodev.com/images/iterm/xavier.png)
 
 To install:
