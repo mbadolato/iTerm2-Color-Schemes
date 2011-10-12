@@ -2,31 +2,31 @@ These are the iTerm2 themes I use. The schemes Novel, Grass, Man Page, and Red S
 
 **Dark Pastel**
 
-![Screeshot](http://www.badodev.com/images/iterm/dark_pastel.png)
+![Screenshot](http://www.badodev.com/images/iterm/dark_pastel.png)
 
 **Desert**
 
-![Screeshot](http://www.badodev.com/images/iterm/desert.png)
+![Screenshot](http://www.badodev.com/images/iterm/desert.png)
 
 **Grass**
 
-![Screeshot](http://www.badodev.com/images/iterm/grass.png)
+![Screenshot](http://www.badodev.com/images/iterm/grass.png)
 
 **Man Page**
 
-![Screeshot](http://www.badodev.com/images/iterm/man_page.png)
+![Screenshot](http://www.badodev.com/images/iterm/man_page.png)
 
 **Novel**
 
-![Screeshot](http://www.badodev.com/images/iterm/novel.png)
+![Screenshot](http://www.badodev.com/images/iterm/novel.png)
 
 **Red Sands**
 
-![Screeshot](http://www.badodev.com/images/iterm/red_sands.png)
+![Screenshot](http://www.badodev.com/images/iterm/red_sands.png)
 
-**Xavier**
+**Vaughn**
 
-![Screeshot](http://www.badodev.com/images/iterm/xavier.png)
+![Screenshot](http://www.badodev.com/images/iterm/vaughn.png)
 
 To install:
 
