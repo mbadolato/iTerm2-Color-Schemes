@@ -2,31 +2,31 @@ These are the iTerm2 themes I use. The schemes Novel, Grass, Man Page, and Red S
 
 **Dark Pastel**
 
-![Screenshot](http://www.badodev.com/images/iterm/dark_pastel.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/dark_pastel.png)
 
 **Desert**
 
-![Screenshot](http://www.badodev.com/images/iterm/desert.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/desert.png)
 
 **Grass**
 
-![Screenshot](http://www.badodev.com/images/iterm/grass.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/grass.png)
 
 **Man Page**
 
-![Screenshot](http://www.badodev.com/images/iterm/man_page.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/man_page.png)
 
 **Novel**
 
-![Screenshot](http://www.badodev.com/images/iterm/novel.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/novel.png)
 
 **Red Sands**
 
-![Screenshot](http://www.badodev.com/images/iterm/red_sands.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/red_sands.png)
 
 **Vaughn**
 
-![Screenshot](http://www.badodev.com/images/iterm/vaughn.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots//vaughn.png)
 
 To install:
 
