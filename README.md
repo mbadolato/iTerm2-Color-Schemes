@@ -1,4 +1,4 @@
-These are the iTerm2 themes I use. The schemes Novel, Grass, Ocean, Man Page, and Red Sands are copies of the schemes of the same name included with the Mac Terminal application.
+This is a set of color schemes that I've made for iTerm2. The schemes Novel, Grass, Homebrew, Ocean, Man Page, and Red Sands are copies of the schemes of the same name included with the Mac Terminal application.
 
 **Dark Pastel**
 
@@ -11,6 +11,10 @@ These are the iTerm2 themes I use. The schemes Novel, Grass, Ocean, Man Page, an
 **Grass**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/grass.png)
+
+**Homebrew**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/homebrew.png)
 
 **Man Page**
 
@@ -34,7 +38,7 @@ These are the iTerm2 themes I use. The schemes Novel, Grass, Ocean, Man Page, an
 
 To install:
 
-* Launch iTerm2. iTerm2 version SVN r480 or later is required. Get the latest version <a href="http://code.google.com/p/iterm2/downloads/list">here</a>
+* Launch iTerm2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
 * Type CMD+i
 * Navigate to Colors tab
 * Click on Load Presets
