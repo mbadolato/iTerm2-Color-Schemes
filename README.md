@@ -20,6 +20,10 @@ These are the iTerm2 themes I use. The schemes Novel, Grass, Man Page, and Red S
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/novel.png)
 
+**Ocean**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/ocean.png)
+
 **Red Sands**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/red_sands.png)
