@@ -1,4 +1,4 @@
-This is a set of color schemes that I've made for iTerm2. The schemes Novel, Grass, Homebrew, Ocean, Man Page, and Red Sands are copies of the schemes of the same name included with the Mac Terminal application.
+This is a set of color schemes that I've made for iTerm2. The schemes Novel, Grass, Homebrew, Ocean, Pro, Man Page, and Red Sands are copies of the schemes of the same name included with the Mac Terminal application.
 
 **Dark Pastel**
 
@@ -27,6 +27,10 @@ This is a set of color schemes that I've made for iTerm2. The schemes Novel, Gra
 **Ocean**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/ocean.png)
+
+**Pro**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/pro.png)
 
 **Red Sands**
 
