@@ -1,4 +1,4 @@
-This is a set of color schemes for iTerm2.
+This is a set of color schemes for iTerm (aka iTerm2).
 
 The schemes Novel, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the excption of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
 
@@ -50,7 +50,7 @@ If there are other color schemes you'd like to see included, drop me a line!
 
 To install:
 
-* Launch iTerm2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
+* Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
 * Type CMD+i
 * Navigate to Colors tab
 * Click on Load Presets
