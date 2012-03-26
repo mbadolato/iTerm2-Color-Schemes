@@ -2,6 +2,8 @@ This is a set of color schemes for iTerm (aka iTerm2).
 
 The schemes Novel, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the excption of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
 
+The scheme idleToes was inspired by the [idleFingers](http://idlefingers.co.uk/) TextMate theme and suggested for inclusion by Seth Wilson.
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 **Dark Pastel**
@@ -19,6 +21,10 @@ If there are other color schemes you'd like to see included, drop me a line!
 **Homebrew**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/homebrew.png)
+
+**idleToes**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/idleToes.png)
 
 **Man Page**
 
