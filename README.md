@@ -73,7 +73,5 @@ To install:
 
 ----
 
-These iTerm Color Scheme files are provided for free under the terms of the [BSD License](http://www.opensource.org/licenses/BSD-2-Clause)
-
 iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes
 
