@@ -45,7 +45,7 @@ To install:
 
 **Kibble**
 
-![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/Kibble.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/kibble.png)
 
 **Man Page**
 
