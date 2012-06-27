@@ -43,6 +43,10 @@ To install:
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/idleToes.png)
 
+**Kibble**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/Kibble.png)
+
 **Man Page**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/man_page.png)
