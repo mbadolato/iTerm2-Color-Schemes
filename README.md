@@ -79,7 +79,7 @@ To install:
 
 **Zenburn**
 
-![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/Zenburn.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/zenburn.png)
 
 ----
 
