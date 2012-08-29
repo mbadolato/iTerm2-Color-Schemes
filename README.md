@@ -9,6 +9,8 @@ The scheme idleToes was inspired by the [idleFingers](http://idlefingers.co.uk/)
 
 The scheme Zenburn was inspired by the [Zenburn](http://snk.tuxfamily.org/log/zenburn-terminal-color-scheme.html) version created by Suraj N. Kurapati.
 
+The scheme Symfony was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 By the way, the color schemes with the dark backgrounds (Dark Pastel, Desert, etc.) look fantastic with a little bit of transparency. I have my slider set to the spot just under the A and R in "Transparency" on the Preferences->Window tab.
@@ -68,6 +70,10 @@ To install:
 **Red Sands**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/red_sands.png)
+
+**Symfony**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/symfony.png)
 
 **Terminal Basic**
 
