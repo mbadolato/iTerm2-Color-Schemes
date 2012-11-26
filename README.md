@@ -9,7 +9,7 @@ The scheme idleToes was inspired by the [idleFingers](http://idlefingers.co.uk/)
 
 The scheme Zenburn was inspired by the [Zenburn](http://snk.tuxfamily.org/log/zenburn-terminal-color-scheme.html) version created by Suraj N. Kurapati.
 
-The scheme Symfony was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
+The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
 
 If there are other color schemes you'd like to see included, drop me a line!
 
@@ -71,9 +71,9 @@ To install:
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/red_sands.png)
 
-**Symfony**
+**Symfonic**
 
-![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/symfony.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/symfonic.png)
 
 **Terminal Basic**
 
