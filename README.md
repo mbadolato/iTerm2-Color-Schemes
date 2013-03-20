@@ -71,6 +71,10 @@ To install:
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/red_sands.png)
 
+**Seafoam Pastel**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/seafoam_pastel.png)
+
 **Symfonic**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/symfonic.png)
@@ -89,5 +93,5 @@ To install:
 
 ----
 
-iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes
+iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes | iTerm Themes | iTerm2 Themes | iTerm 2 Themes
 
