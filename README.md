@@ -11,6 +11,8 @@ The scheme Zenburn was inspired by the [Zenburn](http://snk.tuxfamily.org/log/ze
 
 The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
 
+The scheme Github was inspired by the color theme palette used at [Github](http://github.com/) for their UI and in some of their mascot images. 
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 By the way, the color schemes with the dark backgrounds (Dark Pastel, Desert, etc.) look fantastic with a little bit of transparency. I have my slider set to the spot just under the A and R in "Transparency" on the Preferences->Window tab.
@@ -38,6 +40,10 @@ To install:
 **Espresso**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/espresso.png)
+
+**Github**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/github.png)
 
 **Grass**
 
