@@ -11,7 +11,7 @@ The scheme Zenburn was inspired by the [Zenburn](http://snk.tuxfamily.org/log/ze
 
 The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
 
-The scheme Github was inspired by the color theme palette used at [Github](http://github.com/) for their UI and in some of their mascot images. 
+The scheme Github was inspired by the color theme palette used at [Github](http://github.com/) for their UI and in some of their mascot images.
 
 If there are other color schemes you'd like to see included, drop me a line!
 
@@ -29,6 +29,10 @@ To install:
 * Click on Load Presets and choose a color scheme
 
 ##Screenshots##
+**Blazer**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/blazer.png)
+
 **Dark Pastel**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/dark_pastel.png)
