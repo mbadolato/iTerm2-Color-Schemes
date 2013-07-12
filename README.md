@@ -13,7 +13,7 @@ The scheme Symfonic was inspired by the color scheme used in the [documentation]
 
 The scheme Github was inspired by the color theme palette used at [Github](http://github.com/) for their UI and in some of their mascot images.
 
-The scheme Solarized Darcula was inspired by the color theme created by [@rickhanlonii](https://github.com/rickhanlonii).
+The scheme Solarized Darcula was inspired by the color theme created by [@rickhanlonii](https://github.com/rickhanlonii). There are two screenshots below; one with a background and one without. The background image is included in the backgrounds/ directory and the image must be manually set on the profile's Preferences->Window tab. It's hard to see from the screenshot, but it looks great!
 
 If there are other color schemes you'd like to see included, drop me a line!
 
@@ -95,7 +95,11 @@ To install:
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/seafoam_pastel.png)
 
-**Solarized Darcula**
+**Solarized Darcula (With background image)**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_darcula_with_background.png)
+
+**Solarized Darcula (Without background image)**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_darcula.png)
 
