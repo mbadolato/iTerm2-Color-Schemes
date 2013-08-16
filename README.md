@@ -18,6 +18,7 @@ The scheme Solarized Darcula was inspired by the color theme created by [@rickha
 The theme Hurtado was found [here](https://github.com/juanghurtado/dotfiles).
 
 The theme Mokokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 By the way, the color schemes with the dark backgrounds (Dark Pastel, Desert, etc.) look fantastic with a little bit of transparency. I have my slider set to the spot just under the A and R in "Transparency" on the Preferences->Window tab.
