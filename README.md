@@ -117,11 +117,11 @@ To install:
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_darcula.png)
 
-**Solarized Dark
+**Solarized Dark**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_dark.png)
 
-**Solarized Light
+**Solarized Light**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_light.png)
 
