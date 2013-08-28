@@ -19,6 +19,8 @@ The theme Hurtado was found [here](https://github.com/juanghurtado/dotfiles).
 
 The theme Mokokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
 
+The themes Solarized Dark and Solarized Light come from the official [Solarized web site](http://ethanschoonover.com/solarized)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 By the way, the color schemes with the dark backgrounds (Dark Pastel, Desert, etc.) look fantastic with a little bit of transparency. I have my slider set to the spot just under the A and R in "Transparency" on the Preferences->Window tab.
@@ -114,6 +116,14 @@ To install:
 **Solarized Darcula (Without background image)**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_darcula.png)
+
+**Solarized Dark
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_dark.png)
+
+**Solarized Light
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_light.png)
 
 **Symfonic**
 
