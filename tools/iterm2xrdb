@@ -1,0 +1,17 @@
+#!/usr/bin/env ruby
+#
+# Converts iTerm2 color schemes into xrdb(1) format, as a set of `#define`s,
+# and prints the result to STDOUT.  Reads STDIN if no input files are given.
+#
+# Usage: iterm2xrdb FILE...
+# Usage: cat FILE... | iterm2xrdb
+# Usage: iterm2xrdb < INPUT
+#
+#--
+# Written in 2013 by Suraj N. Kurapati <https://github.com/sunaku>
+
+ARGF.read.scan(%r{>(.+?)</}).flatten(1).each_slice(7) do |color, *components|
+  puts "#define #{ color.gsub(/\W/, ?_) } #" + Hash[*components].
+        values_at('Red Component', 'Green Component', 'Blue Component').
+        map {|intensity| sprintf '%02x', (intensity.to_f * 255).round }.join
+end
