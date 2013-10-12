@@ -36,6 +36,69 @@ To install:
 * Select the .itermcolors file(s) of the scheme(s) you'd like to use
 * Click on Load Presets and choose a color scheme
 
+###X11 Installation###
+To install under the [X Window System](http://www.x.org/):
+
+* Import the .xrdb file of the scheme you'd like to use:
+
+        #include "/home/mbadolato/iTerm2-Color-Schemes/scheme/Blazer.xrdb"
+
+* Use the `#define`s provided by the imported .xrdb file:
+
+        Rxvt*color0:       Ansi_0_Color
+        Rxvt*color1:       Ansi_1_Color
+        Rxvt*color2:       Ansi_2_Color
+        Rxvt*color3:       Ansi_3_Color
+        Rxvt*color4:       Ansi_4_Color
+        Rxvt*color5:       Ansi_5_Color
+        Rxvt*color6:       Ansi_6_Color
+        Rxvt*color7:       Ansi_7_Color
+        Rxvt*color8:       Ansi_8_Color
+        Rxvt*color9:       Ansi_9_Color
+        Rxvt*color10:      Ansi_10_Color
+        Rxvt*color11:      Ansi_11_Color
+        Rxvt*color12:      Ansi_12_Color
+        Rxvt*color13:      Ansi_13_Color
+        Rxvt*color14:      Ansi_14_Color
+        Rxvt*color15:      Ansi_15_Color
+        Rxvt*colorBD:      Bold_Color
+        Rxvt*colorIT:      Italic_Color
+        Rxvt*colorUL:      Underline_Color
+        Rxvt*foreground:   Foreground_Color
+        Rxvt*background:   Background_Color
+        Rxvt*cursorColor:  Cursor_Color
+
+        XTerm*color0:      Ansi_0_Color
+        XTerm*color1:      Ansi_1_Color
+        XTerm*color2:      Ansi_2_Color
+        XTerm*color3:      Ansi_3_Color
+        XTerm*color4:      Ansi_4_Color
+        XTerm*color5:      Ansi_5_Color
+        XTerm*color6:      Ansi_6_Color
+        XTerm*color7:      Ansi_7_Color
+        XTerm*color8:      Ansi_8_Color
+        XTerm*color9:      Ansi_9_Color
+        XTerm*color10:     Ansi_10_Color
+        XTerm*color11:     Ansi_11_Color
+        XTerm*color12:     Ansi_12_Color
+        XTerm*color13:     Ansi_13_Color
+        XTerm*color14:     Ansi_14_Color
+        XTerm*color15:     Ansi_15_Color
+        XTerm*colorBD:     Bold_Color
+        XTerm*colorIT:     Italic_Color
+        XTerm*colorUL:     Underline_Color
+        XTerm*foreground:  Foreground_Color
+        XTerm*background:  Background_Color
+        XTerm*cursorColor: Cursor_Color
+
+* Store the above snippets in a file and pass it in:
+
+        $ xrdb -merge YOUR_FILE_CONTAINING_ABOVE_SNIPPETS
+
+* Open new XTerm or Rxvt windows to see the changes.
+
+* Adapt this procedure to other terminals as needed.
+
 ##Screenshots##
 **Blazer**
 
