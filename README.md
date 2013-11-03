@@ -19,6 +19,8 @@ The theme Hurtado was found [here](https://github.com/juanghurtado/dotfiles).
 
 The theme Mokokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
 
+The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-Color-Schemes)
+
 The themes Solarized Dark and Solarized Light come from the official [Solarized web site](http://ethanschoonover.com/solarized)
 
 If there are other color schemes you'd like to see included, drop me a line!
@@ -151,6 +153,10 @@ To install under the [X Window System](http://www.x.org/):
 **Monokai Soda**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/monokai_soda.png)
+
+**Neopolitan**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/neopolitan.png)
 
 **Novel**
 
