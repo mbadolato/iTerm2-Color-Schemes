@@ -43,7 +43,7 @@ To install under the [X Window System](http://www.x.org/):
 
 * Import the .xrdb file of the scheme you'd like to use:
 
-        #include "/home/mbadolato/iTerm2-Color-Schemes/scheme/Blazer.xrdb"
+        #include "/home/mbadolato/iTerm2-Color-Schemes/xrdb/Blazer.xrdb"
 
 * Use the `#define`s provided by the imported .xrdb file:
 
