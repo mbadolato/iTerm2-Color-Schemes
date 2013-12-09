@@ -23,6 +23,8 @@ The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-
 
 The themes Solarized Dark and Solarized Light come from the official [Solarized web site](http://ethanschoonover.com/solarized)
 
+The theme Obsidian was on my hard drive and I don't recall where it came from. If anyone knows, ping me and I'll link back to the author.
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 By the way, the color schemes with the dark backgrounds (Dark Pastel, Desert, etc.) look fantastic with a little bit of transparency. I have my slider set to the spot just under the A and R in "Transparency" on the Preferences->Window tab.
@@ -165,6 +167,10 @@ To install under the [X Window System](http://www.x.org/):
 **Ocean**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/ocean.png)
+
+**Obsidian**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/obsidian.png)
 
 **Pro**
 
