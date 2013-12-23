@@ -31,6 +31,8 @@ The themes Solarized Dark and Solarized Light come from the official [Solarized 
 
 The theme Obsidian was on my hard drive and I don't recall where it came from. If anyone knows, ping me and I'll link back to the author.
 
+The theme Mathias was created by [mathiasbynens](https://github.com/mathiasbynens/dotfiles)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 By the way, the color schemes with the dark backgrounds (Dark Pastel, Desert, etc.) look fantastic with a little bit of transparency. I have my slider set to the spot just under the A and R in "Transparency" on the Preferences->Window tab.
@@ -90,6 +92,10 @@ To install:
 **Kibble**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/kibble.png)
+
+**Mathias**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/mathias.png)
 
 **Man Page**
 
