@@ -3,39 +3,12 @@
 - [Intro](#intro)
 - [Installation Instructions](#installation-instructions)
 - [Screenshots](#screenshots)
+- [Credits](#credits)
 - [Extra](#extra)
   - [X11 Installation](#x11-installation)
 
 ##Intro##
 This is a set of color schemes for iTerm (aka iTerm2). Screenshots below and in the [screenshots](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/screenshots) directory.
-
-The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the excption of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
-
-The scheme idleToes was inspired by the [idleFingers](http://idlefingers.co.uk/) TextMate theme and suggested for inclusion by Seth Wilson.
-
-The scheme Zenburn was inspired by the [Zenburn](http://snk.tuxfamily.org/log/zenburn-terminal-color-scheme.html) version created by Suraj N. Kurapati.
-
-The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
-
-The scheme Github was inspired by the color theme palette used at [Github](http://github.com/) for their UI and in some of their mascot images.
-
-The scheme Solarized Darcula was inspired by the color theme created by [@rickhanlonii](https://github.com/rickhanlonii). There are two screenshots below; one with a background and one without. The background image is included in the backgrounds/ directory and the image must be manually set on the profile's Preferences->Window tab. It's hard to see from the screenshot, but it looks great!
-
-The theme Hurtado was found [here](https://github.com/juanghurtado/dotfiles).
-
-The theme Mokokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
-
-The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-Color-Schemes)
-
-The themes Solarized Dark and Solarized Light come from the official [Solarized web site](http://ethanschoonover.com/solarized)
-
-The theme Obsidian was on my hard drive and I don't recall where it came from. If anyone knows, ping me and I'll link back to the author.
-
-The theme Mathias was created by [mathiasbynens](https://github.com/mathiasbynens/dotfiles)
-
-If there are other color schemes you'd like to see included, drop me a line!
-
-By the way, the color schemes with the dark backgrounds (Dark Pastel, Desert, etc.) look fantastic with a little bit of transparency. I have my slider set to the spot just under the A and R in "Transparency" on the Preferences->Window tab.
 
 ##Installation Instructions##
 To install:
@@ -93,6 +66,18 @@ To install:
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/kibble.png)
 
+**LiquidCarbon**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/liquid_carbon.png)
+
+**LiquidCarbonTransparent**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/liquid_carbon_transparent.png)
+
+**LiquidCarbonTransparentInverse**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/liquid_carbon_transparent_inverse.png)
+
 **Mathias**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/mathias.png)
@@ -108,6 +93,14 @@ To install:
 **Neopolitan**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/neopolitan.png)
+
+**NightLion v1**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/nightlion_v1.png)
+
+**NightLion v2**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/nightlion_v2.png)
 
 **Novel**
 
@@ -157,6 +150,30 @@ To install:
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/terminal_basic.png)
 
+**Tomorrow**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/tomorrow.png)
+
+**Tomorrow Night**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/tomorrow_night.png)
+
+**Tomorrow Night Blue**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/tomorrow_night_blue.png)
+
+**Tomorrow Night Bright**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/tomorrow_night_bright.png)
+
+**Tomorrow Night Eighties**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/tomorrow_night_eighties.png)
+
+**Twilight**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/twilight.png)
+
 **Vaughn**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/vaughn.png)
@@ -164,6 +181,39 @@ To install:
 **Zenburn**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/zenburn.png)
+
+## Credits
+The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the excption of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
+
+The scheme idleToes was inspired by the [idleFingers](http://idlefingers.co.uk/) TextMate theme and suggested for inclusion by Seth Wilson.
+
+The scheme Zenburn was inspired by the [Zenburn](http://snk.tuxfamily.org/log/zenburn-terminal-color-scheme.html) version created by Suraj N. Kurapati.
+
+The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
+
+The scheme Github was inspired by the color theme palette used at [Github](http://github.com/) for their UI and in some of their mascot images.
+
+The scheme Solarized Darcula was inspired by the color theme created by [@rickhanlonii](https://github.com/rickhanlonii). There are two screenshots below; one with a background and one without. The background image is included in the backgrounds/ directory and the image must be manually set on the profile's Preferences->Window tab. It's hard to see from the screenshot, but it looks great!
+
+The theme Hurtado was found [here](https://github.com/juanghurtado/dotfiles).
+
+The theme Mokokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
+
+The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-Color-Schemes)
+
+The themes Solarized Dark and Solarized Light come from the official [Solarized web site](http://ethanschoonover.com/solarized)
+
+The theme Obsidian was on my hard drive and I don't recall where it came from. If anyone knows, ping me and I'll link back to the author.
+
+The theme Mathias was created by [mathiasbynens](https://github.com/mathiasbynens/dotfiles)
+
+The LiquidCarbon themes were created by [markcho](https://github.com/markcho/iTerm2_LiquidCarbon)
+
+The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/category/themes/)
+
+The Tomorrow themes were created by [chriskempson](https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2)
+
+If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
 ###X11 Installation###
