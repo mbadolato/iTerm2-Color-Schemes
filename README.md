@@ -213,6 +213,8 @@ The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/c
 
 The Tomorrow themes were created by [chriskempson](https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2)
 
+The Twilight theme was created (as 'twilight') by [stefri](https://gist.github.com/stefri/1183140)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
