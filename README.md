@@ -146,6 +146,10 @@ To install:
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/symfonic.png)
 
+**Teerb**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/teerb.png)
+
 **Terminal Basic**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/terminal_basic.png)
@@ -214,6 +218,8 @@ The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/c
 The Tomorrow themes were created by [chriskempson](https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2)
 
 The Twilight theme was created (as 'twilight') by [stefri](https://gist.github.com/stefri/1183140)
+
+The Teerb theme was created by [Teerb](https://gist.github.com/teerb/1360453)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
