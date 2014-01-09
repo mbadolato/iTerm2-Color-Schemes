@@ -2,6 +2,7 @@
 
 - [Intro](#intro)
 - [Installation Instructions](#installation-instructions)
+- [Contribute](#contribute)
 - [Screenshots](#screenshots)
 - [Credits](#credits)
 - [Extra](#extra)
@@ -20,6 +21,20 @@ To install:
 * Click on Import
 * Select the .itermcolors file(s) of the scheme(s) you'd like to use
 * Click on Load Presets and choose a color scheme
+
+##Contribute##
+Have a great iTerm theme? Send it to me via a Pull Request! To export your theme settings:
+
+* Launch iTerm 2
+* Type CMD+i
+* Navigate to Colors tab
+* Click on Load Presets
+* Click on Export
+* Save the .itermcolors file
+
+To include a screenshot, please generate the output using the [screenshotTable.sh script](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/tools/screenshotTable.sh) in the ```tools``` directory. 
+
+**For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
 
 ##Screenshots##
 **Blazer**
