@@ -77,6 +77,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/idleToes.png)
 
+**IR_Black**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/ir_black.png)
+
 **Kibble**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/kibble.png)
@@ -235,6 +239,8 @@ The Tomorrow themes were created by [chriskempson](https://github.com/chriskemps
 The Twilight theme was created (as 'twilight') by [stefri](https://gist.github.com/stefri/1183140)
 
 The Teerb theme was created by [Teerb](https://gist.github.com/teerb/1360453)
+
+The IR_Black theme was found [here](https://gist.github.com/meqif/1238378)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
