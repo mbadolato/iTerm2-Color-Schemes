@@ -67,9 +67,13 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 **Homebrew**
 
-![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/homebrew.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/hybrid.png)
 
 **Hurtado**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/homebrew.png)
+
+**Hybrid**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/hurtado.png)
 
@@ -247,6 +251,8 @@ The Teerb theme was created by [Teerb](https://gist.github.com/teerb/1360453)
 The IR_Black theme was found [here](https://gist.github.com/meqif/1238378)
 
 The Misterioso theme was created by [flooose](https://github.com/flooose/misterioso-iterm2)
+
+The Hybrid theme was found [here](https://gist.github.com/luan/6362811)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
