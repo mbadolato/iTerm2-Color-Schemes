@@ -169,6 +169,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_light.png)
 
+**Spring**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/spring.png)
+
 **Symfonic**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/symfonic.png)
@@ -180,6 +184,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 **Terminal Basic**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/terminal_basic.png)
+
+**Thayer Bright**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/thayer_bright.png)
 
 **Tomorrow**
 
@@ -253,6 +261,10 @@ The IR_Black theme was found [here](https://gist.github.com/meqif/1238378)
 The Misterioso theme was created by [flooose](https://github.com/flooose/misterioso-iterm2)
 
 The Hybrid theme was found [here](https://gist.github.com/luan/6362811)
+
+The Thayer Bright theme was found [here](https://github.com/t3chnoboy/thayer-bright-iTerm)
+
+The Spring theme was found [here](https://github.com/t3chnoboy/spring-iTerm)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
