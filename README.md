@@ -155,7 +155,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 **Smyck**
 
-![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/smyck)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/smyck.png)
 
 **Solarized Darcula (With background image)**
 
