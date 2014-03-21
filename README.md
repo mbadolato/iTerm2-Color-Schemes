@@ -153,6 +153,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/seafoam_pastel.png)
 
+**Smyck**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/smyck)
+
 **Solarized Darcula (With background image)**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_darcula_with_background.png)
@@ -265,6 +269,8 @@ The Hybrid theme was found [here](https://gist.github.com/luan/6362811)
 The Thayer Bright theme was found [here](https://github.com/t3chnoboy/thayer-bright-iTerm)
 
 The Spring theme was found [here](https://github.com/t3chnoboy/spring-iTerm)
+
+The Smyck theme was found [here](https://github.com/hukl/Smyck-Color-Scheme)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
