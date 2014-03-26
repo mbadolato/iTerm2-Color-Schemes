@@ -67,15 +67,15 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 **Homebrew**
 
-![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/hybrid.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/homebrew.png)
 
 **Hurtado**
 
-![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/homebrew.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/hurtado.png)
 
 **Hybrid**
 
-![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/hurtado.png)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/hybrid.png)
 
 **idleToes**
 
