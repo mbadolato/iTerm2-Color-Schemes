@@ -47,7 +47,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 **Cobalt2**
 
-![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/cobalt2)
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/cobalt2.png)
 
 
 **Dark Pastel**
