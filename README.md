@@ -226,6 +226,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/vaughn.png)
 
+**WarmNeon**
+
+![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/warm_neon.png)
+
 **Zenburn**
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/zenburn.png)
@@ -278,6 +282,8 @@ The Spring theme was found [here](https://github.com/t3chnoboy/spring-iTerm)
 The Smyck theme was found [here](https://github.com/hukl/Smyck-Color-Scheme)
 
 The Cobalt2 theme was created by [wesbos](https://github.com/wesbos/Cobalt2-iterm)
+
+The WarmNeon theme was ported from [PyCharm](http://www.jetbrains.com/pycharm/) by [firewut](https://github.com/firewut)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
