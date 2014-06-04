@@ -37,208 +37,208 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
 
 ##Screenshots##
-**Blazer**
+###Blazer###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/blazer.png)
 
-**Chalkboard**
+###Chalkboard###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/chalkboard.png)
 
-**Cobalt2**
+###Cobalt2###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/cobalt2.png)
 
 
-**Dark Pastel**
+###Dark Pastel###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/dark_pastel.png)
 
-**Desert**
+###Desert###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/desert.png)
 
-**Espresso**
+###Espresso###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/espresso.png)
 
-**Github**
+###Github###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/github.png)
 
-**Grass**
+###Grass###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/grass.png)
 
-**Homebrew**
+###Homebrew###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/homebrew.png)
 
-**Hurtado**
+###Hurtado###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/hurtado.png)
 
-**Hybrid**
+###Hybrid###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/hybrid.png)
 
-**idleToes**
+###idleToes###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/idleToes.png)
 
-**IR_Black**
+###IR_Black###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/ir_black.png)
 
-**Kibble**
+###Kibble###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/kibble.png)
 
-**LiquidCarbon**
+###LiquidCarbon###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/liquid_carbon.png)
 
-**LiquidCarbonTransparent**
+###LiquidCarbonTransparent###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/liquid_carbon_transparent.png)
 
-**LiquidCarbonTransparentInverse**
+###LiquidCarbonTransparentInverse###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/liquid_carbon_transparent_inverse.png)
 
-**Mathias**
+###Mathias###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/mathias.png)
 
-**Man Page**
+###Man Page###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/man_page.png)
 
-**Misterioso**
+###Misterioso###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/misterioso.png)
 
-**Monokai Soda**
+###Monokai Soda###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/monokai_soda.png)
 
-**Neopolitan**
+###Neopolitan###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/neopolitan.png)
 
-**NightLion v1**
+###NightLion v1###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/nightlion_v1.png)
 
-**NightLion v2**
+###NightLion v2###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/nightlion_v2.png)
 
-**Novel**
+###Novel###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/novel.png)
 
-**Ocean**
+###Ocean###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/ocean.png)
 
-**Obsidian**
+###Obsidian###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/obsidian.png)
 
-**Pro**
+###Pro###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/pro.png)
 
-**Red Alert**
+###Red Alert###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/red_alert.png)
 
-**Red Sands**
+###Red Sands###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/red_sands.png)
 
-**Seafoam Pastel**
+###Seafoam Pastel###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/seafoam_pastel.png)
 
-**Smyck**
+###Smyck###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/smyck.png)
 
-**Solarized Darcula (With background image)**
+###Solarized Darcula (With background image)###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_darcula_with_background.png)
 
-**Solarized Darcula (Without background image)**
+###Solarized Darcula (Without background image)###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_darcula.png)
 
-**Solarized Dark**
+###Solarized Dark###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_dark.png)
 
-**Solarized Light**
+###Solarized Light###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/solarized_light.png)
 
-**SpaceGray**
+###SpaceGray###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/space_gray.png)
 
-**Spring**
+###Spring###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/spring.png)
 
-**Symfonic**
+###Symfonic###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/symfonic.png)
 
-**Teerb**
+###Teerb###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/teerb.png)
 
-**Terminal Basic**
+###Terminal Basic###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/terminal_basic.png)
 
-**Thayer Bright**
+###Thayer Bright###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/thayer_bright.png)
 
-**Tomorrow**
+###Tomorrow###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/tomorrow.png)
 
-**Tomorrow Night**
+###Tomorrow Night###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/tomorrow_night.png)
 
-**Tomorrow Night Blue**
+###Tomorrow Night Blue###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/tomorrow_night_blue.png)
 
-**Tomorrow Night Bright**
+###Tomorrow Night Bright###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/tomorrow_night_bright.png)
 
-**Tomorrow Night Eighties**
+###Tomorrow Night Eighties###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/tomorrow_night_eighties.png)
 
-**Twilight**
+###Twilight###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/twilight.png)
 
-**Vaughn**
+###Vaughn###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/vaughn.png)
 
-**WarmNeon**
+###WarmNeon###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/warm_neon.png)
 
-**Zenburn**
+###Zenburn###
 
 ![Screenshot](https://github.com/mbadolato/iTerm2-Color-Schemes/raw/master/screenshots/zenburn.png)
 
