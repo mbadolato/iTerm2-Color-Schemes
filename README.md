@@ -118,6 +118,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/misterioso.png)
 
+###Molokai###
+
+![Screenshot](screenshots/molokai.png)
+
 ###Monokai Soda###
 
 ![Screenshot](screenshots/monokai_soda.png)
@@ -256,6 +260,8 @@ The scheme Github was inspired by the color theme palette used at [Github](http:
 The scheme Solarized Darcula was inspired by the color theme created by [@rickhanlonii](https://github.com/rickhanlonii). There are two screenshots below; one with a background and one without. The background image is included in the backgrounds/ directory and the image must be manually set on the profile's Preferences->Window tab. It's hard to see from the screenshot, but it looks great!
 
 The theme Hurtado was found [here](https://github.com/juanghurtado/dotfiles).
+
+The theme Molokai was based on the [vim colorscheme](https://github.com/tomasr/molokai) of the same name.
 
 The theme Mokokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
 
