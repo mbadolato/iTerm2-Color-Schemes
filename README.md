@@ -90,6 +90,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/ir_black.png)
 
+###Jellybeans###
+
+![Screenshot](screenshots/jellybeans.png)
+
 ###Kibble###
 
 ![Screenshot](screenshots/kibble.png)
@@ -300,6 +304,8 @@ The Cobalt2 theme was created by [wesbos](https://github.com/wesbos/Cobalt2-iter
 The WarmNeon theme was ported from [PyCharm](http://www.jetbrains.com/pycharm/) by [firewut](https://github.com/firewut)
 
 The SpaceGray theme was created by [ryentzer](https://github.com/ryentzer/SpaceGray-iTerm)
+
+The Jellybeans theme was created by [qtpi](https://github.com/qtpi/Jellybeans.itermcolors)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
