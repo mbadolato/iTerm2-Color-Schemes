@@ -70,6 +70,11 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/grass.png)
 
+###Harper###
+
+![Screenshot](screenshots/harper.png)
+
+
 ###Homebrew###
 
 ![Screenshot](screenshots/homebrew.png)
@@ -313,6 +318,8 @@ The SpaceGray theme was created by [ryentzer](https://github.com/ryentzer/SpaceG
 The Jellybeans theme was created by [qtpi](https://github.com/qtpi/Jellybeans.itermcolors)
 
 The PaulMillr theme was created by [paulmillr](https://github.com/paulmillr/dotfiles/tree/master/terminal) and ported to iTerm by me
+
+The Harper theme was created by [idleberg](https://github.com/idleberg/Harper-iTerm2)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
