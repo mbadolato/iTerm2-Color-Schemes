@@ -3,6 +3,9 @@
 # This script converts xrdb (X11) color scheme format to terminator color
 # scheme format
 #
+# Usage:
+# xrdb2terminator.py path/to/xrdb/files -d /terminator/schemes/output
+#
 # Author: Xabier Larrakoetxea
 
 import os
