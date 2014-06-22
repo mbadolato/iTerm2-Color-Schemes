@@ -7,6 +7,7 @@
 - [Credits](#credits)
 - [Extra](#extra)
   - [X11 Installation](#x11-installation)
+  - [Terminator port](#terminator-port)
 
 ##Intro##
 This is a set of color schemes for iTerm (aka iTerm2). Screenshots below and in the [screenshots](screenshots/) directory.
@@ -386,6 +387,9 @@ To install under the [X Window System](http://www.x.org/):
 * Open new XTerm or Rxvt windows to see the changes.
 
 * Adapt this procedure to other terminals as needed.
+
+###Terminator port###
+In [this repository](https://github.com/slok/Terminator-Color-Schemes) are the ported themes to [Terminator terminal](https://launchpad.net/terminator):
 
 ----
 
