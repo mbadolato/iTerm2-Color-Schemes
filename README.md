@@ -7,6 +7,7 @@
 - [Credits](#credits)
 - [Extra](#extra)
   - [X11 Installation](#x11-installation)
+  - [Terminator color schemes](#terminator-color-schemes)
 
 ##Intro##
 This is a set of color schemes for iTerm (aka iTerm2). Screenshots below and in the [screenshots](screenshots/) directory.
@@ -386,6 +387,41 @@ To install under the [X Window System](http://www.x.org/):
 * Open new XTerm or Rxvt windows to see the changes.
 
 * Adapt this procedure to other terminals as needed.
+
+###Terminator color schemes###
+
+Edit your Terminator configuration file (located in: `$HOME/.config/terminator/config`) and add the configurations for the theme(s) you'd like to use the ``[profiles]`` section. The `terminator/` directory contains the config snippets you'll need. Just paste the configurations into the `[profiles]` sections, and you're good to go!  
+
+At a minimum, this is all you need. You can customize the fonts and other aspects as well, if you wish. See the Terminator documentation for more details.
+
+An example config file that includes the code snippet for the Symfonic theme would look like this:
+
+    [global_config]
+        [keybindings]
+        [profiles]
+          [[default]]
+            palette = "#1a1a1a:#f4005f:#98e024:#fa8419:#9d65ff:#f4005f:#58d1eb:#c4c5b5:#625e4c:#f4005f:#98e024:#e0d561:#9d65ff:#f4005f:#58d1eb:#f6f6ef"
+            background_image = None
+            use_system_font = False
+            cursor_color = "#f6f7ec"
+            foreground_color = "#c4c5b5"
+            font = Source Code Pro Light 11
+            background_color = "#1a1a1a"
+          [[Symfonic]]
+            palette = "#000000:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff:#1b1d21:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff"
+            background_color = "#000000"
+            cursor_color = "#dc322f"
+            foreground_color = "#ffffff"
+            background_image = None
+        [layouts]
+          [[default]]
+            [[[child1]]]
+              type = Terminal
+              parent = window0
+            [[[window0]]]
+              type = Window
+              parent = ""
+        [plugins]
 
 ----
 
