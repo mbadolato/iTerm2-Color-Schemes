@@ -390,17 +390,11 @@ To install under the [X Window System](http://www.x.org/):
 
 ###Terminator color schemes###
 
-The terminator configuration file is in: `$HOME/.config/terminator/config`.
-You need to edit this file
+Edit your Terminator configuration file (located in: `$HOME/.config/terminator/config`) and add the configurations for the theme(s) you'd like to use the ``[profiles]`` section. The `terminator/` directory contains the config snippets you'll need. Just paste the configurations into the `[profiles]` sections, and you're good to go!  
 
-Select the theme or themes that you like in `terminator/` directory, open the file
-and add to your terminator config file in the profiles block.
+At a minimum, this is all you need. You can customize the fonts and other aspects as well, if you wish. See the Terminator documentation for more details.
 
-that's it! you can customize the font and stuff afterwards
-
-Lets see an example :)
-
-This is my terminator config file:
+An example config file that includes the code snippet for the Symfonic theme would look like this:
 
     [global_config]
         [keybindings]
@@ -413,43 +407,11 @@ This is my terminator config file:
             foreground_color = "#c4c5b5"
             font = Source Code Pro Light 11
             background_color = "#1a1a1a"
-        [layouts]
-          [[default]]
-            [[[child1]]]
-              type = Terminal
-              parent = window0
-            [[[window0]]]
-              type = Window
-              parent = ""
-        [plugins]
-
-And I like the *Smyck* theme, this file in `terminator/Smyck.config` has:
-    
-    [[Smyck]]
-        palette = "#000000:#b84131:#7da900:#c4a500:#62a3c4:#ba8acc:#207383:#a1a1a1:#7a7a7a:#d6837c:#c4f137:#fee14d:#8dcff0:#f79aff:#6ad9cf:#f7f7f7"
-        background_color = "#1b1b1b"
-        cursor_color = "#bbbbbb"
-        foreground_color = "#f7f7f7"
-        background_image = None
-
-So I add this likes to my profiles:
-
-    [global_config]
-        [keybindings]
-        [profiles]
-          [[default]]
-            palette = "#1a1a1a:#f4005f:#98e024:#fa8419:#9d65ff:#f4005f:#58d1eb:#c4c5b5:#625e4c:#f4005f:#98e024:#e0d561:#9d65ff:#f4005f:#58d1eb:#f6f6ef"
-            background_image = None
-            use_system_font = False
-            cursor_color = "#f6f7ec"
-            foreground_color = "#c4c5b5"
-            font = Source Code Pro Light 11
-            background_color = "#1a1a1a"
-          [[Smyck]]
-            palette = "#000000:#b84131:#7da900:#c4a500:#62a3c4:#ba8acc:#207383:#a1a1a1:#7a7a7a:#d6837c:#c4f137:#fee14d:#8dcff0:#f79aff:#6ad9cf:#f7f7f7"
-            background_color = "#1b1b1b"
-            cursor_color = "#bbbbbb"
-            foreground_color = "#f7f7f7"
+          [[Symfonic]]
+            palette = "#000000:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff:#1b1d21:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff"
+            background_color = "#000000"
+            cursor_color = "#dc322f"
+            foreground_color = "#ffffff"
             background_image = None
         [layouts]
           [[default]]
@@ -460,9 +422,6 @@ So I add this likes to my profiles:
               type = Window
               parent = ""
         [plugins]
-
-After this I can add to Smyck profile the customizations like the font in the default
-profile...
 
 ----
 
