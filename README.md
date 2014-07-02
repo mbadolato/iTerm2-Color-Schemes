@@ -396,32 +396,34 @@ At a minimum, this is all you need. You can customize the fonts and other aspect
 
 An example config file that includes the code snippet for the Symfonic theme would look like this:
 
-    [global_config]
-        [keybindings]
-        [profiles]
-          [[default]]
-            palette = "#1a1a1a:#f4005f:#98e024:#fa8419:#9d65ff:#f4005f:#58d1eb:#c4c5b5:#625e4c:#f4005f:#98e024:#e0d561:#9d65ff:#f4005f:#58d1eb:#f6f6ef"
-            background_image = None
-            use_system_font = False
-            cursor_color = "#f6f7ec"
-            foreground_color = "#c4c5b5"
-            font = Source Code Pro Light 11
-            background_color = "#1a1a1a"
-          [[Symfonic]]
-            palette = "#000000:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff:#1b1d21:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff"
-            background_color = "#000000"
-            cursor_color = "#dc322f"
-            foreground_color = "#ffffff"
-            background_image = None
-        [layouts]
-          [[default]]
-            [[[child1]]]
-              type = Terminal
-              parent = window0
-            [[[window0]]]
-              type = Window
-              parent = ""
-        [plugins]
+```ini
+[global_config]
+    [keybindings]
+    [profiles]
+      [[default]]
+        palette = "#1a1a1a:#f4005f:#98e024:#fa8419:#9d65ff:#f4005f:#58d1eb:#c4c5b5:#625e4c:#f4005f:#98e024:#e0d561:#9d65ff:#f4005f:#58d1eb:#f6f6ef"
+        background_image = None
+        use_system_font = False
+        cursor_color = "#f6f7ec"
+        foreground_color = "#c4c5b5"
+        font = Source Code Pro Light 11
+        background_color = "#1a1a1a"
+      [[Symfonic]]
+        palette = "#000000:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff:#1b1d21:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff"
+        background_color = "#000000"
+        cursor_color = "#dc322f"
+        foreground_color = "#ffffff"
+        background_image = None
+    [layouts]
+      [[default]]
+        [[[child1]]]
+          type = Terminal
+          parent = window0
+        [[[window0]]]
+          type = Window
+          parent = ""
+    [plugins]
+```
 
 ----
 
