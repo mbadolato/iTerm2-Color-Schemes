@@ -46,6 +46,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/chalkboard.png)
 
+###CLRS###
+
+![Screenshot](screenshots/clrs.png)
+
 ###Cobalt2###
 
 ![Screenshot](screenshots/cobalt2.png)
@@ -58,6 +62,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Desert###
 
 ![Screenshot](screenshots/desert.png)
+
+###Dracula###
+
+![Screenshot](screenshots/dracula.png)
 
 ###Espresso###
 
@@ -131,6 +139,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Molokai###
 
 ![Screenshot](screenshots/molokai.png)
+
+###MonaLisa###
+
+![Screenshot](screenshots/mona_lisa.png)
 
 ###Monokai Soda###
 
@@ -294,7 +306,7 @@ The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/c
 
 The Tomorrow themes were created by [chriskempson](https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2)
 
-The Twilight theme was created (as 'twilight') by [stefri](https://gist.github.com/stefri/1183140)
+The Twilight theme was created by [stefri](https://gist.github.com/stefri/1183140)
 
 The Teerb theme was created by [Teerb](https://gist.github.com/teerb/1360453)
 
@@ -321,6 +333,12 @@ The Jellybeans theme was created by [qtpi](https://github.com/qtpi/Jellybeans.it
 The PaulMillr theme was created by [paulmillr](https://github.com/paulmillr/dotfiles/tree/master/terminal) and ported to iTerm by me
 
 The Harper theme was created by [idleberg](https://github.com/idleberg/Harper-iTerm2)
+
+The CLRS theme was created by [jasonlong](https://github.com/jasonlong/iterm-clrs)
+
+The Dracula theme was created by [zenorocha](https://github.com/zenorocha/dracula-theme)
+
+The MonaLisa theme was created by [zdj](https://github.com/zdj/themes/tree/master/iterm2)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
