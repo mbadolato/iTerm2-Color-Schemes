@@ -104,6 +104,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/ir_black.png)
 
+###Japanesque###
+
+![Screenshot](screenshots/japanesque.png)
+
 ###Jellybeans###
 
 ![Screenshot](screenshots/jellybeans.png)
@@ -339,6 +343,8 @@ The CLRS theme was created by [jasonlong](https://github.com/jasonlong/iterm-clr
 The Dracula theme was created by [zenorocha](https://github.com/zenorocha/dracula-theme)
 
 The MonaLisa theme was created by [zdj](https://github.com/zdj/themes/tree/master/iterm2)
+
+The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
