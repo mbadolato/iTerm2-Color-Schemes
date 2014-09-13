@@ -16,7 +16,7 @@ This is a set of color schemes for iTerm (aka iTerm2). Screenshots below and in 
 To install:
 
 * Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
-* Type CMD+i
+* Type CMD+i (⌘+i)
 * Navigate to Colors tab
 * Click on Load Presets
 * Click on Import
@@ -27,7 +27,7 @@ To install:
 Have a great iTerm theme? Send it to me via a Pull Request! To export your theme settings:
 
 * Launch iTerm 2
-* Type CMD+i
+* Type CMD+i (⌘+i)
 * Navigate to Colors tab
 * Click on Load Presets
 * Click on Export
