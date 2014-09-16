@@ -197,6 +197,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/seafoam_pastel.png)
 
+###Seti###
+
+![Screenshot](screenshots/seti.png)
+
 ###Smyck###
 
 ![Screenshot](screenshots/smyck.png)
@@ -345,6 +349,8 @@ The Dracula theme was created by [zenorocha](https://github.com/zenorocha/dracul
 The MonaLisa theme was created by [zdj](https://github.com/zdj/themes/tree/master/iterm2)
 
 The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors)
+
+The Seti theme was created by [philduffy](https://github.com/philduffy/seti-iterm) and slightly modified to make the ANSI blacks have a little more contrast
 
 If there are other color schemes you'd like to see included, drop me a line!
 
