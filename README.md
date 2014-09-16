@@ -350,7 +350,7 @@ The MonaLisa theme was created by [zdj](https://github.com/zdj/themes/tree/maste
 
 The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors)
 
-The Seti theme was created by [philduffy](https://github.com/philduffy/seti-iterm) and slightly modified to make the ANSI blacks have a little more contrast
+The Seti theme was created by [jesseweed](http://jesseweed.com/) and ported to iTerm2 by [philduffy](https://github.com/philduffy/seti-iterm) and slightly modified to make the ANSI blacks have a little more contrast
 
 If there are other color schemes you'd like to see included, drop me a line!
 
