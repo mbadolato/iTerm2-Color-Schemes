@@ -84,6 +84,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ![Screenshot](screenshots/harper.png)
 
 
+###Hipster Green###
+
+![Screenshot](screenshots/hipster_green.png)
+
 ###Homebrew###
 
 ![Screenshot](screenshots/homebrew.png)
@@ -103,6 +107,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###IR_Black###
 
 ![Screenshot](screenshots/ir_black.png)
+
+###Jackie Brown###
+
+![Screenshot](screenshots/jackie_brown.png)
 
 ###Japanesque###
 
@@ -351,6 +359,8 @@ The MonaLisa theme was created by [zdj](https://github.com/zdj/themes/tree/maste
 The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors)
 
 The Seti theme was created by [jesseweed](https://github.com/jesseweed/seti-syntax/) and ported to iTerm2 by [philduffy](https://github.com/philduffy/seti-iterm) and slightly modified to make the ANSI blacks have a little more contrast
+
+The Hipster Green and Jackie Brown themes were created by [Unkulunkulu](https://github.com/Unkulunkulu)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
