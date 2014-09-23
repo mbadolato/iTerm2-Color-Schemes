@@ -1,0 +1,53 @@
+#!/usr/bin/env ruby
+#
+# Converts xrdb(1) color schemes into Chrome Secure Shell preferences format
+# and prints the result to STDOUT.  Reads STDIN if no input files are given.
+#
+# Usage: xrdb2hterm FILE...
+# Usage: cat FILE... | xrdb2hterm
+# Usage: xrdb2hterm < INPUT
+#
+#--
+# Written in 2014 by Suraj N. Kurapati <https://github.com/sunaku>
+
+# expand preprocessor definitions
+input = DATA.read + ARGF.read
+defines = Hash[ input.scan /\#define\s+(\w+)\s+(.*)\s*/ ]
+while defines.any? {|k,v| input.gsub! k, v } do end
+
+# convert xrdb(1) colors to hterm
+xrdb = Hash[ input.scan /(\w+)\s*:\s*(.*)\s*/ ]
+puts <<HTERM
+term_.prefs_.set("background-color", "#{ xrdb['background'] }");
+term_.prefs_.set("foreground-color", "#{ xrdb['foreground'] }");
+term_.prefs_.set("cursor-color", "rgba(#{
+  xrdb['cursorColor'].scan(/\h{2}/).map {|s| s.to_i 16 }.join(?,)
+}, 0.5)"); /* #{ xrdb['cursorColor'] } */
+term_.prefs_.set("color-palette-overrides", #{
+  (0..15).map {|i| xrdb["color#{i}"] }
+});
+HTERM
+
+__END__
+*color0      : Ansi_0_Color
+*color1      : Ansi_1_Color
+*color2      : Ansi_2_Color
+*color3      : Ansi_3_Color
+*color4      : Ansi_4_Color
+*color5      : Ansi_5_Color
+*color6      : Ansi_6_Color
+*color7      : Ansi_7_Color
+*color8      : Ansi_8_Color
+*color9      : Ansi_9_Color
+*color10     : Ansi_10_Color
+*color11     : Ansi_11_Color
+*color12     : Ansi_12_Color
+*color13     : Ansi_13_Color
+*color14     : Ansi_14_Color
+*color15     : Ansi_15_Color
+*colorBD     : Bold_Color
+*colorIT     : Italic_Color
+*colorUL     : Underline_Color
+*foreground  : Foreground_Color
+*background  : Background_Color
+*cursorColor : Cursor_Color
