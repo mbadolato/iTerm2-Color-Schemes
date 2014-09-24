@@ -42,6 +42,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/blazer.png)
 
+###Chalk###
+
+![Screenshot](screenshots/chalk.png)
+
 ###Chalkboard###
 
 ![Screenshot](screenshots/chalkboard.png)
@@ -361,6 +365,8 @@ The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/
 The Seti theme was created by [jesseweed](https://github.com/jesseweed/seti-syntax/) and ported to iTerm2 by [philduffy](https://github.com/philduffy/seti-iterm) and slightly modified to make the ANSI blacks have a little more contrast
 
 The Hipster Green and Jackie Brown themes were created by [Unkulunkulu](https://github.com/Unkulunkulu)
+
+The Chalk theme was created by [achalv](https://github.com/achalv/chalk)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
