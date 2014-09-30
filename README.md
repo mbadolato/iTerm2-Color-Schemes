@@ -38,6 +38,18 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
 
 ##Screenshots##
+###AdventureTime###
+
+![Screenshot](screenshots/adventure_time.png)
+
+###AlienBlood###
+
+![Screenshot](screenshots/alien_blood.png)
+
+###BirdsOfParadise###
+
+![Screenshot](screenshots/birds_of_paradise.png)
+
 ###Blazer###
 
 ![Screenshot](screenshots/blazer.png)
@@ -50,6 +62,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/chalkboard.png)
 
+###Ciapre###
+
+![Screenshot](screenshots/ciapre.png)
+
 ###CLRS###
 
 ![Screenshot](screenshots/clrs.png)
@@ -58,6 +74,9 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/cobalt2.png)
 
+###CrayonPonyFish###
+
+![Screenshot](screenshots/crayon_pony_fish.png)
 
 ###Dark Pastel###
 
@@ -67,17 +86,45 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/desert.png)
 
+###DimmedMonokai###
+
+![Screenshot](screenshots/dimmed_monokai.png)
+
 ###Dracula###
 
 ![Screenshot](screenshots/dracula.png)
+
+###Earthsong###
+
+![Screenshot](screenshots/earthsong.png)
+
+###Elemental###
+
+![Screenshot](screenshots/elemental.png)
 
 ###Espresso###
 
 ![Screenshot](screenshots/espresso.png)
 
+###FishTank###
+
+![Screenshot](screenshots/fish_tank.png)
+
+###FrontEndDelight###
+
+![Screenshot](screenshots/front_end_delight.png)
+
+###FunForrest###
+
+![Screenshot](screenshots/fun_forrest.png)
+
 ###Github###
 
 ![Screenshot](screenshots/github.png)
+
+###Grape###
+
+![Screenshot](screenshots/grape.png)
 
 ###Grass###
 
@@ -87,6 +134,9 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/harper.png)
 
+###Highway###
+
+![Screenshot](screenshots/highway.png)
 
 ###Hipster Green###
 
@@ -103,6 +153,14 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Hybrid###
 
 ![Screenshot](screenshots/hybrid.png)
+
+###IC_Green_PPL###
+
+![Screenshot](screenshots/ic_green_ppl.png)
+
+###IC_Orange_PPL###
+
+![Screenshot](screenshots/ic_orange_ppl.png)
 
 ###idleToes###
 
@@ -128,6 +186,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/kibble.png)
 
+###Lavandula###
+
+![Screenshot](screenshots/lavandula.png)
+
 ###LiquidCarbon###
 
 ![Screenshot](screenshots/liquid_carbon.png)
@@ -147,6 +209,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Man Page###
 
 ![Screenshot](screenshots/man_page.png)
+
+###Medallion###
+
+![Screenshot](screenshots/medallion.png)
 
 ###Misterioso###
 
@@ -188,10 +254,13 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/obsidian.png)
 
+###Ollie###
+
+![Screenshot](screenshots/ollie.png)
+
 ###PaulMillr###
 
 ![Screenshot](screenshots/paul_millr.png)
-
 
 ###Pro###
 
@@ -205,17 +274,33 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/red_sands.png)
 
+###Royal###
+
+![Screenshot](screenshots/royal.png)
+
 ###Seafoam Pastel###
 
 ![Screenshot](screenshots/seafoam_pastel.png)
+
+###SeaShells###
+
+![Screenshot](screenshots/sea_shells.png)
 
 ###Seti###
 
 ![Screenshot](screenshots/seti.png)
 
+###Shaman###
+
+![Screenshot](screenshots/shaman.png)
+
 ###Smyck###
 
 ![Screenshot](screenshots/smyck.png)
+
+###SoftServer###
+
+![Screenshot](screenshots/soft_server.png)
 
 ###Solarized Darcula (With background image)###
 
@@ -240,6 +325,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Spring###
 
 ![Screenshot](screenshots/spring.png)
+
+###Sundried###
+
+![Screenshot](screenshots/sundried.png)
 
 ###Symfonic###
 
@@ -277,9 +366,21 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/tomorrow_night_eighties.png)
 
+###ToyChest###
+
+![Screenshot](screenshots/toy_chest.png)
+
+###Treehouse###
+
+![Screenshot](screenshots/treehouse.png)
+
 ###Twilight###
 
 ![Screenshot](screenshots/twilight.png)
+
+###Urple###
+
+![Screenshot](screenshots/urple.png)
 
 ###Vaughn###
 
