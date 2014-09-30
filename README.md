@@ -322,6 +322,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/space_gray.png)
 
+###Spacedust###
+
+![Screenshot](screenshots/spacedust.png)
+
 ###Spring###
 
 ![Screenshot](screenshots/spring.png)
@@ -417,7 +421,7 @@ The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-
 
 The themes Solarized Dark and Solarized Light come from the official [Solarized web site](http://ethanschoonover.com/solarized)
 
-The theme Obsidian was on my hard drive and I don't recall where it came from. If anyone knows, ping me and I'll link back to the author.
+The themes Obsidian and Spacedust were on my hard drive and I don't recall where they came from. If anyone knows, ping me and I'll link back to the authors.
 
 The theme Mathias was created by [mathiasbynens](https://github.com/mathiasbynens/dotfiles)
 
