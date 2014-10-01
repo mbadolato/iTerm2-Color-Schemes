@@ -262,6 +262,14 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/paul_millr.png)
 
+###Pencil Dark###
+
+![Screenshot](screenshots/pencil_dark.png)
+
+###Pencil Light###
+
+![Screenshot](screenshots/pencil_light.png)
+
 ###Pro###
 
 ![Screenshot](screenshots/pro.png)
@@ -472,6 +480,8 @@ The Seti theme was created by [jesseweed](https://github.com/jesseweed/seti-synt
 The Hipster Green and Jackie Brown themes were created by [Unkulunkulu](https://github.com/Unkulunkulu)
 
 The Chalk theme was created by [achalv](https://github.com/achalv/chalk)
+
+The Pencil Dark and Pencil Light themes were created by [mattly](https://github.com/mattly/iterm-colors-pencil)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
