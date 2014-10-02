@@ -110,6 +110,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/fish_tank.png)
 
+###Flat###
+
+![Screenshot](screenshots/flat.png)
+
 ###FrontEndDelight###
 
 ![Screenshot](screenshots/front_end_delight.png)
@@ -482,6 +486,8 @@ The Hipster Green and Jackie Brown themes were created by [Unkulunkulu](https://
 The Chalk theme was created by [achalv](https://github.com/achalv/chalk)
 
 The Pencil Dark and Pencil Light themes were created by [mattly](https://github.com/mattly/iterm-colors-pencil)
+
+The Flat theme was created by [ahmetsulek](https://github.com/ahmetsulek/flat-terminal)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
