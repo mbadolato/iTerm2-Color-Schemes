@@ -42,6 +42,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/adventure_time.png)
 
+###Afterglow###
+
+![Screenshot](screenshots/afterglow.png)
+
 ###AlienBlood###
 
 ![Screenshot](screenshots/alien_blood.png)
@@ -502,6 +506,8 @@ The Pencil Dark and Pencil Light themes were created by [mattly](https://github.
 The Flat theme was created by [ahmetsulek](https://github.com/ahmetsulek/flat-terminal)
 
 The Atom, Brogrammer, and Darkside themes were created by [bahlo](https://github.com/bahlo/iterm-colors)
+
+The Afterglow theme was created by [yabatadesign](https://github.com/YabataDesign/afterglow-itermcolors)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
