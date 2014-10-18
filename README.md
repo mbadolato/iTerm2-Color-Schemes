@@ -62,6 +62,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/blazer.png)
 
+###Broadcast###
+
+![Screenshot](screenshots/broadcast.png)
+
 ###Brogrammer###
 
 ![Screenshot](screenshots/brogrammer.png)
@@ -508,6 +512,8 @@ The Flat theme was created by [ahmetsulek](https://github.com/ahmetsulek/flat-te
 The Atom, Brogrammer, and Darkside themes were created by [bahlo](https://github.com/bahlo/iterm-colors)
 
 The Afterglow theme was created by [yabatadesign](https://github.com/YabataDesign/afterglow-itermcolors)
+
+The Broadcast theme was created by [vinkla](https://github.com/vinkla/broadcast-theme)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
