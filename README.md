@@ -38,6 +38,14 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
 
 ##Screenshots##
+###3024 Day###
+
+![Screenshot](screenshots/3024_day.png)
+
+###3024 Night###
+
+![Screenshot](screenshots/3024_night.png)
+
 ###AdventureTime###
 
 ![Screenshot](screenshots/adventure_time.png)
@@ -50,9 +58,25 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/alien_blood.png)
 
+###Argonaut###
+
+![Screenshot](screenshots/argonaut.png)
+
+###Arthur###
+
+![Screenshot](screenshots/arthur.png)
+
 ###Atom###
 
 ![Screenshot](screenshots/atom.png)
+
+###Belafonte Day###
+
+![Screenshot](screenshots/belafonte_day.png)
+
+###Belafonte Night###
+
+![Screenshot](screenshots/belafonte_night.png)
 
 ###BirdsOfParadise###
 
@@ -69,6 +93,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Brogrammer###
 
 ![Screenshot](screenshots/brogrammer.png)
+
+###C64###
+
+![Screenshot](screenshots/c64.png)
 
 ###Chalk###
 
@@ -126,6 +154,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/espresso.png)
 
+###Espresso Libre###
+
+![Screenshot](screenshots/espresso_libre.png)
+
 ###FishTank###
 
 ![Screenshot](screenshots/fish_tank.png)
@@ -153,6 +185,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Grass###
 
 ![Screenshot](screenshots/grass.png)
+
+###Hardcore###
+
+![Screenshot](screenshots/hardcore.png)
 
 ###Harper###
 
@@ -254,6 +290,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/monokai_soda.png)
 
+###N0tch2k###
+
+![Screenshot](screenshots/n0tch2k.png)
+
 ###Neopolitan###
 
 ![Screenshot](screenshots/neopolitan.png)
@@ -282,6 +322,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/ollie.png)
 
+###Paraiso Dark###
+
+![Screenshot](screenshots/paraiso_dark.png)
+
 ###PaulMillr###
 
 ![Screenshot](screenshots/paul_millr.png)
@@ -294,6 +338,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/pencil_light.png)
 
+###Pnevma###
+
+![Screenshot](screenshots/pnevma.png)
+
 ###Pro###
 
 ![Screenshot](screenshots/pro.png)
@@ -305,6 +353,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Red Sands###
 
 ![Screenshot](screenshots/red_sands.png)
+
+###Rippedcasts###
+
+![Screenshot](screenshots/rippedcasts.png)
 
 ###Royal###
 
@@ -346,6 +398,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/solarized_dark.png)
 
+###Solarized Dark Higher Contrast###
+
+![Screenshot](screenshots/solarized_dark_higher_contrast.png)
+
 ###Solarized Light###
 
 ![Screenshot](screenshots/solarized_light.png)
@@ -361,6 +417,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Spring###
 
 ![Screenshot](screenshots/spring.png)
+
+###Square###
+
+![Screenshot](screenshots/square.png)
 
 ###Sundried###
 
@@ -422,9 +482,25 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/vaughn.png)
 
+###VibrantInk###
+
+![Screenshot](screenshots/vibrant_ink.png)
+
 ###WarmNeon###
 
 ![Screenshot](screenshots/warm_neon.png)
+
+###Wez###
+
+![Screenshot](screenshots/wez.png)
+
+###Wombat###
+
+![Screenshot](screenshots/wombat.png)
+
+###Wryan###
+
+![Screenshot](screenshots/wryan.png)
 
 ###Zenburn###
 
@@ -514,6 +590,28 @@ The Atom, Brogrammer, and Darkside themes were created by [bahlo](https://github
 The Afterglow theme was created by [yabatadesign](https://github.com/YabataDesign/afterglow-itermcolors)
 
 The Broadcast theme was created by [vinkla](https://github.com/vinkla/broadcast-theme)
+
+The Arthur, N0tch2k, Pnevma, Square, and Wryan themes were created by [baskerville](https://github.com/baskerville/iTerm-2-Color-Themes)
+
+The Belafonte Day, Belafonte Night, Paraiso Dark, and C64 themes were created by [idleberg](https://github.com/idleberg)
+
+The 3024 Day and 3024 Night themes were created by [0x3024](https://github.com/0x3024)
+
+The Argonaut theme was created by [effkay](https://github.com/effkay/iTerm-argonaut)
+
+The Espresso Libre theme was created by [jurgemaister](https://github.com/jurgemaister/Espresso-Libre)
+
+The Hardcore theme was created by [hardcore](https://github.com/hardcore/iTerm-colors)
+
+The Rippedcasts theme was created by [mdw123](https://github.com/mdw123/rippedcasts)
+
+The Solorized Dark Higher Contrast theme was created by [heisters](https://gist.github.com/heisters/1015503)
+
+The VibrantInk theme was created by [asanghi](https://github.com/asanghi/vibrantinklion)
+
+The Wez theme was created by [wez](https://gist.github.com/wez/850268/)
+
+The Wombat theme was created by [djoyner](https://github.com/djoyner/iTerm2-wombat)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
