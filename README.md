@@ -8,6 +8,7 @@
 - [Extra](#extra)
   - [X11 Installation](#x11-installation)
   - [Terminator color schemes](#terminator-color-schemes)
+  - [Previewing color schemes](#previewing-color-schemes)
 
 ##Intro##
 This is a set of color schemes for iTerm (aka iTerm2). Screenshots below and in the [screenshots](screenshots/) directory.
@@ -715,6 +716,24 @@ An example config file that includes the code snippet for the Symfonic theme wou
           parent = ""
     [plugins]
 ```
+
+###Previewing color schemes###
+
+[preview.rb](tools/preview.rb) is a simple script that allows you to preview
+the color schemes without having to import them. It parses .itermcolors files
+and applies the colors to the current session using [iTerm's proprietary
+escape codes](https://iterm2.com/documentation-escape-codes.html). As noted in
+the linked page, it doesn't run on tmux or screen.
+
+```sh
+# Apply AdventureTime scheme to the current session
+tools/preview.rb schemes/AdventureTime.itermcolors
+
+# Apply the schemes in turn.
+# - Press any key to advance; hit CTRL-C or ESC to stop
+tools/preview.rb schemes/*
+```
+
 
 ----
 
