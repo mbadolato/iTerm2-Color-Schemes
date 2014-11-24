@@ -495,6 +495,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/wez.png)
 
+###WildCherry###
+
+![Screenshot](screenshots/wild_cherry.png)
+
 ###Wombat###
 
 ![Screenshot](screenshots/wombat.png)
@@ -613,6 +617,8 @@ The VibrantInk theme was created by [asanghi](https://github.com/asanghi/vibrant
 The Wez theme was created by [wez](https://gist.github.com/wez/850268/)
 
 The Wombat theme was created by [djoyner](https://github.com/djoyner/iTerm2-wombat)
+
+The WildCherry theme was created by [mashaal](https://github.com/mashaal/wild-cherry)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
