@@ -169,6 +169,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/flat.png)
 
+###Flatland###
+
+![Screenshot](screenshots/flatland.png)
+
 ###FrontEndDelight###
 
 ![Screenshot](screenshots/front_end_delight.png)
@@ -621,6 +625,8 @@ The Wez theme was created by [wez](https://gist.github.com/wez/850268/)
 The Wombat theme was created by [djoyner](https://github.com/djoyner/iTerm2-wombat)
 
 The WildCherry theme was created by [mashaal](https://github.com/mashaal/wild-cherry)
+
+The Flatland theme was created by [realchaseadams](http://www.snip2code.com/Snippet/148193/Flatland-color-scheme-for-iTerm2)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
