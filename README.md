@@ -305,6 +305,11 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/neopolitan.png)
 
+###Neutron###
+
+![Screenshot](screenshots/neutron.png)
+
+
 ###NightLion v1###
 
 ![Screenshot](screenshots/nightlion_v1.png)
@@ -627,6 +632,8 @@ The Wombat theme was created by [djoyner](https://github.com/djoyner/iTerm2-womb
 The WildCherry theme was created by [mashaal](https://github.com/mashaal/wild-cherry)
 
 The Flatland theme was created by [realchaseadams](http://www.snip2code.com/Snippet/148193/Flatland-color-scheme-for-iTerm2)
+
+The Neutron theme was created by [Ch4s3](https://github.com/Ch4s3/iTerm2-Neutron)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
