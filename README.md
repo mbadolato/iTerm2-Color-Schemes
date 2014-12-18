@@ -161,6 +161,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/espresso_libre.png)
 
+###Fideloper###
+
+![Screenshot](screenshots/fideloper.png)
+
 ###FishTank###
 
 ![Screenshot](screenshots/fish_tank.png)
@@ -634,6 +638,8 @@ The WildCherry theme was created by [mashaal](https://github.com/mashaal/wild-ch
 The Flatland theme was created by [realchaseadams](http://www.snip2code.com/Snippet/148193/Flatland-color-scheme-for-iTerm2)
 
 The Neutron theme was created by [Ch4s3](https://github.com/Ch4s3/iTerm2-Neutron)
+
+The Fideloper theme was inspired by [Fideloper](http://fideloper.com/)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
