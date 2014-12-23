@@ -257,6 +257,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/kibble.png)
 
+###Later This Evening ###
+
+![Screenshot](screenshots/later_this_evening.png)
+
 ###Lavandula###
 
 ![Screenshot](screenshots/lavandula.png)
@@ -640,6 +644,8 @@ The Flatland theme was created by [realchaseadams](http://www.snip2code.com/Snip
 The Neutron theme was created by [Ch4s3](https://github.com/Ch4s3/iTerm2-Neutron)
 
 The Fideloper theme was inspired by [Fideloper](http://fideloper.com/)
+
+The Later This Evening theme was created by [vilhalmer](https://github.com/vilhalmer/System/tree/master/terminal-themes)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
