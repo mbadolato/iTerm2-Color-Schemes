@@ -185,6 +185,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/fun_forrest.png)
 
+###Galaxy###
+
+![Screenshot](screenshots/galaxy.png)
+
 ###Github###
 
 ![Screenshot](screenshots/github.png)
@@ -646,6 +650,8 @@ The Neutron theme was created by [Ch4s3](https://github.com/Ch4s3/iTerm2-Neutron
 The Fideloper theme was inspired by [Fideloper](http://fideloper.com/)
 
 The Later This Evening theme was created by [vilhalmer](https://github.com/vilhalmer/System/tree/master/terminal-themes)
+
+The Galaxy theme was created by [jglovier](https://github.com/jglovier/galaxy-theme-iterm)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
