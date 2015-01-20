@@ -402,6 +402,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/shaman.png)
 
+###Slate###
+
+![Screenshot](screenshots/slate.png)
+
 ###Smyck###
 
 ![Screenshot](screenshots/smyck.png)
@@ -652,6 +656,8 @@ The Fideloper theme was inspired by [Fideloper](http://fideloper.com/)
 The Later This Evening theme was created by [vilhalmer](https://github.com/vilhalmer/System/tree/master/terminal-themes)
 
 The Galaxy theme was created by [jglovier](https://github.com/jglovier/galaxy-theme-iterm)
+
+The Slate theme was created by [deneshshan](https://github.com/deneshshan)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
