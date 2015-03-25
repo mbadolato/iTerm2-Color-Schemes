@@ -89,6 +89,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/blazer.png)
 
+###Borland###
+
+![Screenshot](screenshots/borland.png)
+
 ###Broadcast###
 
 ![Screenshot](screenshots/broadcast.png)
@@ -116,6 +120,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###CLRS###
 
 ![Screenshot](screenshots/clrs.png)
+
+###Cobalt Neon###
+
+![Screenshot](screenshots/cobalt_neon.png)
 
 ###Cobalt2###
 
@@ -438,6 +446,14 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/space_gray.png)
 
+###SpaceGray Eighties###
+
+![Screenshot](screenshots/spacegray_eighties.png)
+
+###SpaceGray Eighties Dull###
+
+![Screenshot](screenshots/spacegray_eighties_dull.png)
+
 ###Spacedust###
 
 ![Screenshot](screenshots/spacedust.png)
@@ -561,7 +577,9 @@ The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-
 
 The themes Solarized Dark and Solarized Light come from the official [Solarized web site](http://ethanschoonover.com/solarized)
 
-The themes Obsidian and Spacedust were on my hard drive and I don't recall where they came from. If anyone knows, ping me and I'll link back to the authors.
+The Obsidian theme was on my hard drive and I don't recall where it came from. If anyone knows, ping me and I'll link back to the author(s).
+
+The Spacedust theme was created by [mhallendal](https://github.com/mhallendal/spacedust-theme) and ported to iTerm by [Couto](https://github.com/Couto)
 
 The theme Mathias was created by [mathiasbynens](https://github.com/mathiasbynens/dotfiles)
 
@@ -658,6 +676,12 @@ The Later This Evening theme was created by [vilhalmer](https://github.com/vilha
 The Galaxy theme was created by [jglovier](https://github.com/jglovier/galaxy-theme-iterm)
 
 The Slate theme was created by [deneshshan](https://github.com/deneshshan)
+
+The SpaceGray Eighties and SpaceGray Eighties Dull themes were created by [mhkeller](https://github.com/mhkeller/spacegray-eighties-iterm)
+
+The Borland theme was created by [delip](https://gist.github.com/delip/9e16c606d9331d69d681)
+
+The Cobalt Neon theme was created by [vazquez](https://github.com/vazquez/cobalt-neon-iterm)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
