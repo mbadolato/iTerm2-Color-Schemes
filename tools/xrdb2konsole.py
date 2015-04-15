@@ -89,32 +89,5 @@ if __name__ == "__main__":
 
             output.write(build_konsole_color(color_name, *color_rgb))
 
-
-        # Search palette
-#        colors = sorted(filter(lambda x: color_regex.match(x), lines),
-#                        key=lambda x: int(color_regex.match(x).group(1)))
-#
-#        # Create the color string
-#        colors = ":".join(map(lambda x: color_regex.match(x).group(2), colors))
-#
-#        scheme = """
-#[[{name}]]
-#    palette = "{pl}"
-#    background_color = "{bg}"
-#    cursor_color = "{cr}"
-#    foreground_color = "{fg}"
-#    background_image = None
-#"""
-#
-#        output = scheme.format(name=xrdb_regex.match(i).group(1),
-#                               pl=colors,
-#                               bg=bg_color,
-#                               cr=cursor_color,
-#                               fg=fg_color)
-#
-#        if not args.output_path:
-#            print(output)
-#        else:
-#            dest = os.path.join(args.output_path, xrdb_regex.match(i).group(1))
-#            with open('{0}.config'.format(dest), 'w+') as f:
-#                f.write(output)
+        if args.output_path:
+            output.close()
