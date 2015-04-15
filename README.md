@@ -786,6 +786,12 @@ An example config file that includes the code snippet for the Symfonic theme wou
     [plugins]
 ```
 
+###Konsole color schemes###
+
+Copy the themes from the `konsole` directory to `$HOME/.config/konsole`, restart Konsole and choose your new theme from the profile preferences window.
+
+If you want to make the themes available to all users, copy the .colorscheme files to `/usr/share/konsole`.
+
 ###Previewing color schemes###
 
 [preview.rb](tools/preview.rb) is a simple script that allows you to preview
