@@ -9,6 +9,7 @@
 - [Credits](#credits)
 - [Extra](#extra)
   - [X11 Installation](#x11-installation)
+  - [Konsole color schemes](#konsole-color-schemes)
   - [Terminator color schemes](#terminator-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
 
