@@ -70,6 +70,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/arthur.png)
 
+###AtelierSulphurpool###
+
+![Screenshot](screenshots/atelier-sulphurpool_dark.png)
+
 ###Atom###
 
 ![Screenshot](screenshots/atom.png)
@@ -683,6 +687,8 @@ The SpaceGray Eighties and SpaceGray Eighties Dull themes were created by [mhkel
 The Borland theme was created by [delip](https://gist.github.com/delip/9e16c606d9331d69d681)
 
 The Cobalt Neon theme was created by [vazquez](https://github.com/vazquez/cobalt-neon-iterm)
+
+The AtelierSulphurpool theme was created by [atelierbram](http://atelierbram.github.io/syntax-highlighting/atelier-schemes/sulphurpool/)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
