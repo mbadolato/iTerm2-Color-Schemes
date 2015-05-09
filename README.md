@@ -78,6 +78,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/atom.png)
 
+###Batman###
+
+![Screenshot](screenshots/batman.png)
+
 ###Belafonte Day###
 
 ![Screenshot](screenshots/belafonte_day.png)
@@ -463,6 +467,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/spacedust.png)
 
+###Spiderman###
+
+![Screenshot](screenshots/spiderman.png)
+
 ###Spring###
 
 ![Screenshot](screenshots/spring.png)
@@ -490,6 +498,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Thayer Bright###
 
 ![Screenshot](screenshots/thayer_bright.png)
+
+###The Hulk###
+
+![Screenshot](screenshots/the_hulk.png)
 
 ###Tomorrow###
 
@@ -689,6 +701,8 @@ The Borland theme was created by [delip](https://gist.github.com/delip/9e16c606d
 The Cobalt Neon theme was created by [vazquez](https://github.com/vazquez/cobalt-neon-iterm)
 
 The AtelierSulphurpool theme was created by [atelierbram](http://atelierbram.github.io/syntax-highlighting/atelier-schemes/sulphurpool/)
+
+The Batman, Spiderman, and The Hulk themes were created by [pyrophos](https://github.com/pyrophos)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
