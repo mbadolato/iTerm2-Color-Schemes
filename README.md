@@ -170,6 +170,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/elemental.png)
 
+###ENCOM###
+
+![Screenshot](screenshots/encom.png)
+
 ###Espresso###
 
 ![Screenshot](screenshots/espresso.png)
@@ -703,6 +707,8 @@ The Cobalt Neon theme was created by [vazquez](https://github.com/vazquez/cobalt
 The AtelierSulphurpool theme was created by [atelierbram](http://atelierbram.github.io/syntax-highlighting/atelier-schemes/sulphurpool/)
 
 The Batman, Spiderman, and The Hulk themes were created by [pyrophos](https://github.com/pyrophos)
+
+The ENCOM theme was created by [Josh Braun](http://wideaperture.net)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
