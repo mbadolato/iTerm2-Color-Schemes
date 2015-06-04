@@ -198,6 +198,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/flatland.png)
 
+###Floraverse###
+
+![Screenshot](screenshots/floraverse.png)
+
 ###FrontEndDelight###
 
 ![Screenshot](screenshots/front_end_delight.png)
@@ -302,13 +306,21 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/liquid_carbon_transparent_inverse.png)
 
-###Mathias###
-
-![Screenshot](screenshots/mathias.png)
-
 ###Man Page###
 
 ![Screenshot](screenshots/man_page.png)
+
+###Material###
+
+![Screenshot](screenshots/material.png)
+
+###MaterialDark###
+
+![Screenshot](screenshots/material_dark.png)
+
+###Mathias###
+
+![Screenshot](screenshots/mathias.png)
 
 ###Medallion###
 
@@ -709,6 +721,10 @@ The AtelierSulphurpool theme was created by [atelierbram](http://atelierbram.git
 The Batman, Spiderman, and The Hulk themes were created by [pyrophos](https://github.com/pyrophos)
 
 The ENCOM theme was created by [Josh Braun](http://wideaperture.net)
+
+The Floraverse theme was created by [papayakitty](http://floraverse.com/)
+
+The Material and MaterialDark themes were created by [stoeffel](https://github.com/stoeffel/material-iterm)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
