@@ -367,13 +367,18 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/novel.png)
 
+###Obsidian###
+
+![Screenshot](screenshots/obsidian.png)
+
 ###Ocean###
 
 ![Screenshot](screenshots/ocean.png)
 
-###Obsidian###
 
-![Screenshot](screenshots/obsidian.png)
+###OceanicMaterial###
+
+![Screenshot](screenshots/oceanic_material.png)
 
 ###Ollie###
 
@@ -725,6 +730,8 @@ The ENCOM theme was created by [Josh Braun](http://wideaperture.net)
 The Floraverse theme was created by [papayakitty](http://floraverse.com/)
 
 The Material and MaterialDark themes were created by [stoeffel](https://github.com/stoeffel/material-iterm)
+
+The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpatel)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
