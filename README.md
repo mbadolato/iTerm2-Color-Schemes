@@ -737,6 +737,8 @@ The Material and MaterialDark themes were created by [stoeffel](https://github.c
 
 The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpatel)
 
+The AtomOneLight theme was created by [iamstarkov](https://github.com/iamstarkov)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
