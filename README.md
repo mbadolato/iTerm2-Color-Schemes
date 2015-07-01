@@ -37,7 +37,7 @@ Have a great iTerm theme? Send it to me via a Pull Request! To export your theme
 * Click on Export
 * Save the .itermcolors file
 
-To include a screenshot, please generate the output using the [screenshotTable.sh script](tools/screenshotTable.sh) in the ```tools``` directory. 
+To include a screenshot, please generate the output using the [screenshotTable.sh script](tools/screenshotTable.sh) in the ```tools``` directory.
 
 **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
 
@@ -77,6 +77,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ###Atom###
 
 ![Screenshot](screenshots/atom.png)
+
+###Atom One Light###
+
+![Screenshot](screenshots/atom_one_light.png)
 
 ###Batman###
 
@@ -865,4 +869,3 @@ tools/preview.rb schemes/*
 iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes | iTerm Themes | iTerm2 Themes | iTerm 2 Themes
 
 [![Analytics](https://ga-beacon.appspot.com/UA-30661340-2/mbadolato/iTerm2-Color-Schemes?pixel)](https://github.com/igrigorik/ga-beacon)
-
