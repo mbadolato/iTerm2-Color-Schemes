@@ -404,6 +404,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/pencil_light.png)
 
+###Piatto Light###
+
+![Screenshot](screenshots/piatto_light.png)
+
 ###Pnevma###
 
 ![Screenshot](screenshots/pnevma.png)
@@ -738,6 +742,8 @@ The Material and MaterialDark themes were created by [stoeffel](https://github.c
 The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpatel)
 
 The AtomOneLight theme was created by [iamstarkov](https://github.com/iamstarkov)
+
+The Piatto Light theme was created by [kovv](https://github.com/kovv)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
