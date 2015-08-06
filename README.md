@@ -617,7 +617,7 @@ The theme Hurtado was found [here](https://github.com/juanghurtado/dotfiles).
 
 The theme Molokai was based on the [vim colorscheme](https://github.com/tomasr/molokai) of the same name.
 
-The theme Mokokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
+The theme Monokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
 
 The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-Color-Schemes)
 
