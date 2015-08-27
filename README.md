@@ -11,6 +11,7 @@
   - [X11 Installation](#x11-installation)
   - [Konsole color schemes](#konsole-color-schemes)
   - [Terminator color schemes](#terminator-color-schemes)
+  - [Mac OS Terminal color schemes](#terminal-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
 
 ##Intro##
