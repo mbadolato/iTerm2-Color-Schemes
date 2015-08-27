@@ -854,6 +854,9 @@ Copy the themes from the `konsole` directory to `$HOME/.config/konsole`, restart
 
 If you want to make the themes available to all users, copy the .colorscheme files to `/usr/share/konsole`.
 
+###Terminal color schemes###
+Just double click on selected theme in `terminal` directory
+
 ###Previewing color schemes###
 
 [preview.rb](tools/preview.rb) is a simple script that allows you to preview
