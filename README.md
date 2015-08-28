@@ -11,6 +11,7 @@
   - [X11 Installation](#x11-installation)
   - [Konsole color schemes](#konsole-color-schemes)
   - [Terminator color schemes](#terminator-color-schemes)
+  - [Mac OS Terminal color schemes](#terminal-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
 
 ##Intro##
@@ -853,6 +854,9 @@ An example config file that includes the code snippet for the Symfonic theme wou
 Copy the themes from the `konsole` directory to `$HOME/.config/konsole`, restart Konsole and choose your new theme from the profile preferences window.
 
 If you want to make the themes available to all users, copy the .colorscheme files to `/usr/share/konsole`.
+
+###Terminal color schemes###
+Just double click on selected theme in `terminal` directory
 
 ###Previewing color schemes###
 
