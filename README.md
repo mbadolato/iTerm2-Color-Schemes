@@ -163,6 +163,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/dimmed_monokai.png)
 
+###DotGov###
+
+![Screenshot](screenshots/dot_gov.png)
+
 ###Dracula###
 
 ![Screenshot](screenshots/dracula.png)
@@ -745,6 +749,8 @@ The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpa
 The AtomOneLight theme was created by [iamstarkov](https://github.com/iamstarkov)
 
 The Piatto Light theme was created by [kovv](https://github.com/kovv)
+
+The DotGov theme was inspired by the color palette used in the [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/visual-style/)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
