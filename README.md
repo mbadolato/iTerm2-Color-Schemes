@@ -227,6 +227,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/github.png)
 
+##Glacier###
+
+![Screenshot](screenshots/glacier.png)
+
 ###Grape###
 
 ![Screenshot](screenshots/grape.png)
@@ -686,7 +690,7 @@ The Pencil Dark and Pencil Light themes were created by [mattly](https://github.
 
 The Flat theme was created by [ahmetsulek](https://github.com/ahmetsulek/flat-terminal)
 
-The Atom, Brogrammer, and Darkside themes were created by [bahlo](https://github.com/bahlo/iterm-colors)
+The Atom, Brogrammer, Glacier and Darkside themes were created by [bahlo](https://github.com/bahlo/iterm-colors)
 
 The Afterglow theme was created by [yabatadesign](https://github.com/YabataDesign/afterglow-itermcolors)
 
@@ -820,7 +824,7 @@ To install under the [X Window System](http://www.x.org/):
 
 ###Terminator color schemes###
 
-Edit your Terminator configuration file (located in: `$HOME/.config/terminator/config`) and add the configurations for the theme(s) you'd like to use the ``[profiles]`` section. The `terminator/` directory contains the config snippets you'll need. Just paste the configurations into the `[profiles]` sections, and you're good to go!  
+Edit your Terminator configuration file (located in: `$HOME/.config/terminator/config`) and add the configurations for the theme(s) you'd like to use the ``[profiles]`` section. The `terminator/` directory contains the config snippets you'll need. Just paste the configurations into the `[profiles]` sections, and you're good to go!
 
 At a minimum, this is all you need. You can customize the fonts and other aspects as well, if you wish. See the Terminator documentation for more details.
 
