@@ -1,7 +1,5 @@
 #iTerm Color Schemes#
 
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/mbadolato/)
-
 - [Intro](#intro)
 - [Installation Instructions](#installation-instructions)
 - [Contribute](#contribute)
