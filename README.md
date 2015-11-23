@@ -171,7 +171,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ###Duotone Dark###
 
-![Screenshot](screenshots/duotone-dark.png)
+![Screenshot](screenshots/duotone_dark.png)
 
 ###Earthsong###
 
