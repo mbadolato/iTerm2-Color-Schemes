@@ -399,7 +399,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/ollie.png)
 
-###Paraiso Dark###
+###Parasio Dark###
 
 ![Screenshot](screenshots/paraiso_dark.png)
 
