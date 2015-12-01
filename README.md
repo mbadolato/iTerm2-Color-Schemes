@@ -297,6 +297,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/jellybeans.png)
 
+###JetBrains Darcula###
+
+![Screenshot](screenshots/jetbrains_darcula.png)
+
 ###Kibble###
 
 ![Screenshot](screenshots/kibble.png)
@@ -759,6 +763,8 @@ The Piatto Light theme was created by [kovv](https://github.com/kovv)
 The DotGov theme was inspired by the color palette used in the [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/visual-style/)
 
 The DuoTone Dark theme was created by [chibicode](http://chibicode.com) based on [simurai](https://github.com/simurai)'s [duotone-dark](https://github.com/simurai/duotone-dark-syntax) Atom theme.
+
+The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
