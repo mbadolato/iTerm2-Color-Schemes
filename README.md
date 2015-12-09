@@ -105,6 +105,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/borland.png)
 
+###Bright Lights###
+
+![Screenshot](screenshots/bright_lights.png)
+
 ###Broadcast###
 
 ![Screenshot](screenshots/broadcast.png)
@@ -765,6 +769,8 @@ The DotGov theme was inspired by the color palette used in the [U.S. Web Design 
 The DuoTone Dark theme was created by [chibicode](http://chibicode.com) based on [simurai](https://github.com/simurai)'s [duotone-dark](https://github.com/simurai/duotone-dark-syntax) Atom theme.
 
 The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
+
+The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
