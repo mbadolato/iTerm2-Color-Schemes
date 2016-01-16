@@ -491,6 +491,19 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/solarized_dark.png)
 
+###Solarized Dark - Patched###
+
+Some applications assume the ANSI color code 8 is a gray color. Solarized treats
+this code as equal to the background. This theme is for people who prefer the
+former. See issues [#59][issue-59], [#62][issue-62], and [#63][issue-63] for
+more information.
+
+![Screenshot](screenshots/solarized_dark_patched.png)
+
+[issue-59]: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/59
+[issue-62]: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/62
+[issue-63]: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/63
+
 ###Solarized Dark Higher Contrast###
 
 ![Screenshot](screenshots/solarized_dark_higher_contrast.png)
