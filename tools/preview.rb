@@ -21,8 +21,30 @@ if ENV.has_key? 'TMUX'
 end
 
 preview = files.length > 1
+char_input = ''
+moving_forward = true
+file_stack = []
+file_stack_back = []
 until files.empty?
-  file = files.shift
+  if char_input == 'b' and file_stack.size != 0
+      if moving_forward
+        file_stack_back.push(file_stack.pop)
+      end
+      moving_forward = false
+      file = file_stack.pop
+      file_stack_back.push(file)
+    elsif file_stack_back.size != 0
+        if not(moving_forward)
+            file_stack.push(file_stack_back.pop)
+        end
+        moving_forward = true
+        file = file_stack_back.pop
+        file_stack.push(file)
+  else
+    moving_forward = true
+    file = files.shift
+    file_stack.push(file)
+  end
   print "[#{File.basename file, '.*'}] " if preview
   begin
     colors = {}
@@ -59,7 +81,8 @@ until files.empty?
         'cursor text'   => 'm',
       }.fetch(type, '%x' % type.to_i) << rgb << "\e\\"
     end
-    break if files.empty? || [3.chr, "\e"].include?(IO.console.getch)
+    char_input = IO.console.getch
+    break if files.empty? || [3.chr, "\e"].include?(char_input)
   rescue Exception
     print '(X) '
   end
