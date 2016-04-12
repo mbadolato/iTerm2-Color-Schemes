@@ -120,6 +120,10 @@ Screenshots
 
 ![image](espresso_libre.png)
 
+`firewatch.png`
+
+![image](firewatch.png)
+
 `fish_tank.png`
 
 ![image](fish_tank.png)

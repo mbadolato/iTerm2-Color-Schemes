@@ -201,6 +201,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/fideloper.png)
 
+###Firewatch###
+
+![Screenshot](screenshots/firewatch.png)
+
 ###FishTank###
 
 ![Screenshot](screenshots/fish_tank.png)
@@ -790,6 +794,8 @@ The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
 The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 
 The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
+
+The Firewatch theme was created by [Sebastian Szturo](https://github.com/SebastianSzturo) as an [atom syntax theme](https://atom.io/themes/firewatch-syntax) and ported to an iTerm scheme by [Ben Styles](https://github.com/leeds-ebooks). It was originally inspired by the [Firewatch game](http://www.firewatchgame.com/).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
