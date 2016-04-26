@@ -365,6 +365,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/monokai_soda.png)
 
+###Monokai Vivid###
+
+![Screenshot](screenshots/monokai_vivid.png)
+
 ###N0tch2k###
 
 ![Screenshot](screenshots/n0tch2k.png)
@@ -654,6 +658,8 @@ The theme Hurtado was found [here](https://github.com/juanghurtado/dotfiles).
 The theme Molokai was based on the [vim colorscheme](https://github.com/tomasr/molokai) of the same name.
 
 The theme Monokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
+
+The theme Monokai Vivid was created by [vitalymak](https://github.com/vitalymak/iTerm2-Color-Schemes).
 
 The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-Color-Schemes)
 

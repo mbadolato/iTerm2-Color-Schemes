@@ -256,6 +256,10 @@ Screenshots
 
 ![image](monokai_soda.png)
 
+`monokai_vivid.png`
+
+![image](monokai_vivid.png)
+
 `n0tch2k.png`
 
 ![image](n0tch2k.png)
