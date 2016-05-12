@@ -1,3 +1,4 @@
+
 Screenshots
 ===
 `3024_day.png`
@@ -287,6 +288,10 @@ Screenshots
 `ollie.png`
 
 ![image](ollie.png)
+
+`pandora.png`
+
+![image](pandora.png)
 
 `paraiso_dark.png`
 
