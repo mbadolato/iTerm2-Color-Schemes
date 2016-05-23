@@ -82,7 +82,7 @@ struct iTermColorComponent {
   static let Blue = "Blue Component"
 }
 
-func itermColorSchemeToTerminalColorScheme(itermColorScheme: NSDictionary, #name: String) -> NSDictionary {
+func itermColorSchemeToTerminalColorScheme(itermColorScheme: NSDictionary, name: String) -> NSDictionary {
   var terminalColorScheme: [String: AnyObject] = [
     "name" : name,
     "type" : "Window Settings",
@@ -90,7 +90,7 @@ func itermColorSchemeToTerminalColorScheme(itermColorScheme: NSDictionary, #name
     "columnCount": 90,
     "rowCount": 50,
   ]
-  if let font = archivedFontWithName("PragmataPro", 14) {
+  if let font = archivedFontWithName("PragmataPro", size: 14) {
     terminalColorScheme["Font"] = font
   }
   for (rawKey, rawValue) in itermColorScheme {
@@ -137,39 +137,24 @@ func arguments() -> [String] {
   return args
 }
 
-extension String {
-  var fullPath: String {
-    get {
-      let path = stringByStandardizingPath
-      var directory = path.stringByDeletingLastPathComponent
-      if count(directory) == 0 {
-        directory = NSFileManager.defaultManager().currentDirectoryPath
-      }
-      return directory.stringByAppendingPathComponent(path)
-    }
-  }
-}
 
-func convertToTerminalColors(itermFile: String, terminalFile: String) {
+func convertToTerminalColors(itermFile: String, terminalFile: NSString) {
   if let itermScheme = NSDictionary(contentsOfFile: itermFile) {
-    println("converting \(itermFile) -> \(terminalFile)")
-    let terminalName = terminalFile.lastPathComponent.stringByDeletingPathExtension
+    print("converting \(itermFile) -> \(terminalFile)")
+    let terminalName = ((terminalFile.lastPathComponent) as NSString).stringByDeletingPathExtension
     let terminalScheme = itermColorSchemeToTerminalColorScheme(itermScheme, name: terminalName)
-    terminalScheme.writeToFile(terminalFile, atomically: true)
+    terminalScheme.writeToFile(terminalFile as String, atomically: true)
   } else {
-    println("unable to load \(itermFile)")
+    print("unable to load \(itermFile)")
   }
 }
 
 let args = arguments()
 if args.count > 0 {
   for itermFile in args {
-    let path = itermFile.fullPath
-    let folder = path.stringByDeletingLastPathComponent
-    let schemeName = path.lastPathComponent.stringByDeletingPathExtension
-    let terminalPath = "\(folder)/\(schemeName).terminal"
-    convertToTerminalColors(path, terminalPath)
+    let terminalFilePath = (itermFile as NSString).stringByDeletingPathExtension + ".terminal"
+    convertToTerminalColors(itermFile, terminalFile: terminalFilePath)
   }
 } else {
-  println("usage: iTermColorsToTerminalColors FILE.itermcolors [...]")
+  print("usage: iTermColorsToTerminalColors FILE.itermcolors [...]")
 }
