@@ -407,6 +407,14 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/ollie.png)
 
+###One Half Dark###
+
+![Screenshot](screenshots/onehalfdark.png)
+
+###One Half Light###
+
+![Screenshot](screenshots/onehalflight.png)
+
 ###Parasio Dark###
 
 ![Screenshot](screenshots/paraiso_dark.png)
@@ -790,6 +798,8 @@ The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
 The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 
 The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
+
+The One Half themes were created by [sonph](https://github.com/sonph), based on Atom's One with some tweakings.
 
 If there are other color schemes you'd like to see included, drop me a line!
 

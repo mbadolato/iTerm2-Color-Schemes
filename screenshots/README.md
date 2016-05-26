@@ -288,6 +288,14 @@ Screenshots
 
 ![image](ollie.png)
 
+`onehalfdark.png`
+
+![image](onehalfdark.png)
+
+`onehalflight.png`
+
+![image](onehalflight.png)
+
 `paraiso_dark.png`
 
 ![image](paraiso_dark.png)
