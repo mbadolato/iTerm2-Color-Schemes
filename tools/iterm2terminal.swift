@@ -47,7 +47,7 @@ enum TerminalColors: String {
   case AnsiBrightWhite     = "ANSIBrightWhiteColor"
   case Background          = "BackgroundColor"
   case Text                = "TextColor"
-  case BoldText            = "BoldTextColor"
+  case BoldText            = "TextBoldColor"
   case Selection           = "SelectionColor"
   case Cursor              = "CursorColor"
 }
