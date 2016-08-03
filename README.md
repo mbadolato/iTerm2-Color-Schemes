@@ -502,7 +502,7 @@ more information.
 
 [issue-59]: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/59
 [issue-62]: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/62
-[issue-63]: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/63
+[issue-63]: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/63
 
 ###Solarized Dark Higher Contrast###
 
@@ -639,13 +639,13 @@ more information.
 ## Credits
 The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the excption of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
 
-The scheme idleToes was inspired by the [idleFingers](http://idlefingers.co.uk/) TextMate theme and suggested for inclusion by Seth Wilson.
+The scheme idleToes was inspired by the [idleFingers](http://www.idlefingers.co.uk/) TextMate theme and suggested for inclusion by Seth Wilson.
 
-The scheme Zenburn was inspired by the [Zenburn](http://snk.tuxfamily.org/log/zenburn-terminal-color-scheme.html) version created by Suraj N. Kurapati.
+The scheme Zenburn was inspired by the [Zenburn](http://sunaku.github.io/zenburn-terminal-color-scheme.html) version created by Suraj N. Kurapati.
 
 The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
 
-The scheme Github was inspired by the color theme palette used at [Github](http://github.com/) for their UI and in some of their mascot images.
+The scheme Github was inspired by the color theme palette used at [Github](https://github.com/) for their UI and in some of their mascot images.
 
 The scheme Solarized Darcula was inspired by the color theme created by [@rickhanlonii](https://github.com/rickhanlonii). There are two screenshots below; one with a background and one without. The background image is included in the backgrounds/ directory and the image must be manually set on the profile's Preferences->Window tab. It's hard to see from the screenshot, but it looks great!
 
@@ -707,7 +707,7 @@ The themes AdventureTime, AlienBlood, BirdsOfParadise, Ciapre, CrayonPonyFish, D
 
 The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors)
 
-The Seti theme was created by [jesseweed](https://github.com/jesseweed/seti-syntax/) and ported to iTerm2 by [philduffy](https://github.com/philduffy/seti-iterm) and slightly modified to make the ANSI blacks have a little more contrast
+The Seti theme was created by [jesseweed](https://github.com/jesseweed/seti-syntax/) and ported to iTerm2 by [philduffy](https://github.com/willmanduffy/seti-iterm) and slightly modified to make the ANSI blacks have a little more contrast
 
 The Hipster Green and Jackie Brown themes were created by [Unkulunkulu](https://github.com/Unkulunkulu)
 
@@ -781,7 +781,7 @@ The AtomOneLight theme was created by [iamstarkov](https://github.com/iamstarkov
 
 The Piatto Light theme was created by [kovv](https://github.com/kovv)
 
-The DotGov theme was inspired by the color palette used in the [U.S. Web Design Standards](https://playbook.cio.gov/designstandards/visual-style/)
+The DotGov theme was inspired by the color palette used in the [U.S. Web Design Standards](https://standards.usa.gov/visual-style/)
 
 The DuoTone Dark theme was created by [chibicode](http://chibicode.com) based on [simurai](https://github.com/simurai)'s [duotone-dark](https://github.com/simurai/duotone-dark-syntax) Atom theme.
 
@@ -795,7 +795,7 @@ If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
 ###X11 Installation###
-To install under the [X Window System](http://www.x.org/):
+To install under the [X Window System](https://www.x.org/):
 
 * Import the .xrdb file of the scheme you'd like to use:
 
