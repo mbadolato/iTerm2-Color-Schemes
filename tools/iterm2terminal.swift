@@ -1,4 +1,4 @@
-#!/usr/bin/xcrun swift
+#!/usr/bin/env swift
 
 import AppKit
 
@@ -82,79 +82,68 @@ struct iTermColorComponent {
   static let Blue = "Blue Component"
 }
 
-func itermColorSchemeToTerminalColorScheme(itermColorScheme: NSDictionary, name: String) -> NSDictionary {
+func itermColorSchemeToTerminalColorScheme(_ itermColorScheme: NSDictionary, name: String) -> NSDictionary {
   var terminalColorScheme: [String: AnyObject] = [
-    "name" : name,
-    "type" : "Window Settings",
-    "ProfileCurrentVersion" : 2.04,
-    "columnCount": 90,
-    "rowCount": 50,
-  ]
+    "name" : name as AnyObject,
+    "type" : "Window Settings" as AnyObject,
+    "ProfileCurrentVersion" : 2.04 as AnyObject,
+    "columnCount": 90 as AnyObject,
+    "rowCount": 50 as AnyObject,
+    ]
   if let font = archivedFontWithName("PragmataPro", size: 14) {
-    terminalColorScheme["Font"] = font
+    terminalColorScheme["Font"] = font as AnyObject?
   }
   for (rawKey, rawValue) in itermColorScheme {
     if let name = rawKey as? String {
       if let key = iTermColors(rawValue: name) {
         if let terminalKey = iTermColor2TerminalColor[key] {
-          if let itermDict = rawValue as? NSDictionary {
+          if let itermDict = rawValue as? [String: AnyObject] {
             let (r, g, b) = (
               floatValue(itermDict[iTermColorComponent.Red]),
               floatValue(itermDict[iTermColorComponent.Green]),
               floatValue(itermDict[iTermColorComponent.Blue]))
             let color = NSColor(deviceRed: r, green: g, blue: b, alpha: 1)
-            let colorData = NSKeyedArchiver.archivedDataWithRootObject(color)
-            terminalColorScheme[terminalKey.rawValue] = colorData
+            let colorData = NSKeyedArchiver.archivedData(withRootObject: color)
+            terminalColorScheme[terminalKey.rawValue] = colorData as AnyObject
           }
         }
       }
     }
   }
-  return terminalColorScheme
+  return terminalColorScheme as NSDictionary
 }
 
-func archivedFontWithName(name: String, size: CGFloat) -> NSData? {
+func archivedFontWithName(_ name: String, size: CGFloat) -> Data? {
   if let font = NSFont(name: name, size: size) {
-    return NSKeyedArchiver.archivedDataWithRootObject(font)
+    return NSKeyedArchiver.archivedData(withRootObject: font)
   }
   return nil
 }
 
-func floatValue(value: AnyObject?) -> CGFloat {
+func floatValue(_ value: AnyObject?) -> CGFloat {
   if let num = value as? CGFloat {
     return num
   }
   return 0
 }
 
-func arguments() -> [String] {
-  var args: [String] = []
-  for i in 1...Process.argc {
-    if let arg = String.fromCString(Process.unsafeArgv[Int(i)]) {
-      args.append(arg)
-    } 
-  }
-  return args
-}
-
-
-func convertToTerminalColors(itermFile: String, terminalFile: NSString) {
+func convertToTerminalColors(_ itermFile: String, terminalFile: NSString) {
   if let itermScheme = NSDictionary(contentsOfFile: itermFile) {
     print("converting \(itermFile) -> \(terminalFile)")
-    let terminalName = ((terminalFile.lastPathComponent) as NSString).stringByDeletingPathExtension
+    let terminalName = ((terminalFile.lastPathComponent) as NSString).deletingPathExtension
     let terminalScheme = itermColorSchemeToTerminalColorScheme(itermScheme, name: terminalName)
-    terminalScheme.writeToFile(terminalFile as String, atomically: true)
+    terminalScheme.write(toFile: terminalFile as String, atomically: true)
   } else {
     print("unable to load \(itermFile)")
   }
 }
 
-let args = arguments()
-if args.count > 0 {
-  for itermFile in args {
-    let terminalFilePath = (itermFile as NSString).stringByDeletingPathExtension + ".terminal"
-    convertToTerminalColors(itermFile, terminalFile: terminalFilePath)
+if CommandLine.argc > 1 {
+  for itermFile in CommandLine.arguments {
+    let terminalFilePath = (itermFile as NSString).deletingPathExtension + ".terminal"
+    convertToTerminalColors(itermFile, terminalFile: terminalFilePath as NSString)
   }
 } else {
   print("usage: iTermColorsToTerminalColors FILE.itermcolors [...]")
 }
+
