@@ -245,6 +245,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/grass.png)
 
+###Hacktober###
+
+![Screenshot](screenshots/hacktober.png)
+
 ###Hardcore###
 
 ![Screenshot](screenshots/hardcore.png)
