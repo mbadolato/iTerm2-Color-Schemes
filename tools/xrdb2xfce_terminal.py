@@ -57,11 +57,11 @@ if __name__ == "__main__":
 
         scheme = """
 [Scheme]
-Name="{name}"
-ColorForeground="{fg}"
-ColorBackground="{bg}"
-ColorCursor="{cr}"
-ColorPalette = "{pl}"
+Name={name}
+ColorForeground={fg}
+ColorBackground={bg}
+ColorCursor={cr}
+ColorPalette={pl}
 """
 
         output = scheme.format(name=xrdb_regex.match(i).group(1),
