@@ -233,7 +233,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/github.png)
 
-##Glacier###
+###Glacier###
 
 ![Screenshot](screenshots/glacier.png)
 
@@ -377,7 +377,6 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/neutron.png)
 
-
 ###NightLion v1###
 
 ![Screenshot](screenshots/nightlion_v1.png)
@@ -407,7 +406,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/ollie.png)
 
-###Parasio Dark###
+###Paraiso Dark###
 
 ![Screenshot](screenshots/paraiso_dark.png)
 
