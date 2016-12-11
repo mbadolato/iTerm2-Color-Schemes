@@ -20,20 +20,20 @@ To install:
 
 * Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
 * Type CMD+i (⌘+i)
-* Navigate to Colors tab
-* Click on Load Presets
-* Click on Import
+* Navigate to **Colors** tab
+* Click on **Color Presets**
+* Click on **Import**
 * Select the .itermcolors file(s) of the scheme(s) you'd like to use
-* Click on Load Presets and choose a color scheme
+* Click on **Color Presets** and choose a color scheme
 
 ##Contribute##
 Have a great iTerm theme? Send it to me via a Pull Request! To export your theme settings:
 
 * Launch iTerm 2
 * Type CMD+i (⌘+i)
-* Navigate to Colors tab
-* Click on Load Presets
-* Click on Export
+* Navigate to **Colors** tab
+* Click on **Color Presets**
+* Click on **Export**
 * Save the .itermcolors file
 
 To include a screenshot, please generate the output using the [screenshotTable.sh script](tools/screenshotTable.sh) in the ```tools``` directory.
