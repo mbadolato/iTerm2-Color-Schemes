@@ -197,6 +197,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/espresso_libre.png)
 
+###Fahrenheit###
+
+![Screenshot](screenshots/fahrenheit.png)
+
 ###Fideloper###
 
 ![Screenshot](screenshots/fideloper.png)
@@ -789,6 +793,8 @@ The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
 The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 
 The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
+
+The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
 
 If there are other color schemes you'd like to see included, drop me a line!
 
