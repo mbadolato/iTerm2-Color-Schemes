@@ -454,6 +454,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/royal.png)
 
+###Ryuuko###
+
+![Screenshot](screenshots/ryuuko.png)
+
 ###Seafoam Pastel###
 
 ![Screenshot](screenshots/seafoam_pastel.png)
@@ -795,6 +799,8 @@ The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
 
 The FirefoxDev theme was created by [Or3stis](https://github.com/Or3stis)
+
+The Ryuuko theme was created by [dylanaraps](https://github.com/dylanaraps) and added by [iandrewt](https://github.com/iandrewt)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
