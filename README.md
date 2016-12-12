@@ -205,6 +205,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/firefox_dev.png)
 
+###Firewatch###
+
+![Screenshot](screenshots/firewatch.png)
+
 ###FishTank###
 
 ![Screenshot](screenshots/fish_tank.png)
@@ -801,6 +805,8 @@ The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Ma
 The FirefoxDev theme was created by [Or3stis](https://github.com/Or3stis)
 
 The Ryuuko theme was created by [dylanaraps](https://github.com/dylanaraps) and added by [iandrewt](https://github.com/iandrewt)
+
+The Firewatch theme was created by [Sebastian Szturo](https://github.com/SebastianSzturo) as an [atom syntax theme](https://atom.io/themes/firewatch-syntax) and ported to an iTerm scheme by [Ben Styles](https://github.com/leeds-ebooks). It was originally inspired by the [Firewatch game](http://www.firewatchgame.com/).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
