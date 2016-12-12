@@ -418,7 +418,11 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/ollie.png)
 
-###Paraiso Dark###
+###Pandora###
+
+![Screenshot](screenshots/pandora.png)
+
+###Parasio Dark###
 
 ![Screenshot](screenshots/paraiso_dark.png)
 
@@ -814,6 +818,8 @@ The Ryuuko theme was created by [dylanaraps](https://github.com/dylanaraps) and 
 
 The Firewatch theme was created by [Sebastian Szturo](https://github.com/SebastianSzturo) as an [atom syntax theme](https://atom.io/themes/firewatch-syntax) and ported to an iTerm scheme by [Ben Styles](https://github.com/leeds-ebooks). It was originally inspired by the [Firewatch game](http://www.firewatchgame.com/).
 
+The Pandora theme was created by [milosmatic](https://github.com/milosmatic/Pandora-iterm)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
@@ -848,7 +854,7 @@ To install under the [X Window System](http://www.x.org/):
         Rxvt*foreground:   Foreground_Color
         Rxvt*background:   Background_Color
         Rxvt*cursorColor:  Cursor_Color
-
+      
         XTerm*color0:      Ansi_0_Color
         XTerm*color1:      Ansi_1_Color
         XTerm*color2:      Ansi_2_Color
@@ -942,7 +948,6 @@ tools/preview.rb schemes/AdventureTime.itermcolors
 # - Press any key to advance; hit CTRL-C or ESC to stop
 tools/preview.rb schemes/*
 ```
-
 
 ----
 
