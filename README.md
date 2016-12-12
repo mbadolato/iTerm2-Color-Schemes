@@ -830,6 +830,8 @@ The Firewatch theme was created by [Sebastian Szturo](https://github.com/Sebasti
 
 The Pandora theme was created by [milosmatic](https://github.com/milosmatic/Pandora-iterm)
 
+The Elementary OS  theme was created by [elementary.io](https://elementary.io/) and added by [987poiuytrewq](https://github.com/987poiuytrewq)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
