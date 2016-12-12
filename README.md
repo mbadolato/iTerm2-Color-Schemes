@@ -261,6 +261,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/grass.png)
 
+###Gruvbox Dark###
+
+![Screenshot](screenshots/gruvbox_dark.png)
+
 ###Hardcore###
 
 ![Screenshot](screenshots/hardcore.png)
