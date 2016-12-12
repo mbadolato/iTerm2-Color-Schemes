@@ -185,6 +185,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/elemental.png)
 
+###Elementary###
+
+![Screenshot](screenshots/elementary.png)
+
 ###ENCOM###
 
 ![Screenshot](screenshots/encom.png)
