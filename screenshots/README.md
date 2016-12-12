@@ -133,6 +133,10 @@ Screenshots
 
 ![image](flat.png)
 
+`forest_blue.png`
+
+![image](forest_blue.png)
+
 `front_end_delight.png`
 
 ![image](front_end_delight.png)
@@ -492,4 +496,3 @@ Screenshots
 `zenburn.png`
 
 ![image](zenburn.png)
-

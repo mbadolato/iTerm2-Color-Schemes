@@ -225,6 +225,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/floraverse.png)
 
+###Forest Blue###
+
+![Screenshot](screenshots/forest_blue.png)
+
 ###FrontEndDelight###
 
 ![Screenshot](screenshots/front_end_delight.png)
@@ -707,6 +711,8 @@ The Thayer Bright theme was found [here](https://github.com/t3chnoboy/thayer-bri
 The Spring theme was found [here](https://github.com/t3chnoboy/spring-iTerm)
 
 The Smyck theme was found [here](https://github.com/hukl/Smyck-Color-Scheme)
+
+The Forest Blue theme was found [here](https://github.com/olkinn/forest-blue-iTerm)
 
 The Cobalt2 theme was created by [wesbos](https://github.com/wesbos/Cobalt2-iterm)
 
