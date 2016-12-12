@@ -836,6 +836,8 @@ The Pandora theme was created by [milosmatic](https://github.com/milosmatic/Pand
 
 The Elementary OS  theme was created by [elementary.io](https://elementary.io/) and added by [987poiuytrewq](https://github.com/987poiuytrewq)
 
+The Gruvbox Dark  theme was created by [morhetz](https://github.com/morhetz) and added by [mcchrish](https://github.com/mcchrish)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
