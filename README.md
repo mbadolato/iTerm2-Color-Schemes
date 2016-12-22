@@ -508,6 +508,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/slate.png)
 
+###Snazzy###
+
+![Screenshot](screenshots/snazzy.png)
+
 ###Smyck###
 
 ![Screenshot](screenshots/smyck.png)
@@ -880,7 +884,7 @@ To install under the [X Window System](https://www.x.org/):
         Rxvt*foreground:   Foreground_Color
         Rxvt*background:   Background_Color
         Rxvt*cursorColor:  Cursor_Color
-      
+
         XTerm*color0:      Ansi_0_Color
         XTerm*color1:      Ansi_1_Color
         XTerm*color2:      Ansi_2_Color
