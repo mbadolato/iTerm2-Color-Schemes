@@ -21,3 +21,7 @@ if __name__ == '__main__':
     terminator_path = '../terminator/'
     print("--> " + terminator_path)
     subprocess.Popen(['./xrdb2terminator.py', '../xrdb/', '-d', terminator_path])
+
+    putty_path = '../putty/'
+    print("--> " + putty_path)
+    subprocess.Popen(['./xrdb2putty.py', '../xrdb/', '-d', putty_path])
