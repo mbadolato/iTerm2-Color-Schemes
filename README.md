@@ -10,6 +10,7 @@
   - [Konsole color schemes](#konsole-color-schemes)
   - [Terminator color schemes](#terminator-color-schemes)
   - [Mac OS Terminal color schemes](#terminal-color-schemes)
+  - [PuTTY color schemes](#putty-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
 
 ##Intro##
@@ -957,6 +958,44 @@ If you want to make the themes available to all users, copy the .colorscheme fil
 
 ###Terminal color schemes###
 Just double click on selected theme in `terminal` directory
+
+###PuTTY color schemes###
+
+####New Session Method####
+This method creates a new blank session with JUST colors set properly.
+
+Download the appropriate `colorscheme.reg` file and import the registry changes by right-clicking and choosing Merge. Choose "Yes" when prompted if you're sure. Color scheme will show up as a new PuTTY session with all defaults except entries at `Window > Colours > Adjust the precise colours PuTTY displays`.
+
+####Modify Session Method####
+This method modifies an existing session and changes JUST the color settings.
+
+Download the appropriate `colorscheme.reg` file. Open the file with a text editor and change the color scheme portion (`Molokai` below) to match the session you want to modify:
+
+```
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Molokai]
+- CHANGE TO (EXAMPLE) -
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\root@localhost]
+```
+
+**NOTE**: Some special characters will need to be changed to their Percent-encoded representation (IE, Space as `%20`). To quickly find the right session name view the top-level entries at `HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\` with `regedit.exe`.
+
+####Other PuTTY Recommendations####
+
+```
+Window > Apprearance
+	Font: Consolas, bold, 14-point
+	Font quality:
+		( ) Antialiased     ( ) Non-Antialiased
+		(O) ClearType       ( ) Default
+Window > Colours
+	[X] Allow terminal to specify ANSI colours
+	[X] Allow terminal to use xterm 256-colour mode
+	Indicate bolded text by changing:
+		( ) The font   (O) The colour   ( ) Both
+	[ ] Attempt to use logical palettes
+	[ ] Use system colours
+```
+
 
 ###Previewing color schemes###
 
