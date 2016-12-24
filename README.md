@@ -969,7 +969,7 @@ Download the appropriate `colorscheme.reg` file and import the registry changes 
 ####Modify Session Method####
 This method modifies an existing session and changes JUST the color settings.
 
-Download the appropriate `colorscheme.reg` file. Open the file with a text editor and change the underlined portion below to match the session you want to modify:
+Download the appropriate `colorscheme.reg` file. Open the file with a text editor and change the color scheme portion (`Molokai` below) to match the session you want to modify:
 
 ```
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\Molokai]
