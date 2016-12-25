@@ -650,6 +650,14 @@ more information.
 
 ![Screenshot](screenshots/vibrant_ink.png)
 
+###Violet Light###
+
+![Screenshot](Screenshots/violet_light.png)
+
+###Violet Dark###
+
+![Screenshot](Screenshots/violet_dark.png)
+
 ###WarmNeon###
 
 ![Screenshot](screenshots/warm_neon.png)
@@ -676,6 +684,8 @@ more information.
 
 ## Credits
 The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the excption of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
+
+The scheme Violet was created by [ashfinal](https://github.com/ashfinal/vim-colors-violet).
 
 The scheme idleToes was inspired by the [idleFingers](http://www.idlefingers.co.uk/) TextMate theme and suggested for inclusion by Seth Wilson.
 
@@ -881,7 +891,7 @@ To install under the [X Window System](https://www.x.org/):
         Rxvt*foreground:   Foreground_Color
         Rxvt*background:   Background_Color
         Rxvt*cursorColor:  Cursor_Color
-      
+
         XTerm*color0:      Ansi_0_Color
         XTerm*color1:      Ansi_1_Color
         XTerm*color2:      Ansi_2_Color
