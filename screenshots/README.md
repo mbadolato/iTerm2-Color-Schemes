@@ -301,6 +301,14 @@ Screenshots
 
 ![image](ollie.png)
 
+`onehalfdark.png`
+
+![image](onehalfdark.png)
+
+`onehalflight.png`
+
+![image](onehalflight.png)
+
 `pandora.png`
 
 ![image](pandora.png)
