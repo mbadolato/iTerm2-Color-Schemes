@@ -851,6 +851,8 @@ The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 
 The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
 
+The Under The Sea theme was created by [peterpme](https://github.com/peterpme)
+
 The One Half themes were created by [sonph](https://github.com/sonph), based on Atom's One with some tweakings.
 
 The FirefoxDev theme was created by [Or3stis](https://github.com/Or3stis)
