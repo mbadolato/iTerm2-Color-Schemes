@@ -664,11 +664,11 @@ more information.
 
 ###Violet Light###
 
-![Screenshot](Screenshots/violet_light.png)
+![Screenshot](screenshots/violet_light.png)
 
 ###Violet Dark###
 
-![Screenshot](Screenshots/violet_dark.png)
+![Screenshot](screenshots/violet_dark.png)
 
 ###WarmNeon###
 
