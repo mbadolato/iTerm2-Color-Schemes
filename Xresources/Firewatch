@@ -1,0 +1,42 @@
+! Added by Jeremy Villa
+! https://github.com/villapx
+
+! Main colors
+*foreground:  rgb:9b/a2/b2
+*background:  rgb:1e/20/27
+*cursorColor: rgb:f6/f7/ec
+
+! Bold foreground
+*colorBD:     rgb:e6/e5/ff
+
+! Black
+*color0:      rgb:58/5f/6d
+*color8:      rgb:58/5f/6d
+
+! Red
+*color1:      rgb:d9/53/60
+*color9:      rgb:d9/53/60
+
+! Green
+*color2:      rgb:5a/b9/77
+*color10:     rgb:5a/b9/77
+
+! Yellow
+*color3:      rgb:df/b5/63
+*color11:     rgb:df/b5/63
+
+! Blue
+*color4:      rgb:4d/89/c4
+*color12:     rgb:4d/89/c4
+
+! Magenta
+*color5:      rgb:d5/51/19
+*color13:     rgb:d5/51/19
+
+! Cyan
+*color6:      rgb:44/a8/b6
+*color14:     rgb:44/a8/b6
+
+! White
+*color7:      rgb:e6/e5/ff
+*color15:     rgb:e6/e5/ff
