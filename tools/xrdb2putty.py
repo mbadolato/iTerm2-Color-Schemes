@@ -23,17 +23,7 @@ def hex_to_rgb(color):
 def build_putty_color(name, r, g, b):
 	return "\"%s\"=\"%d,%d,%d\"\n" % (name, r, g, b)
 
-if __name__ == "__main__":
-
-	parser = argparse.ArgumentParser(
-		description='Translate X color schemes to termiantor format')
-	parser.add_argument('xrdb_path', type=str, help='path to xrdb files')
-	parser.add_argument('-d', '--out-directory', type=str, dest='output_path',
-		help='path where putty config files will be' +
-		' created, if not provided then will be printed')
-
-	args = parser.parse_args()
-
+def main(xrdb_path, output_path=None):
 
 	# The regexes to match the colors
 	color_regex = re.compile("#define +Ansi_(\d+)_Color +(#[A-Fa-f0-9]{6})")
@@ -46,18 +36,18 @@ if __name__ == "__main__":
 	# File regex
 	xrdb_regex = re.compile("(.+)\.[xX][rR][dD][bB]")
 
-	for i in filter(lambda x: xrdb_regex.match(x), os.listdir(args.xrdb_path)):
+	for i in filter(lambda x: xrdb_regex.match(x), os.listdir(xrdb_path)):
 		name = xrdb_regex.match(i).group(1)
 
 		# Read XRDB file
-		with open(os.path.join(args.xrdb_path, i)) as f:
+		with open(os.path.join(xrdb_path, i)) as f:
 			xrdb_data = f.read()
 
 		# Open output file
 		output = sys.stdout
 
-		if args.output_path:
-			dest = os.path.join(args.output_path, name)
+		if output_path:
+			dest = os.path.join(output_path, name)
 			output = open('{0}.reg'.format(dest), 'w+')
 		else:
 			output.write('\n%s:\n' % name)
@@ -121,5 +111,19 @@ if __name__ == "__main__":
 
 			output.write(build_putty_color(color_name, *color_rgb))
 
-		if args.output_path:
+		if output_path:
 			output.close()
+
+if __name__ == "__main__":
+
+	parser = argparse.ArgumentParser(
+		description='Translate X color schemes to termiantor format')
+	parser.add_argument('xrdb_path', type=str, help='path to xrdb files')
+	parser.add_argument('-d', '--out-directory', type=str, dest='output_path',
+		help='path where putty config files will be' +
+		' created, if not provided then will be printed')
+
+	args = parser.parse_args()
+	main(args.xrdb_path, args.output_path)
+
+

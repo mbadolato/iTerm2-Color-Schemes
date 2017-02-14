@@ -9,35 +9,23 @@
 # Author: Xabier Larrakoetxea
 
 import os
-import sys
 import re
 import argparse
 
-if __name__ == "__main__":
 
-    parser = argparse.ArgumentParser(
-        description='Translate X color schemes to termiantor format')
-    parser.add_argument('xrdb_path', type=str, help='path to xrdb files')
-    parser.add_argument('-d', '--destiny', type=str, dest='output_path',
-                        help='path where terminator config files will be' +
-                        ' created, if not provided then will be printed')
-
-    args = parser.parse_args()
-
-
+def main(xrdb_path, output_path=None):
+    global color_regex, xrdb_regex
     # The regexes to match the colors
     color_regex = re.compile("#define +Ansi_(\d+)_Color +(#[A-Fa-f0-9]{6})")
     bg_regex = re.compile("#define +Background_Color +(#[A-Fa-f0-9]{6})")
     fg_regex = re.compile("#define +Foreground_Color +(#[A-Fa-f0-9]{6})")
     cursor_regex = re.compile("#define +Cursor_Color +(#[A-Fa-f0-9]{6})")
-
     # File regex
     xrdb_regex = re.compile("(.+)\.[xX][rR][dD][bB]")
-
-    for i in filter(lambda x: xrdb_regex.match(x), os.listdir(args.xrdb_path)):
+    for i in filter(lambda x: xrdb_regex.match(x), os.listdir(xrdb_path)):
 
         # per file
-        with open(os.path.join(args.xrdb_path, i)) as f:
+        with open(os.path.join(xrdb_path, i)) as f:
             lines = f.readlines()
 
         # Search special colors
@@ -69,9 +57,23 @@ if __name__ == "__main__":
                                cr=cursor_color,
                                fg=fg_color)
 
-        if not args.output_path:
+        if not output_path:
             print(output)
         else:
-            dest = os.path.join(args.output_path, xrdb_regex.match(i).group(1))
+            dest = os.path.join(output_path, xrdb_regex.match(i).group(1))
             with open('{0}.config'.format(dest), 'w+') as f:
                 f.write(output)
+
+
+if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser(
+        description='Translate X color schemes to termiantor format')
+    parser.add_argument('xrdb_path', type=str, help='path to xrdb files')
+    parser.add_argument('-d', '--destiny', type=str, dest='output_path',
+                        help='path where terminator config files will be' +
+                        ' created, if not provided then will be printed')
+
+    args = parser.parse_args()
+
+    main(args.xrdb_path, args.output_path)

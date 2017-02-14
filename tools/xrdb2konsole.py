@@ -16,24 +16,18 @@ import re
 import argparse
 
 # Takes #000A0B and returns (0, 10, 11)
+
 def hex_to_rgb(color):
     return (int(color[1:3], 16), int(color[3:5], 16), int(color[5:7], 16))
+
 
 def build_konsole_color(name, r, g, b):
     return "[%s]\nColor=%d,%d,%d\n\n" % (name, r, g, b)
 
-if __name__ == "__main__":
 
-    parser = argparse.ArgumentParser(
-        description='Translate X color schemes to termiantor format')
-    parser.add_argument('xrdb_path', type=str, help='path to xrdb files')
-    parser.add_argument('-d', '--out-directory', type=str, dest='output_path',
-                        help='path where terminator config files will be' +
-                        ' created, if not provided then will be printed')
+def main(xrdb_path, output_path=None):
 
-    args = parser.parse_args()
-
-
+    global xrdb_regex
     # The regexes to match the colors
     color_regex = re.compile("#define +Ansi_(\d+)_Color +(#[A-Fa-f0-9]{6})")
     bg_regex = re.compile("#define +Background_Color +(#[A-Fa-f0-9]{6})")
@@ -43,19 +37,18 @@ if __name__ == "__main__":
 
     # File regex
     xrdb_regex = re.compile("(.+)\.[xX][rR][dD][bB]")
-
-    for i in filter(lambda x: xrdb_regex.match(x), os.listdir(args.xrdb_path)):
+    for i in filter(lambda x: xrdb_regex.match(x), os.listdir(xrdb_path)):
         name = xrdb_regex.match(i).group(1)
 
         # Read XRDB file
-        with open(os.path.join(args.xrdb_path, i)) as f:
+        with open(os.path.join(xrdb_path, i)) as f:
             xrdb_data = f.read()
 
         # Open output file
         output = sys.stdout
 
-        if args.output_path:
-            dest = os.path.join(args.output_path, name)
+        if output_path:
+            dest = os.path.join(output_path, name)
             output = open('{0}.colorscheme'.format(dest), 'w+')
         else:
             output.write('\n%s:\n' % name)
@@ -85,9 +78,24 @@ if __name__ == "__main__":
             color_index = int(match[0])
             color_rgb = hex_to_rgb(match[1])
 
-            color_name = 'Color%d' % color_index if color_index < 8 else 'Color%dIntense' % (color_index - 8)
+            color_name = 'Color%d' % color_index if color_index < 8 else 'Color%dIntense' % (
+            color_index - 8)
 
             output.write(build_konsole_color(color_name, *color_rgb))
 
-        if args.output_path:
+        if output_path:
             output.close()
+
+
+if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser(
+        description='Translate X color schemes to termiantor format')
+    parser.add_argument('xrdb_path', type=str, help='path to xrdb files')
+    parser.add_argument('-d', '--out-directory', type=str, dest='output_path',
+                        help='path where terminator config files will be' +
+                        ' created, if not provided then will be printed')
+
+    args = parser.parse_args()
+
+    main(args.xrdb_path, args.output_path)
