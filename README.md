@@ -164,6 +164,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/darkside.png)
 
+###Deep###
+
+![Screenshot](screenshots/deep.png)
+
 ###Desert###
 
 ![Screenshot](screenshots/desert.png)
@@ -872,6 +876,8 @@ The Elementary OS  theme was created by [elementary.io](https://elementary.io/) 
 The Gruvbox Dark  theme was created by [morhetz](https://github.com/morhetz) and added by [mcchrish](https://github.com/mcchrish)
 
 The Ayu and Ayu Light  themes were created by [alebcay](https://github.com/alebcay)
+
+The Deep  theme was created by [ADoyle](https://github.com/adoyle-h)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
