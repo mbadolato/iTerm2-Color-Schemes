@@ -1,42 +1,44 @@
-! Added by Jeremy Villa
-! https://github.com/villapx
-
-! Main colors
-*foreground:  rgb:9b/a2/b2
-*background:  rgb:1e/20/27
-*cursorColor: rgb:f6/f7/ec
-
-! Bold foreground
-*colorBD:     rgb:e6/e5/ff
-
+!
+! Generated with :
+! XRDB2Xreources.py
+!
+*.foreground:  #9ba2b2
+*.background:  #1e2027
+*.cursorColor: #f6f7ec
+!
 ! Black
-*color0:      rgb:58/5f/6d
-*color8:      rgb:58/5f/6d
-
+*.color0:      #585f6d
+*.color8:      #585f6d
+!
 ! Red
-*color1:      rgb:d9/53/60
-*color9:      rgb:d9/53/60
-
+*.color1:      #d95360
+*.color9:      #d95360
+!
 ! Green
-*color2:      rgb:5a/b9/77
-*color10:     rgb:5a/b9/77
-
+*.color2:      #5ab977
+*.color10:     #5ab977
+!
 ! Yellow
-*color3:      rgb:df/b5/63
-*color11:     rgb:df/b5/63
-
+*.color3:      #dfb563
+*.color11:     #dfb563
+!
 ! Blue
-*color4:      rgb:4d/89/c4
-*color12:     rgb:4d/89/c4
-
+*.color4:      #4d89c4
+*.color12:     #4c89c5
+!
 ! Magenta
-*color5:      rgb:d5/51/19
-*color13:     rgb:d5/51/19
-
+*.color5:      #d55119
+*.color13:     #d55119
+!
 ! Cyan
-*color6:      rgb:44/a8/b6
-*color14:     rgb:44/a8/b6
-
+*.color6:      #44a8b6
+*.color14:     #44a8b6
+!
 ! White
-*color7:      rgb:e6/e5/ff
-*color15:     rgb:e6/e5/ff
+*.color7:      #e6e5ff
+*.color15:     #e6e5ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #e6e5ff
+!*.colorIT:
+!*.colorUL:
