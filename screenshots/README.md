@@ -1,3 +1,4 @@
+
 Screenshots
 ===
 `3024_day.png`
@@ -120,6 +121,10 @@ Screenshots
 
 ![image](espresso_libre.png)
 
+`firewatch.png`
+
+![image](firewatch.png)
+
 `fish_tank.png`
 
 ![image](fish_tank.png)
@@ -127,6 +132,10 @@ Screenshots
 `flat.png`
 
 ![image](flat.png)
+
+`forest_blue.png`
+
+![image](forest_blue.png)
 
 `front_end_delight.png`
 
@@ -256,6 +265,10 @@ Screenshots
 
 ![image](monokai_soda.png)
 
+`monokai_vivid.png`
+
+![image](monokai_vivid.png)
+
 `n0tch2k.png`
 
 ![image](n0tch2k.png)
@@ -287,6 +300,18 @@ Screenshots
 `ollie.png`
 
 ![image](ollie.png)
+
+`onehalfdark.png`
+
+![image](onehalfdark.png)
+
+`onehalflight.png`
+
+![image](onehalflight.png)
+
+`pandora.png`
+
+![image](pandora.png)
 
 `paraiso_dark.png`
 
@@ -444,6 +469,10 @@ Screenshots
 
 ![image](twilight.png)
 
+`ubuntu.png`
+
+![image](ubuntu.png)
+
 `urple.png`
 
 ![image](urple.png)
@@ -475,4 +504,3 @@ Screenshots
 `zenburn.png`
 
 ![image](zenburn.png)
-
