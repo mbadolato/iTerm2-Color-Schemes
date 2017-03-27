@@ -1,4 +1,4 @@
-#iTerm Color Schemes#
+# iTerm Color Schemes
 
 - [Intro](#intro)
 - [Installation Instructions](#installation-instructions)
@@ -13,10 +13,10 @@
   - [PuTTY color schemes](#putty-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
 
-##Intro##
+## Intro
 This is a set of color schemes for iTerm (aka iTerm2). Screenshots below and in the [screenshots](screenshots/) directory.
 
-##Installation Instructions##
+## Installation Instructions
 To install:
 
 * Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
@@ -27,7 +27,7 @@ To install:
 * Select the .itermcolors file(s) of the scheme(s) you'd like to use
 * Click on **Color Presets** and choose a color scheme
 
-##Contribute##
+## Contribute
 Have a great iTerm theme? Send it to me via a Pull Request! To export your theme settings:
 
 * Launch iTerm 2
@@ -41,507 +41,507 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
 
-##Screenshots##
-###3024 Day###
+## Screenshots
+### 3024 Day
 
 ![Screenshot](screenshots/3024_day.png)
 
-###3024 Night###
+### 3024 Night
 
 ![Screenshot](screenshots/3024_night.png)
 
-###AdventureTime###
+### AdventureTime
 
 ![Screenshot](screenshots/adventure_time.png)
 
-###Afterglow###
+### Afterglow
 
 ![Screenshot](screenshots/afterglow.png)
 
-###AlienBlood###
+### AlienBlood
 
 ![Screenshot](screenshots/alien_blood.png)
 
-###Argonaut###
+### Argonaut
 
 ![Screenshot](screenshots/argonaut.png)
 
-###Arthur###
+### Arthur
 
 ![Screenshot](screenshots/arthur.png)
 
-###AtelierSulphurpool###
+### AtelierSulphurpool
 
 ![Screenshot](screenshots/atelier-sulphurpool_dark.png)
 
-###Atom###
+### Atom
 
 ![Screenshot](screenshots/atom.png)
 
-###Atom One Light###
+### Atom One Light
 
 ![Screenshot](screenshots/atom_one_light.png)
 
-###ayu###
+### ayu
 ![Screenshot](screenshots/ayu.png)
 
-###ayu Light###
+### ayu Light
 ![Screenshot](screenshots/ayu_light.png)
 
-###Batman###
+### Batman
 
 ![Screenshot](screenshots/batman.png)
 
-###Belafonte Day###
+### Belafonte Day
 
 ![Screenshot](screenshots/belafonte_day.png)
 
-###Belafonte Night###
+### Belafonte Night
 
 ![Screenshot](screenshots/belafonte_night.png)
 
-###BirdsOfParadise###
+### BirdsOfParadise
 
 ![Screenshot](screenshots/birds_of_paradise.png)
 
-###Blazer###
+### Blazer
 
 ![Screenshot](screenshots/blazer.png)
 
-###Borland###
+### Borland
 
 ![Screenshot](screenshots/borland.png)
 
-###Bright Lights###
+### Bright Lights
 
 ![Screenshot](screenshots/bright_lights.png)
 
-###Broadcast###
+### Broadcast
 
 ![Screenshot](screenshots/broadcast.png)
 
-###Brogrammer###
+### Brogrammer
 
 ![Screenshot](screenshots/brogrammer.png)
 
-###C64###
+### C64
 
 ![Screenshot](screenshots/c64.png)
 
-###Chalk###
+### Chalk
 
 ![Screenshot](screenshots/chalk.png)
 
-###Chalkboard###
+### Chalkboard
 
 ![Screenshot](screenshots/chalkboard.png)
 
-###Ciapre###
+### Ciapre
 
 ![Screenshot](screenshots/ciapre.png)
 
-###CLRS###
+### CLRS
 
 ![Screenshot](screenshots/clrs.png)
 
-###Cobalt Neon###
+### Cobalt Neon
 
 ![Screenshot](screenshots/cobalt_neon.png)
 
-###Cobalt2###
+### Cobalt2
 
 ![Screenshot](screenshots/cobalt2.png)
 
-###CrayonPonyFish###
+### CrayonPonyFish
 
 ![Screenshot](screenshots/crayon_pony_fish.png)
 
-###Dark Pastel###
+### Dark Pastel
 
 ![Screenshot](screenshots/dark_pastel.png)
 
-###Darkside###
+### Darkside
 
 ![Screenshot](screenshots/darkside.png)
 
-###Deep###
+### Deep
 
 ![Screenshot](screenshots/deep.png)
 
-###Desert###
+### Desert
 
 ![Screenshot](screenshots/desert.png)
 
-###DimmedMonokai###
+### DimmedMonokai
 
 ![Screenshot](screenshots/dimmed_monokai.png)
 
-###DotGov###
+### DotGov
 
 ![Screenshot](screenshots/dot_gov.png)
 
-###Dracula###
+### Dracula
 
 ![Screenshot](screenshots/dracula.png)
 
-###Duotone Dark###
+### Duotone Dark
 
 ![Screenshot](screenshots/duotone_dark.png)
 
-###Earthsong###
+### Earthsong
 
 ![Screenshot](screenshots/earthsong.png)
 
-###Elemental###
+### Elemental
 
 ![Screenshot](screenshots/elemental.png)
 
-###Elementary###
+### Elementary
 
 ![Screenshot](screenshots/elementary.png)
 
-###ENCOM###
+### ENCOM
 
 ![Screenshot](screenshots/encom.png)
 
-###Espresso###
+### Espresso
 
 ![Screenshot](screenshots/espresso.png)
 
-###Espresso Libre###
+### Espresso Libre
 
 ![Screenshot](screenshots/espresso_libre.png)
 
-###Fideloper###
+### Fideloper
 
 ![Screenshot](screenshots/fideloper.png)
 
-###FirefoxDev###
+### FirefoxDev
 
 ![Screenshot](screenshots/firefox_dev.png)
 
-###Firewatch###
+### Firewatch
 
 ![Screenshot](screenshots/firewatch.png)
 
-###FishTank###
+### FishTank
 
 ![Screenshot](screenshots/fish_tank.png)
 
-###Flat###
+### Flat
 
 ![Screenshot](screenshots/flat.png)
 
-###Flatland###
+### Flatland
 
 ![Screenshot](screenshots/flatland.png)
 
-###Floraverse###
+### Floraverse
 
 ![Screenshot](screenshots/floraverse.png)
 
-###Forest Blue###
+### Forest Blue
 
 ![Screenshot](screenshots/forest_blue.png)
 
-###FrontEndDelight###
+### FrontEndDelight
 
 ![Screenshot](screenshots/front_end_delight.png)
 
-###FunForrest###
+### FunForrest
 
 ![Screenshot](screenshots/fun_forrest.png)
 
-###Galaxy###
+### Galaxy
 
 ![Screenshot](screenshots/galaxy.png)
 
-###Github###
+### Github
 
 ![Screenshot](screenshots/github.png)
 
-###Glacier###
+### Glacier
 
 ![Screenshot](screenshots/glacier.png)
 
-###Grape###
+### Grape
 
 ![Screenshot](screenshots/grape.png)
 
-###Grass###
+### Grass
 
 ![Screenshot](screenshots/grass.png)
 
-###Gruvbox Dark###
+### Gruvbox Dark
 
 ![Screenshot](screenshots/gruvbox_dark.png)
 
-###Hardcore###
+### Hardcore
 
 ![Screenshot](screenshots/hardcore.png)
 
-###Harper###
+### Harper
 
 ![Screenshot](screenshots/harper.png)
 
-###Highway###
+### Highway
 
 ![Screenshot](screenshots/highway.png)
 
-###Hipster Green###
+### Hipster Green
 
 ![Screenshot](screenshots/hipster_green.png)
 
-###Homebrew###
+### Homebrew
 
 ![Screenshot](screenshots/homebrew.png)
 
-###Hurtado###
+### Hurtado
 
 ![Screenshot](screenshots/hurtado.png)
 
-###Hybrid###
+### Hybrid
 
 ![Screenshot](screenshots/hybrid.png)
 
-###IC_Green_PPL###
+### IC_Green_PPL
 
 ![Screenshot](screenshots/ic_green_ppl.png)
 
-###IC_Orange_PPL###
+### IC_Orange_PPL
 
 ![Screenshot](screenshots/ic_orange_ppl.png)
 
-###idleToes###
+### idleToes
 
 ![Screenshot](screenshots/idleToes.png)
 
-###IR_Black###
+### IR_Black
 
 ![Screenshot](screenshots/ir_black.png)
 
-###Jackie Brown###
+### Jackie Brown
 
 ![Screenshot](screenshots/jackie_brown.png)
 
-###Japanesque###
+### Japanesque
 
 ![Screenshot](screenshots/japanesque.png)
 
-###Jellybeans###
+### Jellybeans
 
 ![Screenshot](screenshots/jellybeans.png)
 
-###JetBrains Darcula###
+### JetBrains Darcula
 
 ![Screenshot](screenshots/jetbrains_darcula.png)
 
-###Kibble###
+### Kibble
 
 ![Screenshot](screenshots/kibble.png)
 
-###Later This Evening ###
+### Later This Evening 
 
 ![Screenshot](screenshots/later_this_evening.png)
 
-###Lavandula###
+### Lavandula
 
 ![Screenshot](screenshots/lavandula.png)
 
-###LiquidCarbon###
+### LiquidCarbon
 
 ![Screenshot](screenshots/liquid_carbon.png)
 
-###LiquidCarbonTransparent###
+### LiquidCarbonTransparent
 
 ![Screenshot](screenshots/liquid_carbon_transparent.png)
 
-###LiquidCarbonTransparentInverse###
+### LiquidCarbonTransparentInverse
 
 ![Screenshot](screenshots/liquid_carbon_transparent_inverse.png)
 
-###Man Page###
+### Man Page
 
 ![Screenshot](screenshots/man_page.png)
 
-###Material###
+### Material
 
 ![Screenshot](screenshots/material.png)
 
-###MaterialDark###
+### MaterialDark
 
 ![Screenshot](screenshots/material_dark.png)
 
-###Mathias###
+### Mathias
 
 ![Screenshot](screenshots/mathias.png)
 
-###Medallion###
+### Medallion
 
 ![Screenshot](screenshots/medallion.png)
 
-###Misterioso###
+### Misterioso
 
 ![Screenshot](screenshots/misterioso.png)
 
-###Molokai###
+### Molokai
 
 ![Screenshot](screenshots/molokai.png)
 
-###MonaLisa###
+### MonaLisa
 
 ![Screenshot](screenshots/mona_lisa.png)
 
-###Monokai Soda###
+### Monokai Soda
 
 ![Screenshot](screenshots/monokai_soda.png)
 
-###Monokai Vivid###
+### Monokai Vivid
 
 ![Screenshot](screenshots/monokai_vivid.png)
 
-###N0tch2k###
+### N0tch2k
 
 ![Screenshot](screenshots/n0tch2k.png)
 
-###Neopolitan###
+### Neopolitan
 
 ![Screenshot](screenshots/neopolitan.png)
 
-###Neutron###
+### Neutron
 
 ![Screenshot](screenshots/neutron.png)
 
-###NightLion v1###
+### NightLion v1
 
 ![Screenshot](screenshots/nightlion_v1.png)
 
-###NightLion v2###
+### NightLion v2
 
 ![Screenshot](screenshots/nightlion_v2.png)
 
-###Novel###
+### Novel
 
 ![Screenshot](screenshots/novel.png)
 
-###Obsidian###
+### Obsidian
 
 ![Screenshot](screenshots/obsidian.png)
 
-###Ocean###
+### Ocean
 
 ![Screenshot](screenshots/ocean.png)
 
 
-###OceanicMaterial###
+### OceanicMaterial
 
 ![Screenshot](screenshots/oceanic_material.png)
 
-###Ollie###
+### Ollie
 
 ![Screenshot](screenshots/ollie.png)
 
-###One Half Dark###
+### One Half Dark
 
 ![Screenshot](screenshots/onehalfdark.png)
 
-###One Half Light###
+### One Half Light
 
 ![Screenshot](screenshots/onehalflight.png)
 
-###Pandora###
+### Pandora
 
 ![Screenshot](screenshots/pandora.png)
 
-###Parasio Dark###
+### Parasio Dark
 
 ![Screenshot](screenshots/paraiso_dark.png)
 
-###PaulMillr###
+### PaulMillr
 
 ![Screenshot](screenshots/paul_millr.png)
 
-###Pencil Dark###
+### Pencil Dark
 
 ![Screenshot](screenshots/pencil_dark.png)
 
-###Pencil Light###
+### Pencil Light
 
 ![Screenshot](screenshots/pencil_light.png)
 
-###Piatto Light###
+### Piatto Light
 
 ![Screenshot](screenshots/piatto_light.png)
 
-###Pnevma###
+### Pnevma
 
 ![Screenshot](screenshots/pnevma.png)
 
-###Pro###
+### Pro
 
 ![Screenshot](screenshots/pro.png)
 
-###Red Alert###
+### Red Alert
 
 ![Screenshot](screenshots/red_alert.png)
 
-###Red Sands###
+### Red Sands
 
 ![Screenshot](screenshots/red_sands.png)
 
-###Rippedcasts###
+### Rippedcasts
 
 ![Screenshot](screenshots/rippedcasts.png)
 
-###Royal###
+### Royal
 
 ![Screenshot](screenshots/royal.png)
 
-###Ryuuko###
+### Ryuuko
 
 ![Screenshot](screenshots/ryuuko.png)
 
-###Seafoam Pastel###
+### Seafoam Pastel
 
 ![Screenshot](screenshots/seafoam_pastel.png)
 
-###SeaShells###
+### SeaShells
 
 ![Screenshot](screenshots/sea_shells.png)
 
-###Seti###
+### Seti
 
 ![Screenshot](screenshots/seti.png)
 
-###Shaman###
+### Shaman
 
 ![Screenshot](screenshots/shaman.png)
 
-###Slate###
+### Slate
 
 ![Screenshot](screenshots/slate.png)
 
-###Smyck###
+### Smyck
 
 ![Screenshot](screenshots/smyck.png)
 
-###SoftServer###
+### SoftServer
 
 ![Screenshot](screenshots/soft_server.png)
 
-###Solarized Darcula (With background image)###
+### Solarized Darcula (With background image)
 
 ![Screenshot](screenshots/solarized_darcula_with_background.png)
 
-###Solarized Darcula (Without background image)###
+### Solarized Darcula (Without background image)
 
 ![Screenshot](screenshots/solarized_darcula.png)
 
-###Solarized Dark###
+### Solarized Dark
 
 ![Screenshot](screenshots/solarized_dark.png)
 
-###Solarized Dark - Patched###
+### Solarized Dark - Patched
 
 Some applications assume the ANSI color code 8 is a gray color. Solarized treats
 this code as equal to the background. This theme is for people who prefer the
@@ -554,147 +554,147 @@ more information.
 [issue-62]: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/62
 [issue-63]: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/63
 
-###Solarized Dark Higher Contrast###
+### Solarized Dark Higher Contrast
 
 ![Screenshot](screenshots/solarized_dark_higher_contrast.png)
 
-###Solarized Light###
+### Solarized Light
 
 ![Screenshot](screenshots/solarized_light.png)
 
-###SpaceGray###
+### SpaceGray
 
 ![Screenshot](screenshots/space_gray.png)
 
-###SpaceGray Eighties###
+### SpaceGray Eighties
 
 ![Screenshot](screenshots/spacegray_eighties.png)
 
-###SpaceGray Eighties Dull###
+### SpaceGray Eighties Dull
 
 ![Screenshot](screenshots/spacegray_eighties_dull.png)
 
-###Spacedust###
+### Spacedust
 
 ![Screenshot](screenshots/spacedust.png)
 
-###Spiderman###
+### Spiderman
 
 ![Screenshot](screenshots/spiderman.png)
 
-###Spring###
+### Spring
 
 ![Screenshot](screenshots/spring.png)
 
-###Square###
+### Square
 
 ![Screenshot](screenshots/square.png)
 
-###Sundried###
+### Sundried
 
 ![Screenshot](screenshots/sundried.png)
 
-###Symfonic###
+### Symfonic
 
 ![Screenshot](screenshots/symfonic.png)
 
-###Teerb###
+### Teerb
 
 ![Screenshot](screenshots/teerb.png)
 
-###Terminal Basic###
+### Terminal Basic
 
 ![Screenshot](screenshots/terminal_basic.png)
 
-###Thayer Bright###
+### Thayer Bright
 
 ![Screenshot](screenshots/thayer_bright.png)
 
-###The Hulk###
+### The Hulk
 
 ![Screenshot](screenshots/the_hulk.png)
 
-###Tomorrow###
+### Tomorrow
 
 ![Screenshot](screenshots/tomorrow.png)
 
-###Tomorrow Night###
+### Tomorrow Night
 
 ![Screenshot](screenshots/tomorrow_night.png)
 
-###Tomorrow Night Blue###
+### Tomorrow Night Blue
 
 ![Screenshot](screenshots/tomorrow_night_blue.png)
 
-###Tomorrow Night Bright###
+### Tomorrow Night Bright
 
 ![Screenshot](screenshots/tomorrow_night_bright.png)
 
-###Tomorrow Night Eighties###
+### Tomorrow Night Eighties
 
 ![Screenshot](screenshots/tomorrow_night_eighties.png)
 
-###ToyChest###
+### ToyChest
 
 ![Screenshot](screenshots/toy_chest.png)
 
-###Treehouse###
+### Treehouse
 
 ![Screenshot](screenshots/treehouse.png)
 
-###Twilight###
+### Twilight
 
 ![Screenshot](screenshots/twilight.png)
 
-###Ubuntu###
+### Ubuntu
 
 ![Screenshot](screenshots/ubuntu.png)
 
-###Under The Sea###
+### Under The Sea
 
 ![Screenshot](screenshots/under_the_sea.png)
 
-###Urple###
+### Urple
 
 ![Screenshot](screenshots/urple.png)
 
-###Vaughn###
+### Vaughn
 
 ![Screenshot](screenshots/vaughn.png)
 
-###VibrantInk###
+### VibrantInk
 
 ![Screenshot](screenshots/vibrant_ink.png)
 
-###Violet Light###
+### Violet Light
 
 ![Screenshot](screenshots/violet_light.png)
 
-###Violet Dark###
+### Violet Dark
 
 ![Screenshot](screenshots/violet_dark.png)
 
-###WarmNeon###
+### WarmNeon
 
 ![Screenshot](screenshots/warm_neon.png)
 
-###Wez###
+### Wez
 
 ![Screenshot](screenshots/wez.png)
 
-###WildCherry###
+### WildCherry
 
 ![Screenshot](screenshots/wild_cherry.png)
 
-###Wombat###
+### Wombat
 
 ![Screenshot](screenshots/wombat.png)
 
-###Wryan###
+### Wryan
 
 ![Screenshot](screenshots/wryan.png)
 
-###Zenburn###
+### Zenburn
 
 ![Screenshot](screenshots/zenburn.png)
 
@@ -882,7 +882,7 @@ The Deep  theme was created by [ADoyle](https://github.com/adoyle-h)
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
-###X11 Installation###
+### X11 Installation
 To install under the [X Window System](https://www.x.org/):
 
 * Import the .xrdb file of the scheme you'd like to use:
@@ -913,7 +913,7 @@ To install under the [X Window System](https://www.x.org/):
         Rxvt*foreground:   Foreground_Color
         Rxvt*background:   Background_Color
         Rxvt*cursorColor:  Cursor_Color
-
+        
         XTerm*color0:      Ansi_0_Color
         XTerm*color1:      Ansi_1_Color
         XTerm*color2:      Ansi_2_Color
@@ -945,7 +945,7 @@ To install under the [X Window System](https://www.x.org/):
 
 * Adapt this procedure to other terminals as needed.
 
-###Terminator color schemes###
+### Terminator color schemes
 
 Edit your Terminator configuration file (located in: `$HOME/.config/terminator/config`) and add the configurations for the theme(s) you'd like to use the ``[profiles]`` section. The `terminator/` directory contains the config snippets you'll need. Just paste the configurations into the `[profiles]` sections, and you're good to go!
 
@@ -982,23 +982,23 @@ An example config file that includes the code snippet for the Symfonic theme wou
     [plugins]
 ```
 
-###Konsole color schemes###
+### Konsole color schemes
 
 Copy the themes from the `konsole` directory to `$HOME/.config/konsole`, restart Konsole and choose your new theme from the profile preferences window.
 
 If you want to make the themes available to all users, copy the .colorscheme files to `/usr/share/konsole`.
 
-###Terminal color schemes###
+### Terminal color schemes
 Just double click on selected theme in `terminal` directory
 
-###PuTTY color schemes###
+### PuTTY color schemes
 
-####New Session Method####
+#### New Session Method
 This method creates a new blank session with JUST colors set properly.
 
 Download the appropriate `colorscheme.reg` file and import the registry changes by right-clicking and choosing Merge. Choose "Yes" when prompted if you're sure. Color scheme will show up as a new PuTTY session with all defaults except entries at `Window > Colours > Adjust the precise colours PuTTY displays`.
 
-####Modify Session Method####
+#### Modify Session Method
 This method modifies an existing session and changes JUST the color settings.
 
 Download the appropriate `colorscheme.reg` file. Open the file with a text editor and change the color scheme portion (`Molokai` below) to match the session you want to modify:
@@ -1011,7 +1011,7 @@ Download the appropriate `colorscheme.reg` file. Open the file with a text edito
 
 **NOTE**: Some special characters will need to be changed to their Percent-encoded representation (IE, Space as `%20`). To quickly find the right session name view the top-level entries at `HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\` with `regedit.exe`.
 
-####Other PuTTY Recommendations####
+#### Other PuTTY Recommendations
 
 ```
 Window > Apprearance
@@ -1029,7 +1029,7 @@ Window > Colours
 ```
 
 
-###Previewing color schemes###
+### Previewing color schemes
 
 [preview.rb](tools/preview.rb) is a simple script that allows you to preview
 the color schemes without having to import them. It parses .itermcolors files
