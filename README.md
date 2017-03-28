@@ -1042,7 +1042,8 @@ the linked page, it doesn't run on tmux or screen.
 tools/preview.rb schemes/AdventureTime.itermcolors
 
 # Apply the schemes in turn.
-# - Press any key to advance; hit CTRL-C or ESC to stop
+# - Press (almost) any key to advance; hit CTRL-C or ESC to stop
+# - Press the delete key to go back
 tools/preview.rb schemes/*
 ```
 
