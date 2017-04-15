@@ -3,7 +3,7 @@
 ! XRDB2Xreources.py
 !
 *.foreground:  #cdcdcd
-*.background:  #000000
+*.background:  #090909
 *.cursorColor: #d0d0d0
 !
 ! Black
@@ -11,34 +11,34 @@
 *.color8:      #535353
 !
 ! Red
-*.color1:      #d11600
-*.color9:      #f4152c
+*.color1:      #d70005
+*.color9:      #fb0007
 !
 ! Green
-*.color2:      #37c32c
-*.color10:     #01ea10
+*.color2:      #1cd915
+*.color10:     #22ff18
 !
 ! Yellow
-*.color3:      #e3c421
-*.color11:     #ffee1d
+*.color3:      #d9bd26
+*.color11:     #fedc2b
 !
 ! Blue
-*.color4:      #5c6bfd
-*.color12:     #8cb0f8
+*.color4:      #5665ff
+*.color12:     #9fa9ff
 !
 ! Magenta
-*.color5:      #dd5be5
-*.color13:     #e056f5
+*.color5:      #b052da
+*.color13:     #e09aff
 !
 ! Cyan
-*.color6:      #6eb4f2
-*.color14:     #67ecff
+*.color6:      #50d2da
+*.color14:     #8df9ff
 !
 ! White
 *.color7:      #e0e0e0
-*.color15:     #f4f4f4
+*.color15:     #ffffff
 !
 ! Bold, Italic, Underline
-*.colorBD:     #eeeeee
+*.colorBD:     #ffffff
 !*.colorIT:
 !*.colorUL:
