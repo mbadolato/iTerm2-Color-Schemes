@@ -340,7 +340,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/kibble.png)
 
-### Later This Evening 
+### Later This Evening
 
 ![Screenshot](screenshots/later_this_evening.png)
 
@@ -484,6 +484,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ### Red Alert
 
 ![Screenshot](screenshots/red_alert.png)
+
+### Red Planet
+
+![Screenshot](screenshots/red_planet.png)
 
 ### Red Sands
 
@@ -879,6 +883,8 @@ The Ayu and Ayu Light  themes were created by [alebcay](https://github.com/alebc
 
 The Deep  theme was created by [ADoyle](https://github.com/adoyle-h)
 
+The Red Planet theme was created by [ibrokemypie](https://github.com/ibrokemypie) based on [eliquious](https://github.com/eliquious)'s [Red Planet](https://github.com/eliquious/Red-Planet-Theme) Sublime Text theme.
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
@@ -913,7 +919,7 @@ To install under the [X Window System](https://www.x.org/):
         Rxvt*foreground:   Foreground_Color
         Rxvt*background:   Background_Color
         Rxvt*cursorColor:  Cursor_Color
-        
+
         XTerm*color0:      Ansi_0_Color
         XTerm*color1:      Ansi_1_Color
         XTerm*color2:      Ansi_2_Color
