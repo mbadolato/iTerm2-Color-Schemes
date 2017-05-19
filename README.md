@@ -276,6 +276,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/gruvbox_dark.png)
 
+###Hacktober###
+
+![Screenshot](screenshots/hacktober.png)
+
 ### Hardcore
 
 ![Screenshot](screenshots/hardcore.png)
