@@ -606,6 +606,14 @@ more information.
 
 ![Screenshot](screenshots/symfonic.png)
 
+### Tango Adapted
+
+![Screenshot](screenshots/tango_adapted.png)
+
+### Tango Half Adapted
+
+![Screenshot](screenshots/tango_half_adapted.png)
+
 ### Teerb
 
 ![Screenshot](screenshots/teerb.png)
@@ -888,6 +896,8 @@ The Ayu and Ayu Light  themes were created by [alebcay](https://github.com/alebc
 The Deep  theme was created by [ADoyle](https://github.com/adoyle-h)
 
 The Red Planet theme was created by [ibrokemypie](https://github.com/ibrokemypie) based on [eliquious](https://github.com/eliquious)'s [Red Planet](https://github.com/eliquious/Red-Planet-Theme) Sublime Text theme.
+
+The Tango Adapted theme and its slightly less bright counterpart Tango Half Adapted were created by [crowsonkb](https://github.com/crowsonkb), based on iTerm2's Tango Light theme.
 
 The Pro Light theme was adapted from the Pro theme by [crowsonkb](https://github.com/crowsonkb) using her [iterm_schemer](https://github.com/crowsonkb/iterm_schemer) tool.
 
