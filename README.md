@@ -481,6 +481,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/pro.png)
 
+### Pro Light
+
+![Screenshot](screenshots/pro_light.png)
+
 ### Red Alert
 
 ![Screenshot](screenshots/red_alert.png)
@@ -894,6 +898,8 @@ The Deep  theme was created by [ADoyle](https://github.com/adoyle-h)
 The Red Planet theme was created by [ibrokemypie](https://github.com/ibrokemypie) based on [eliquious](https://github.com/eliquious)'s [Red Planet](https://github.com/eliquious/Red-Planet-Theme) Sublime Text theme.
 
 The Tango Adapted theme and its slightly less bright counterpart Tango Half Adapted were created by [crowsonkb](https://github.com/crowsonkb), based on iTerm2's Tango Light theme.
+
+The Pro Light theme was adapted from the Pro theme by [crowsonkb](https://github.com/crowsonkb) using her [iterm_schemer](https://github.com/crowsonkb/iterm_schemer) tool.
 
 If there are other color schemes you'd like to see included, drop me a line!
 
