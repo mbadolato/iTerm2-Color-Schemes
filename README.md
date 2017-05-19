@@ -533,6 +533,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/slate.png)
 
+###Snazzy###
+
+![Screenshot](screenshots/snazzy.png)
+
 ### Smyck
 
 ![Screenshot](screenshots/smyck.png)
