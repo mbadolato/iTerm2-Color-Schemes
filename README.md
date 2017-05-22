@@ -108,6 +108,14 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/blazer.png)
 
+### Bluloco Dark
+
+![Screenshot](screenshots/bluloco_dark.png)
+
+### Bluloco Light
+
+![Screenshot](screenshots/bluloco_light.png)
+
 ### Borland
 
 ![Screenshot](screenshots/borland.png)
