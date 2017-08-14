@@ -622,6 +622,10 @@ more information.
 
 ![Screenshot](screenshots/symfonic.png)
 
+### synthwave
+
+![Screenshot](screenshots/synthwave.png)
+
 ### Tango Adapted
 
 ![Screenshot](screenshots/tango_adapted.png)
@@ -740,6 +744,8 @@ The scheme idleToes was inspired by the [idleFingers](http://www.idlefingers.co.
 The scheme Zenburn was inspired by the [Zenburn](http://sunaku.github.io/zenburn-terminal-color-scheme.html) version created by Suraj N. Kurapati.
 
 The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
+
+The synthwave theme was created by [brettstil](https://github.com/brettstil/)
 
 The scheme Github was inspired by the color theme palette used at [Github](https://github.com/) for their UI and in some of their mascot images.
 

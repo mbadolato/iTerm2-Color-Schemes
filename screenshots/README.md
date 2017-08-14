@@ -556,6 +556,10 @@ Screenshots
 
 ![image](symfonic.png)
 
+`synthwave.png`
+
+![image](synthwave.png)
+
 `teerb.png`
 
 ![image](teerb.png)
