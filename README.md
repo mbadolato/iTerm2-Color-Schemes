@@ -698,6 +698,10 @@ more information.
 
 ![Screenshot](screenshots/tomorrow_night_eighties.png)
 
+### Tomorrow Night Burns
+
+![Screenshot](screenshots/tomorrow_night_burns.png)
+
 ### ToyChest
 
 ![Screenshot](screenshots/toy_chest.png)
@@ -802,6 +806,8 @@ The LiquidCarbon themes were created by [markcho](https://github.com/markcho/iTe
 The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/category/themes/)
 
 The Tomorrow themes were created by [chriskempson](https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2)
+
+The Tomorrow Night Burns theme were created by [ashwinv11](https://github.com/ashwinv11/)
 
 The Twilight theme was created by [stefri](https://gist.github.com/stefri/1183140)
 
