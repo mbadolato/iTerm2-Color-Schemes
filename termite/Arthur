@@ -1,8 +1,8 @@
 [colors]
-background = "#1c1c1c"
-cursor = "#e2bbef"
-foreground = "#ddeedd"
-color0 =  #3d352a
+background = #1c1c1c
+cursor = #e2bbef
+foreground = #ddeedd
+color0 = #3d352a
 color1 = #cd5c5c
 color2 = #86af80
 color3 = #e8ae5b
@@ -18,3 +18,6 @@ color12 = #87ceeb
 color13 = #996600
 color14 = #b0c4de
 color15 = #ddccbb
+colorBD = #ffffff
+colorIT =
+colorUL =
