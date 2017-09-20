@@ -9,11 +9,11 @@ from glob import glob
 from os.path import join, splitext, basename
 
 
-XRDB2REM = [
-    ("# Head", "\n"      "[ssh_colors]" ),
-    ("background_color", "background = "),
-    ("cursor_color", "cursor = "),
-    ("foreground_color", "foreground = "),
+XRDB2TERMITE = [
+    ("# Head", "\n"      "[colors]" ),
+    ("background_color", "background = \""),
+    ("cursor_color", "cursor = \""),
+    ("foreground_color", "foreground = \""),
 
     ("ansi_0_color",     "color0 = "),
     ("ansi_1_color",     "color1 = "),
@@ -48,21 +48,24 @@ class XrdbEntry(object):
         return self.define.strip().startswith("!")
 
 
-def convert(xrdb_colors, remmina_out=sys.stdout):
-    remmina = OrderedDict(XRDB2REM)
+def convert(xrdb_colors, termite_out=sys.stdout):
+    termite = OrderedDict(XRDB2TERMITE)
 
-    for xrdb_key in remmina.keys():
+    for xrdb_key in termite.keys():
         if xrdb_key in xrdb_colors:
-            remmina[xrdb_key] = remmina[xrdb_key] + xrdb_colors[xrdb_key]
+            if 'background_color' in xrdb_key or 'cursor_color' in xrdb_key or 'foreground_color' in xrdb_key:
+                termite[xrdb_key] = termite[xrdb_key] + xrdb_colors[xrdb_key] + "\""
+            else:
+                termite[xrdb_key] = termite[xrdb_key] + xrdb_colors[xrdb_key]
         else:
-            remmina[xrdb_key] = remmina[xrdb_key]
+            termite[xrdb_key] = termite[xrdb_key]
 
     try:
-        f = remmina_out
+        f = termite_out
         if not hasattr(f, 'close'):
-            f = open(remmina_out, 'w')
+            f = open(termite_out, 'w')
 
-        for value in remmina.values():
+        for value in termite.values():
             print(value.strip(), file=f)
     finally:
         if f != sys.stdout:
@@ -91,18 +94,19 @@ def main(xrdb_path, output_path=None):
     for f in glob(join(xrdb_path, '*.xrdb')):
         xrdb_in = read_xrdb(f)
         base_name = splitext(basename(f))[0]
-        remmina_out = output_path and join(output_path, base_name + '.colors') or sys.stdout
-        convert(xrdb_in, remmina_out)
+        termite_out = output_path and join(output_path, base_name) or sys.stdout
+        convert(xrdb_in, termite_out)
 
 
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(
-        description='Translate X color schemes to Remmina .colors format')
+        description='Translate X color schemes to termite format')
     parser.add_argument('xrdb_path', type=str, help='path to xrdb files')
     parser.add_argument('-d', '--out-directory', type=str, dest='output_path',
-                        help='path where Remmina .colors config files will be' +
-                             ' created, if not provided then will be printed')
+                        help='path where termite config files will be' +
+                        ' created, if not provided then will be printed')
 
     args = parser.parse_args()
+
     main(args.xrdb_path, args.output_path)
