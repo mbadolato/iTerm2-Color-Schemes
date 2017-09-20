@@ -33,7 +33,7 @@ if __name__ == '__main__':
     print('OK --> ' + '../putty/')
     xrdb2xfce_terminal.main('../xrdb/', '../xfce4terminal/colorschemes/')
     print('OK --> ' + '../xfce4terminal/colorschemes/')
-    xrdb2Remmina.main('../xrdb/', '../Remmina/')
+    xrdb2Remmina.main('../xrdb/', '../remmina/')
     print('OK --> ' + '../Remmina/')
     xrdb2Termite.main('../xrdb/', '../termite/')
     print('OK --> ' + '../termite/')
