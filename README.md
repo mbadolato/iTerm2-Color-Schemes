@@ -21,7 +21,7 @@ To install:
 
 * Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
 * Type CMD+i (⌘+i)
-* Navigate to **Colors** tab
+* Choose **Profiles" and then choose the **Colors** tab
 * Click on **Color Presets**
 * Click on **Import**
 * Select the .itermcolors file(s) of the scheme(s) you'd like to use
