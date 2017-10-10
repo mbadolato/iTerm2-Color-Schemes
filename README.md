@@ -17,15 +17,28 @@
 This is a set of color schemes for iTerm (aka iTerm2). Screenshots below and in the [screenshots](screenshots/) directory.
 
 ## Installation Instructions
-To install:
 
-* Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
-* Type CMD+i (⌘+i)
-* Navigate to **Colors** tab
-* Click on **Color Presets**
-* Click on **Import**
-* Select the .itermcolors file(s) of the scheme(s) you'd like to use
-* Click on **Color Presets** and choose a color scheme
+There are 2 ways to install an iTerm theme (both go to the same configuration location):
+
+* Direct way via keyboard shortcut:
+	* Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
+	* Type CMD+i (⌘+i)
+	* Navigate to **Colors** tab
+	* Click on **Color Presets**
+	* Click on **Import**
+	* Select the .itermcolors file(s) of the scheme(s) you'd like to use
+	* Click on **Color Presets** and choose a color scheme
+
+* Via iTerm preferences
+	* Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
+	* Click on **iTerm2** menu title
+	* Select **Preferences...** option
+	* Select **Profiles**
+	* Navigate to **Colors** tab
+	* Click on **Color Presets**
+	* Click on **Import**
+	* Select the .itermcolors file(s) of the scheme(s) you'd like to use
+	* Click on **Color Presets** and choose a color scheme
 
 ## Contribute
 Have a great iTerm theme? Send it to me via a Pull Request! To export your theme settings:
