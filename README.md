@@ -261,7 +261,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/espresso_libre.png)
 
-###Fahrenheit###
+### Fahrenheit
 
 ![Screenshot](screenshots/fahrenheit.png)
 
