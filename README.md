@@ -329,7 +329,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/gruvbox_dark.png)
 
-###Hacktober###
+### Hacktober
 
 ![Screenshot](screenshots/hacktober.png)
 
@@ -586,7 +586,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/slate.png)
 
-###Snazzy###
+### Snazzy
 
 ![Screenshot](screenshots/snazzy.png)
 
