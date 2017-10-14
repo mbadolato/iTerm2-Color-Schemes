@@ -174,7 +174,7 @@ Screenshots
 
 `fahrenheit.png`
 
-![Screenshot](screenshots/fahrenheit.png)
+![image](fahrenheit.png)
 
 `fideloper.png`
 
