@@ -449,6 +449,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/mona_lisa.png)
 
+### Monokai Remastered
+
+![Screenshot](screenshots/monokai_remastered.png)
+
 ### Monokai Soda
 
 ![Screenshot](screenshots/monokai_soda.png)
