@@ -177,6 +177,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/c64.png)
 
+### Calamity
+
+![Screenshot](screenshots/calamity.png)
+
 ### Chalk
 
 ![Screenshot](screenshots/chalk.png)
@@ -979,6 +983,8 @@ The Tango Adapted theme and its slightly less bright counterpart Tango Half Adap
 The Pro Light theme was adapted from the Pro theme by [crowsonkb](https://github.com/crowsonkb) using her [iterm_schemer](https://github.com/crowsonkb/iterm_schemer) tool.
 
 The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
+
+The Calamity theme was created by [Pustur](https://github.com/Pustur)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
