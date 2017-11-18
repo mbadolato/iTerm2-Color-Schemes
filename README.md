@@ -37,7 +37,7 @@ There are 2 ways to install an iTerm theme (both go to the same configuration lo
 	* Navigate to **Colors** tab
 	* Click on **Color Presets**
 	* Click on **Import**
-	* Select the .itermcolors file(s) of the scheme(s) you'd like to use
+	* Select the .itermcolors file(s) of the [schemes](schemes/) you'd like to use
 	* Click on **Color Presets** and choose a color scheme
 
 ## Contribute
