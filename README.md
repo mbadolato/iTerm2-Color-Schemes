@@ -550,6 +550,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/pro_light.png)
 
+### Purple Rain
+
+![Screenshot](screenshots/purplerain.png)
+
 ### Red Alert
 
 ![Screenshot](screenshots/red_alert.png)
