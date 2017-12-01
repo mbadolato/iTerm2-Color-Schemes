@@ -552,7 +552,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ### Purple Rain
 
-![Screenshot](screenshots/purple-rain.png)
+![Screenshot](screenshots/purple_rain.png)
 
 ### Red Alert
 
