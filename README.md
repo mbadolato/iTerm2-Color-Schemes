@@ -990,6 +990,8 @@ The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay
 
 The Calamity theme was created by [Pustur](https://github.com/Pustur)
 
+The Purple Rain theme was created by [msorre2](https://github.com/msorre2)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
