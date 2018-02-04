@@ -1002,6 +1002,8 @@ The Purple Peter theme was create by [DeChamp](https://github.com/dechamp)
 
 The Purple Rain theme was created by [msorre2](https://github.com/msorre2)
 
+The ChallengerDeep theme was found [here](https://github.com/challenger-deep-theme/vim) and ported to iTerm by [eendroroy](https://github.com/eendroroy)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
