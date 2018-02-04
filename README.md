@@ -189,6 +189,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/chalkboard.png)
 
+### ChallengerDeep
+
+![Screenshot](screenshots/challenger_deep.png)
+
 ### Ciapre
 
 ![Screenshot](screenshots/ciapre.png)
