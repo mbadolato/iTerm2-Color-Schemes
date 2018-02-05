@@ -189,6 +189,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/chalkboard.png)
 
+### ChallengerDeep
+
+![Screenshot](screenshots/challenger_deep.png)
+
 ### Ciapre
 
 ![Screenshot](screenshots/ciapre.png)
@@ -997,6 +1001,8 @@ The Calamity theme was created by [Pustur](https://github.com/Pustur)
 The Purple Peter theme was create by [DeChamp](https://github.com/dechamp)
 
 The Purple Rain theme was created by [msorre2](https://github.com/msorre2)
+
+The ChallengerDeep theme was found [here](https://github.com/challenger-deep-theme/vim) and ported to iTerm by [eendroroy](https://github.com/eendroroy)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
