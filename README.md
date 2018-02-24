@@ -361,6 +361,14 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/homebrew.png)
 
+### Hopscotch
+
+![Screenshot](screenshots/hopscotch.png)
+
+### Hopscotch 256
+
+![Screenshot](screenshots/hopscotch_256.png)
+
 ### Hurtado
 
 ![Screenshot](screenshots/hurtado.png)
@@ -998,11 +1006,13 @@ The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay
 
 The Calamity theme was created by [Pustur](https://github.com/Pustur)
 
-The Purple Peter theme was create by [DeChamp](https://github.com/dechamp)
+The Purple Peter theme was created by [DeChamp](https://github.com/dechamp)
 
 The Purple Rain theme was created by [msorre2](https://github.com/msorre2)
 
 The ChallengerDeep theme was found [here](https://github.com/challenger-deep-theme/vim) and ported to iTerm by [eendroroy](https://github.com/eendroroy)
+
+The Hopscotch theme was created by [Jan T. Sott](https://github.com/idleberg/Hopscotch)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
