@@ -526,6 +526,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/onehalflight.png)
 
+### Operator Mono Dark
+
+![Screenshot](screenshots/operator_mono_dark.png)
+
 ### Pandora
 
 ![Screenshot](screenshots/pandora.png)
@@ -873,6 +877,8 @@ The Smyck theme was found [here](https://github.com/hukl/Smyck-Color-Scheme)
 The Forest Blue theme was found [here](https://github.com/olkinn/forest-blue-iTerm)
 
 The Cobalt2 theme was created by [wesbos](https://github.com/wesbos/Cobalt2-iterm)
+
+The Operator Mono Dark was ported from [vharadkou](https://github.com/vharadkou/OperatorMonoDarkTheme) by [dreamyguy](https://github.com/dreamyguy/iterm-theme-operator-mono-dark)
 
 The WarmNeon theme was ported from [PyCharm](http://www.jetbrains.com/pycharm/) by [firewut](https://github.com/firewut)
 
