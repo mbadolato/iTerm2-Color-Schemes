@@ -11,6 +11,7 @@
   - [Terminator color schemes](#terminator-color-schemes)
   - [Mac OS Terminal color schemes](#terminal-color-schemes)
   - [PuTTY color schemes](#putty-color-schemes)
+  - [Xfce Terminal color schemes](xfce-terminal-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
 
 ## Intro
@@ -1169,6 +1170,8 @@ Window > Colours
 	[ ] Use system colours
 ```
 
+### Xfce Terminal color schemes
+Copy the `colorschemes` folder to `~/.local/share/xfce4/terminal/` and restart Terminal.
 
 ### Previewing color schemes
 
