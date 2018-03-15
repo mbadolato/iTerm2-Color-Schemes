@@ -502,6 +502,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/novel.png)
 
+### Nocturnal Winter
+
+![Screenshot](screenshots/nocturnal_winter.png)
+
 ### Obsidian
 
 ![Screenshot](screenshots/obsidian.png)
@@ -509,7 +513,6 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 ### Ocean
 
 ![Screenshot](screenshots/ocean.png)
-
 
 ### OceanicMaterial
 
@@ -1020,6 +1023,8 @@ The Purple Rain theme was created by [msorre2](https://github.com/msorre2)
 The ChallengerDeep theme was found [here](https://github.com/challenger-deep-theme/vim) and ported to iTerm by [eendroroy](https://github.com/eendroroy)
 
 The Hopscotch theme was created by [Jan T. Sott](https://github.com/idleberg/Hopscotch)
+
+The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Shriram-Balaji)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
