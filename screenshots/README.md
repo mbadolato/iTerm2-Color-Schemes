@@ -392,6 +392,10 @@ Screenshots
 
 ![image](nightlion_v2.png)
 
+`nocturnal_winter.png`
+
+![image](nocturnal_winter.png)
+
 `novel.png`
 
 ![image](novel.png)
