@@ -819,6 +819,9 @@ more information.
 
 ![Screenshot](screenshots/zenburn.png)
 
+### IDEA Drak
+![Screenshot](screenshots/idea.png)
+
 ## Credits
 The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the exception of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
 
