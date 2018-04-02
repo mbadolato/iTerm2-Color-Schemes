@@ -578,6 +578,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/purple_rain.png)
 
+### Rebecca
+
+![Screenshot](screenshots/rebecca.png)
+
 ### Red Alert
 
 ![Screenshot](screenshots/red_alert.png)
@@ -1028,6 +1032,8 @@ The ChallengerDeep theme was found [here](https://github.com/challenger-deep-the
 The Hopscotch theme was created by [Jan T. Sott](https://github.com/idleberg/Hopscotch)
 
 The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Shriram-Balaji)
+
+The Rebecca theme was created [vic](https://github.com/vic) based on his [emacs rebecca-theme](https://github.com/vic/rebecca-theme)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
