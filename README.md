@@ -807,6 +807,10 @@ more information.
 
 ![Screenshot](screenshots/wez.png)
 
+### Whimsy
+
+![Screenshot](screenshots/whimsy.png)
+
 ### WildCherry
 
 ![Screenshot](screenshots/wild_cherry.png)
@@ -1034,6 +1038,8 @@ The Hopscotch theme was created by [Jan T. Sott](https://github.com/idleberg/Hop
 The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Shriram-Balaji)
 
 The Rebecca theme was created [vic](https://github.com/vic) based on his [emacs rebecca-theme](https://github.com/vic/rebecca-theme)
+
+The Whimsy theme was created by [Rod](https://github.com/rod)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
