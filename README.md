@@ -594,9 +594,9 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/red_sands.png)
 
-### Relaxed Afterglow
+### Relaxed
 
-![Screenshot](screenshots/relaxed_afterglow.png)
+![Screenshot](screenshots/relaxed.png)
 
 ### Rippedcasts
 

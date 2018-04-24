@@ -472,9 +472,9 @@ Screenshots
 
 ![image](red_sands.png)
 
-`relaxed_afterglow.png`
+`relaxed.png`
 
-![image](relaxed_afterglow.png)
+![image](relaxed.png)
 
 `rippedcasts.png`
 
