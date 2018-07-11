@@ -779,7 +779,7 @@ more information.
 
 ![Screenshot](screenshots/ubuntu.png)
 
-### UltraViloent
+### UltraViolent
 
 ![Screenshot](screenshots/ultra_violent.png)
 
