@@ -194,6 +194,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/challenger_deep.png)
 
+### Chester
+
+![Screenshot](screenshots/chester.png)
+
 ### Ciapre
 
 ![Screenshot](screenshots/ciapre.png)
@@ -1048,6 +1052,8 @@ The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Sh
 The Rebecca theme was created [vic](https://github.com/vic) based on his [emacs rebecca-theme](https://github.com/vic/rebecca-theme)
 
 The Whimsy theme was created by [Rod](https://github.com/rod)
+
+The Chester theme was created by [KH](https://github.com/spectralkh)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
