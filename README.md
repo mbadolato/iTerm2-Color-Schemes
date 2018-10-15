@@ -418,6 +418,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/kibble.png)
 
+### Kolorit
+
+![Screenshot](screenshots/kolorit.png)
+
 ### Later This Evening
 
 ![Screenshot](screenshots/later_this_evening.png)
@@ -1054,6 +1058,8 @@ The Rebecca theme was created [vic](https://github.com/vic) based on his [emacs 
 The Whimsy theme was created by [Rod](https://github.com/rod)
 
 The Chester theme was created by [KH](https://github.com/spectralkh)
+
+The Kolorit theme was created by [thomaspaulmann](https://github.com/thomaspaulmann)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
