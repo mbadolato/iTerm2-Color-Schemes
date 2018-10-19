@@ -218,6 +218,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/crayon_pony_fish.png)
 
+### Cyberpunk
+
+![Screenshot](screenshots/cyberpunk.png)
+
 ### Dark Pastel
 
 ![Screenshot](screenshots/dark_pastel.png)
@@ -1060,6 +1064,8 @@ The Whimsy theme was created by [Rod](https://github.com/rod)
 The Chester theme was created by [KH](https://github.com/spectralkh)
 
 The Kolorit theme was created by [thomaspaulmann](https://github.com/thomaspaulmann)
+
+The Cyberpunk theme was created by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
