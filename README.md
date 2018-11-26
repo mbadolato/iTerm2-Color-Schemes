@@ -11,7 +11,7 @@
   - [Terminator color schemes](#terminator-color-schemes)
   - [Mac OS Terminal color schemes](#terminal-color-schemes)
   - [PuTTY color schemes](#putty-color-schemes)
-  - [Xfce Terminal color schemes](xfce-terminal-color-schemes)
+  - [Xfce Terminal color schemes](#xfce-terminal-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
 
 ## Intro
