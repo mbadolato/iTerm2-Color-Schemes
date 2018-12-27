@@ -226,6 +226,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/dark_pastel.png)
 
+## Dark+
+
+![Screenshot](screenshots/dark_plus.png)
+
 ### Darkside
 
 ![Screenshot](screenshots/darkside.png)
