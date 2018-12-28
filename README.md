@@ -1071,6 +1071,8 @@ The Kolorit theme was created by [thomaspaulmann](https://github.com/thomaspaulm
 
 The Cyberpunk theme was created by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)
 
+The LoveLace theme was created by [nalanbar](https://github.com/nalanbar) based on a dotfile from [elenapan](https://github.com/elenapan)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
