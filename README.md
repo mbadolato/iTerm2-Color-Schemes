@@ -452,7 +452,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ### LoveLace
 
-![Screenshot](screenshots/lovelace.png)
+![Screenshot](screenshots/LoveLace.png)
 
 ### Man Page
 
