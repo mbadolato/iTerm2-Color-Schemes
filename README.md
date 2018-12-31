@@ -450,6 +450,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/liquid_carbon_transparent_inverse.png)
 
+### LoveLace
+
+![Screenshot](screenshots/lovelace.png)
+
 ### Man Page
 
 ![Screenshot](screenshots/man_page.png)
