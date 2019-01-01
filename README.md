@@ -450,6 +450,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/liquid_carbon_transparent_inverse.png)
 
+### LoveLace
+
+![Screenshot](screenshots/LoveLace.png)
+
 ### Man Page
 
 ![Screenshot](screenshots/man_page.png)
@@ -1070,6 +1074,8 @@ The Chester theme was created by [KH](https://github.com/spectralkh)
 The Kolorit theme was created by [thomaspaulmann](https://github.com/thomaspaulmann)
 
 The Cyberpunk theme was created by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)
+
+The LoveLace theme was created by [nalanbar](https://github.com/nalanbar) based on a dotfile from [elenapan](https://github.com/elenapan)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
