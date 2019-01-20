@@ -434,6 +434,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/kolorit.png)
 
+### Lab Fox
+
+![Screenshot](screenshots/lab_fox.png)
+
 ### Later This Evening
 
 ![Screenshot](screenshots/later_this_evening.png)
@@ -1082,6 +1086,8 @@ The Cyberpunk theme was created by [Murderlon](https://github.com/Murderlon/cybe
 The LoveLace theme was created by [nalanbar](https://github.com/nalanbar) based on a dotfile from [elenapan](https://github.com/elenapan)
 
 The Framer theme was created by [markogresak](https://github.com/markogresak) based on [Framer Syntax Theme](https://www.producthunt.com/posts/framer-syntax-theme) provided by [Framer](https://framer.com).
+
+The Lab Fox theme was created by [theatlasroom](https://github.com/theatlasroom) inspired by the [Gitlab design system](https://design.gitlab.com)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
