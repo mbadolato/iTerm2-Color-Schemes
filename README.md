@@ -434,6 +434,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/kolorit.png)
 
+### Lab Fox
+
+![Screenshot](screenshots/lab_fox.png)
+
 ### Later This Evening
 
 ![Screenshot](screenshots/later_this_evening.png)
