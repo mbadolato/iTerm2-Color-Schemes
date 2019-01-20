@@ -1087,6 +1087,8 @@ The LoveLace theme was created by [nalanbar](https://github.com/nalanbar) based 
 
 The Framer theme was created by [markogresak](https://github.com/markogresak) based on [Framer Syntax Theme](https://www.producthunt.com/posts/framer-syntax-theme) provided by [Framer](https://framer.com).
 
+The Lab Fox theme was created by [theatlasroom](https://github.com/theatlasroom) inspired by the [Gitlab design system](https://design.gitlab.com)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
