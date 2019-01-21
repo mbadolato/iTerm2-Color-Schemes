@@ -12,6 +12,7 @@ import xrdb2putty
 import xrdb2xfce_terminal
 import xrdb2Remmina
 import xrdb2Termite
+import xrdb2freebsd_vt
 
 if __name__ == '__main__':
 
@@ -37,3 +38,5 @@ if __name__ == '__main__':
     print('OK --> ' + '../Remmina/')
     xrdb2Termite.main('../xrdb/', '../termite/')
     print('OK --> ' + '../termite/')
+    xrdb2freebsd_vt.main('../xrdb/', '../freebsd_vt/')
+    print('OK --> ' + '../freebsd_vt/')
