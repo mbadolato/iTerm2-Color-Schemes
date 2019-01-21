@@ -12,6 +12,7 @@
   - [Mac OS Terminal color schemes](#terminal-color-schemes)
   - [PuTTY color schemes](#putty-color-schemes)
   - [Xfce Terminal color schemes](#xfce-terminal-color-schemes)
+  - [FreeBSD vt(4) color schemes](#freebsd-vt-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
 
 ## Intro
@@ -1240,6 +1241,10 @@ Window > Colours
 
 ### Xfce Terminal color schemes
 Copy the `colorschemes` folder to `~/.local/share/xfce4/terminal/` and restart Terminal.
+
+### FreeBSD vt color schemes
+Append your favourite theme from `freebsd_vt/` to `/boot/loader.conf`
+or `/boot/loader.conf.local` and reboot.
 
 ### Previewing color schemes
 
