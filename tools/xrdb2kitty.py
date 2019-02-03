@@ -12,7 +12,7 @@ XRDB2KITTY.update(
     {
         ("background_color", "background selection_foreground"),
         ("cursor_color", "cursor"),
-        ("foreground_color", "foreground background_foreground"),
+        ("foreground_color", "foreground selection_background"),
         ("underline_color", "underline_color"),
     }
 )
