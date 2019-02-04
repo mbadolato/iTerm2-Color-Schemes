@@ -816,6 +816,10 @@ more information.
 
 ![Screenshot](screenshots/under_the_sea.png)
 
+### Unikitty
+
+![Screenshot](screenshots/unikitty.png)
+
 ### Urple
 
 ![Screenshot](screenshots/urple.png)
@@ -1089,6 +1093,8 @@ The LoveLace theme was created by [nalanbar](https://github.com/nalanbar) based 
 The Framer theme was created by [markogresak](https://github.com/markogresak) based on [Framer Syntax Theme](https://www.producthunt.com/posts/framer-syntax-theme) provided by [Framer](https://framer.com).
 
 The Lab Fox theme was created by [theatlasroom](https://github.com/theatlasroom) inspired by the [Gitlab design system](https://design.gitlab.com)
+
+The Unikitty theme was created by [jakebathman](https://github.com/jakebathman)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
