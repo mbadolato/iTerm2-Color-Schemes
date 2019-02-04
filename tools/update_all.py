@@ -13,7 +13,7 @@ import xrdb2xfce_terminal
 import xrdb2Remmina
 import xrdb2Termite
 import xrdb2freebsd_vt
-
+import xrdb2kitty
 if __name__ == '__main__':
 
     for f in glob("../schemes/*.itermcolors"):
@@ -40,3 +40,5 @@ if __name__ == '__main__':
     print('OK --> ' + '../termite/')
     xrdb2freebsd_vt.main('../xrdb/', '../freebsd_vt/')
     print('OK --> ' + '../freebsd_vt/')
+    xrdb2kitty.main('../xrdb/', '../kitty/')
+    print('OK --> ' + '../kitty/')
