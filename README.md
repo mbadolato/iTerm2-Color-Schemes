@@ -56,6 +56,8 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
 
+It would also be very helpful if you `cd tools/` and run `python3 update_all.py` to generate all formats of your scheme
+
 ## Screenshots
 ### 3024 Day
 
