@@ -1026,7 +1026,7 @@ The Material and MaterialDark themes were created by [stoeffel](https://github.c
 
 The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpatel)
 
-The AtomOneLight theme was created by [iamstarkov](https://github.com/iamstarkov)
+The AtomOneLight theme was created by [crowsonkb](https://github.com/crowsonkb)
 
 The Piatto Light theme was created by [kovv](https://github.com/kovv)
 
