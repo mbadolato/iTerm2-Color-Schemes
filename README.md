@@ -873,6 +873,9 @@ more information.
 ### IDEA Drak
 ![Screenshot](screenshots/idea.png)
 
+### Primary
+![Screenshot](screenshots/primary.png)
+
 ## Credits
 The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the exception of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
 
@@ -1097,6 +1100,8 @@ The Framer theme was created by [markogresak](https://github.com/markogresak) ba
 The Lab Fox theme was created by [theatlasroom](https://github.com/theatlasroom) inspired by the [Gitlab design system](https://design.gitlab.com)
 
 The Unikitty theme was created by [jakebathman](https://github.com/jakebathman)
+
+The Primary theme was created by [jayanthkoushik](https://github.com/jayanthkoushik) based on [Google's vim colorscheme](https://github.com/google/vim-colorscheme-primary).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
