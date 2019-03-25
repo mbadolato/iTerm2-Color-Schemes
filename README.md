@@ -14,7 +14,7 @@
   - [Xfce Terminal color schemes](#xfce-terminal-color-schemes)
   - [FreeBSD vt(4) color schemes](#freebsd-vt-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
-
+  - [MobaXterm color schemes](#mobaxterm-color-schemes)
 ## Intro
 This is a set of color schemes for iTerm (aka iTerm2). Screenshots below and in the [screenshots](screenshots/) directory.
 
@@ -1258,6 +1258,9 @@ Copy the `colorschemes` folder to `~/.local/share/xfce4/terminal/` and restart T
 ### FreeBSD vt color schemes
 Append your favourite theme from `freebsd_vt/` to `/boot/loader.conf`
 or `/boot/loader.conf.local` and reboot.
+
+### MobaXterm color schemes
+Copy the theme content form `mobaxterm/` and paste the content to your `MobaXterm.ini` in the corresponding place. (`[Colors]`)
 
 ### Previewing color schemes
 
