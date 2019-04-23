@@ -876,6 +876,9 @@ more information.
 ### Primary
 ![Screenshot](screenshots/primary.png)
 
+### Andromeda
+![Screenshot](screenshots/andromeda.png)
+
 ## Credits
 The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the exception of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
 
@@ -1102,6 +1105,8 @@ The Lab Fox theme was created by [theatlasroom](https://github.com/theatlasroom)
 The Unikitty theme was created by [jakebathman](https://github.com/jakebathman)
 
 The Primary theme was created by [jayanthkoushik](https://github.com/jayanthkoushik) based on [Google's vim colorscheme](https://github.com/google/vim-colorscheme-primary).
+
+The Andromeda theme was created by [memije](https://github.com/memije) based on [EliverLara](https://github.com/EliverLara/)'s [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) VS Code theme.
 
 If there are other color schemes you'd like to see included, drop me a line!
 
