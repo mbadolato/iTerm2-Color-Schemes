@@ -734,6 +734,10 @@ more information.
 
 ![Screenshot](screenshots/square.png)
 
+### Subliminal
+
+![Screenshot](screenshots/subliminal.png)
+
 ### Sundried
 
 ![Screenshot](screenshots/sundried.png)
@@ -905,6 +909,8 @@ The theme Monokai Soda was found [here](https://github.com/deepsweet/Monokai-Sod
 The theme Monokai Vivid was created by [vitalymak](https://github.com/vitalymak/iTerm2-Color-Schemes).
 
 The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-Color-Schemes)
+
+The theme Subliminal was created by [gdsrosa](https://github.com/gdsrosa/subliminal-itermcolors)
 
 The themes Solarized Dark and Solarized Light come from the official [Solarized web site](http://ethanschoonover.com/solarized)
 
