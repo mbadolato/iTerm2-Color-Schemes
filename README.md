@@ -529,6 +529,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/nightlion_v2.png)
 
+### Night Owlight Light
+
+![Screenshot](screenshots/night_owlish_light.png)
+
 ### Novel
 
 ![Screenshot](screenshots/novel.png)
@@ -1107,6 +1111,8 @@ The Unikitty theme was created by [jakebathman](https://github.com/jakebathman)
 The Primary theme was created by [jayanthkoushik](https://github.com/jayanthkoushik) based on [Google's vim colorscheme](https://github.com/google/vim-colorscheme-primary).
 
 The Andromeda theme was created by [memije](https://github.com/memije) based on [EliverLara](https://github.com/EliverLara/)'s [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) VS Code theme.
+
+The Night Owlish Light theme was created by [praveenpuglia](https://github.com/praveenpuglia) based on [sdras](https://github.com/sdras)'s [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VS Code theme.
 
 If there are other color schemes you'd like to see included, drop me a line!
 
