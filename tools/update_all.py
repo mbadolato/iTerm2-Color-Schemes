@@ -15,6 +15,7 @@ import xrdb2Termite
 import xrdb2freebsd_vt
 import xrdb2kitty
 import xrdb2moba
+import xrdb2lxterm
 import xrdb2pantheon_terminal
 if __name__ == '__main__':
 
@@ -46,5 +47,7 @@ if __name__ == '__main__':
     print('OK --> ' + '../kitty/')
     xrdb2moba.main('../xrdb', '../mobaxterm')
     print('OK --> ' + '../mobaxterm/')
+    xrdb2lxterm.main('../xrdb', '../lxterminal')
+    print('OK --> ' + '../lxterminal/')
     xrdb2pantheon_terminal.main('../xrdb/', '../pantheonterminal/')
     print('OK --> ' + '../pantheonterminal/')
