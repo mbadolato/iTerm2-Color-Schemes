@@ -15,6 +15,7 @@
   - [FreeBSD vt(4) color schemes](#freebsd-vt-color-schemes)
   - [Previewing color schemes](#previewing-color-schemes)
   - [MobaXterm color schemes](#mobaxterm-color-schemes)
+  - [LXTerminal color schemes](#lxterminal-color-schemes)
 ## Intro
 This is a set of color schemes for iTerm (aka iTerm2). Screenshots below and in the [screenshots](screenshots/) directory.
 
@@ -1278,6 +1279,9 @@ or `/boot/loader.conf.local` and reboot.
 
 ### MobaXterm color schemes
 Copy the theme content form `mobaxterm/` and paste the content to your `MobaXterm.ini` in the corresponding place. (`[Colors]`)
+
+### LXTerminal color schemes
+Copy the theme content form `lxterminal/` and paste the content to your `lxterminal` in the corresponding place. (`[general]`)
 
 ### Previewing color schemes
 
