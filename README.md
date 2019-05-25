@@ -529,7 +529,7 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/nightlion_v2.png)
 
-### Night Owlight Light
+### Night Owlish Light
 
 ![Screenshot](screenshots/night_owlish_light.png)
 
