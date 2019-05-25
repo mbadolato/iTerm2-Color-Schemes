@@ -80,6 +80,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/alien_blood.png)
 
+### Andromeda
+
+![Screenshot](screenshots/andromeda.png)
+
 ### Argonaut
 
 ![Screenshot](screenshots/argonaut.png)
@@ -406,6 +410,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/ic_orange_ppl.png)
 
+### IDEA Drak
+
+![Screenshot](screenshots/idea.png)
+
 ### idleToes
 
 ![Screenshot](screenshots/idleToes.png)
@@ -597,6 +605,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Pnevma
 
 ![Screenshot](screenshots/pnevma.png)
+
+### Primary
+
+![Screenshot](screenshots/primary.png)
 
 ### Pro
 
@@ -878,15 +890,6 @@ more information.
 ### Zenburn
 
 ![Screenshot](screenshots/zenburn.png)
-
-### IDEA Drak
-![Screenshot](screenshots/idea.png)
-
-### Primary
-![Screenshot](screenshots/primary.png)
-
-### Andromeda
-![Screenshot](screenshots/andromeda.png)
 
 ## Credits
 The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the exception of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
