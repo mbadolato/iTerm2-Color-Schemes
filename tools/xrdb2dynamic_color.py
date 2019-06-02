@@ -8,57 +8,35 @@
 #
 # Usage:
 # xrdb2dynamic_color.py path/to/xrdb/files -d /dynamiccolor
-#
-# Author: Xabier Larrakoetxea
 
 import os
 import re
 import argparse
+from xrdbparser import Xrdb
 
 
 def main(xrdb_path, output_path=None):
-    global color_regex, xrdb_regex
-    # The regexes to match the colors
-    color_regex = re.compile("#define +Ansi_(\d+)_Color +(#[A-Fa-f0-9]{6})")
-    bg_regex = re.compile("#define +Background_Color +(#[A-Fa-f0-9]{6})")
-    fg_regex = re.compile("#define +Foreground_Color +(#[A-Fa-f0-9]{6})")
-    cursor_regex = re.compile("#define +Cursor_Color +(#[A-Fa-f0-9]{6})")
-    # File regex
-    xrdb_regex = re.compile("(.+)\.[xX][rR][dD][bB]")
-    for i in filter(lambda x: xrdb_regex.match(x), os.listdir(xrdb_path)):
-
-        # per file
-        with open(os.path.join(xrdb_path, i)) as f:
-            lines = f.readlines()
-
-        # Search special colors
-        color_file = "\n".join(lines)
-
-        bg_color = bg_regex.search(color_file).group(1)
-        fg_color = fg_regex.search(color_file).group(1)
-        cursor_color = cursor_regex.search(color_file).group(1)
-
-        # Search palette
-        colors = sorted(filter(lambda x: color_regex.match(x), lines),
-                        key=lambda x: int(color_regex.match(x).group(1)))
-
-        # Create the color string
-        colors = list(map(lambda x: color_regex.match(x).group(2), colors))
-
-        name = xrdb_regex.match(i).group(1)
-        output = "#!/bin/sh\n# " + name
+    for data in Xrdb.parse_all(xrdb_path):
+        output = "#!/bin/sh\n# " + data.name
 
         output += '\nprintf "\\033]4'
         for i in range(0, 16):
-            output += ";%d;%s" % (i, colors[i])
+            output += ";%d;%s" % (i, data.colors[i])
         output += '\\007"'
 
-        output += '\nprintf "\\033]10;%s;%s;%s\\007"\n' % (fg_color, bg_color, cursor_color)
+        output += '\nprintf "\\033]10;%s;%s;%s\\007"' % (data.Foreground_Color, data.Background_Color, data.Cursor_Color)
+        if hasattr(data, "Selection_Color"):
+            output += '\nprintf "\\033]17;%s\\007"' % (data.Selection_Color)
+        if hasattr(data, "Selected_Text_Color"):
+            output += '\nprintf "\\033]19;%s\\007"' % (data.Selected_Text_Color)
+        if hasattr(data, "Bold_Color"):
+            output += '\nprintf "\\033]5;0;%s\\007"' % (data.Bold_Color)
+        output += "\n"
 
         if not output_path:
             print(output)
         else:
-            dest = '{0}.sh'.format(os.path.join(output_path, name))
+            dest = '{0}.sh'.format(os.path.join(output_path, data.name))
             with open(dest, 'w+') as f:
                 f.write(output)
             # Make sure these scripts are executable
