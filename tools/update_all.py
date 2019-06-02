@@ -18,6 +18,7 @@ import xrdb2moba
 import xrdb2lxterm
 import xrdb2pantheon_terminal
 import xrdb2wezterm
+import xrdb2dynamic_color
 
 if __name__ == '__main__':
 
@@ -55,3 +56,5 @@ if __name__ == '__main__':
     print('OK --> ' + '../pantheonterminal/')
     xrdb2wezterm.main('../xrdb/', '../wezterm/')
     print('OK --> ' + '../wezterm/')
+    xrdb2dynamic_color.main('../xrdb/', '../dynamic-colors/')
+    print('OK --> ' + '../dynamic-colors/')
