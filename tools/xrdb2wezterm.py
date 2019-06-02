@@ -5,67 +5,49 @@
 #
 # Usage:
 # xrdb2wezterm.py path/to/xrdb/files -d /wezterm/output
-#
-# Author: Xabier Larrakoetxea
 
 import os
 import re
 import argparse
+from xrdbparser import Xrdb
 
 
-def main(xrdb_path, output_path=None):
-    global color_regex, xrdb_regex
-    # The regexes to match the colors
-    color_regex = re.compile("#define +Ansi_(\d+)_Color +(#[A-Fa-f0-9]{6})")
-    bg_regex = re.compile("#define +Background_Color +(#[A-Fa-f0-9]{6})")
-    fg_regex = re.compile("#define +Foreground_Color +(#[A-Fa-f0-9]{6})")
-    cursor_regex = re.compile("#define +Cursor_Color +(#[A-Fa-f0-9]{6})")
-    # File regex
-    xrdb_regex = re.compile("(.+)\.[xX][rR][dD][bB]")
-    for i in filter(lambda x: xrdb_regex.match(x), os.listdir(xrdb_path)):
+def process_file(data):
+    quoted_colors = [f'"{c}"' for c in data.colors]
+    ansi = ",".join(quoted_colors[0:8])
+    brights = ",".join(quoted_colors[8:])
 
-        # per file
-        with open(os.path.join(xrdb_path, i)) as f:
-            lines = f.readlines()
+    # map to wezterm names
+    pairs = [
+        ("foreground", "Foreground_Color"),
+        ("background", "Background_Color"),
+        ("cursor_bg", "Cursor_Color"),
+        ("cursor_fg", "Cursor_Text_Color"),
+        ("selection_bg", "Selection_Color"),
+        ("selection_fg", "Selected_Text_Color"),
+    ]
 
-        # Search special colors
-        color_file = "\n".join(lines)
+    lines = ""
+    for wezterm, xrdb in pairs:
+        color = getattr(data, xrdb, None)
+        if color:
+            lines += f'{wezterm} = "{color}"\n'
 
-        bg_color = bg_regex.search(color_file).group(1)
-        fg_color = fg_regex.search(color_file).group(1)
-        cursor_color = cursor_regex.search(color_file).group(1)
-
-        # Search palette
-        colors = sorted(filter(lambda x: color_regex.match(x), lines),
-                        key=lambda x: int(color_regex.match(x).group(1)))
-
-        # Create the color string
-        colors = list(map(lambda x: '"%s"' % color_regex.match(x).group(2), colors))
-
-        ansi = ",".join(colors[0:8])
-        brights = ",".join(colors[8:])
-
-        scheme = """
-# {name}
+    return f"""# {data.name}
 [colors]
-foreground = "{fg}"
-background = "{bg}"
-cursor_bg = "{cr}"
+{lines}
 ansi = [{ansi}]
 brights = [{brights}]
 """
 
-        output = scheme.format(name=xrdb_regex.match(i).group(1),
-                               ansi=ansi,
-                               brights=brights,
-                               bg=bg_color,
-                               cr=cursor_color,
-                               fg=fg_color)
 
+def main(xrdb_path, output_path=None):
+    for data in Xrdb.parse_all(xrdb_path):
+        output = process_file(data)
         if not output_path:
             print(output)
         else:
-            dest = os.path.join(output_path, xrdb_regex.match(i).group(1))
+            dest = os.path.join(output_path, data.name)
             with open('{0}.toml'.format(dest), 'w+') as f:
                 f.write(output)
 
