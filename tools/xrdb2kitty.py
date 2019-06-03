@@ -8,14 +8,13 @@ from glob import glob
 from os.path import basename, join, splitext
 
 XRDB2KITTY = OrderedDict(("ansi_%s_color" % c, "color%s" % c) for c in range(16))
-XRDB2KITTY.update(
-    {
+for k, v in [
         ("background_color", "background selection_foreground"),
         ("cursor_color", "cursor"),
         ("foreground_color", "foreground selection_background"),
         ("underline_color", "underline_color url_color"),
-    }
-)
+    ]:
+    XRDB2KITTY[k] = v
 
 
 def convert(xrdb_colors):

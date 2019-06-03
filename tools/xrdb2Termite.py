@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import argparse
 from collections import OrderedDict
@@ -11,9 +11,9 @@ from os.path import join, splitext, basename
 
 XRDB2TERMITE = [
     ("# Head", "\n"      "[colors]" ),
-    ("background_color", "background = \""),
-    ("cursor_color", "cursor = \""),
-    ("foreground_color", "foreground = \""),
+    ("background_color", "background = "),
+    ("cursor_color", "cursor = "),
+    ("foreground_color", "foreground = "),
 
     ("ansi_0_color",     "color0 = "),
     ("ansi_1_color",     "color1 = "),
@@ -53,10 +53,7 @@ def convert(xrdb_colors, termite_out=sys.stdout):
 
     for xrdb_key in termite.keys():
         if xrdb_key in xrdb_colors:
-            if 'background_color' in xrdb_key or 'cursor_color' in xrdb_key or 'foreground_color' in xrdb_key:
-                termite[xrdb_key] = termite[xrdb_key] + xrdb_colors[xrdb_key] + "\""
-            else:
-                termite[xrdb_key] = termite[xrdb_key] + xrdb_colors[xrdb_key]
+            termite[xrdb_key] = termite[xrdb_key] + xrdb_colors[xrdb_key]
         else:
             termite[xrdb_key] = termite[xrdb_key]
 
