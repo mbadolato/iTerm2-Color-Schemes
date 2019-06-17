@@ -494,6 +494,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/medallion.png)
 
+### Midnight In Mojave
+
+![Screenshot](screenshots/midnight_in_mojave.png)
+
 ### Misterioso
 
 ![Screenshot](screenshots/misterioso.png)
@@ -1123,6 +1127,8 @@ The Primary theme was created by [jayanthkoushik](https://github.com/jayanthkous
 The Andromeda theme was created by [memije](https://github.com/memije) based on [EliverLara](https://github.com/EliverLara/)'s [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) VS Code theme.
 
 The Night Owlish Light theme was created by [praveenpuglia](https://github.com/praveenpuglia) based on [sdras](https://github.com/sdras)'s [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VS Code theme.
+
+The Midnight In Mojave theme was created by [OberstKrueger](https://github.com/oberstkrueger) based on the colors outlined in the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
