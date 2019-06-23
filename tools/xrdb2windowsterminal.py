@@ -4,7 +4,7 @@
 # the new Windows Terminal color scheme format
 #
 # Usage:
-# xrdb2windowsterminal.py path/to/xrdb/files -d /wezterm/output
+# xrdb2windowsterminal.py path/to/xrdb/files -d /windowsterminal/output
 
 import os
 import re
