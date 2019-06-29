@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Builtin Solarized Dark'
-cursor-color='#708284'
-foreground='#708284'
-background='rgba(0,30,39,.95)'
-palette='#002831:#d11c24:#738a05:#a57706:#2176c7:#c61c6f:#259286:#eae3cb:#001e27:#bd3613:#475b62:#536870:#708284:#5956ba:#819090:#fcf4dc'
+cursor-color='#839496'
+foreground='#839496'
+background='rgba(0,43,54,.95)'
+palette='#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3'
 COLORS
