@@ -702,10 +702,6 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/solarized_darcula.png)
 
-### Solarized Dark
-
-![Screenshot](screenshots/solarized_dark.png)
-
 ### Solarized Dark - Patched
 
 Some applications assume the ANSI color code 8 is a gray color. Solarized treats
@@ -722,10 +718,6 @@ more information.
 ### Solarized Dark Higher Contrast
 
 ![Screenshot](screenshots/solarized_dark_higher_contrast.png)
-
-### Solarized Light
-
-![Screenshot](screenshots/solarized_light.png)
 
 ### SpaceGray
 
