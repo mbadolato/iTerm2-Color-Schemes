@@ -486,6 +486,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/material_dark.png)
 
+### MaterialOcean
+
+![Screenshot](screenshots/material_ocean.png)
+
 ### Mathias
 
 ![Screenshot](screenshots/mathias.png)
