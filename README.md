@@ -682,6 +682,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/shaman.png)
 
+### Shades-Of-Purple
+
+![Screenshot](screenshots/ShadesOfPurple.png)
+
 ### Slate
 
 ![Screenshot](screenshots/slate.png)
@@ -948,6 +952,8 @@ The Hybrid theme was found [here](https://gist.github.com/luan/6362811)
 
 The Thayer Bright theme was found [here](https://github.com/t3chnoboy/thayer-bright-iTerm)
 
+The Shades Of Purple theme was found [here](https://github.com/ahmadawais/shades-of-purple-iterm2) and ported by [fr3fou](https://github.com/fr3fou)
+
 The Spring theme was found [here](https://github.com/t3chnoboy/spring-iTerm)
 
 The Smyck theme was found [here](https://github.com/hukl/Smyck-Color-Scheme)
@@ -1045,6 +1051,8 @@ The Floraverse theme was created by [papayakitty](http://floraverse.com/)
 The Material and MaterialDark themes were created by [stoeffel](https://github.com/stoeffel/material-iterm)
 
 The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpatel)
+
+The MaterialOcean theme was found [here](https://github.com/kaicataldo/material.vim/blob/master/terminal-colors/iterm2/material-ocean.itermcolors) and was ported by [fr3fou](https://github.com/fr3fou)
 
 The AtomOneLight theme was created by [iamstarkov](https://github.com/iamstarkov)
 
