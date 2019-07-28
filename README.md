@@ -682,6 +682,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/shaman.png)
 
+### Shades-Of-Purple
+
+![Screenshot](screenshots/ShadesOfPurple.png)
+
 ### Slate
 
 ![Screenshot](screenshots/slate.png)
