@@ -635,6 +635,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/purple_rain.png)
 
+### Pussy Kiss
+
+![Screenshot](screenshots/pussy_kiss.png)
+
 ### Rebecca
 
 ![Screenshot](screenshots/rebecca.png)
@@ -1134,6 +1138,8 @@ The Andromeda theme was created by [memije](https://github.com/memije) based on 
 The Night Owlish Light theme was created by [praveenpuglia](https://github.com/praveenpuglia) based on [sdras](https://github.com/sdras)'s [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VS Code theme.
 
 The Midnight In Mojave theme was created by [OberstKrueger](https://github.com/oberstkrueger) based on the colors outlined in the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
+
+The Pussy Kiss theme was created by [girlfriend](https://www.instagram.com/the.julias/) of mine [fitz123](https://github.com/fitz123)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
