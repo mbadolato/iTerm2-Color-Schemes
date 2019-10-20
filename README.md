@@ -143,6 +143,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/borland.png)
 
+### Breeze
+
+![Screenshot](screenshots/breeze.png)
+
 ### Bright Lights
 
 ![Screenshot](screenshots/bright_lights.png)
@@ -1134,6 +1138,8 @@ The Andromeda theme was created by [memije](https://github.com/memije) based on 
 The Night Owlish Light theme was created by [praveenpuglia](https://github.com/praveenpuglia) based on [sdras](https://github.com/sdras)'s [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VS Code theme.
 
 The Midnight In Mojave theme was created by [OberstKrueger](https://github.com/oberstkrueger) based on the colors outlined in the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
+
+The Breeze theme was based on [the Breeze color scheme](https://github.com/KDE/konsole/blob/master/data/color-schemes/Breeze.colorscheme) by [KDE](https://kde.org) and ported to iTerm by [nieltg](https://github.com/nieltg)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
