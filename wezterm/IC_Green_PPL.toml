@@ -1,11 +1,11 @@
 # IC_Green_PPL
 [colors]
-foreground = "#d9efd3"
-background = "#3a3d3f"
-cursor_bg = "#42ff58"
-cursor_fg = "#1f1f1f"
-selection_bg = "#2b9b35"
-selection_fg = "#d8efd5"
+foreground = "#e0f1dc"
+background = "#2c2c2c"
+cursor_bg = "#47fa6b"
+cursor_fg = "#292929"
+selection_bg = "#116b41"
+selection_fg = "#e0f1dc"
 
-ansi = ["#1f1f1f","#fb002a","#339c24","#659b25","#149b45","#53b82c","#2cb868","#e0ffef"]
-brights = ["#032710","#a7ff3f","#9fff6d","#d2ff6d","#72ffb5","#50ff3e","#22ff71","#daefd0"]
+ansi = ["#014401","#ff2736","#41a638","#76a831","#2ec3b9","#50a096","#3ca078","#e6fef2"]
+brights = ["#035c03","#b4fa5c","#aefb86","#dafa87","#2efaeb","#50fafa","#3cfac8","#e0f1dc"]
