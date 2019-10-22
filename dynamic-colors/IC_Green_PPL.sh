@@ -1,7 +1,7 @@
 #!/bin/sh
 # IC_Green_PPL
-printf "\033]4;0;#1f1f1f;1;#fb002a;2;#339c24;3;#659b25;4;#149b45;5;#53b82c;6;#2cb868;7;#e0ffef;8;#032710;9;#a7ff3f;10;#9fff6d;11;#d2ff6d;12;#72ffb5;13;#50ff3e;14;#22ff71;15;#daefd0\007"
-printf "\033]10;#d9efd3;#3a3d3f;#42ff58\007"
-printf "\033]17;#2b9b35\007"
-printf "\033]19;#d8efd5\007"
-printf "\033]5;0;#9fff6d\007"
+printf "\033]4;0;#014401;1;#ff2736;2;#41a638;3;#76a831;4;#2ec3b9;5;#50a096;6;#3ca078;7;#e6fef2;8;#035c03;9;#b4fa5c;10;#aefb86;11;#dafa87;12;#2efaeb;13;#50fafa;14;#3cfac8;15;#e0f1dc\007"
+printf "\033]10;#e0f1dc;#2c2c2c;#47fa6b\007"
+printf "\033]17;#116b41\007"
+printf "\033]19;#e0f1dc\007"
+printf "\033]5;0;#acfb80\007"
