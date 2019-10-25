@@ -387,6 +387,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/hipster_green.png)
 
+### Hivacruz
+
+![Screenshot](screenshots/hivacruz.png)
+
 ### Homebrew
 
 ![Screenshot](screenshots/homebrew.png)
@@ -1114,6 +1118,8 @@ The Purple Rain theme was created by [msorre2](https://github.com/msorre2)
 The ChallengerDeep theme was found [here](https://github.com/challenger-deep-theme/vim) and ported to iTerm by [eendroroy](https://github.com/eendroroy)
 
 The Hopscotch theme was created by [Jan T. Sott](https://github.com/idleberg/Hopscotch)
+
+The Hivacruz theme was created by [Yann Defretin](https://github.com/kinoute/hivacruz-itermcolors)
 
 The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Shriram-Balaji)
 
