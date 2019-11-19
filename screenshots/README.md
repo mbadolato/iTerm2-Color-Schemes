@@ -133,6 +133,7 @@ Screenshots
 ![image](dark_pastel.png)
 
 `dark_plus.png`
+
 ![image](dark_plus.png)
 
 `darkside.png`
