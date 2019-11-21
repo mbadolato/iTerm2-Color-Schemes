@@ -1313,6 +1313,9 @@ Copy the theme content form `mobaxterm/` and paste the content to your `MobaXter
 ### LXTerminal color schemes
 Copy the theme content form `lxterminal/` and paste the content to your `lxterminal` in the corresponding place. (`[general]`)
 
+### Visual Studio Code (vscode) color schemes
+Copy the theme content into your [UserSettings.json](https://code.visualstudio.com/docs/getstarted/settings)
+
 ### Previewing color schemes
 
 [preview.rb](tools/preview.rb) is a simple script that allows you to preview
