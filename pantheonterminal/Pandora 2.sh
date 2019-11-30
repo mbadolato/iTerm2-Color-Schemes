@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='Pandora'
+name='Pandora 2'
 cursor-color='#43d58e'
 foreground='#e1e1e1'
 background='rgba(20,30,67,.95)'
