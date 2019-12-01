@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='Borland 2'
+name='Borland'
 cursor-color='#ffa560'
 foreground='#ffff4e'
 background='rgba(0,0,164,.95)'

@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='Chester 2'
+name='Chester'
 cursor-color='#b4b1b1'
 foreground='#ffffff'
 background='rgba(44,54,67,.95)'

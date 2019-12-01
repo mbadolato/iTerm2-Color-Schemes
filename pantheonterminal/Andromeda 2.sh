@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='Andromeda 2'
+name='Andromeda'
 cursor-color='#f8f8f0'
 foreground='#e5e5e5'
 background='rgba(38,42,51,.95)'

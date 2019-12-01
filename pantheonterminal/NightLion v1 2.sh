@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='NightLion v1 2'
+name='NightLion v1'
 cursor-color='#bbbbbb'
 foreground='#bbbbbb'
 background='rgba(0,0,0,.95)'

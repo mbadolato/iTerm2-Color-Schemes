@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='VibrantInk 2'
+name='VibrantInk'
 cursor-color='#ffffff'
 foreground='#ffffff'
 background='rgba(0,0,0,.95)'

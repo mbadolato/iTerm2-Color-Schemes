@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='Monokai Remastered 2'
+name='Monokai Remastered'
 cursor-color='#fc971f'
 foreground='#d9d9d9'
 background='rgba(12,12,12,.95)'

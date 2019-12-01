@@ -1,0 +1,91 @@
+#!/usr/bin/env ruby
+
+require 'uri'
+
+# Levenshtein distance implementation taken from:
+# https://stackoverflow.com/a/16323861/155351
+def lev(s, t)
+  m = s.length
+  n = t.length
+  return m if n == 0
+  return n if m == 0
+
+  d = Array.new(m+1) {Array.new(n+1)}
+
+  (0..m).each {|i| d[i][0] = i}
+  (0..n).each {|j| d[0][j] = j}
+  (1..n).each do |j|
+    (1..m).each do |i|
+      d[i][j] =
+        if s[i-1] == t[j-1]
+          d[i-1][j-1]
+        else
+          [ d[i-1][j]+1,
+            d[i][j-1]+1,
+            d[i-1][j-1]+1,
+          ].min
+        end
+    end
+  end
+
+  d[m][n]
+end
+
+def find_scheme_lev(screenshot_file_name, all_scheme_names)
+  all_scheme_names
+    .map {|scheme_name| [lev(screenshot_file_name, scheme_name), scheme_name]}
+    .min
+end
+
+def find_scheme_naive(screenshot_file_name, all_scheme_names)
+  naive_guess =
+    screenshot_file_name
+    .capitalize
+    .gsub(/-(.)/) {|match| match[1].upcase}
+    .gsub(/_(.)/) {|match| " #{match[1].upcase}"}
+
+  return naive_guess if all_scheme_names.include?(naive_guess)
+end
+
+def build_screenshot_scheme_map
+  all_scheme_names = Dir["schemes/*.itermcolors"].map { |path|
+    File.basename(path, ".itermcolors")
+  }
+
+  found_schemes = []
+  stragglers = []
+
+  Dir['screenshots/*.png'].each do |path|
+    screenshot_file_name = File.basename(path, '.png')
+
+    if scheme_name = find_scheme_naive(screenshot_file_name, all_scheme_names)
+      found_schemes << [screenshot_file_name, scheme_name]
+      all_scheme_names.delete(scheme_name)
+    else
+      stragglers << screenshot_file_name
+    end
+  end
+
+  stragglers.each do |screenshot_file_name|
+    distance, scheme_name =
+      find_scheme_lev(screenshot_file_name, all_scheme_names)
+
+    if distance < 10
+      found_schemes << [screenshot_file_name, scheme_name]
+      all_scheme_names.delete(scheme_name)
+    else
+      found_schemes << [screenshot_file_name, nil]
+    end
+  end
+
+  found_schemes.sort
+end
+
+build_screenshot_scheme_map.reject{|pair| pair.last.nil?}.each do |screenshot_name, scheme_name|
+  puts <<-HTML
+
+<p><a href="https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/#{URI.escape(scheme_name)}.itermcolors"><strong>#{scheme_name}</strong></a></p>
+
+<p><img src="https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/#{URI.escape(screenshot_name)}.png" alt="Screenshot"></p>
+  HTML
+end

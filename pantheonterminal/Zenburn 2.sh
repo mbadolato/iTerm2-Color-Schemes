@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='Zenburn 2'
+name='Zenburn'
 cursor-color='#73635a'
 foreground='#dcdccc'
 background='rgba(63,63,63,.95)'

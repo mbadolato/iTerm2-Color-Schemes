@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='Hacktober 2'
+name='Hacktober'
 cursor-color='#c9c9c9'
 foreground='#c9c9c9'
 background='rgba(20,20,20,.95)'

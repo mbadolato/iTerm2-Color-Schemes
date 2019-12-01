@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='Spiderman 2'
+name='Spiderman'
 cursor-color='#2c3fff'
 foreground='#e3e3e3'
 background='rgba(27,29,30,.95)'

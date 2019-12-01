@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='Thayer Bright 2'
+name='Thayer Bright'
 cursor-color='#fc971f'
 foreground='#f8f8f8'
 background='rgba(27,29,30,.95)'
