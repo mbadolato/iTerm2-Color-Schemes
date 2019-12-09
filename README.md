@@ -17,7 +17,9 @@
   - [MobaXterm color schemes](#mobaxterm-color-schemes)
   - [LXTerminal color schemes](#lxterminal-color-schemes)
 ## Intro
-This is a set of color schemes for iTerm (aka iTerm2). Screenshots below and in the [screenshots](screenshots/) directory.
+This is a set of color schemes for iTerm (aka iTerm2). It also includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio
+
+Screenshots below and in the [screenshots](screenshots/) directory.
 
 ## Installation Instructions
 
