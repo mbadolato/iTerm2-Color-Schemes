@@ -231,7 +231,7 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ### Coffee
 
-![Screenshot](screenshots/coffee_theme.png)
+![Screenshot](screenshots/Coffee.png)
 
 ### CrayonPonyFish
 
