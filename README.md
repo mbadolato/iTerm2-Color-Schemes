@@ -229,6 +229,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/cobalt2.png)
 
+### Coffee
+
+![Screenshot](screenshots/coffee_theme.png)
+
 ### CrayonPonyFish
 
 ![Screenshot](screenshots/crayon_pony_fish.png)
@@ -1152,6 +1156,8 @@ The Night Owlish Light theme was created by [praveenpuglia](https://github.com/p
 The Midnight In Mojave theme was created by [OberstKrueger](https://github.com/oberstkrueger) based on the colors outlined in the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
 
 The Breeze theme was based on [the Breeze color scheme](https://github.com/KDE/konsole/blob/master/data/color-schemes/Breeze.colorscheme) by [KDE](https://kde.org) and ported to iTerm by [nieltg](https://github.com/nieltg)
+
+The coffee them was created by [cbitterfield](https://github.com/cbitterfield)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
