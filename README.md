@@ -265,6 +265,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/dimmed_monokai.png)
 
+### Doom One
+
+![Screenshot](screenshots/doom_one.png)
+
 ### DotGov
 
 ![Screenshot](screenshots/dot_gov.png)
@@ -1158,6 +1162,8 @@ The Midnight In Mojave theme was created by [OberstKrueger](https://github.com/o
 The Breeze theme was based on [the Breeze color scheme](https://github.com/KDE/konsole/blob/master/data/color-schemes/Breeze.colorscheme) by [KDE](https://kde.org) and ported to iTerm by [nieltg](https://github.com/nieltg)
 
 The coffee them was created by [cbitterfield](https://github.com/cbitterfield)
+
+The Doom One theme was based on [Emacs Doom default theme](https://github.com/hlissner/emacs-doom-themes)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
