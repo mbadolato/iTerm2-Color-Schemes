@@ -1185,6 +1185,8 @@ The coffee them was created by [cbitterfield](https://github.com/cbitterfield)
 
 The Doom One theme was based on [Emacs Doom default theme](https://github.com/hlissner/emacs-doom-themes)
 
+The Blueberry Banana, Blue Matrix, Cyberdyne, Laser, and Scarlet Protocol themes were created by [ReagentX](https://github.com/ReagentX)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
