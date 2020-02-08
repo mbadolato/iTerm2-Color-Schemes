@@ -133,6 +133,14 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/blazer.png)
 
+### Blueberry Banana
+
+![Screenshot](screenshots/blueberry_banana.png)
+
+### Blue Matrix
+
+![Screenshot](screenshots/blue_matrix.png)
+
 ### Bluloco Dark
 
 ![Screenshot](screenshots/bluloco_dark.png)
@@ -236,6 +244,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### CrayonPonyFish
 
 ![Screenshot](screenshots/crayon_pony_fish.png)
+
+### Cyberdyne
+
+![Screenshot](screenshots/cyberdyne.png)
 
 ### Cyberpunk
 
@@ -469,6 +481,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/lab_fox.png)
 
+### Laser
+
+![Screenshot](screenshots/laser.png)
+
 ### Later This Evening
 
 ![Screenshot](screenshots/later_this_evening.png)
@@ -684,6 +700,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Ryuuko
 
 ![Screenshot](screenshots/ryuuko.png)
+
+### Scarlet Protocol
+
+![Screenshot](screenshots/scarlet_protocol.png)
 
 ### Seafoam Pastel
 
