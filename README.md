@@ -133,6 +133,14 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/blazer.png)
 
+### Blueberry Banana
+
+![Screenshot](screenshots/blueberry_banana.png)
+
+### Blue Matrix
+
+![Screenshot](screenshots/blue_matrix.png)
+
 ### Bluloco Dark
 
 ![Screenshot](screenshots/bluloco_dark.png)
@@ -236,6 +244,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### CrayonPonyFish
 
 ![Screenshot](screenshots/crayon_pony_fish.png)
+
+### Cyberdyne
+
+![Screenshot](screenshots/cyberdyne.png)
 
 ### Cyberpunk
 
@@ -469,6 +481,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/lab_fox.png)
 
+### Laser
+
+![Screenshot](screenshots/laser.png)
+
 ### Later This Evening
 
 ![Screenshot](screenshots/later_this_evening.png)
@@ -684,6 +700,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Ryuuko
 
 ![Screenshot](screenshots/ryuuko.png)
+
+### Scarlet Protocol
+
+![Screenshot](screenshots/scarlet_protocol.png)
 
 ### Seafoam Pastel
 
@@ -1164,6 +1184,8 @@ The Breeze theme was based on [the Breeze color scheme](https://github.com/KDE/k
 The coffee them was created by [cbitterfield](https://github.com/cbitterfield)
 
 The Doom One theme was based on [Emacs Doom default theme](https://github.com/hlissner/emacs-doom-themes)
+
+The Blueberry Banana, Blue Matrix, Cyberdyne, Laser, and Scarlet Protocol themes were created by [ReagentX](https://github.com/ReagentX)
 
 If there are other color schemes you'd like to see included, drop me a line!
 

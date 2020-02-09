@@ -68,6 +68,14 @@ Screenshots
 
 ![image](blazer.png)
 
+`blue_matrix.png`
+
+![image](blue_matrix.png)
+
+`blueberry_banana.png`
+
+![image](blueberry_banana.png)
+
 `borland.png`
 
 ![image](borland.png)
@@ -127,6 +135,10 @@ Screenshots
 `crayon_pony_fish.png`
 
 ![image](crayon_pony_fish.png)
+
+`cyberdyne.png`
+
+![image](cyberdyne.png)
 
 `dark_pastel.png`
 
@@ -324,6 +336,10 @@ Screenshots
 
 ![image](kibble.png)
 
+`laser.png`
+
+![image](laser.png)
+
 `later_this_evening.png`
 
 ![image](later_this_evening.png)
@@ -499,6 +515,10 @@ Screenshots
 `ryuuko.png`
 
 ![image](ryuuko.png)
+
+`scarlet_protocol.png`
+
+![image](scarlet_protocol.png)
 
 `sea_shells.png`
 
