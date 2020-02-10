@@ -133,6 +133,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/blazer.png)
 
+### BlueBerry Pie
+
+![Screenshot](screenshots/blueberry_pie.png)
+
 ### Blueberry Banana
 
 ![Screenshot](screenshots/blueberry_banana.png)
@@ -1186,6 +1190,8 @@ The coffee them was created by [cbitterfield](https://github.com/cbitterfield)
 The Doom One theme was based on [Emacs Doom default theme](https://github.com/hlissner/emacs-doom-themes)
 
 The Blueberry Banana, Blue Matrix, Cyberdyne, Laser, and Scarlet Protocol themes were created by [ReagentX](https://github.com/ReagentX)
+
+The BlueBerry Pie theme was created together by [murmurlilia](https://www.instagram.com/the.julias/) and [fitz123](https://github.com/fitz123)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
