@@ -1195,13 +1195,15 @@ The Midnight In Mojave theme was created by [OberstKrueger](https://github.com/o
 
 The Breeze theme was based on [the Breeze color scheme](https://github.com/KDE/konsole/blob/master/data/color-schemes/Breeze.colorscheme) by [KDE](https://kde.org) and ported to iTerm by [nieltg](https://github.com/nieltg)
 
-The coffee them was created by [cbitterfield](https://github.com/cbitterfield)
+The coffee theme was created by [cbitterfield](https://github.com/cbitterfield)
 
 The Doom One theme was based on [Emacs Doom default theme](https://github.com/hlissner/emacs-doom-themes)
 
 The Blueberry Banana, Blue Matrix, Cyberdyne, Laser, and Scarlet Protocol themes were created by [ReagentX](https://github.com/ReagentX)
 
 The BlueBerry Pie theme was created together by [murmurlilia](https://www.instagram.com/the.julias/) and [fitz123](https://github.com/fitz123)
+
+The Synthwave Everything theme was created by [smithbm2316](https://github.com/smithbm2316) based on [robb0wen's](https://github.com/robb0wen/) VS Code theme [Synthwave '84](https://github.com/robb0wen/synthwave-vscode)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
