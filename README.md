@@ -16,7 +16,9 @@
   - [Previewing color schemes](#previewing-color-schemes)
   - [MobaXterm color schemes](#mobaxterm-color-schemes)
   - [LXTerminal color schemes](#lxterminal-color-schemes)
+
 ## Intro
+
 This is a set of color schemes for iTerm (aka iTerm2). It also includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio
 
 Screenshots below and in the [screenshots](screenshots/) directory.
@@ -25,44 +27,45 @@ Screenshots below and in the [screenshots](screenshots/) directory.
 
 There are 2 ways to install an iTerm theme (both go to the same configuration location):
 
-* Direct way via keyboard shortcut:
-	* Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
-	* Type CMD+i (⌘+i)
-	* Navigate to **Colors** tab
-	* Click on **Color Presets**
-	* Click on **Import**
-	* Click on the **schemes** folder
-	* Select the **.itermcolors** profiles you would like to import
-	* Click on **Color Presets** and choose a color scheme
+- Direct way via keyboard shortcut:
+  _ Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
+  _ Type CMD+i (⌘+i)
+  _ Navigate to **Colors** tab
+  _ Click on **Color Presets**
+  _ Click on **Import**
+  _ Click on the **schemes** folder
+  _ Select the **.itermcolors** profiles you would like to import
+  _ Click on **Color Presets** and choose a color scheme
 
-* Via iTerm preferences
-	* Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
-	* Click on **iTerm2** menu title
-	* Select **Preferences...** option
-	* Select **Profiles**
-	* Navigate to **Colors** tab
-	* Click on **Color Presets**
-	* Click on **Import**
-	* Select the .itermcolors file(s) of the [schemes](schemes/) you'd like to use
-	* Click on **Color Presets** and choose a color scheme
+- Via iTerm preferences
+  _ Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
+  _ Click on **iTerm2** menu title
+  _ Select **Preferences...** option
+  _ Select **Profiles**
+  _ Navigate to **Colors** tab
+  _ Click on **Color Presets**
+  _ Click on **Import**
+  _ Select the .itermcolors file(s) of the [schemes](schemes/) you'd like to use \* Click on **Color Presets** and choose a color scheme
 
 ## Contribute
+
 Have a great iTerm theme? Send it to me via a Pull Request! To export your theme settings:
 
-* Launch iTerm 2
-* Type CMD+i (⌘+i)
-* Navigate to **Colors** tab
-* Click on **Color Presets**
-* Click on **Export**
-* Save the .itermcolors file
+- Launch iTerm 2
+- Type CMD+i (⌘+i)
+- Navigate to **Colors** tab
+- Click on **Color Presets**
+- Click on **Export**
+- Save the .itermcolors file
 
-To include a screenshot, please generate the output using the [screenshotTable.sh script](tools/screenshotTable.sh) in the ```tools``` directory.
+To include a screenshot, please generate the output using the [screenshotTable.sh script](tools/screenshotTable.sh) in the `tools` directory.
 
 **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
 
 It would also be very helpful if you `cd tools/` and run `python3 update_all.py` to generate all formats of your scheme
 
 ## Screenshots
+
 ### 3024 Day
 
 ![Screenshot](screenshots/3024_day.png)
@@ -108,9 +111,11 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ![Screenshot](screenshots/atom_one_light.png)
 
 ### ayu
+
 ![Screenshot](screenshots/ayu.png)
 
 ### ayu Light
+
 ![Screenshot](screenshots/ayu_light.png)
 
 ### Batman
@@ -818,6 +823,10 @@ more information.
 
 ![Screenshot](screenshots/synthwave.png)
 
+### Synthwave Everything
+
+![Screenshot](screenshots/synthwave-everything.png)
+
 ### Tango Adapted
 
 ![Screenshot](screenshots/tango_adapted.png)
@@ -943,6 +952,7 @@ more information.
 ![Screenshot](screenshots/zenburn.png)
 
 ## Credits
+
 The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the exception of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
 
 The scheme Violet was created by [ashfinal](https://github.com/ashfinal/vim-colors-violet).
@@ -1127,13 +1137,13 @@ The Firewatch theme was created by [Sebastian Szturo](https://github.com/Sebasti
 
 The Pandora theme was created by [milosmatic](https://github.com/milosmatic/Pandora-iterm)
 
-The Elementary OS  theme was created by [elementary.io](https://elementary.io/) and added by [987poiuytrewq](https://github.com/987poiuytrewq)
+The Elementary OS theme was created by [elementary.io](https://elementary.io/) and added by [987poiuytrewq](https://github.com/987poiuytrewq)
 
-The Gruvbox Dark  theme was created by [morhetz](https://github.com/morhetz) and added by [mcchrish](https://github.com/mcchrish)
+The Gruvbox Dark theme was created by [morhetz](https://github.com/morhetz) and added by [mcchrish](https://github.com/mcchrish)
 
-The Ayu and Ayu Light  themes were created by [alebcay](https://github.com/alebcay)
+The Ayu and Ayu Light themes were created by [alebcay](https://github.com/alebcay)
 
-The Deep  theme was created by [ADoyle](https://github.com/adoyle-h)
+The Deep theme was created by [ADoyle](https://github.com/adoyle-h)
 
 The Red Planet theme was created by [ibrokemypie](https://github.com/ibrokemypie) based on [eliquious](https://github.com/eliquious)'s [Red Planet](https://github.com/eliquious/Red-Planet-Theme) Sublime Text theme.
 
@@ -1196,14 +1206,16 @@ The BlueBerry Pie theme was created together by [murmurlilia](https://www.instag
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
+
 ### X11 Installation
+
 To install under the [X Window System](https://www.x.org/):
 
-* Import the .xrdb file of the scheme you'd like to use:
+- Import the .xrdb file of the scheme you'd like to use:
 
         #include "/home/mbadolato/iTerm2-Color-Schemes/xrdb/Blazer.xrdb"
 
-* Use the `#define`s provided by the imported .xrdb file:
+- Use the `#define`s provided by the imported .xrdb file:
 
         Rxvt*color0:       Ansi_0_Color
         Rxvt*color1:       Ansi_1_Color
@@ -1251,17 +1263,17 @@ To install under the [X Window System](https://www.x.org/):
         XTerm*background:  Background_Color
         XTerm*cursorColor: Cursor_Color
 
-* Store the above snippets in a file and pass it in:
+- Store the above snippets in a file and pass it in:
 
         $ xrdb -merge YOUR_FILE_CONTAINING_ABOVE_SNIPPETS
 
-* Open new XTerm or Rxvt windows to see the changes.
+- Open new XTerm or Rxvt windows to see the changes.
 
-* Adapt this procedure to other terminals as needed.
+- Adapt this procedure to other terminals as needed.
 
 ### Terminator color schemes
 
-Edit your Terminator configuration file (located in: `$HOME/.config/terminator/config`) and add the configurations for the theme(s) you'd like to use the ``[profiles]`` section. The `terminator/` directory contains the config snippets you'll need. Just paste the configurations into the `[profiles]` sections, and you're good to go!
+Edit your Terminator configuration file (located in: `$HOME/.config/terminator/config`) and add the configurations for the theme(s) you'd like to use the `[profiles]` section. The `terminator/` directory contains the config snippets you'll need. Just paste the configurations into the `[profiles]` sections, and you're good to go!
 
 At a minimum, this is all you need. You can customize the fonts and other aspects as well, if you wish. See the Terminator documentation for more details.
 
@@ -1303,16 +1315,19 @@ Copy the themes from the `konsole` directory to `$HOME/.config/konsole` (in some
 If you want to make the themes available to all users, copy the .colorscheme files to `/usr/share/konsole`.
 
 ### Terminal color schemes
+
 Just double click on selected theme in `terminal` directory
 
 ### PuTTY color schemes
 
 #### New Session Method
+
 This method creates a new blank session with JUST colors set properly.
 
 Download the appropriate `colorscheme.reg` file and import the registry changes by right-clicking and choosing Merge. Choose "Yes" when prompted if you're sure. Color scheme will show up as a new PuTTY session with all defaults except entries at `Window > Colours > Adjust the precise colours PuTTY displays`.
 
 #### Modify Session Method
+
 This method modifies an existing session and changes JUST the color settings.
 
 Download the appropriate `colorscheme.reg` file. Open the file with a text editor and change the color scheme portion (`Molokai` below) to match the session you want to modify:
@@ -1343,19 +1358,24 @@ Window > Colours
 ```
 
 ### Xfce Terminal color schemes
+
 Copy the `colorschemes` folder to `~/.local/share/xfce4/terminal/` and restart Terminal.
 
 ### FreeBSD vt color schemes
+
 Append your favourite theme from `freebsd_vt/` to `/boot/loader.conf`
 or `/boot/loader.conf.local` and reboot.
 
 ### MobaXterm color schemes
+
 Copy the theme content form `mobaxterm/` and paste the content to your `MobaXterm.ini` in the corresponding place. (`[Colors]`)
 
 ### LXTerminal color schemes
+
 Copy the theme content form `lxterminal/` and paste the content to your `lxterminal` in the corresponding place. (`[general]`)
 
 ### Visual Studio Code (vscode) color schemes
+
 Copy the theme content into your [UserSettings.json](https://code.visualstudio.com/docs/getstarted/settings)
 
 ### Previewing color schemes
@@ -1376,7 +1396,7 @@ tools/preview.rb schemes/AdventureTime.itermcolors
 tools/preview.rb schemes/*
 ```
 
-----
+---
 
 iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes | iTerm Themes | iTerm2 Themes | iTerm 2 Themes
 
