@@ -658,6 +658,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/pnevma.png)
 
+## Popping and Locking
+
+![Screenshot](screenshots/popping-and-locking.png)
+
 ### Primary
 
 ![Screenshot](screenshots/primary.png)
