@@ -742,13 +742,13 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/SleepyHollow.png)
 
-### Snazzy
-
-![Screenshot](screenshots/snazzy.png)
-
 ### Smyck
 
 ![Screenshot](screenshots/smyck.png)
+
+### Snazzy
+
+![Screenshot](screenshots/snazzy.png)
 
 ### SoftServer
 
