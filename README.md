@@ -1370,15 +1370,19 @@ or `/boot/loader.conf.local` and reboot.
 
 ### MobaXterm color schemes
 
-Copy the theme content form `mobaxterm/` and paste the content to your `MobaXterm.ini` in the corresponding place. (`[Colors]`)
+Copy the theme content from `mobaxterm/` and paste the content to your `MobaXterm.ini` in the corresponding place (`[Colors]`).
 
 ### LXTerminal color schemes
 
-Copy the theme content form `lxterminal/` and paste the content to your `lxterminal` in the corresponding place. (`[general]`)
+Copy the theme content from `lxterminal/` and paste the content to your `lxterminal` in the corresponding place (`[general]`).
 
 ### Visual Studio Code (vscode) color schemes
 
-Copy the theme content into your [UserSettings.json](https://code.visualstudio.com/docs/getstarted/settings)
+Copy the theme content from `vscode/` and paste the content to your [UserSettings.json](https://code.visualstudio.com/docs/getstarted/settings).
+
+### Windows Terminal color schemes
+
+Copy the theme content from `windowsterminal/` and paste the content to your `profiles.json` in the corresponding place (`[schemes]`). Then specify the name of your theme by `[colorScheme]` in `[profiles]`.
 
 ### Previewing color schemes
 
