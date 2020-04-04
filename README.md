@@ -710,6 +710,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/ryuuko.png)
 
+### Sakura
+
+![Screenshot](screenshots/sakura.png)
+
 ### Scarlet Protocol
 
 ![Screenshot](screenshots/scarlet_protocol.png)
@@ -1204,6 +1208,8 @@ The Blueberry Banana, Blue Matrix, Cyberdyne, Laser, and Scarlet Protocol themes
 The BlueBerry Pie theme was created together by [murmurlilia](https://www.instagram.com/the.julias/) and [fitz123](https://github.com/fitz123)
 
 The Synthwave Everything theme was created by [smithbm2316](https://github.com/smithbm2316) based on [robb0wen's](https://github.com/robb0wen/) VS Code theme [Synthwave '84](https://github.com/robb0wen/synthwave-vscode)
+
+The theme Sakura was created by [0xN0ri](https://github.com/0xN0ri) based on [zdj](https://github.com/zdj) iTerm 2 color scheme [Urple](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Urple.itermcolors)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
