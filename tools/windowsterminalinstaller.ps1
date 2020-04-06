@@ -7,7 +7,7 @@ $configData = Get-Content -Path $terminalProfile | ConvertFrom-Json
 $installedNames = $configData.schemes | ForEach-Object { $_.name }
 
 # Get color files into an array of schemes
-$toInstall = Get-ChildItem -Path $PSScriptRoot  -Filter '*.json' | ForEach-Object { Get-Content $_ | ConvertFrom-Json }
+$toInstall = Get-ChildItem -Path "${PSScriptRoot}\..\windowsterminal"  -Filter '*.json' | ForEach-Object { Get-Content $_ | ConvertFrom-Json }
 
 # Filter out any schemes with conflicting names
 if ($null -ne $installedNames) {
