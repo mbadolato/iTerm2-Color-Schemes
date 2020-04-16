@@ -16,6 +16,8 @@
   - [Previewing color schemes](#previewing-color-schemes)
   - [MobaXterm color schemes](#mobaxterm-color-schemes)
   - [LXTerminal color schemes](#lxterminal-color-schemes)
+  - [Visual Studio Code color schemes](#visual-studio-code-color-schemes)
+  - [Windows Terminal color schemes](#windows-terminal-color-schemes)
 
 ## Intro
 
@@ -1382,7 +1384,7 @@ Copy the theme content from `mobaxterm/` and paste the content to your `MobaXter
 
 Copy the theme content from `lxterminal/` and paste the content to your `lxterminal` in the corresponding place (`[general]`).
 
-### Visual Studio Code (vscode) color schemes
+### Visual Studio Code color schemes
 
 Copy the theme content from `vscode/` and paste the content to your [UserSettings.json](https://code.visualstudio.com/docs/getstarted/settings).
 
