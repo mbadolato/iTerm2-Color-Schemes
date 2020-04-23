@@ -1,7 +1,12 @@
 $terminalProfile = "${HOME}\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\profiles.json"
 
+# New Settings path as of windows terminal +0.11
+if (!(Test-Path $terminalProfile)) {
+  $terminalProfile = "${HOME}\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json";
+}
+
 # Load existing profile
-$configData = Get-Content -Path $terminalProfile | ConvertFrom-Json
+$configData = (Get-Content -Path $terminalProfile | ConvertFrom-Json)[1]
 
 # Get a list of scheme names to avoid duplicates
 $installedNames = $configData.schemes | ForEach-Object { $_.name }
