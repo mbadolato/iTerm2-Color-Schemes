@@ -548,6 +548,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/midnight_in_mojave.png)
 
+### Mirage
+
+![Screenshot](screenshots/mirage.png)
+
 ### Misterioso
 
 ![Screenshot](screenshots/misterioso.png)
@@ -1212,6 +1216,8 @@ The BlueBerry Pie theme was created together by [murmurlilia](https://www.instag
 The Synthwave Everything theme was created by [smithbm2316](https://github.com/smithbm2316) based on [robb0wen's](https://github.com/robb0wen/) VS Code theme [Synthwave '84](https://github.com/robb0wen/synthwave-vscode)
 
 The theme Sakura was created by [0xN0ri](https://github.com/0xN0ri) based on [zdj](https://github.com/zdj) iTerm 2 color scheme [Urple](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Urple.itermcolors)
+
+The Mirage theme was created by [Tristan Remy](https://github.com/tristanremy/mirage) and ported to iTerm2 by [Gomah](https://github.com/Gomah/mirage-iterm).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
