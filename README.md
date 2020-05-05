@@ -708,6 +708,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/rippedcasts.png)
 
+### Rouge 2
+
+![Screenshot](screenshots/rouge_2.png)
+
 ### Royal
 
 ![Screenshot](screenshots/royal.png)
@@ -1218,6 +1222,8 @@ The Synthwave Everything theme was created by [smithbm2316](https://github.com/s
 The theme Sakura was created by [0xN0ri](https://github.com/0xN0ri) based on [zdj](https://github.com/zdj) iTerm 2 color scheme [Urple](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Urple.itermcolors)
 
 The Mirage theme was created by [Tristan Remy](https://github.com/tristanremy/mirage) and ported to iTerm2 by [Gomah](https://github.com/Gomah/mirage-iterm).
+
+The Rouge 2 theme was created by [Josef Aidt](https://github.com/josefaidt/rouge-theme) and ported to iTerm2 by [Sam Rose](https://github.com/samrose3).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
