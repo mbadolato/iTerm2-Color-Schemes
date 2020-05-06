@@ -288,6 +288,18 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/dimmed_monokai.png)
 
+### Django
+
+![Screenshot](screenshots/Django.png)
+
+### DjangoRebornAgain
+
+![Screenshot](screenshots/DjangoRebornAgain.png)
+
+### DjangoSmoothy
+
+![Screenshot](screenshots/DjangoSmoothy.png)
+
 ### Doom One
 
 ![Screenshot](screenshots/doom_one.png)
