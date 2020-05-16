@@ -1,0 +1,29 @@
+# Colors (Red Sands)
+colors:
+  bright:
+    black: '#555555'
+    blue: '#0072ae'
+    cyan: '#55ffff'
+    green: '#00bb00'
+    magenta: '#ff55ff'
+    red: '#bb0000'
+    white: '#ffffff'
+    yellow: '#e7b000'
+  cursor:
+    cursor: '#ffffff'
+    text: '#000000'
+  normal:
+    black: '#000000'
+    blue: '#0072ff'
+    cyan: '#00bbbb'
+    green: '#00bb00'
+    magenta: '#bb00bb'
+    red: '#ff3f00'
+    white: '#bbbbbb'
+    yellow: '#e7b000'
+  primary:
+    background: '#7a251e'
+    foreground: '#d7c9a7'
+  selection:
+    background: '#a4a390'
+    text: '#000000'

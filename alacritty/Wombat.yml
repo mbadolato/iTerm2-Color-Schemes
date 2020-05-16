@@ -1,0 +1,29 @@
+# Colors (Wombat)
+colors:
+  bright:
+    black: '#313131'
+    blue: '#a5c7ff'
+    cyan: '#b7fff9'
+    green: '#ddf88f'
+    magenta: '#ddaaff'
+    red: '#f58c80'
+    white: '#ffffff'
+    yellow: '#eee5b2'
+  cursor:
+    cursor: '#bbbbbb'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#5da9f6'
+    cyan: '#82fff7'
+    green: '#b1e969'
+    magenta: '#e86aff'
+    red: '#ff615a'
+    white: '#dedacf'
+    yellow: '#ebd99c'
+  primary:
+    background: '#171717'
+    foreground: '#dedacf'
+  selection:
+    background: '#453b39'
+    text: '#b6bbc0'

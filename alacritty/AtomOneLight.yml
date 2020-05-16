@@ -1,0 +1,29 @@
+# Colors (AtomOneLight)
+colors:
+  bright:
+    black: '#000000'
+    blue: '#2f5af3'
+    cyan: '#3f953a'
+    green: '#3f953a'
+    magenta: '#a00095'
+    red: '#de3e35'
+    white: '#ffffff'
+    yellow: '#d2b67c'
+  cursor:
+    cursor: '#bbbbbb'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#2f5af3'
+    cyan: '#3f953a'
+    green: '#3f953a'
+    magenta: '#950095'
+    red: '#de3e35'
+    white: '#bbbbbb'
+    yellow: '#d2b67c'
+  primary:
+    background: '#f9f9f9'
+    foreground: '#2a2c33'
+  selection:
+    background: '#ededed'
+    text: '#2a2c33'

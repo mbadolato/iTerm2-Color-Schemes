@@ -1,0 +1,29 @@
+# Colors (Spacedust)
+colors:
+  bright:
+    black: '#684c31'
+    blue: '#67a0ce'
+    cyan: '#83a7b4'
+    green: '#aecab8'
+    magenta: '#ff8a3a'
+    red: '#ff8a3a'
+    white: '#fefff1'
+    yellow: '#ffc878'
+  cursor:
+    cursor: '#708284'
+    text: '#002831'
+  normal:
+    black: '#6e5346'
+    blue: '#0f548b'
+    cyan: '#06afc7'
+    green: '#5cab96'
+    magenta: '#e35b00'
+    red: '#e35b00'
+    white: '#f0f1ce'
+    yellow: '#e3cd7b'
+  primary:
+    background: '#0a1e24'
+    foreground: '#ecf0c1'
+  selection:
+    background: '#0a385c'
+    text: '#ffffff'

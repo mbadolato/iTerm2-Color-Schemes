@@ -1,0 +1,29 @@
+# Colors (Harper)
+colors:
+  bright:
+    black: '#726e6a'
+    blue: '#489e48'
+    cyan: '#f5bfd7'
+    green: '#7fb5e1'
+    magenta: '#b296c6'
+    red: '#f8b63f'
+    white: '#fefbea'
+    yellow: '#d6da25'
+  cursor:
+    cursor: '#a8a49d'
+    text: '#010101'
+  normal:
+    black: '#010101'
+    blue: '#489e48'
+    cyan: '#f5bfd7'
+    green: '#7fb5e1'
+    magenta: '#b296c6'
+    red: '#f8b63f'
+    white: '#a8a49d'
+    yellow: '#d6da25'
+  primary:
+    background: '#010101'
+    foreground: '#a8a49d'
+  selection:
+    background: '#5a5753'
+    text: '#a8a49d'

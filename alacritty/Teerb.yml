@@ -1,0 +1,29 @@
+# Colors (Teerb)
+colors:
+  bright:
+    black: '#1c1c1c'
+    blue: '#86aed6'
+    cyan: '#b1e7dd'
+    green: '#aed686'
+    magenta: '#d6aed6'
+    red: '#d68686'
+    white: '#efefef'
+    yellow: '#e4c9af'
+  cursor:
+    cursor: '#e4c9af'
+    text: '#000000'
+  normal:
+    black: '#1c1c1c'
+    blue: '#86aed6'
+    cyan: '#8adbb4'
+    green: '#aed686'
+    magenta: '#d6aed6'
+    red: '#d68686'
+    white: '#d0d0d0'
+    yellow: '#d7af87'
+  primary:
+    background: '#262626'
+    foreground: '#d0d0d0'
+  selection:
+    background: '#4d4d4d'
+    text: '#ffffff'

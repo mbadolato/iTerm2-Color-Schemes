@@ -1,0 +1,29 @@
+# Colors (Andromeda)
+colors:
+  bright:
+    black: '#666666'
+    blue: '#2472c8'
+    cyan: '#0fa8cd'
+    green: '#05bc79'
+    magenta: '#bc3fbc'
+    red: '#cd3131'
+    white: '#e5e5e5'
+    yellow: '#e5e512'
+  cursor:
+    cursor: '#f8f8f0'
+    text: '#cfcfc2'
+  normal:
+    black: '#000000'
+    blue: '#2472c8'
+    cyan: '#0fa8cd'
+    green: '#05bc79'
+    magenta: '#bc3fbc'
+    red: '#cd3131'
+    white: '#e5e5e5'
+    yellow: '#e5e512'
+  primary:
+    background: '#262a33'
+    foreground: '#e5e5e5'
+  selection:
+    background: '#5a5c62'
+    text: '#ece7e7'

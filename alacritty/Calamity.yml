@@ -1,0 +1,29 @@
+# Colors (Calamity)
+colors:
+  bright:
+    black: '#7e6c88'
+    blue: '#3b79c7'
+    cyan: '#74d3de'
+    green: '#a5f69c'
+    magenta: '#f92672'
+    red: '#fc644d'
+    white: '#ffffff'
+    yellow: '#e9d7a5'
+  cursor:
+    cursor: '#d5ced9'
+    text: '#2f2833'
+  normal:
+    black: '#2f2833'
+    blue: '#3b79c7'
+    cyan: '#74d3de'
+    green: '#a5f69c'
+    magenta: '#f92672'
+    red: '#fc644d'
+    white: '#d5ced9'
+    yellow: '#e9d7a5'
+  primary:
+    background: '#2f2833'
+    foreground: '#d5ced9'
+  selection:
+    background: '#7e6c88'
+    text: '#d5ced9'

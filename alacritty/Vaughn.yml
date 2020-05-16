@@ -1,0 +1,29 @@
+# Colors (Vaughn)
+colors:
+  bright:
+    black: '#709080'
+    blue: '#5555ff'
+    cyan: '#93e0e3'
+    green: '#60b48a'
+    magenta: '#ec93d3'
+    red: '#dca3a3'
+    white: '#ffffff'
+    yellow: '#f0dfaf'
+  cursor:
+    cursor: '#ff5555'
+    text: '#ffffff'
+  normal:
+    black: '#25234f'
+    blue: '#5555ff'
+    cyan: '#8cd0d3'
+    green: '#60b48a'
+    magenta: '#f08cc3'
+    red: '#705050'
+    white: '#709080'
+    yellow: '#dfaf8f'
+  primary:
+    background: '#25234f'
+    foreground: '#dcdccc'
+  selection:
+    background: '#b5d5ff'
+    text: '#000000'

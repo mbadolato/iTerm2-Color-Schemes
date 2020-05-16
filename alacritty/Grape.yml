@@ -1,0 +1,29 @@
+# Colors (Grape)
+colors:
+  bright:
+    black: '#59516a'
+    blue: '#a9bcec'
+    cyan: '#9de3eb'
+    green: '#53aa5e'
+    magenta: '#ad81c2'
+    red: '#f0729a'
+    white: '#a288f7'
+    yellow: '#b2dc87'
+  cursor:
+    cursor: '#a288f7'
+    text: '#171422'
+  normal:
+    black: '#2d283f'
+    blue: '#487df4'
+    cyan: '#3bdeed'
+    green: '#1fa91b'
+    magenta: '#8d35c9'
+    red: '#ed2261'
+    white: '#9e9ea0'
+    yellow: '#8ddc20'
+  primary:
+    background: '#171423'
+    foreground: '#9f9fa1'
+  selection:
+    background: '#493d70'
+    text: '#171422'

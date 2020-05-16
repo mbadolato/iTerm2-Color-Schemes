@@ -1,0 +1,29 @@
+# Colors (Framer)
+colors:
+  bright:
+    black: '#414141'
+    blue: '#33bbff'
+    cyan: '#bbecff'
+    green: '#b6f292'
+    magenta: '#cebbff'
+    red: '#ff8888'
+    white: '#ffffff'
+    yellow: '#ffd966'
+  cursor:
+    cursor: '#fcdc08'
+    text: '#161616'
+  normal:
+    black: '#141414'
+    blue: '#00aaff'
+    cyan: '#88ddff'
+    green: '#98ec65'
+    magenta: '#aa88ff'
+    red: '#ff5555'
+    white: '#cccccc'
+    yellow: '#ffcc33'
+  primary:
+    background: '#111111'
+    foreground: '#777777'
+  selection:
+    background: '#666666'
+    text: '#ffffff'

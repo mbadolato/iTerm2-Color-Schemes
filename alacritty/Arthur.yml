@@ -1,0 +1,29 @@
+# Colors (Arthur)
+colors:
+  bright:
+    black: '#554444'
+    blue: '#87ceeb'
+    cyan: '#b0c4de'
+    green: '#88aa22'
+    magenta: '#996600'
+    red: '#cc5533'
+    white: '#ddccbb'
+    yellow: '#ffa75d'
+  cursor:
+    cursor: '#e2bbef'
+    text: '#000000'
+  normal:
+    black: '#3d352a'
+    blue: '#6495ed'
+    cyan: '#b0c4de'
+    green: '#86af80'
+    magenta: '#deb887'
+    red: '#cd5c5c'
+    white: '#bbaa99'
+    yellow: '#e8ae5b'
+  primary:
+    background: '#1c1c1c'
+    foreground: '#ddeedd'
+  selection:
+    background: '#4d4d4d'
+    text: '#ffffff'

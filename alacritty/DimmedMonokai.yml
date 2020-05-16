@@ -1,0 +1,29 @@
+# Colors (DimmedMonokai)
+colors:
+  bright:
+    black: '#888987'
+    blue: '#186de3'
+    cyan: '#2e706d'
+    green: '#0f722f'
+    magenta: '#fb0067'
+    red: '#fb001f'
+    white: '#fdffb9'
+    yellow: '#c47033'
+  cursor:
+    cursor: '#f83e19'
+    text: '#171717'
+  normal:
+    black: '#3a3d43'
+    blue: '#4f76a1'
+    cyan: '#578fa4'
+    green: '#879a3b'
+    magenta: '#855c8d'
+    red: '#be3f48'
+    white: '#b9bcba'
+    yellow: '#c5a635'
+  primary:
+    background: '#1f1f1f'
+    foreground: '#b9bcba'
+  selection:
+    background: '#2a2d32'
+    text: '#b9bcba'

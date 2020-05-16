@@ -1,0 +1,29 @@
+# Colors (Unikitty)
+colors:
+  bright:
+    black: '#434343'
+    blue: '#0075ea'
+    cyan: '#79ecd5'
+    green: '#d3ffaf'
+    magenta: '#fdd5e5'
+    red: '#d91329'
+    white: '#fff3fe'
+    yellow: '#ffef50'
+  cursor:
+    cursor: '#bafc8b'
+    text: '#202020'
+  normal:
+    black: '#0c0c0c'
+    blue: '#145fcd'
+    cyan: '#6bd1bc'
+    green: '#bafc8b'
+    magenta: '#ff36a2'
+    red: '#a80f20'
+    white: '#e2d7e1'
+    yellow: '#eedf4b'
+  primary:
+    background: '#ff8cd9'
+    foreground: '#0b0b0b'
+  selection:
+    background: '#3ea9fe'
+    text: '#ffffff'

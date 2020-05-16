@@ -1,0 +1,29 @@
+# Colors (Sundried)
+colors:
+  bright:
+    black: '#4d4e48'
+    blue: '#7999f7'
+    cyan: '#fad484'
+    green: '#128c21'
+    magenta: '#fd8aa1'
+    red: '#aa000c'
+    white: '#ffffff'
+    yellow: '#fc6a21'
+  cursor:
+    cursor: '#ffffff'
+    text: '#191717'
+  normal:
+    black: '#302b2a'
+    blue: '#485b98'
+    cyan: '#9c814f'
+    green: '#587744'
+    magenta: '#864651'
+    red: '#a7463d'
+    white: '#c9c9c9'
+    yellow: '#9d602a'
+  primary:
+    background: '#1a1818'
+    foreground: '#c9c9c9'
+  selection:
+    background: '#302b2a'
+    text: '#c9c9c9'

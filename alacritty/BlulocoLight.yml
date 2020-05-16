@@ -1,0 +1,29 @@
+# Colors (BlulocoLight)
+colors:
+  bright:
+    black: '#dedfe8'
+    blue: '#1085d9'
+    cyan: '#5b80ad'
+    green: '#34b354'
+    magenta: '#c00db3'
+    red: '#fc4a6d'
+    white: '#1d1d22'
+    yellow: '#b89427'
+  cursor:
+    cursor: '#ed0047'
+    text: '#ffffff'
+  normal:
+    black: '#cbccd5'
+    blue: '#1e44dd'
+    cyan: '#1f4d7a'
+    green: '#21883a'
+    magenta: '#6d1bed'
+    red: '#c90e42'
+    white: '#000000'
+    yellow: '#d54d17'
+  primary:
+    background: '#f7f7f7'
+    foreground: '#2a2c33'
+  selection:
+    background: '#d2ecff'
+    text: '#2a2c33'

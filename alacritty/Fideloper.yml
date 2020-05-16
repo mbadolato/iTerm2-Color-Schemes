@@ -1,0 +1,29 @@
+# Colors (Fideloper)
+colors:
+  bright:
+    black: '#092028'
+    blue: '#7c85c4'
+    cyan: '#819090'
+    green: '#d4605a'
+    magenta: '#5c5db2'
+    red: '#d4605a'
+    white: '#fcf4df'
+    yellow: '#a86671'
+  cursor:
+    cursor: '#d4605a'
+    text: '#fefff2'
+  normal:
+    black: '#292f33'
+    blue: '#2e78c2'
+    cyan: '#309186'
+    green: '#edb8ac'
+    magenta: '#c0236f'
+    red: '#cb1e2d'
+    white: '#eae3ce'
+    yellow: '#b7ab9b'
+  primary:
+    background: '#292f33'
+    foreground: '#dbdae0'
+  selection:
+    background: '#efb8ac'
+    text: '#ffffff'

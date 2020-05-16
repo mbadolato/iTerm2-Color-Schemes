@@ -1,0 +1,29 @@
+# Colors (ToyChest)
+colors:
+  bright:
+    black: '#336889'
+    blue: '#34a6da'
+    cyan: '#42c3ae'
+    green: '#31d07b'
+    magenta: '#ae6bdc'
+    red: '#dd5944'
+    white: '#d5d5d5'
+    yellow: '#e7d84b'
+  cursor:
+    cursor: '#d5d5d5'
+    text: '#141c25'
+  normal:
+    black: '#2c3f58'
+    blue: '#325d96'
+    cyan: '#35a08f'
+    green: '#1a9172'
+    magenta: '#8a5edc'
+    red: '#be2d26'
+    white: '#23d183'
+    yellow: '#db8e27'
+  primary:
+    background: '#24364b'
+    foreground: '#31d07b'
+  selection:
+    background: '#5f217a'
+    text: '#d5d5d5'

@@ -1,0 +1,29 @@
+# Colors (The Hulk)
+colors:
+  bright:
+    black: '#505354'
+    blue: '#506b95'
+    cyan: '#4085a6'
+    green: '#48ff77'
+    magenta: '#72589d'
+    red: '#8dff2a'
+    white: '#e5e6e1'
+    yellow: '#3afe16'
+  cursor:
+    cursor: '#16b61b'
+    text: '#000000'
+  normal:
+    black: '#1b1d1e'
+    blue: '#2525f5'
+    cyan: '#378ca9'
+    green: '#13ce30'
+    magenta: '#641f74'
+    red: '#269d1b'
+    white: '#d9d8d1'
+    yellow: '#63e457'
+  primary:
+    background: '#1b1d1e'
+    foreground: '#b5b5b5'
+  selection:
+    background: '#4d504c'
+    text: '#0b6309'

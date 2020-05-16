@@ -1,0 +1,29 @@
+# Colors (IC_Orange_PPL)
+colors:
+  bright:
+    black: '#6a4f2a'
+    blue: '#ffbe55'
+    cyan: '#c69752'
+    green: '#f6ff40'
+    magenta: '#fc874f'
+    red: '#ff8c68'
+    white: '#fafaff'
+    yellow: '#ffe36e'
+  cursor:
+    cursor: '#fc531d'
+    text: '#ffc88a'
+  normal:
+    black: '#000000'
+    blue: '#bd6d00'
+    cyan: '#f79500'
+    green: '#a4a900'
+    magenta: '#fc5e00'
+    red: '#c13900'
+    white: '#ffc88a'
+    yellow: '#caaf00'
+  primary:
+    background: '#262626'
+    foreground: '#ffcb83'
+  selection:
+    background: '#c14020'
+    text: '#ffc88a'

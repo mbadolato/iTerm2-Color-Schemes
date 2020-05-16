@@ -1,0 +1,29 @@
+# Colors (Earthsong)
+colors:
+  bright:
+    black: '#675f54'
+    blue: '#5fdaff'
+    cyan: '#84f088'
+    green: '#98e036'
+    magenta: '#ff9269'
+    red: '#ff645a'
+    white: '#f6f7ec'
+    yellow: '#e0d561'
+  cursor:
+    cursor: '#f6f7ec'
+    text: '#292520'
+  normal:
+    black: '#121418'
+    blue: '#1398b9'
+    cyan: '#509552'
+    green: '#85c54c'
+    magenta: '#d0633d'
+    red: '#c94234'
+    white: '#e5c6aa'
+    yellow: '#f5ae2e'
+  primary:
+    background: '#292520'
+    foreground: '#e5c7a9'
+  selection:
+    background: '#121418'
+    text: '#e5c7a9'

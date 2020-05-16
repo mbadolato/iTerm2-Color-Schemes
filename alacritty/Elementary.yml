@@ -1,0 +1,29 @@
+# Colors (Elementary)
+colors:
+  bright:
+    black: '#4b4b4b'
+    blue: '#0955ff'
+    cyan: '#3ea8fc'
+    green: '#6bc219'
+    magenta: '#fb0050'
+    red: '#fc1c18'
+    white: '#8c00ec'
+    yellow: '#fec80e'
+  cursor:
+    cursor: '#bbbbbb'
+    text: '#ffffff'
+  normal:
+    black: '#242424'
+    blue: '#063b8c'
+    cyan: '#2595e1'
+    green: '#5aa513'
+    magenta: '#e40038'
+    red: '#d71c15'
+    white: '#efefef'
+    yellow: '#fdb40c'
+  primary:
+    background: '#181818'
+    foreground: '#efefef'
+  selection:
+    background: '#b5d5ff'
+    text: '#000000'

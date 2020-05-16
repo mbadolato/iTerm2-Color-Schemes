@@ -1,0 +1,29 @@
+# Colors (midnight-in-mojave)
+colors:
+  bright:
+    black: '#1e1e1e'
+    blue: '#0a84ff'
+    cyan: '#5ac8fa'
+    green: '#32d74b'
+    magenta: '#bf5af2'
+    red: '#ff453a'
+    white: '#ffffff'
+    yellow: '#ffd60a'
+  cursor:
+    cursor: '#32d74b'
+    text: '#1c1c1c'
+  normal:
+    black: '#1e1e1e'
+    blue: '#0a84ff'
+    cyan: '#5ac8fa'
+    green: '#32d74b'
+    magenta: '#bf5af2'
+    red: '#ff453a'
+    white: '#ffffff'
+    yellow: '#ffd60a'
+  primary:
+    background: '#1e1e1e'
+    foreground: '#ffffff'
+  selection:
+    background: '#4a504d'
+    text: '#ffffff'

@@ -1,0 +1,29 @@
+# Colors (Batman)
+colors:
+  bright:
+    black: '#505354'
+    blue: '#919495'
+    cyan: '#a3a3a6'
+    green: '#fff27d'
+    magenta: '#9a9a9d'
+    red: '#fff78e'
+    white: '#dadbd6'
+    yellow: '#feed6c'
+  cursor:
+    cursor: '#fcef0c'
+    text: '#000000'
+  normal:
+    black: '#1b1d1e'
+    blue: '#737174'
+    cyan: '#62605f'
+    green: '#c8be46'
+    magenta: '#747271'
+    red: '#e6dc44'
+    white: '#c6c5bf'
+    yellow: '#f4fd22'
+  primary:
+    background: '#1b1d1e'
+    foreground: '#6f6f6f'
+  selection:
+    background: '#4d504c'
+    text: '#f0e04a'

@@ -1,0 +1,29 @@
+# Colors (Flat)
+colors:
+  bright:
+    black: '#212c3c'
+    blue: '#3c7dd2'
+    cyan: '#35b387'
+    green: '#2d9440'
+    magenta: '#8230a7'
+    red: '#d4312e'
+    white: '#e7eced'
+    yellow: '#e5be0c'
+  cursor:
+    cursor: '#e5be0c'
+    text: '#ffffff'
+  normal:
+    black: '#222d3f'
+    blue: '#3167ac'
+    cyan: '#2c9370'
+    green: '#32a548'
+    magenta: '#781aa0'
+    red: '#a82320'
+    white: '#b0b6ba'
+    yellow: '#e58d11'
+  primary:
+    background: '#002240'
+    foreground: '#2cc55d'
+  selection:
+    background: '#792b9c'
+    text: '#ffffff'

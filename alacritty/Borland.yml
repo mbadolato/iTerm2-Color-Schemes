@@ -1,0 +1,29 @@
+# Colors (Borland)
+colors:
+  bright:
+    black: '#7c7c7c'
+    blue: '#b5dcff'
+    cyan: '#dfdffe'
+    green: '#ceffac'
+    magenta: '#ff9cfe'
+    red: '#ffb6b0'
+    white: '#ffffff'
+    yellow: '#ffffcc'
+  cursor:
+    cursor: '#ffa560'
+    text: '#ffffff'
+  normal:
+    black: '#4f4f4f'
+    blue: '#96cbfe'
+    cyan: '#c6c5fe'
+    green: '#a8ff60'
+    magenta: '#ff73fd'
+    red: '#ff6c60'
+    white: '#eeeeee'
+    yellow: '#ffffb6'
+  primary:
+    background: '#0000a4'
+    foreground: '#ffff4e'
+  selection:
+    background: '#a4a4a4'
+    text: '#0000a4'

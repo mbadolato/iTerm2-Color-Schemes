@@ -1,0 +1,29 @@
+# Colors (Pro Light)
+colors:
+  bright:
+    black: '#9f9f9f'
+    blue: '#0082ff'
+    cyan: '#61f7f8'
+    green: '#61ef57'
+    magenta: '#ff7eff'
+    red: '#ff6640'
+    white: '#f2f2f2'
+    yellow: '#f2f156'
+  cursor:
+    cursor: '#4d4d4d'
+    text: '#f2f2f2'
+  normal:
+    black: '#000000'
+    blue: '#3b75ff'
+    cyan: '#4ed2de'
+    green: '#50d148'
+    magenta: '#ed66e8'
+    red: '#e5492b'
+    white: '#dcdcdc'
+    yellow: '#c6c440'
+  primary:
+    background: '#ffffff'
+    foreground: '#191919'
+  selection:
+    background: '#c1ddff'
+    text: '#191919'

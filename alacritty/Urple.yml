@@ -1,0 +1,29 @@
+# Colors (Urple)
+colors:
+  bright:
+    black: '#5d3225'
+    blue: '#867aed'
+    cyan: '#eaeaea'
+    green: '#29e620'
+    magenta: '#a05eee'
+    red: '#ff6388'
+    white: '#bfa3ff'
+    yellow: '#f08161'
+  cursor:
+    cursor: '#a063eb'
+    text: '#1b1b22'
+  normal:
+    black: '#000000'
+    blue: '#564d9b'
+    cyan: '#808080'
+    green: '#37a415'
+    magenta: '#6c3ca1'
+    red: '#b0425b'
+    white: '#87799c'
+    yellow: '#ad5c42'
+  primary:
+    background: '#1b1b23'
+    foreground: '#877a9b'
+  selection:
+    background: '#a063eb'
+    text: '#1b1b22'
