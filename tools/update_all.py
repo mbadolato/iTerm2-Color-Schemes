@@ -20,6 +20,7 @@ import xrdb2pantheon_terminal
 import xrdb2wezterm
 import xrdb2windowsterminal
 import xrdb2dynamic_color
+import xrdb2alacritty
 
 if __name__ == '__main__':
 
@@ -61,3 +62,5 @@ if __name__ == '__main__':
     print('OK --> ' + '../windowsterminal/')
     xrdb2dynamic_color.main('../xrdb/', '../dynamic-colors/')
     print('OK --> ' + '../dynamic-colors/')
+    xrdb2alacritty.main('../xrdb/', '../alacritty/')
+    print('OK --> ' + '../alacritty/')
