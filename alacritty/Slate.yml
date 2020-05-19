@@ -1,0 +1,29 @@
+# Colors (Slate)
+colors:
+  bright:
+    black: '#ffffff'
+    blue: '#7ab0d2'
+    cyan: '#8cdfe0'
+    green: '#beffa8'
+    magenta: '#c5a7d9'
+    red: '#ffcdd9'
+    white: '#e0e0e0'
+    yellow: '#d0ccca'
+  cursor:
+    cursor: '#87d3c4'
+    text: '#323232'
+  normal:
+    black: '#222222'
+    blue: '#264b49'
+    cyan: '#15ab9c'
+    green: '#81d778'
+    magenta: '#a481d3'
+    red: '#e2a8bf'
+    white: '#02c5e0'
+    yellow: '#c4c9c0'
+  primary:
+    background: '#222222'
+    foreground: '#35b1d2'
+  selection:
+    background: '#0f3754'
+    text: '#2dffc0'

@@ -1,0 +1,29 @@
+# Colors (Royal)
+colors:
+  bright:
+    black: '#312d3d'
+    blue: '#90baf9'
+    cyan: '#acd4eb'
+    green: '#2cd946'
+    magenta: '#a479e3'
+    red: '#d5356c'
+    white: '#9e8cbd'
+    yellow: '#fde83b'
+  cursor:
+    cursor: '#524966'
+    text: '#100613'
+  normal:
+    black: '#241f2b'
+    blue: '#6580b0'
+    cyan: '#8aaabe'
+    green: '#23801c'
+    magenta: '#674d96'
+    red: '#91284c'
+    white: '#524966'
+    yellow: '#b49d27'
+  primary:
+    background: '#100815'
+    foreground: '#514968'
+  selection:
+    background: '#1f1d2b'
+    text: '#a593cd'

@@ -1,0 +1,29 @@
+# Colors (Medallion)
+colors:
+  bright:
+    black: '#5e5219'
+    blue: '#acb8ff'
+    cyan: '#ffbc51'
+    green: '#b2ca3b'
+    magenta: '#ffa0ff'
+    red: '#ff9149'
+    white: '#fed698'
+    yellow: '#ffe54a'
+  cursor:
+    cursor: '#d3ba30'
+    text: '#d2bc3d'
+  normal:
+    black: '#000000'
+    blue: '#616bb0'
+    cyan: '#916c25'
+    green: '#7c8b16'
+    magenta: '#8c5a90'
+    red: '#b64c00'
+    white: '#cac29a'
+    yellow: '#d3bd26'
+  primary:
+    background: '#1d1908'
+    foreground: '#cac296'
+  selection:
+    background: '#626dac'
+    text: '#cac29a'

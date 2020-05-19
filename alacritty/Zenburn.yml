@@ -1,0 +1,29 @@
+# Colors (Zenburn)
+colors:
+  bright:
+    black: '#709080'
+    blue: '#94bff3'
+    cyan: '#93e0e3'
+    green: '#c3bf9f'
+    magenta: '#ec93d3'
+    red: '#dca3a3'
+    white: '#ffffff'
+    yellow: '#e0cf9f'
+  cursor:
+    cursor: '#73635a'
+    text: '#000000'
+  normal:
+    black: '#4d4d4d'
+    blue: '#506070'
+    cyan: '#8cd0d3'
+    green: '#60b48a'
+    magenta: '#dc8cc3'
+    red: '#705050'
+    white: '#dcdccc'
+    yellow: '#f0dfaf'
+  primary:
+    background: '#3f3f3f'
+    foreground: '#dcdccc'
+  selection:
+    background: '#21322f'
+    text: '#c2d87a'

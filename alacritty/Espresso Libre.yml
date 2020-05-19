@@ -1,0 +1,29 @@
+# Colors (Espresso Libre)
+colors:
+  bright:
+    black: '#555753'
+    blue: '#43a8ed'
+    cyan: '#34e2e2'
+    green: '#9aff87'
+    magenta: '#ff818a'
+    red: '#ef2929'
+    white: '#eeeeec'
+    yellow: '#fffb5c'
+  cursor:
+    cursor: '#ffffff'
+    text: '#000000'
+  normal:
+    black: '#000000'
+    blue: '#0066ff'
+    cyan: '#06989a'
+    green: '#1a921c'
+    magenta: '#c5656b'
+    red: '#cc0000'
+    white: '#d3d7cf'
+    yellow: '#f0e53a'
+  primary:
+    background: '#2a211c'
+    foreground: '#b8a898'
+  selection:
+    background: '#c3dcff'
+    text: '#b8a898'

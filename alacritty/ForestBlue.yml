@@ -1,0 +1,29 @@
+# Colors (ForestBlue)
+colors:
+  bright:
+    black: '#3d3d3d'
+    blue: '#39a7a2'
+    cyan: '#6096bf'
+    green: '#6bb48d'
+    magenta: '#7e62b3'
+    red: '#fb3d66'
+    white: '#e2d8cd'
+    yellow: '#30c85a'
+  cursor:
+    cursor: '#9e9ecb'
+    text: '#000000'
+  normal:
+    black: '#333333'
+    blue: '#8ed0ce'
+    cyan: '#31658c'
+    green: '#92d3a2'
+    magenta: '#5e468c'
+    red: '#f8818e'
+    white: '#e2d8cd'
+    yellow: '#1a8e63'
+  primary:
+    background: '#051519'
+    foreground: '#e2d8cd'
+  selection:
+    background: '#4d4d4d'
+    text: '#ffffff'

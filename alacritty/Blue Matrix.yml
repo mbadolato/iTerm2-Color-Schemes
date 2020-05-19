@@ -1,0 +1,29 @@
+# Colors (Blue Matrix)
+colors:
+  bright:
+    black: '#686868'
+    blue: '#6871ff'
+    cyan: '#60fdff'
+    green: '#5ffa68'
+    magenta: '#d682ec'
+    red: '#ff6e67'
+    white: '#ffffff'
+    yellow: '#fffc67'
+  cursor:
+    cursor: '#76ff9f'
+    text: '#ffffff'
+  normal:
+    black: '#101116'
+    blue: '#00b0ff'
+    cyan: '#76c1ff'
+    green: '#00ff9c'
+    magenta: '#d57bff'
+    red: '#ff5680'
+    white: '#c7c7c7'
+    yellow: '#fffc58'
+  primary:
+    background: '#101116'
+    foreground: '#00a2ff'
+  selection:
+    background: '#c1deff'
+    text: '#000000'

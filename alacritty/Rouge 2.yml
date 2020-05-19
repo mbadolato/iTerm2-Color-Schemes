@@ -1,0 +1,29 @@
+# Colors (Rouge 2)
+colors:
+  bright:
+    black: '#616274'
+    blue: '#98b3cd'
+    cyan: '#abcbd3'
+    green: '#e6dcc4'
+    magenta: '#8283a1'
+    red: '#c6797e'
+    white: '#e8e8ea'
+    yellow: '#e6dcc4'
+  cursor:
+    cursor: '#969e92'
+    text: '#ffffff'
+  normal:
+    black: '#5d5d6b'
+    blue: '#6e94b9'
+    cyan: '#8ab6c1'
+    green: '#969e92'
+    magenta: '#4c4e78'
+    red: '#c6797e'
+    white: '#e8e8ea'
+    yellow: '#dbcdab'
+  primary:
+    background: '#17182b'
+    foreground: '#a2a3aa'
+  selection:
+    background: '#5d5d6b'
+    text: '#dfe5ee'

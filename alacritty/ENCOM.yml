@@ -1,0 +1,29 @@
+# Colors (ENCOM)
+colors:
+  bright:
+    black: '#555555'
+    blue: '#0000ff'
+    cyan: '#00cdcd'
+    green: '#00ee00'
+    magenta: '#ff00ff'
+    red: '#ff0000'
+    white: '#ffffff'
+    yellow: '#ffff00'
+  cursor:
+    cursor: '#bbbbbb'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#0081ff'
+    cyan: '#008b8b'
+    green: '#008b00'
+    magenta: '#bc00ca'
+    red: '#9f0000'
+    white: '#bbbbbb'
+    yellow: '#ffd000'
+  primary:
+    background: '#000000'
+    foreground: '#00a595'
+  selection:
+    background: '#00a48c'
+    text: '#3de1c9'

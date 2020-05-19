@@ -1,0 +1,29 @@
+# Colors (Subliminal)
+colors:
+  bright:
+    black: '#7f7f7f'
+    blue: '#6699cc'
+    cyan: '#5fb3b3'
+    green: '#a9cfa4'
+    magenta: '#f1a5ab'
+    red: '#e15a60'
+    white: '#d4d4d4'
+    yellow: '#ffe2a9'
+  cursor:
+    cursor: '#c7c7c7'
+    text: '#ffffff'
+  normal:
+    black: '#7f7f7f'
+    blue: '#6699cc'
+    cyan: '#5fb3b3'
+    green: '#a9cfa4'
+    magenta: '#f1a5ab'
+    red: '#e15a60'
+    white: '#d4d4d4'
+    yellow: '#ffe2a9'
+  primary:
+    background: '#282c35'
+    foreground: '#d4d4d4'
+  selection:
+    background: '#484e5b'
+    text: '#ffffff'

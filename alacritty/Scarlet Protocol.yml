@@ -1,0 +1,29 @@
+# Colors (Scarlet Protocol)
+colors:
+  bright:
+    black: '#686868'
+    blue: '#6871ff'
+    cyan: '#60fdff'
+    green: '#5ffa68'
+    magenta: '#bd35ec'
+    red: '#ff6e67'
+    white: '#ffffff'
+    yellow: '#fffc67'
+  cursor:
+    cursor: '#76ff9f'
+    text: '#ffffff'
+  normal:
+    black: '#101116'
+    blue: '#0271b6'
+    cyan: '#00c5c7'
+    green: '#00dc84'
+    magenta: '#ca30c7'
+    red: '#ff0051'
+    white: '#c7c7c7'
+    yellow: '#faf945'
+  primary:
+    background: '#1c153d'
+    foreground: '#e41951'
+  selection:
+    background: '#c1deff'
+    text: '#000000'

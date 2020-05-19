@@ -1,0 +1,29 @@
+# Colors (Espresso)
+colors:
+  bright:
+    black: '#535353'
+    blue: '#8ab7d9'
+    cyan: '#dcf4ff'
+    green: '#c2e075'
+    magenta: '#efb5f7'
+    red: '#f00c0c'
+    white: '#ffffff'
+    yellow: '#e1e48b'
+  cursor:
+    cursor: '#d6d6d6'
+    text: '#ffffff'
+  normal:
+    black: '#353535'
+    blue: '#6c99bb'
+    cyan: '#bed6ff'
+    green: '#a5c261'
+    magenta: '#d197d9'
+    red: '#d25252'
+    white: '#eeeeec'
+    yellow: '#ffc66d'
+  primary:
+    background: '#323232'
+    foreground: '#ffffff'
+  selection:
+    background: '#5b5b5b'
+    text: '#ffffff'

@@ -1,0 +1,29 @@
+# Colors (Ryuuko)
+colors:
+  bright:
+    black: '#5d7079'
+    blue: '#6a8e95'
+    cyan: '#88b2ac'
+    green: '#66907d'
+    magenta: '#b18a73'
+    red: '#865f5b'
+    white: '#ececec'
+    yellow: '#b1a990'
+  cursor:
+    cursor: '#ececec'
+    text: '#002831'
+  normal:
+    black: '#2c3941'
+    blue: '#6a8e95'
+    cyan: '#88b2ac'
+    green: '#66907d'
+    magenta: '#b18a73'
+    red: '#865f5b'
+    white: '#ececec'
+    yellow: '#b1a990'
+  primary:
+    background: '#2c3941'
+    foreground: '#ececec'
+  selection:
+    background: '#002831'
+    text: '#819090'

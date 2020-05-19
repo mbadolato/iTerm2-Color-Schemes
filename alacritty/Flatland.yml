@@ -1,0 +1,29 @@
+# Colors (Flatland)
+colors:
+  bright:
+    black: '#1d1d19'
+    blue: '#61b9d0'
+    cyan: '#d63865'
+    green: '#a7d42c'
+    magenta: '#695abc'
+    red: '#d22a24'
+    white: '#ffffff'
+    yellow: '#ff8949'
+  cursor:
+    cursor: '#708284'
+    text: '#002831'
+  normal:
+    black: '#1d1d19'
+    blue: '#5096be'
+    cyan: '#d63865'
+    green: '#9fd364'
+    magenta: '#695abc'
+    red: '#f18339'
+    white: '#ffffff'
+    yellow: '#f4ef6d'
+  primary:
+    background: '#1d1f21'
+    foreground: '#b8dbef'
+  selection:
+    background: '#2b2a24'
+    text: '#ffffff'

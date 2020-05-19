@@ -1,0 +1,29 @@
+# Colors (Seafoam Pastel)
+colors:
+  bright:
+    black: '#8a8a8a'
+    blue: '#7ac3cf'
+    cyan: '#ade0e0'
+    green: '#98d9aa'
+    magenta: '#d6b2a1'
+    red: '#cf937a'
+    white: '#e0e0e0'
+    yellow: '#fae79d'
+  cursor:
+    cursor: '#57647a'
+    text: '#323232'
+  normal:
+    black: '#757575'
+    blue: '#4d7b82'
+    cyan: '#729494'
+    green: '#728c62'
+    magenta: '#8a7267'
+    red: '#825d4d'
+    white: '#e0e0e0'
+    yellow: '#ada16d'
+  primary:
+    background: '#243435'
+    foreground: '#d4e7d4'
+  selection:
+    background: '#ffffff'
+    text: '#9e8b13'

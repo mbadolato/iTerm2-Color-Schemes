@@ -1,0 +1,29 @@
+# Colors (Treehouse)
+colors:
+  bright:
+    black: '#433626'
+    blue: '#85cfed'
+    cyan: '#f07d14'
+    green: '#55f238'
+    magenta: '#e14c5a'
+    red: '#ed5d20'
+    white: '#ffc800'
+    yellow: '#f2b732'
+  cursor:
+    cursor: '#fac814'
+    text: '#191919'
+  normal:
+    black: '#321300'
+    blue: '#58859a'
+    cyan: '#b25a1e'
+    green: '#44a900'
+    magenta: '#97363d'
+    red: '#b2270e'
+    white: '#786b53'
+    yellow: '#aa820c'
+  primary:
+    background: '#191919'
+    foreground: '#786b53'
+  selection:
+    background: '#786b53'
+    text: '#fac800'

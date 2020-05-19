@@ -1,0 +1,29 @@
+# Colors (UnderTheSea)
+colors:
+  bright:
+    black: '#384451'
+    blue: '#61d5ba'
+    cyan: '#98d028'
+    green: '#2aea5e'
+    magenta: '#1298ff'
+    red: '#ff4242'
+    white: '#58fbd6'
+    yellow: '#8ed4fd'
+  cursor:
+    cursor: '#4afcd6'
+    text: '#031413'
+  normal:
+    black: '#022026'
+    blue: '#459a86'
+    cyan: '#5d7e19'
+    green: '#00a941'
+    magenta: '#00599d'
+    red: '#b2302d'
+    white: '#405555'
+    yellow: '#59819c'
+  primary:
+    background: '#011116'
+    foreground: '#ffffff'
+  selection:
+    background: '#415555'
+    text: '#4dffda'

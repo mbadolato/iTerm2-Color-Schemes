@@ -1,0 +1,29 @@
+# Colors (Darkside)
+colors:
+  bright:
+    black: '#000000'
+    blue: '#387cd3'
+    cyan: '#3d97e2'
+    green: '#77b869'
+    magenta: '#957bbe'
+    red: '#e05a4f'
+    white: '#bababa'
+    yellow: '#efd64b'
+  cursor:
+    cursor: '#bbbbbb'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#1c98e8'
+    cyan: '#1c98e8'
+    green: '#68c256'
+    magenta: '#8e69c9'
+    red: '#e8341c'
+    white: '#bababa'
+    yellow: '#f2d42c'
+  primary:
+    background: '#222324'
+    foreground: '#bababa'
+  selection:
+    background: '#303333'
+    text: '#bababa'

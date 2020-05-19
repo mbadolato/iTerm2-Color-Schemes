@@ -1,0 +1,29 @@
+# Colors (Hacktober)
+colors:
+  bright:
+    black: '#2c2b2a'
+    blue: '#5389c5'
+    cyan: '#ebc587'
+    green: '#42824a'
+    magenta: '#e795a5'
+    red: '#b33323'
+    white: '#ffffff'
+    yellow: '#c75a22'
+  cursor:
+    cursor: '#c9c9c9'
+    text: '#141414'
+  normal:
+    black: '#191918'
+    blue: '#206ec5'
+    cyan: '#ac9166'
+    green: '#587744'
+    magenta: '#864651'
+    red: '#b34538'
+    white: '#f1eee7'
+    yellow: '#d08949'
+  primary:
+    background: '#141414'
+    foreground: '#c9c9c9'
+  selection:
+    background: '#141414'
+    text: '#c9c9c9'

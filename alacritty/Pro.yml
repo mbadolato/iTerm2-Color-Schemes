@@ -1,0 +1,29 @@
+# Colors (Pro)
+colors:
+  bright:
+    black: '#666666'
+    blue: '#0000ff'
+    cyan: '#00e5e5'
+    green: '#00d900'
+    magenta: '#e500e5'
+    red: '#e50000'
+    white: '#e5e5e5'
+    yellow: '#e5e500'
+  cursor:
+    cursor: '#4d4d4d'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#2009db'
+    cyan: '#00a6b2'
+    green: '#00a600'
+    magenta: '#b200b2'
+    red: '#990000'
+    white: '#bfbfbf'
+    yellow: '#999900'
+  primary:
+    background: '#000000'
+    foreground: '#f2f2f2'
+  selection:
+    background: '#414141'
+    text: '#000000'

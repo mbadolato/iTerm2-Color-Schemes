@@ -1,0 +1,29 @@
+# Colors (WarmNeon)
+colors:
+  bright:
+    black: '#fefcfc'
+    blue: '#7b91d6'
+    cyan: '#5ed1e5'
+    green: '#9cc090'
+    magenta: '#f674ba'
+    red: '#e97071'
+    white: '#d8c8bb'
+    yellow: '#ddda7a'
+  cursor:
+    cursor: '#30ff24'
+    text: '#3eef37'
+  normal:
+    black: '#000000'
+    blue: '#4261c5'
+    cyan: '#2abbd4'
+    green: '#39b13a'
+    magenta: '#f920fb'
+    red: '#e24346'
+    white: '#d0b8a3'
+    yellow: '#dae145'
+  primary:
+    background: '#404040'
+    foreground: '#afdab6'
+  selection:
+    background: '#b0ad21'
+    text: '#ffffff'

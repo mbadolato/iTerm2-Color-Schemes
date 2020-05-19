@@ -1,0 +1,29 @@
+# Colors (Monokai Vivid)
+colors:
+  bright:
+    black: '#838383'
+    blue: '#0443ff'
+    cyan: '#51ceff'
+    green: '#b1e05f'
+    magenta: '#f200f6'
+    red: '#f6669d'
+    white: '#ffffff'
+    yellow: '#fff26d'
+  cursor:
+    cursor: '#fb0007'
+    text: '#ea0009'
+  normal:
+    black: '#121212'
+    blue: '#0443ff'
+    cyan: '#01b6ed'
+    green: '#98e123'
+    magenta: '#f800f8'
+    red: '#fa2934'
+    white: '#ffffff'
+    yellow: '#fff30a'
+  primary:
+    background: '#121212'
+    foreground: '#f9f9f9'
+  selection:
+    background: '#ffffff'
+    text: '#000000'

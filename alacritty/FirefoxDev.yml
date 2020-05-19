@@ -1,0 +1,29 @@
+# Colors (FirefoxDev)
+colors:
+  bright:
+    black: '#001e27'
+    blue: '#006fc0'
+    cyan: '#005794'
+    green: '#1d9000'
+    magenta: '#a200da'
+    red: '#e1003f'
+    white: '#e2e2e2'
+    yellow: '#cd9409'
+  cursor:
+    cursor: '#708284'
+    text: '#002831'
+  normal:
+    black: '#002831'
+    blue: '#359ddf'
+    cyan: '#4b73a2'
+    green: '#5eb83c'
+    magenta: '#d75cff'
+    red: '#e63853'
+    white: '#dcdcdc'
+    yellow: '#a57706'
+  primary:
+    background: '#0e1011'
+    foreground: '#7c8fa4'
+  selection:
+    background: '#163c61'
+    text: '#f2f5f9'
