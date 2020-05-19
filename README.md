@@ -18,10 +18,11 @@
   - [LXTerminal color schemes](#lxterminal-color-schemes)
   - [Visual Studio Code color schemes](#visual-studio-code-color-schemes)
   - [Windows Terminal color schemes](#windows-terminal-color-schemes)
+  - [Alacritty color schemes](#alacritty-color-schemes)
 
 ## Intro
 
-This is a set of color schemes for iTerm (aka iTerm2). It also includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio
+This is a set of color schemes for iTerm (aka iTerm2). It also includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 
 Screenshots below and in the [screenshots](screenshots/) directory.
 
@@ -1421,6 +1422,10 @@ Copy the theme content from `vscode/` and paste the content to your [UserSetting
 ### Windows Terminal color schemes
 
 Copy the theme content from `windowsterminal/` and paste the content to your `profiles.json` in the corresponding place (`"schemes"`). Then specify the name of your theme by `"colorScheme"` in `"profiles"`.
+
+### Alacritty color schemes
+
+Copy the theme content from `alacritty/` and paste the content to your [alacritty config file](https://github.com/alacritty/alacritty/blob/master/alacritty.yml).
 
 ### Previewing color schemes
 
