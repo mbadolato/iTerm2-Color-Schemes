@@ -501,6 +501,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/kolorit.png)
 
+### Konsolas
+
+![Screenshot](screenshots/konsolas.png)
+
 ### Lab Fox
 
 ![Screenshot](screenshots/lab_fox.png)
