@@ -882,6 +882,10 @@ more information.
 
 ![Screenshot](screenshots/the_hulk.png)
 
+### Tinacious Design (Dark)
+
+![Screenshot of Tinacious Design Dark](screenshots/tinacious_design_dark.png)
+
 ### Tomorrow
 
 ![Screenshot](screenshots/tomorrow.png)
