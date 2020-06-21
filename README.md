@@ -884,7 +884,11 @@ more information.
 
 ### Tinacious Design (Dark)
 
-![Screenshot of Tinacious Design Dark](screenshots/tinacious_design_dark.png)
+![Screenshot](screenshots/tinacious_design_dark.png)
+
+### Tinacious Design (Light)
+
+![Screenshot](screenshots/tinacious_design_light.png)
 
 ### Tomorrow
 
