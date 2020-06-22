@@ -4,4 +4,4 @@ printf "\033]4;0;#1d1d26;1;#ff3399;2;#00d364;3;#ffcc66;4;#00cbff;5;#cc66ff;6;#00
 printf "\033]10;#1d1d26;#f8f8ff;#cbcbf0\007"
 printf "\033]17;#ff3399\007"
 printf "\033]19;#ffffff\007"
-printf "\033]5;0;#ffffff\007"
+printf "\033]5;0;#1d1d26\007"
