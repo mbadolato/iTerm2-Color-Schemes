@@ -882,6 +882,14 @@ more information.
 
 ![Screenshot](screenshots/the_hulk.png)
 
+### Tinacious Design (Dark)
+
+![Screenshot](screenshots/tinacious_design_dark.png)
+
+### Tinacious Design (Light)
+
+![Screenshot](screenshots/tinacious_design_light.png)
+
 ### Tomorrow
 
 ![Screenshot](screenshots/tomorrow.png)
@@ -1247,6 +1255,8 @@ The theme Sakura was created by [0xN0ri](https://github.com/0xN0ri) based on [zd
 The Mirage theme was created by [Tristan Remy](https://github.com/tristanremy/mirage) and ported to iTerm2 by [Gomah](https://github.com/Gomah/mirage-iterm).
 
 The Rouge 2 theme was created by [Josef Aidt](https://github.com/josefaidt/rouge-theme) and ported to iTerm2 by [Sam Rose](https://github.com/samrose3).
+
+The theme Tinacious Design was created by [Tina Holly](https://tinaciousdesign.com)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
