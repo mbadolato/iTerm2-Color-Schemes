@@ -1256,6 +1256,8 @@ The Mirage theme was created by [Tristan Remy](https://github.com/tristanremy/mi
 
 The Rouge 2 theme was created by [Josef Aidt](https://github.com/josefaidt/rouge-theme) and ported to iTerm2 by [Sam Rose](https://github.com/samrose3).
 
+The theme Tinacious Design was created by [Tina Holly](https://tinaciousdesign.com)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
