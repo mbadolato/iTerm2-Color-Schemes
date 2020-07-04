@@ -77,6 +77,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/3024_night.png)
 
+### Adventure
+
+![Screenshot](screenshots/adventure.png)
+
 ### AdventureTime
 
 ![Screenshot](screenshots/adventure_time.png)
