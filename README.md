@@ -77,6 +77,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/3024_night.png)
 
+### Adventure
+
+![Screenshot](screenshots/adventure.png)
+
 ### AdventureTime
 
 ![Screenshot](screenshots/adventure_time.png)
@@ -1073,6 +1077,8 @@ The Harper theme was created by [idleberg](https://github.com/idleberg/Harper-iT
 The CLRS theme was created by [jasonlong](https://github.com/jasonlong/iterm-clrs)
 
 The Dracula theme was created by [zenorocha](https://github.com/zenorocha/dracula-theme)
+
+The Adventure theme was created by [hongzimao](https://github.com/hongzimao/iTerm2-Color-Schemes)
 
 The themes AdventureTime, AlienBlood, BirdsOfParadise, Ciapre, CrayonPonyFish, DimmedMonokai, Earthsong, Elemental, FishTank, FrontEndDelight, FunForrest, Grape, Highway, IC_Green_PPL, IC_Orange_PPL, Lavandula, Medallion, MonaLisa, Ollie, Royal, SeaShells, Shaman, SleepyHollow, SoftServer, Sundried, ToyChest, Treehouse, and Urple were created by [zdj](https://github.com/zdj/themes/tree/master/iterm2)
 
