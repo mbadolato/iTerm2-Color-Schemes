@@ -417,6 +417,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/gruvbox_dark.png)
 
+### Gruvbox Light
+
+![Screenshot](screenshots/gruvbox_light.png)
+
 ### Hacktober
 
 ![Screenshot](screenshots/hacktober.png)
@@ -1263,6 +1267,8 @@ The Mirage theme was created by [Tristan Remy](https://github.com/tristanremy/mi
 The Rouge 2 theme was created by [Josef Aidt](https://github.com/josefaidt/rouge-theme) and ported to iTerm2 by [Sam Rose](https://github.com/samrose3).
 
 The theme Tinacious Design was created by [Tina Holly](https://tinaciousdesign.com)
+
+The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
