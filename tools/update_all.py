@@ -28,7 +28,8 @@ if __name__ == '__main__':
         base_name = splitext(basename(f))[0]
         xrdb_filepath = join('../xrdb', base_name + '.xrdb')
         with open(xrdb_filepath, 'w') as fout:
-            ret_code = subprocess.Popen(['./iterm2xrdb', f], stdout=fout).wait()
+            ret_code = subprocess.Popen(
+                ['./iterm2xrdb', f], stdout=fout).wait()
             print(ret_code and "ERROR" or "OK" + " --> " + xrdb_filepath)
 
     print()
