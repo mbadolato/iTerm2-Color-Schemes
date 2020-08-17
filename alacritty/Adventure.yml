@@ -1,0 +1,29 @@
+# Colors (Adventure)
+colors:
+  bright:
+    black: '#685656'
+    blue: '#97d7ef'
+    cyan: '#bdcfe5'
+    green: '#99b52c'
+    magenta: '#aa7900'
+    red: '#d76b42'
+    white: '#e4d5c7'
+    yellow: '#ffb670'
+  cursor:
+    cursor: '#feffff'
+    text: '#000000'
+  normal:
+    black: '#040404'
+    blue: '#417ab3'
+    cyan: '#bdcfe5'
+    green: '#5da602'
+    magenta: '#e5c499'
+    red: '#d84a33'
+    white: '#dbded8'
+    yellow: '#eebb6e'
+  primary:
+    background: '#040404'
+    foreground: '#feffff'
+  selection:
+    background: '#606060'
+    text: '#ffffff'

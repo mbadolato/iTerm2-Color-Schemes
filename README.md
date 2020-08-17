@@ -1264,6 +1264,12 @@ The Rouge 2 theme was created by [Josef Aidt](https://github.com/josefaidt/rouge
 
 The theme Tinacious Design was created by [Tina Holly](https://tinaciousdesign.com)
 
+Popping and Locking theme was created by [Hedinn Eiriksson](https://github.com/hedinne) and added by [didierbroska](https://github.com/didierbroska)
+
+MaterialDarker and DraculaPlus themes were added by [jos3s](https://github.com/jos3s)
+
+Nord theme were added by [Teraskull](https://github.com/Teraskull)
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
