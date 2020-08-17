@@ -417,6 +417,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/gruvbox_dark.png)
 
+### Gruvbox Light
+
+![Screenshot](screenshots/gruvbox_light.png)
+
 ### Hacktober
 
 ![Screenshot](screenshots/hacktober.png)
@@ -1269,6 +1273,8 @@ Popping and Locking theme was created by [Hedinn Eiriksson](https://github.com/h
 MaterialDarker and DraculaPlus themes were added by [jos3s](https://github.com/jos3s)
 
 Nord theme were added by [Teraskull](https://github.com/Teraskull)
+
+The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
