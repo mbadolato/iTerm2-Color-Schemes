@@ -501,6 +501,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/jetbrains_darcula.png)
 
+### Jubi
+
+![Screenshot](screenshots/jubi.png)
+
 ### Kibble
 
 ![Screenshot](screenshots/kibble.png)
@@ -1275,6 +1279,8 @@ MaterialDarker and DraculaPlus themes were added by [jos3s](https://github.com/j
 Nord theme were added by [Teraskull](https://github.com/Teraskull)
 
 The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
+
+The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
