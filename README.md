@@ -713,6 +713,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/purple_rain.png)
 
+### Rapture
+
+![Screenshot](screenshots/rapture.png)
+
 ### Rebecca
 
 ![Screenshot](screenshots/rebecca.png)
@@ -1281,6 +1285,8 @@ Nord theme were added by [Teraskull](https://github.com/Teraskull)
 The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
 
 The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
+
+The Rapture theme was created by [Pustur](https://github.com/Pustur)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
