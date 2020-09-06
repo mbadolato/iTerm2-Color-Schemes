@@ -1210,7 +1210,7 @@ The Pro Light theme was adapted from the Pro theme by [crowsonkb](https://github
 
 The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
 
-The Calamity theme was created by [Pustur](https://github.com/Pustur)
+The Calamity and Rapture themes were created by [Pustur](https://github.com/Pustur)
 
 The Purple Peter theme was created by [DeChamp](https://github.com/dechamp)
 
@@ -1285,8 +1285,6 @@ Nord theme were added by [Teraskull](https://github.com/Teraskull)
 The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
 
 The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
-
-The Rapture theme was created by [Pustur](https://github.com/Pustur)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
