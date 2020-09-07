@@ -713,6 +713,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/purple_rain.png)
 
+### Rapture
+
+![Screenshot](screenshots/rapture.png)
+
 ### Rebecca
 
 ![Screenshot](screenshots/rebecca.png)
@@ -1206,7 +1210,7 @@ The Pro Light theme was adapted from the Pro theme by [crowsonkb](https://github
 
 The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
 
-The Calamity theme was created by [Pustur](https://github.com/Pustur)
+The Calamity and Rapture themes were created by [Pustur](https://github.com/Pustur)
 
 The Purple Peter theme was created by [DeChamp](https://github.com/dechamp)
 

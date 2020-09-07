@@ -488,6 +488,10 @@ Screenshots
 
 ![image](pro.png)
 
+`rapture.png`
+
+![image](rapture.png)
+
 `README.md`
 
 ![image](README.md)
