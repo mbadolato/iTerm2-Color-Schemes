@@ -1,0 +1,29 @@
+# Colors (Hopscotch.256)
+colors:
+  bright:
+    black: '#797379'
+    blue: '#1290bf'
+    cyan: '#149b93'
+    green: '#8fc13e'
+    magenta: '#c85e7c'
+    red: '#dd464c'
+    white: '#ffffff'
+    yellow: '#fdcc59'
+  cursor:
+    cursor: '#b9b5b8'
+    text: '#322931'
+  normal:
+    black: '#322931'
+    blue: '#1290bf'
+    cyan: '#149b93'
+    green: '#8fc13e'
+    magenta: '#c85e7c'
+    red: '#dd464c'
+    white: '#b9b5b8'
+    yellow: '#fdcc59'
+  primary:
+    background: '#322931'
+    foreground: '#b9b5b8'
+  selection:
+    background: '#5c545b'
+    text: '#b9b5b8'

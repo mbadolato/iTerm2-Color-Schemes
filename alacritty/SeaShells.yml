@@ -1,0 +1,29 @@
+# Colors (SeaShells)
+colors:
+  bright:
+    black: '#434b53'
+    blue: '#1bbcdd'
+    cyan: '#87acb4'
+    green: '#628d98'
+    magenta: '#bbe3ee'
+    red: '#d48678'
+    white: '#fee4ce'
+    yellow: '#fdd39f'
+  cursor:
+    cursor: '#fca02f'
+    text: '#08131a'
+  normal:
+    black: '#17384c'
+    blue: '#1e4950'
+    cyan: '#50a3b5'
+    green: '#027c9b'
+    magenta: '#68d4f1'
+    red: '#d15123'
+    white: '#deb88d'
+    yellow: '#fca02f'
+  primary:
+    background: '#09141b'
+    foreground: '#deb88d'
+  selection:
+    background: '#1e4962'
+    text: '#fee4ce'

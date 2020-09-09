@@ -1,0 +1,29 @@
+# Colors (UltraViolent)
+colors:
+  bright:
+    black: '#636667'
+    blue: '#7fecff'
+    cyan: '#69fcd3'
+    green: '#deff8c'
+    magenta: '#e681ff'
+    red: '#fb58b4'
+    white: '#f9f9f5'
+    yellow: '#ebe087'
+  cursor:
+    cursor: '#c1c1c1'
+    text: '#ffffff'
+  normal:
+    black: '#242728'
+    blue: '#47e0fb'
+    cyan: '#0effbb'
+    green: '#b6ff00'
+    magenta: '#d731ff'
+    red: '#ff0090'
+    white: '#e1e1e1'
+    yellow: '#fff727'
+  primary:
+    background: '#242728'
+    foreground: '#c1c1c1'
+  selection:
+    background: '#574c49'
+    text: '#c3c7cb'

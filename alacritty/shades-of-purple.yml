@@ -1,0 +1,29 @@
+# Colors (shades-of-purple)
+colors:
+  bright:
+    black: '#686868'
+    blue: '#6871ff'
+    cyan: '#79e8fb'
+    green: '#43d426'
+    magenta: '#ff77ff'
+    red: '#f92a1c'
+    white: '#ffffff'
+    yellow: '#f1d000'
+  cursor:
+    cursor: '#fad000'
+    text: '#fefff4'
+  normal:
+    black: '#000000'
+    blue: '#6943ff'
+    cyan: '#00c5c7'
+    green: '#3ad900'
+    magenta: '#ff2c70'
+    red: '#d90429'
+    white: '#c7c7c7'
+    yellow: '#ffe700'
+  primary:
+    background: '#1e1d40'
+    foreground: '#ffffff'
+  selection:
+    background: '#b362ff'
+    text: '#c2c2c2'

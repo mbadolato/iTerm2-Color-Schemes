@@ -1,0 +1,29 @@
+# Colors (SleepyHollow)
+colors:
+  bright:
+    black: '#4e4b61'
+    blue: '#8086ef'
+    cyan: '#a4dce7'
+    green: '#d6b04e'
+    magenta: '#e2c2bb'
+    red: '#d9443f'
+    white: '#d2c7a9'
+    yellow: '#f66813'
+  cursor:
+    cursor: '#af9a91'
+    text: '#391a02'
+  normal:
+    black: '#572100'
+    blue: '#5f63b4'
+    cyan: '#8faea9'
+    green: '#91773f'
+    magenta: '#a17c7b'
+    red: '#ba3934'
+    white: '#af9a91'
+    yellow: '#b55600'
+  primary:
+    background: '#121214'
+    foreground: '#af9a91'
+  selection:
+    background: '#575256'
+    text: '#d2c7a9'

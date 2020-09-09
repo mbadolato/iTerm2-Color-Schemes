@@ -1,0 +1,29 @@
+# Colors (Solarized Dark - Patched)
+colors:
+  bright:
+    black: '#475b62'
+    blue: '#708284'
+    cyan: '#819090'
+    green: '#475b62'
+    magenta: '#5956ba'
+    red: '#bd3613'
+    white: '#fcf4dc'
+    yellow: '#536870'
+  cursor:
+    cursor: '#708284'
+    text: '#002831'
+  normal:
+    black: '#002831'
+    blue: '#2176c7'
+    cyan: '#259286'
+    green: '#738a05'
+    magenta: '#c61c6f'
+    red: '#d11c24'
+    white: '#eae3cb'
+    yellow: '#a57706'
+  primary:
+    background: '#001e27'
+    foreground: '#708284'
+  selection:
+    background: '#002831'
+    text: '#819090'

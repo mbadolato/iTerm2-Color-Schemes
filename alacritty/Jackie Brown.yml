@@ -1,0 +1,29 @@
+# Colors (Jackie Brown)
+colors:
+  bright:
+    black: '#666666'
+    blue: '#0000ff'
+    cyan: '#00e5e5'
+    green: '#86a93e'
+    magenta: '#e500e5'
+    red: '#e50000'
+    white: '#e5e5e5'
+    yellow: '#e5e500'
+  cursor:
+    cursor: '#23ff18'
+    text: '#ff0018'
+  normal:
+    black: '#2c1d16'
+    blue: '#246eb2'
+    cyan: '#00acee'
+    green: '#2baf2b'
+    magenta: '#d05ec1'
+    red: '#ef5734'
+    white: '#bfbfbf'
+    yellow: '#bebf00'
+  primary:
+    background: '#2c1d16'
+    foreground: '#ffcc2f'
+  selection:
+    background: '#af8d21'
+    text: '#ffffff'

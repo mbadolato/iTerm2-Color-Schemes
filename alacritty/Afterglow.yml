@@ -1,0 +1,29 @@
+# Colors (Afterglow)
+colors:
+  bright:
+    black: '#505050'
+    blue: '#6c99bb'
+    cyan: '#7dd6cf'
+    green: '#7e8e50'
+    magenta: '#9f4e85'
+    red: '#ac4142'
+    white: '#f5f5f5'
+    yellow: '#e5b567'
+  cursor:
+    cursor: '#d0d0d0'
+    text: '#151515'
+  normal:
+    black: '#151515'
+    blue: '#6c99bb'
+    cyan: '#7dd6cf'
+    green: '#7e8e50'
+    magenta: '#9f4e85'
+    red: '#ac4142'
+    white: '#d0d0d0'
+    yellow: '#e5b567'
+  primary:
+    background: '#212121'
+    foreground: '#d0d0d0'
+  selection:
+    background: '#303030'
+    text: '#d0d0d0'

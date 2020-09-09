@@ -1,0 +1,29 @@
+# Colors (DoomOne)
+colors:
+  bright:
+    black: '#000000'
+    blue: '#a9a1e1'
+    cyan: '#51afef'
+    green: '#99bb66'
+    magenta: '#c678dd'
+    red: '#ff6655'
+    white: '#bfbfbf'
+    yellow: '#ecbe7b'
+  cursor:
+    cursor: '#51afef'
+    text: '#1b1b1b'
+  normal:
+    black: '#000000'
+    blue: '#a9a1e1'
+    cyan: '#51afef'
+    green: '#98be65'
+    magenta: '#c678dd'
+    red: '#ff6c6b'
+    white: '#bbc2cf'
+    yellow: '#ecbe7b'
+  primary:
+    background: '#282c34'
+    foreground: '#bbc2cf'
+  selection:
+    background: '#42444b'
+    text: '#bbc2cf'

@@ -1,0 +1,29 @@
+# Colors (PaulMillr)
+colors:
+  bright:
+    black: '#666666'
+    blue: '#709aed'
+    cyan: '#7adff2'
+    green: '#66ff66'
+    magenta: '#db67e6'
+    red: '#ff0080'
+    white: '#ffffff'
+    yellow: '#f3d64e'
+  cursor:
+    cursor: '#4d4d4d'
+    text: '#ffffff'
+  normal:
+    black: '#2a2a2a'
+    blue: '#396bd7'
+    cyan: '#66ccff'
+    green: '#79ff0f'
+    magenta: '#b449be'
+    red: '#ff0000'
+    white: '#bbbbbb'
+    yellow: '#e7bf00'
+  primary:
+    background: '#000000'
+    foreground: '#f2f2f2'
+  selection:
+    background: '#414141'
+    text: '#ffffff'

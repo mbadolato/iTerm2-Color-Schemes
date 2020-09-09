@@ -1,0 +1,29 @@
+# Colors (rebecca)
+colors:
+  bright:
+    black: '#666699'
+    blue: '#69c0fa'
+    cyan: '#8bfde1'
+    green: '#01eac0'
+    magenta: '#c17ff8'
+    red: '#ff92cd'
+    white: '#f4f2f9'
+    yellow: '#fffca8'
+  cursor:
+    cursor: '#b89bf9'
+    text: '#292a44'
+  normal:
+    black: '#12131e'
+    blue: '#7aa5ff'
+    cyan: '#56d3c2'
+    green: '#04dbb5'
+    magenta: '#bf9cf9'
+    red: '#dd7755'
+    white: '#e4e3e9'
+    yellow: '#f2e7b7'
+  primary:
+    background: '#292a44'
+    foreground: '#e8e6ed'
+  selection:
+    background: '#663399'
+    text: '#f4f2f9'

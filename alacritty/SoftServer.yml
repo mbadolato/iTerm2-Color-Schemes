@@ -1,0 +1,29 @@
+# Colors (SoftServer)
+colors:
+  bright:
+    black: '#666c6c'
+    blue: '#62b1df'
+    cyan: '#64e39c'
+    green: '#bfdf55'
+    magenta: '#606edf'
+    red: '#dd5c60'
+    white: '#d2e0de'
+    yellow: '#deb360'
+  cursor:
+    cursor: '#d2e0de'
+    text: '#000000'
+  normal:
+    black: '#000000'
+    blue: '#6b8fa3'
+    cyan: '#6ba58f'
+    green: '#9aa56a'
+    magenta: '#6a71a3'
+    red: '#a2686a'
+    white: '#99a3a2'
+    yellow: '#a3906a'
+  primary:
+    background: '#242626'
+    foreground: '#99a3a2'
+  selection:
+    background: '#7f8786'
+    text: '#effffe'

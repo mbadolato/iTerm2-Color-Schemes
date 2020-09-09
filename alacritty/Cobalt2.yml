@@ -1,0 +1,29 @@
+# Colors (Cobalt2)
+colors:
+  bright:
+    black: '#555555'
+    blue: '#5555ff'
+    cyan: '#6ae3fa'
+    green: '#3bd01d'
+    magenta: '#ff55ff'
+    red: '#f40e17'
+    white: '#ffffff'
+    yellow: '#edc809'
+  cursor:
+    cursor: '#f0cc09'
+    text: '#fefff2'
+  normal:
+    black: '#000000'
+    blue: '#1460d2'
+    cyan: '#00bbbb'
+    green: '#38de21'
+    magenta: '#ff005d'
+    red: '#ff0000'
+    white: '#bbbbbb'
+    yellow: '#ffe50a'
+  primary:
+    background: '#132738'
+    foreground: '#ffffff'
+  selection:
+    background: '#18354f'
+    text: '#b5b5b5'

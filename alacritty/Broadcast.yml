@@ -1,0 +1,29 @@
+# Colors (Broadcast)
+colors:
+  bright:
+    black: '#323232'
+    blue: '#9fcef0'
+    cyan: '#a0cef0'
+    green: '#83d182'
+    magenta: '#ffffff'
+    red: '#ff7b6b'
+    white: '#ffffff'
+    yellow: '#ffff7c'
+  cursor:
+    cursor: '#ffffff'
+    text: '#e6e1dc'
+  normal:
+    black: '#000000'
+    blue: '#6d9cbe'
+    cyan: '#6e9cbe'
+    green: '#519f50'
+    magenta: '#d0d0ff'
+    red: '#da4939'
+    white: '#ffffff'
+    yellow: '#ffd24a'
+  primary:
+    background: '#2b2b2b'
+    foreground: '#e6e1dc'
+  selection:
+    background: '#5a647e'
+    text: '#e6e1dc'

@@ -1,0 +1,29 @@
+# Colors (ayu_light)
+colors:
+  bright:
+    black: '#323232'
+    blue: '#73d8ff'
+    cyan: '#7ff1cb'
+    green: '#b8e532'
+    magenta: '#ffa3aa'
+    red: '#ff6565'
+    white: '#ffffff'
+    yellow: '#ffc94a'
+  cursor:
+    cursor: '#ff6a00'
+    text: '#5c6773'
+  normal:
+    black: '#000000'
+    blue: '#41a6d9'
+    cyan: '#4dbf99'
+    green: '#86b300'
+    magenta: '#f07178'
+    red: '#ff3333'
+    white: '#ffffff'
+    yellow: '#f29718'
+  primary:
+    background: '#fafafa'
+    foreground: '#5c6773'
+  selection:
+    background: '#f0eee4'
+    text: '#5c6773'

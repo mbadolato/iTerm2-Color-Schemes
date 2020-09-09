@@ -1,0 +1,29 @@
+# Colors (Violet Dark)
+colors:
+  bright:
+    black: '#45484b'
+    blue: '#2176c7'
+    cyan: '#259286'
+    green: '#738a04'
+    magenta: '#c61c6f'
+    red: '#bd3613'
+    white: '#c9c6bd'
+    yellow: '#a57705'
+  cursor:
+    cursor: '#708284'
+    text: '#1c1d1f'
+  normal:
+    black: '#56595c'
+    blue: '#2e8bce'
+    cyan: '#32a198'
+    green: '#85981c'
+    magenta: '#d13a82'
+    red: '#c94c22'
+    white: '#c9c6bd'
+    yellow: '#b4881d'
+  primary:
+    background: '#1c1d1f'
+    foreground: '#708284'
+  selection:
+    background: '#595ab7'
+    text: '#1c1d1f'

@@ -1,0 +1,29 @@
+# Colors (synthwave-everything)
+colors:
+  bright:
+    black: '#fefefe'
+    blue: '#36f9f6'
+    cyan: '#f92aad'
+    green: '#72f1b8'
+    magenta: '#e1acff'
+    red: '#f88414'
+    white: '#fefefe'
+    yellow: '#fff951'
+  cursor:
+    cursor: '#72f1b8'
+    text: '#1a1a1a'
+  normal:
+    black: '#fefefe'
+    blue: '#6d77b3'
+    cyan: '#f772e0'
+    green: '#72f1b8'
+    magenta: '#c792ea'
+    red: '#f97e72'
+    white: '#fefefe'
+    yellow: '#fede5d'
+  primary:
+    background: '#2a2139'
+    foreground: '#f0eff1'
+  selection:
+    background: '#181521'
+    text: '#f0eff1'

@@ -1,0 +1,29 @@
+# Colors (Cyberdyne)
+colors:
+  bright:
+    black: '#2e2e2e'
+    blue: '#c2e3ff'
+    cyan: '#e6e7fe'
+    green: '#d6fcba'
+    magenta: '#ffb2fe'
+    red: '#ffc4be'
+    white: '#ffffff'
+    yellow: '#fffed5'
+  cursor:
+    cursor: '#00ff9c'
+    text: '#ffffff'
+  normal:
+    black: '#080808'
+    blue: '#0071cf'
+    cyan: '#6bffdd'
+    green: '#00c172'
+    magenta: '#ff90fe'
+    red: '#ff8373'
+    white: '#f1f1f1'
+    yellow: '#d2a700'
+  primary:
+    background: '#151144'
+    foreground: '#00ff92'
+  selection:
+    background: '#454d96'
+    text: '#f4f4f4'

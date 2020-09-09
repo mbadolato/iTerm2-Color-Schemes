@@ -1,0 +1,29 @@
+# Colors (jubi)
+colors:
+  bright:
+    black: '#a874ce'
+    blue: '#8c9fcd'
+    cyan: '#b7c9ef'
+    green: '#bcdd61'
+    magenta: '#e16c87'
+    red: '#de90ab'
+    white: '#d5e5f1'
+    yellow: '#87e9ea'
+  cursor:
+    cursor: '#c3d3de'
+    text: '#1e1b2e'
+  normal:
+    black: '#3b3750'
+    blue: '#576ea6'
+    cyan: '#75a7d2'
+    green: '#90a94b'
+    magenta: '#bc4f68'
+    red: '#cf7b98'
+    white: '#c3d3de'
+    yellow: '#6ebfc0'
+  primary:
+    background: '#262b33'
+    foreground: '#c3d3de'
+  selection:
+    background: '#5b5184'
+    text: '#1e1b2e'

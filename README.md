@@ -18,10 +18,11 @@
   - [LXTerminal color schemes](#lxterminal-color-schemes)
   - [Visual Studio Code color schemes](#visual-studio-code-color-schemes)
   - [Windows Terminal color schemes](#windows-terminal-color-schemes)
+  - [Alacritty color schemes](#alacritty-color-schemes)
 
 ## Intro
 
-This is a set of color schemes for iTerm (aka iTerm2). It also includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio
+This is a set of color schemes for iTerm (aka iTerm2). It also includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 
 Screenshots below and in the [screenshots](screenshots/) directory.
 
@@ -75,6 +76,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### 3024 Night
 
 ![Screenshot](screenshots/3024_night.png)
+
+### Adventure
+
+![Screenshot](screenshots/adventure.png)
 
 ### AdventureTime
 
@@ -288,6 +293,18 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/dimmed_monokai.png)
 
+### Django
+
+![Screenshot](screenshots/Django.png)
+
+### DjangoRebornAgain
+
+![Screenshot](screenshots/DjangoRebornAgain.png)
+
+### DjangoSmoothy
+
+![Screenshot](screenshots/DjangoSmoothy.png)
+
 ### Doom One
 
 ![Screenshot](screenshots/doom_one.png)
@@ -400,6 +417,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/gruvbox_dark.png)
 
+### Gruvbox Light
+
+![Screenshot](screenshots/gruvbox_light.png)
+
 ### Hacktober
 
 ![Screenshot](screenshots/hacktober.png)
@@ -480,6 +501,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/jetbrains_darcula.png)
 
+### Jubi
+
+![Screenshot](screenshots/jubi.png)
+
 ### Kibble
 
 ![Screenshot](screenshots/kibble.png)
@@ -487,6 +512,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Kolorit
 
 ![Screenshot](screenshots/kolorit.png)
+
+### Konsolas
+
+![Screenshot](screenshots/konsolas.png)
 
 ### Lab Fox
 
@@ -684,6 +713,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/purple_rain.png)
 
+### Rapture
+
+![Screenshot](screenshots/rapture.png)
+
 ### Rebecca
 
 ![Screenshot](screenshots/rebecca.png)
@@ -707,6 +740,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Rippedcasts
 
 ![Screenshot](screenshots/rippedcasts.png)
+
+### Rouge 2
+
+![Screenshot](screenshots/rouge_2.png)
 
 ### Royal
 
@@ -860,6 +897,14 @@ more information.
 ### The Hulk
 
 ![Screenshot](screenshots/the_hulk.png)
+
+### Tinacious Design (Dark)
+
+![Screenshot](screenshots/tinacious_design_dark.png)
+
+### Tinacious Design (Light)
+
+![Screenshot](screenshots/tinacious_design_light.png)
 
 ### Tomorrow
 
@@ -1045,6 +1090,8 @@ The CLRS theme was created by [jasonlong](https://github.com/jasonlong/iterm-clr
 
 The Dracula theme was created by [zenorocha](https://github.com/zenorocha/dracula-theme)
 
+The Adventure theme was created by [hongzimao](https://github.com/hongzimao/iTerm2-Color-Schemes)
+
 The themes AdventureTime, AlienBlood, BirdsOfParadise, Ciapre, CrayonPonyFish, DimmedMonokai, Earthsong, Elemental, FishTank, FrontEndDelight, FunForrest, Grape, Highway, IC_Green_PPL, IC_Orange_PPL, Lavandula, Medallion, MonaLisa, Ollie, Royal, SeaShells, Shaman, SleepyHollow, SoftServer, Sundried, ToyChest, Treehouse, and Urple were created by [zdj](https://github.com/zdj/themes/tree/master/iterm2)
 
 The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors)
@@ -1163,7 +1210,7 @@ The Pro Light theme was adapted from the Pro theme by [crowsonkb](https://github
 
 The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
 
-The Calamity theme was created by [Pustur](https://github.com/Pustur)
+The Calamity and Rapture themes were created by [Pustur](https://github.com/Pustur)
 
 The Purple Peter theme was created by [DeChamp](https://github.com/dechamp)
 
@@ -1182,6 +1229,12 @@ The Rebecca theme was created [vic](https://github.com/vic) based on his [emacs 
 The Whimsy theme was created by [Rod](https://github.com/rod)
 
 The Chester theme was created by [KH](https://github.com/spectralkh)
+
+The Django theme was created by [Jannis Leidel](https://code.djangoproject.com/wiki/TextMate). The original colors schemes were created by [threespot.com](https://threespot.com) for the Django Software Foundation
+
+The DjangoSmoothy theme was created by [Jannis Leidel](https://code.djangoproject.com/wiki/TextMate). The original colors schemes were created by [threespot.com](https://threespot.com) for the Django Software Foundation
+
+The DjangoRebornAgain theme was created by [christopherscott](https://github.com/christopherscott/django-reborn) based on the original Django themes by [Jannis Leidel](https://code.djangoproject.com/wiki/TextMate)
 
 The Kolorit theme was created by [thomaspaulmann](https://github.com/thomaspaulmann)
 
@@ -1218,6 +1271,20 @@ The Synthwave Everything theme was created by [smithbm2316](https://github.com/s
 The theme Sakura was created by [0xN0ri](https://github.com/0xN0ri) based on [zdj](https://github.com/zdj) iTerm 2 color scheme [Urple](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Urple.itermcolors)
 
 The Mirage theme was created by [Tristan Remy](https://github.com/tristanremy/mirage) and ported to iTerm2 by [Gomah](https://github.com/Gomah/mirage-iterm).
+
+The Rouge 2 theme was created by [Josef Aidt](https://github.com/josefaidt/rouge-theme) and ported to iTerm2 by [Sam Rose](https://github.com/samrose3).
+
+The theme Tinacious Design was created by [Tina Holly](https://tinaciousdesign.com)
+
+Popping and Locking theme was created by [Hedinn Eiriksson](https://github.com/hedinne) and added by [didierbroska](https://github.com/didierbroska)
+
+MaterialDarker and DraculaPlus themes were added by [jos3s](https://github.com/jos3s)
+
+Nord theme were added by [Teraskull](https://github.com/Teraskull)
+
+The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
+
+The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
@@ -1397,6 +1464,10 @@ Copy the theme content from `vscode/` and paste the content to your [UserSetting
 ### Windows Terminal color schemes
 
 Copy the theme content from `windowsterminal/` and paste the content to your `profiles.json` in the corresponding place (`"schemes"`). Then specify the name of your theme by `"colorScheme"` in `"profiles"`.
+
+### Alacritty color schemes
+
+Copy the theme content from `alacritty/` and paste the content to your [alacritty config file](https://github.com/alacritty/alacritty/blob/master/alacritty.yml).
 
 ### Previewing color schemes
 

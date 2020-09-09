@@ -1,0 +1,29 @@
+# Colors (Red Alert)
+colors:
+  bright:
+    black: '#262626'
+    blue: '#65aaf1'
+    cyan: '#b7dfdd'
+    green: '#aff08c'
+    magenta: '#ddb7df'
+    red: '#e02553'
+    white: '#ffffff'
+    yellow: '#dfddb7'
+  cursor:
+    cursor: '#ffffff'
+    text: '#762423'
+  normal:
+    black: '#000000'
+    blue: '#489bee'
+    cyan: '#6bbeb8'
+    green: '#71be6b'
+    magenta: '#e979d7'
+    red: '#d62e4e'
+    white: '#d6d6d6'
+    yellow: '#beb86b'
+  primary:
+    background: '#762423'
+    foreground: '#ffffff'
+  selection:
+    background: '#073642'
+    text: '#ffffff'

@@ -1,0 +1,29 @@
+# Colors (Relaxed)
+colors:
+  bright:
+    black: '#636363'
+    blue: '#7eaac7'
+    cyan: '#acbbd0'
+    green: '#a0ac77'
+    magenta: '#b06698'
+    red: '#bc5653'
+    white: '#f7f7f7'
+    yellow: '#ebc17a'
+  cursor:
+    cursor: '#d9d9d9'
+    text: '#1b1b1b'
+  normal:
+    black: '#151515'
+    blue: '#6a8799'
+    cyan: '#c9dfff'
+    green: '#909d63'
+    magenta: '#b06698'
+    red: '#bc5653'
+    white: '#d9d9d9'
+    yellow: '#ebc17a'
+  primary:
+    background: '#353a44'
+    foreground: '#d9d9d9'
+  selection:
+    background: '#6a7985'
+    text: '#d9d9d9'

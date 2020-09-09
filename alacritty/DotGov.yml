@@ -1,0 +1,29 @@
+# Colors (DotGov)
+colors:
+  bright:
+    black: '#191919'
+    blue: '#17b2e0'
+    cyan: '#8bd2ed'
+    green: '#3d9751'
+    magenta: '#7830b0'
+    red: '#bf091d'
+    white: '#ffffff'
+    yellow: '#f6bb34'
+  cursor:
+    cursor: '#d9002f'
+    text: '#ffffff'
+  normal:
+    black: '#191919'
+    blue: '#17b2e0'
+    cyan: '#8bd2ed'
+    green: '#3d9751'
+    magenta: '#7830b0'
+    red: '#bf091d'
+    white: '#ffffff'
+    yellow: '#f6bb34'
+  primary:
+    background: '#262c35'
+    foreground: '#ebebeb'
+  selection:
+    background: '#1a4080'
+    text: '#ffffff'

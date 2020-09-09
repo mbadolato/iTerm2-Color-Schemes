@@ -1,0 +1,29 @@
+# Colors (CLRS)
+colors:
+  bright:
+    black: '#555753'
+    blue: '#1670ff'
+    cyan: '#3ad5ce'
+    green: '#2cc631'
+    magenta: '#e900b0'
+    red: '#fb0416'
+    white: '#eeeeec'
+    yellow: '#fdd727'
+  cursor:
+    cursor: '#6fd3fc'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#135cd0'
+    cyan: '#33c3c1'
+    green: '#328a5d'
+    magenta: '#9f00bd'
+    red: '#f8282a'
+    white: '#b3b3b3'
+    yellow: '#fa701d'
+  primary:
+    background: '#ffffff'
+    foreground: '#262626'
+  selection:
+    background: '#6fd3fc'
+    text: '#041730'

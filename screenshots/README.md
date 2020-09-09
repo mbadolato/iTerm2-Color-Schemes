@@ -336,6 +336,10 @@ Screenshots
 
 ![image](kibble.png)
 
+`konsolas.png`
+
+![image](konsolas.png)
+
 `laser.png`
 
 ![image](laser.png)
@@ -483,6 +487,10 @@ Screenshots
 `pro.png`
 
 ![image](pro.png)
+
+`rapture.png`
+
+![image](rapture.png)
 
 `README.md`
 

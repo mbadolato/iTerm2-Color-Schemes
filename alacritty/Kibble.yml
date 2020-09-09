@@ -1,0 +1,29 @@
+# Colors (Kibble)
+colors:
+  bright:
+    black: '#5a5a5a'
+    blue: '#97a4f7'
+    cyan: '#68f2e0'
+    green: '#6ce05c'
+    magenta: '#c495f0'
+    red: '#f01578'
+    white: '#ffffff'
+    yellow: '#f3f79e'
+  cursor:
+    cursor: '#9fda9c'
+    text: '#000000'
+  normal:
+    black: '#4d4d4d'
+    blue: '#3449d1'
+    cyan: '#0798ab'
+    green: '#29cf13'
+    magenta: '#8400ff'
+    red: '#c70031'
+    white: '#e2d1e3'
+    yellow: '#d8e30e'
+  primary:
+    background: '#0e100a'
+    foreground: '#f7f7f7'
+  selection:
+    background: '#9ba787'
+    text: '#000000'

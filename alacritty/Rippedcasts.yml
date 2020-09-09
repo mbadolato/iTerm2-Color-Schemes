@@ -1,0 +1,29 @@
+# Colors (Rippedcasts)
+colors:
+  bright:
+    black: '#666666'
+    blue: '#86bdc9'
+    cyan: '#8c9bc4'
+    green: '#bcee68'
+    magenta: '#e500e5'
+    red: '#eecbad'
+    white: '#e5e5e5'
+    yellow: '#e5e500'
+  cursor:
+    cursor: '#7f7f7f'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#75a5b0'
+    cyan: '#5a647e'
+    green: '#a8ff60'
+    magenta: '#ff73fd'
+    red: '#cdaf95'
+    white: '#bfbfbf'
+    yellow: '#bfbb1f'
+  primary:
+    background: '#2b2b2b'
+    foreground: '#ffffff'
+  selection:
+    background: '#5a647e'
+    text: '#f2f2f2'

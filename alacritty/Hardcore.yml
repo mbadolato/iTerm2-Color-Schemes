@@ -1,0 +1,29 @@
+# Colors (Hardcore)
+colors:
+  bright:
+    black: '#505354'
+    blue: '#66d9ef'
+    cyan: '#a3babf'
+    green: '#beed5f'
+    magenta: '#9e6ffe'
+    red: '#ff669d'
+    white: '#f8f8f2'
+    yellow: '#e6db74'
+  cursor:
+    cursor: '#bbbbbb'
+    text: '#ffffff'
+  normal:
+    black: '#1b1d1e'
+    blue: '#66d9ef'
+    cyan: '#5e7175'
+    green: '#a6e22e'
+    magenta: '#9e6ffe'
+    red: '#f92672'
+    white: '#ccccc6'
+    yellow: '#fd971f'
+  primary:
+    background: '#121212'
+    foreground: '#a0a0a0'
+  selection:
+    background: '#453b39'
+    text: '#b6bbc0'

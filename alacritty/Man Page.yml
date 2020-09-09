@@ -1,0 +1,29 @@
+# Colors (Man Page)
+colors:
+  bright:
+    black: '#666666'
+    blue: '#0000ff'
+    cyan: '#00e5e5'
+    green: '#00d900'
+    magenta: '#e500e5'
+    red: '#e50000'
+    white: '#e5e5e5'
+    yellow: '#e5e500'
+  cursor:
+    cursor: '#7f7f7f'
+    text: '#000000'
+  normal:
+    black: '#000000'
+    blue: '#0000b2'
+    cyan: '#00a6b2'
+    green: '#00a600'
+    magenta: '#b200b2'
+    red: '#cc0000'
+    white: '#cccccc'
+    yellow: '#999900'
+  primary:
+    background: '#fef49c'
+    foreground: '#000000'
+  selection:
+    background: '#a4c9cd'
+    text: '#000000'

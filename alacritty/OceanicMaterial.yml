@@ -1,0 +1,29 @@
+# Colors (OceanicMaterial)
+colors:
+  bright:
+    black: '#777777'
+    blue: '#54a4f3'
+    cyan: '#42c7da'
+    green: '#70be71'
+    magenta: '#aa4dbc'
+    red: '#dc5c60'
+    white: '#ffffff'
+    yellow: '#fff163'
+  cursor:
+    cursor: '#b3b8c3'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#1e80f0'
+    cyan: '#16afca'
+    green: '#40a33f'
+    magenta: '#8800a0'
+    red: '#ee2b2a'
+    white: '#a4a4a4'
+    yellow: '#ffea2e'
+  primary:
+    background: '#1c262b'
+    foreground: '#c2c8d7'
+  selection:
+    background: '#6dc2b8'
+    text: '#c2c8d7'

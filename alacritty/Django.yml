@@ -1,0 +1,29 @@
+# Colors (Django)
+colors:
+  bright:
+    black: '#323232'
+    blue: '#568264'
+    cyan: '#cfffd1'
+    green: '#73da70'
+    magenta: '#ffffff'
+    red: '#ff943b'
+    white: '#ffffff'
+    yellow: '#ffff94'
+  cursor:
+    cursor: '#336442'
+    text: '#f8f8f8'
+  normal:
+    black: '#000000'
+    blue: '#245032'
+    cyan: '#9df39f'
+    green: '#41a83e'
+    magenta: '#f8f8f8'
+    red: '#fd6209'
+    white: '#ffffff'
+    yellow: '#ffe862'
+  primary:
+    background: '#0b2f20'
+    foreground: '#f8f8f8'
+  selection:
+    background: '#245032'
+    text: '#f8f8f8'

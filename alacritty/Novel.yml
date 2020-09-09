@@ -1,0 +1,29 @@
+# Colors (Novel)
+colors:
+  bright:
+    black: '#808080'
+    blue: '#0000cc'
+    cyan: '#0087cc'
+    green: '#009600'
+    magenta: '#cc00cc'
+    red: '#cc0000'
+    white: '#ffffff'
+    yellow: '#d06b00'
+  cursor:
+    cursor: '#73635a'
+    text: '#000000'
+  normal:
+    black: '#000000'
+    blue: '#0000cc'
+    cyan: '#0087cc'
+    green: '#009600'
+    magenta: '#cc00cc'
+    red: '#cc0000'
+    white: '#cccccc'
+    yellow: '#d06b00'
+  primary:
+    background: '#dfdbc3'
+    foreground: '#3b2322'
+  selection:
+    background: '#a4a390'
+    text: '#000000'

@@ -1,0 +1,29 @@
+# Colors (WildCherry)
+colors:
+  bright:
+    black: '#009cc9'
+    blue: '#308cba'
+    cyan: '#ff919d'
+    green: '#f4dca5'
+    magenta: '#ae636b'
+    red: '#da6bac'
+    white: '#e4838d'
+    yellow: '#eac066'
+  cursor:
+    cursor: '#dd00ff'
+    text: '#ff00fe'
+  normal:
+    black: '#000507'
+    blue: '#883cdc'
+    cyan: '#c1b8b7'
+    green: '#2ab250'
+    magenta: '#ececec'
+    red: '#d94085'
+    white: '#fff8de'
+    yellow: '#ffd16f'
+  primary:
+    background: '#1f1726'
+    foreground: '#dafaff'
+  selection:
+    background: '#002831'
+    text: '#e4ffff'

@@ -1,0 +1,29 @@
+# Colors (Tomorrow Night)
+colors:
+  bright:
+    black: '#000000'
+    blue: '#81a2be'
+    cyan: '#8abeb7'
+    green: '#b5bd68'
+    magenta: '#b294bb'
+    red: '#cc6666'
+    white: '#ffffff'
+    yellow: '#f0c674'
+  cursor:
+    cursor: '#c5c8c6'
+    text: '#1d1f21'
+  normal:
+    black: '#000000'
+    blue: '#81a2be'
+    cyan: '#8abeb7'
+    green: '#b5bd68'
+    magenta: '#b294bb'
+    red: '#cc6666'
+    white: '#ffffff'
+    yellow: '#f0c674'
+  primary:
+    background: '#1d1f21'
+    foreground: '#c5c8c6'
+  selection:
+    background: '#373b41'
+    text: '#c5c8c6'

@@ -1,0 +1,29 @@
+# Colors (Breeze)
+colors:
+  bright:
+    black: '#7f8c8d'
+    blue: '#3daee9'
+    cyan: '#16a085'
+    green: '#1cdc9a'
+    magenta: '#8e44ad'
+    red: '#c0392b'
+    white: '#fcfcfc'
+    yellow: '#fdbc4b'
+  cursor:
+    cursor: '#eff0f1'
+    text: '#31363b'
+  normal:
+    black: '#31363b'
+    blue: '#1d99f3'
+    cyan: '#1abc9c'
+    green: '#11d116'
+    magenta: '#9b59b6'
+    red: '#ed1515'
+    white: '#eff0f1'
+    yellow: '#f67400'
+  primary:
+    background: '#31363b'
+    foreground: '#eff0f1'
+  selection:
+    background: '#eff0f1'
+    text: '#31363b'

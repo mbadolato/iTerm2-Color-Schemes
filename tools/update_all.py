@@ -20,6 +20,7 @@ import xrdb2pantheon_terminal
 import xrdb2wezterm
 import xrdb2windowsterminal
 import xrdb2dynamic_color
+import xrdb2alacritty
 
 if __name__ == '__main__':
 
@@ -27,7 +28,8 @@ if __name__ == '__main__':
         base_name = splitext(basename(f))[0]
         xrdb_filepath = join('../xrdb', base_name + '.xrdb')
         with open(xrdb_filepath, 'w') as fout:
-            ret_code = subprocess.Popen(['./iterm2xrdb', f], stdout=fout).wait()
+            ret_code = subprocess.Popen(
+                ['./iterm2xrdb', f], stdout=fout).wait()
             print(ret_code and "ERROR" or "OK" + " --> " + xrdb_filepath)
 
     print()
@@ -61,3 +63,5 @@ if __name__ == '__main__':
     print('OK --> ' + '../windowsterminal/')
     xrdb2dynamic_color.main('../xrdb/', '../dynamic-colors/')
     print('OK --> ' + '../dynamic-colors/')
+    xrdb2alacritty.main('../xrdb/', '../alacritty/')
+    print('OK --> ' + '../alacritty/')

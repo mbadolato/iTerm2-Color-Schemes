@@ -1,0 +1,29 @@
+# Colors (Misterioso)
+colors:
+  bright:
+    black: '#555555'
+    blue: '#23d7d7'
+    cyan: '#00ede1'
+    green: '#74cd68'
+    magenta: '#ff37ff'
+    red: '#ff3242'
+    white: '#ffffff'
+    yellow: '#ffb929'
+  cursor:
+    cursor: '#000000'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#338f86'
+    cyan: '#23d7d7'
+    green: '#74af68'
+    magenta: '#9414e6'
+    red: '#ff4242'
+    white: '#e1e1e0'
+    yellow: '#ffad29'
+  primary:
+    background: '#2d3743'
+    foreground: '#e1e1e0'
+  selection:
+    background: '#2d37ff'
+    text: '#000000'

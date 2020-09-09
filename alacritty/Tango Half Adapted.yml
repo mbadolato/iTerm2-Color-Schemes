@@ -1,0 +1,29 @@
+# Colors (Tango Half Adapted)
+colors:
+  bright:
+    black: '#797d76'
+    blue: '#76bfff'
+    cyan: '#00f6fa'
+    green: '#8af600'
+    magenta: '#d898d1'
+    red: '#ff0013'
+    white: '#f4f4f2'
+    yellow: '#ffec00'
+  cursor:
+    cursor: '#000000'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#008ef6'
+    cyan: '#00bdc3'
+    green: '#4cc300'
+    magenta: '#a96cb3'
+    red: '#ff0000'
+    white: '#e0e5db'
+    yellow: '#e2c000'
+  primary:
+    background: '#ffffff'
+    foreground: '#000000'
+  selection:
+    background: '#c1deff'
+    text: '#000000'

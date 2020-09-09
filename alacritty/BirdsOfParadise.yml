@@ -1,0 +1,29 @@
+# Colors (BirdsOfParadise)
+colors:
+  bright:
+    black: '#9b6c4a'
+    blue: '#b8d3ed'
+    cyan: '#93cfd7'
+    green: '#95d8ba'
+    magenta: '#d19ecb'
+    red: '#e84627'
+    white: '#fff9d5'
+    yellow: '#d0d150'
+  cursor:
+    cursor: '#573d26'
+    text: '#573d26'
+  normal:
+    black: '#573d26'
+    blue: '#5a86ad'
+    cyan: '#74a6ad'
+    green: '#6ba18a'
+    magenta: '#ac80a6'
+    red: '#be2d26'
+    white: '#e0dbb7'
+    yellow: '#e99d2a'
+  primary:
+    background: '#2a1f1d'
+    foreground: '#e0dbb7'
+  selection:
+    background: '#563c27'
+    text: '#e0dbbb'

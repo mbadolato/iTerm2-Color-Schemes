@@ -1,0 +1,29 @@
+# Colors (LiquidCarbonTransparentInverse)
+colors:
+  bright:
+    black: '#ffffff'
+    blue: '#0099cc'
+    cyan: '#7ac4cc'
+    green: '#559a70'
+    magenta: '#cc69c8'
+    red: '#ff3030'
+    white: '#000000'
+    yellow: '#ccac00'
+  cursor:
+    cursor: '#ffffff'
+    text: '#000000'
+  normal:
+    black: '#bccccd'
+    blue: '#0099cc'
+    cyan: '#7ac4cc'
+    green: '#559a70'
+    magenta: '#cc69c8'
+    red: '#ff3030'
+    white: '#000000'
+    yellow: '#ccac00'
+  primary:
+    background: '#000000'
+    foreground: '#afc2c2'
+  selection:
+    background: '#7dbeff'
+    text: '#000000'

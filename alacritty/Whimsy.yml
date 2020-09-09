@@ -1,0 +1,29 @@
+# Colors (Whimsy)
+colors:
+  bright:
+    black: '#535178'
+    blue: '#65aef7'
+    cyan: '#43c1be'
+    green: '#5eca89'
+    magenta: '#aa7ff0'
+    red: '#ef6487'
+    white: '#ffffff'
+    yellow: '#fdd877'
+  cursor:
+    cursor: '#b3b0d6'
+    text: '#535178'
+  normal:
+    black: '#535178'
+    blue: '#65aef7'
+    cyan: '#43c1be'
+    green: '#5eca89'
+    magenta: '#aa7ff0'
+    red: '#ef6487'
+    white: '#ffffff'
+    yellow: '#fdd877'
+  primary:
+    background: '#29283b'
+    foreground: '#b3b0d6'
+  selection:
+    background: '#3d3c58'
+    text: '#ffffff'

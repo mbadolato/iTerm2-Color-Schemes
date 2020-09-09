@@ -1,0 +1,29 @@
+# Colors (idleToes)
+colors:
+  bright:
+    black: '#535353'
+    blue: '#5eb7f7'
+    cyan: '#dcf4ff'
+    green: '#9dff91'
+    magenta: '#ff9dff'
+    red: '#f07070'
+    white: '#ffffff'
+    yellow: '#ffe48b'
+  cursor:
+    cursor: '#d6d6d6'
+    text: '#000000'
+  normal:
+    black: '#323232'
+    blue: '#4099ff'
+    cyan: '#bed6ff'
+    green: '#7fe173'
+    magenta: '#f680ff'
+    red: '#d25252'
+    white: '#eeeeec'
+    yellow: '#ffc66d'
+  primary:
+    background: '#323232'
+    foreground: '#ffffff'
+  selection:
+    background: '#5b5b5b'
+    text: '#000000'

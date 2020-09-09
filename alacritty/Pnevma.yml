@@ -1,0 +1,29 @@
+# Colors (Pnevma)
+colors:
+  bright:
+    black: '#4a4845'
+    blue: '#a1bdce'
+    cyan: '#b1e7dd'
+    green: '#afbea2'
+    magenta: '#d7beda'
+    red: '#d78787'
+    white: '#efefef'
+    yellow: '#e4c9af'
+  cursor:
+    cursor: '#e4c9af'
+    text: '#000000'
+  normal:
+    black: '#2f2e2d'
+    blue: '#7fa5bd'
+    cyan: '#8adbb4'
+    green: '#90a57d'
+    magenta: '#c79ec4'
+    red: '#a36666'
+    white: '#d0d0d0'
+    yellow: '#d7af87'
+  primary:
+    background: '#1c1c1c'
+    foreground: '#d0d0d0'
+  selection:
+    background: '#4d4d4d'
+    text: '#ffffff'

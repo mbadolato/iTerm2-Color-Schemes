@@ -1,0 +1,29 @@
+# Colors (Twilight)
+colors:
+  bright:
+    black: '#262626'
+    blue: '#5a5e62'
+    cyan: '#8a989b'
+    green: '#ccd88c'
+    magenta: '#d0dc8e'
+    red: '#de7c4c'
+    white: '#ffffd4'
+    yellow: '#e2c47e'
+  cursor:
+    cursor: '#ffffff'
+    text: '#000000'
+  normal:
+    black: '#141414'
+    blue: '#44474a'
+    cyan: '#778385'
+    green: '#afb97a'
+    magenta: '#b4be7c'
+    red: '#c06d44'
+    white: '#ffffd4'
+    yellow: '#c2a86c'
+  primary:
+    background: '#141414'
+    foreground: '#ffffd4'
+  selection:
+    background: '#313131'
+    text: '#ffffd4'

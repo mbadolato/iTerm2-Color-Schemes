@@ -1,0 +1,29 @@
+# Colors (coffee_theme)
+colors:
+  bright:
+    black: '#686868'
+    blue: '#6871ff'
+    cyan: '#60fdff'
+    green: '#5ffa68'
+    magenta: '#ff77ff'
+    red: '#ff6e67'
+    white: '#ffffff'
+    yellow: '#fffc67'
+  cursor:
+    cursor: '#c7c7c7'
+    text: '#fffc67'
+  normal:
+    black: '#000000'
+    blue: '#0225c7'
+    cyan: '#00c5c7'
+    green: '#00c200'
+    magenta: '#ca30c7'
+    red: '#c91b00'
+    white: '#c7c7c7'
+    yellow: '#c7c400'
+  primary:
+    background: '#f5deb3'
+    foreground: '#000000'
+  selection:
+    background: '#c1deff'
+    text: '#000000'

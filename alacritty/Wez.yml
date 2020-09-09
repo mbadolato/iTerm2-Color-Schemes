@@ -1,0 +1,29 @@
+# Colors (Wez)
+colors:
+  bright:
+    black: '#555555'
+    blue: '#5555ff'
+    cyan: '#55ffff'
+    green: '#55ff55'
+    magenta: '#ff55ff'
+    red: '#ff5555'
+    white: '#ffffff'
+    yellow: '#ffff55'
+  cursor:
+    cursor: '#53ae71'
+    text: '#000000'
+  normal:
+    black: '#000000'
+    blue: '#5555cc'
+    cyan: '#7acaca'
+    green: '#55cc55'
+    magenta: '#cc55cc'
+    red: '#cc5555'
+    white: '#cccccc'
+    yellow: '#cdcd55'
+  primary:
+    background: '#000000'
+    foreground: '#b3b3b3'
+  selection:
+    background: '#4d52f8'
+    text: '#000000'
