@@ -50,7 +50,7 @@ There are 2 ways to install an iTerm theme (both go to the same configuration lo
   _ Click on **Import**
   _ Select the .itermcolors file(s) of the [schemes](schemes/) you'd like to use \* Click on **Color Presets** and choose a color scheme
 
-## Contribute
+## Contribute theme
 
 Have a great iTerm theme? Send it to me via a Pull Request! To export your theme settings:
 
@@ -65,7 +65,7 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
 
-It would also be very helpful if you `cd tools/` and run `python3 update_all.py` to generate all formats of your scheme
+It would also be very helpful if you `cd tools/` and run `python3 gen.py` to generate all formats of your scheme
 
 ## Screenshots
 
