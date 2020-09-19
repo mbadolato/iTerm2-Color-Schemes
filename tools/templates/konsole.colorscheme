@@ -1,0 +1,69 @@
+[General]
+Description={{ scheme_name }}
+Opacity=1
+Wallpaper=
+
+[Background]
+Color={{ Background_Color.rgb }}
+
+[BackgroundIntense]
+Color={{ Background_Color.rgb }}
+
+[Foreground]
+Color={{ Foreground_Color.rgb }}
+
+{% if Bold_Color %}
+[ForegroundIntense]
+Color={{ Bold_Color.rgb }}
+{% else %}
+Color={{ Foreground_Color.rgb }}
+{% endif %}
+
+[Color0]
+Color={{ Ansi_0_Color.rgb }}
+
+[Color1]
+Color={{ Ansi_1_Color.rgb }}
+
+[Color2Intense]
+Color={{ Ansi_10_Color.rgb }}
+
+[Color3Intense]
+Color={{ Ansi_11_Color.rgb }}
+
+[Color4Intense]
+Color={{ Ansi_12_Color.rgb }}
+
+[Color5Intense]
+Color={{ Ansi_13_Color.rgb }}
+
+[Color6Intense]
+Color={{ Ansi_14_Color.rgb }}
+
+[Color7Intense]
+Color={{ Ansi_15_Color.rgb }}
+
+[Color2]
+Color={{ Ansi_2_Color.rgb }}
+
+[Color3]
+Color={{ Ansi_3_Color.rgb }}
+
+[Color4]
+Color={{ Ansi_4_Color.rgb }}
+
+[Color5]
+Color={{ Ansi_5_Color.rgb }}
+
+[Color6]
+Color={{ Ansi_6_Color.rgb }}
+
+[Color7]
+Color={{ Ansi_7_Color.rgb }}
+
+[Color0Intense]
+Color={{ Ansi_8_Color.rgb }}
+
+[Color1Intense]
+Color={{ Ansi_9_Color.rgb }}
+
