@@ -982,6 +982,10 @@ more information.
 
 ![Screenshot](screenshots/violet_dark.png)
 
+### vscode-dark
+
+![Screenshot](screenshots/vscode-dark.png)
+
 ### WarmNeon
 
 ![Screenshot](screenshots/warm_neon.png)

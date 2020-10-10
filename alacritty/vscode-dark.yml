@@ -1,0 +1,29 @@
+# Colors (vscode-dark)
+colors:
+  bright:
+    black: '#a6a6a6'
+    blue: '#6799e6'
+    cyan: '#9cdcfe'
+    green: '#b5cea8'
+    magenta: '#c586c0'
+    red: '#d16969'
+    white: '#d4d4d4'
+    yellow: '#cd9731'
+  cursor:
+    cursor: '#9cdcfe'
+    text: '#282828'
+  normal:
+    black: '#000000'
+    blue: '#569cd6'
+    cyan: '#8db9e2'
+    green: '#6a9955'
+    magenta: '#c586c0'
+    red: '#ce9178'
+    white: '#eaeaea'
+    yellow: '#dcdcaa'
+  primary:
+    background: '#1e1e1e'
+    foreground: '#dcdcdc'
+  selection:
+    background: '#264f78'
+    text: '#ffffff'

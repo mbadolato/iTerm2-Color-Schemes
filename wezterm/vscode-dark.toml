@@ -1,0 +1,11 @@
+# vscode-dark
+[colors]
+foreground = "#dcdcdc"
+background = "#1e1e1e"
+cursor_bg = "#9cdcfe"
+cursor_fg = "#282828"
+selection_bg = "#264f78"
+selection_fg = "#ffffff"
+
+ansi = ["#000000","#ce9178","#6a9955","#dcdcaa","#569cd6","#c586c0","#8db9e2","#eaeaea"]
+brights = ["#a6a6a6","#d16969","#b5cea8","#cd9731","#6799e6","#c586c0","#9cdcfe","#d4d4d4"]
