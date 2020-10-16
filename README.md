@@ -31,24 +31,24 @@ Screenshots below and in the [screenshots](screenshots/) directory.
 There are 2 ways to install an iTerm theme (both go to the same configuration location):
 
 - Direct way via keyboard shortcut:
-  _ Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
-  _ Type CMD+i (⌘+i)
-  _ Navigate to **Colors** tab
-  _ Click on **Color Presets**
-  _ Click on **Import**
-  _ Click on the **schemes** folder
-  _ Select the **.itermcolors** profiles you would like to import
-  _ Click on **Color Presets** and choose a color scheme
+  - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
+  - Type CMD+i (⌘+i)
+  - Navigate to **Colors** tab
+  - Click on **Color Presets**
+  - Click on **Import**
+  - Click on the **schemes** folder
+  - Select the **.itermcolors** profiles you would like to import
+  - Click on **Color Presets** and choose a color scheme
 
 - Via iTerm preferences
-  _ Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
-  _ Click on **iTerm2** menu title
-  _ Select **Preferences...** option
-  _ Select **Profiles**
-  _ Navigate to **Colors** tab
-  _ Click on **Color Presets**
-  _ Click on **Import**
-  _ Select the .itermcolors file(s) of the [schemes](schemes/) you'd like to use \* Click on **Color Presets** and choose a color scheme
+  - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
+  - Click on **iTerm2** menu title
+  - Select **Preferences...** option
+  - Select **Profiles**
+  - Navigate to **Colors** tab
+  - Click on **Color Presets**
+  - Click on **Import**
+  - Select the .itermcolors file(s) of the [schemes](schemes/) you'd like to use \* Click on **Color Presets** and choose a color scheme
 
 ## Contribute
 
