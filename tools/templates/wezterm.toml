@@ -4,6 +4,7 @@ foreground = "#{{ Foreground_Color.hex }}"
 background = "#{{ Background_Color.hex }}"
 {% if Cursor_Color %}
 cursor_bg = "#{{ Cursor_Color.hex }}"
+cursor_border = "#{{ Cursor_Color.hex }}"
 {% endif %}
 {% if Cursor_Text_Color %}
 cursor_fg = "#{{ Cursor_Text_Color.hex }}"
