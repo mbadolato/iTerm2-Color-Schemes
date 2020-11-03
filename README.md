@@ -1108,6 +1108,8 @@ The Seti theme was created by [jesseweed](https://github.com/jesseweed/seti-synt
 
 The Hipster Green and Jackie Brown themes were created by [Unkulunkulu](https://github.com/Unkulunkulu)
 
+The Aurora theme was created by [fcsmJS](https://github.com/fcsmJS/iTerm2-Color-Schemes)
+
 The Chalk theme was created by [achalv](https://github.com/achalv/chalk)
 
 The Pencil Dark and Pencil Light themes were created by [mattly](https://github.com/mattly/iterm-colors-pencil)
