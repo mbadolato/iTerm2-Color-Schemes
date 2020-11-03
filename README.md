@@ -125,6 +125,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/ayu_light.png)
 
+### Aurora
+
+![Screenshot](screenshots/aurora.png)
+
 ### Batman
 
 ![Screenshot](screenshots/batman.png)
