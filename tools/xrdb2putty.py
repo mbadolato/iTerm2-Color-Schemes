@@ -53,7 +53,7 @@ def main(xrdb_path, output_path=None):
 			output.write('\n%s:\n' % name)
 
 		# Emit header
-		output.write("Windows Registry Editor Version 5.00\n\n[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\%s]\n" % name)
+		output.write("Windows Registry Editor Version 5.00\n\n[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\%s]\n" % name.replace(' ', '%20'))
 
 		# Emit background color
 		bg_color = hex_to_rgb(bg_regex.search(xrdb_data).group(1))
