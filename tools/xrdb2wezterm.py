@@ -22,6 +22,7 @@ def process_file(data):
         ("foreground", "Foreground_Color"),
         ("background", "Background_Color"),
         ("cursor_bg", "Cursor_Color"),
+        ("cursor_border", "Cursor_Color"),
         ("cursor_fg", "Cursor_Text_Color"),
         ("selection_bg", "Selection_Color"),
         ("selection_fg", "Selected_Text_Color"),
