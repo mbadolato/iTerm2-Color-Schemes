@@ -125,6 +125,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/ayu_light.png)
 
+### Aurora
+
+![Screenshot](screenshots/aurora.png)
+
 ### Batman
 
 ![Screenshot](screenshots/batman.png)
@@ -1103,6 +1107,8 @@ The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/
 The Seti theme was created by [jesseweed](https://github.com/jesseweed/seti-syntax/) and ported to iTerm2 by [philduffy](https://github.com/willmanduffy/seti-iterm) and slightly modified to make the ANSI blacks have a little more contrast
 
 The Hipster Green and Jackie Brown themes were created by [Unkulunkulu](https://github.com/Unkulunkulu)
+
+The Aurora theme was created by [fcsmJS](https://github.com/fcsmJS/iTerm2-Color-Schemes)
 
 The Chalk theme was created by [achalv](https://github.com/achalv/chalk)
 
