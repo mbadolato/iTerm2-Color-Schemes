@@ -28,7 +28,7 @@ Screenshots below and in the [screenshots](screenshots/) directory.
 
 ## Installation Instructions
 
-There are 2 ways to install an iTerm theme (both go to the same configuration location):
+There are 3 ways to install an iTerm theme:
 
 - Direct way via keyboard shortcut:
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
@@ -40,7 +40,7 @@ There are 2 ways to install an iTerm theme (both go to the same configuration lo
   - Select the **.itermcolors** profiles you would like to import
   - Click on **Color Presets** and choose a color scheme
 
-- Via iTerm preferences
+- Via iTerm preferences (go to the same configuration location as above)
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Click on **iTerm2** menu title
   - Select **Preferences...** option
@@ -49,6 +49,23 @@ There are 2 ways to install an iTerm theme (both go to the same configuration lo
   - Click on **Color Presets**
   - Click on **Import**
   - Select the .itermcolors file(s) of the [schemes](schemes/) you'd like to use \* Click on **Color Presets** and choose a color scheme
+
+- Via Bash script
+  - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
+  - Run the following command:
+
+  ```sh
+  # Import all color schemes
+  tools/import-scheme.sh schemes/*
+
+  # Import all color schemes (verbose mode)
+  tools/import-scheme.sh -v schemes/*
+
+  # Import a specific color schemes
+  tools/import-scheme.sh 'schemes/Tomorrow Night Eighties.itermcolors'
+  ```
+
+  - Restart iTerm 2. (Need to quit iTerm 2 to reload the configuration file.)
 
 ## Contribute
 
