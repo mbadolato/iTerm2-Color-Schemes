@@ -164,13 +164,13 @@ for filename in "$@"; do
 				-c 'Delete \"Custom Color Presets:$name\"' \\
 				-c 'Add \"Custom Color Presets:$name\" dict' \\
 				-c 'Merge \"$filename\" \"Custom Color Presets:$name\"' \\
-				\"$HOME/Library/Preferences/com.googlecode.iterm2.plist\""
+				\"\$HOME/Library/Preferences/com.googlecode.iterm2.plist\""
 	else
 		# If not installed
 		# Install directly
 		echo_and_eval "/usr/libexec/PlistBuddy \\
 				-c 'Add \"Custom Color Presets:$name\" dict' \\
 				-c 'Merge \"$filename\" \"Custom Color Presets:$name\"' \\
-				\"$HOME/Library/Preferences/com.googlecode.iterm2.plist\""
+				\"\$HOME/Library/Preferences/com.googlecode.iterm2.plist\""
 	fi
 done
