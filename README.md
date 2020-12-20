@@ -40,7 +40,7 @@ There are 3 ways to install an iTerm theme:
   - Select the **.itermcolors** profiles you would like to import
   - Click on **Color Presets** and choose a color scheme
 
-- Via iTerm preferences (go to the same configuration location as above)
+- Via iTerm preferences (go to the same configuration location as above):
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Click on **iTerm2** menu title
   - Select **Preferences...** option
@@ -61,8 +61,10 @@ There are 3 ways to install an iTerm theme:
   # Import all color schemes (verbose mode)
   tools/import-scheme.sh -v schemes/*
 
-  # Import a specific color schemes
-  tools/import-scheme.sh 'schemes/Tomorrow Night Eighties.itermcolors'
+  # Import specific color schemes (quotations are needed for schemes with spaces in name)
+  tools/import-scheme.sh 'schemes/SpaceGray Eighties.itermcolors' # by file path
+  tools/import-scheme.sh 'SpaceGray Eighties'                     # by scheme name
+  tools/import-scheme.sh Molokai 'SpaceGray Eighties'             # import multiple
   ```
 
   - Restart iTerm 2. (Need to quit iTerm 2 to reload the configuration file.)

@@ -14,11 +14,11 @@ while getopts 'vh' OPT; do
 		VERBOSE=true
 		;;
 	h)
-		echo "Usage: $(basename "$0") [-h] [-v] file ..."
+		echo "Usage: $(basename "$0") [-h] [-v] [scheme ...] [file ...]"
 		exit
 		;;
 	*)
-		echo "Usage: $(basename "$0") [-h] [-v] file ..."
+		echo "Usage: $(basename "$0") [-h] [-v] [scheme ...] [file ...]"
 		exit 128
 		;;
 	esac
@@ -27,7 +27,7 @@ shift $(($OPTIND - 1))
 
 # Print help information if no arguments
 if (($# == 0)); then
-	echo "Usage: $(basename "$0") [-h] [-v] file ..." >&2
+	echo "Usage: $(basename "$0") [-h] [-v] [scheme ...] [file ...]" >&2
 	exit 2
 fi
 
@@ -113,6 +113,14 @@ function echo_and_eval() {
 	eval "$@"
 }
 
+# Navigate to the root directory
+TOOL_DIR="$(
+	cd "$(dirname "$0")"
+	pwd -L
+)"
+ROOT_DIR="$(dirname "$TOOL_DIR")"
+cd "$ROOT_DIR"
+
 # Download the default iTerm configuration file if not exists
 if [[ ! -s "$HOME/Library/Preferences/com.googlecode.iterm2.plist" ]]; then
 	echo "Downloading the default iTerm configuration file ..."
@@ -133,6 +141,12 @@ fi
 count=0
 for filename in "$@"; do
 	count=$((count + 1))
+	if (echo "$filename" | grep -qF '.itermcolors'); then
+		filename="schemes/"$(basename "$filename")""
+	fi
+	if [[ ! -f "$filename" && -f "schemes/$filename.itermcolors" ]]; then
+		filename="schemes/$filename.itermcolors"
+	fi
 	if [[ ! -f "$filename" ]]; then
 		echo "File not found: \"$filename\". Skip." >&2
 		continue
@@ -144,7 +158,7 @@ for filename in "$@"; do
 	# Format the scheme name (capitalized)
 	name="$(
 		echo "$filename" |
-			sed -E 's|schemes/(.*)\.itermcolors|\1|g' |
+			sed -E 's|.*/([^/]*)\.itermcolors|\1|g' |
 			sed -E 's/([0-9a-zA-Z])_([0-9a-zA-Z])/\1 \2/g; s/([0-9a-zA-Z])-([0-9a-zA-Z])/\1 \2/g;'
 	)"
 	name=($name)
@@ -154,7 +168,7 @@ for filename in "$@"; do
 			sed -E 's| In | in |g; s| Of | of |g; s| And | and |g; s| V([0-9]+)$| v\1|g'
 	)"
 
-	# Importing the color scheme
+	# Import the color scheme
 	echo "Importing color scheme ($count/$#): $name (\"$filename\") ..."
 	if /usr/libexec/PlistBuddy -c "Print \"Custom Color Presets:$name\"" \
 		"$HOME/Library/Preferences/com.googlecode.iterm2.plist" &>/dev/null; then
