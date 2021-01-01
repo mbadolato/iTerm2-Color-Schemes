@@ -88,6 +88,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ## Screenshots
 
+### Guezwhoz
+
+![Screenshot](screenshots/Guezwhoz.png)
+
 ### 3024 Day
 
 ![Screenshot](screenshots/3024_day.png)
