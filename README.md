@@ -1322,6 +1322,8 @@ The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and
 
 The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
 
+The Guezwhoz theme was created by [Egor Lem](https://github.com/guesswhozzz/guezwhoz-iterm2-theme)
+
 The Overnight Slumber theme was created by [Cristian Velasquez Ramos](https://github.com/cevr/overnight) and ported to iTerm2 by [Gomah](https://github.com/Gomah/overnight-slumber-iterm).
 
 If there are other color schemes you'd like to see included, drop me a line!
