@@ -31,6 +31,7 @@ Screenshots below and in the [screenshots](screenshots/) directory.
 There are 3 ways to install an iTerm theme:
 
 - Direct way via keyboard shortcut:
+
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Type CMD+i (⌘+i)
   - Navigate to **Colors** tab
@@ -41,6 +42,7 @@ There are 3 ways to install an iTerm theme:
   - Click on **Color Presets** and choose a color scheme
 
 - Via iTerm preferences (go to the same configuration location as above):
+
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Click on **iTerm2** menu title
   - Select **Preferences...** option
@@ -51,6 +53,7 @@ There are 3 ways to install an iTerm theme:
   - Select the .itermcolors file(s) of the [schemes](schemes/) you'd like to use \* Click on **Color Presets** and choose a color scheme
 
 - Via Bash script
+
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Run the following command:
 
@@ -443,6 +446,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Gruvbox Light
 
 ![Screenshot](screenshots/gruvbox_light.png)
+
+### Guezwhoz
+
+![Screenshot](screenshots/Guezwhoz.png)
 
 ### Hacktober
 
@@ -1314,6 +1321,8 @@ Nord theme were added by [Teraskull](https://github.com/Teraskull)
 The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
 
 The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
+
+The Guezwhoz theme was created by [Egor Lem](https://github.com/guesswhozzz/guezwhoz-iterm2-theme)
 
 The Overnight Slumber theme was created by [Cristian Velasquez Ramos](https://github.com/cevr/overnight) and ported to iTerm2 by [Gomah](https://github.com/Gomah/overnight-slumber-iterm).
 
