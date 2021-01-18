@@ -335,6 +335,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/doom_one.png)
 
+### Doom Peacock
+
+![Screenshot](screenshots/doom_peacock.png)
+
 ### DotGov
 
 ![Screenshot](screenshots/dot_gov.png)
@@ -1297,6 +1301,8 @@ The Breeze theme was based on [the Breeze color scheme](https://github.com/KDE/k
 The coffee theme was created by [cbitterfield](https://github.com/cbitterfield)
 
 The Doom One theme was based on [Emacs Doom default theme](https://github.com/hlissner/emacs-doom-themes)
+
+The Doom Peacock theme was based on [Emacs Doom Peacock theme](https://github.com/hlissner/emacs-doom-themes)
 
 The Blueberry Banana, Blue Matrix, Cyberdyne, Laser, and Scarlet Protocol themes were created by [ReagentX](https://github.com/ReagentX)
 
