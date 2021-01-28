@@ -42,10 +42,7 @@ There are 3 ways to install an iTerm theme:
   - Click on **Color Presets** and choose a color scheme
 
 - Via iTerm preferences (go to the same configuration location as above):
-<<<<<<< HEAD
-=======
 
->>>>>>> upstream/master
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Click on **iTerm2** menu title
   - Select **Preferences...** option
@@ -56,6 +53,7 @@ There are 3 ways to install an iTerm theme:
   - Select the .itermcolors file(s) of the [schemes](schemes/) you'd like to use \* Click on **Color Presets** and choose a color scheme
 
 - Via Bash script
+
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Run the following command:
 

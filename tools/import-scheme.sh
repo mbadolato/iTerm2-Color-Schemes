@@ -34,81 +34,78 @@ fi
 # Pretty print function
 function echo_and_eval() {
 	if $VERBOSE; then
-		printf "%s" "$@" | awk -f <(
-			cat - <<-'EOD'
-				BEGIN {
-					RESET = "\033[0m";
-					BOLD = "\033[1m";
-					UNDERLINE = "\033[4m";
-					UNDERLINEOFF = "\033[24m";
-					RED = "\033[31m";
-					GREEN = "\033[32m";
-					YELLOW = "\033[33m";
-					WHITE = "\033[37m";
-					GRAY = "\033[90m";
-					IDENTIFIER = "[_a-zA-Z][_a-zA-Z0-9]*";
-					idx = 0;
-					in_string = 0;
-					double_quoted = 1;
-					printf("%s$", BOLD WHITE);
-				}
-				{
-					for (i = 1; i <= NF; ++i) {
-						style = WHITE;
-						post_style = WHITE;
-						if (!in_string) {
-							if ($i ~ /^-/)
-								style = YELLOW;
-							else if ($i == "sudo" && idx == 0) {
-								style = UNDERLINE GREEN;
-								post_style = UNDERLINEOFF WHITE;
-							}
-							else if ($i ~ "^" IDENTIFIER "+=" && idx == 0) {
-								style = GRAY;
-								if ($i ~ "^" IDENTIFIER "+=[\"']") {
-									in_string = 1;
-									double_quoted = ($i ~ "^" IDENTIFIER "+=\"");
-								}
-							}
-							else if ($i ~ /^[12&]?>>?/ || $i == "\\")
-								style = RED;
-							else {
-								++idx;
-								if ($i ~ /^["']/) {
-									in_string = 1;
-									double_quoted = ($i ~ /^"/);
-								}
-								if (idx == 1)
-									style = GREEN;
+		printf "%s" "$@" | awk \
+			'BEGIN {
+				RESET = "\033[0m";
+				BOLD = "\033[1m";
+				UNDERLINE = "\033[4m";
+				UNDERLINEOFF = "\033[24m";
+				RED = "\033[31m";
+				GREEN = "\033[32m";
+				YELLOW = "\033[33m";
+				WHITE = "\033[37m";
+				GRAY = "\033[90m";
+				IDENTIFIER = "[_a-zA-Z][_a-zA-Z0-9]*";
+				idx = 0;
+				in_string = 0;
+				double_quoted = 1;
+				printf("%s$", BOLD WHITE);
+			}
+			{
+				for (i = 1; i <= NF; ++i) {
+					style = WHITE;
+					post_style = WHITE;
+					if (!in_string) {
+						if ($i ~ /^-/)
+							style = YELLOW;
+						else if ($i == "sudo" && idx == 0) {
+							style = UNDERLINE GREEN;
+							post_style = UNDERLINEOFF WHITE;
+						}
+						else if ($i ~ "^" IDENTIFIER "+=" && idx == 0) {
+							style = GRAY;
+							'"if (\$i ~ \"^\" IDENTIFIER \"+=[\\\"']\") {"'
+								in_string = 1;
+								double_quoted = ($i ~ "^" IDENTIFIER "+=\"");
 							}
 						}
-						if (in_string) {
-							if (style == WHITE)
-								style = "";
-							post_style = "";
-							if ((double_quoted && $i ~ /";?$/ && $i !~ /\\";?$/) || (!double_quoted && $i ~ /';?$/))
-								in_string = 0;
-						}
-						if ($i ~ /;$/ || $i == "|" || $i == "||" || $i == "&&") {
-							if (!in_string) {
-								idx = 0;
-								if ($i !~ /;$/)
-									style = RED;
+						else if ($i ~ /^[12&]?>>?/ || $i == "\\")
+							style = RED;
+						else {
+							++idx;
+							'"if (\$i ~ /^[\"']/) {"'
+								in_string = 1;
+								double_quoted = ($i ~ /^"/);
 							}
+							if (idx == 1)
+								style = GREEN;
 						}
-						if ($i ~ /;$/)
-							printf(" %s%s%s;%s", style, substr($i, 1, length($i) - 1), (in_string ? WHITE : RED), post_style);
-						else
-							printf(" %s%s%s", style, $i, post_style);
-						if ($i == "\\")
-							printf("\n\t");
 					}
+					if (in_string) {
+						if (style == WHITE)
+							style = "";
+						post_style = "";
+						'"if ((double_quoted && \$i ~ /\";?\$/ && \$i !~ /\\\\\";?\$/) || (!double_quoted && \$i ~ /';?\$/))"'
+							in_string = 0;
+					}
+					if ($i ~ /;$/ || $i == "|" || $i == "||" || $i == "&&") {
+						if (!in_string) {
+							idx = 0;
+							if ($i !~ /;$/)
+								style = RED;
+						}
+					}
+					if ($i ~ /;$/)
+						printf(" %s%s%s;%s", style, substr($i, 1, length($i) - 1), (in_string ? WHITE : RED), post_style);
+					else
+						printf(" %s%s%s", style, $i, post_style);
+					if ($i == "\\")
+						printf("\n\t");
 				}
-				END {
-					printf("%s\n", RESET);
-				}
-			EOD
-		)
+			}
+			END {
+				printf("%s\n", RESET);
+			}'
 	fi
 	eval "$@"
 }
