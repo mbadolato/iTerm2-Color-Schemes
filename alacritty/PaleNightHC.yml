@@ -1,0 +1,29 @@
+# Colors (PaleNightHC)
+colors:
+  bright:
+    black: '#323232'
+    blue: '#9bbbff'
+    cyan: '#a0e3ff'
+    green: '#cfeca3'
+    magenta: '#d2a7ee'
+    red: '#f38d93'
+    white: '#cccccc'
+    yellow: '#ffd588'
+  cursor:
+    cursor: '#ffcb6b'
+    text: '#323232'
+  normal:
+    black: '#000000'
+    blue: '#82aaff'
+    cyan: '#89ddff'
+    green: '#c3e88d'
+    magenta: '#c792ea'
+    red: '#f07178'
+    white: '#ffffff'
+    yellow: '#ffcb6b'
+  primary:
+    background: '#3e4251'
+    foreground: '#cccccc'
+  selection:
+    background: '#717cb4'
+    text: '#80cbc4'
