@@ -703,6 +703,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/overnight_slumber.png)
 
+### Palenight High Contrast
+
+![Screenshot](screenshots/PaleNightHC.png)
+
 ### Pandora
 
 ![Screenshot](screenshots/pandora.png)
@@ -1332,6 +1336,7 @@ The Guezwhoz theme was created by [Egor Lem](https://github.com/guesswhozzz/guez
 
 The Overnight Slumber theme was created by [Cristian Velasquez Ramos](https://github.com/cevr/overnight) and ported to iTerm2 by [Gomah](https://github.com/Gomah/overnight-slumber-iterm).
 
+The PaleNight theme was created by [Cristian Velasquez Ramos](https://github.com/equinusocio)
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
