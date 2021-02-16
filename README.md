@@ -759,6 +759,14 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/rapture.png)
 
+### Raycast Dark
+
+![Screenshot](screenshots/raycast_dark.png)
+
+### Raycast Light
+
+![Screenshot](screenshots/raycast_light.png)
+
 ### Rebecca
 
 ![Screenshot](screenshots/rebecca.png)
