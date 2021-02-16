@@ -13,7 +13,10 @@ XRDB2REM = [
     ("# Head", "\n"      "[ssh_colors]" ),
     ("background_color", "background = "),
     ("cursor_color", "cursor = "),
+    ("cursor_text_color", "cursor_foreground = "),
     ("foreground_color", "foreground = "),
+    ("selection_color", "highlight = "),
+    ("selected_text_color", "highlight_foreground = "),
 
     ("ansi_0_color",     "color0 = "),
     ("ansi_1_color",     "color1 = "),
@@ -31,9 +34,6 @@ XRDB2REM = [
     ("ansi_13_color",    "color13 = "),
     ("ansi_14_color",    "color14 = "),
     ("ansi_15_color",    "color15 = "),
-    ("bold_color",       "colorBD = "),
-    ("italic_color",     "colorIT = "),
-    ("underline_color",  "colorUL = "),
 ]
 
 
