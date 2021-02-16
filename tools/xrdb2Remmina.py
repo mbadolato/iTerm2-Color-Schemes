@@ -34,6 +34,9 @@ XRDB2REM = [
     ("ansi_13_color",    "color13 = "),
     ("ansi_14_color",    "color14 = "),
     ("ansi_15_color",    "color15 = "),
+    ("bold_color",       "colorBD = "),
+    ("italic_color",     "colorIT = "),
+    ("underline_color",  "colorUL = "),
 ]
 
 
