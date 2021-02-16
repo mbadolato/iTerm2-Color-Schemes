@@ -1,7 +1,10 @@
 [ssh_colors]
 background = #2c2c2c
 cursor = #47fa6b
+cursor_foreground = #292929
 foreground = #e0f1dc
+highlight = #116b41
+highlight_foreground = #e0f1dc
 color0 = #014401
 color1 = #ff2736
 color2 = #41a638
