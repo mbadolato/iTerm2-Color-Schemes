@@ -427,6 +427,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/galaxy.png)
 
+### Galizur 
+
+![image](screenshots/galizur.png)
+
 ### Github
 
 ![Screenshot](screenshots/github.png)
@@ -1336,8 +1340,10 @@ The Guezwhoz theme was created by [Egor Lem](https://github.com/guesswhozzz/guez
 
 The Overnight Slumber theme was created by [Cristian Velasquez Ramos](https://github.com/cevr/overnight) and ported to iTerm2 by [Gomah](https://github.com/Gomah/overnight-slumber-iterm).
 
-
 The PaleNight theme was created by [Mattia Astorino](https://github.com/equinusocio) and ported to iTerm2 by [Kasper](https://github.com/Kasper-Liu)
+
+The "Galizur" theme was crafted by [Raziel Anarki](https://github.com/razielanarki)
+
 
 If there are other color schemes you'd like to see included, drop me a line!
 

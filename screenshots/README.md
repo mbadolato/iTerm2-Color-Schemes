@@ -252,6 +252,10 @@ Screenshots
 
 ![image](galaxy.png)
 
+`galizur.png`
+
+![image](galizur.png)
+
 `github.png`
 
 ![image](github.png)
@@ -719,4 +723,3 @@ Screenshots
 `zenburn.png`
 
 ![image](zenburn.png)
-
