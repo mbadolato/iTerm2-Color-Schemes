@@ -763,6 +763,14 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/rapture.png)
 
+### Raycast Dark
+
+![Screenshot](screenshots/raycast_dark.png)
+
+### Raycast Light
+
+![Screenshot](screenshots/raycast_light.png)
+
 ### Rebecca
 
 ![Screenshot](screenshots/rebecca.png)
@@ -1344,6 +1352,7 @@ The PaleNight theme was created by [Mattia Astorino](https://github.com/equinuso
 
 The "Galizur" theme was crafted by [Raziel Anarki](https://github.com/razielanarki)
 
+The [Raycast](https://raycast.com) Dark/Light themes were created by [thomaspaulmann](https://github.com/thomaspaulmann) and [itsnwa](https://github.com/itsnwa).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
