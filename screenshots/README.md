@@ -253,6 +253,10 @@ Screenshots
 
 ![image](galaxy.png)
 
+`galizur.png`
+
+![image](galizur.png)
+
 `github.png`
 
 ![image](github.png)
@@ -497,6 +501,14 @@ Screenshots
 
 ![image](rapture.png)
 
+`raycast_dark.png`
+
+![image](raycast_dark.png)
+
+`raycast_light.png`
+
+![image](raycast_light.png)
+
 `README.md`
 
 ![image](README.md)
@@ -724,4 +736,3 @@ Screenshots
 `zenburn.png`
 
 ![image](zenburn.png)
-

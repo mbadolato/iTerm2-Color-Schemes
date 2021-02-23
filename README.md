@@ -427,6 +427,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/galaxy.png)
 
+### Galizur 
+
+![image](screenshots/galizur.png)
+
 ### Github
 
 ![Screenshot](screenshots/github.png)
@@ -762,6 +766,14 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Rapture
 
 ![Screenshot](screenshots/rapture.png)
+
+### Raycast Dark
+
+![Screenshot](screenshots/raycast_dark.png)
+
+### Raycast Light
+
+![Screenshot](screenshots/raycast_light.png)
 
 ### Rebecca
 
@@ -1343,6 +1355,10 @@ The Overnight Slumber theme was created by [Cristian Velasquez Ramos](https://gi
 The PaleNight theme was created by [Mattia Astorino](https://github.com/equinusocio) and ported to iTerm2 by [Kasper](https://github.com/Kasper-Liu)
 
 The iceberg theme was created by [cocopon](https://github.com/cocopon/iceberg.vim) and ported to iTerm2 by [pbnj](https://github.com/pbnj)
+
+The "Galizur" theme was crafted by [Raziel Anarki](https://github.com/razielanarki)
+
+The [Raycast](https://raycast.com) Dark/Light themes were created by [thomaspaulmann](https://github.com/thomaspaulmann) and [itsnwa](https://github.com/itsnwa).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
