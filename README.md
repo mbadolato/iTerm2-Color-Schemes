@@ -1340,8 +1340,9 @@ The Guezwhoz theme was created by [Egor Lem](https://github.com/guesswhozzz/guez
 
 The Overnight Slumber theme was created by [Cristian Velasquez Ramos](https://github.com/cevr/overnight) and ported to iTerm2 by [Gomah](https://github.com/Gomah/overnight-slumber-iterm).
 
-
 The PaleNight theme was created by [Mattia Astorino](https://github.com/equinusocio) and ported to iTerm2 by [Kasper](https://github.com/Kasper-Liu)
+
+The iceberg theme was created by [cocopon](https://github.com/cocopon/iceberg.vim) and ported to iTerm2 by [pbnj](https://github.com/pbnj)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
@@ -1405,7 +1406,7 @@ To install under the [X Window System](https://www.x.org/):
 
 - Store the above snippets in a file and pass it in:
 
-        $ xrdb -merge YOUR_FILE_CONTAINING_ABOVE_SNIPPETS
+        xrdb -merge YOUR_FILE_CONTAINING_ABOVE_SNIPPETS
 
 - Open new XTerm or Rxvt windows to see the changes.
 
@@ -1484,17 +1485,17 @@ Download the appropriate `colorscheme.reg` file. Open the file with a text edito
 
 ```
 Window > Apprearance
-	Font: Consolas, bold, 14-point
-	Font quality:
-		( ) Antialiased     ( ) Non-Antialiased
-		(O) ClearType       ( ) Default
+ Font: Consolas, bold, 14-point
+ Font quality:
+  ( ) Antialiased     ( ) Non-Antialiased
+  (O) ClearType       ( ) Default
 Window > Colours
-	[X] Allow terminal to specify ANSI colours
-	[X] Allow terminal to use xterm 256-colour mode
-	Indicate bolded text by changing:
-		( ) The font   (O) The colour   ( ) Both
-	[ ] Attempt to use logical palettes
-	[ ] Use system colours
+ [X] Allow terminal to specify ANSI colours
+ [X] Allow terminal to use xterm 256-colour mode
+ Indicate bolded text by changing:
+  ( ) The font   (O) The colour   ( ) Both
+ [ ] Attempt to use logical palettes
+ [ ] Use system colours
 ```
 
 ### Xfce Terminal color schemes
