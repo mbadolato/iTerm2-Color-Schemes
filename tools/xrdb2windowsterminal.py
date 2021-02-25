@@ -17,6 +17,8 @@ def process_file(data):
     pairs = [
         ("background", "Background_Color"),
         ("foreground", "Foreground_Color"),
+        ("cursorColor", "Cursor_Color"),
+        ("selectionBackground", "Selection_Color")
     ]
 
     ansi = [
@@ -43,7 +45,7 @@ def process_file(data):
         color = data.colors[i]
         if color:
             lines += f',\n  "{name}": "{color}"'
-    
+
     for windowsterminal, xrdb in pairs:
         color = getattr(data, xrdb, None)
         if color:
