@@ -1,0 +1,29 @@
+# Colors (Raycast_Dark)
+colors:
+  bright:
+    black: '#000000'
+    blue: '#56c2ff'
+    cyan: '#52eee5'
+    green: '#59d499'
+    magenta: '#cf2f98'
+    red: '#ff6363'
+    white: '#ffffff'
+    yellow: '#ffc531'
+  cursor:
+    cursor: '#cccccc'
+    text: '#ffffff'
+  normal:
+    black: '#000000'
+    blue: '#56c2ff'
+    cyan: '#52eee5'
+    green: '#59d499'
+    magenta: '#cf2f98'
+    red: '#ff5360'
+    white: '#ffffff'
+    yellow: '#ffc531'
+  primary:
+    background: '#1a1a1a'
+    foreground: '#ffffff'
+  selection:
+    background: '#333333'
+    text: '#000000'
