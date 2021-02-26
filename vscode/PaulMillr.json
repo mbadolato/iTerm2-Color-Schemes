@@ -17,6 +17,8 @@
         "terminal.ansiBrightMagenta": "#db67e6",
         "terminal.ansiBrightRed": "#ff0080",
         "terminal.ansiBrightWhite": "#ffffff",
-        "terminal.ansiBrightYellow": "#f3d64e"
+        "terminal.ansiBrightYellow": "#f3d64e",
+        "terminal.selectionBackground": "#414141"
+        "terminalCursor.foreground": "#4d4d4d",
     }
 }
