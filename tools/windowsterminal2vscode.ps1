@@ -24,8 +24,8 @@ Get-Item ../WindowsTerminal/*.json | Foreach-Object {
         "terminal.ansiBrightRed": "$($theme.brightRed)",
         "terminal.ansiBrightWhite": "$($theme.brightWhite)",
         "terminal.ansiBrightYellow": "$($theme.brightYellow)",
-        "terminal.selectionBackground": "$($theme.selectionBackground)"
-        "terminalCursor.foreground": "$($theme.cursorColor)",
+        "terminal.selectionBackground": "$($theme.selectionBackground)",
+        "terminalCursor.foreground": "$($theme.cursorColor)"
     }
 }
 "@ > "../vscode/$($PSItem.Name)"
