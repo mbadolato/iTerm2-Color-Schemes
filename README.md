@@ -179,6 +179,9 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/blueberry_banana.png)
 
+### BlueDolphin
+![Screenshot](screenshots/BlueDolphin.png)
+
 ### Blue Matrix
 
 ![Screenshot](screenshots/blue_matrix.png)
@@ -1359,6 +1362,8 @@ The iceberg theme was created by [cocopon](https://github.com/cocopon/iceberg.vi
 The "Galizur" theme was crafted by [Raziel Anarki](https://github.com/razielanarki)
 
 The [Raycast](https://raycast.com) Dark/Light themes were created by [thomaspaulmann](https://github.com/thomaspaulmann) and [itsnwa](https://github.com/itsnwa).
+
+The BlueDolphin theme was designed by [vimiomori](https://github.com/vimiomori).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
