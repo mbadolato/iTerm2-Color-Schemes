@@ -21,6 +21,7 @@ import xrdb2wezterm
 import xrdb2windowsterminal
 import xrdb2dynamic_color
 import xrdb2alacritty
+import xrdb2electerm
 
 if __name__ == '__main__':
 
@@ -65,3 +66,5 @@ if __name__ == '__main__':
     print('OK --> ' + '../dynamic-colors/')
     xrdb2alacritty.main('../xrdb/', '../alacritty/')
     print('OK --> ' + '../alacritty/')
+    xrdb2electerm.main('../xrdb/', '../electerm/')
+    print('OK --> ' + '../electerm/')
