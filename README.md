@@ -915,6 +915,10 @@ more information.
 
 ![Screenshot](screenshots/square.png)
 
+### Sublette
+
+![Screenshot](screenshots/sublette.png)
+
 ### Subliminal
 
 ![Screenshot](screenshots/subliminal.png)
@@ -1364,6 +1368,8 @@ The "Galizur" theme was crafted by [Raziel Anarki](https://github.com/razielanar
 The [Raycast](https://raycast.com) Dark/Light themes were created by [thomaspaulmann](https://github.com/thomaspaulmann) and [itsnwa](https://github.com/itsnwa).
 
 The BlueDolphin theme was designed by [vimiomori](https://github.com/vimiomori).
+
+The Sublette theme was created by [sublee](https://github.com/sublee).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
