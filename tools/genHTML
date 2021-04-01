@@ -81,11 +81,18 @@ def build_screenshot_scheme_map
   found_schemes.sort
 end
 
+# If no command-line argument was given, use the default URL root.
+# Otherwise, use the first provided argument as the URL root.
+
+url_root = ( ARGV.empty? ?
+             "https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master" :
+             ARGV.first )
+
 build_screenshot_scheme_map.reject{|pair| pair.last.nil?}.each do |screenshot_name, scheme_name|
   puts <<-HTML
 
-<p><a href="https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/#{CGI.escape(scheme_name)}.itermcolors"><strong>#{scheme_name}</strong></a></p>
+<p><a href="#{url_root}/schemes/#{CGI.escape(scheme_name)}.itermcolors"><strong>#{scheme_name}</strong></a></p>
 
-<p><img src="https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/screenshots/#{CGI.escape(screenshot_name)}.png" alt="Screenshot"></p>
+<p><img src="#{url_root}/screenshots/#{CGI.escape(screenshot_name)}.png" alt="Screenshot"></p>
   HTML
 end
