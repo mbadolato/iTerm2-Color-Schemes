@@ -1015,6 +1015,10 @@ more information.
 
 ![Screenshot](screenshots/ultra_violent.png)
 
+### UltraDark
+
+![Screenshot](screenshots/ultradark.png)
+
 ### Under The Sea
 
 ![Screenshot](screenshots/under_the_sea.png)
