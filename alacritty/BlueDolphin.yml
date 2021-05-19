@@ -1,0 +1,29 @@
+# Colors (BlueDolphin)
+colors:
+  bright:
+    black: '#434758'
+    blue: '#9cc4ff'
+    cyan: '#a3f7ff'
+    green: '#ddffa7'
+    magenta: '#ddb0f6'
+    red: '#ff8b92'
+    white: '#ffffff'
+    yellow: '#ffe585'
+  cursor:
+    cursor: '#ffcc00'
+    text: '#292d3e'
+  normal:
+    black: '#292d3e'
+    blue: '#82aaff'
+    cyan: '#89ebff'
+    green: '#b4e88d'
+    magenta: '#e9c1ff'
+    red: '#ff8288'
+    white: '#d0d0d0'
+    yellow: '#f4d69f'
+  primary:
+    background: '#006984'
+    foreground: '#c5f2ff'
+  selection:
+    background: '#2baeca'
+    text: '#eceff1'

@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='BlulocoDark'
-cursor-color='#fec309'
-foreground='#abb2bf'
-background='rgba(30,33,39,.95)'
-palette='#4a505d:#f81141:#23974a:#fd7e57:#285bff:#8c62fd:#366f9a:#ccd5e5:#61697a:#fc4a6d:#37bd58:#f6be48:#199ffd:#fc58f6:#50acae:#ffffff'
+cursor-color='#ffcc00'
+foreground='#b9c0cb'
+background='rgba(40,44,52,.95)'
+palette='#41444d:#fc2f52:#25a45c:#ff936a:#3476ff:#7a82da:#4483aa:#cdd4e0:#8f9aae:#ff6480:#3fc56b:#f9c859:#10b1fe:#ff78f8:#5fb9bc:#ffffff'
 COLORS
