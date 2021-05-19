@@ -1,0 +1,29 @@
+# Colors (UltraDark)
+colors:
+  bright:
+    black: '#333333'
+    blue: '#b4ccff'
+    cyan: '#b8eaff'
+    green: '#dbf1ba'
+    magenta: '#ddbdf2'
+    red: '#f6a9ae'
+    white: '#ffffff'
+    yellow: '#ffdfa6'
+  cursor:
+    cursor: '#fefefe'
+    text: '#000000'
+  normal:
+    black: '#000000'
+    blue: '#82aaff'
+    cyan: '#89ddff'
+    green: '#c3e88d'
+    magenta: '#c792ea'
+    red: '#f07178'
+    white: '#cccccc'
+    yellow: '#ffcb6b'
+  primary:
+    background: '#000000'
+    foreground: '#ffffff'
+  selection:
+    background: '#222222'
+    text: '#cccccc'

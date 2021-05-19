@@ -1371,6 +1371,8 @@ The BlueDolphin theme was designed by [vimiomori](https://github.com/vimiomori).
 
 The Sublette theme was created by [sublee](https://github.com/sublee).
 
+The UltraDark theme was created by [Kasper](https://github.com/Kasper-Liu).
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
