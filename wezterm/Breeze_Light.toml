@@ -1,0 +1,12 @@
+# Breeze_Light
+[colors]
+foreground = "#383a42"
+background = "#fafafa"
+cursor_bg = "#000000"
+cursor_border = "#000000"
+cursor_fg = "#ffffff"
+selection_bg = "#c1deff"
+selection_fg = "#1c1a24"
+
+ansi = ["#383a42","#e4564a","#50a050","#c29200","#0070d4","#a626a4","#0a96b4","#fafafa"]
+brights = ["#1c1a24","#f83636","#50c850","#dec505","#005ce8","#ba0eb8","#00aac8","#fefefe"]
