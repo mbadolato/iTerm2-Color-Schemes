@@ -1377,6 +1377,8 @@ The Sublette theme was created by [sublee](https://github.com/sublee).
 
 The UltraDark theme was created by [Kasper](https://github.com/Kasper-Liu).
 
+The Breeze_Light Theme was created by [Pratik](https://github.com/pratikmullick) inspired by the Light Theme from [KDE](https://kde.org). 
+
 If there are other color schemes you'd like to see included, drop me a line!
 
 ## Extra
