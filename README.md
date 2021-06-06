@@ -206,6 +206,9 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/bright_lights.png)
 
+### Breeze Light
+![Screenshot](screenshots/breeze_light.png)
+
 ### Broadcast
 
 ![Screenshot](screenshots/broadcast.png)
