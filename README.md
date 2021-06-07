@@ -151,6 +151,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/aurora.png)
 
+### Banana Blueberry
+
+![Screenshot](screenshots/banana_blueberry.png)
+
 ### Batman
 
 ![Screenshot](screenshots/batman.png)
@@ -174,10 +178,6 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### BlueBerry Pie
 
 ![Screenshot](screenshots/blueberry_pie.png)
-
-### Blueberry Banana
-
-![Screenshot](screenshots/blueberry_banana.png)
 
 ### BlueDolphin
 ![Screenshot](screenshots/BlueDolphin.png)
@@ -350,6 +350,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/dracula.png)
 
+### Dracula+
+
+![Screenshot](screenshots/Dracula+.png)
+
 ### Duotone Dark
 
 ![Screenshot](screenshots/duotone_dark.png)
@@ -506,11 +510,11 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/hybrid.png)
 
-### IC_Green_PPL
+### IC\_Green\_PPL
 
 ![Screenshot](screenshots/ic_green_ppl.png)
 
-### IC_Orange_PPL
+### IC\_Orange\_PPL
 
 ![Screenshot](screenshots/ic_orange_ppl.png)
 
@@ -606,6 +610,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/material_dark.png)
 
+### MaterialDarker
+
+![Screenshot](screenshots/material_darker.png)
+
 ### MaterialOcean
 
 ![Screenshot](screenshots/material_ocean.png)
@@ -682,6 +690,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/nocturnal_winter.png)
 
+### Nord
+
+![Screenshot](screenshots/nord.png)
+
 ### Obsidian
 
 ![Screenshot](screenshots/obsidian.png)
@@ -745,6 +757,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Pnevma
 
 ![Screenshot](screenshots/pnevma.png)
+
+### Popping and Locking
+
+![Screenshot](screenshots/Popping_and_Locking.png)
 
 ### Primary
 
