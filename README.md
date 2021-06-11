@@ -482,6 +482,18 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/harper.png)
 
+### HaX0R_R3D
+
+![Screenshot](screenshots/HaX0R_R3D.png)
+
+### HaX0R_GR33N
+
+![Screenshot](screenshots/HaX0R_GR33N.png)
+
+### HaX0R_BLUE
+
+![Screenshot](screenshots/HaX0R_BLUE.png)
+
 ### Highway
 
 ![Screenshot](screenshots/highway.png)
@@ -1404,6 +1416,8 @@ The UltraDark theme was created by [Kasper](https://github.com/Kasper-Liu).
 The FairyFloss theme was created by [rebecabordini](https://github.com/rebecabordini) based on [sailorhg](https://sailorhg.github.io/fairyfloss/) VS Code theme.
 
 The Mariana theme was adapted from the [Sublime Text](https://www.sublimetext.com/) theme of the same name.
+
+The themes HaX0R_R3D, HaX0R_GR33N and HaX0R_BLUE were created by [Pratik](https://github.com/pratikmullick)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
