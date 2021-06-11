@@ -481,6 +481,18 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/hardcore.png)
 
+### HaX0R_R3D
+
+![Screenshot](screenshots/HaX0R_R3D.png)
+
+### HaX0R_GR33N
+
+![Screenshot](screenshots/HaX0R_GR33N.png)
+
+### HaX0R_BLUE
+
+![Screenshot](screenshots/HaX0R_BLUE.png)
+
 ### Harper
 
 ![Screenshot](screenshots/harper.png)
@@ -1403,6 +1415,8 @@ The UltraDark theme was created by [Kasper](https://github.com/Kasper-Liu).
 The Breeze_Light Theme was created by [Pratik](https://github.com/pratikmullick) inspired by the Light Theme from [KDE](https://kde.org). 
 
 The FairyFloss theme was created by [rebecabordini](https://github.com/rebecabordini) based on [sailorhg](https://sailorhg.github.io/fairyfloss/) VS Code theme.
+
+The themes HaX0R_R3D, HaX0R_GR33N and HaX0R_BLUE were created by [Pratik](https://github.com/pratikmullick)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
