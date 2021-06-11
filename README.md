@@ -606,6 +606,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/man_page.png)
 
+### Mariana
+
+![Screenshot](screenshots/mariana.png)
+
 ### Material
 
 ![Screenshot](screenshots/material.png)
@@ -1398,6 +1402,8 @@ The Sublette theme was created by [sublee](https://github.com/sublee).
 The UltraDark theme was created by [Kasper](https://github.com/Kasper-Liu).
 
 The FairyFloss theme was created by [rebecabordini](https://github.com/rebecabordini) based on [sailorhg](https://sailorhg.github.io/fairyfloss/) VS Code theme.
+
+The Mariana theme was adapted from the [Sublime Text](https://www.sublimetext.com/) theme of the same name.
 
 If there are other color schemes you'd like to see included, drop me a line!
 

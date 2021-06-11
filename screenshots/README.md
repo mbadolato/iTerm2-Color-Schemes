@@ -377,6 +377,10 @@ Screenshots
 
 ![image](man_page.png)
 
+`mariana.png`
+
+![image](mariana.png)
+
 `material.png`
 
 ![image](material.png)
