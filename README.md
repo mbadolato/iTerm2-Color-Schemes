@@ -147,6 +147,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/ayu_light.png)
 
+### ayu Mirage
+
+![Screenshot](screenshots/ayu_mirage.png)
+
 ### Aurora
 
 ![Screenshot](screenshots/aurora.png)
@@ -1418,6 +1422,8 @@ The FairyFloss theme was created by [rebecabordini](https://github.com/rebecabor
 The Mariana theme was adapted from the [Sublime Text](https://www.sublimetext.com/) theme of the same name.
 
 The themes HaX0R_R3D, HaX0R_GR33N and HaX0R_BLUE were created by [Pratik](https://github.com/pratikmullick)
+
+The Ayu Mirage theme was adapted from the [VS Code theme](https://github.com/ayu-theme/vscode-ayu) of the same name.
 
 If there are other color schemes you'd like to see included, drop me a line!
 
