@@ -49,6 +49,10 @@ Screenshots
 
 ![image](ayu_light.png)
 
+`ayu_mirage.png`
+
+![image](ayu_mirage.png)
+
 `batman.png`
 
 ![image](batman.png)
