@@ -1,8 +1,12 @@
-import os
+from pathlib import Path
 
-with open('README.md', 'w') as mkdn:
-	mkdn.write("Screenshots\n===\n")
-	for f in [f for f in os.listdir('.') if os.path.isfile(f)]:
-		mkdn.write("`%s`\n\n" % f)
-		mkdn.write("![image](%s)\n\n" % f)
+screenshot_dir = (Path(__file__).parent / '../screenshots').resolve()
+screenshot_paths = list(screenshot_dir.glob('**/*.png'))
+screenshots = map(lambda path: path.name, screenshot_paths)
 
+readme_path = (screenshot_dir / 'README.md')
+with open(readme_path, 'w') as readme:
+    readme.write('# Screenshots\n\n')
+    for ss in sorted(screenshots, key=str.lower):
+        readme.write(f'`{ss}`\n')
+        readme.write(f'![image]({ss})\n\n')
