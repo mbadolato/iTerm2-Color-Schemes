@@ -1,0 +1,29 @@
+# Colors (HaX0R_BLUE)
+colors:
+  bright:
+    black: '#080117'
+    blue: '#00b3f7'
+    cyan: '#00b3f7'
+    green: '#00b3f7'
+    magenta: '#00b3f7'
+    red: '#00b3f7'
+    white: '#fefefe'
+    yellow: '#00b3f7'
+  cursor:
+    cursor: '#10b6ff'
+    text: '#ffffff'
+  normal:
+    black: '#010921'
+    blue: '#10b6ff'
+    cyan: '#10b6ff'
+    green: '#10b6ff'
+    magenta: '#10b6ff'
+    red: '#10b6ff'
+    white: '#fafafa'
+    yellow: '#10b6ff'
+  primary:
+    background: '#010515'
+    foreground: '#11b7ff'
+  selection:
+    background: '#c1e4ff'
+    text: '#f6f6f6'
