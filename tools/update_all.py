@@ -22,6 +22,7 @@ import xrdb2windowsterminal
 import xrdb2dynamic_color
 import xrdb2alacritty
 import xrdb2electerm
+import xrdb2vscode
 
 if __name__ == '__main__':
 
@@ -68,3 +69,5 @@ if __name__ == '__main__':
     print('OK --> ' + '../alacritty/')
     xrdb2electerm.main('../xrdb/', '../electerm/')
     print('OK --> ' + '../electerm/')
+    xrdb2vscode.main('../xrdb/', '../vscode/')
+    print('OK --> ' + '../vscode/')

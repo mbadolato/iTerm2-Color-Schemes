@@ -1,62 +1,81 @@
 #!/usr/bin/env python3
 
 # This script converts xrdb (X11) color scheme format to
-# the new Windows Terminal color scheme format
+# the VS Code color scheme format
 #
 # Usage:
-# xrdb2windowsterminal.py path/to/xrdb/files -d /windowsterminal/output
+# xrdb2vscode.py path/to/xrdb/files -d path/to/vscode/files
 
+import argparse
+import json
 import os
 import re
-import argparse
+
 from xrdbparser import Xrdb
 
 
 def process_file(data):
     # map to Windows Terminal names
-    pairs = [
-        ("background", "Background_Color"),
-        ("foreground", "Foreground_Color"),
-        ("cursorColor", "Cursor_Color"),
-        ("selectionBackground", "Selection_Color")
+    start_pairs = [
+        ("terminal.foreground", "Foreground_Color"),
+        ("terminal.background", "Background_Color"),
+    ]
+
+    end_pairs = [
+        ("terminal.selectionBackground", "Selection_Color"),
+        ("terminalCursor.foreground", "Cursor_Color"),
     ]
 
     ansi = [
-        "black",
-        "red",
-        "green",
-        "yellow",
-        "blue",
-        "purple",
-        "cyan",
-        "white",
-        "brightBlack",
-        "brightRed",
-        "brightGreen",
-        "brightYellow",
-        "brightBlue",
-        "brightPurple",
-        "brightCyan",
-        "brightWhite",
+        "Black",
+        "Red",
+        "Green",
+        "Yellow",
+        "Blue",
+        "Magenta",
+        "Cyan",
+        "White",
     ]
 
-    lines = ""
+    ansi_bright = [
+        "BrightBlack",
+        "BrightRed",
+        "BrightGreen",
+        "BrightYellow",
+        "BrightBlue",
+        "BrightMagenta",
+        "BrightCyan",
+        "BrightWhite",
+    ]
+
+    scheme = {}
+    for local, xrdb in start_pairs:
+        color = getattr(data, xrdb, None)
+        if color:
+            scheme.update({local: color})
+
+    colors = {}
     for i, name in enumerate(ansi):
         color = data.colors[i]
         if color:
-            lines += f',\n  "{name}": "{color}"'
+            colors.update({f'terminal.ansi{name}': color})
 
-    for windowsterminal, xrdb in pairs:
+    brights = {}
+    for i, name in enumerate(ansi_bright):
+        color = data.colors[i + 8]
+        if color:
+            brights.update({f'terminal.ansi{name}': color})
+
+    scheme.update(dict(sorted(colors.items())))
+    scheme.update(dict(sorted(brights.items())))
+
+    for local, xrdb in end_pairs:
         color = getattr(data, xrdb, None)
         if color:
-            lines += f',\n  "{windowsterminal}": "{color}"'
+            scheme.update({local: color})
 
-    lines.rstrip(",")
+    return json.dumps({'workbench.colorCustomizations': scheme}, indent=4) + "\n"
 
-    return f'''{{
-  "name": "{data.name}"{lines}
-}}
-'''
 
 
 def main(xrdb_path, output_path=None):
@@ -73,10 +92,10 @@ def main(xrdb_path, output_path=None):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(
-        description='Translate X color schemes to Windows Terminal format')
+        description='Translate X color schemes to VS Code format')
     parser.add_argument('xrdb_path', type=str, help='path to xrdb files')
     parser.add_argument('-d', '--destiny', type=str, dest='output_path',
-                        help='path where Windows Terminal config files will be' +
+                        help='path where VS Code scheme files will be' +
                         ' created, if not provided then will be printed')
 
     args = parser.parse_args()
