@@ -16,12 +16,12 @@ from xrdbparser import Xrdb
 def isDarkColor(color):
   a = color[1:]
   rgb = int(a, 16)
-  # print('rgb', rgb)
+
   r = (rgb >> 16) & 0xff
   g = (rgb >>  8) & 0xff
   b = (rgb >>  0) & 0xff
   luma = 0.2126 * r + 0.7152 * g + 0.0722 * b
-  # print('luma', luma)
+
   return luma < 40
 
 def process_file(data):
@@ -102,7 +102,6 @@ warn=#E55934'''
 
     lines.rstrip(",")
     if not isDark:
-      print(data.name)
       extra = extraLight
     return f'''
 themeName={data.name}
