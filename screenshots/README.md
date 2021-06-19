@@ -493,6 +493,10 @@ Screenshots
 
 ![image](pencil_light.png)
 
+`Peppermint.png`
+
+![image](Peppermint.png)
+
 `piatto_light.png`
 
 ![image](piatto_light.png)
