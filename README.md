@@ -774,6 +774,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/pencil_light.png)
 
+### Peppermint
+
+![Screenshot](screenshots/Peppermint.png)
+
 ### Piatto Light
 
 ![Screenshot](screenshots/piatto_light.png)
@@ -1424,6 +1428,8 @@ The Mariana theme was adapted from the [Sublime Text](https://www.sublimetext.co
 The themes HaX0R_R3D, HaX0R_GR33N and HaX0R_BLUE were created by [Pratik](https://github.com/pratikmullick)
 
 The Ayu Mirage theme was adapted from the [VS Code theme](https://github.com/ayu-theme/vscode-ayu) of the same name.
+
+The Peppermint theme was created by [Noah Frederick](https://noahfrederick.com/log/lion-terminal-theme-peppermint) and adapted for iTerm by [dotzero](https://github.com/dotzero/iTerm-2-Peppermint).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
