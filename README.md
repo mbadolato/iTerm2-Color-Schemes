@@ -450,6 +450,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/github.png)
 
+### GitHub Dark
+
+![Screenshot](screenshots/GitHub_Dark.png)
+
 ### Glacier
 
 ![Screenshot](screenshots/glacier.png)
@@ -1430,6 +1434,8 @@ The themes HaX0R_R3D, HaX0R_GR33N and HaX0R_BLUE were created by [Pratik](https:
 The Ayu Mirage theme was adapted from the [VS Code theme](https://github.com/ayu-theme/vscode-ayu) of the same name.
 
 The Peppermint theme was created by [Noah Frederick](https://noahfrederick.com/log/lion-terminal-theme-peppermint) and adapted for iTerm by [dotzero](https://github.com/dotzero/iTerm-2-Peppermint).
+
+The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncanson)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
