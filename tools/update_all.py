@@ -5,6 +5,7 @@ from glob import glob
 
 from os.path import basename, splitext, join
 
+import tilda_converter
 import xrdb2konsole
 import xrdb2terminator
 import xrdb2Xresources
@@ -71,3 +72,5 @@ if __name__ == '__main__':
     print('OK --> ' + '../electerm/')
     xrdb2vscode.main('../xrdb/', '../vscode/')
     print('OK --> ' + '../vscode/')
+    tilda_converter.main('../schemes/', '../tilda/')
+    print('OK --> ' + '../tilda/')
