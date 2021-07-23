@@ -99,6 +99,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/3024_night.png)
 
+### Abernathy
+
+![Screenshot](screenshots/abernathy.png)
+
 ### Adventure
 
 ![Screenshot](screenshots/adventure.png)
@@ -1436,6 +1440,8 @@ The Ayu Mirage theme was adapted from the [VS Code theme](https://github.com/ayu
 The Peppermint theme was created by [Noah Frederick](https://noahfrederick.com/log/lion-terminal-theme-peppermint) and adapted for iTerm by [dotzero](https://github.com/dotzero/iTerm-2-Peppermint).
 
 The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncanson)
+
+The Abernathy theme was created by [barish](https://instagram.com/barish)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
