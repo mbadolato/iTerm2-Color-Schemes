@@ -188,6 +188,7 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ![Screenshot](screenshots/blueberry_pie.png)
 
 ### BlueDolphin
+
 ![Screenshot](screenshots/BlueDolphin.png)
 
 ### Blue Matrix
@@ -446,7 +447,7 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/galaxy.png)
 
-### Galizur 
+### Galizur
 
 ![image](screenshots/galizur.png)
 
@@ -538,11 +539,11 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/hybrid.png)
 
-### IC\_Green\_PPL
+### IC_Green_PPL
 
 ![Screenshot](screenshots/ic_green_ppl.png)
 
-### IC\_Orange\_PPL
+### IC_Orange_PPL
 
 ![Screenshot](screenshots/ic_orange_ppl.png)
 
@@ -653,6 +654,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### Mathias
 
 ![Screenshot](screenshots/mathias.png)
+
+### Matrix
+
+![Screenshot](screenshots/matrix.png)
 
 ### Medallion
 
@@ -1442,6 +1447,8 @@ The Peppermint theme was created by [Noah Frederick](https://noahfrederick.com/l
 The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncanson)
 
 The Abernathy theme was created by [barish](https://instagram.com/barish)
+
+The Matrix theme was created by [Jim Xu](https://github.com/i3d) inspired by the famous Matrix movie series.
 
 If there are other color schemes you'd like to see included, drop me a line!
 
