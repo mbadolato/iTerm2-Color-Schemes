@@ -1,3 +1,5 @@
+# 07-25-2021: Added Matrix and Dark Matrix theme.
+
 # iTerm Color Schemes
 
 - [Intro](#intro)
