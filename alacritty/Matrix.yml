@@ -1,0 +1,32 @@
+# Colors (Matrix)
+colors:
+  primary:
+    background: "#0F191C"
+    foreground: "#426644"
+  # #Normal colors
+  normal:
+    black: "#688060"
+    red: "#23755A"
+    green: "#82D967"
+    yellow: "#FFD700"
+    blue: "#3F5242"
+    magenta: "#409931"
+    cyan: "#50B45A"
+    white: "#507350"
+  # #Bright colors
+  bright:
+    black: "#688060"
+    red: "#2FC079"
+    green: "#90D762"
+    yellow: "#FAFF00"
+    blue: "#4F7E7E"
+    magenta: "#11FF25"
+    cyan: "#C1FF8A"
+    white: "#678C61"
+  selection:
+    text: "#00FF87"
+    background: "#18282E"
+    white: "#FFFFFF"
+  cursor:
+    cursor: "#384545"
+    text: "#00FF00"
