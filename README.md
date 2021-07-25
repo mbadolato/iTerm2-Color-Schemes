@@ -1,5 +1,3 @@
-# 07-25-2021: Added Matrix and Dark Matrix theme.
-
 # iTerm Color Schemes
 
 - [Intro](#intro)
@@ -1450,7 +1448,7 @@ The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncans
 
 The Abernathy theme was created by [barish](https://instagram.com/barish)
 
-The Matrix theme was created by [Jim Xu](https://github.com/i3d) inspired by the famous Matrix movie series.
+The Matrix themes was created by [Jim Xu](https://github.com/i3d) inspired by the famous Matrix movie series.
 
 If there are other color schemes you'd like to see included, drop me a line!
 
