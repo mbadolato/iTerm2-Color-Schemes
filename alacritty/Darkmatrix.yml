@@ -1,0 +1,33 @@
+# Colors (Dark Matrix)
+colors:
+  # #Default Colors
+  primary:
+    background: "#091013"
+    foreground: "#81B32C"
+  # #Normal colors
+  normal:
+    black: "#091013"
+    red: "#00cd6d"
+    green: "#90D762"
+    yellow: "#00cd6d"
+    blue: "#9CE667"
+    magenta: "#00cd6d"
+    cyan: "#0ECC1E"
+    white: "#00cd6d"
+  # #Bright colors
+  bright:
+    black: "#00CD6D"
+    red: "#00cd6d"
+    green: "#90D762"
+    yellow: "#00cd6d"
+    blue: "#9CE667"
+    magenta: "#00cd6d"
+    cyan: "#0ECC1E"
+    white: "#00cd6d"
+  selection:
+    text: "#00FF87"
+    background: "#0F191C"
+    white: "#FFFFFF"
+  cursor:
+    cursor: "#81B32C"
+    text: "#00FF87"
