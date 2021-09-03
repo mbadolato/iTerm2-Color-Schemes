@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# Python script to convert iTerm2 themes to Terminal.app themes
+#
+# Usage:
+# python3 -m iterm2terminal /path/to/itermcolors/file /path/to/target/directory
+
 import plistlib
 
 from argparse import ArgumentParser
