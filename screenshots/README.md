@@ -8,6 +8,10 @@
 
 ![image](3024_night.png)
 
+`abernathy.png`
+
+![image](abernathy.png)
+
 `adventure.png`
 
 ![image](adventure.png)
@@ -220,6 +224,10 @@
 
 ![image](dark_plus.png)
 
+`darkmatrix.png`
+
+![image](darkmatrix.png)
+
 `darkside.png`
 
 ![image](darkside.png)
@@ -359,6 +367,10 @@
 `github.png`
 
 ![image](github.png)
+
+`GitHub_Dark.png`
+
+![image](GitHub_Dark.png)
 
 `glacier.png`
 
@@ -555,6 +567,10 @@
 `mathias.png`
 
 ![image](mathias.png)
+
+`matrix.png`
+
+![image](matrix.png)
 
 `medallion.png`
 
