@@ -659,6 +659,14 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/matrix.png)
 
+### Dark Matrix
+
+![Screenshot](screenshots/darkmatrix.png)
+
+### Darker Matrix
+
+![Screenshot](screenshots/darkermatrix.png)
+
 ### Medallion
 
 ![Screenshot](screenshots/medallion.png)
@@ -1448,7 +1456,7 @@ The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncans
 
 The Abernathy theme was created by [barish](https://instagram.com/barish)
 
-The Matrix themes was created by [Jim Xu](https://github.com/i3d) inspired by the famous Matrix movie series.
+The Matrix theme series were created by [Jim Xu](https://github.com/i3d) inspired by the famous Matrix movie series.
 
 If there are other color schemes you'd like to see included, drop me a line!
 
