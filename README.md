@@ -259,6 +259,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/calamity.png)
 
+### CGA
+
+![Screenshot](screenshots/CGA.png)
+
 ### Chalk
 
 ![Screenshot](screenshots/chalk.png)
@@ -1457,6 +1461,8 @@ The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncans
 The Abernathy theme was created by [barish](https://instagram.com/barish)
 
 The Matrix theme series were created by [Jim Xu](https://github.com/i3d) inspired by the famous Matrix movie series.
+
+The CGA theme was created by [jdhmtl](https://github.com/jdhmtl).
 
 If there are other color schemes you'd like to see included, drop me a line!
 
