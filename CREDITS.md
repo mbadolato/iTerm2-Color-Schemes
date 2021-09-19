@@ -10,6 +10,8 @@ The themes AdventureTime, AlienBlood, BirdsOfParadise, Ciapre, CrayonPonyFish, D
 
 The Afterglow theme was created by [yabatadesign](https://github.com/YabataDesign/afterglow-itermcolors)
 
+The Alabaster theme was created by [mkaschenko](https://github.com/mkaschenko) based on [tonsky](https://github.com/tonsky)'s [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster) Sublime 3 theme.
+
 The Andromeda theme was created by [memije](https://github.com/memije) based on [EliverLara](https://github.com/EliverLara/)'s [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) VS Code theme.
 
 The Argonaut theme was created by [effkay](https://github.com/effkay/iTerm-argonaut)
