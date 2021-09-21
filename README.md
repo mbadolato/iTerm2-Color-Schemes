@@ -115,6 +115,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/afterglow.png)
 
+### Alabaster
+
+![Screenshot](screenshots/alabaster.png)
+
 ### AlienBlood
 
 ![Screenshot](screenshots/alien_blood.png)
