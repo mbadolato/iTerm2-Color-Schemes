@@ -1,0 +1,29 @@
+# Colors (Alabaster)
+colors:
+  bright:
+    black: '#777777'
+    blue: '#007acc'
+    cyan: '#00aacb'
+    green: '#60cb00'
+    magenta: '#e64ce6'
+    red: '#f05050'
+    white: '#f7f7f7'
+    yellow: '#ffbc5d'
+  cursor:
+    cursor: '#007acc'
+    text: '#bfdbfe'
+  normal:
+    black: '#000000'
+    blue: '#325cc0'
+    cyan: '#0083b2'
+    green: '#448c27'
+    magenta: '#7a3e9d'
+    red: '#aa3731'
+    white: '#f7f7f7'
+    yellow: '#cb9000'
+  primary:
+    background: '#f7f7f7'
+    foreground: '#000000'
+  selection:
+    background: '#bfdbfe'
+    text: '#000000'

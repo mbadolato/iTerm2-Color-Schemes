@@ -1,30 +1,29 @@
-# Colors (DarkerMatrix)
+# Colors (darkermatrix)
 colors:
-  primary:
-    background: "#091013"
-    foreground: "#28380d"
-  normal:
-    black: "#333333"
-    red: "#002e18"
-    green: "#6fa64c"
-    yellow: "#2d2d00"
-    blue: "#0d2f28"
-    magenta: "#26192e"
-    cyan: "#092b2e"
-    white: "#002e19"
   bright:
-    black: "#333333"
-    red: "#00381d"
-    green: "#90D762"
-    yellow: "#e2e500"
-    blue: "#46d8b8"
-    magenta: "#2f1f39"
-    cyan: "#0b3437"
-    white: "#00381e"
-  selection:
-    text: "#00FF87"
-    background: "#0F191C"
-    white: "#FFFFFF"
+    black: '#333333'
+    blue: '#00ff87'
+    cyan: '#176c73'
+    green: '#90d762'
+    magenta: '#412a4d'
+    red: '#00381d'
+    white: '#00381e'
+    yellow: '#e2e500'
   cursor:
-    cursor: "#373A26"
-    text: "#00FF87"
+    cursor: '#373a26'
+    text: '#00ff87'
+  normal:
+    black: '#091013'
+    blue: '#00cb6b'
+    cyan: '#125459'
+    green: '#6fa64c'
+    magenta: '#412a4d'
+    red: '#002e18'
+    white: '#002e19'
+    yellow: '#595900'
+  primary:
+    background: '#070c0e'
+    foreground: '#28380d'
+  selection:
+    background: '#0f191c'
+    text: '#00ff87'
