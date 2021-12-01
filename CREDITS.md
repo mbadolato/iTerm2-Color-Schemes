@@ -174,6 +174,8 @@ MaterialDarker and DraculaPlus themes were added by [jos3s](https://github.com/j
 
 The MaterialOcean theme was found [here](https://github.com/kaicataldo/material.vim/blob/master/terminal-colors/iterm2/material-ocean.itermcolors) and was ported by [fr3fou](https://github.com/fr3fou)
 
+The MaterialDesignColors theme was created by [MartinSeeler](https://www.martinseeler.com/iterm2-material-design)
+
 The theme Mathias was created by [mathiasbynens](https://github.com/mathiasbynens/dotfiles)
 
 The Matrix theme series were created by [Jim Xu](https://github.com/i3d) inspired by the famous Matrix movie series.

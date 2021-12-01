@@ -1,0 +1,29 @@
+# Colors (MaterialDesignColors)
+colors:
+  bright:
+    black: '#a1b0b8'
+    blue: '#70cfff'
+    cyan: '#9affe6'
+    green: '#adf7be'
+    magenta: '#fc669b'
+    red: '#fc746d'
+    white: '#ffffff'
+    yellow: '#fee16c'
+  cursor:
+    cursor: '#eaeaea'
+    text: '#000000'
+  normal:
+    black: '#435b67'
+    blue: '#37b6ff'
+    cyan: '#59ffd1'
+    green: '#5cf19e'
+    magenta: '#fc226e'
+    red: '#fc3841'
+    white: '#ffffff'
+    yellow: '#fed032'
+  primary:
+    background: '#1d262a'
+    foreground: '#e7ebed'
+  selection:
+    background: '#4e6a78'
+    text: '#e7ebed'

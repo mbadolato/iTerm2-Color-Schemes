@@ -655,6 +655,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/material_darker.png)
 
+### MaterialDesignColors
+
+![Screenshot](screenshots/material_design_colors.png)
+
 ### MaterialOcean
 
 ![Screenshot](screenshots/material_ocean.png)
