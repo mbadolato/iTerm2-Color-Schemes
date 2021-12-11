@@ -1,0 +1,29 @@
+# Colors (nord-light)
+colors:
+  bright:
+    black: '#4c566a'
+    blue: '#81a1c1'
+    cyan: '#8fbcbb'
+    green: '#a3be8c'
+    magenta: '#b48ead'
+    red: '#bf616a'
+    white: '#eceff4'
+    yellow: '#ebcb8b'
+  cursor:
+    cursor: '#88c0d0'
+    text: '#3b4252'
+  normal:
+    black: '#3b4252'
+    blue: '#81a1c1'
+    cyan: '#88c0d0'
+    green: '#a3be8c'
+    magenta: '#b48ead'
+    red: '#bf616a'
+    white: '#d8dee9'
+    yellow: '#ebcb8b'
+  primary:
+    background: '#e5e9f0'
+    foreground: '#414858'
+  selection:
+    background: '#d8dee9'
+    text: '#4c556a'
