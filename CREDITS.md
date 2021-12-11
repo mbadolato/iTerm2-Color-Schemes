@@ -204,6 +204,8 @@ The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Sh
 
 Nord theme were added by [Teraskull](https://github.com/Teraskull)
 
+Nord-light were added by [brorbw](https://github.com/brorbw/nord-light-iterm2)
+
 The Obsidian theme was on my hard drive and I don't recall where it came from. If anyone knows, ping me and I'll link back to the author(s).
 
 The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpatel)

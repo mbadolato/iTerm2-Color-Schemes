@@ -751,6 +751,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/nord.png)
 
+### Nord-light
+
+![Screenshot](screenshots/nord_light.png)
+
 ### Obsidian
 
 ![Screenshot](screenshots/obsidian.png)
