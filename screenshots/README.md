@@ -644,6 +644,10 @@
 
 ![image](nord.png)
 
+`nord-light.png`
+
+![image](nord_light.png)
+
 `novel.png`
 
 ![image](novel.png)
@@ -1039,4 +1043,3 @@
 `zenburn.png`
 
 ![image](zenburn.png)
-
