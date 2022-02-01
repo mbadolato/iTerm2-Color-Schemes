@@ -244,6 +244,8 @@ The Rebecca theme was created [vic](https://github.com/vic) based on his [emacs 
 
 The Red Planet theme was created by [ibrokemypie](https://github.com/ibrokemypie) based on [eliquious](https://github.com/eliquious)'s [Red Planet](https://github.com/eliquious/Red-Planet-Theme) Sublime Text theme.
 
+The Retro theme was created by [Rob Latour](https://github.com/roblatour)
+
 The Rippedcasts theme was created by [mdw123](https://github.com/mdw123/rippedcasts)
 
 The Rouge 2 theme was created by [Josef Aidt](https://github.com/josefaidt/rouge-theme) and ported to iTerm2 by [Sam Rose](https://github.com/samrose3).
