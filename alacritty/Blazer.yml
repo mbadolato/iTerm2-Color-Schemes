@@ -24,3 +24,6 @@ colors:
   primary:
     background: '#0d1926'
     foreground: '#d9e6f2'
+  selection:
+    background: '#c1ddff'
+    text: '#000000'
