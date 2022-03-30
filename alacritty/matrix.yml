@@ -1,0 +1,29 @@
+# Colors (matrix)
+colors:
+  bright:
+    black: '#688060'
+    blue: '#4f7e7e'
+    cyan: '#c1ff8a'
+    green: '#90d762'
+    magenta: '#11ff25'
+    red: '#2fc079'
+    white: '#678c61'
+    yellow: '#faff00'
+  cursor:
+    cursor: '#384545'
+    text: '#00ff00'
+  normal:
+    black: '#0f191c'
+    blue: '#3f5242'
+    cyan: '#50b45a'
+    green: '#82d967'
+    magenta: '#409931'
+    red: '#23755a'
+    white: '#507350'
+    yellow: '#ffd700'
+  primary:
+    background: '#0f191c'
+    foreground: '#426644'
+  selection:
+    background: '#18282e'
+    text: '#00ff87'
