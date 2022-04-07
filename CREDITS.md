@@ -210,6 +210,8 @@ The Obsidian theme was on my hard drive and I don't recall where it came from. I
 
 The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpatel)
 
+The Oceanic Next theme was created by [mhartington](https://github.com/mhartington/oceanic-next-iterm)
+
 The One Half themes were created by [sonph](https://github.com/sonph), based on Atom's One with some tweakings.
 
 The Operator Mono Dark was ported from [vharadkou](https://github.com/vharadkou/OperatorMonoDarkTheme) by [dreamyguy](https://github.com/dreamyguy/iterm-theme-operator-mono-dark)
