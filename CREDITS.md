@@ -124,6 +124,8 @@ The Gruvbox Dark theme was created by [morhetz](https://github.com/morhetz) and 
 
 The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
 
+The Grey-green theme was created by [lee](https://github.com/yg66)
+
 The Guezwhoz theme was created by [Egor Lem](https://github.com/guesswhozzz/guezwhoz-iterm2-theme)
 
 The theme Hurtado was found [here](https://github.com/juanghurtado/dotfiles).
