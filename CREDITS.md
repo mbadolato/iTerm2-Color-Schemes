@@ -194,6 +194,8 @@ The theme Monokai Vivid was created by [vitalymak](https://github.com/vitalymak/
 
 The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-Color-Schemes)
 
+The theme Neon was created by [phosphorcube](https://github.com/phosphorcube/iTerm2-Color-Schemes)
+
 The Neutron theme was created by [Ch4s3](https://github.com/Ch4s3/iTerm2-Neutron)
 
 The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/category/themes/)
