@@ -1,0 +1,29 @@
+# Colors (Grey-green)
+colors:
+  bright:
+    black: '#666666'
+    blue: '#00afff'
+    cyan: '#00ffd3'
+    green: '#00ff44'
+    magenta: '#ff008a'
+    red: '#ff3939'
+    white: '#f5ecec'
+    yellow: '#ffd100'
+  cursor:
+    cursor: '#fff400'
+    text: '#e1e4e3'
+  normal:
+    black: '#000000'
+    blue: '#00deff'
+    cyan: '#00ffbc'
+    green: '#74ff00'
+    magenta: '#ff00f0'
+    red: '#fe1414'
+    white: '#ffffff'
+    yellow: '#f1ff01'
+  primary:
+    background: '#002a1a'
+    foreground: '#ffffff'
+  selection:
+    background: '#517e50'
+    text: '#e2e2e2'

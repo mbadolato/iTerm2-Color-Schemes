@@ -479,6 +479,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/grass.png)
 
+### Grey-green
+
+![Screenshot](screenshots/Grey-green.png)
+
 ### Gruvbox Dark
 
 ![Screenshot](screenshots/gruvbox_dark.png)
