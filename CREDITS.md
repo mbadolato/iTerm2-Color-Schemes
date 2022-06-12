@@ -14,6 +14,8 @@ The Alabaster theme was created by [mkaschenko](https://github.com/mkaschenko) b
 
 The Andromeda theme was created by [memije](https://github.com/memije) based on [EliverLara](https://github.com/EliverLara/)'s [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) VS Code theme.
 
+The Arcoiris theme was created by [some random guy](https://github.com/indyandie)
+
 The Argonaut theme was created by [effkay](https://github.com/effkay/iTerm-argonaut)
 
 The Arthur, N0tch2k, Pnevma, Square, and Wryan themes were created by [baskerville](https://github.com/baskerville/iTerm-2-Color-Themes)
