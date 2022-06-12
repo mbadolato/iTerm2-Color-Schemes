@@ -127,6 +127,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/andromeda.png)
 
+### Arcoiris
+
+![Screenshot](screenshots/arcoiris.png)
+
 ### Argonaut
 
 ![Screenshot](screenshots/argonaut.png)
