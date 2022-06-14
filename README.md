@@ -1072,6 +1072,18 @@ more information.
 
 ![Screenshot](screenshots/tinacious_design_light.png)
 
+### TokyoNight
+
+![Screenshot](screenshots/tokyonight.png)
+
+### TokyoNight Storm
+
+![Screenshot](screenshots/tokyonight-storm.png)
+
+### TokyoNight Day
+
+![Screenshot](screenshots/tokyonight-day.png)
+
 ### Tomorrow
 
 ![Screenshot](screenshots/tomorrow.png)

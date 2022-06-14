@@ -302,6 +302,8 @@ The Thayer Bright theme was found [here](https://github.com/t3chnoboy/thayer-bri
 
 The theme Tinacious Design was created by [Tina Holly](https://tinaciousdesign.com)
 
+The Tokyo Night themes were created by [folke](https://github.com/folke/tokyonight.nvim)
+
 The Tomorrow themes were created by [chriskempson](https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2)
 
 The Tomorrow Night Burns theme were created by [ashwinv11](https://github.com/ashwinv11/)
