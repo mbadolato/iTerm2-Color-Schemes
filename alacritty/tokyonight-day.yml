@@ -1,0 +1,29 @@
+# Colors (tokyonight-day)
+colors:
+  bright:
+    black: '#a1a6c5'
+    blue: '#2e7de9'
+    cyan: '#007197'
+    green: '#587539'
+    magenta: '#9854f1'
+    red: '#f52a65'
+    white: '#3760bf'
+    yellow: '#8c6c3e'
+  cursor:
+    cursor: '#3760bf'
+    text: '#e1e2e7'
+  normal:
+    black: '#e9e9ed'
+    blue: '#2e7de9'
+    cyan: '#007197'
+    green: '#587539'
+    magenta: '#9854f1'
+    red: '#f52a65'
+    white: '#6172b0'
+    yellow: '#8c6c3e'
+  primary:
+    background: '#e1e2e7'
+    foreground: '#3760bf'
+  selection:
+    background: '#99a7df'
+    text: '#3760bf'

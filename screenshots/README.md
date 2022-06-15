@@ -948,6 +948,18 @@
 
 ![image](tinacious_design_light.png)
 
+`tokyonight.png`
+
+![image](tokyonight.png)
+
+`tokyonight-storm.png`
+
+![image](tokyonight-storm.png)
+
+`tokyonight-day.png`
+
+![image](tokyonight-day.png)
+
 `tomorrow.png`
 
 ![image](tomorrow.png)
