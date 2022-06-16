@@ -333,3 +333,5 @@ The WildCherry theme was created by [mashaal](https://github.com/mashaal/wild-ch
 The Wombat theme was created by [djoyner](https://github.com/djoyner/iTerm2-wombat)
 
 The scheme Zenburn was inspired by the [Zenburn](http://sunaku.github.io/zenburn-terminal-color-scheme.html) version created by Suraj N. Kurapati.
+
+The Zenbones schemes ( duckbones, kanagawabones, neobones_dark, neobones_light, seoulbones_dark, seoulbones_light, vimbones, zenbones, zenbones_dark, zenbones_light, zenburned, zenwritten_dark, zenwritten_light) were taken from [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)

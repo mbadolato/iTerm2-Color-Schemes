@@ -375,6 +375,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/Dracula+.png)
 
+### Duckbones
+
+![Screenshot](screenshots/duckbones.png)
+
 ### Duotone Dark
 
 ![Screenshot](screenshots/duotone_dark.png)
@@ -599,6 +603,10 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/jubi.png)
 
+### Kanagawabones
+
+![Screenshot](screenshots/kanagawabones.png)
+
 ### Kibble
 
 ![Screenshot](screenshots/kibble.png)
@@ -726,6 +734,14 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### N0tch2k
 
 ![Screenshot](screenshots/n0tch2k.png)
+
+### Neobones Dark
+
+![Screenshot](screenshots/neobones_dark.png)
+
+### Neobones Light
+
+![Screenshot](screenshots/neobones_light.png)
 
 ### Neon
 
@@ -930,6 +946,14 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 ### SeaShells
 
 ![Screenshot](screenshots/sea_shells.png)
+
+### Seoulbones Dark
+
+![Screenshot](screenshots/seoulbones_dark.png)
+
+### Seoulbones Light
+
+![Screenshot](screenshots/seoulbones_light.png)
 
 ### Seti
 
@@ -1152,6 +1176,10 @@ more information.
 
 ![Screenshot](screenshots/vibrant_ink.png)
 
+### Vimbones
+
+![Screenshot](screenshots/vimbones.png)
+
 ### Violet Light
 
 ![Screenshot](screenshots/violet_light.png)
@@ -1184,9 +1212,33 @@ more information.
 
 ![Screenshot](screenshots/wryan.png)
 
+### Zenbones
+
+![Screenshot](screenshots/zenbones.png)
+
+### Zenbones Dark
+
+![Screenshot](screenshots/zenbones_dark.png)
+
+### Zenbones Light
+
+![Screenshot](screenshots/zenbones_light.png)
+
 ### Zenburn
 
 ![Screenshot](screenshots/zenburn.png)
+
+### Zenburned
+
+![Screenshot](screenshots/zenburned.png)
+
+### Zenwritten Dark
+
+![Screenshot](screenshots/zenwritten_dark.png)
+
+### Zenwritten Light
+
+![Screenshot](screenshots/zenwritten_light.png)
 
 ## Credits
 
