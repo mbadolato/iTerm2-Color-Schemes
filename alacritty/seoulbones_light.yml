@@ -1,0 +1,29 @@
+# Colors (seoulbones_light)
+colors:
+  bright:
+    black: '#bfbabb'
+    blue: '#006f89'
+    cyan: '#006f70'
+    green: '#487249'
+    magenta: '#7f4c7e'
+    red: '#be3c6d'
+    white: '#777777'
+    yellow: '#a76b48'
+  cursor:
+    cursor: '#555555'
+    text: '#e2e2e2'
+  normal:
+    black: '#e2e2e2'
+    blue: '#0084a3'
+    cyan: '#008586'
+    green: '#628562'
+    magenta: '#896788'
+    red: '#dc5284'
+    white: '#555555'
+    yellow: '#c48562'
+  primary:
+    background: '#e2e2e2'
+    foreground: '#555555'
+  selection:
+    background: '#cccccc'
+    text: '#555555'
