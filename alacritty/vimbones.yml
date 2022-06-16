@@ -1,0 +1,29 @@
+# Colors (vimbones)
+colors:
+  bright:
+    black: '#c6c6a3'
+    blue: '#1d5573'
+    cyan: '#2b747c'
+    green: '#3f5a22'
+    magenta: '#7b3b70'
+    red: '#94253e'
+    white: '#5c5c5c'
+    yellow: '#803d1c'
+  cursor:
+    cursor: '#353535'
+    text: '#f0f0ca'
+  normal:
+    black: '#f0f0ca'
+    blue: '#286486'
+    cyan: '#3b8992'
+    green: '#4f6c31'
+    magenta: '#88507d'
+    red: '#a8334c'
+    white: '#353535'
+    yellow: '#944927'
+  primary:
+    background: '#f0f0ca'
+    foreground: '#353535'
+  selection:
+    background: '#d7d7d7'
+    text: '#353535'

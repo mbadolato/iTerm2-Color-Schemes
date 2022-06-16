@@ -1,0 +1,29 @@
+# Colors (duckbones)
+colors:
+  bright:
+    black: '#2b2f46'
+    blue: '#00b4e0'
+    cyan: '#00b4e0'
+    green: '#58db9e'
+    magenta: '#b3a1e6'
+    red: '#ff4821'
+    white: '#b3b692'
+    yellow: '#f6a100'
+  cursor:
+    cursor: '#edf2c2'
+    text: '#0e101a'
+  normal:
+    black: '#0e101a'
+    blue: '#00a3cb'
+    cyan: '#00a3cb'
+    green: '#5dcd97'
+    magenta: '#795ccc'
+    red: '#e03600'
+    white: '#ebefc0'
+    yellow: '#e39500'
+  primary:
+    background: '#0e101a'
+    foreground: '#ebefc0'
+  selection:
+    background: '#37382d'
+    text: '#ebefc0'
