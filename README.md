@@ -323,7 +323,7 @@ It would also be very helpful if you `cd tools/` and run `python3 update_all.py`
 
 ![Screenshot](screenshots/dark_pastel.png)
 
-## Dark+
+### Dark+
 
 ![Screenshot](screenshots/dark_plus.png)
 
