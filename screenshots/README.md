@@ -1052,6 +1052,10 @@
 
 ![image](wild_cherry.png)
 
+`wilmersdorf.png`
+
+![image](wilmersdorf.png)
+
 `wombat.png`
 
 ![image](wombat.png)
