@@ -1,0 +1,29 @@
+# Colors (wilmersdorf)
+colors:
+  bright:
+    black: '#434750'
+    blue: '#b2cff0'
+    cyan: '#69abc5'
+    green: '#8fd7d6'
+    magenta: '#efccfd'
+    red: '#fa7193'
+    white: '#d3d3d3'
+    yellow: '#d1dfff'
+  cursor:
+    cursor: '#7ebebd'
+    text: '#1f2024'
+  normal:
+    black: '#34373e'
+    blue: '#a6c1e0'
+    cyan: '#5b94ab'
+    green: '#7ebebd'
+    magenta: '#e1c1ee'
+    red: '#e06383'
+    white: '#ababab'
+    yellow: '#cccccc'
+  primary:
+    background: '#282b33'
+    foreground: '#c6c6c6'
+  selection:
+    background: '#1f2024'
+    text: '#c6c6c6'

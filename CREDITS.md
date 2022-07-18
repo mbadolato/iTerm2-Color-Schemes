@@ -330,6 +330,8 @@ The Whimsy theme was created by [Rod](https://github.com/rod)
 
 The WildCherry theme was created by [mashaal](https://github.com/mashaal/wild-cherry)
 
+The Wilmersdorf theme was created by [sayeefm0](https://github.com/sayeefm0/iterm2-wilmersdorf)
+
 The Wombat theme was created by [djoyner](https://github.com/djoyner/iTerm2-wombat)
 
 The scheme Zenburn was inspired by the [Zenburn](http://sunaku.github.io/zenburn-terminal-color-scheme.html) version created by Suraj N. Kurapati.

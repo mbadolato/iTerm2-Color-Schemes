@@ -1,0 +1,12 @@
+# wilmersdorf
+[colors]
+foreground = "#c6c6c6"
+background = "#282b33"
+cursor_bg = "#7ebebd"
+cursor_border = "#7ebebd"
+cursor_fg = "#1f2024"
+selection_bg = "#1f2024"
+selection_fg = "#c6c6c6"
+
+ansi = ["#34373e","#e06383","#7ebebd","#cccccc","#a6c1e0","#e1c1ee","#5b94ab","#ababab"]
+brights = ["#434750","#fa7193","#8fd7d6","#d1dfff","#b2cff0","#efccfd","#69abc5","#d3d3d3"]

@@ -74,20 +74,24 @@ There are 3 ways to install an iTerm theme:
 
 ## Contribute
 
-Have a great iTerm theme? Send it to me via a Pull Request! To export your theme settings:
+Have a great iTerm theme? Send it to me via a Pull Request!
 
-- Launch iTerm 2
-- Type CMD+i (⌘+i)
-- Navigate to **Colors** tab
-- Click on **Color Presets**
-- Click on **Export**
-- Save the .itermcolors file
-
-To include a screenshot, please generate the output using the [screenshotTable.sh script](tools/screenshotTable.sh) in the `tools` directory.
-
-**For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window**
-
-It would also be very helpful if you `cd tools/` and run `python3 update_all.py` to generate all formats of your scheme
+1. Get your theme's`.itermcolors` file
+    - Launch iTerm 2
+    - Type CMD+i (⌘+i)
+    - Navigate to **Colors** tab
+    - Click on **Color Presets**
+    - Click on **Export**
+    - Save the .itermcolors file
+2. Put your theme file into `/schemes/`
+    - `mv <your-itermcolors-file> schemes/`
+3. Generate other formats for your theme using the `update_all.py` script.
+    - `cd tools/ && python3 update_all.py`
+4. Get a screenshot of your theme using the `screenshotTable.sh` script and ImageMagick. **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window.**
+    - `cd tools/ && ./screenshotTable.sh` - this will create a color table for your theme that you can screenshot.
+    - Use ImageMagick (or some other tool) to resize your image for consistency - `mogrify -resize 600x300\! <path-to-your-screenshot>`
+    - Move your screenshot into `screenshots/` - `mv <your-screenshot> screenshots/`
+5. Update `README.md` and `screenshots/README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
 
 ## Screenshots
 
@@ -1203,6 +1207,10 @@ more information.
 ### WildCherry
 
 ![Screenshot](screenshots/wild_cherry.png)
+
+### Wilmersdorf
+
+![Screenshot](screenshots/wilmersdorf.png)
 
 ### Wombat
 
