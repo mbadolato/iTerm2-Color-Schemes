@@ -292,6 +292,8 @@ The scheme Symfonic was inspired by the color scheme used in the [documentation]
 
 The synthwave theme was created by [brettstil](https://github.com/brettstil/)
 
+The Synthwave Alpha theme was created by [vikpe](https://github.com/vikpe) based on the [Synthwave Alpha](https://github.com/vikpe/synthwave-alpha) color palette
+
 The Synthwave Everything theme was created by [smithbm2316](https://github.com/smithbm2316) based on [robb0wen's](https://github.com/robb0wen/) VS Code theme [Synthwave '84](https://github.com/robb0wen/synthwave-vscode)
 
 The Tango Adapted theme and its slightly less bright counterpart Tango Half Adapted were created by [crowsonkb](https://github.com/crowsonkb), based on iTerm2's Tango Light theme.
