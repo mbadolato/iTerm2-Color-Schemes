@@ -1064,6 +1064,10 @@ more information.
 
 ![Screenshot](screenshots/synthwave.png)
 
+### Synthwave Alpha
+
+![Screenshot](screenshots/synthwave_alpha.png)
+
 ### Synthwave Everything
 
 ![Screenshot](screenshots/synthwave-everything.png)

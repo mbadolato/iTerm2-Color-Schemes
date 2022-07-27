@@ -908,6 +908,10 @@
 
 ![image](symfonic.png)
 
+`synthwave_alpha.png`
+
+![image](synthwave_alpha.png)
+
 `synthwave-everything.png`
 
 ![image](synthwave-everything.png)

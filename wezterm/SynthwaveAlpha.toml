@@ -1,0 +1,12 @@
+# SynthwaveAlpha
+[colors]
+foreground = "#f2f2e3"
+background = "#241b30"
+cursor_bg = "#f2f2e3"
+cursor_border = "#f2f2e3"
+cursor_fg = "#241b30"
+selection_bg = "#6e29ad"
+selection_fg = "#f2f2e3"
+
+ansi = ["#241b30","#e60a70","#00986c","#adad3e","#6e29ad","#b300ad","#00b0b1","#b9b1bc"]
+brights = ["#7f7094","#e60a70","#0ae4a4","#f9f972","#aa54f9","#ff00f6","#00fbfd","#f2f2e3"]
