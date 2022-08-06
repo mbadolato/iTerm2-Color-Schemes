@@ -1,0 +1,23 @@
+{
+  "name": "{{ scheme_name }}",
+  "black": "#{{ Ansi_0_Color.hex }}",
+  "red": "#{{ Ansi_1_Color.hex }}",
+  "green": "#{{ Ansi_2_Color.hex }}",
+  "yellow": "#{{ Ansi_3_Color.hex }}",
+  "blue": "#{{ Ansi_4_Color.hex }}",
+  "purple": "#{{ Ansi_5_Color.hex }}",
+  "cyan": "#{{ Ansi_6_Color.hex }}",
+  "white": "#{{ Ansi_7_Color.hex }}",
+  "brightBlack": "#{{ Ansi_8_Color.hex }}",
+  "brightRed": "#{{ Ansi_9_Color.hex }}",
+  "brightGreen": "#{{ Ansi_10_Color.hex }}",
+  "brightYellow": "#{{ Ansi_11_Color.hex }}",
+  "brightBlue": "#{{ Ansi_12_Color.hex }}",
+  "brightPurple": "#{{ Ansi_13_Color.hex }}",
+  "brightCyan": "#{{ Ansi_14_Color.hex }}",
+  "brightWhite": "#{{ Ansi_15_Color.hex }}",
+  "background": "#{{ Background_Color.hex }}",
+  "foreground": "#{{ Foreground_Color.hex }}",
+  "cursorColor": "#{{ Cursor_Color.hex }}",
+  "selectionBackground": "#{{ Selection_Color.hex }}"
+}
