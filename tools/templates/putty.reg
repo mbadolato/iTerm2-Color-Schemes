@@ -1,0 +1,29 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\{{ scheme_name | urlencode }}]
+"Colour2"="{{ Background_Color.rgb }}"
+"Colour3"="{{ Background_Color.rgb }}"
+"Colour0"="{{ Foreground_Color.rgb }}"
+{% if Bold_Color %}
+"Colour1"="{{ Bold_Color.rgb }}"
+{% else %}
+"Colour1"="{{ Foreground_Color.rgb }}"
+{% endif %}
+"Colour5"="{{ Cursor_Color.rgb }}"
+"Colour4"="{{ Cursor_Text_Color.rgb }}"
+"Colour6"="{{ Ansi_0_Color.rgb }}"
+"Colour8"="{{ Ansi_1_Color.rgb }}"
+"Colour11"="{{ Ansi_10_Color.rgb }}"
+"Colour13"="{{ Ansi_11_Color.rgb }}"
+"Colour15"="{{ Ansi_12_Color.rgb }}"
+"Colour17"="{{ Ansi_13_Color.rgb }}"
+"Colour19"="{{ Ansi_14_Color.rgb }}"
+"Colour21"="{{ Ansi_15_Color.rgb }}"
+"Colour10"="{{ Ansi_2_Color.rgb }}"
+"Colour12"="{{ Ansi_3_Color.rgb }}"
+"Colour14"="{{ Ansi_4_Color.rgb }}"
+"Colour16"="{{ Ansi_5_Color.rgb }}"
+"Colour18"="{{ Ansi_6_Color.rgb }}"
+"Colour20"="{{ Ansi_7_Color.rgb }}"
+"Colour7"="{{ Ansi_8_Color.rgb }}"
+"Colour9"="{{ Ansi_9_Color.rgb }}"
