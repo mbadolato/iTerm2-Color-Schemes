@@ -19,8 +19,10 @@ Based on code by:
 Alexey Ten <alexeyten@gmail.com>
 Antenore Gatta <antenore@simbiosi.org>
 Caesar Kabalan <caesar.kabalan@gmail.com>
+Eric Franz <rericfranz@gmail.com>
 gBopHuk <gbophuk_alt@mail.ru>
 hhchung <hhchung@users.noreply.github.com>
+John Hodges <jdhmtl@users.noreply.github.com>
 Jonathan Couldridge <beforan86@gmail.com>
 Justin Grote <JustinGrote@users.noreply.github.com>
 Leiser Fernández Gallo <leiserfg@gmail.com>
