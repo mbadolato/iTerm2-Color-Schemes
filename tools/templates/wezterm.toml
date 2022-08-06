@@ -1,0 +1,20 @@
+# {{ scheme_name }}
+[colors]
+foreground = "#{{ Foreground_Color.hex }}"
+background = "#{{ Background_Color.hex }}"
+{% if Cursor_Color %}
+cursor_bg = "#{{ Cursor_Color.hex }}"
+cursor_border = "#{{ Cursor_Color.hex }}"
+{% endif %}
+{% if Cursor_Text_Color %}
+cursor_fg = "#{{ Cursor_Text_Color.hex }}"
+{% endif %}
+{% if Selection_Color %}
+selection_bg = "#{{ Selection_Color.hex }}"
+{% endif %}
+{% if Selected_Text_Color %}
+selection_fg = "#{{ Selected_Text_Color.hex }}"
+{% endif %}
+
+ansi = ["#{{ Ansi_0_Color.hex }}","#{{ Ansi_1_Color.hex }}","#{{ Ansi_2_Color.hex }}","#{{ Ansi_3_Color.hex }}","#{{ Ansi_4_Color.hex }}","#{{ Ansi_5_Color.hex }}","#{{ Ansi_6_Color.hex }}","#{{ Ansi_7_Color.hex }}"]
+brights = ["#{{ Ansi_8_Color.hex }}","#{{ Ansi_9_Color.hex }}","#{{ Ansi_10_Color.hex }}","#{{ Ansi_11_Color.hex }}","#{{ Ansi_12_Color.hex }}","#{{ Ansi_13_Color.hex }}","#{{ Ansi_14_Color.hex }}","#{{ Ansi_15_Color.hex }}"]
