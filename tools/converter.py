@@ -71,14 +71,23 @@ class Converter(object):
 
         with open(iterm_path, 'rb') as f:
             plist = plistlib.load(f)
+            guint16_pallete = []
 
             for color_name in plist:
                 color_components = plist[color_name]
                 color_hex, rgb = self.calculate_color(color_components)
+                guint16 = self.calculcate_color_components_guint16(color_components)
                 colors_dict[color_name.replace(' ', '_')] = {
                     'hex': color_hex,
-                    'rgb': ','.join(map(lambda x: str(x), rgb))
+                    'rgb': ','.join(map(lambda x: str(x), rgb)),
+                    'guint16': guint16
                 }
+
+            for color_index in range(16):
+                key = 'Ansi %d Color' % color_index
+                guint16_pallete += self.calculcate_color_components_guint16(plist[key])
+            
+            colors_dict['Guid16_Palette'] = '{%s}' % ', '.join(guint16_pallete)
 
         f.close()
 
@@ -97,6 +106,16 @@ class Converter(object):
         color_hex = hex_format % rgb
 
         return color_hex, rgb
+
+    def calculcate_color_components_guint16(self, color_components):
+        r = self.calculate_guint16(color_components[red_comp])
+        g = self.calculate_guint16(color_components[green_comp])
+        b = self.calculate_guint16(color_components[blue_comp])
+        
+        return (r, g, b)
+
+    def calculate_guint16(self, x):
+        return str(int((x * 256)) + int((x * 256)) * 256)
 
     def generate_xrdb_file(self, xrdb_path, hex_dict):
         with open(xrdb_path, 'w') as f:

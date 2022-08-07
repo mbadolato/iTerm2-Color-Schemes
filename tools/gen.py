@@ -26,6 +26,7 @@ John Hodges <jdhmtl@users.noreply.github.com>
 Jonathan Couldridge <beforan86@gmail.com>
 Justin Grote <JustinGrote@users.noreply.github.com>
 Leiser Fernández Gallo <leiserfg@gmail.com>
+mgallet <flanker@19pouces.net>
 Mike Wallio <miwalli@microsoft.com>
 Nicolas Cornette <nicolas.cornette@gmail.com>
 Stéphane Travostino <steph@combo.cc>
