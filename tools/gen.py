@@ -35,6 +35,7 @@ Thomas Sarboni <max-k@post.com>
 Tobias Kortkamp <t6@users.noreply.github.com>
 Wez Furlong <wez@wezfurlong.org>
 Xabier Larrakoetxea <slok69@gmail.com>
+ZHAO Xudong <986839138@qq.com>
 """
 
 import argparse

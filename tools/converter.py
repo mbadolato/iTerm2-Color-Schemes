@@ -83,11 +83,13 @@ class Converter(object):
                     'guint16': guint16
                 }
 
+            # we need second loop because guint16 palette must have colors in sorted order
             for color_index in range(16):
                 key = 'Ansi %d Color' % color_index
                 guint16_pallete += self.calculcate_color_components_guint16(plist[key])
             
-            colors_dict['Guid16_Palette'] = '{%s}' % ', '.join(guint16_pallete)
+            colors_dict['Guint16_Palette'] = '{%s}' % ', '.join(guint16_pallete)
+            colors_dict['Dark_Theme'] = self.detect_dark_theme(int(colors_dict['Background_Color']['hex'], 16))
 
         f.close()
 
@@ -97,6 +99,13 @@ class Converter(object):
             self.generate_xrdb_file(xrdb_path, colors_dict)
 
         return colors_dict
+
+    def detect_dark_theme(self, hex):
+        r = (hex >> 16) & 0xff
+        g = (hex >>  8) & 0xff
+        b = (hex >>  0) & 0xff
+
+        return 0.2126 * r + 0.7152 * g + 0.0722 * b < 40
 
     def calculate_color(self, color_components):
         r = round(color_components[red_comp] * 255)
