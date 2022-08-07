@@ -74,9 +74,17 @@ There are 3 ways to install an iTerm theme:
 
 ## Contribute
 
+### Prerequisites 
+
+1. For convenient work with generation scripts, it is recommended to install [pyenv](https://github.com/pyenv/pyenv).
+2. Run `pyenv install` inside project folder to install python version from `.python-version` file.
+3. Run `pip install -r requirements.txt` to install the project dependencies.
+
+### How to add new theme
+
 Have a great iTerm theme? Send it to me via a Pull Request!
 
-1. Get your theme's`.itermcolors` file
+1. Get your theme's`.itermcolors` file.
     - Launch iTerm 2
     - Type CMD+i (⌘+i)
     - Navigate to **Colors** tab
@@ -86,12 +94,61 @@ Have a great iTerm theme? Send it to me via a Pull Request!
 2. Put your theme file into `/schemes/`
     - `mv <your-itermcolors-file> schemes/`
 3. Generate other formats for your theme using the `update_all.py` script.
-    - `cd tools/ && python3 update_all.py`
-4. Get a screenshot of your theme using the `screenshotTable.sh` script and ImageMagick. **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window.**
+    - `cd tools/ && python3 gen.py` OR
+    - `cd tools/ && ./gen.py`
+4. If you only want to generate files for your theme, you can specify this with the `-s` flag.
+    - `./gen.py -s Dracula`
+5. Get a screenshot of your theme using the `screenshotTable.sh` script and ImageMagick. **For screenshot consistency, please have your font set to 13pt Monaco and no transparency on the window.**
     - `cd tools/ && ./screenshotTable.sh` - this will create a color table for your theme that you can screenshot.
     - Use ImageMagick (or some other tool) to resize your image for consistency - `mogrify -resize 600x300\! <path-to-your-screenshot>`
     - Move your screenshot into `screenshots/` - `mv <your-screenshot> screenshots/`
-5. Update `README.md` and `screenshots/README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
+6. Update `README.md` and `screenshots/README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
+
+### How to add new template
+
+Do you want to convert existing iTerm themes to themes for your favorite terminal/editor/etc?
+
+1. Get config file from your terminal/editor/etc.
+2. Change actual colors in config to template placeholders from the list below.
+```
+  {{ Background_Color }}
+  {{ Bold_Color }}
+  {{ Cursor_Color }}
+  {{ Cursor_Text_Color }}
+  {{ Foreground_Color }}
+  {{ Selected_Text_Color }}
+  {{ Selection_Color }}
+  {{ Ansi_0_Color }} // black
+  {{ Ansi_1_Color }} // red
+  {{ Ansi_2_Color }} // green 
+  {{ Ansi_3_Color }} // yellow
+  {{ Ansi_4_Color }} // blue
+  {{ Ansi_5_Color }} // magenta
+  {{ Ansi_6_Color }} // cyan
+  {{ Ansi_7_Color }} // white
+  {{ Ansi_8_Color }} // bright black
+  {{ Ansi_9_Color }} // bright red
+  {{ Ansi_10_Color }} // bright green
+  {{ Ansi_11_Color }} // bright yellow
+  {{ Ansi_12_Color }} // bright blue
+  {{ Ansi_13_Color }} // bright magenta
+  {{ Ansi_14_Color }} // bright cyan
+  {{ Ansi_15_Color }} // bright white
+
+  Eeach color has these fields:
+    - {{ Background_Color.hex }} for hex representation
+    - {{ Background_Color.rgb }} for rgb representation as a "(r, g, b)" string
+    - {{ Backgroun_Color.guint16 }} for guint16 representation
+
+  Also you have access to this metadata fields:
+    - {{ Guint16_Palette }} with a string containing all ansi colors as guint16 values
+    - {{ Dark_Theme }} which contains a sign that the theme is dark
+```
+3. If you need a new value type for color, add it too `tools/converter.py`
+4. Put your template file into `tool/templates`. A folder with schemas will be created based on the filename. And the file extension will remain with all generated ones. Example: `editor.ext` file will generate schemas as `editor/scheme_name.ext`
+5. Generate all existing themes for all templates `cd tools/ && ./gen.py`. Or, if you only want to generate schemas for your template, you can use the `-t` flag.
+  - `./gen.py -t kitty`
+6. If in the process you had to add new dependencies or update the version of python, do not forget to indicate this in `requirements.txt` or `.python-version`.
 
 ## Screenshots
 
