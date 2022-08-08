@@ -51,8 +51,8 @@ def process_file(data):
         "brightRed",
         "brightGreen",
         "brightYellow",
+        "brightBlue",
         "brightMagenta",
-        "brightPurple",
         "brightCyan",
         "brightWhite",
     ]
