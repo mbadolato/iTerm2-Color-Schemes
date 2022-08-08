@@ -79,7 +79,6 @@ if __name__ == '__main__':
         loader=file_system_loader,
         bar=progress_bar,
         path_to_iterm_schemes='../schemes/',
-        path_to_xrdb='../xrdb/',
         output_dir='../'
     )
 

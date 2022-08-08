@@ -9,7 +9,6 @@ from rich.progress import Progress
 
 iterm_re = re.compile("(.+)\.itermcolors$")
 iterm_ext = '.itermcolors'
-xrdb_ext = '.xrdb'
 hex_format = '%02x%02x%02x'
 
 red_comp = 'Red Component'
@@ -25,13 +24,11 @@ class Converter(object):
             loader: Environment,
             bar: Progress,
             path_to_iterm_schemes: str,
-            path_to_xrdb: str,
             output_dir: str
     ):
         self.bar = bar
         self.loader = loader
         self.iterm_dir = path_to_iterm_schemes
-        self.xrdb_dir = path_to_xrdb
         self.out_dir = output_dir
 
         self.templates = self.get_all_templates(templates)
@@ -63,7 +60,6 @@ class Converter(object):
         colors_dict = {}
 
         iterm_path = self.iterm_dir + scheme + iterm_ext
-        xrdb_path = self.xrdb_dir + scheme + xrdb_ext
 
         if not os.path.isfile(iterm_path):
             logging.error('Scheme ' + iterm_path + ' doesn\'t exist')
@@ -93,11 +89,6 @@ class Converter(object):
 
         f.close()
 
-        # xrdb files were used to generate themes, now it is not needed
-        # but in case someone uses them for other purposes, these files continue to be saved
-        if not os.path.isfile(xrdb_path):
-            self.generate_xrdb_file(xrdb_path, colors_dict)
-
         return colors_dict
 
     def detect_dark_theme(self, hex):
@@ -125,14 +116,6 @@ class Converter(object):
 
     def calculate_guint16(self, x):
         return str(int((x * 256)) + int((x * 256)) * 256)
-
-    def generate_xrdb_file(self, xrdb_path, hex_dict):
-        with open(xrdb_path, 'w') as f:
-            for color_name in hex_dict:
-                color_hex = hex_dict[color_name]
-                f.write('#define ' + color_name.replace(' ', '_') + ' #' + color_hex['hex'] + '\n')
-
-            f.close()
 
     def generate_from_template(self, task_id, colors, template):
         self.bar.update(task_id, total=len(self.schemes))

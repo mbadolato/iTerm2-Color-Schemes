@@ -1,0 +1,33 @@
+#define Ansi_0_Color #{{ Ansi_0_Color.hex }}
+#define Ansi_1_Color #{{ Ansi_1_Color.hex }}
+#define Ansi_10_Color #{{ Ansi_10_Color.hex }}
+#define Ansi_11_Color #{{ Ansi_11_Color.hex }}
+#define Ansi_12_Color #{{ Ansi_12_Color.hex }}
+#define Ansi_13_Color #{{ Ansi_13_Color.hex }}
+#define Ansi_14_Color #{{ Ansi_14_Color.hex }}
+#define Ansi_15_Color #{{ Ansi_15_Color.hex }}
+#define Ansi_2_Color #{{ Ansi_2_Color.hex }}
+#define Ansi_3_Color #{{ Ansi_3_Color.hex }}
+#define Ansi_4_Color #{{ Ansi_4_Color.hex }}
+#define Ansi_5_Color #{{ Ansi_5_Color.hex }}
+#define Ansi_6_Color #{{ Ansi_6_Color.hex }}
+#define Ansi_7_Color #{{ Ansi_7_Color.hex }}
+#define Ansi_8_Color #{{ Ansi_8_Color.hex }}
+#define Ansi_9_Color #{{ Ansi_9_Color.hex }}
+#define Background_Color #{{ Background_Color.hex }}
+{% if Badge_Color %}#define Badge_Color #{{ Badge_Color.hex }}
+{% endif %}
+#define Bold_Color #{{ Bold_Color.hex }}
+#define Cursor_Color #{{ Cursor_Color.hex }}
+{% if Cursor_Guide_Color %}#define Cursor_Guide_Color #{{ Cursor_Guide_Color.hex }}
+{% endif %}
+#define Cursor_Text_Color #{{ Cursor_Text_Color.hex }}
+#define Foreground_Color #{{ Foreground_Color.hex }}
+{% if Link_Color %}#define Link_Color #{{ Link_Color.hex }}
+{% endif %}
+#define Selected_Text_Color #{{ Selected_Text_Color.hex }}
+#define Selection_Color #{{ Selection_Color.hex }}
+{% if Tab_Color %}#define Tab_Color #{{ Tab_Color.hex }}
+{% endif %}
+{% if Underline_Color %}#define Underline_Color #{{ Underline_Color.hex }}
+{% endif %}
