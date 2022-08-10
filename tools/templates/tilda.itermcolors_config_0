@@ -1,0 +1,10 @@
+back_blue = {{ Background_Color.guint16.2 }}
+back_green = {{ Background_Color.guint16.1 }}
+back_red = {{ Background_Color.guint16.0 }}
+cursor_blue = {{ Cursor_Color.guint16.2 }}
+cursor_green = {{ Cursor_Color.guint16.1 }}
+cursor_red = {{ Cursor_Color.guint16.0 }}
+palette = {{ Guint16_Palette }}
+text_blue = {{ Foreground_Color.guint16.2 }}
+text_green = {{ Foreground_Color.guint16.1 }}
+text_red = {{ Foreground_Color.guint16.0 }}

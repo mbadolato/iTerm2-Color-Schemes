@@ -1,0 +1,50 @@
+
+themeName={{ scheme_name }}
+{% if Dark_Theme %}
+main-dark=#000
+main-light=#2E3338
+text=#ddd
+text-light=#fff
+text-dark=#888
+text-disabled=#777
+primary=#08c
+info=#FFD166
+success=#06D6A0
+error=#EF476F
+{% else %}
+main=#ededed
+main-dark=#cccccc
+main-light=#fefefe
+text=#555
+text-light=#777
+text-dark=#444
+text-disabled=#888
+primary=#08c
+info=#FFD166
+success=#06D6A0
+error=#EF476F
+warn=#E55934
+{% endif %}
+warn=#E55934
+main=#{{ Background_Color.hex }}
+terminal:background=#{{ Background_Color.hex }}
+terminal:foreground=#{{ Foreground_Color.hex }}
+terminal:cursor=#{{ Cursor_Color.hex }}
+terminal:selection=#{{ Selection_Color.hex }}
+terminal:cursorAccent=#{{ Background_Color.hex }}
+terminal:black=#{{ Ansi_0_Color.hex }}
+terminal:red=#{{ Ansi_1_Color.hex }}
+terminal:green=#{{ Ansi_2_Color.hex }}
+terminal:yellow=#{{ Ansi_3_Color.hex }}
+terminal:blue=#{{ Ansi_4_Color.hex }}
+terminal:magenta=#{{ Ansi_5_Color.hex }}
+terminal:cyan=#{{ Ansi_6_Color.hex }}
+terminal:white=#{{ Ansi_7_Color.hex }}
+terminal:brightBlack=#{{ Ansi_8_Color.hex }}
+terminal:brightRed=#{{ Ansi_9_Color.hex }}
+terminal:brightGreen=#{{ Ansi_10_Color.hex }}
+terminal:brightYellow=#{{ Ansi_11_Color.hex }}
+terminal:brightBlue=#{{ Ansi_12_Color.hex }}
+terminal:brightMagenta=#{{ Ansi_13_Color.hex }}
+terminal:brightCyan=#{{ Ansi_14_Color.hex }}
+terminal:brightWhite=#{{ Ansi_15_Color.hex }}

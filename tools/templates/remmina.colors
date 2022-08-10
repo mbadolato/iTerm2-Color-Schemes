@@ -1,0 +1,29 @@
+[ssh_colors]
+background = #{{ Background_Color.hex }}
+cursor = #{{ Cursor_Color.hex }}
+cursor_foreground = #{{ Cursor_Text_Color.hex }}
+foreground = #{{ Foreground_Color.hex }}
+highlight = #{{ Selection_Color.hex }}
+highlight_foreground = #{{ Selected_Text_Color.hex }}
+color0 = #{{ Ansi_0_Color.hex }}
+color1 = #{{ Ansi_1_Color.hex }}
+color2 = #{{ Ansi_2_Color.hex }}
+color3 = #{{ Ansi_3_Color.hex }}
+color4 = #{{ Ansi_4_Color.hex }}
+color5 = #{{ Ansi_5_Color.hex }}
+color6 = #{{ Ansi_6_Color.hex }}
+color7 = #{{ Ansi_7_Color.hex }}
+color8 = #{{ Ansi_8_Color.hex }}
+color9 = #{{ Ansi_9_Color.hex }}
+color10 = #{{ Ansi_10_Color.hex }}
+color11 = #{{ Ansi_11_Color.hex }}
+color12 = #{{ Ansi_12_Color.hex }}
+color13 = #{{ Ansi_13_Color.hex }}
+color14 = #{{ Ansi_14_Color.hex }}
+color15 = #{{ Ansi_15_Color.hex }}
+colorBD ={% if Bold_Color %} #{{ Bold_Color.hex }}{% endif %}
+
+colorIT ={% if Italic_Color %} #{{ Italic_Color.hex }}{% endif %}
+
+colorUL ={% if Underline_Color %} #{{ Underline_Color.hex }}{% endif %}
+

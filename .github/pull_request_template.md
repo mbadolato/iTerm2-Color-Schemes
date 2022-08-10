@@ -10,5 +10,5 @@ Explain the nature of your pull request here
 - [ ] Included 600x300 screenshot, 13pt Monaco font, no transparency
 - [ ] Updated `README.md` with new theme and screenshot
 - [ ] Updated `CREDITS.md` with new theme
-- [ ] Ran `tools/update_all.py` to generate themes in all formats
+- [ ] Ran `tools/gen.py` to generate themes in all formats
 - [ ] Updated `screenshots/README.md` with new theme

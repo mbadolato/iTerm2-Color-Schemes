@@ -1,0 +1,56 @@
+!
+! Generated with :
+! XRDB2Xreources.py
+!
+*.foreground:  #{{ Foreground_Color.hex }}
+*.background:  #{{ Background_Color.hex }}
+*.cursorColor: #{{ Cursor_Color.hex }}
+!
+! Black
+*.color0:      #{{ Ansi_0_Color.hex }}
+*.color8:      #{{ Ansi_8_Color.hex }}
+!
+! Red
+*.color1:      #{{ Ansi_1_Color.hex }}
+*.color9:      #{{ Ansi_9_Color.hex }}
+!
+! Green
+*.color2:      #{{ Ansi_2_Color.hex }}
+*.color10:     #{{ Ansi_10_Color.hex }}
+!
+! Yellow
+*.color3:      #{{ Ansi_3_Color.hex }}
+*.color11:     #{{ Ansi_11_Color.hex }}
+!
+! Blue
+*.color4:      #{{ Ansi_4_Color.hex }}
+*.color12:     #{{ Ansi_12_Color.hex }}
+!
+! Magenta
+*.color5:      #{{ Ansi_5_Color.hex }}
+*.color13:     #{{ Ansi_13_Color.hex }}
+!
+! Cyan
+*.color6:      #{{ Ansi_6_Color.hex }}
+*.color14:     #{{ Ansi_14_Color.hex }}
+!
+! White
+*.color7:      #{{ Ansi_7_Color.hex }}
+*.color15:     #{{ Ansi_15_Color.hex }}
+!
+! Bold, Italic, Underline
+{% if Bold_Color %}
+*.colorBD:     #{{ Bold_Color.hex }}
+{% else %}
+!*.colorBD:
+{% endif %}
+{% if Italic_Color %}
+*.colorIT:     #{{ Italic_Color.hex }}
+{% else %}
+!*.colorIT:
+{% endif %}
+{% if Underline_Color %}
+*.colorUL:     #{{ Underline_Color.hex }}
+{% else %}
+!*.colorUL:
+{% endif %}

@@ -1,0 +1,24 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#{{ Foreground_Color.hex }}",
+        "terminal.background": "#{{ Background_Color.hex }}",
+        "terminal.ansiBlack": "#{{ Ansi_0_Color.hex }}",
+        "terminal.ansiBlue": "#{{ Ansi_4_Color.hex }}",
+        "terminal.ansiCyan": "#{{ Ansi_6_Color.hex }}",
+        "terminal.ansiGreen": "#{{ Ansi_2_Color.hex }}",
+        "terminal.ansiMagenta": "#{{ Ansi_5_Color.hex }}",
+        "terminal.ansiRed": "#{{ Ansi_1_Color.hex }}",
+        "terminal.ansiWhite": "#{{ Ansi_7_Color.hex }}",
+        "terminal.ansiYellow": "#{{ Ansi_3_Color.hex }}",
+        "terminal.ansiBrightBlack": "#{{ Ansi_8_Color.hex }}",
+        "terminal.ansiBrightBlue": "#{{ Ansi_12_Color.hex }}",
+        "terminal.ansiBrightCyan": "#{{ Ansi_14_Color.hex }}",
+        "terminal.ansiBrightGreen": "#{{ Ansi_10_Color.hex }}",
+        "terminal.ansiBrightMagenta": "#{{ Ansi_13_Color.hex }}",
+        "terminal.ansiBrightRed": "#{{ Ansi_9_Color.hex }}",
+        "terminal.ansiBrightWhite": "#{{ Ansi_15_Color.hex }}",
+        "terminal.ansiBrightYellow": "#{{ Ansi_11_Color.hex }}",
+        "terminal.selectionBackground": "#{{ Selection_Color.hex }}",
+        "terminalCursor.foreground": "#{{ Cursor_Color.hex }}"
+    }
+}
