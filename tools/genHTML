@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'cgi'
+require 'addressable/uri'
 
 # Levenshtein distance implementation taken from:
 # https://stackoverflow.com/a/16323861/155351
@@ -91,8 +91,8 @@ url_root = ( ARGV.empty? ?
 build_screenshot_scheme_map.reject{|pair| pair.last.nil?}.each do |screenshot_name, scheme_name|
   puts <<-HTML
 
-<p><a href="#{url_root}/schemes/#{CGI.escape(scheme_name)}.itermcolors"><strong>#{scheme_name}</strong></a></p>
+<p><a href="#{url_root}/schemes/#{Addressable::URI.escape(scheme_name)}.itermcolors"><strong>#{scheme_name}</strong></a></p>
 
-<p><img src="#{url_root}/screenshots/#{CGI.escape(screenshot_name)}.png" alt="Screenshot"></p>
+<p><img src="#{url_root}/screenshots/#{Addressable::URI.escape(screenshot_name)}.png" alt="Screenshot"></p>
   HTML
 end
