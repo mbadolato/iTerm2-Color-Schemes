@@ -122,7 +122,9 @@ The scheme Github was inspired by the color theme palette used at [Github](https
 
 The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncanson)
 
-The Gruvbox Dark theme was created by [morhetz](https://github.com/morhetz) and added by [mcchrish](https://github.com/mcchrish)
+The Gruvbox Dark theme was created by [morhetz](https://github.com/morhetz) and added by [saccarosium](https://github.com/mcchrish)
+
+The Gruvbox Dark Hard theme was created by [morhetz](https://github.com/morhetz) and added by [saccarosium](https://github.com/saccarosium)
 
 The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
 
