@@ -94,6 +94,8 @@ The ENCOM theme was created by [Josh Braun](http://wideaperture.net)
 
 The Espresso Libre theme was created by [jurgemaister](https://github.com/jurgemaister/Espresso-Libre)
 
+The Everblush theme was created by [Mangeshrex](https://github.com/Mangeshrex)
+
 The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
 
 The FairyFloss theme was created by [rebecabordini](https://github.com/rebecabordini) based on [sailorhg](https://sailorhg.github.io/fairyfloss/) VS Code theme.

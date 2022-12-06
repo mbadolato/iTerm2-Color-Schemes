@@ -468,6 +468,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/espresso_libre.png)
 
+### Everblush
+
+![Screenshot](screenshots/everblush.png)
+
 ### Fairyfloss
 
 ![Screenshot](screenshots/fairyfloss.png)
