@@ -988,6 +988,18 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/rippedcasts.png)
 
+### Rosé Pine
+
+![Screenshot](screenshots/rose-pine.png)
+
+### Rosé Pine Dawn
+
+![Screenshot](screenshots/rose-pine-dawn.png)
+
+### Rosé Pine Moon
+
+![Screenshot](screenshots/rose-pine-moon.png)
+
 ### Rouge 2
 
 ![Screenshot](screenshots/rouge_2.png)

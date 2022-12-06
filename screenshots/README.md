@@ -792,6 +792,18 @@
 
 ![image](rippedcasts.png)
 
+`rose-pine.png`
+
+![image](rose-pine.png)
+
+`rose-pine-dawn.png`
+
+![image](rose-pine-dawn.png)
+
+`rose-pine-moon.png`
+
+![image](rose-pine-moon.png)
+
 `rouge_2.png`
 
 ![image](rouge_2.png)

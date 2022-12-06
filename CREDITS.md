@@ -260,6 +260,8 @@ The Retro theme was created by [Rob Latour](https://github.com/roblatour)
 
 The Rippedcasts theme was created by [mdw123](https://github.com/mdw123/rippedcasts)
 
+The Rosé Pine themes were created by the [Rosé Pine](https://github.com/orgs/rose-pine/people) team
+
 The Rouge 2 theme was created by [Josef Aidt](https://github.com/josefaidt/rouge-theme) and ported to iTerm2 by [Sam Rose](https://github.com/samrose3).
 
 The Ryuuko theme was created by [dylanaraps](https://github.com/dylanaraps) and added by [iandrewt](https://github.com/iandrewt)
