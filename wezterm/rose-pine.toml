@@ -1,0 +1,12 @@
+# rose-pine
+[colors]
+foreground = "#e0def4"
+background = "#191724"
+cursor_bg = "#e0def4"
+cursor_border = "#e0def4"
+cursor_fg = "#191724"
+selection_bg = "#191724"
+selection_fg = "#e0def4"
+
+ansi = ["#26233a","#eb6f92","#9ccfd8","#f6c177","#31748f","#c4a7e7","#ebbcba","#e0def4"]
+brights = ["#6e6a86","#eb6f92","#9ccfd8","#f6c177","#31748f","#c4a7e7","#ebbcba","#e0def4"]

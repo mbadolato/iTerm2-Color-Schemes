@@ -328,6 +328,22 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/calamity.png)
 
+### Catppuccin Frappé
+
+![Screenshot](screenshots/catppuccin-frappe.png)
+
+### Catppuccin Latte
+
+![Screenshot](screenshots/catppuccin-latte.png)
+
+### Catppuccin Macchiato
+
+![Screenshot](screenshots/catppuccin-macchiato.png)
+
+### Catppuccin Mocha
+
+![Screenshot](screenshots/catppuccin-mocha.png)
+
 ### CGA
 
 ![Screenshot](screenshots/CGA.png)
@@ -467,6 +483,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Espresso Libre
 
 ![Screenshot](screenshots/espresso_libre.png)
+
+### Everblush
+
+![Screenshot](screenshots/everblush.png)
 
 ### Fairyfloss
 
@@ -983,6 +1003,18 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Rippedcasts
 
 ![Screenshot](screenshots/rippedcasts.png)
+
+### Rosé Pine
+
+![Screenshot](screenshots/rose-pine.png)
+
+### Rosé Pine Dawn
+
+![Screenshot](screenshots/rose-pine-dawn.png)
+
+### Rosé Pine Moon
+
+![Screenshot](screenshots/rose-pine-moon.png)
 
 ### Rouge 2
 

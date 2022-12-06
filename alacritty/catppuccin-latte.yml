@@ -1,0 +1,29 @@
+# Colors (catppuccin-latte)
+colors:
+  bright:
+    black: '#6c6f85'
+    blue: '#1e66f5'
+    cyan: '#179299'
+    green: '#40a02b'
+    magenta: '#ea76cb'
+    red: '#d20f39'
+    white: '#bcc0cc'
+    yellow: '#df8e1d'
+  cursor:
+    cursor: '#dc8a78'
+    text: '#4c4f69'
+  normal:
+    black: '#5c5f77'
+    blue: '#1e66f5'
+    cyan: '#179299'
+    green: '#40a02b'
+    magenta: '#ea76cb'
+    red: '#d20f39'
+    white: '#acb0be'
+    yellow: '#df8e1d'
+  primary:
+    background: '#eff1f5'
+    foreground: '#4c4f69'
+  selection:
+    background: '#acb0be'
+    text: '#4c4f69'
