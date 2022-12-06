@@ -328,6 +328,22 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/calamity.png)
 
+### Catppuccin Frappé
+
+![Screenshot](screenshots/catppuccin-frappe.png)
+
+### Catppuccin Latte
+
+![Screenshot](screenshots/catppuccin-latte.png)
+
+### Catppuccin Macchiato
+
+![Screenshot](screenshots/catppuccin-macchiato.png)
+
+### Catppuccin Mocha
+
+![Screenshot](screenshots/catppuccin-mocha.png)
+
 ### CGA
 
 ![Screenshot](screenshots/CGA.png)

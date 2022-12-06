@@ -168,6 +168,22 @@
 
 ![image](calamity.png)
 
+`catppuccin-frappe`
+
+![image](catppuccin-frappe.png)
+
+`catppuccin-latte`
+
+![image](catppuccin-latte.png)
+
+`catppuccin-macchiato`
+
+![image](catppuccin-macchiato.png)
+
+`catppuccin-mocha`
+
+![image](catppuccin-mocha.png)
+
 `CGA.png`
 
 ![image](CGA.png)

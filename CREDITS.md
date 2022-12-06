@@ -52,6 +52,8 @@ The Broadcast theme was created by [vinkla](https://github.com/vinkla/broadcast-
 
 The Calamity and Rapture themes were created by [Pustur](https://github.com/Pustur)
 
+The Catppuccin themes were created by the [Catppuccin](https://github.com/orgs/catppuccin/people) team
+
 The CGA theme was created by [jdhmtl](https://github.com/jdhmtl).
 
 The Chalk theme was created by [achalv](https://github.com/achalv/chalk)
