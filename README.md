@@ -188,6 +188,11 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/andromeda.png)
 
+
+### Apple Classic
+
+![Screenshot](screenshots/apple-classic.png)
+
 ### Arcoiris
 
 ![Screenshot](screenshots/arcoiris.png)
