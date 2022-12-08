@@ -32,6 +32,10 @@
 
 ![image](andromeda.png)
 
+`apple-classic.png`
+
+![image](apple-classic.png)
+
 `argonaut.png`
 
 ![image](argonaut.png)
