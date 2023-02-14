@@ -595,7 +595,7 @@ Gruvbox Material Dark
 
 Gruvbox Mix Dark
 
-#TODO don't know how to generate these
+![Gruvbox_Mix_Dark](screenshots/Gruvbox_Mix_Dark.png)
 ### Guezwhoz
 
 ![Screenshot](screenshots/Guezwhoz.png)
