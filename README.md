@@ -589,6 +589,13 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/gruvbox_light.png)
 
+Gruvbox Material Dark
+
+![gruvbox-material-iterm2.png](screenshots/gruvbox-material-iterm2.png)
+
+Gruvbox Mix Dark
+
+#TODO don't know how to generate these
 ### Guezwhoz
 
 ![Screenshot](screenshots/Guezwhoz.png)

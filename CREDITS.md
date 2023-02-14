@@ -134,6 +134,10 @@ The Gruvbox Dark Hard theme was created by [morhetz](https://github.com/morhetz)
 
 The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
 
+The Gruvbox Material Dark theme was created by [AmmarCodes](https://github.com/AmmarCodes) added by [Geezus42](https://github.com/geezus42)
+
+The Gruvbox Material Dark theme was created by [sainnhe](https://github.com/sainnhe) added by [Geezus42](https://github.com/geezus42)
+
 The Grey-green theme was created by [lee](https://github.com/yg66)
 
 The Guezwhoz theme was created by [Egor Lem](https://github.com/guesswhozzz/guezwhoz-iterm2-theme)
