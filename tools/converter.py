@@ -83,7 +83,7 @@ class Converter(object):
             for color_index in range(16):
                 key = 'Ansi %d Color' % color_index
                 guint16_pallete += self.calculcate_color_components_guint16(plist[key])
-            
+
             colors_dict['Guint16_Palette'] = '{%s}' % ', '.join(guint16_pallete)
             colors_dict['Dark_Theme'] = self.detect_dark_theme(int(colors_dict['Background_Color']['hex'], 16))
 
@@ -111,7 +111,7 @@ class Converter(object):
         r = self.calculate_guint16(color_components[red_comp])
         g = self.calculate_guint16(color_components[green_comp])
         b = self.calculate_guint16(color_components[blue_comp])
-        
+
         return (r, g, b)
 
     def calculate_guint16(self, x):
@@ -133,6 +133,8 @@ class Converter(object):
             f = open(destination, 'w')
             f.write(result)
             f.close()
+            if (result.startswith('#!')):
+                os.chmod(destination, 0o755)
             self.bar.update(task_id, advance=1)
 
     def run(self):
