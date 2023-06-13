@@ -24,7 +24,11 @@ preview = files.length > 1
 history = []
 until files.empty?
   file = files.shift
-  print "[#{File.basename file, '.*'}] " if preview
+  if preview
+    puts `tput cup 0 0`       # goto top of screen
+    print "[#{File.basename file, '.*'}] "
+    puts `tput el`            # clear to eol
+  end
   begin
     colors = {}
     root = REXML::Document.new(File.read file).root
