@@ -1,0 +1,29 @@
+# Colors (niji)
+colors:
+  bright:
+    black: '#515151'
+    blue: '#8efff3'
+    cyan: '#bcffc7'
+    green: '#c1ffae'
+    magenta: '#ffa2ed'
+    red: '#ffb7b7'
+    white: '#ffffff'
+    yellow: '#fcffb8'
+  cursor:
+    cursor: '#ffc663'
+    text: '#141515'
+  normal:
+    black: '#333333'
+    blue: '#2ab9ff'
+    cyan: '#1ef9f5'
+    green: '#54ca74'
+    magenta: '#ff50da'
+    red: '#d23e08'
+    white: '#ddd0c4'
+    yellow: '#fff700'
+  primary:
+    background: '#141515'
+    foreground: '#ffffff'
+  selection:
+    background: '#515151'
+    text: '#ffc663'

@@ -1,0 +1,12 @@
+# niji
+[colors]
+foreground = "#ffffff"
+background = "#141515"
+cursor_bg = "#ffc663"
+cursor_border = "#ffc663"
+cursor_fg = "#141515"
+selection_bg = "#515151"
+selection_fg = "#ffc663"
+
+ansi = ["#333333","#d23e08","#54ca74","#fff700","#2ab9ff","#ff50da","#1ef9f5","#ddd0c4"]
+brights = ["#515151","#ffb7b7","#c1ffae","#fcffb8","#8efff3","#ffa2ed","#bcffc7","#ffffff"]
