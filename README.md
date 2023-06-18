@@ -857,6 +857,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/night_owlish_light.png)
 
+### Niji
+
+![Screenshot](screenshots/niji.png)
+
 ### Novel
 
 ![Screenshot](screenshots/novel.png)
