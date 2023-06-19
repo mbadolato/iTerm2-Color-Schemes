@@ -214,6 +214,8 @@ The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/c
 
 The Night Owlish Light theme was created by [praveenpuglia](https://github.com/praveenpuglia) based on [sdras](https://github.com/sdras)'s [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VS Code theme.
 
+The Niji theme was created by [some dude](https://github.com/indyandie) based on [Arcoiris ](./README.md#niji) and [darcula](https://github.com/helix-editor/helix/blob/d5af6031f6ccd0a3f32efbb210aec24cd9c71ab1/runtime/themes/darcula.toml)
+
 The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Shriram-Balaji)
 
 Nord theme were added by [Teraskull](https://github.com/Teraskull)
