@@ -19,6 +19,7 @@
   - [Visual Studio Code color schemes](#visual-studio-code-color-schemes)
   - [Windows Terminal color schemes](#windows-terminal-color-schemes)
   - [Alacritty color schemes](#alacritty-color-schemes)
+  - [Termux color schemes](#termux-color-schemes)
 
 ## Intro
 
@@ -1542,6 +1543,9 @@ Copy the theme content from `windowsterminal/` and paste the content to your `pr
 ### Alacritty color schemes
 
 Copy the theme content from `alacritty/` and paste the content to your [alacritty config file](https://github.com/alacritty/alacritty/blob/master/alacritty.yml).
+
+### Termux color schemes
+Copy the theme content from `termux/` and paste the content to `~/.termux` directory as `~/.termux/colors.properties` file and run `termux-reload-settings` to apply the theme.
 
 ### Previewing color schemes
 
