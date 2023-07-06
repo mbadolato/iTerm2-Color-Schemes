@@ -504,6 +504,10 @@
 
 ![image](ir_black.png)
 
+`iterm2-default.png`
+
+![image](iterm2-default.png)
+
 `jackie_brown.png`
 
 ![image](jackie_brown.png)
