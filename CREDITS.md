@@ -160,6 +160,8 @@ The scheme idleToes was inspired by the [idleFingers](http://www.idlefingers.co.
 
 The IR_Black theme was found [here](https://gist.github.com/meqif/1238378)
 
+The iTerm2 Default theme is a port of the default colour scheme of [iTerm2](https://iterm2.com/).
+
 The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors)
 
 The Jellybeans theme was created by [qtpi](https://github.com/qtpi/Jellybeans.itermcolors)
