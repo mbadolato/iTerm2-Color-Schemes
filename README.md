@@ -673,6 +673,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/ir_black.png)
 
+### iTerm2 Default
+
+![Screenshot](screenshots/iterm2-default.png)
+
 ### Jackie Brown
 
 ![Screenshot](screenshots/jackie_brown.png)
