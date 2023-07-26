@@ -480,6 +480,38 @@
 
 ![image](iterm2-default.png)
 
+`iterm2-dark-background.png`
+
+![image](iterm2-dark-background.png)
+
+`iterm2-light-background.png`
+
+![image](iterm2-light-background.png)
+
+`iterm2-pastel-dark-background.png`
+
+![image](iterm2-pastel-dark-background.png)
+
+`iterm2-smoooooth.png`
+
+![image](iterm2-smoooooth.png)
+
+`iterm2-solarized-dark.png`
+
+![image](iterm2-solarized-dark.png)
+
+`iterm2-solarized-light.png`
+
+![image](iterm2-solarized-light.png)
+
+`iterm2-tango-dark.png`
+
+![image](iterm2-tango-dark.png)
+
+`iterm2-tango-light.png`
+
+![image](iterm2-tango-light.png)
+
 `jackie_brown.png`
 
 ![image](jackie_brown.png)
