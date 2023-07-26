@@ -93,7 +93,7 @@ Have a great iTerm theme? Send it to me via a Pull Request!
     - Save the .itermcolors file
 2. Put your theme file into `/schemes/`
     - `mv <your-itermcolors-file> schemes/`
-3. Generate other formats for your theme using the `update_all.py` script.
+3. Generate other formats for your theme using the `gen.py` script.
     - `cd tools/ && python3 gen.py` OR
     - `cd tools/ && ./gen.py`
 4. If you only want to generate files for your theme, you can specify this with the `-s` flag.
