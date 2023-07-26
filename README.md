@@ -1364,9 +1364,9 @@ more information.
 
 ## Credits
 
-The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the exception of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
-
-Credits for all other themes are listed in [CREDITS.md](./CREDITS.md)
+- The schemes _Novel_, _Espresso_, _Grass_, _Homebrew_, _Ocean_, _Pro_, _Man Page_, _Red Sands_, and _Terminal Basic_ are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the exception of _Solid Colors_ (random backgrounds, which iTerm doesn't support) and _Aerogel_ (which is hideous).
+- The schemes _iTerm2 Default_, _iTerm2 Dark Background_, _iTerm2 Light Background_, _iTerm2 Pastel (Dark Background)_, _iTerm2 Smoooooth_, _iTerm2 Solarized Dark_, _iTerm2 Solarized Light_, _iTerm2 Tango Dark_, and _iTerm2 Tango Light_ are ports from the built-in color schemes of iTerm2 (current source is iTerm2 v3.4.19).
+- Credits for all other themes are listed in [CREDITS.md](./CREDITS.md)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
