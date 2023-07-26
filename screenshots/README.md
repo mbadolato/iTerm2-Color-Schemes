@@ -136,34 +136,6 @@
 
 ![image](brogrammer.png)
 
-`builtin_dark.png`
-
-![image](builtin_dark.png)
-
-`builtin_light.png`
-
-![image](builtin_light.png)
-
-`builtin_pastel_dark.png`
-
-![image](builtin_pastel_dark.png)
-
-`builtin_solarized_dark.png`
-
-![image](builtin_solarized_dark.png)
-
-`builtin_solarized_light.png`
-
-![image](builtin_solarized_light.png)
-
-`builtin_tango_dark.png`
-
-![image](builtin_tango_dark.png)
-
-`builtin_tango_light.png`
-
-![image](builtin_tango_light.png)
-
 `c64.png`
 
 ![image](c64.png)

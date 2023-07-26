@@ -297,34 +297,6 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/brogrammer.png)
 
-### Builtin Dark
-
-![Screenshot](screenshots/builtin_dark.png)
-
-### Builtin Light
-
-![Screenshot](screenshots/builtin_light.png)
-
-### Builtin Pastel Dark
-
-![Screenshot](screenshots/builtin_pastel_dark.png)
-
-### Builtin Solarized Dark
-
-![Screenshot](screenshots/builtin_solarized_dark.png)
-
-### Builtin Solarized Light
-
-![Screenshot](screenshots/builtin_solarized_light.png)
-
-### Builtin Tango Dark
-
-![Screenshot](screenshots/builtin_tango_dark.png)
-
-### Builtin Tango Light
-
-![Screenshot](screenshots/builtin_tango_light.png)
-
 ### C64
 
 ![Screenshot](screenshots/c64.png)
