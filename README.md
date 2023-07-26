@@ -649,6 +649,38 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/iterm2-default.png)
 
+### iTerm2 Dark Background
+
+![Screenshot](screenshots/iterm2-dark-background.png)
+
+### iTerm2 Light Background
+
+![Screenshot](screenshots/iterm2-light-background.png)
+
+### iTerm2 Pastel (Dark Background)
+
+![Screenshot](screenshots/iterm2-pastel-dark-background.png)
+
+### iTerm2 Smoooooth
+
+![Screenshot](screenshots/iterm2-smoooooth.png)
+
+### iTerm2 Solarized Dark
+
+![Screenshot](screenshots/iterm2-solarized-dark.png)
+
+### iTerm2 Solarized Light
+
+![Screenshot](screenshots/iterm2-solarized-light.png)
+
+### iTerm2 Tango Dark
+
+![Screenshot](screenshots/iterm2-tango-dark.png)
+
+### iTerm2 Tango Light
+
+![Screenshot](screenshots/iterm2-tango-light.png)
+
 ### Jackie Brown
 
 ![Screenshot](screenshots/jackie_brown.png)
