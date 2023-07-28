@@ -1,0 +1,12 @@
+# iTerm2 Light Background
+[colors]
+foreground = "#000000"
+background = "#ffffff"
+cursor_bg = "#000000"
+cursor_border = "#000000"
+cursor_fg = "#ffffff"
+selection_bg = "#c1deff"
+selection_fg = "#000000"
+
+ansi = ["#000000","#c91b00","#00c200","#c7c400","#0225c7","#ca30c7","#00c5c7","#c7c7c7"]
+brights = ["#686868","#ff6e67","#5ffa68","#fffc67","#6871ff","#ff77ff","#60fdff","#ffffff"]

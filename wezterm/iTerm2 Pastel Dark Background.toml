@@ -1,0 +1,12 @@
+# iTerm2 Pastel Dark Background
+[colors]
+foreground = "#c7c7c7"
+background = "#000000"
+cursor_bg = "#ffb473"
+cursor_border = "#ffb473"
+cursor_fg = "#ffffff"
+selection_bg = "#454d96"
+selection_fg = "#f4f4f4"
+
+ansi = ["#626262","#ff8373","#b4fb73","#fffdc3","#a5d5fe","#ff90fe","#d1d1fe","#f1f1f1"]
+brights = ["#8f8f8f","#ffc4be","#d6fcba","#fffed5","#c2e3ff","#ffb2fe","#e6e6fe","#ffffff"]
