@@ -1552,6 +1552,11 @@ Copy the theme content from `windowsterminal/` and paste the content to your `pr
 
 Copy the theme content from `alacritty/` and paste the content to your [alacritty config file](https://github.com/alacritty/alacritty/blob/master/alacritty.yml).
 
+### Rio color schemes
+
+Copy the theme file from `rio/` and paste to your rio theme config directory (typically `~/.config/rio/themes/`).
+Then specify the name of your theme in the `theme` field in the [config file](https://raphamorim.io/rio/docs/#configuration-file).
+
 ### Termux color schemes
 Copy the theme content from `termux/` and paste the content to `~/.termux` directory as `~/.termux/colors.properties` file and run `termux-reload-settings` to apply the theme.
 

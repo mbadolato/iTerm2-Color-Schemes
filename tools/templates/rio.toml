@@ -1,0 +1,28 @@
+[colors]
+background = '#{{ Background_Color.hex }}'
+foreground = '#{{ Foreground_Color.hex }}'
+{% if Selection_Color %}
+selection-background = '#{{ Selection_Color.hex }}'
+{% endif %}
+{% if Selected_Text_Color %}
+selection-foreground = '#{{ Selected_Text_Color.hex }}'
+{% endif %}
+{% if Cursor_Color %}
+cursor = '#{{ Cursor_Color.hex }}'
+{% endif %}
+black = '#{{ Ansi_0_Color.hex }}'
+red = '#{{ Ansi_1_Color.hex }}'
+green = '#{{ Ansi_2_Color.hex }}'
+yellow = '#{{ Ansi_3_Color.hex }}'
+blue = '#{{ Ansi_4_Color.hex }}'
+magenta = '#{{ Ansi_5_Color.hex }}'
+cyan = '#{{ Ansi_6_Color.hex }}'
+white = '#{{ Ansi_7_Color.hex }}'
+light_black = '#{{ Ansi_8_Color.hex }}'
+light_red = '#{{ Ansi_9_Color.hex }}'
+light_green = '#{{ Ansi_10_Color.hex }}'
+light_yellow = '#{{ Ansi_11_Color.hex }}'
+light_blue = '#{{ Ansi_12_Color.hex }}'
+light_magenta = '#{{ Ansi_13_Color.hex }}'
+light_cyan = '#{{ Ansi_14_Color.hex }}'
+light_white = '#{{ Ansi_15_Color.hex }}'
