@@ -136,34 +136,6 @@
 
 ![image](brogrammer.png)
 
-`builtin_dark.png`
-
-![image](builtin_dark.png)
-
-`builtin_light.png`
-
-![image](builtin_light.png)
-
-`builtin_pastel_dark.png`
-
-![image](builtin_pastel_dark.png)
-
-`builtin_solarized_dark.png`
-
-![image](builtin_solarized_dark.png)
-
-`builtin_solarized_light.png`
-
-![image](builtin_solarized_light.png)
-
-`builtin_tango_dark.png`
-
-![image](builtin_tango_dark.png)
-
-`builtin_tango_light.png`
-
-![image](builtin_tango_light.png)
-
 `c64.png`
 
 ![image](c64.png)
@@ -503,6 +475,42 @@
 `ir_black.png`
 
 ![image](ir_black.png)
+
+`iterm2-default.png`
+
+![image](iterm2-default.png)
+
+`iterm2-dark-background.png`
+
+![image](iterm2-dark-background.png)
+
+`iterm2-light-background.png`
+
+![image](iterm2-light-background.png)
+
+`iterm2-pastel-dark-background.png`
+
+![image](iterm2-pastel-dark-background.png)
+
+`iterm2-smoooooth.png`
+
+![image](iterm2-smoooooth.png)
+
+`iterm2-solarized-dark.png`
+
+![image](iterm2-solarized-dark.png)
+
+`iterm2-solarized-light.png`
+
+![image](iterm2-solarized-light.png)
+
+`iterm2-tango-dark.png`
+
+![image](iterm2-tango-dark.png)
+
+`iterm2-tango-light.png`
+
+![image](iterm2-tango-light.png)
 
 `jackie_brown.png`
 

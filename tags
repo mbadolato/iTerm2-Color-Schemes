@@ -45,13 +45,6 @@ BackgroundColour	mobaxterm/Breeze.ini	/^BackgroundColour=49,54,59$/;"	k	section:
 BackgroundColour	mobaxterm/Bright Lights.ini	/^BackgroundColour=25,25,25$/;"	k	section:Colors
 BackgroundColour	mobaxterm/Broadcast.ini	/^BackgroundColour=43,43,43$/;"	k	section:Colors
 BackgroundColour	mobaxterm/Brogrammer.ini	/^BackgroundColour=19,19,19$/;"	k	section:Colors
-BackgroundColour	mobaxterm/Builtin Dark.ini	/^BackgroundColour=0,0,0$/;"	k	section:Colors
-BackgroundColour	mobaxterm/Builtin Light.ini	/^BackgroundColour=255,255,255$/;"	k	section:Colors
-BackgroundColour	mobaxterm/Builtin Pastel Dark.ini	/^BackgroundColour=0,0,0$/;"	k	section:Colors
-BackgroundColour	mobaxterm/Builtin Solarized Dark.ini	/^BackgroundColour=0,43,54$/;"	k	section:Colors
-BackgroundColour	mobaxterm/Builtin Solarized Light.ini	/^BackgroundColour=253,246,227$/;"	k	section:Colors
-BackgroundColour	mobaxterm/Builtin Tango Dark.ini	/^BackgroundColour=0,0,0$/;"	k	section:Colors
-BackgroundColour	mobaxterm/Builtin Tango Light.ini	/^BackgroundColour=255,255,255$/;"	k	section:Colors
 BackgroundColour	mobaxterm/C64.ini	/^BackgroundColour=64,49,141$/;"	k	section:Colors
 BackgroundColour	mobaxterm/CGA.ini	/^BackgroundColour=0,0,0$/;"	k	section:Colors
 BackgroundColour	mobaxterm/CLRS.ini	/^BackgroundColour=255,255,255$/;"	k	section:Colors
@@ -330,13 +323,6 @@ Black	mobaxterm/Breeze.ini	/^Black=49,54,59$/;"	k	section:Colors
 Black	mobaxterm/Bright Lights.ini	/^Black=25,25,25$/;"	k	section:Colors
 Black	mobaxterm/Broadcast.ini	/^Black=0,0,0$/;"	k	section:Colors
 Black	mobaxterm/Brogrammer.ini	/^Black=31,31,31$/;"	k	section:Colors
-Black	mobaxterm/Builtin Dark.ini	/^Black=0,0,0$/;"	k	section:Colors
-Black	mobaxterm/Builtin Light.ini	/^Black=0,0,0$/;"	k	section:Colors
-Black	mobaxterm/Builtin Pastel Dark.ini	/^Black=79,79,79$/;"	k	section:Colors
-Black	mobaxterm/Builtin Solarized Dark.ini	/^Black=7,54,66$/;"	k	section:Colors
-Black	mobaxterm/Builtin Solarized Light.ini	/^Black=7,54,66$/;"	k	section:Colors
-Black	mobaxterm/Builtin Tango Dark.ini	/^Black=0,0,0$/;"	k	section:Colors
-Black	mobaxterm/Builtin Tango Light.ini	/^Black=0,0,0$/;"	k	section:Colors
 Black	mobaxterm/C64.ini	/^Black=9,3,0$/;"	k	section:Colors
 Black	mobaxterm/CGA.ini	/^Black=0,0,0$/;"	k	section:Colors
 Black	mobaxterm/CLRS.ini	/^Black=0,0,0$/;"	k	section:Colors
@@ -615,13 +601,6 @@ Blue	mobaxterm/Breeze.ini	/^Blue=29,153,243$/;"	k	section:Colors
 Blue	mobaxterm/Bright Lights.ini	/^Blue=118,212,255$/;"	k	section:Colors
 Blue	mobaxterm/Broadcast.ini	/^Blue=109,156,190$/;"	k	section:Colors
 Blue	mobaxterm/Brogrammer.ini	/^Blue=42,132,210$/;"	k	section:Colors
-Blue	mobaxterm/Builtin Dark.ini	/^Blue=0,0,187$/;"	k	section:Colors
-Blue	mobaxterm/Builtin Light.ini	/^Blue=0,0,187$/;"	k	section:Colors
-Blue	mobaxterm/Builtin Pastel Dark.ini	/^Blue=150,203,254$/;"	k	section:Colors
-Blue	mobaxterm/Builtin Solarized Dark.ini	/^Blue=38,139,210$/;"	k	section:Colors
-Blue	mobaxterm/Builtin Solarized Light.ini	/^Blue=38,139,210$/;"	k	section:Colors
-Blue	mobaxterm/Builtin Tango Dark.ini	/^Blue=52,101,164$/;"	k	section:Colors
-Blue	mobaxterm/Builtin Tango Light.ini	/^Blue=52,101,164$/;"	k	section:Colors
 Blue	mobaxterm/C64.ini	/^Blue=64,49,141$/;"	k	section:Colors
 Blue	mobaxterm/CGA.ini	/^Blue=0,0,170$/;"	k	section:Colors
 Blue	mobaxterm/CLRS.ini	/^Blue=19,92,208$/;"	k	section:Colors
@@ -900,13 +879,6 @@ BoldBlack	mobaxterm/Breeze.ini	/^BoldBlack=127,140,141$/;"	k	section:Colors
 BoldBlack	mobaxterm/Bright Lights.ini	/^BoldBlack=25,25,25$/;"	k	section:Colors
 BoldBlack	mobaxterm/Broadcast.ini	/^BoldBlack=50,50,50$/;"	k	section:Colors
 BoldBlack	mobaxterm/Brogrammer.ini	/^BoldBlack=214,219,229$/;"	k	section:Colors
-BoldBlack	mobaxterm/Builtin Dark.ini	/^BoldBlack=85,85,85$/;"	k	section:Colors
-BoldBlack	mobaxterm/Builtin Light.ini	/^BoldBlack=85,85,85$/;"	k	section:Colors
-BoldBlack	mobaxterm/Builtin Pastel Dark.ini	/^BoldBlack=124,124,124$/;"	k	section:Colors
-BoldBlack	mobaxterm/Builtin Solarized Dark.ini	/^BoldBlack=0,43,54$/;"	k	section:Colors
-BoldBlack	mobaxterm/Builtin Solarized Light.ini	/^BoldBlack=0,43,54$/;"	k	section:Colors
-BoldBlack	mobaxterm/Builtin Tango Dark.ini	/^BoldBlack=85,87,83$/;"	k	section:Colors
-BoldBlack	mobaxterm/Builtin Tango Light.ini	/^BoldBlack=85,87,83$/;"	k	section:Colors
 BoldBlack	mobaxterm/C64.ini	/^BoldBlack=0,0,0$/;"	k	section:Colors
 BoldBlack	mobaxterm/CGA.ini	/^BoldBlack=85,85,85$/;"	k	section:Colors
 BoldBlack	mobaxterm/CLRS.ini	/^BoldBlack=85,87,83$/;"	k	section:Colors
@@ -1185,13 +1157,6 @@ BoldBlue	mobaxterm/Breeze.ini	/^BoldBlue=61,174,233$/;"	k	section:Colors
 BoldBlue	mobaxterm/Bright Lights.ini	/^BoldBlue=118,213,255$/;"	k	section:Colors
 BoldBlue	mobaxterm/Broadcast.ini	/^BoldBlue=159,206,240$/;"	k	section:Colors
 BoldBlue	mobaxterm/Brogrammer.ini	/^BoldBlue=16,129,214$/;"	k	section:Colors
-BoldBlue	mobaxterm/Builtin Dark.ini	/^BoldBlue=85,85,255$/;"	k	section:Colors
-BoldBlue	mobaxterm/Builtin Light.ini	/^BoldBlue=85,85,255$/;"	k	section:Colors
-BoldBlue	mobaxterm/Builtin Pastel Dark.ini	/^BoldBlue=181,220,255$/;"	k	section:Colors
-BoldBlue	mobaxterm/Builtin Solarized Dark.ini	/^BoldBlue=131,148,150$/;"	k	section:Colors
-BoldBlue	mobaxterm/Builtin Solarized Light.ini	/^BoldBlue=131,148,150$/;"	k	section:Colors
-BoldBlue	mobaxterm/Builtin Tango Dark.ini	/^BoldBlue=114,159,207$/;"	k	section:Colors
-BoldBlue	mobaxterm/Builtin Tango Light.ini	/^BoldBlue=114,159,207$/;"	k	section:Colors
 BoldBlue	mobaxterm/C64.ini	/^BoldBlue=64,49,141$/;"	k	section:Colors
 BoldBlue	mobaxterm/CGA.ini	/^BoldBlue=85,85,255$/;"	k	section:Colors
 BoldBlue	mobaxterm/CLRS.ini	/^BoldBlue=22,112,255$/;"	k	section:Colors
@@ -1470,13 +1435,6 @@ BoldCyan	mobaxterm/Breeze.ini	/^BoldCyan=22,160,133$/;"	k	section:Colors
 BoldCyan	mobaxterm/Bright Lights.ini	/^BoldCyan=108,191,181$/;"	k	section:Colors
 BoldCyan	mobaxterm/Broadcast.ini	/^BoldCyan=160,206,240$/;"	k	section:Colors
 BoldCyan	mobaxterm/Brogrammer.ini	/^BoldCyan=15,125,219$/;"	k	section:Colors
-BoldCyan	mobaxterm/Builtin Dark.ini	/^BoldCyan=85,255,255$/;"	k	section:Colors
-BoldCyan	mobaxterm/Builtin Light.ini	/^BoldCyan=85,255,255$/;"	k	section:Colors
-BoldCyan	mobaxterm/Builtin Pastel Dark.ini	/^BoldCyan=223,223,254$/;"	k	section:Colors
-BoldCyan	mobaxterm/Builtin Solarized Dark.ini	/^BoldCyan=147,161,161$/;"	k	section:Colors
-BoldCyan	mobaxterm/Builtin Solarized Light.ini	/^BoldCyan=147,161,161$/;"	k	section:Colors
-BoldCyan	mobaxterm/Builtin Tango Dark.ini	/^BoldCyan=52,226,226$/;"	k	section:Colors
-BoldCyan	mobaxterm/Builtin Tango Light.ini	/^BoldCyan=52,226,226$/;"	k	section:Colors
 BoldCyan	mobaxterm/C64.ini	/^BoldCyan=103,182,189$/;"	k	section:Colors
 BoldCyan	mobaxterm/CGA.ini	/^BoldCyan=85,255,255$/;"	k	section:Colors
 BoldCyan	mobaxterm/CLRS.ini	/^BoldCyan=58,213,206$/;"	k	section:Colors
@@ -1755,13 +1713,6 @@ BoldGreen	mobaxterm/Breeze.ini	/^BoldGreen=28,220,154$/;"	k	section:Colors
 BoldGreen	mobaxterm/Bright Lights.ini	/^BoldGreen=183,232,118$/;"	k	section:Colors
 BoldGreen	mobaxterm/Broadcast.ini	/^BoldGreen=131,209,130$/;"	k	section:Colors
 BoldGreen	mobaxterm/Brogrammer.ini	/^BoldGreen=29,211,97$/;"	k	section:Colors
-BoldGreen	mobaxterm/Builtin Dark.ini	/^BoldGreen=85,255,85$/;"	k	section:Colors
-BoldGreen	mobaxterm/Builtin Light.ini	/^BoldGreen=85,255,85$/;"	k	section:Colors
-BoldGreen	mobaxterm/Builtin Pastel Dark.ini	/^BoldGreen=206,255,172$/;"	k	section:Colors
-BoldGreen	mobaxterm/Builtin Solarized Dark.ini	/^BoldGreen=88,110,117$/;"	k	section:Colors
-BoldGreen	mobaxterm/Builtin Solarized Light.ini	/^BoldGreen=88,110,117$/;"	k	section:Colors
-BoldGreen	mobaxterm/Builtin Tango Dark.ini	/^BoldGreen=138,226,52$/;"	k	section:Colors
-BoldGreen	mobaxterm/Builtin Tango Light.ini	/^BoldGreen=138,226,52$/;"	k	section:Colors
 BoldGreen	mobaxterm/C64.ini	/^BoldGreen=85,160,73$/;"	k	section:Colors
 BoldGreen	mobaxterm/CGA.ini	/^BoldGreen=85,255,85$/;"	k	section:Colors
 BoldGreen	mobaxterm/CLRS.ini	/^BoldGreen=44,198,49$/;"	k	section:Colors
@@ -2040,13 +1991,6 @@ BoldMagenta	mobaxterm/Breeze.ini	/^BoldMagenta=142,68,173$/;"	k	section:Colors
 BoldMagenta	mobaxterm/Bright Lights.ini	/^BoldMagenta=186,118,231$/;"	k	section:Colors
 BoldMagenta	mobaxterm/Broadcast.ini	/^BoldMagenta=255,255,255$/;"	k	section:Colors
 BoldMagenta	mobaxterm/Brogrammer.ini	/^BoldMagenta=83,80,185$/;"	k	section:Colors
-BoldMagenta	mobaxterm/Builtin Dark.ini	/^BoldMagenta=255,85,255$/;"	k	section:Colors
-BoldMagenta	mobaxterm/Builtin Light.ini	/^BoldMagenta=255,85,255$/;"	k	section:Colors
-BoldMagenta	mobaxterm/Builtin Pastel Dark.ini	/^BoldMagenta=255,156,254$/;"	k	section:Colors
-BoldMagenta	mobaxterm/Builtin Solarized Dark.ini	/^BoldMagenta=108,113,196$/;"	k	section:Colors
-BoldMagenta	mobaxterm/Builtin Solarized Light.ini	/^BoldMagenta=108,113,196$/;"	k	section:Colors
-BoldMagenta	mobaxterm/Builtin Tango Dark.ini	/^BoldMagenta=173,127,168$/;"	k	section:Colors
-BoldMagenta	mobaxterm/Builtin Tango Light.ini	/^BoldMagenta=173,127,168$/;"	k	section:Colors
 BoldMagenta	mobaxterm/C64.ini	/^BoldMagenta=139,63,150$/;"	k	section:Colors
 BoldMagenta	mobaxterm/CGA.ini	/^BoldMagenta=255,85,255$/;"	k	section:Colors
 BoldMagenta	mobaxterm/CLRS.ini	/^BoldMagenta=233,0,176$/;"	k	section:Colors
@@ -2325,13 +2269,6 @@ BoldRed	mobaxterm/Breeze.ini	/^BoldRed=192,57,43$/;"	k	section:Colors
 BoldRed	mobaxterm/Bright Lights.ini	/^BoldRed=255,53,91$/;"	k	section:Colors
 BoldRed	mobaxterm/Broadcast.ini	/^BoldRed=255,123,107$/;"	k	section:Colors
 BoldRed	mobaxterm/Brogrammer.ini	/^BoldRed=222,53,46$/;"	k	section:Colors
-BoldRed	mobaxterm/Builtin Dark.ini	/^BoldRed=255,85,85$/;"	k	section:Colors
-BoldRed	mobaxterm/Builtin Light.ini	/^BoldRed=255,85,85$/;"	k	section:Colors
-BoldRed	mobaxterm/Builtin Pastel Dark.ini	/^BoldRed=255,182,176$/;"	k	section:Colors
-BoldRed	mobaxterm/Builtin Solarized Dark.ini	/^BoldRed=203,75,22$/;"	k	section:Colors
-BoldRed	mobaxterm/Builtin Solarized Light.ini	/^BoldRed=203,75,22$/;"	k	section:Colors
-BoldRed	mobaxterm/Builtin Tango Dark.ini	/^BoldRed=239,41,41$/;"	k	section:Colors
-BoldRed	mobaxterm/Builtin Tango Light.ini	/^BoldRed=239,41,41$/;"	k	section:Colors
 BoldRed	mobaxterm/C64.ini	/^BoldRed=136,57,50$/;"	k	section:Colors
 BoldRed	mobaxterm/CGA.ini	/^BoldRed=255,85,85$/;"	k	section:Colors
 BoldRed	mobaxterm/CLRS.ini	/^BoldRed=251,4,22$/;"	k	section:Colors
@@ -2610,13 +2547,6 @@ BoldWhite	mobaxterm/Breeze.ini	/^BoldWhite=252,252,252$/;"	k	section:Colors
 BoldWhite	mobaxterm/Bright Lights.ini	/^BoldWhite=194,200,215$/;"	k	section:Colors
 BoldWhite	mobaxterm/Broadcast.ini	/^BoldWhite=255,255,255$/;"	k	section:Colors
 BoldWhite	mobaxterm/Brogrammer.ini	/^BoldWhite=255,255,255$/;"	k	section:Colors
-BoldWhite	mobaxterm/Builtin Dark.ini	/^BoldWhite=255,255,255$/;"	k	section:Colors
-BoldWhite	mobaxterm/Builtin Light.ini	/^BoldWhite=255,255,255$/;"	k	section:Colors
-BoldWhite	mobaxterm/Builtin Pastel Dark.ini	/^BoldWhite=255,255,255$/;"	k	section:Colors
-BoldWhite	mobaxterm/Builtin Solarized Dark.ini	/^BoldWhite=253,246,227$/;"	k	section:Colors
-BoldWhite	mobaxterm/Builtin Solarized Light.ini	/^BoldWhite=253,246,227$/;"	k	section:Colors
-BoldWhite	mobaxterm/Builtin Tango Dark.ini	/^BoldWhite=238,238,236$/;"	k	section:Colors
-BoldWhite	mobaxterm/Builtin Tango Light.ini	/^BoldWhite=238,238,236$/;"	k	section:Colors
 BoldWhite	mobaxterm/C64.ini	/^BoldWhite=247,247,247$/;"	k	section:Colors
 BoldWhite	mobaxterm/CGA.ini	/^BoldWhite=255,255,255$/;"	k	section:Colors
 BoldWhite	mobaxterm/CLRS.ini	/^BoldWhite=238,238,236$/;"	k	section:Colors
@@ -2895,13 +2825,6 @@ BoldYellow	mobaxterm/Breeze.ini	/^BoldYellow=253,188,75$/;"	k	section:Colors
 BoldYellow	mobaxterm/Bright Lights.ini	/^BoldYellow=255,194,81$/;"	k	section:Colors
 BoldYellow	mobaxterm/Broadcast.ini	/^BoldYellow=255,255,124$/;"	k	section:Colors
 BoldYellow	mobaxterm/Brogrammer.ini	/^BoldYellow=243,189,9$/;"	k	section:Colors
-BoldYellow	mobaxterm/Builtin Dark.ini	/^BoldYellow=255,255,85$/;"	k	section:Colors
-BoldYellow	mobaxterm/Builtin Light.ini	/^BoldYellow=255,255,85$/;"	k	section:Colors
-BoldYellow	mobaxterm/Builtin Pastel Dark.ini	/^BoldYellow=255,255,204$/;"	k	section:Colors
-BoldYellow	mobaxterm/Builtin Solarized Dark.ini	/^BoldYellow=101,123,131$/;"	k	section:Colors
-BoldYellow	mobaxterm/Builtin Solarized Light.ini	/^BoldYellow=101,123,131$/;"	k	section:Colors
-BoldYellow	mobaxterm/Builtin Tango Dark.ini	/^BoldYellow=252,233,79$/;"	k	section:Colors
-BoldYellow	mobaxterm/Builtin Tango Light.ini	/^BoldYellow=252,233,79$/;"	k	section:Colors
 BoldYellow	mobaxterm/C64.ini	/^BoldYellow=191,206,114$/;"	k	section:Colors
 BoldYellow	mobaxterm/CGA.ini	/^BoldYellow=255,255,85$/;"	k	section:Colors
 BoldYellow	mobaxterm/CLRS.ini	/^BoldYellow=253,215,39$/;"	k	section:Colors
@@ -3180,13 +3103,6 @@ COLORS	pantheonterminal/Breeze.sh	/^dconf load \/org\/pantheon\/terminal\/settin
 COLORS	pantheonterminal/Bright Lights.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
 COLORS	pantheonterminal/Broadcast.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
 COLORS	pantheonterminal/Brogrammer.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
-COLORS	pantheonterminal/Builtin Dark.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
-COLORS	pantheonterminal/Builtin Light.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
-COLORS	pantheonterminal/Builtin Pastel Dark.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
-COLORS	pantheonterminal/Builtin Solarized Dark.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
-COLORS	pantheonterminal/Builtin Solarized Light.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
-COLORS	pantheonterminal/Builtin Tango Dark.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
-COLORS	pantheonterminal/Builtin Tango Light.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
 COLORS	pantheonterminal/C64.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
 COLORS	pantheonterminal/CGA.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
 COLORS	pantheonterminal/CLRS.sh	/^dconf load \/org\/pantheon\/terminal\/settings\/ <<COLORS$/;"	h
@@ -3466,13 +3382,6 @@ Colors	mobaxterm/Breeze.ini	/^[Colors]$/;"	s
 Colors	mobaxterm/Bright Lights.ini	/^[Colors]$/;"	s
 Colors	mobaxterm/Broadcast.ini	/^[Colors]$/;"	s
 Colors	mobaxterm/Brogrammer.ini	/^[Colors]$/;"	s
-Colors	mobaxterm/Builtin Dark.ini	/^[Colors]$/;"	s
-Colors	mobaxterm/Builtin Light.ini	/^[Colors]$/;"	s
-Colors	mobaxterm/Builtin Pastel Dark.ini	/^[Colors]$/;"	s
-Colors	mobaxterm/Builtin Solarized Dark.ini	/^[Colors]$/;"	s
-Colors	mobaxterm/Builtin Solarized Light.ini	/^[Colors]$/;"	s
-Colors	mobaxterm/Builtin Tango Dark.ini	/^[Colors]$/;"	s
-Colors	mobaxterm/Builtin Tango Light.ini	/^[Colors]$/;"	s
 Colors	mobaxterm/C64.ini	/^[Colors]$/;"	s
 Colors	mobaxterm/CGA.ini	/^[Colors]$/;"	s
 Colors	mobaxterm/CLRS.ini	/^[Colors]$/;"	s
@@ -3751,13 +3660,6 @@ CursorColour	mobaxterm/Breeze.ini	/^CursorColour=239,240,241$/;"	k	section:Color
 CursorColour	mobaxterm/Bright Lights.ini	/^CursorColour=243,75,0$/;"	k	section:Colors
 CursorColour	mobaxterm/Broadcast.ini	/^CursorColour=255,255,255$/;"	k	section:Colors
 CursorColour	mobaxterm/Brogrammer.ini	/^CursorColour=185,185,185$/;"	k	section:Colors
-CursorColour	mobaxterm/Builtin Dark.ini	/^CursorColour=187,187,187$/;"	k	section:Colors
-CursorColour	mobaxterm/Builtin Light.ini	/^CursorColour=0,0,0$/;"	k	section:Colors
-CursorColour	mobaxterm/Builtin Pastel Dark.ini	/^CursorColour=255,165,96$/;"	k	section:Colors
-CursorColour	mobaxterm/Builtin Solarized Dark.ini	/^CursorColour=131,148,150$/;"	k	section:Colors
-CursorColour	mobaxterm/Builtin Solarized Light.ini	/^CursorColour=101,123,131$/;"	k	section:Colors
-CursorColour	mobaxterm/Builtin Tango Dark.ini	/^CursorColour=255,255,255$/;"	k	section:Colors
-CursorColour	mobaxterm/Builtin Tango Light.ini	/^CursorColour=0,0,0$/;"	k	section:Colors
 CursorColour	mobaxterm/C64.ini	/^CursorColour=120,105,196$/;"	k	section:Colors
 CursorColour	mobaxterm/CGA.ini	/^CursorColour=184,184,184$/;"	k	section:Colors
 CursorColour	mobaxterm/CLRS.ini	/^CursorColour=111,211,252$/;"	k	section:Colors
@@ -4036,13 +3938,6 @@ Cyan	mobaxterm/Breeze.ini	/^Cyan=26,188,156$/;"	k	section:Colors
 Cyan	mobaxterm/Bright Lights.ini	/^Cyan=108,191,181$/;"	k	section:Colors
 Cyan	mobaxterm/Broadcast.ini	/^Cyan=110,156,190$/;"	k	section:Colors
 Cyan	mobaxterm/Brogrammer.ini	/^Cyan=16,129,214$/;"	k	section:Colors
-Cyan	mobaxterm/Builtin Dark.ini	/^Cyan=0,187,187$/;"	k	section:Colors
-Cyan	mobaxterm/Builtin Light.ini	/^Cyan=0,187,187$/;"	k	section:Colors
-Cyan	mobaxterm/Builtin Pastel Dark.ini	/^Cyan=198,197,254$/;"	k	section:Colors
-Cyan	mobaxterm/Builtin Solarized Dark.ini	/^Cyan=42,161,152$/;"	k	section:Colors
-Cyan	mobaxterm/Builtin Solarized Light.ini	/^Cyan=42,161,152$/;"	k	section:Colors
-Cyan	mobaxterm/Builtin Tango Dark.ini	/^Cyan=6,152,154$/;"	k	section:Colors
-Cyan	mobaxterm/Builtin Tango Light.ini	/^Cyan=6,152,154$/;"	k	section:Colors
 Cyan	mobaxterm/C64.ini	/^Cyan=103,182,189$/;"	k	section:Colors
 Cyan	mobaxterm/CGA.ini	/^Cyan=0,170,170$/;"	k	section:Colors
 Cyan	mobaxterm/CLRS.ini	/^Cyan=51,195,193$/;"	k	section:Colors
@@ -4321,13 +4216,6 @@ DefaultColorScheme	mobaxterm/Breeze.ini	/^DefaultColorScheme=0$/;"	k	section:Col
 DefaultColorScheme	mobaxterm/Bright Lights.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
 DefaultColorScheme	mobaxterm/Broadcast.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
 DefaultColorScheme	mobaxterm/Brogrammer.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
-DefaultColorScheme	mobaxterm/Builtin Dark.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
-DefaultColorScheme	mobaxterm/Builtin Light.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
-DefaultColorScheme	mobaxterm/Builtin Pastel Dark.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
-DefaultColorScheme	mobaxterm/Builtin Solarized Dark.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
-DefaultColorScheme	mobaxterm/Builtin Solarized Light.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
-DefaultColorScheme	mobaxterm/Builtin Tango Dark.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
-DefaultColorScheme	mobaxterm/Builtin Tango Light.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
 DefaultColorScheme	mobaxterm/C64.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
 DefaultColorScheme	mobaxterm/CGA.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
 DefaultColorScheme	mobaxterm/CLRS.ini	/^DefaultColorScheme=0$/;"	k	section:Colors
@@ -4607,13 +4495,6 @@ ForegroundColour	mobaxterm/Breeze.ini	/^ForegroundColour=239,240,241$/;"	k	secti
 ForegroundColour	mobaxterm/Bright Lights.ini	/^ForegroundColour=179,201,215$/;"	k	section:Colors
 ForegroundColour	mobaxterm/Broadcast.ini	/^ForegroundColour=230,225,220$/;"	k	section:Colors
 ForegroundColour	mobaxterm/Brogrammer.ini	/^ForegroundColour=214,219,229$/;"	k	section:Colors
-ForegroundColour	mobaxterm/Builtin Dark.ini	/^ForegroundColour=187,187,187$/;"	k	section:Colors
-ForegroundColour	mobaxterm/Builtin Light.ini	/^ForegroundColour=0,0,0$/;"	k	section:Colors
-ForegroundColour	mobaxterm/Builtin Pastel Dark.ini	/^ForegroundColour=187,187,187$/;"	k	section:Colors
-ForegroundColour	mobaxterm/Builtin Solarized Dark.ini	/^ForegroundColour=131,148,150$/;"	k	section:Colors
-ForegroundColour	mobaxterm/Builtin Solarized Light.ini	/^ForegroundColour=101,123,131$/;"	k	section:Colors
-ForegroundColour	mobaxterm/Builtin Tango Dark.ini	/^ForegroundColour=255,255,255$/;"	k	section:Colors
-ForegroundColour	mobaxterm/Builtin Tango Light.ini	/^ForegroundColour=0,0,0$/;"	k	section:Colors
 ForegroundColour	mobaxterm/C64.ini	/^ForegroundColour=120,105,196$/;"	k	section:Colors
 ForegroundColour	mobaxterm/CGA.ini	/^ForegroundColour=170,170,170$/;"	k	section:Colors
 ForegroundColour	mobaxterm/CLRS.ini	/^ForegroundColour=38,38,38$/;"	k	section:Colors
@@ -4895,13 +4776,6 @@ Green	mobaxterm/Breeze.ini	/^Green=17,209,22$/;"	k	section:Colors
 Green	mobaxterm/Bright Lights.ini	/^Green=183,232,118$/;"	k	section:Colors
 Green	mobaxterm/Broadcast.ini	/^Green=81,159,80$/;"	k	section:Colors
 Green	mobaxterm/Brogrammer.ini	/^Green=45,197,94$/;"	k	section:Colors
-Green	mobaxterm/Builtin Dark.ini	/^Green=0,187,0$/;"	k	section:Colors
-Green	mobaxterm/Builtin Light.ini	/^Green=0,187,0$/;"	k	section:Colors
-Green	mobaxterm/Builtin Pastel Dark.ini	/^Green=168,255,96$/;"	k	section:Colors
-Green	mobaxterm/Builtin Solarized Dark.ini	/^Green=133,153,0$/;"	k	section:Colors
-Green	mobaxterm/Builtin Solarized Light.ini	/^Green=133,153,0$/;"	k	section:Colors
-Green	mobaxterm/Builtin Tango Dark.ini	/^Green=78,154,6$/;"	k	section:Colors
-Green	mobaxterm/Builtin Tango Light.ini	/^Green=78,154,6$/;"	k	section:Colors
 Green	mobaxterm/C64.ini	/^Green=85,160,73$/;"	k	section:Colors
 Green	mobaxterm/CGA.ini	/^Green=0,170,0$/;"	k	section:Colors
 Green	mobaxterm/CLRS.ini	/^Green=50,138,93$/;"	k	section:Colors
@@ -5180,13 +5054,6 @@ Magenta	mobaxterm/Breeze.ini	/^Magenta=155,89,182$/;"	k	section:Colors
 Magenta	mobaxterm/Bright Lights.ini	/^Magenta=186,118,231$/;"	k	section:Colors
 Magenta	mobaxterm/Broadcast.ini	/^Magenta=208,208,255$/;"	k	section:Colors
 Magenta	mobaxterm/Brogrammer.ini	/^Magenta=78,90,183$/;"	k	section:Colors
-Magenta	mobaxterm/Builtin Dark.ini	/^Magenta=187,0,187$/;"	k	section:Colors
-Magenta	mobaxterm/Builtin Light.ini	/^Magenta=187,0,187$/;"	k	section:Colors
-Magenta	mobaxterm/Builtin Pastel Dark.ini	/^Magenta=255,115,253$/;"	k	section:Colors
-Magenta	mobaxterm/Builtin Solarized Dark.ini	/^Magenta=211,54,130$/;"	k	section:Colors
-Magenta	mobaxterm/Builtin Solarized Light.ini	/^Magenta=211,54,130$/;"	k	section:Colors
-Magenta	mobaxterm/Builtin Tango Dark.ini	/^Magenta=117,80,123$/;"	k	section:Colors
-Magenta	mobaxterm/Builtin Tango Light.ini	/^Magenta=117,80,123$/;"	k	section:Colors
 Magenta	mobaxterm/C64.ini	/^Magenta=139,63,150$/;"	k	section:Colors
 Magenta	mobaxterm/CGA.ini	/^Magenta=170,0,170$/;"	k	section:Colors
 Magenta	mobaxterm/CLRS.ini	/^Magenta=159,0,189$/;"	k	section:Colors
@@ -5469,13 +5336,6 @@ Red	mobaxterm/Breeze.ini	/^Red=237,21,21$/;"	k	section:Colors
 Red	mobaxterm/Bright Lights.ini	/^Red=255,53,91$/;"	k	section:Colors
 Red	mobaxterm/Broadcast.ini	/^Red=218,73,57$/;"	k	section:Colors
 Red	mobaxterm/Brogrammer.ini	/^Red=248,17,24$/;"	k	section:Colors
-Red	mobaxterm/Builtin Dark.ini	/^Red=187,0,0$/;"	k	section:Colors
-Red	mobaxterm/Builtin Light.ini	/^Red=187,0,0$/;"	k	section:Colors
-Red	mobaxterm/Builtin Pastel Dark.ini	/^Red=255,108,96$/;"	k	section:Colors
-Red	mobaxterm/Builtin Solarized Dark.ini	/^Red=220,50,47$/;"	k	section:Colors
-Red	mobaxterm/Builtin Solarized Light.ini	/^Red=220,50,47$/;"	k	section:Colors
-Red	mobaxterm/Builtin Tango Dark.ini	/^Red=204,0,0$/;"	k	section:Colors
-Red	mobaxterm/Builtin Tango Light.ini	/^Red=204,0,0$/;"	k	section:Colors
 Red	mobaxterm/C64.ini	/^Red=136,57,50$/;"	k	section:Colors
 Red	mobaxterm/CGA.ini	/^Red=170,0,0$/;"	k	section:Colors
 Red	mobaxterm/CLRS.ini	/^Red=248,40,42$/;"	k	section:Colors
@@ -5754,13 +5614,6 @@ White	mobaxterm/Breeze.ini	/^White=239,240,241$/;"	k	section:Colors
 White	mobaxterm/Bright Lights.ini	/^White=194,200,215$/;"	k	section:Colors
 White	mobaxterm/Broadcast.ini	/^White=255,255,255$/;"	k	section:Colors
 White	mobaxterm/Brogrammer.ini	/^White=214,219,229$/;"	k	section:Colors
-White	mobaxterm/Builtin Dark.ini	/^White=187,187,187$/;"	k	section:Colors
-White	mobaxterm/Builtin Light.ini	/^White=187,187,187$/;"	k	section:Colors
-White	mobaxterm/Builtin Pastel Dark.ini	/^White=238,238,238$/;"	k	section:Colors
-White	mobaxterm/Builtin Solarized Dark.ini	/^White=238,232,213$/;"	k	section:Colors
-White	mobaxterm/Builtin Solarized Light.ini	/^White=238,232,213$/;"	k	section:Colors
-White	mobaxterm/Builtin Tango Dark.ini	/^White=211,215,207$/;"	k	section:Colors
-White	mobaxterm/Builtin Tango Light.ini	/^White=211,215,207$/;"	k	section:Colors
 White	mobaxterm/C64.ini	/^White=255,255,255$/;"	k	section:Colors
 White	mobaxterm/CGA.ini	/^White=170,170,170$/;"	k	section:Colors
 White	mobaxterm/CLRS.ini	/^White=179,179,179$/;"	k	section:Colors
@@ -6047,13 +5900,6 @@ Yellow	mobaxterm/Breeze.ini	/^Yellow=246,116,0$/;"	k	section:Colors
 Yellow	mobaxterm/Bright Lights.ini	/^Yellow=255,194,81$/;"	k	section:Colors
 Yellow	mobaxterm/Broadcast.ini	/^Yellow=255,210,74$/;"	k	section:Colors
 Yellow	mobaxterm/Brogrammer.ini	/^Yellow=236,186,15$/;"	k	section:Colors
-Yellow	mobaxterm/Builtin Dark.ini	/^Yellow=187,187,0$/;"	k	section:Colors
-Yellow	mobaxterm/Builtin Light.ini	/^Yellow=187,187,0$/;"	k	section:Colors
-Yellow	mobaxterm/Builtin Pastel Dark.ini	/^Yellow=255,255,182$/;"	k	section:Colors
-Yellow	mobaxterm/Builtin Solarized Dark.ini	/^Yellow=181,137,0$/;"	k	section:Colors
-Yellow	mobaxterm/Builtin Solarized Light.ini	/^Yellow=181,137,0$/;"	k	section:Colors
-Yellow	mobaxterm/Builtin Tango Dark.ini	/^Yellow=196,160,0$/;"	k	section:Colors
-Yellow	mobaxterm/Builtin Tango Light.ini	/^Yellow=196,160,0$/;"	k	section:Colors
 Yellow	mobaxterm/C64.ini	/^Yellow=191,206,114$/;"	k	section:Colors
 Yellow	mobaxterm/CGA.ini	/^Yellow=170,85,0$/;"	k	section:Colors
 Yellow	mobaxterm/CLRS.ini	/^Yellow=250,112,29$/;"	k	section:Colors
@@ -6360,13 +6206,6 @@ background	windowsterminal/Breeze.json	/^  "background": "#31363b",$/;"	s
 background	windowsterminal/Bright Lights.json	/^  "background": "#191919",$/;"	s
 background	windowsterminal/Broadcast.json	/^  "background": "#2b2b2b",$/;"	s
 background	windowsterminal/Brogrammer.json	/^  "background": "#131313",$/;"	s
-background	windowsterminal/Builtin Dark.json	/^  "background": "#000000",$/;"	s
-background	windowsterminal/Builtin Light.json	/^  "background": "#ffffff",$/;"	s
-background	windowsterminal/Builtin Pastel Dark.json	/^  "background": "#000000",$/;"	s
-background	windowsterminal/Builtin Solarized Dark.json	/^  "background": "#002b36",$/;"	s
-background	windowsterminal/Builtin Solarized Light.json	/^  "background": "#fdf6e3",$/;"	s
-background	windowsterminal/Builtin Tango Dark.json	/^  "background": "#000000",$/;"	s
-background	windowsterminal/Builtin Tango Light.json	/^  "background": "#ffffff",$/;"	s
 background	windowsterminal/C64.json	/^  "background": "#40318d",$/;"	s
 background	windowsterminal/CGA.json	/^  "background": "#000000",$/;"	s
 background	windowsterminal/CLRS.json	/^  "background": "#ffffff",$/;"	s
@@ -6646,13 +6485,6 @@ bgcolor	lxterminal/Breeze.conf	/^bgcolor=rgba(49,54,59,1)$/;"	k
 bgcolor	lxterminal/Bright Lights.conf	/^bgcolor=rgba(25,25,25,1)$/;"	k
 bgcolor	lxterminal/Broadcast.conf	/^bgcolor=rgba(43,43,43,1)$/;"	k
 bgcolor	lxterminal/Brogrammer.conf	/^bgcolor=rgba(19,19,19,1)$/;"	k
-bgcolor	lxterminal/Builtin Dark.conf	/^bgcolor=rgba(0,0,0,1)$/;"	k
-bgcolor	lxterminal/Builtin Light.conf	/^bgcolor=rgba(255,255,255,1)$/;"	k
-bgcolor	lxterminal/Builtin Pastel Dark.conf	/^bgcolor=rgba(0,0,0,1)$/;"	k
-bgcolor	lxterminal/Builtin Solarized Dark.conf	/^bgcolor=rgba(0,43,54,1)$/;"	k
-bgcolor	lxterminal/Builtin Solarized Light.conf	/^bgcolor=rgba(253,246,227,1)$/;"	k
-bgcolor	lxterminal/Builtin Tango Dark.conf	/^bgcolor=rgba(0,0,0,1)$/;"	k
-bgcolor	lxterminal/Builtin Tango Light.conf	/^bgcolor=rgba(255,255,255,1)$/;"	k
 bgcolor	lxterminal/C64.conf	/^bgcolor=rgba(64,49,141,1)$/;"	k
 bgcolor	lxterminal/CGA.conf	/^bgcolor=rgba(0,0,0,1)$/;"	k
 bgcolor	lxterminal/CLRS.conf	/^bgcolor=rgba(255,255,255,1)$/;"	k
@@ -6931,13 +6763,6 @@ black	windowsterminal/Breeze.json	/^  "black": "#31363b",$/;"	s
 black	windowsterminal/Bright Lights.json	/^  "black": "#191919",$/;"	s
 black	windowsterminal/Broadcast.json	/^  "black": "#000000",$/;"	s
 black	windowsterminal/Brogrammer.json	/^  "black": "#1f1f1f",$/;"	s
-black	windowsterminal/Builtin Dark.json	/^  "black": "#000000",$/;"	s
-black	windowsterminal/Builtin Light.json	/^  "black": "#000000",$/;"	s
-black	windowsterminal/Builtin Pastel Dark.json	/^  "black": "#4f4f4f",$/;"	s
-black	windowsterminal/Builtin Solarized Dark.json	/^  "black": "#073642",$/;"	s
-black	windowsterminal/Builtin Solarized Light.json	/^  "black": "#073642",$/;"	s
-black	windowsterminal/Builtin Tango Dark.json	/^  "black": "#000000",$/;"	s
-black	windowsterminal/Builtin Tango Light.json	/^  "black": "#000000",$/;"	s
 black	windowsterminal/C64.json	/^  "black": "#090300",$/;"	s
 black	windowsterminal/CGA.json	/^  "black": "#000000",$/;"	s
 black	windowsterminal/CLRS.json	/^  "black": "#000000",$/;"	s
@@ -7216,13 +7041,6 @@ blue	windowsterminal/Breeze.json	/^  "blue": "#1d99f3",$/;"	s
 blue	windowsterminal/Bright Lights.json	/^  "blue": "#76d4ff",$/;"	s
 blue	windowsterminal/Broadcast.json	/^  "blue": "#6d9cbe",$/;"	s
 blue	windowsterminal/Brogrammer.json	/^  "blue": "#2a84d2",$/;"	s
-blue	windowsterminal/Builtin Dark.json	/^  "blue": "#0000bb",$/;"	s
-blue	windowsterminal/Builtin Light.json	/^  "blue": "#0000bb",$/;"	s
-blue	windowsterminal/Builtin Pastel Dark.json	/^  "blue": "#96cbfe",$/;"	s
-blue	windowsterminal/Builtin Solarized Dark.json	/^  "blue": "#268bd2",$/;"	s
-blue	windowsterminal/Builtin Solarized Light.json	/^  "blue": "#268bd2",$/;"	s
-blue	windowsterminal/Builtin Tango Dark.json	/^  "blue": "#3465a4",$/;"	s
-blue	windowsterminal/Builtin Tango Light.json	/^  "blue": "#3465a4",$/;"	s
 blue	windowsterminal/C64.json	/^  "blue": "#40318d",$/;"	s
 blue	windowsterminal/CGA.json	/^  "blue": "#0000aa",$/;"	s
 blue	windowsterminal/CLRS.json	/^  "blue": "#135cd0",$/;"	s
@@ -7501,13 +7319,6 @@ brightBlack	windowsterminal/Breeze.json	/^  "brightBlack": "#7f8c8d",$/;"	s
 brightBlack	windowsterminal/Bright Lights.json	/^  "brightBlack": "#191919",$/;"	s
 brightBlack	windowsterminal/Broadcast.json	/^  "brightBlack": "#323232",$/;"	s
 brightBlack	windowsterminal/Brogrammer.json	/^  "brightBlack": "#d6dbe5",$/;"	s
-brightBlack	windowsterminal/Builtin Dark.json	/^  "brightBlack": "#555555",$/;"	s
-brightBlack	windowsterminal/Builtin Light.json	/^  "brightBlack": "#555555",$/;"	s
-brightBlack	windowsterminal/Builtin Pastel Dark.json	/^  "brightBlack": "#7c7c7c",$/;"	s
-brightBlack	windowsterminal/Builtin Solarized Dark.json	/^  "brightBlack": "#002b36",$/;"	s
-brightBlack	windowsterminal/Builtin Solarized Light.json	/^  "brightBlack": "#002b36",$/;"	s
-brightBlack	windowsterminal/Builtin Tango Dark.json	/^  "brightBlack": "#555753",$/;"	s
-brightBlack	windowsterminal/Builtin Tango Light.json	/^  "brightBlack": "#555753",$/;"	s
 brightBlack	windowsterminal/C64.json	/^  "brightBlack": "#000000",$/;"	s
 brightBlack	windowsterminal/CGA.json	/^  "brightBlack": "#555555",$/;"	s
 brightBlack	windowsterminal/CLRS.json	/^  "brightBlack": "#555753",$/;"	s
@@ -7786,13 +7597,6 @@ brightBlue	windowsterminal/Breeze.json	/^  "brightBlue": "#3daee9",$/;"	s
 brightBlue	windowsterminal/Bright Lights.json	/^  "brightBlue": "#76d5ff",$/;"	s
 brightBlue	windowsterminal/Broadcast.json	/^  "brightBlue": "#9fcef0",$/;"	s
 brightBlue	windowsterminal/Brogrammer.json	/^  "brightBlue": "#1081d6",$/;"	s
-brightBlue	windowsterminal/Builtin Dark.json	/^  "brightBlue": "#5555ff",$/;"	s
-brightBlue	windowsterminal/Builtin Light.json	/^  "brightBlue": "#5555ff",$/;"	s
-brightBlue	windowsterminal/Builtin Pastel Dark.json	/^  "brightBlue": "#b5dcff",$/;"	s
-brightBlue	windowsterminal/Builtin Solarized Dark.json	/^  "brightBlue": "#839496",$/;"	s
-brightBlue	windowsterminal/Builtin Solarized Light.json	/^  "brightBlue": "#839496",$/;"	s
-brightBlue	windowsterminal/Builtin Tango Dark.json	/^  "brightBlue": "#729fcf",$/;"	s
-brightBlue	windowsterminal/Builtin Tango Light.json	/^  "brightBlue": "#729fcf",$/;"	s
 brightBlue	windowsterminal/C64.json	/^  "brightBlue": "#40318d",$/;"	s
 brightBlue	windowsterminal/CGA.json	/^  "brightBlue": "#5555ff",$/;"	s
 brightBlue	windowsterminal/CLRS.json	/^  "brightBlue": "#1670ff",$/;"	s
@@ -8071,13 +7875,6 @@ brightCyan	windowsterminal/Breeze.json	/^  "brightCyan": "#16a085",$/;"	s
 brightCyan	windowsterminal/Bright Lights.json	/^  "brightCyan": "#6cbfb5",$/;"	s
 brightCyan	windowsterminal/Broadcast.json	/^  "brightCyan": "#a0cef0",$/;"	s
 brightCyan	windowsterminal/Brogrammer.json	/^  "brightCyan": "#0f7ddb",$/;"	s
-brightCyan	windowsterminal/Builtin Dark.json	/^  "brightCyan": "#55ffff",$/;"	s
-brightCyan	windowsterminal/Builtin Light.json	/^  "brightCyan": "#55ffff",$/;"	s
-brightCyan	windowsterminal/Builtin Pastel Dark.json	/^  "brightCyan": "#dfdffe",$/;"	s
-brightCyan	windowsterminal/Builtin Solarized Dark.json	/^  "brightCyan": "#93a1a1",$/;"	s
-brightCyan	windowsterminal/Builtin Solarized Light.json	/^  "brightCyan": "#93a1a1",$/;"	s
-brightCyan	windowsterminal/Builtin Tango Dark.json	/^  "brightCyan": "#34e2e2",$/;"	s
-brightCyan	windowsterminal/Builtin Tango Light.json	/^  "brightCyan": "#34e2e2",$/;"	s
 brightCyan	windowsterminal/C64.json	/^  "brightCyan": "#67b6bd",$/;"	s
 brightCyan	windowsterminal/CGA.json	/^  "brightCyan": "#55ffff",$/;"	s
 brightCyan	windowsterminal/CLRS.json	/^  "brightCyan": "#3ad5ce",$/;"	s
@@ -8356,13 +8153,6 @@ brightGreen	windowsterminal/Breeze.json	/^  "brightGreen": "#1cdc9a",$/;"	s
 brightGreen	windowsterminal/Bright Lights.json	/^  "brightGreen": "#b7e876",$/;"	s
 brightGreen	windowsterminal/Broadcast.json	/^  "brightGreen": "#83d182",$/;"	s
 brightGreen	windowsterminal/Brogrammer.json	/^  "brightGreen": "#1dd361",$/;"	s
-brightGreen	windowsterminal/Builtin Dark.json	/^  "brightGreen": "#55ff55",$/;"	s
-brightGreen	windowsterminal/Builtin Light.json	/^  "brightGreen": "#55ff55",$/;"	s
-brightGreen	windowsterminal/Builtin Pastel Dark.json	/^  "brightGreen": "#ceffac",$/;"	s
-brightGreen	windowsterminal/Builtin Solarized Dark.json	/^  "brightGreen": "#586e75",$/;"	s
-brightGreen	windowsterminal/Builtin Solarized Light.json	/^  "brightGreen": "#586e75",$/;"	s
-brightGreen	windowsterminal/Builtin Tango Dark.json	/^  "brightGreen": "#8ae234",$/;"	s
-brightGreen	windowsterminal/Builtin Tango Light.json	/^  "brightGreen": "#8ae234",$/;"	s
 brightGreen	windowsterminal/C64.json	/^  "brightGreen": "#55a049",$/;"	s
 brightGreen	windowsterminal/CGA.json	/^  "brightGreen": "#55ff55",$/;"	s
 brightGreen	windowsterminal/CLRS.json	/^  "brightGreen": "#2cc631",$/;"	s
@@ -8641,13 +8431,6 @@ brightPurple	windowsterminal/Breeze.json	/^  "brightPurple": "#8e44ad",$/;"	s
 brightPurple	windowsterminal/Bright Lights.json	/^  "brightPurple": "#ba76e7",$/;"	s
 brightPurple	windowsterminal/Broadcast.json	/^  "brightPurple": "#ffffff",$/;"	s
 brightPurple	windowsterminal/Brogrammer.json	/^  "brightPurple": "#5350b9",$/;"	s
-brightPurple	windowsterminal/Builtin Dark.json	/^  "brightPurple": "#ff55ff",$/;"	s
-brightPurple	windowsterminal/Builtin Light.json	/^  "brightPurple": "#ff55ff",$/;"	s
-brightPurple	windowsterminal/Builtin Pastel Dark.json	/^  "brightPurple": "#ff9cfe",$/;"	s
-brightPurple	windowsterminal/Builtin Solarized Dark.json	/^  "brightPurple": "#6c71c4",$/;"	s
-brightPurple	windowsterminal/Builtin Solarized Light.json	/^  "brightPurple": "#6c71c4",$/;"	s
-brightPurple	windowsterminal/Builtin Tango Dark.json	/^  "brightPurple": "#ad7fa8",$/;"	s
-brightPurple	windowsterminal/Builtin Tango Light.json	/^  "brightPurple": "#ad7fa8",$/;"	s
 brightPurple	windowsterminal/C64.json	/^  "brightPurple": "#8b3f96",$/;"	s
 brightPurple	windowsterminal/CGA.json	/^  "brightPurple": "#ff55ff",$/;"	s
 brightPurple	windowsterminal/CLRS.json	/^  "brightPurple": "#e900b0",$/;"	s
@@ -8926,13 +8709,6 @@ brightRed	windowsterminal/Breeze.json	/^  "brightRed": "#c0392b",$/;"	s
 brightRed	windowsterminal/Bright Lights.json	/^  "brightRed": "#ff355b",$/;"	s
 brightRed	windowsterminal/Broadcast.json	/^  "brightRed": "#ff7b6b",$/;"	s
 brightRed	windowsterminal/Brogrammer.json	/^  "brightRed": "#de352e",$/;"	s
-brightRed	windowsterminal/Builtin Dark.json	/^  "brightRed": "#ff5555",$/;"	s
-brightRed	windowsterminal/Builtin Light.json	/^  "brightRed": "#ff5555",$/;"	s
-brightRed	windowsterminal/Builtin Pastel Dark.json	/^  "brightRed": "#ffb6b0",$/;"	s
-brightRed	windowsterminal/Builtin Solarized Dark.json	/^  "brightRed": "#cb4b16",$/;"	s
-brightRed	windowsterminal/Builtin Solarized Light.json	/^  "brightRed": "#cb4b16",$/;"	s
-brightRed	windowsterminal/Builtin Tango Dark.json	/^  "brightRed": "#ef2929",$/;"	s
-brightRed	windowsterminal/Builtin Tango Light.json	/^  "brightRed": "#ef2929",$/;"	s
 brightRed	windowsterminal/C64.json	/^  "brightRed": "#883932",$/;"	s
 brightRed	windowsterminal/CGA.json	/^  "brightRed": "#ff5555",$/;"	s
 brightRed	windowsterminal/CLRS.json	/^  "brightRed": "#fb0416",$/;"	s
@@ -9211,13 +8987,6 @@ brightWhite	windowsterminal/Breeze.json	/^  "brightWhite": "#fcfcfc",$/;"	s
 brightWhite	windowsterminal/Bright Lights.json	/^  "brightWhite": "#c2c8d7",$/;"	s
 brightWhite	windowsterminal/Broadcast.json	/^  "brightWhite": "#ffffff",$/;"	s
 brightWhite	windowsterminal/Brogrammer.json	/^  "brightWhite": "#ffffff",$/;"	s
-brightWhite	windowsterminal/Builtin Dark.json	/^  "brightWhite": "#ffffff",$/;"	s
-brightWhite	windowsterminal/Builtin Light.json	/^  "brightWhite": "#ffffff",$/;"	s
-brightWhite	windowsterminal/Builtin Pastel Dark.json	/^  "brightWhite": "#ffffff",$/;"	s
-brightWhite	windowsterminal/Builtin Solarized Dark.json	/^  "brightWhite": "#fdf6e3",$/;"	s
-brightWhite	windowsterminal/Builtin Solarized Light.json	/^  "brightWhite": "#fdf6e3",$/;"	s
-brightWhite	windowsterminal/Builtin Tango Dark.json	/^  "brightWhite": "#eeeeec",$/;"	s
-brightWhite	windowsterminal/Builtin Tango Light.json	/^  "brightWhite": "#eeeeec",$/;"	s
 brightWhite	windowsterminal/C64.json	/^  "brightWhite": "#f7f7f7",$/;"	s
 brightWhite	windowsterminal/CGA.json	/^  "brightWhite": "#ffffff",$/;"	s
 brightWhite	windowsterminal/CLRS.json	/^  "brightWhite": "#eeeeec",$/;"	s
@@ -9496,13 +9265,6 @@ brightYellow	windowsterminal/Breeze.json	/^  "brightYellow": "#fdbc4b",$/;"	s
 brightYellow	windowsterminal/Bright Lights.json	/^  "brightYellow": "#ffc251",$/;"	s
 brightYellow	windowsterminal/Broadcast.json	/^  "brightYellow": "#ffff7c",$/;"	s
 brightYellow	windowsterminal/Brogrammer.json	/^  "brightYellow": "#f3bd09",$/;"	s
-brightYellow	windowsterminal/Builtin Dark.json	/^  "brightYellow": "#ffff55",$/;"	s
-brightYellow	windowsterminal/Builtin Light.json	/^  "brightYellow": "#ffff55",$/;"	s
-brightYellow	windowsterminal/Builtin Pastel Dark.json	/^  "brightYellow": "#ffffcc",$/;"	s
-brightYellow	windowsterminal/Builtin Solarized Dark.json	/^  "brightYellow": "#657b83",$/;"	s
-brightYellow	windowsterminal/Builtin Solarized Light.json	/^  "brightYellow": "#657b83",$/;"	s
-brightYellow	windowsterminal/Builtin Tango Dark.json	/^  "brightYellow": "#fce94f",$/;"	s
-brightYellow	windowsterminal/Builtin Tango Light.json	/^  "brightYellow": "#fce94f",$/;"	s
 brightYellow	windowsterminal/C64.json	/^  "brightYellow": "#bfce72",$/;"	s
 brightYellow	windowsterminal/CGA.json	/^  "brightYellow": "#ffff55",$/;"	s
 brightYellow	windowsterminal/CLRS.json	/^  "brightYellow": "#fdd727",$/;"	s
@@ -9787,13 +9549,6 @@ color_preset	lxterminal/Breeze.conf	/^color_preset=Breeze$/;"	k
 color_preset	lxterminal/Bright Lights.conf	/^color_preset=Bright Lights$/;"	k
 color_preset	lxterminal/Broadcast.conf	/^color_preset=Broadcast$/;"	k
 color_preset	lxterminal/Brogrammer.conf	/^color_preset=Brogrammer$/;"	k
-color_preset	lxterminal/Builtin Dark.conf	/^color_preset=Builtin Dark$/;"	k
-color_preset	lxterminal/Builtin Light.conf	/^color_preset=Builtin Light$/;"	k
-color_preset	lxterminal/Builtin Pastel Dark.conf	/^color_preset=Builtin Pastel Dark$/;"	k
-color_preset	lxterminal/Builtin Solarized Dark.conf	/^color_preset=Builtin Solarized Dark$/;"	k
-color_preset	lxterminal/Builtin Solarized Light.conf	/^color_preset=Builtin Solarized Light$/;"	k
-color_preset	lxterminal/Builtin Tango Dark.conf	/^color_preset=Builtin Tango Dark$/;"	k
-color_preset	lxterminal/Builtin Tango Light.conf	/^color_preset=Builtin Tango Light$/;"	k
 color_preset	lxterminal/C64.conf	/^color_preset=C64$/;"	k
 color_preset	lxterminal/CGA.conf	/^color_preset=CGA$/;"	k
 color_preset	lxterminal/CLRS.conf	/^color_preset=CLRS$/;"	k
@@ -10083,13 +9838,6 @@ cursorColor	windowsterminal/Breeze.json	/^  "cursorColor": "#eff0f1",$/;"	s
 cursorColor	windowsterminal/Bright Lights.json	/^  "cursorColor": "#f34b00",$/;"	s
 cursorColor	windowsterminal/Broadcast.json	/^  "cursorColor": "#ffffff",$/;"	s
 cursorColor	windowsterminal/Brogrammer.json	/^  "cursorColor": "#b9b9b9",$/;"	s
-cursorColor	windowsterminal/Builtin Dark.json	/^  "cursorColor": "#bbbbbb",$/;"	s
-cursorColor	windowsterminal/Builtin Light.json	/^  "cursorColor": "#000000",$/;"	s
-cursorColor	windowsterminal/Builtin Pastel Dark.json	/^  "cursorColor": "#ffa560",$/;"	s
-cursorColor	windowsterminal/Builtin Solarized Dark.json	/^  "cursorColor": "#839496",$/;"	s
-cursorColor	windowsterminal/Builtin Solarized Light.json	/^  "cursorColor": "#657b83",$/;"	s
-cursorColor	windowsterminal/Builtin Tango Dark.json	/^  "cursorColor": "#ffffff",$/;"	s
-cursorColor	windowsterminal/Builtin Tango Light.json	/^  "cursorColor": "#000000",$/;"	s
 cursorColor	windowsterminal/C64.json	/^  "cursorColor": "#7869c4",$/;"	s
 cursorColor	windowsterminal/CGA.json	/^  "cursorColor": "#b8b8b8",$/;"	s
 cursorColor	windowsterminal/CLRS.json	/^  "cursorColor": "#6fd3fc",$/;"	s
@@ -10368,13 +10116,6 @@ cyan	windowsterminal/Breeze.json	/^  "cyan": "#1abc9c",$/;"	s
 cyan	windowsterminal/Bright Lights.json	/^  "cyan": "#6cbfb5",$/;"	s
 cyan	windowsterminal/Broadcast.json	/^  "cyan": "#6e9cbe",$/;"	s
 cyan	windowsterminal/Brogrammer.json	/^  "cyan": "#1081d6",$/;"	s
-cyan	windowsterminal/Builtin Dark.json	/^  "cyan": "#00bbbb",$/;"	s
-cyan	windowsterminal/Builtin Light.json	/^  "cyan": "#00bbbb",$/;"	s
-cyan	windowsterminal/Builtin Pastel Dark.json	/^  "cyan": "#c6c5fe",$/;"	s
-cyan	windowsterminal/Builtin Solarized Dark.json	/^  "cyan": "#2aa198",$/;"	s
-cyan	windowsterminal/Builtin Solarized Light.json	/^  "cyan": "#2aa198",$/;"	s
-cyan	windowsterminal/Builtin Tango Dark.json	/^  "cyan": "#06989a",$/;"	s
-cyan	windowsterminal/Builtin Tango Light.json	/^  "cyan": "#06989a",$/;"	s
 cyan	windowsterminal/C64.json	/^  "cyan": "#67b6bd",$/;"	s
 cyan	windowsterminal/CGA.json	/^  "cyan": "#00aaaa",$/;"	s
 cyan	windowsterminal/CLRS.json	/^  "cyan": "#33c3c1",$/;"	s
@@ -10654,13 +10395,6 @@ fgcolor	lxterminal/Breeze.conf	/^fgcolor=rgb(239,240,241)$/;"	k
 fgcolor	lxterminal/Bright Lights.conf	/^fgcolor=rgb(179,201,215)$/;"	k
 fgcolor	lxterminal/Broadcast.conf	/^fgcolor=rgb(230,225,220)$/;"	k
 fgcolor	lxterminal/Brogrammer.conf	/^fgcolor=rgb(214,219,229)$/;"	k
-fgcolor	lxterminal/Builtin Dark.conf	/^fgcolor=rgb(187,187,187)$/;"	k
-fgcolor	lxterminal/Builtin Light.conf	/^fgcolor=rgb(0,0,0)$/;"	k
-fgcolor	lxterminal/Builtin Pastel Dark.conf	/^fgcolor=rgb(187,187,187)$/;"	k
-fgcolor	lxterminal/Builtin Solarized Dark.conf	/^fgcolor=rgb(131,148,150)$/;"	k
-fgcolor	lxterminal/Builtin Solarized Light.conf	/^fgcolor=rgb(101,123,131)$/;"	k
-fgcolor	lxterminal/Builtin Tango Dark.conf	/^fgcolor=rgb(255,255,255)$/;"	k
-fgcolor	lxterminal/Builtin Tango Light.conf	/^fgcolor=rgb(0,0,0)$/;"	k
 fgcolor	lxterminal/C64.conf	/^fgcolor=rgb(120,105,196)$/;"	k
 fgcolor	lxterminal/CGA.conf	/^fgcolor=rgb(170,170,170)$/;"	k
 fgcolor	lxterminal/CLRS.conf	/^fgcolor=rgb(38,38,38)$/;"	k
@@ -10941,13 +10675,6 @@ foreground	windowsterminal/Breeze.json	/^  "foreground": "#eff0f1",$/;"	s
 foreground	windowsterminal/Bright Lights.json	/^  "foreground": "#b3c9d7",$/;"	s
 foreground	windowsterminal/Broadcast.json	/^  "foreground": "#e6e1dc",$/;"	s
 foreground	windowsterminal/Brogrammer.json	/^  "foreground": "#d6dbe5",$/;"	s
-foreground	windowsterminal/Builtin Dark.json	/^  "foreground": "#bbbbbb",$/;"	s
-foreground	windowsterminal/Builtin Light.json	/^  "foreground": "#000000",$/;"	s
-foreground	windowsterminal/Builtin Pastel Dark.json	/^  "foreground": "#bbbbbb",$/;"	s
-foreground	windowsterminal/Builtin Solarized Dark.json	/^  "foreground": "#839496",$/;"	s
-foreground	windowsterminal/Builtin Solarized Light.json	/^  "foreground": "#657b83",$/;"	s
-foreground	windowsterminal/Builtin Tango Dark.json	/^  "foreground": "#ffffff",$/;"	s
-foreground	windowsterminal/Builtin Tango Light.json	/^  "foreground": "#000000",$/;"	s
 foreground	windowsterminal/C64.json	/^  "foreground": "#7869c4",$/;"	s
 foreground	windowsterminal/CGA.json	/^  "foreground": "#aaaaaa",$/;"	s
 foreground	windowsterminal/CLRS.json	/^  "foreground": "#262626",$/;"	s
@@ -11227,13 +10954,6 @@ green	windowsterminal/Breeze.json	/^  "green": "#11d116",$/;"	s
 green	windowsterminal/Bright Lights.json	/^  "green": "#b7e876",$/;"	s
 green	windowsterminal/Broadcast.json	/^  "green": "#519f50",$/;"	s
 green	windowsterminal/Brogrammer.json	/^  "green": "#2dc55e",$/;"	s
-green	windowsterminal/Builtin Dark.json	/^  "green": "#00bb00",$/;"	s
-green	windowsterminal/Builtin Light.json	/^  "green": "#00bb00",$/;"	s
-green	windowsterminal/Builtin Pastel Dark.json	/^  "green": "#a8ff60",$/;"	s
-green	windowsterminal/Builtin Solarized Dark.json	/^  "green": "#859900",$/;"	s
-green	windowsterminal/Builtin Solarized Light.json	/^  "green": "#859900",$/;"	s
-green	windowsterminal/Builtin Tango Dark.json	/^  "green": "#4e9a06",$/;"	s
-green	windowsterminal/Builtin Tango Light.json	/^  "green": "#4e9a06",$/;"	s
 green	windowsterminal/C64.json	/^  "green": "#55a049",$/;"	s
 green	windowsterminal/CGA.json	/^  "green": "#00aa00",$/;"	s
 green	windowsterminal/CLRS.json	/^  "green": "#328a5d",$/;"	s
@@ -11542,13 +11262,6 @@ name	windowsterminal/Breeze.json	/^  "name": "Breeze",$/;"	s
 name	windowsterminal/Bright Lights.json	/^  "name": "Bright Lights",$/;"	s
 name	windowsterminal/Broadcast.json	/^  "name": "Broadcast",$/;"	s
 name	windowsterminal/Brogrammer.json	/^  "name": "Brogrammer",$/;"	s
-name	windowsterminal/Builtin Dark.json	/^  "name": "Builtin Dark",$/;"	s
-name	windowsterminal/Builtin Light.json	/^  "name": "Builtin Light",$/;"	s
-name	windowsterminal/Builtin Pastel Dark.json	/^  "name": "Builtin Pastel Dark",$/;"	s
-name	windowsterminal/Builtin Solarized Dark.json	/^  "name": "Builtin Solarized Dark",$/;"	s
-name	windowsterminal/Builtin Solarized Light.json	/^  "name": "Builtin Solarized Light",$/;"	s
-name	windowsterminal/Builtin Tango Dark.json	/^  "name": "Builtin Tango Dark",$/;"	s
-name	windowsterminal/Builtin Tango Light.json	/^  "name": "Builtin Tango Light",$/;"	s
 name	windowsterminal/C64.json	/^  "name": "C64",$/;"	s
 name	windowsterminal/CGA.json	/^  "name": "CGA",$/;"	s
 name	windowsterminal/CLRS.json	/^  "name": "CLRS",$/;"	s
@@ -11828,13 +11541,6 @@ palette_color_0	lxterminal/Breeze.conf	/^palette_color_0=rgb(49,54,59)$/;"	k
 palette_color_0	lxterminal/Bright Lights.conf	/^palette_color_0=rgb(25,25,25)$/;"	k
 palette_color_0	lxterminal/Broadcast.conf	/^palette_color_0=rgb(0,0,0)$/;"	k
 palette_color_0	lxterminal/Brogrammer.conf	/^palette_color_0=rgb(31,31,31)$/;"	k
-palette_color_0	lxterminal/Builtin Dark.conf	/^palette_color_0=rgb(0,0,0)$/;"	k
-palette_color_0	lxterminal/Builtin Light.conf	/^palette_color_0=rgb(0,0,0)$/;"	k
-palette_color_0	lxterminal/Builtin Pastel Dark.conf	/^palette_color_0=rgb(79,79,79)$/;"	k
-palette_color_0	lxterminal/Builtin Solarized Dark.conf	/^palette_color_0=rgb(7,54,66)$/;"	k
-palette_color_0	lxterminal/Builtin Solarized Light.conf	/^palette_color_0=rgb(7,54,66)$/;"	k
-palette_color_0	lxterminal/Builtin Tango Dark.conf	/^palette_color_0=rgb(0,0,0)$/;"	k
-palette_color_0	lxterminal/Builtin Tango Light.conf	/^palette_color_0=rgb(0,0,0)$/;"	k
 palette_color_0	lxterminal/C64.conf	/^palette_color_0=rgb(9,3,0)$/;"	k
 palette_color_0	lxterminal/CGA.conf	/^palette_color_0=rgb(0,0,0)$/;"	k
 palette_color_0	lxterminal/CLRS.conf	/^palette_color_0=rgb(0,0,0)$/;"	k
@@ -12113,13 +11819,6 @@ palette_color_1	lxterminal/Breeze.conf	/^palette_color_1=rgb(237,21,21)$/;"	k
 palette_color_1	lxterminal/Bright Lights.conf	/^palette_color_1=rgb(255,53,91)$/;"	k
 palette_color_1	lxterminal/Broadcast.conf	/^palette_color_1=rgb(218,73,57)$/;"	k
 palette_color_1	lxterminal/Brogrammer.conf	/^palette_color_1=rgb(248,17,24)$/;"	k
-palette_color_1	lxterminal/Builtin Dark.conf	/^palette_color_1=rgb(187,0,0)$/;"	k
-palette_color_1	lxterminal/Builtin Light.conf	/^palette_color_1=rgb(187,0,0)$/;"	k
-palette_color_1	lxterminal/Builtin Pastel Dark.conf	/^palette_color_1=rgb(255,108,96)$/;"	k
-palette_color_1	lxterminal/Builtin Solarized Dark.conf	/^palette_color_1=rgb(220,50,47)$/;"	k
-palette_color_1	lxterminal/Builtin Solarized Light.conf	/^palette_color_1=rgb(220,50,47)$/;"	k
-palette_color_1	lxterminal/Builtin Tango Dark.conf	/^palette_color_1=rgb(204,0,0)$/;"	k
-palette_color_1	lxterminal/Builtin Tango Light.conf	/^palette_color_1=rgb(204,0,0)$/;"	k
 palette_color_1	lxterminal/C64.conf	/^palette_color_1=rgb(136,57,50)$/;"	k
 palette_color_1	lxterminal/CGA.conf	/^palette_color_1=rgb(170,0,0)$/;"	k
 palette_color_1	lxterminal/CLRS.conf	/^palette_color_1=rgb(248,40,42)$/;"	k
@@ -12398,13 +12097,6 @@ palette_color_10	lxterminal/Breeze.conf	/^palette_color_10=rgb(28,220,154)$/;"	k
 palette_color_10	lxterminal/Bright Lights.conf	/^palette_color_10=rgb(183,232,118)$/;"	k
 palette_color_10	lxterminal/Broadcast.conf	/^palette_color_10=rgb(131,209,130)$/;"	k
 palette_color_10	lxterminal/Brogrammer.conf	/^palette_color_10=rgb(29,211,97)$/;"	k
-palette_color_10	lxterminal/Builtin Dark.conf	/^palette_color_10=rgb(85,255,85)$/;"	k
-palette_color_10	lxterminal/Builtin Light.conf	/^palette_color_10=rgb(85,255,85)$/;"	k
-palette_color_10	lxterminal/Builtin Pastel Dark.conf	/^palette_color_10=rgb(206,255,172)$/;"	k
-palette_color_10	lxterminal/Builtin Solarized Dark.conf	/^palette_color_10=rgb(88,110,117)$/;"	k
-palette_color_10	lxterminal/Builtin Solarized Light.conf	/^palette_color_10=rgb(88,110,117)$/;"	k
-palette_color_10	lxterminal/Builtin Tango Dark.conf	/^palette_color_10=rgb(138,226,52)$/;"	k
-palette_color_10	lxterminal/Builtin Tango Light.conf	/^palette_color_10=rgb(138,226,52)$/;"	k
 palette_color_10	lxterminal/C64.conf	/^palette_color_10=rgb(85,160,73)$/;"	k
 palette_color_10	lxterminal/CGA.conf	/^palette_color_10=rgb(85,255,85)$/;"	k
 palette_color_10	lxterminal/CLRS.conf	/^palette_color_10=rgb(44,198,49)$/;"	k
@@ -12683,13 +12375,6 @@ palette_color_11	lxterminal/Breeze.conf	/^palette_color_11=rgb(253,188,75)$/;"	k
 palette_color_11	lxterminal/Bright Lights.conf	/^palette_color_11=rgb(255,194,81)$/;"	k
 palette_color_11	lxterminal/Broadcast.conf	/^palette_color_11=rgb(255,255,124)$/;"	k
 palette_color_11	lxterminal/Brogrammer.conf	/^palette_color_11=rgb(243,189,9)$/;"	k
-palette_color_11	lxterminal/Builtin Dark.conf	/^palette_color_11=rgb(255,255,85)$/;"	k
-palette_color_11	lxterminal/Builtin Light.conf	/^palette_color_11=rgb(255,255,85)$/;"	k
-palette_color_11	lxterminal/Builtin Pastel Dark.conf	/^palette_color_11=rgb(255,255,204)$/;"	k
-palette_color_11	lxterminal/Builtin Solarized Dark.conf	/^palette_color_11=rgb(101,123,131)$/;"	k
-palette_color_11	lxterminal/Builtin Solarized Light.conf	/^palette_color_11=rgb(101,123,131)$/;"	k
-palette_color_11	lxterminal/Builtin Tango Dark.conf	/^palette_color_11=rgb(252,233,79)$/;"	k
-palette_color_11	lxterminal/Builtin Tango Light.conf	/^palette_color_11=rgb(252,233,79)$/;"	k
 palette_color_11	lxterminal/C64.conf	/^palette_color_11=rgb(191,206,114)$/;"	k
 palette_color_11	lxterminal/CGA.conf	/^palette_color_11=rgb(255,255,85)$/;"	k
 palette_color_11	lxterminal/CLRS.conf	/^palette_color_11=rgb(253,215,39)$/;"	k
@@ -12968,13 +12653,6 @@ palette_color_12	lxterminal/Breeze.conf	/^palette_color_12=rgb(61,174,233)$/;"	k
 palette_color_12	lxterminal/Bright Lights.conf	/^palette_color_12=rgb(118,213,255)$/;"	k
 palette_color_12	lxterminal/Broadcast.conf	/^palette_color_12=rgb(159,206,240)$/;"	k
 palette_color_12	lxterminal/Brogrammer.conf	/^palette_color_12=rgb(16,129,214)$/;"	k
-palette_color_12	lxterminal/Builtin Dark.conf	/^palette_color_12=rgb(85,85,255)$/;"	k
-palette_color_12	lxterminal/Builtin Light.conf	/^palette_color_12=rgb(85,85,255)$/;"	k
-palette_color_12	lxterminal/Builtin Pastel Dark.conf	/^palette_color_12=rgb(181,220,255)$/;"	k
-palette_color_12	lxterminal/Builtin Solarized Dark.conf	/^palette_color_12=rgb(131,148,150)$/;"	k
-palette_color_12	lxterminal/Builtin Solarized Light.conf	/^palette_color_12=rgb(131,148,150)$/;"	k
-palette_color_12	lxterminal/Builtin Tango Dark.conf	/^palette_color_12=rgb(114,159,207)$/;"	k
-palette_color_12	lxterminal/Builtin Tango Light.conf	/^palette_color_12=rgb(114,159,207)$/;"	k
 palette_color_12	lxterminal/C64.conf	/^palette_color_12=rgb(64,49,141)$/;"	k
 palette_color_12	lxterminal/CGA.conf	/^palette_color_12=rgb(85,85,255)$/;"	k
 palette_color_12	lxterminal/CLRS.conf	/^palette_color_12=rgb(22,112,255)$/;"	k
@@ -13253,13 +12931,6 @@ palette_color_13	lxterminal/Breeze.conf	/^palette_color_13=rgb(142,68,173)$/;"	k
 palette_color_13	lxterminal/Bright Lights.conf	/^palette_color_13=rgb(186,118,231)$/;"	k
 palette_color_13	lxterminal/Broadcast.conf	/^palette_color_13=rgb(255,255,255)$/;"	k
 palette_color_13	lxterminal/Brogrammer.conf	/^palette_color_13=rgb(83,80,185)$/;"	k
-palette_color_13	lxterminal/Builtin Dark.conf	/^palette_color_13=rgb(255,85,255)$/;"	k
-palette_color_13	lxterminal/Builtin Light.conf	/^palette_color_13=rgb(255,85,255)$/;"	k
-palette_color_13	lxterminal/Builtin Pastel Dark.conf	/^palette_color_13=rgb(255,156,254)$/;"	k
-palette_color_13	lxterminal/Builtin Solarized Dark.conf	/^palette_color_13=rgb(108,113,196)$/;"	k
-palette_color_13	lxterminal/Builtin Solarized Light.conf	/^palette_color_13=rgb(108,113,196)$/;"	k
-palette_color_13	lxterminal/Builtin Tango Dark.conf	/^palette_color_13=rgb(173,127,168)$/;"	k
-palette_color_13	lxterminal/Builtin Tango Light.conf	/^palette_color_13=rgb(173,127,168)$/;"	k
 palette_color_13	lxterminal/C64.conf	/^palette_color_13=rgb(139,63,150)$/;"	k
 palette_color_13	lxterminal/CGA.conf	/^palette_color_13=rgb(255,85,255)$/;"	k
 palette_color_13	lxterminal/CLRS.conf	/^palette_color_13=rgb(233,0,176)$/;"	k
@@ -13538,13 +13209,6 @@ palette_color_14	lxterminal/Breeze.conf	/^palette_color_14=rgb(22,160,133)$/;"	k
 palette_color_14	lxterminal/Bright Lights.conf	/^palette_color_14=rgb(108,191,181)$/;"	k
 palette_color_14	lxterminal/Broadcast.conf	/^palette_color_14=rgb(160,206,240)$/;"	k
 palette_color_14	lxterminal/Brogrammer.conf	/^palette_color_14=rgb(15,125,219)$/;"	k
-palette_color_14	lxterminal/Builtin Dark.conf	/^palette_color_14=rgb(85,255,255)$/;"	k
-palette_color_14	lxterminal/Builtin Light.conf	/^palette_color_14=rgb(85,255,255)$/;"	k
-palette_color_14	lxterminal/Builtin Pastel Dark.conf	/^palette_color_14=rgb(223,223,254)$/;"	k
-palette_color_14	lxterminal/Builtin Solarized Dark.conf	/^palette_color_14=rgb(147,161,161)$/;"	k
-palette_color_14	lxterminal/Builtin Solarized Light.conf	/^palette_color_14=rgb(147,161,161)$/;"	k
-palette_color_14	lxterminal/Builtin Tango Dark.conf	/^palette_color_14=rgb(52,226,226)$/;"	k
-palette_color_14	lxterminal/Builtin Tango Light.conf	/^palette_color_14=rgb(52,226,226)$/;"	k
 palette_color_14	lxterminal/C64.conf	/^palette_color_14=rgb(103,182,189)$/;"	k
 palette_color_14	lxterminal/CGA.conf	/^palette_color_14=rgb(85,255,255)$/;"	k
 palette_color_14	lxterminal/CLRS.conf	/^palette_color_14=rgb(58,213,206)$/;"	k
@@ -13823,13 +13487,6 @@ palette_color_15	lxterminal/Breeze.conf	/^palette_color_15=rgb(252,252,252)$/;"	
 palette_color_15	lxterminal/Bright Lights.conf	/^palette_color_15=rgb(194,200,215)$/;"	k
 palette_color_15	lxterminal/Broadcast.conf	/^palette_color_15=rgb(255,255,255)$/;"	k
 palette_color_15	lxterminal/Brogrammer.conf	/^palette_color_15=rgb(255,255,255)$/;"	k
-palette_color_15	lxterminal/Builtin Dark.conf	/^palette_color_15=rgb(255,255,255)$/;"	k
-palette_color_15	lxterminal/Builtin Light.conf	/^palette_color_15=rgb(255,255,255)$/;"	k
-palette_color_15	lxterminal/Builtin Pastel Dark.conf	/^palette_color_15=rgb(255,255,255)$/;"	k
-palette_color_15	lxterminal/Builtin Solarized Dark.conf	/^palette_color_15=rgb(253,246,227)$/;"	k
-palette_color_15	lxterminal/Builtin Solarized Light.conf	/^palette_color_15=rgb(253,246,227)$/;"	k
-palette_color_15	lxterminal/Builtin Tango Dark.conf	/^palette_color_15=rgb(238,238,236)$/;"	k
-palette_color_15	lxterminal/Builtin Tango Light.conf	/^palette_color_15=rgb(238,238,236)$/;"	k
 palette_color_15	lxterminal/C64.conf	/^palette_color_15=rgb(247,247,247)$/;"	k
 palette_color_15	lxterminal/CGA.conf	/^palette_color_15=rgb(255,255,255)$/;"	k
 palette_color_15	lxterminal/CLRS.conf	/^palette_color_15=rgb(238,238,236)$/;"	k
@@ -14108,13 +13765,6 @@ palette_color_2	lxterminal/Breeze.conf	/^palette_color_2=rgb(17,209,22)$/;"	k
 palette_color_2	lxterminal/Bright Lights.conf	/^palette_color_2=rgb(183,232,118)$/;"	k
 palette_color_2	lxterminal/Broadcast.conf	/^palette_color_2=rgb(81,159,80)$/;"	k
 palette_color_2	lxterminal/Brogrammer.conf	/^palette_color_2=rgb(45,197,94)$/;"	k
-palette_color_2	lxterminal/Builtin Dark.conf	/^palette_color_2=rgb(0,187,0)$/;"	k
-palette_color_2	lxterminal/Builtin Light.conf	/^palette_color_2=rgb(0,187,0)$/;"	k
-palette_color_2	lxterminal/Builtin Pastel Dark.conf	/^palette_color_2=rgb(168,255,96)$/;"	k
-palette_color_2	lxterminal/Builtin Solarized Dark.conf	/^palette_color_2=rgb(133,153,0)$/;"	k
-palette_color_2	lxterminal/Builtin Solarized Light.conf	/^palette_color_2=rgb(133,153,0)$/;"	k
-palette_color_2	lxterminal/Builtin Tango Dark.conf	/^palette_color_2=rgb(78,154,6)$/;"	k
-palette_color_2	lxterminal/Builtin Tango Light.conf	/^palette_color_2=rgb(78,154,6)$/;"	k
 palette_color_2	lxterminal/C64.conf	/^palette_color_2=rgb(85,160,73)$/;"	k
 palette_color_2	lxterminal/CGA.conf	/^palette_color_2=rgb(0,170,0)$/;"	k
 palette_color_2	lxterminal/CLRS.conf	/^palette_color_2=rgb(50,138,93)$/;"	k
@@ -14393,13 +14043,6 @@ palette_color_3	lxterminal/Breeze.conf	/^palette_color_3=rgb(246,116,0)$/;"	k
 palette_color_3	lxterminal/Bright Lights.conf	/^palette_color_3=rgb(255,194,81)$/;"	k
 palette_color_3	lxterminal/Broadcast.conf	/^palette_color_3=rgb(255,210,74)$/;"	k
 palette_color_3	lxterminal/Brogrammer.conf	/^palette_color_3=rgb(236,186,15)$/;"	k
-palette_color_3	lxterminal/Builtin Dark.conf	/^palette_color_3=rgb(187,187,0)$/;"	k
-palette_color_3	lxterminal/Builtin Light.conf	/^palette_color_3=rgb(187,187,0)$/;"	k
-palette_color_3	lxterminal/Builtin Pastel Dark.conf	/^palette_color_3=rgb(255,255,182)$/;"	k
-palette_color_3	lxterminal/Builtin Solarized Dark.conf	/^palette_color_3=rgb(181,137,0)$/;"	k
-palette_color_3	lxterminal/Builtin Solarized Light.conf	/^palette_color_3=rgb(181,137,0)$/;"	k
-palette_color_3	lxterminal/Builtin Tango Dark.conf	/^palette_color_3=rgb(196,160,0)$/;"	k
-palette_color_3	lxterminal/Builtin Tango Light.conf	/^palette_color_3=rgb(196,160,0)$/;"	k
 palette_color_3	lxterminal/C64.conf	/^palette_color_3=rgb(191,206,114)$/;"	k
 palette_color_3	lxterminal/CGA.conf	/^palette_color_3=rgb(170,85,0)$/;"	k
 palette_color_3	lxterminal/CLRS.conf	/^palette_color_3=rgb(250,112,29)$/;"	k
@@ -14678,13 +14321,6 @@ palette_color_4	lxterminal/Breeze.conf	/^palette_color_4=rgb(29,153,243)$/;"	k
 palette_color_4	lxterminal/Bright Lights.conf	/^palette_color_4=rgb(118,212,255)$/;"	k
 palette_color_4	lxterminal/Broadcast.conf	/^palette_color_4=rgb(109,156,190)$/;"	k
 palette_color_4	lxterminal/Brogrammer.conf	/^palette_color_4=rgb(42,132,210)$/;"	k
-palette_color_4	lxterminal/Builtin Dark.conf	/^palette_color_4=rgb(0,0,187)$/;"	k
-palette_color_4	lxterminal/Builtin Light.conf	/^palette_color_4=rgb(0,0,187)$/;"	k
-palette_color_4	lxterminal/Builtin Pastel Dark.conf	/^palette_color_4=rgb(150,203,254)$/;"	k
-palette_color_4	lxterminal/Builtin Solarized Dark.conf	/^palette_color_4=rgb(38,139,210)$/;"	k
-palette_color_4	lxterminal/Builtin Solarized Light.conf	/^palette_color_4=rgb(38,139,210)$/;"	k
-palette_color_4	lxterminal/Builtin Tango Dark.conf	/^palette_color_4=rgb(52,101,164)$/;"	k
-palette_color_4	lxterminal/Builtin Tango Light.conf	/^palette_color_4=rgb(52,101,164)$/;"	k
 palette_color_4	lxterminal/C64.conf	/^palette_color_4=rgb(64,49,141)$/;"	k
 palette_color_4	lxterminal/CGA.conf	/^palette_color_4=rgb(0,0,170)$/;"	k
 palette_color_4	lxterminal/CLRS.conf	/^palette_color_4=rgb(19,92,208)$/;"	k
@@ -14963,13 +14599,6 @@ palette_color_5	lxterminal/Breeze.conf	/^palette_color_5=rgb(155,89,182)$/;"	k
 palette_color_5	lxterminal/Bright Lights.conf	/^palette_color_5=rgb(186,118,231)$/;"	k
 palette_color_5	lxterminal/Broadcast.conf	/^palette_color_5=rgb(208,208,255)$/;"	k
 palette_color_5	lxterminal/Brogrammer.conf	/^palette_color_5=rgb(78,90,183)$/;"	k
-palette_color_5	lxterminal/Builtin Dark.conf	/^palette_color_5=rgb(187,0,187)$/;"	k
-palette_color_5	lxterminal/Builtin Light.conf	/^palette_color_5=rgb(187,0,187)$/;"	k
-palette_color_5	lxterminal/Builtin Pastel Dark.conf	/^palette_color_5=rgb(255,115,253)$/;"	k
-palette_color_5	lxterminal/Builtin Solarized Dark.conf	/^palette_color_5=rgb(211,54,130)$/;"	k
-palette_color_5	lxterminal/Builtin Solarized Light.conf	/^palette_color_5=rgb(211,54,130)$/;"	k
-palette_color_5	lxterminal/Builtin Tango Dark.conf	/^palette_color_5=rgb(117,80,123)$/;"	k
-palette_color_5	lxterminal/Builtin Tango Light.conf	/^palette_color_5=rgb(117,80,123)$/;"	k
 palette_color_5	lxterminal/C64.conf	/^palette_color_5=rgb(139,63,150)$/;"	k
 palette_color_5	lxterminal/CGA.conf	/^palette_color_5=rgb(170,0,170)$/;"	k
 palette_color_5	lxterminal/CLRS.conf	/^palette_color_5=rgb(159,0,189)$/;"	k
@@ -15248,13 +14877,6 @@ palette_color_6	lxterminal/Breeze.conf	/^palette_color_6=rgb(26,188,156)$/;"	k
 palette_color_6	lxterminal/Bright Lights.conf	/^palette_color_6=rgb(108,191,181)$/;"	k
 palette_color_6	lxterminal/Broadcast.conf	/^palette_color_6=rgb(110,156,190)$/;"	k
 palette_color_6	lxterminal/Brogrammer.conf	/^palette_color_6=rgb(16,129,214)$/;"	k
-palette_color_6	lxterminal/Builtin Dark.conf	/^palette_color_6=rgb(0,187,187)$/;"	k
-palette_color_6	lxterminal/Builtin Light.conf	/^palette_color_6=rgb(0,187,187)$/;"	k
-palette_color_6	lxterminal/Builtin Pastel Dark.conf	/^palette_color_6=rgb(198,197,254)$/;"	k
-palette_color_6	lxterminal/Builtin Solarized Dark.conf	/^palette_color_6=rgb(42,161,152)$/;"	k
-palette_color_6	lxterminal/Builtin Solarized Light.conf	/^palette_color_6=rgb(42,161,152)$/;"	k
-palette_color_6	lxterminal/Builtin Tango Dark.conf	/^palette_color_6=rgb(6,152,154)$/;"	k
-palette_color_6	lxterminal/Builtin Tango Light.conf	/^palette_color_6=rgb(6,152,154)$/;"	k
 palette_color_6	lxterminal/C64.conf	/^palette_color_6=rgb(103,182,189)$/;"	k
 palette_color_6	lxterminal/CGA.conf	/^palette_color_6=rgb(0,170,170)$/;"	k
 palette_color_6	lxterminal/CLRS.conf	/^palette_color_6=rgb(51,195,193)$/;"	k
@@ -15533,13 +15155,6 @@ palette_color_7	lxterminal/Breeze.conf	/^palette_color_7=rgb(239,240,241)$/;"	k
 palette_color_7	lxterminal/Bright Lights.conf	/^palette_color_7=rgb(194,200,215)$/;"	k
 palette_color_7	lxterminal/Broadcast.conf	/^palette_color_7=rgb(255,255,255)$/;"	k
 palette_color_7	lxterminal/Brogrammer.conf	/^palette_color_7=rgb(214,219,229)$/;"	k
-palette_color_7	lxterminal/Builtin Dark.conf	/^palette_color_7=rgb(187,187,187)$/;"	k
-palette_color_7	lxterminal/Builtin Light.conf	/^palette_color_7=rgb(187,187,187)$/;"	k
-palette_color_7	lxterminal/Builtin Pastel Dark.conf	/^palette_color_7=rgb(238,238,238)$/;"	k
-palette_color_7	lxterminal/Builtin Solarized Dark.conf	/^palette_color_7=rgb(238,232,213)$/;"	k
-palette_color_7	lxterminal/Builtin Solarized Light.conf	/^palette_color_7=rgb(238,232,213)$/;"	k
-palette_color_7	lxterminal/Builtin Tango Dark.conf	/^palette_color_7=rgb(211,215,207)$/;"	k
-palette_color_7	lxterminal/Builtin Tango Light.conf	/^palette_color_7=rgb(211,215,207)$/;"	k
 palette_color_7	lxterminal/C64.conf	/^palette_color_7=rgb(255,255,255)$/;"	k
 palette_color_7	lxterminal/CGA.conf	/^palette_color_7=rgb(170,170,170)$/;"	k
 palette_color_7	lxterminal/CLRS.conf	/^palette_color_7=rgb(179,179,179)$/;"	k
@@ -15818,13 +15433,6 @@ palette_color_8	lxterminal/Breeze.conf	/^palette_color_8=rgb(127,140,141)$/;"	k
 palette_color_8	lxterminal/Bright Lights.conf	/^palette_color_8=rgb(25,25,25)$/;"	k
 palette_color_8	lxterminal/Broadcast.conf	/^palette_color_8=rgb(50,50,50)$/;"	k
 palette_color_8	lxterminal/Brogrammer.conf	/^palette_color_8=rgb(214,219,229)$/;"	k
-palette_color_8	lxterminal/Builtin Dark.conf	/^palette_color_8=rgb(85,85,85)$/;"	k
-palette_color_8	lxterminal/Builtin Light.conf	/^palette_color_8=rgb(85,85,85)$/;"	k
-palette_color_8	lxterminal/Builtin Pastel Dark.conf	/^palette_color_8=rgb(124,124,124)$/;"	k
-palette_color_8	lxterminal/Builtin Solarized Dark.conf	/^palette_color_8=rgb(0,43,54)$/;"	k
-palette_color_8	lxterminal/Builtin Solarized Light.conf	/^palette_color_8=rgb(0,43,54)$/;"	k
-palette_color_8	lxterminal/Builtin Tango Dark.conf	/^palette_color_8=rgb(85,87,83)$/;"	k
-palette_color_8	lxterminal/Builtin Tango Light.conf	/^palette_color_8=rgb(85,87,83)$/;"	k
 palette_color_8	lxterminal/C64.conf	/^palette_color_8=rgb(0,0,0)$/;"	k
 palette_color_8	lxterminal/CGA.conf	/^palette_color_8=rgb(85,85,85)$/;"	k
 palette_color_8	lxterminal/CLRS.conf	/^palette_color_8=rgb(85,87,83)$/;"	k
@@ -16103,13 +15711,6 @@ palette_color_9	lxterminal/Breeze.conf	/^palette_color_9=rgb(192,57,43)$/;"	k
 palette_color_9	lxterminal/Bright Lights.conf	/^palette_color_9=rgb(255,53,91)$/;"	k
 palette_color_9	lxterminal/Broadcast.conf	/^palette_color_9=rgb(255,123,107)$/;"	k
 palette_color_9	lxterminal/Brogrammer.conf	/^palette_color_9=rgb(222,53,46)$/;"	k
-palette_color_9	lxterminal/Builtin Dark.conf	/^palette_color_9=rgb(255,85,85)$/;"	k
-palette_color_9	lxterminal/Builtin Light.conf	/^palette_color_9=rgb(255,85,85)$/;"	k
-palette_color_9	lxterminal/Builtin Pastel Dark.conf	/^palette_color_9=rgb(255,182,176)$/;"	k
-palette_color_9	lxterminal/Builtin Solarized Dark.conf	/^palette_color_9=rgb(203,75,22)$/;"	k
-palette_color_9	lxterminal/Builtin Solarized Light.conf	/^palette_color_9=rgb(203,75,22)$/;"	k
-palette_color_9	lxterminal/Builtin Tango Dark.conf	/^palette_color_9=rgb(239,41,41)$/;"	k
-palette_color_9	lxterminal/Builtin Tango Light.conf	/^palette_color_9=rgb(239,41,41)$/;"	k
 palette_color_9	lxterminal/C64.conf	/^palette_color_9=rgb(136,57,50)$/;"	k
 palette_color_9	lxterminal/CGA.conf	/^palette_color_9=rgb(255,85,85)$/;"	k
 palette_color_9	lxterminal/CLRS.conf	/^palette_color_9=rgb(251,4,22)$/;"	k
@@ -16415,13 +16016,6 @@ purple	windowsterminal/Breeze.json	/^  "purple": "#9b59b6",$/;"	s
 purple	windowsterminal/Bright Lights.json	/^  "purple": "#ba76e7",$/;"	s
 purple	windowsterminal/Broadcast.json	/^  "purple": "#d0d0ff",$/;"	s
 purple	windowsterminal/Brogrammer.json	/^  "purple": "#4e5ab7",$/;"	s
-purple	windowsterminal/Builtin Dark.json	/^  "purple": "#bb00bb",$/;"	s
-purple	windowsterminal/Builtin Light.json	/^  "purple": "#bb00bb",$/;"	s
-purple	windowsterminal/Builtin Pastel Dark.json	/^  "purple": "#ff73fd",$/;"	s
-purple	windowsterminal/Builtin Solarized Dark.json	/^  "purple": "#d33682",$/;"	s
-purple	windowsterminal/Builtin Solarized Light.json	/^  "purple": "#d33682",$/;"	s
-purple	windowsterminal/Builtin Tango Dark.json	/^  "purple": "#75507b",$/;"	s
-purple	windowsterminal/Builtin Tango Light.json	/^  "purple": "#75507b",$/;"	s
 purple	windowsterminal/C64.json	/^  "purple": "#8b3f96",$/;"	s
 purple	windowsterminal/CGA.json	/^  "purple": "#aa00aa",$/;"	s
 purple	windowsterminal/CLRS.json	/^  "purple": "#9f00bd",$/;"	s
@@ -16705,13 +16299,6 @@ red	windowsterminal/Breeze.json	/^  "red": "#ed1515",$/;"	s
 red	windowsterminal/Bright Lights.json	/^  "red": "#ff355b",$/;"	s
 red	windowsterminal/Broadcast.json	/^  "red": "#da4939",$/;"	s
 red	windowsterminal/Brogrammer.json	/^  "red": "#f81118",$/;"	s
-red	windowsterminal/Builtin Dark.json	/^  "red": "#bb0000",$/;"	s
-red	windowsterminal/Builtin Light.json	/^  "red": "#bb0000",$/;"	s
-red	windowsterminal/Builtin Pastel Dark.json	/^  "red": "#ff6c60",$/;"	s
-red	windowsterminal/Builtin Solarized Dark.json	/^  "red": "#dc322f",$/;"	s
-red	windowsterminal/Builtin Solarized Light.json	/^  "red": "#dc322f",$/;"	s
-red	windowsterminal/Builtin Tango Dark.json	/^  "red": "#cc0000",$/;"	s
-red	windowsterminal/Builtin Tango Light.json	/^  "red": "#cc0000",$/;"	s
 red	windowsterminal/C64.json	/^  "red": "#883932",$/;"	s
 red	windowsterminal/CGA.json	/^  "red": "#aa0000",$/;"	s
 red	windowsterminal/CLRS.json	/^  "red": "#f8282a",$/;"	s
@@ -17471,118 +17058,6 @@ rgb	freebsd_vt/Brogrammer.conf	/^kern.vt.color.6.rgb="#1081d6"$/;"	k
 rgb	freebsd_vt/Brogrammer.conf	/^kern.vt.color.7.rgb="#d6dbe5"$/;"	k
 rgb	freebsd_vt/Brogrammer.conf	/^kern.vt.color.8.rgb="#d6dbe5"$/;"	k
 rgb	freebsd_vt/Brogrammer.conf	/^kern.vt.color.9.rgb="#de352e"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.0.rgb="#000000"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.1.rgb="#bb0000"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.10.rgb="#55ff55"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.11.rgb="#ffff55"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.12.rgb="#5555ff"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.13.rgb="#ff55ff"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.14.rgb="#55ffff"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.15.rgb="#ffffff"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.2.rgb="#00bb00"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.3.rgb="#bbbb00"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.4.rgb="#0000bb"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.5.rgb="#bb00bb"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.6.rgb="#00bbbb"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.7.rgb="#bbbbbb"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.8.rgb="#555555"$/;"	k
-rgb	freebsd_vt/Builtin Dark.conf	/^kern.vt.color.9.rgb="#ff5555"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.0.rgb="#000000"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.1.rgb="#bb0000"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.10.rgb="#55ff55"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.11.rgb="#ffff55"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.12.rgb="#5555ff"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.13.rgb="#ff55ff"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.14.rgb="#55ffff"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.15.rgb="#ffffff"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.2.rgb="#00bb00"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.3.rgb="#bbbb00"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.4.rgb="#0000bb"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.5.rgb="#bb00bb"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.6.rgb="#00bbbb"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.7.rgb="#000000"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.8.rgb="#555555"$/;"	k
-rgb	freebsd_vt/Builtin Light.conf	/^kern.vt.color.9.rgb="#ff5555"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.0.rgb="#4f4f4f"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.1.rgb="#ff6c60"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.10.rgb="#ceffac"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.11.rgb="#ffffcc"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.12.rgb="#b5dcff"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.13.rgb="#ff9cfe"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.14.rgb="#dfdffe"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.15.rgb="#ffffff"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.2.rgb="#a8ff60"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.3.rgb="#ffffb6"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.4.rgb="#96cbfe"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.5.rgb="#ff73fd"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.6.rgb="#c6c5fe"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.7.rgb="#bbbbbb"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.8.rgb="#7c7c7c"$/;"	k
-rgb	freebsd_vt/Builtin Pastel Dark.conf	/^kern.vt.color.9.rgb="#ffb6b0"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.0.rgb="#073642"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.1.rgb="#dc322f"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.10.rgb="#586e75"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.11.rgb="#657b83"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.12.rgb="#839496"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.13.rgb="#6c71c4"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.14.rgb="#93a1a1"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.15.rgb="#fdf6e3"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.2.rgb="#859900"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.3.rgb="#b58900"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.4.rgb="#268bd2"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.5.rgb="#d33682"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.6.rgb="#2aa198"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.7.rgb="#839496"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.8.rgb="#002b36"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Dark.conf	/^kern.vt.color.9.rgb="#cb4b16"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.0.rgb="#073642"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.1.rgb="#dc322f"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.10.rgb="#586e75"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.11.rgb="#657b83"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.12.rgb="#839496"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.13.rgb="#6c71c4"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.14.rgb="#93a1a1"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.15.rgb="#fdf6e3"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.2.rgb="#859900"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.3.rgb="#b58900"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.4.rgb="#268bd2"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.5.rgb="#d33682"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.6.rgb="#2aa198"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.7.rgb="#657b83"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.8.rgb="#002b36"$/;"	k
-rgb	freebsd_vt/Builtin Solarized Light.conf	/^kern.vt.color.9.rgb="#cb4b16"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.0.rgb="#000000"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.1.rgb="#cc0000"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.10.rgb="#8ae234"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.11.rgb="#fce94f"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.12.rgb="#729fcf"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.13.rgb="#ad7fa8"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.14.rgb="#34e2e2"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.15.rgb="#eeeeec"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.2.rgb="#4e9a06"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.3.rgb="#c4a000"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.4.rgb="#3465a4"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.5.rgb="#75507b"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.6.rgb="#06989a"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.7.rgb="#ffffff"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.8.rgb="#555753"$/;"	k
-rgb	freebsd_vt/Builtin Tango Dark.conf	/^kern.vt.color.9.rgb="#ef2929"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.0.rgb="#000000"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.1.rgb="#cc0000"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.10.rgb="#8ae234"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.11.rgb="#fce94f"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.12.rgb="#729fcf"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.13.rgb="#ad7fa8"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.14.rgb="#34e2e2"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.15.rgb="#eeeeec"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.2.rgb="#4e9a06"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.3.rgb="#c4a000"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.4.rgb="#3465a4"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.5.rgb="#75507b"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.6.rgb="#06989a"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.7.rgb="#000000"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.8.rgb="#555753"$/;"	k
-rgb	freebsd_vt/Builtin Tango Light.conf	/^kern.vt.color.9.rgb="#ef2929"$/;"	k
 rgb	freebsd_vt/C64.conf	/^kern.vt.color.0.rgb="#090300"$/;"	k
 rgb	freebsd_vt/C64.conf	/^kern.vt.color.1.rgb="#883932"$/;"	k
 rgb	freebsd_vt/C64.conf	/^kern.vt.color.10.rgb="#55a049"$/;"	k
@@ -21555,13 +21030,6 @@ selectionBackground	windowsterminal/Breeze.json	/^  "selectionBackground": "#eff
 selectionBackground	windowsterminal/Bright Lights.json	/^  "selectionBackground": "#b3c9d7"$/;"	s
 selectionBackground	windowsterminal/Broadcast.json	/^  "selectionBackground": "#5a647e"$/;"	s
 selectionBackground	windowsterminal/Brogrammer.json	/^  "selectionBackground": "#1f1f1f"$/;"	s
-selectionBackground	windowsterminal/Builtin Dark.json	/^  "selectionBackground": "#b5d5ff"$/;"	s
-selectionBackground	windowsterminal/Builtin Light.json	/^  "selectionBackground": "#b5d5ff"$/;"	s
-selectionBackground	windowsterminal/Builtin Pastel Dark.json	/^  "selectionBackground": "#363983"$/;"	s
-selectionBackground	windowsterminal/Builtin Solarized Dark.json	/^  "selectionBackground": "#073642"$/;"	s
-selectionBackground	windowsterminal/Builtin Solarized Light.json	/^  "selectionBackground": "#eee8d5"$/;"	s
-selectionBackground	windowsterminal/Builtin Tango Dark.json	/^  "selectionBackground": "#b5d5ff"$/;"	s
-selectionBackground	windowsterminal/Builtin Tango Light.json	/^  "selectionBackground": "#b5d5ff"$/;"	s
 selectionBackground	windowsterminal/C64.json	/^  "selectionBackground": "#7869c4"$/;"	s
 selectionBackground	windowsterminal/CGA.json	/^  "selectionBackground": "#c1deff"$/;"	s
 selectionBackground	windowsterminal/CLRS.json	/^  "selectionBackground": "#6fd3fc"$/;"	s
@@ -21840,13 +21308,6 @@ terminal.ansiBlack	vscode/Breeze.json	/^        "terminal.ansiBlack": "#31363b",
 terminal.ansiBlack	vscode/Bright Lights.json	/^        "terminal.ansiBlack": "#191919",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBlack	vscode/Broadcast.json	/^        "terminal.ansiBlack": "#000000",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBlack	vscode/Brogrammer.json	/^        "terminal.ansiBlack": "#1f1f1f",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlack	vscode/Builtin Dark.json	/^        "terminal.ansiBlack": "#000000",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlack	vscode/Builtin Light.json	/^        "terminal.ansiBlack": "#000000",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlack	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiBlack": "#4f4f4f",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlack	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiBlack": "#073642",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlack	vscode/Builtin Solarized Light.json	/^        "terminal.ansiBlack": "#073642",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlack	vscode/Builtin Tango Dark.json	/^        "terminal.ansiBlack": "#000000",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlack	vscode/Builtin Tango Light.json	/^        "terminal.ansiBlack": "#000000",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBlack	vscode/C64.json	/^        "terminal.ansiBlack": "#090300",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBlack	vscode/CGA.json	/^        "terminal.ansiBlack": "#000000",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBlack	vscode/CLRS.json	/^        "terminal.ansiBlack": "#000000",$/;"	s	object:workbench.colorCustomizations
@@ -22128,13 +21589,6 @@ terminal.ansiBlue	vscode/Breeze.json	/^        "terminal.ansiBlue": "#1d99f3",$/
 terminal.ansiBlue	vscode/Bright Lights.json	/^        "terminal.ansiBlue": "#76d4ff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBlue	vscode/Broadcast.json	/^        "terminal.ansiBlue": "#6d9cbe",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBlue	vscode/Brogrammer.json	/^        "terminal.ansiBlue": "#2a84d2",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlue	vscode/Builtin Dark.json	/^        "terminal.ansiBlue": "#0000bb",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlue	vscode/Builtin Light.json	/^        "terminal.ansiBlue": "#0000bb",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlue	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiBlue": "#96cbfe",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlue	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiBlue": "#268bd2",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlue	vscode/Builtin Solarized Light.json	/^        "terminal.ansiBlue": "#268bd2",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlue	vscode/Builtin Tango Dark.json	/^        "terminal.ansiBlue": "#3465a4",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBlue	vscode/Builtin Tango Light.json	/^        "terminal.ansiBlue": "#3465a4",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBlue	vscode/C64.json	/^        "terminal.ansiBlue": "#40318d",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBlue	vscode/CGA.json	/^        "terminal.ansiBlue": "#0000aa",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBlue	vscode/CLRS.json	/^        "terminal.ansiBlue": "#135cd0",$/;"	s	object:workbench.colorCustomizations
@@ -22416,13 +21870,6 @@ terminal.ansiBrightBlack	vscode/Breeze.json	/^        "terminal.ansiBrightBlack"
 terminal.ansiBrightBlack	vscode/Bright Lights.json	/^        "terminal.ansiBrightBlack": "#191919",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightBlack	vscode/Broadcast.json	/^        "terminal.ansiBrightBlack": "#323232",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightBlack	vscode/Brogrammer.json	/^        "terminal.ansiBrightBlack": "#d6dbe5",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlack	vscode/Builtin Dark.json	/^        "terminal.ansiBrightBlack": "#555555",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlack	vscode/Builtin Light.json	/^        "terminal.ansiBrightBlack": "#555555",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlack	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiBrightBlack": "#7c7c7c",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlack	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiBrightBlack": "#002b36",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlack	vscode/Builtin Solarized Light.json	/^        "terminal.ansiBrightBlack": "#002b36",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlack	vscode/Builtin Tango Dark.json	/^        "terminal.ansiBrightBlack": "#555753",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlack	vscode/Builtin Tango Light.json	/^        "terminal.ansiBrightBlack": "#555753",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightBlack	vscode/C64.json	/^        "terminal.ansiBrightBlack": "#000000",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightBlack	vscode/CGA.json	/^        "terminal.ansiBrightBlack": "#555555",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightBlack	vscode/CLRS.json	/^        "terminal.ansiBrightBlack": "#555753",$/;"	s	object:workbench.colorCustomizations
@@ -22704,13 +22151,6 @@ terminal.ansiBrightBlue	vscode/Breeze.json	/^        "terminal.ansiBrightBlue": 
 terminal.ansiBrightBlue	vscode/Bright Lights.json	/^        "terminal.ansiBrightBlue": "#76d5ff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightBlue	vscode/Broadcast.json	/^        "terminal.ansiBrightBlue": "#9fcef0",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightBlue	vscode/Brogrammer.json	/^        "terminal.ansiBrightBlue": "#1081d6",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlue	vscode/Builtin Dark.json	/^        "terminal.ansiBrightBlue": "#5555ff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlue	vscode/Builtin Light.json	/^        "terminal.ansiBrightBlue": "#5555ff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlue	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiBrightBlue": "#b5dcff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlue	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiBrightBlue": "#839496",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlue	vscode/Builtin Solarized Light.json	/^        "terminal.ansiBrightBlue": "#839496",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlue	vscode/Builtin Tango Dark.json	/^        "terminal.ansiBrightBlue": "#729fcf",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightBlue	vscode/Builtin Tango Light.json	/^        "terminal.ansiBrightBlue": "#729fcf",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightBlue	vscode/C64.json	/^        "terminal.ansiBrightBlue": "#40318d",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightBlue	vscode/CGA.json	/^        "terminal.ansiBrightBlue": "#5555ff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightBlue	vscode/CLRS.json	/^        "terminal.ansiBrightBlue": "#1670ff",$/;"	s	object:workbench.colorCustomizations
@@ -22992,13 +22432,6 @@ terminal.ansiBrightCyan	vscode/Breeze.json	/^        "terminal.ansiBrightCyan": 
 terminal.ansiBrightCyan	vscode/Bright Lights.json	/^        "terminal.ansiBrightCyan": "#6cbfb5",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightCyan	vscode/Broadcast.json	/^        "terminal.ansiBrightCyan": "#a0cef0",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightCyan	vscode/Brogrammer.json	/^        "terminal.ansiBrightCyan": "#0f7ddb",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightCyan	vscode/Builtin Dark.json	/^        "terminal.ansiBrightCyan": "#55ffff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightCyan	vscode/Builtin Light.json	/^        "terminal.ansiBrightCyan": "#55ffff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightCyan	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiBrightCyan": "#dfdffe",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightCyan	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiBrightCyan": "#93a1a1",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightCyan	vscode/Builtin Solarized Light.json	/^        "terminal.ansiBrightCyan": "#93a1a1",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightCyan	vscode/Builtin Tango Dark.json	/^        "terminal.ansiBrightCyan": "#34e2e2",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightCyan	vscode/Builtin Tango Light.json	/^        "terminal.ansiBrightCyan": "#34e2e2",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightCyan	vscode/C64.json	/^        "terminal.ansiBrightCyan": "#67b6bd",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightCyan	vscode/CGA.json	/^        "terminal.ansiBrightCyan": "#55ffff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightCyan	vscode/CLRS.json	/^        "terminal.ansiBrightCyan": "#3ad5ce",$/;"	s	object:workbench.colorCustomizations
@@ -23280,13 +22713,6 @@ terminal.ansiBrightGreen	vscode/Breeze.json	/^        "terminal.ansiBrightGreen"
 terminal.ansiBrightGreen	vscode/Bright Lights.json	/^        "terminal.ansiBrightGreen": "#b7e876",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightGreen	vscode/Broadcast.json	/^        "terminal.ansiBrightGreen": "#83d182",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightGreen	vscode/Brogrammer.json	/^        "terminal.ansiBrightGreen": "#1dd361",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightGreen	vscode/Builtin Dark.json	/^        "terminal.ansiBrightGreen": "#55ff55",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightGreen	vscode/Builtin Light.json	/^        "terminal.ansiBrightGreen": "#55ff55",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightGreen	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiBrightGreen": "#ceffac",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightGreen	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiBrightGreen": "#586e75",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightGreen	vscode/Builtin Solarized Light.json	/^        "terminal.ansiBrightGreen": "#586e75",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightGreen	vscode/Builtin Tango Dark.json	/^        "terminal.ansiBrightGreen": "#8ae234",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightGreen	vscode/Builtin Tango Light.json	/^        "terminal.ansiBrightGreen": "#8ae234",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightGreen	vscode/C64.json	/^        "terminal.ansiBrightGreen": "#55a049",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightGreen	vscode/CGA.json	/^        "terminal.ansiBrightGreen": "#55ff55",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightGreen	vscode/CLRS.json	/^        "terminal.ansiBrightGreen": "#2cc631",$/;"	s	object:workbench.colorCustomizations
@@ -23568,13 +22994,6 @@ terminal.ansiBrightMagenta	vscode/Breeze.json	/^        "terminal.ansiBrightMage
 terminal.ansiBrightMagenta	vscode/Bright Lights.json	/^        "terminal.ansiBrightMagenta": "#ba76e7",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightMagenta	vscode/Broadcast.json	/^        "terminal.ansiBrightMagenta": "#ffffff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightMagenta	vscode/Brogrammer.json	/^        "terminal.ansiBrightMagenta": "#5350b9",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightMagenta	vscode/Builtin Dark.json	/^        "terminal.ansiBrightMagenta": "#ff55ff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightMagenta	vscode/Builtin Light.json	/^        "terminal.ansiBrightMagenta": "#ff55ff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightMagenta	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiBrightMagenta": "#ff9cfe",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightMagenta	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiBrightMagenta": "#6c71c4",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightMagenta	vscode/Builtin Solarized Light.json	/^        "terminal.ansiBrightMagenta": "#6c71c4",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightMagenta	vscode/Builtin Tango Dark.json	/^        "terminal.ansiBrightMagenta": "#ad7fa8",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightMagenta	vscode/Builtin Tango Light.json	/^        "terminal.ansiBrightMagenta": "#ad7fa8",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightMagenta	vscode/C64.json	/^        "terminal.ansiBrightMagenta": "#8b3f96",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightMagenta	vscode/CGA.json	/^        "terminal.ansiBrightMagenta": "#ff55ff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightMagenta	vscode/CLRS.json	/^        "terminal.ansiBrightMagenta": "#e900b0",$/;"	s	object:workbench.colorCustomizations
@@ -23856,13 +23275,6 @@ terminal.ansiBrightRed	vscode/Breeze.json	/^        "terminal.ansiBrightRed": "#
 terminal.ansiBrightRed	vscode/Bright Lights.json	/^        "terminal.ansiBrightRed": "#ff355b",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightRed	vscode/Broadcast.json	/^        "terminal.ansiBrightRed": "#ff7b6b",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightRed	vscode/Brogrammer.json	/^        "terminal.ansiBrightRed": "#de352e",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightRed	vscode/Builtin Dark.json	/^        "terminal.ansiBrightRed": "#ff5555",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightRed	vscode/Builtin Light.json	/^        "terminal.ansiBrightRed": "#ff5555",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightRed	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiBrightRed": "#ffb6b0",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightRed	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiBrightRed": "#cb4b16",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightRed	vscode/Builtin Solarized Light.json	/^        "terminal.ansiBrightRed": "#cb4b16",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightRed	vscode/Builtin Tango Dark.json	/^        "terminal.ansiBrightRed": "#ef2929",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightRed	vscode/Builtin Tango Light.json	/^        "terminal.ansiBrightRed": "#ef2929",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightRed	vscode/C64.json	/^        "terminal.ansiBrightRed": "#883932",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightRed	vscode/CGA.json	/^        "terminal.ansiBrightRed": "#ff5555",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightRed	vscode/CLRS.json	/^        "terminal.ansiBrightRed": "#fb0416",$/;"	s	object:workbench.colorCustomizations
@@ -24144,13 +23556,6 @@ terminal.ansiBrightWhite	vscode/Breeze.json	/^        "terminal.ansiBrightWhite"
 terminal.ansiBrightWhite	vscode/Bright Lights.json	/^        "terminal.ansiBrightWhite": "#c2c8d7",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightWhite	vscode/Broadcast.json	/^        "terminal.ansiBrightWhite": "#ffffff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightWhite	vscode/Brogrammer.json	/^        "terminal.ansiBrightWhite": "#ffffff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightWhite	vscode/Builtin Dark.json	/^        "terminal.ansiBrightWhite": "#ffffff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightWhite	vscode/Builtin Light.json	/^        "terminal.ansiBrightWhite": "#ffffff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightWhite	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiBrightWhite": "#ffffff",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightWhite	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiBrightWhite": "#fdf6e3",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightWhite	vscode/Builtin Solarized Light.json	/^        "terminal.ansiBrightWhite": "#fdf6e3",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightWhite	vscode/Builtin Tango Dark.json	/^        "terminal.ansiBrightWhite": "#eeeeec",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightWhite	vscode/Builtin Tango Light.json	/^        "terminal.ansiBrightWhite": "#eeeeec",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightWhite	vscode/C64.json	/^        "terminal.ansiBrightWhite": "#f7f7f7",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightWhite	vscode/CGA.json	/^        "terminal.ansiBrightWhite": "#ffffff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightWhite	vscode/CLRS.json	/^        "terminal.ansiBrightWhite": "#eeeeec",$/;"	s	object:workbench.colorCustomizations
@@ -24432,13 +23837,6 @@ terminal.ansiBrightYellow	vscode/Breeze.json	/^        "terminal.ansiBrightYello
 terminal.ansiBrightYellow	vscode/Bright Lights.json	/^        "terminal.ansiBrightYellow": "#ffc251",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightYellow	vscode/Broadcast.json	/^        "terminal.ansiBrightYellow": "#ffff7c",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightYellow	vscode/Brogrammer.json	/^        "terminal.ansiBrightYellow": "#f3bd09",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightYellow	vscode/Builtin Dark.json	/^        "terminal.ansiBrightYellow": "#ffff55",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightYellow	vscode/Builtin Light.json	/^        "terminal.ansiBrightYellow": "#ffff55",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightYellow	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiBrightYellow": "#ffffcc",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightYellow	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiBrightYellow": "#657b83",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightYellow	vscode/Builtin Solarized Light.json	/^        "terminal.ansiBrightYellow": "#657b83",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightYellow	vscode/Builtin Tango Dark.json	/^        "terminal.ansiBrightYellow": "#fce94f",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiBrightYellow	vscode/Builtin Tango Light.json	/^        "terminal.ansiBrightYellow": "#fce94f",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightYellow	vscode/C64.json	/^        "terminal.ansiBrightYellow": "#bfce72",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightYellow	vscode/CGA.json	/^        "terminal.ansiBrightYellow": "#ffff55",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiBrightYellow	vscode/CLRS.json	/^        "terminal.ansiBrightYellow": "#fdd727",$/;"	s	object:workbench.colorCustomizations
@@ -24720,13 +24118,6 @@ terminal.ansiCyan	vscode/Breeze.json	/^        "terminal.ansiCyan": "#1abc9c",$/
 terminal.ansiCyan	vscode/Bright Lights.json	/^        "terminal.ansiCyan": "#6cbfb5",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiCyan	vscode/Broadcast.json	/^        "terminal.ansiCyan": "#6e9cbe",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiCyan	vscode/Brogrammer.json	/^        "terminal.ansiCyan": "#1081d6",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiCyan	vscode/Builtin Dark.json	/^        "terminal.ansiCyan": "#00bbbb",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiCyan	vscode/Builtin Light.json	/^        "terminal.ansiCyan": "#00bbbb",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiCyan	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiCyan": "#c6c5fe",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiCyan	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiCyan": "#2aa198",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiCyan	vscode/Builtin Solarized Light.json	/^        "terminal.ansiCyan": "#2aa198",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiCyan	vscode/Builtin Tango Dark.json	/^        "terminal.ansiCyan": "#06989a",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiCyan	vscode/Builtin Tango Light.json	/^        "terminal.ansiCyan": "#06989a",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiCyan	vscode/C64.json	/^        "terminal.ansiCyan": "#67b6bd",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiCyan	vscode/CGA.json	/^        "terminal.ansiCyan": "#00aaaa",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiCyan	vscode/CLRS.json	/^        "terminal.ansiCyan": "#33c3c1",$/;"	s	object:workbench.colorCustomizations
@@ -25008,13 +24399,6 @@ terminal.ansiGreen	vscode/Breeze.json	/^        "terminal.ansiGreen": "#11d116",
 terminal.ansiGreen	vscode/Bright Lights.json	/^        "terminal.ansiGreen": "#b7e876",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiGreen	vscode/Broadcast.json	/^        "terminal.ansiGreen": "#519f50",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiGreen	vscode/Brogrammer.json	/^        "terminal.ansiGreen": "#2dc55e",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiGreen	vscode/Builtin Dark.json	/^        "terminal.ansiGreen": "#00bb00",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiGreen	vscode/Builtin Light.json	/^        "terminal.ansiGreen": "#00bb00",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiGreen	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiGreen": "#a8ff60",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiGreen	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiGreen": "#859900",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiGreen	vscode/Builtin Solarized Light.json	/^        "terminal.ansiGreen": "#859900",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiGreen	vscode/Builtin Tango Dark.json	/^        "terminal.ansiGreen": "#4e9a06",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiGreen	vscode/Builtin Tango Light.json	/^        "terminal.ansiGreen": "#4e9a06",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiGreen	vscode/C64.json	/^        "terminal.ansiGreen": "#55a049",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiGreen	vscode/CGA.json	/^        "terminal.ansiGreen": "#00aa00",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiGreen	vscode/CLRS.json	/^        "terminal.ansiGreen": "#328a5d",$/;"	s	object:workbench.colorCustomizations
@@ -25296,13 +24680,6 @@ terminal.ansiMagenta	vscode/Breeze.json	/^        "terminal.ansiMagenta": "#9b59
 terminal.ansiMagenta	vscode/Bright Lights.json	/^        "terminal.ansiMagenta": "#ba76e7",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiMagenta	vscode/Broadcast.json	/^        "terminal.ansiMagenta": "#d0d0ff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiMagenta	vscode/Brogrammer.json	/^        "terminal.ansiMagenta": "#4e5ab7",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiMagenta	vscode/Builtin Dark.json	/^        "terminal.ansiMagenta": "#bb00bb",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiMagenta	vscode/Builtin Light.json	/^        "terminal.ansiMagenta": "#bb00bb",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiMagenta	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiMagenta": "#ff73fd",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiMagenta	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiMagenta": "#d33682",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiMagenta	vscode/Builtin Solarized Light.json	/^        "terminal.ansiMagenta": "#d33682",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiMagenta	vscode/Builtin Tango Dark.json	/^        "terminal.ansiMagenta": "#75507b",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiMagenta	vscode/Builtin Tango Light.json	/^        "terminal.ansiMagenta": "#75507b",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiMagenta	vscode/C64.json	/^        "terminal.ansiMagenta": "#8b3f96",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiMagenta	vscode/CGA.json	/^        "terminal.ansiMagenta": "#aa00aa",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiMagenta	vscode/CLRS.json	/^        "terminal.ansiMagenta": "#9f00bd",$/;"	s	object:workbench.colorCustomizations
@@ -25584,13 +24961,6 @@ terminal.ansiRed	vscode/Breeze.json	/^        "terminal.ansiRed": "#ed1515",$/;"
 terminal.ansiRed	vscode/Bright Lights.json	/^        "terminal.ansiRed": "#ff355b",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiRed	vscode/Broadcast.json	/^        "terminal.ansiRed": "#da4939",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiRed	vscode/Brogrammer.json	/^        "terminal.ansiRed": "#f81118",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiRed	vscode/Builtin Dark.json	/^        "terminal.ansiRed": "#bb0000",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiRed	vscode/Builtin Light.json	/^        "terminal.ansiRed": "#bb0000",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiRed	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiRed": "#ff6c60",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiRed	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiRed": "#dc322f",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiRed	vscode/Builtin Solarized Light.json	/^        "terminal.ansiRed": "#dc322f",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiRed	vscode/Builtin Tango Dark.json	/^        "terminal.ansiRed": "#cc0000",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiRed	vscode/Builtin Tango Light.json	/^        "terminal.ansiRed": "#cc0000",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiRed	vscode/C64.json	/^        "terminal.ansiRed": "#883932",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiRed	vscode/CGA.json	/^        "terminal.ansiRed": "#aa0000",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiRed	vscode/CLRS.json	/^        "terminal.ansiRed": "#f8282a",$/;"	s	object:workbench.colorCustomizations
@@ -25872,13 +25242,6 @@ terminal.ansiWhite	vscode/Breeze.json	/^        "terminal.ansiWhite": "#eff0f1",
 terminal.ansiWhite	vscode/Bright Lights.json	/^        "terminal.ansiWhite": "#c2c8d7",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiWhite	vscode/Broadcast.json	/^        "terminal.ansiWhite": "#ffffff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiWhite	vscode/Brogrammer.json	/^        "terminal.ansiWhite": "#d6dbe5",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiWhite	vscode/Builtin Dark.json	/^        "terminal.ansiWhite": "#bbbbbb",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiWhite	vscode/Builtin Light.json	/^        "terminal.ansiWhite": "#bbbbbb",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiWhite	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiWhite": "#eeeeee",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiWhite	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiWhite": "#eee8d5",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiWhite	vscode/Builtin Solarized Light.json	/^        "terminal.ansiWhite": "#eee8d5",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiWhite	vscode/Builtin Tango Dark.json	/^        "terminal.ansiWhite": "#d3d7cf",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiWhite	vscode/Builtin Tango Light.json	/^        "terminal.ansiWhite": "#d3d7cf",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiWhite	vscode/C64.json	/^        "terminal.ansiWhite": "#ffffff",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiWhite	vscode/CGA.json	/^        "terminal.ansiWhite": "#aaaaaa",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiWhite	vscode/CLRS.json	/^        "terminal.ansiWhite": "#b3b3b3",$/;"	s	object:workbench.colorCustomizations
@@ -26160,13 +25523,6 @@ terminal.ansiYellow	vscode/Breeze.json	/^        "terminal.ansiYellow": "#f67400
 terminal.ansiYellow	vscode/Bright Lights.json	/^        "terminal.ansiYellow": "#ffc251",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiYellow	vscode/Broadcast.json	/^        "terminal.ansiYellow": "#ffd24a",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiYellow	vscode/Brogrammer.json	/^        "terminal.ansiYellow": "#ecba0f",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiYellow	vscode/Builtin Dark.json	/^        "terminal.ansiYellow": "#bbbb00",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiYellow	vscode/Builtin Light.json	/^        "terminal.ansiYellow": "#bbbb00",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiYellow	vscode/Builtin Pastel Dark.json	/^        "terminal.ansiYellow": "#ffffb6",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiYellow	vscode/Builtin Solarized Dark.json	/^        "terminal.ansiYellow": "#b58900",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiYellow	vscode/Builtin Solarized Light.json	/^        "terminal.ansiYellow": "#b58900",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiYellow	vscode/Builtin Tango Dark.json	/^        "terminal.ansiYellow": "#c4a000",$/;"	s	object:workbench.colorCustomizations
-terminal.ansiYellow	vscode/Builtin Tango Light.json	/^        "terminal.ansiYellow": "#c4a000",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiYellow	vscode/C64.json	/^        "terminal.ansiYellow": "#bfce72",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiYellow	vscode/CGA.json	/^        "terminal.ansiYellow": "#aa5500",$/;"	s	object:workbench.colorCustomizations
 terminal.ansiYellow	vscode/CLRS.json	/^        "terminal.ansiYellow": "#fa701d",$/;"	s	object:workbench.colorCustomizations
@@ -26448,13 +25804,6 @@ terminal.background	vscode/Breeze.json	/^        "terminal.background": "#31363b
 terminal.background	vscode/Bright Lights.json	/^        "terminal.background": "#191919",$/;"	s	object:workbench.colorCustomizations
 terminal.background	vscode/Broadcast.json	/^        "terminal.background": "#2b2b2b",$/;"	s	object:workbench.colorCustomizations
 terminal.background	vscode/Brogrammer.json	/^        "terminal.background": "#131313",$/;"	s	object:workbench.colorCustomizations
-terminal.background	vscode/Builtin Dark.json	/^        "terminal.background": "#000000",$/;"	s	object:workbench.colorCustomizations
-terminal.background	vscode/Builtin Light.json	/^        "terminal.background": "#ffffff",$/;"	s	object:workbench.colorCustomizations
-terminal.background	vscode/Builtin Pastel Dark.json	/^        "terminal.background": "#000000",$/;"	s	object:workbench.colorCustomizations
-terminal.background	vscode/Builtin Solarized Dark.json	/^        "terminal.background": "#002b36",$/;"	s	object:workbench.colorCustomizations
-terminal.background	vscode/Builtin Solarized Light.json	/^        "terminal.background": "#fdf6e3",$/;"	s	object:workbench.colorCustomizations
-terminal.background	vscode/Builtin Tango Dark.json	/^        "terminal.background": "#000000",$/;"	s	object:workbench.colorCustomizations
-terminal.background	vscode/Builtin Tango Light.json	/^        "terminal.background": "#ffffff",$/;"	s	object:workbench.colorCustomizations
 terminal.background	vscode/C64.json	/^        "terminal.background": "#40318d",$/;"	s	object:workbench.colorCustomizations
 terminal.background	vscode/CGA.json	/^        "terminal.background": "#000000",$/;"	s	object:workbench.colorCustomizations
 terminal.background	vscode/CLRS.json	/^        "terminal.background": "#ffffff",$/;"	s	object:workbench.colorCustomizations
@@ -26736,13 +26085,6 @@ terminal.foreground	vscode/Breeze.json	/^        "terminal.foreground": "#eff0f1
 terminal.foreground	vscode/Bright Lights.json	/^        "terminal.foreground": "#b3c9d7",$/;"	s	object:workbench.colorCustomizations
 terminal.foreground	vscode/Broadcast.json	/^        "terminal.foreground": "#e6e1dc",$/;"	s	object:workbench.colorCustomizations
 terminal.foreground	vscode/Brogrammer.json	/^        "terminal.foreground": "#d6dbe5",$/;"	s	object:workbench.colorCustomizations
-terminal.foreground	vscode/Builtin Dark.json	/^        "terminal.foreground": "#bbbbbb",$/;"	s	object:workbench.colorCustomizations
-terminal.foreground	vscode/Builtin Light.json	/^        "terminal.foreground": "#000000",$/;"	s	object:workbench.colorCustomizations
-terminal.foreground	vscode/Builtin Pastel Dark.json	/^        "terminal.foreground": "#bbbbbb",$/;"	s	object:workbench.colorCustomizations
-terminal.foreground	vscode/Builtin Solarized Dark.json	/^        "terminal.foreground": "#839496",$/;"	s	object:workbench.colorCustomizations
-terminal.foreground	vscode/Builtin Solarized Light.json	/^        "terminal.foreground": "#657b83",$/;"	s	object:workbench.colorCustomizations
-terminal.foreground	vscode/Builtin Tango Dark.json	/^        "terminal.foreground": "#ffffff",$/;"	s	object:workbench.colorCustomizations
-terminal.foreground	vscode/Builtin Tango Light.json	/^        "terminal.foreground": "#000000",$/;"	s	object:workbench.colorCustomizations
 terminal.foreground	vscode/C64.json	/^        "terminal.foreground": "#7869c4",$/;"	s	object:workbench.colorCustomizations
 terminal.foreground	vscode/CGA.json	/^        "terminal.foreground": "#aaaaaa",$/;"	s	object:workbench.colorCustomizations
 terminal.foreground	vscode/CLRS.json	/^        "terminal.foreground": "#262626",$/;"	s	object:workbench.colorCustomizations
@@ -27024,13 +26366,6 @@ terminal.selectionBackground	vscode/Breeze.json	/^        "terminal.selectionBac
 terminal.selectionBackground	vscode/Bright Lights.json	/^        "terminal.selectionBackground": "#b3c9d7",$/;"	s	object:workbench.colorCustomizations
 terminal.selectionBackground	vscode/Broadcast.json	/^        "terminal.selectionBackground": "#5a647e",$/;"	s	object:workbench.colorCustomizations
 terminal.selectionBackground	vscode/Brogrammer.json	/^        "terminal.selectionBackground": "#1f1f1f",$/;"	s	object:workbench.colorCustomizations
-terminal.selectionBackground	vscode/Builtin Dark.json	/^        "terminal.selectionBackground": "#b5d5ff",$/;"	s	object:workbench.colorCustomizations
-terminal.selectionBackground	vscode/Builtin Light.json	/^        "terminal.selectionBackground": "#b5d5ff",$/;"	s	object:workbench.colorCustomizations
-terminal.selectionBackground	vscode/Builtin Pastel Dark.json	/^        "terminal.selectionBackground": "#363983",$/;"	s	object:workbench.colorCustomizations
-terminal.selectionBackground	vscode/Builtin Solarized Dark.json	/^        "terminal.selectionBackground": "#073642",$/;"	s	object:workbench.colorCustomizations
-terminal.selectionBackground	vscode/Builtin Solarized Light.json	/^        "terminal.selectionBackground": "#eee8d5",$/;"	s	object:workbench.colorCustomizations
-terminal.selectionBackground	vscode/Builtin Tango Dark.json	/^        "terminal.selectionBackground": "#b5d5ff",$/;"	s	object:workbench.colorCustomizations
-terminal.selectionBackground	vscode/Builtin Tango Light.json	/^        "terminal.selectionBackground": "#b5d5ff",$/;"	s	object:workbench.colorCustomizations
 terminal.selectionBackground	vscode/C64.json	/^        "terminal.selectionBackground": "#7869c4",$/;"	s	object:workbench.colorCustomizations
 terminal.selectionBackground	vscode/CGA.json	/^        "terminal.selectionBackground": "#c1deff",$/;"	s	object:workbench.colorCustomizations
 terminal.selectionBackground	vscode/CLRS.json	/^        "terminal.selectionBackground": "#6fd3fc",$/;"	s	object:workbench.colorCustomizations
@@ -27312,13 +26647,6 @@ terminalCursor.foreground	vscode/Breeze.json	/^        "terminalCursor.foregroun
 terminalCursor.foreground	vscode/Bright Lights.json	/^        "terminalCursor.foreground": "#f34b00"$/;"	s	object:workbench.colorCustomizations
 terminalCursor.foreground	vscode/Broadcast.json	/^        "terminalCursor.foreground": "#ffffff"$/;"	s	object:workbench.colorCustomizations
 terminalCursor.foreground	vscode/Brogrammer.json	/^        "terminalCursor.foreground": "#b9b9b9"$/;"	s	object:workbench.colorCustomizations
-terminalCursor.foreground	vscode/Builtin Dark.json	/^        "terminalCursor.foreground": "#bbbbbb"$/;"	s	object:workbench.colorCustomizations
-terminalCursor.foreground	vscode/Builtin Light.json	/^        "terminalCursor.foreground": "#000000"$/;"	s	object:workbench.colorCustomizations
-terminalCursor.foreground	vscode/Builtin Pastel Dark.json	/^        "terminalCursor.foreground": "#ffa560"$/;"	s	object:workbench.colorCustomizations
-terminalCursor.foreground	vscode/Builtin Solarized Dark.json	/^        "terminalCursor.foreground": "#839496"$/;"	s	object:workbench.colorCustomizations
-terminalCursor.foreground	vscode/Builtin Solarized Light.json	/^        "terminalCursor.foreground": "#657b83"$/;"	s	object:workbench.colorCustomizations
-terminalCursor.foreground	vscode/Builtin Tango Dark.json	/^        "terminalCursor.foreground": "#ffffff"$/;"	s	object:workbench.colorCustomizations
-terminalCursor.foreground	vscode/Builtin Tango Light.json	/^        "terminalCursor.foreground": "#000000"$/;"	s	object:workbench.colorCustomizations
 terminalCursor.foreground	vscode/C64.json	/^        "terminalCursor.foreground": "#7869c4"$/;"	s	object:workbench.colorCustomizations
 terminalCursor.foreground	vscode/CGA.json	/^        "terminalCursor.foreground": "#b8b8b8"$/;"	s	object:workbench.colorCustomizations
 terminalCursor.foreground	vscode/CLRS.json	/^        "terminalCursor.foreground": "#6fd3fc"$/;"	s	object:workbench.colorCustomizations
@@ -27604,13 +26932,6 @@ white	windowsterminal/Breeze.json	/^  "white": "#eff0f1",$/;"	s
 white	windowsterminal/Bright Lights.json	/^  "white": "#c2c8d7",$/;"	s
 white	windowsterminal/Broadcast.json	/^  "white": "#ffffff",$/;"	s
 white	windowsterminal/Brogrammer.json	/^  "white": "#d6dbe5",$/;"	s
-white	windowsterminal/Builtin Dark.json	/^  "white": "#bbbbbb",$/;"	s
-white	windowsterminal/Builtin Light.json	/^  "white": "#bbbbbb",$/;"	s
-white	windowsterminal/Builtin Pastel Dark.json	/^  "white": "#eeeeee",$/;"	s
-white	windowsterminal/Builtin Solarized Dark.json	/^  "white": "#eee8d5",$/;"	s
-white	windowsterminal/Builtin Solarized Light.json	/^  "white": "#eee8d5",$/;"	s
-white	windowsterminal/Builtin Tango Dark.json	/^  "white": "#d3d7cf",$/;"	s
-white	windowsterminal/Builtin Tango Light.json	/^  "white": "#d3d7cf",$/;"	s
 white	windowsterminal/C64.json	/^  "white": "#ffffff",$/;"	s
 white	windowsterminal/CGA.json	/^  "white": "#aaaaaa",$/;"	s
 white	windowsterminal/CLRS.json	/^  "white": "#b3b3b3",$/;"	s
@@ -27889,13 +27210,6 @@ workbench.colorCustomizations	vscode/Breeze.json	/^    "workbench.colorCustomiza
 workbench.colorCustomizations	vscode/Bright Lights.json	/^    "workbench.colorCustomizations": {$/;"	o
 workbench.colorCustomizations	vscode/Broadcast.json	/^    "workbench.colorCustomizations": {$/;"	o
 workbench.colorCustomizations	vscode/Brogrammer.json	/^    "workbench.colorCustomizations": {$/;"	o
-workbench.colorCustomizations	vscode/Builtin Dark.json	/^    "workbench.colorCustomizations": {$/;"	o
-workbench.colorCustomizations	vscode/Builtin Light.json	/^    "workbench.colorCustomizations": {$/;"	o
-workbench.colorCustomizations	vscode/Builtin Pastel Dark.json	/^    "workbench.colorCustomizations": {$/;"	o
-workbench.colorCustomizations	vscode/Builtin Solarized Dark.json	/^    "workbench.colorCustomizations": {$/;"	o
-workbench.colorCustomizations	vscode/Builtin Solarized Light.json	/^    "workbench.colorCustomizations": {$/;"	o
-workbench.colorCustomizations	vscode/Builtin Tango Dark.json	/^    "workbench.colorCustomizations": {$/;"	o
-workbench.colorCustomizations	vscode/Builtin Tango Light.json	/^    "workbench.colorCustomizations": {$/;"	o
 workbench.colorCustomizations	vscode/C64.json	/^    "workbench.colorCustomizations": {$/;"	o
 workbench.colorCustomizations	vscode/CGA.json	/^    "workbench.colorCustomizations": {$/;"	o
 workbench.colorCustomizations	vscode/CLRS.json	/^    "workbench.colorCustomizations": {$/;"	o
@@ -28179,13 +27493,6 @@ yellow	windowsterminal/Breeze.json	/^  "yellow": "#f67400",$/;"	s
 yellow	windowsterminal/Bright Lights.json	/^  "yellow": "#ffc251",$/;"	s
 yellow	windowsterminal/Broadcast.json	/^  "yellow": "#ffd24a",$/;"	s
 yellow	windowsterminal/Brogrammer.json	/^  "yellow": "#ecba0f",$/;"	s
-yellow	windowsterminal/Builtin Dark.json	/^  "yellow": "#bbbb00",$/;"	s
-yellow	windowsterminal/Builtin Light.json	/^  "yellow": "#bbbb00",$/;"	s
-yellow	windowsterminal/Builtin Pastel Dark.json	/^  "yellow": "#ffffb6",$/;"	s
-yellow	windowsterminal/Builtin Solarized Dark.json	/^  "yellow": "#b58900",$/;"	s
-yellow	windowsterminal/Builtin Solarized Light.json	/^  "yellow": "#b58900",$/;"	s
-yellow	windowsterminal/Builtin Tango Dark.json	/^  "yellow": "#c4a000",$/;"	s
-yellow	windowsterminal/Builtin Tango Light.json	/^  "yellow": "#c4a000",$/;"	s
 yellow	windowsterminal/C64.json	/^  "yellow": "#bfce72",$/;"	s
 yellow	windowsterminal/CGA.json	/^  "yellow": "#aa5500",$/;"	s
 yellow	windowsterminal/CLRS.json	/^  "yellow": "#fa701d",$/;"	s

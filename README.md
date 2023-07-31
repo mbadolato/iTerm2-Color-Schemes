@@ -19,6 +19,7 @@
   - [Visual Studio Code color schemes](#visual-studio-code-color-schemes)
   - [Windows Terminal color schemes](#windows-terminal-color-schemes)
   - [Alacritty color schemes](#alacritty-color-schemes)
+  - [Termux color schemes](#termux-color-schemes)
 
 ## Intro
 
@@ -93,7 +94,7 @@ Have a great iTerm theme? Send it to me via a Pull Request!
     - Save the .itermcolors file
 2. Put your theme file into `/schemes/`
     - `mv <your-itermcolors-file> schemes/`
-3. Generate other formats for your theme using the `update_all.py` script.
+3. Generate other formats for your theme using the `gen.py` script.
     - `cd tools/ && python3 gen.py` OR
     - `cd tools/ && ./gen.py`
 4. If you only want to generate files for your theme, you can specify this with the `-s` flag.
@@ -296,34 +297,6 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Brogrammer
 
 ![Screenshot](screenshots/brogrammer.png)
-
-### Builtin Dark
-
-![Screenshot](screenshots/builtin_dark.png)
-
-### Builtin Light
-
-![Screenshot](screenshots/builtin_light.png)
-
-### Builtin Pastel Dark
-
-![Screenshot](screenshots/builtin_pastel_dark.png)
-
-### Builtin Solarized Dark
-
-![Screenshot](screenshots/builtin_solarized_dark.png)
-
-### Builtin Solarized Light
-
-![Screenshot](screenshots/builtin_solarized_light.png)
-
-### Builtin Tango Dark
-
-![Screenshot](screenshots/builtin_tango_dark.png)
-
-### Builtin Tango Light
-
-![Screenshot](screenshots/builtin_tango_light.png)
 
 ### C64
 
@@ -672,6 +645,42 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### IR_Black
 
 ![Screenshot](screenshots/ir_black.png)
+
+### iTerm2 Default
+
+![Screenshot](screenshots/iterm2-default.png)
+
+### iTerm2 Dark Background
+
+![Screenshot](screenshots/iterm2-dark-background.png)
+
+### iTerm2 Light Background
+
+![Screenshot](screenshots/iterm2-light-background.png)
+
+### iTerm2 Pastel (Dark Background)
+
+![Screenshot](screenshots/iterm2-pastel-dark-background.png)
+
+### iTerm2 Smoooooth
+
+![Screenshot](screenshots/iterm2-smoooooth.png)
+
+### iTerm2 Solarized Dark
+
+![Screenshot](screenshots/iterm2-solarized-dark.png)
+
+### iTerm2 Solarized Light
+
+![Screenshot](screenshots/iterm2-solarized-light.png)
+
+### iTerm2 Tango Dark
+
+![Screenshot](screenshots/iterm2-tango-dark.png)
+
+### iTerm2 Tango Light
+
+![Screenshot](screenshots/iterm2-tango-light.png)
 
 ### Jackie Brown
 
@@ -1356,9 +1365,9 @@ more information.
 
 ## Credits
 
-The schemes Novel, Espresso, Grass, Homebrew, Ocean, Pro, Man Page, Red Sands, and Terminal Basic are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the exception of "Solid Colors" (random backgrounds, which iTerm doesn't support) and "Aerogel" (which is hideous).
-
-Credits for all other themes are listed in [CREDITS.md](./CREDITS.md)
+- The schemes [_Novel_](#novel), [_Espresso_](#espresso), [_Grass_](#grass), [_Homebrew_](#homebrew), [_Ocean_](#ocean), [_Pro_](#pro), [_Man Page_](#man-page), [_Red Sands_](#red-sands), and [_Terminal Basic_](#terminal-basic) are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the exception of _Solid Colors_ (random backgrounds, which iTerm doesn't support) and _Aerogel_ (which is hideous).
+- The schemes [_iTerm2 Default_](#iterm2-default), [_iTerm2 Dark Background_](#iterm2-dark-background), [_iTerm2 Light Background_](#iterm2-light-background), [_iTerm2 Pastel (Dark Background)_](#iterm2-pastel-dark-background), [_iTerm2 Smoooooth_](#iterm2-smoooooth), [_iTerm2 Solarized Dark_](#iterm2-solarized-dark), [_iTerm2 Solarized Light_](#iterm2-solarized-light), [_iTerm2 Tango Dark_](#iterm2-tango-dark), and [_iTerm2 Tango Light_](#iterm2-tango-light) are ports from the built-in color schemes of iTerm2 (current source is iTerm2 v3.4.19).
+- Credits for all other themes are listed in [CREDITS.md](./CREDITS.md)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
@@ -1547,6 +1556,9 @@ Copy the theme content from `alacritty/` and paste the content to your [alacritt
 
 Copy the theme file from `rio/` and paste to your rio theme config directory (typically `~/.config/rio/themes/`).
 Then specify the name of your theme in the `theme` field in the [config file](https://raphamorim.io/rio/docs/#configuration-file).
+
+### Termux color schemes
+Copy the theme content from `termux/` and paste the content to `~/.termux` directory as `~/.termux/colors.properties` file and run `termux-reload-settings` to apply the theme.
 
 ### Previewing color schemes
 
