@@ -1,0 +1,12 @@
+# Doom City Lights
+[colors]
+foreground = "#a0b3c5"
+background = "#1d252c"
+cursor_bg = "#5ec4ff"
+cursor_border = "#5ec4ff"
+cursor_fg = "#b7c5d3"
+selection_bg = "#718ca1"
+selection_fg = "#b3ecff"
+
+ansi = ["#10151c","#d95468","#8bd49c","#ebbf83","#539afc","#b62d65","#008b94","#a0b3c5"]
+brights = ["#41505e","#d98e48","#33ced8","#f7dab3","#5ec4ff","#e27e8d","#70e1e8","#728ca0"]

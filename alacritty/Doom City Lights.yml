@@ -1,0 +1,29 @@
+# Colors (Doom City Lights)
+colors:
+  bright:
+    black: '#41505e'
+    blue: '#5ec4ff'
+    cyan: '#70e1e8'
+    green: '#33ced8'
+    magenta: '#e27e8d'
+    red: '#d98e48'
+    white: '#728ca0'
+    yellow: '#f7dab3'
+  cursor:
+    cursor: '#5ec4ff'
+    text: '#b7c5d3'
+  normal:
+    black: '#10151c'
+    blue: '#539afc'
+    cyan: '#008b94'
+    green: '#8bd49c'
+    magenta: '#b62d65'
+    red: '#d95468'
+    white: '#a0b3c5'
+    yellow: '#ebbf83'
+  primary:
+    background: '#1d252c'
+    foreground: '#a0b3c5'
+  selection:
+    background: '#718ca1'
+    text: '#b3ecff'
