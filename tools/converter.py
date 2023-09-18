@@ -8,23 +8,23 @@ from jinja2 import Environment
 from rich.progress import Progress
 
 iterm_re = re.compile("(.+)\.itermcolors$")
-iterm_ext = '.itermcolors'
-hex_format = '%02x%02x%02x'
+iterm_ext = ".itermcolors"
+hex_format = "%02x%02x%02x"
 
-red_comp = 'Red Component'
-green_comp = 'Green Component'
-blue_comp = 'Blue Component'
+red_comp = "Red Component"
+green_comp = "Green Component"
+blue_comp = "Blue Component"
 
 
 class Converter(object):
     def __init__(
-            self,
-            schemes: list,
-            templates: list,
-            loader: Environment,
-            bar: Progress,
-            path_to_iterm_schemes: str,
-            output_dir: str
+        self,
+        schemes: list,
+        templates: list,
+        loader: Environment,
+        bar: Progress,
+        path_to_iterm_schemes: str,
+        output_dir: str,
     ):
         self.bar = bar
         self.loader = loader
@@ -62,10 +62,10 @@ class Converter(object):
         iterm_path = self.iterm_dir + scheme + iterm_ext
 
         if not os.path.isfile(iterm_path):
-            logging.error('Scheme ' + iterm_path + ' doesn\'t exist')
+            logging.error("Scheme " + iterm_path + " doesn't exist")
             sys.exit(1)
 
-        with open(iterm_path, 'rb') as f:
+        with open(iterm_path, "rb") as f:
             plist = plistlib.load(f)
             guint16_pallete = []
 
@@ -73,28 +73,34 @@ class Converter(object):
                 color_components = plist[color_name]
                 color_hex, rgb = self.calculate_color(color_components)
                 guint16 = self.calculcate_color_components_guint16(color_components)
-                colors_dict[color_name.replace(' ', '_')] = {
-                    'hex': color_hex,
-                    'rgb': ','.join(map(lambda x: str(x), rgb)),
-                    'guint16': guint16
+                hexchat = " ".join(
+                    [color_hex[i : i + 2] * 2 for i in range(0, len(color_hex), 2)]
+                )
+                colors_dict[color_name.replace(" ", "_")] = {
+                    "hex": color_hex,
+                    "rgb": ",".join(map(lambda x: str(x), rgb)),
+                    "guint16": guint16,
+                    "hexchat": hexchat,
                 }
 
             # we need second loop because guint16 palette must have colors in sorted order
             for color_index in range(16):
-                key = 'Ansi %d Color' % color_index
+                key = "Ansi %d Color" % color_index
                 guint16_pallete += self.calculcate_color_components_guint16(plist[key])
 
-            colors_dict['Guint16_Palette'] = '{%s}' % ', '.join(guint16_pallete)
-            colors_dict['Dark_Theme'] = self.detect_dark_theme(int(colors_dict['Background_Color']['hex'], 16))
+            colors_dict["Guint16_Palette"] = "{%s}" % ", ".join(guint16_pallete)
+            colors_dict["Dark_Theme"] = self.detect_dark_theme(
+                int(colors_dict["Background_Color"]["hex"], 16)
+            )
 
         f.close()
 
         return colors_dict
 
     def detect_dark_theme(self, hex):
-        r = (hex >> 16) & 0xff
-        g = (hex >>  8) & 0xff
-        b = (hex >>  0) & 0xff
+        r = (hex >> 16) & 0xFF
+        g = (hex >> 8) & 0xFF
+        b = (hex >> 0) & 0xFF
 
         return 0.2126 * r + 0.7152 * g + 0.0722 * b < 40
 
@@ -127,13 +133,13 @@ class Converter(object):
 
         for scheme in colors:
             data = colors[scheme]
-            data['scheme_name'] = scheme
+            data["scheme_name"] = scheme
             result = t.render(data)
-            destination = self.out_dir + template + '/' + scheme + ext
-            f = open(destination, 'w')
+            destination = self.out_dir + template + "/" + scheme + ext
+            f = open(destination, "w")
             f.write(result)
             f.close()
-            if (result.startswith('#!')):
+            if result.startswith("#!"):
                 os.chmod(destination, 0o755)
             self.bar.update(task_id, advance=1)
 
@@ -141,7 +147,9 @@ class Converter(object):
         colors = {}
 
         with self.bar:
-            task_id = self.bar.add_task("process", template="Parse iTerm schemes", start=False)
+            task_id = self.bar.add_task(
+                "process", template="Parse iTerm schemes", start=False
+            )
             self.bar.update(task_id, total=len(self.schemes))
             self.bar.start_task(task_id)
 
@@ -150,5 +158,7 @@ class Converter(object):
                 self.bar.update(task_id, advance=1)
 
             for template in self.templates:
-                task_id_tmp = self.bar.add_task("process", template="Generating " + template, start=False)
+                task_id_tmp = self.bar.add_task(
+                    "process", template="Generating " + template, start=False
+                )
                 self.generate_from_template(task_id_tmp, colors, template)
