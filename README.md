@@ -112,6 +112,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 1. Get config file from your terminal/editor/etc.
 2. Change actual colors in config to template placeholders from the list below.
+
 ```
   {{ Background_Color }}
   {{ Bold_Color }}
@@ -146,10 +147,13 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
     - {{ Guint16_Palette }} with a string containing all ansi colors as guint16 values
     - {{ Dark_Theme }} which contains a sign that the theme is dark
 ```
+
 3. If you need a new value type for color, add it too `tools/converter.py`
 4. Put your template file into `tool/templates`. A folder with schemas will be created based on the filename. And the file extension will remain with all generated ones. Example: `editor.ext` file will generate schemas as `editor/scheme_name.ext`
 5. Generate all existing themes for all templates `cd tools/ && ./gen.py`. Or, if you only want to generate schemas for your template, you can use the `-t` flag.
-  - `./gen.py -t kitty`
+
+- `./gen.py -t kitty`
+
 6. If in the process you had to add new dependencies or update the version of python, do not forget to indicate this in `requirements.txt` or `.python-version`.
 
 ## Screenshots
@@ -161,6 +165,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### 3024 Night
 
 ![Screenshot](screenshots/3024_night.png)
+
+### Aardvark Blue
+
+![Screenshot](screenshots/aardvark_blue.png)
 
 ### Abernathy
 
@@ -189,7 +197,6 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Andromeda
 
 ![Screenshot](screenshots/andromeda.png)
-
 
 ### Apple Classic
 
@@ -1563,6 +1570,7 @@ Copy the theme file from `rio/` and paste to your rio theme config directory (ty
 Then specify the name of your theme in the `theme` field in the [config file](https://raphamorim.io/rio/docs/#configuration-file).
 
 ### Termux color schemes
+
 Copy the theme content from `termux/` and paste the content to `~/.termux` directory as `~/.termux/colors.properties` file and run `termux-reload-settings` to apply the theme.
 
 ### Previewing color schemes

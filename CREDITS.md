@@ -2,6 +2,8 @@
 
 The 3024 Day and 3024 Night themes were created by [0x3024](https://github.com/0x3024)
 
+The Aardvark Blue theme was created by [joshka](https://github.com/joshka)
+
 The Abernathy theme was created by [barish](https://instagram.com/barish)
 
 The Adventure theme was created by [hongzimao](https://github.com/hongzimao/iTerm2-Color-Schemes)
@@ -214,7 +216,7 @@ The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/c
 
 The Night Owlish Light theme was created by [praveenpuglia](https://github.com/praveenpuglia) based on [sdras](https://github.com/sdras)'s [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VS Code theme.
 
-The Niji theme was created by [some dude](https://github.com/indyandie) based on [Arcoiris ](./README.md#niji) and [darcula](https://github.com/helix-editor/helix/blob/d5af6031f6ccd0a3f32efbb210aec24cd9c71ab1/runtime/themes/darcula.toml)
+The Niji theme was created by [some dude](https://github.com/indyandie) based on [Arcoiris](./README.md#niji) and [darcula](https://github.com/helix-editor/helix/blob/d5af6031f6ccd0a3f32efbb210aec24cd9c71ab1/runtime/themes/darcula.toml)
 
 The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Shriram-Balaji)
 

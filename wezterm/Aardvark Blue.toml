@@ -1,0 +1,12 @@
+# Aardvark Blue
+[colors]
+foreground = "#dddddd"
+background = "#102040"
+cursor_bg = "#007acc"
+cursor_border = "#007acc"
+cursor_fg = "#bfdbfe"
+selection_bg = "#bfdbfe"
+selection_fg = "#000000"
+
+ansi = ["#191919","#aa342e","#4b8c0f","#dbba00","#1370d3","#c43ac3","#008eb0","#bebebe"]
+brights = ["#454545","#f05b50","#95dc55","#ffe763","#60a4ec","#e26be2","#60b6cb","#f7f7f7"]
