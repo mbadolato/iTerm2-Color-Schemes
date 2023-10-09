@@ -116,6 +116,8 @@ The Flat theme was created by [ahmetsulek](https://github.com/ahmetsulek/flat-te
 
 The Flatland theme was created by [realchaseadams](http://www.snip2code.com/Snippet/148193/Flatland-color-scheme-for-iTerm2)
 
+The Flexoki theme was created by [kepano](https://stephango.com/flexoki)
+
 The Floraverse theme was created by [papayakitty](http://floraverse.com/)
 
 The Forest Blue theme was found [here](https://github.com/olkinn/forest-blue-iTerm)
