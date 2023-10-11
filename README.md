@@ -506,6 +506,14 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/flatland.png)
 
+### Flexoki Dark
+
+![Screenshot](screenshots/flexoki-dark.png)
+
+### Flexoki Light
+
+![Screenshot](screenshots/flexoki-light.png)
+
 ### Floraverse
 
 ![Screenshot](screenshots/floraverse.png)

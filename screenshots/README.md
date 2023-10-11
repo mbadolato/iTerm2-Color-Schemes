@@ -340,6 +340,14 @@
 
 ![image](flatland.png)
 
+`flexoki-dark.png`
+
+![image](flexoki-dark.png)
+
+`flexoki-light.png`
+
+![image](flexoki-light.png)
+
 `floraverse.png`
 
 ![image](floraverse.png)

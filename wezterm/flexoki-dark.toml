@@ -1,0 +1,12 @@
+# flexoki-dark
+[colors]
+foreground = "#cecdc3"
+background = "#1c1b1a"
+cursor_bg = "#cecdc3"
+cursor_border = "#cecdc3"
+cursor_fg = "#1c1b1a"
+selection_bg = "#cecdc3"
+selection_fg = "#4385be"
+
+ansi = ["#1c1b1a","#d14d41","#879a39","#d0a215","#4385be","#ce5d97","#3aa99f","#b7b5ac"]
+brights = ["#575653","#d14d41","#879a39","#d0a215","#4385be","#ce5d97","#3aa99f","#cecdc3"]
