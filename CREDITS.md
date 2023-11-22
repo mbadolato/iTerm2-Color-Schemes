@@ -18,6 +18,8 @@ The Andromeda theme was created by [memije](https://github.com/memije) based on 
 
 The Apple Classic theme was created by [Brian Meyer](https://github.com/CodeMonkeyBrian)
 
+The Apple System Colors theme was created by [Jeremy Bahadirli](https://github.com/jeremybahadirli)
+
 The Arcoiris theme was created by [some random guy](https://github.com/indyandie)
 
 The Argonaut theme was created by [effkay](https://github.com/effkay/iTerm-argonaut)
