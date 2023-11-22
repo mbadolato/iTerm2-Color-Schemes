@@ -1,0 +1,12 @@
+# Apple System Colors
+[colors]
+foreground = "#ffffff"
+background = "#1e1e1e"
+cursor_bg = "#98989d"
+cursor_border = "#98989d"
+cursor_fg = "#ffffff"
+selection_bg = "#3f638b"
+selection_fg = "#ffffff"
+
+ansi = ["#1a1a1a","#cc372e","#26a439","#cdac08","#0869cb","#9647bf","#479ec2","#98989d"]
+brights = ["#464646","#ff453a","#32d74b","#ffd60a","#0a84ff","#bf5af2","#76d6ff","#ffffff"]

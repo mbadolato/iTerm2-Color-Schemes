@@ -40,6 +40,10 @@
 
 ![image](apple-classic.png)
 
+`apple-system-colors.png`
+
+![image](apple-system-colors.png)
+
 `argonaut.png`
 
 ![image](argonaut.png)
