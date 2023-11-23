@@ -138,7 +138,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
   {{ Ansi_14_Color }} // bright cyan
   {{ Ansi_15_Color }} // bright white
 
-  Eeach color has these fields:
+  Each color has these fields:
     - {{ Background_Color.hex }} for hex representation
     - {{ Background_Color.rgb }} for rgb representation as a "(r, g, b)" string
     - {{ Backgroun_Color.guint16 }} for guint16 representation
