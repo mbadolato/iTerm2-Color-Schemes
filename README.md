@@ -490,6 +490,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/fideloper.png)
 
+### Firefly Traditional
+
+![Screenshot](screenshots/firefly-traditional.png)
+
 ### FirefoxDev
 
 ![Screenshot](screenshots/firefox_dev.png)
