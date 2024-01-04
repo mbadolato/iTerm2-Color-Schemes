@@ -236,6 +236,10 @@
 
 ![image](darkside.png)
 
+`dayfox.png`
+
+![image](dayfox.png)
+
 `deep.png`
 
 ![image](deep.png)
@@ -672,6 +676,10 @@
 
 ![image](neutron.png)
 
+`nightfox.png`
+
+![image](nightfox.png)
+
 `night_owlish_light.png`
 
 ![image](night_owlish_light.png)
@@ -995,6 +1003,10 @@
 `teerb.png`
 
 ![image](teerb.png)
+
+`terafox.png`
+
+![image](terafox.png)
 
 `terminal_basic.png`
 
