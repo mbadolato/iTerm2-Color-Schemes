@@ -110,6 +110,8 @@ The FairyFloss theme was created by [rebecabordini](https://github.com/rebecabor
 
 The Fideloper theme was inspired by [Fideloper](http://fideloper.com/)
 
+The Firefly Traditional theme was created by [Seunghun Thomas Lee](https://github.com/stlee42)
+
 The FirefoxDev theme was created by [Or3stis](https://github.com/Or3stis)
 
 The Firewatch theme was created by [Sebastian Szturo](https://github.com/SebastianSzturo) as an [atom syntax theme](https://atom.io/themes/firewatch-syntax) and ported to an iTerm scheme by [Ben Styles](https://github.com/leeds-ebooks). It was originally inspired by the [Firewatch game](http://www.firewatchgame.com/).

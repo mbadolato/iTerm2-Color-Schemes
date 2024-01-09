@@ -324,6 +324,10 @@
 
 ![image](fideloper.png)
 
+`firefly-traditional.png`
+
+![image](firefly-traditional.png)
+
 `firefox_dev.png`
 
 ![image](firefox_dev.png)

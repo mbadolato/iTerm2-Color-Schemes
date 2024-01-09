@@ -1,0 +1,12 @@
+# Firefly Traditional
+[colors]
+foreground = "#f5f5f5"
+background = "#000000"
+cursor_bg = "#00f900"
+cursor_border = "#00f900"
+cursor_fg = "#ffffff"
+selection_bg = "#cfeac6"
+selection_fg = "#000000"
+
+ansi = ["#000000","#c23720","#33bc26","#afad24","#5a63ff","#d53ad2","#33bbc7","#cccccc"]
+brights = ["#828282","#ff3b1e","#2ee720","#ecec16","#838dff","#ff5cfe","#29f0f0","#ebebeb"]
