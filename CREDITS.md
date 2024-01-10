@@ -218,6 +218,8 @@ The theme Neon was created by [phosphorcube](https://github.com/phosphorcube/iTe
 
 The Neutron theme was created by [Ch4s3](https://github.com/Ch4s3/iTerm2-Neutron)
 
+The Nightfox, Dayfox and Terafox theme was created by [EdenEast](https://github.com/edeneast/nightfox.nvim)
+
 The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/category/themes/)
 
 The Night Owlish Light theme was created by [praveenpuglia](https://github.com/praveenpuglia) based on [sdras](https://github.com/sdras)'s [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VS Code theme.

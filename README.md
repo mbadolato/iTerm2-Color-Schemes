@@ -398,6 +398,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/darkside.png)
 
+### Dayfox
+
+![Screenshot](screenshots/dayfox.png)
+
 ### Deep
 
 ![Screenshot](screenshots/deep.png)
@@ -878,6 +882,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/neutron.png)
 
+### Nightfox
+
+![Screenshot](screenshots/nightfox.png)
+
 ### NightLion v1
 
 ![Screenshot](screenshots/nightlion_v1.png)
@@ -1218,6 +1226,10 @@ more information.
 ### Teerb
 
 ![Screenshot](screenshots/teerb.png)
+
+### Terafox
+
+![Screenshot](screenshots/terafox.png)
 
 ### Terminal Basic
 
