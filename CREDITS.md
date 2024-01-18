@@ -106,6 +106,8 @@ The Everblush theme was created by [Mangeshrex](https://github.com/Mangeshrex)
 
 The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
 
+The Farmhouse themes where created by [mattly](https://github.com/mattly) https://github.com/mattly/iterm-colors-farmhouse based on an original Emacs theme.
+
 The FairyFloss theme was created by [rebecabordini](https://github.com/rebecabordini) based on [sailorhg](https://sailorhg.github.io/fairyfloss/) VS Code theme.
 
 The Fideloper theme was inspired by [Fideloper](http://fideloper.com/)

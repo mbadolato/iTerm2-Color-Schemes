@@ -490,6 +490,14 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/fahrenheit.png)
 
+### Farmhouse Dark
+
+![Screenshot](screenshots/farmhouse-dark.png)
+
+### Farmhouse Light
+
+![Screenshot](screenshots/farmhouse-light.png)
+
 ### Fideloper
 
 ![Screenshot](screenshots/fideloper.png)

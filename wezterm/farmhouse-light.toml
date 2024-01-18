@@ -1,0 +1,12 @@
+# farmhouse-light
+[colors]
+foreground = "#1d2027"
+background = "#e8e4e1"
+cursor_bg = "#006efe"
+cursor_border = "#006efe"
+cursor_fg = "#1d2027"
+selection_bg = "#b3b1aa"
+selection_fg = "#4d5658"
+
+ansi = ["#1d2027","#8d0003","#3a7d00","#a95600","#092ccd","#820046","#229256","#e8e4e1"]
+brights = ["#394047","#eb0009","#7ac100","#ea9a00","#006efe","#bf3b7f","#19e062","#f4eef0"]

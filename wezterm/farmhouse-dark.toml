@@ -1,0 +1,12 @@
+# farmhouse-dark
+[colors]
+foreground = "#e8e4e1"
+background = "#1d2027"
+cursor_bg = "#006efe"
+cursor_border = "#006efe"
+cursor_fg = "#e8e4e1"
+selection_bg = "#4d5658"
+selection_fg = "#b3b1aa"
+
+ansi = ["#1d2027","#ba0004","#549d00","#c87300","#0049e6","#9f1b61","#1fb65c","#e8e4e1"]
+brights = ["#394047","#eb0009","#7ac100","#ea9a00","#006efe","#bf3b7f","#19e062","#f4eef0"]
