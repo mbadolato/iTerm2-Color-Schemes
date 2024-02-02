@@ -1,7 +1,7 @@
 # Colors (NvimDark)
 colors:
   bright:
-    black: '#62656b'
+    black: '#4f5258'
     blue: '#a6dbff'
     cyan: '#8cf8f7'
     green: '#b3f6c0'
@@ -10,7 +10,7 @@ colors:
     white: '#eef1f8'
     yellow: '#fce094'
   cursor:
-    cursor: '#62656b'
+    cursor: '#9b9ea4'
     text: '#e0e2ea'
   normal:
     black: '#07080d'
