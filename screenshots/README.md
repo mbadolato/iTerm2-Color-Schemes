@@ -724,6 +724,14 @@
 
 ![image](novel.png)
 
+`NvimDark.png`
+
+![image](NvimDark.png)
+
+`NvimLight.png`
+
+![image](NvimLight.png)
+
 `obsidian.png`
 
 ![image](obsidian.png)
