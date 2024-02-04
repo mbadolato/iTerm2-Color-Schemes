@@ -926,6 +926,14 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/nord_light.png)
 
+### NvimDark
+
+![Screenshot](screenshots/NvimDark.png)
+
+### NvimLight
+
+![Screenshot](screenshots/NvimLight.png)
+
 ### Obsidian
 
 ![Screenshot](screenshots/obsidian.png)

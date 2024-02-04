@@ -1,0 +1,12 @@
+# NvimDark
+[colors]
+foreground = "#e0e2ea"
+background = "#14161b"
+cursor_bg = "#9b9ea4"
+cursor_border = "#9b9ea4"
+cursor_fg = "#e0e2ea"
+selection_bg = "#4f5258"
+selection_fg = "#e0e2ea"
+
+ansi = ["#07080d","#ffc0b9","#b3f6c0","#fce094","#a6dbff","#ffcaff","#8cf8f7","#eef1f8"]
+brights = ["#4f5258","#ffc0b9","#b3f6c0","#fce094","#a6dbff","#ffcaff","#8cf8f7","#eef1f8"]
