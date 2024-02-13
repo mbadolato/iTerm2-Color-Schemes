@@ -1,0 +1,33 @@
+# Colors (FunForrest)
+
+[colors.bright]
+black = '#7f6a55'
+blue = '#7cc9cf'
+cyan = '#e6a96b'
+green = '#bfc65a'
+magenta = '#d26349'
+red = '#e55a1c'
+white = '#ffeaa3'
+yellow = '#ffcb1b'
+
+[colors.cursor]
+cursor = '#e5591c'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#4699a3'
+cyan = '#da8213'
+green = '#919c00'
+magenta = '#8d4331'
+red = '#d6262b'
+white = '#ddc265'
+yellow = '#be8a13'
+
+[colors.primary]
+background = '#251200'
+foreground = '#dec165'
+
+[colors.selection]
+background = '#e5591c'
+text = '#000000'

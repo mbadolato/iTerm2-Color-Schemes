@@ -1,0 +1,33 @@
+# Colors (IR_Black)
+
+[colors.bright]
+black = '#7b7b7b'
+blue = '#b5dcff'
+cyan = '#e0e0fe'
+green = '#cfffab'
+magenta = '#fb9cfe'
+red = '#fcb6b0'
+white = '#ffffff'
+yellow = '#ffffcc'
+
+[colors.cursor]
+cursor = '#808080'
+text = '#ffffff'
+
+[colors.normal]
+black = '#4f4f4f'
+blue = '#96cafe'
+cyan = '#c6c5fe'
+green = '#a8ff60'
+magenta = '#fa73fd'
+red = '#fa6c60'
+white = '#efedef'
+yellow = '#fffeb7'
+
+[colors.primary]
+background = '#000000'
+foreground = '#f1f1f1'
+
+[colors.selection]
+background = '#b5d5ff'
+text = '#000000'

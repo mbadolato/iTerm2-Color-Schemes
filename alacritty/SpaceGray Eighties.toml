@@ -1,0 +1,33 @@
+# Colors (SpaceGray Eighties)
+
+[colors.bright]
+black = '#555555'
+blue = '#4d84d1'
+cyan = '#83e9e4'
+green = '#93d493'
+magenta = '#ff55ff'
+red = '#ff6973'
+white = '#ffffff'
+yellow = '#ffd256'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#15171c'
+blue = '#5486c0'
+cyan = '#57c2c1'
+green = '#81a764'
+magenta = '#bf83c1'
+red = '#ec5f67'
+white = '#efece7'
+yellow = '#fec254'
+
+[colors.primary]
+background = '#222222'
+foreground = '#bdbaae'
+
+[colors.selection]
+background = '#272e35'
+text = '#ffffff'

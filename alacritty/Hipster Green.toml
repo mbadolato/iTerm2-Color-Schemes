@@ -1,0 +1,33 @@
+# Colors (Hipster Green)
+
+[colors.bright]
+black = '#666666'
+blue = '#0000ff'
+cyan = '#00e5e5'
+green = '#86a93e'
+magenta = '#e500e5'
+red = '#e50000'
+white = '#e5e5e5'
+yellow = '#e5e500'
+
+[colors.cursor]
+cursor = '#23ff18'
+text = '#ff0018'
+
+[colors.normal]
+black = '#000000'
+blue = '#246eb2'
+cyan = '#00a6b2'
+green = '#00a600'
+magenta = '#b200b2'
+red = '#b6214a'
+white = '#bfbfbf'
+yellow = '#bfbf00'
+
+[colors.primary]
+background = '#100b05'
+foreground = '#84c138'
+
+[colors.selection]
+background = '#083905'
+text = '#ffffff'

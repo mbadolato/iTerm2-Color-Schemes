@@ -1,0 +1,33 @@
+# Colors (Mathias)
+
+[colors.bright]
+black = '#555555'
+blue = '#5555ff'
+cyan = '#55ffff'
+green = '#55ff55'
+magenta = '#ff55ff'
+red = '#ff5555'
+white = '#ffffff'
+yellow = '#ffff55'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#c48dff'
+cyan = '#67d9f0'
+green = '#a6e32d'
+magenta = '#fa2573'
+red = '#e52222'
+white = '#f2f2f2'
+yellow = '#fc951e'
+
+[colors.primary]
+background = '#000000'
+foreground = '#bbbbbb'
+
+[colors.selection]
+background = '#555555'
+text = '#f2f2f2'

@@ -1,0 +1,33 @@
+# Colors (FrontEndDelight)
+
+[colors.bright]
+black = '#5fac6d'
+blue = '#3393ca'
+cyan = '#4fbce6'
+green = '#74ec4c'
+magenta = '#e75e4f'
+red = '#f74319'
+white = '#8c735b'
+yellow = '#fdc325'
+
+[colors.cursor]
+cursor = '#cdcdcd'
+text = '#1b1c1d'
+
+[colors.normal]
+black = '#242526'
+blue = '#2c70b7'
+cyan = '#3ca1a6'
+green = '#565747'
+magenta = '#f02e4f'
+red = '#f8511b'
+white = '#adadad'
+yellow = '#fa771d'
+
+[colors.primary]
+background = '#1b1c1d'
+foreground = '#adadad'
+
+[colors.selection]
+background = '#ea6154'
+text = '#1b1c1d'

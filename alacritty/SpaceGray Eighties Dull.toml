@@ -1,0 +1,33 @@
+# Colors (SpaceGray Eighties Dull)
+
+[colors.bright]
+black = '#555555'
+blue = '#5486c0'
+cyan = '#58c2c1'
+green = '#89e986'
+magenta = '#bf83c1'
+red = '#ec5f67'
+white = '#ffffff'
+yellow = '#fec254'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#15171c'
+blue = '#7c8fa5'
+cyan = '#80cdcb'
+green = '#92b477'
+magenta = '#a5789e'
+red = '#b24a56'
+white = '#b3b8c3'
+yellow = '#c6735a'
+
+[colors.primary]
+background = '#222222'
+foreground = '#c9c6bc'
+
+[colors.selection]
+background = '#272e36'
+text = '#ffffff'

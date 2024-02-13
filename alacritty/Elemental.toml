@@ -1,0 +1,33 @@
+# Colors (Elemental)
+
+[colors.bright]
+black = '#555445'
+blue = '#79d9d9'
+cyan = '#59d599'
+green = '#61e070'
+magenta = '#cd7c54'
+red = '#e0502a'
+white = '#fff1e9'
+yellow = '#d69927'
+
+[colors.cursor]
+cursor = '#facb80'
+text = '#161611'
+
+[colors.normal]
+black = '#3c3c30'
+blue = '#497f7d'
+cyan = '#387f58'
+green = '#479a43'
+magenta = '#7f4e2f'
+red = '#98290f'
+white = '#807974'
+yellow = '#7f7111'
+
+[colors.primary]
+background = '#22211d'
+foreground = '#807a74'
+
+[colors.selection]
+background = '#413829'
+text = '#facd77'

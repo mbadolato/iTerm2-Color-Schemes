@@ -1,0 +1,33 @@
+# Colors (idea)
+
+[colors.bright]
+black = '#ffffff'
+blue = '#6c9ced'
+cyan = '#248887'
+green = '#98b61c'
+magenta = '#fc7eff'
+red = '#fc7072'
+white = '#181818'
+yellow = '#ffff0b'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#adadad'
+blue = '#437ee7'
+cyan = '#248887'
+green = '#98b61c'
+magenta = '#9d74b0'
+red = '#fc5256'
+white = '#181818'
+yellow = '#ccb444'
+
+[colors.primary]
+background = '#202020'
+foreground = '#adadad'
+
+[colors.selection]
+background = '#44475a'
+text = '#ffffff'

@@ -1,0 +1,33 @@
+# Colors (darkermatrix)
+
+[colors.bright]
+black = '#333333'
+blue = '#00ff87'
+cyan = '#176c73'
+green = '#90d762'
+magenta = '#412a4d'
+red = '#00381d'
+white = '#00381e'
+yellow = '#e2e500'
+
+[colors.cursor]
+cursor = '#373a26'
+text = '#00ff87'
+
+[colors.normal]
+black = '#091013'
+blue = '#00cb6b'
+cyan = '#125459'
+green = '#6fa64c'
+magenta = '#412a4d'
+red = '#002e18'
+white = '#002e19'
+yellow = '#595900'
+
+[colors.primary]
+background = '#070c0e'
+foreground = '#28380d'
+
+[colors.selection]
+background = '#0f191c'
+text = '#00ff87'

@@ -1,0 +1,33 @@
+# Colors (Fairyfloss)
+
+[colors.bright]
+black = '#6090cb'
+blue = '#c2ffdf'
+cyan = '#c5a3ff'
+green = '#c2ffdf'
+magenta = '#ffb8d1'
+red = '#ff857f'
+white = '#f8f8f0'
+yellow = '#ffea00'
+
+[colors.cursor]
+cursor = '#f8f8f0'
+text = '#060709'
+
+[colors.normal]
+black = '#040303'
+blue = '#c2ffdf'
+cyan = '#c5a3ff'
+green = '#c2ffdf'
+magenta = '#ffb8d1'
+red = '#f92672'
+white = '#f8f8f0'
+yellow = '#e6c000'
+
+[colors.primary]
+background = '#5a5475'
+foreground = '#f8f8f2'
+
+[colors.selection]
+background = '#8077a8'
+text = '#f6e1ce'

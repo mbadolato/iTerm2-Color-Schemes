@@ -1,0 +1,33 @@
+# Colors (Banana Blueberry)
+
+[colors.bright]
+black = '#495162'
+blue = '#91fff4'
+cyan = '#bcf3ff'
+green = '#98c379'
+magenta = '#da70d6'
+red = '#fe9ea1'
+white = '#ffffff'
+yellow = '#f9e46b'
+
+[colors.cursor]
+cursor = '#e07d13'
+text = '#ffffff'
+
+[colors.normal]
+black = '#17141f'
+blue = '#22e8df'
+cyan = '#56b6c2'
+green = '#00bd9c'
+magenta = '#dc396a'
+red = '#ff6b7f'
+white = '#f1f1f1'
+yellow = '#e6c62f'
+
+[colors.primary]
+background = '#191323'
+foreground = '#cccccc'
+
+[colors.selection]
+background = '#220525'
+text = '#f4f4f4'

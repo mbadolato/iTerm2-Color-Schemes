@@ -1,0 +1,33 @@
+# Colors (Raycast_Dark)
+
+[colors.bright]
+black = '#000000'
+blue = '#56c2ff'
+cyan = '#52eee5'
+green = '#59d499'
+magenta = '#cf2f98'
+red = '#ff6363'
+white = '#ffffff'
+yellow = '#ffc531'
+
+[colors.cursor]
+cursor = '#cccccc'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#56c2ff'
+cyan = '#52eee5'
+green = '#59d499'
+magenta = '#cf2f98'
+red = '#ff5360'
+white = '#ffffff'
+yellow = '#ffc531'
+
+[colors.primary]
+background = '#1a1a1a'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#333333'
+text = '#000000'

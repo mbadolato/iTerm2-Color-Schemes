@@ -1,0 +1,33 @@
+# Colors (cyberpunk)
+
+[colors.bright]
+black = '#000000'
+blue = '#1bccfd'
+cyan = '#99d6fc'
+green = '#21f6bc'
+magenta = '#e6aefe'
+red = '#ff8aa4'
+white = '#ffffff'
+yellow = '#fff787'
+
+[colors.cursor]
+cursor = '#21f6bc'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#00bfff'
+cyan = '#86cbfe'
+green = '#00fbac'
+magenta = '#df95ff'
+red = '#ff7092'
+white = '#ffffff'
+yellow = '#fffa6a'
+
+[colors.primary]
+background = '#332a57'
+foreground = '#e5e5e5'
+
+[colors.selection]
+background = '#c1deff'
+text = '#000000'

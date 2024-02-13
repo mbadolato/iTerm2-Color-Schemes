@@ -1,0 +1,33 @@
+# Colors (IC_Green_PPL)
+
+[colors.bright]
+black = '#035c03'
+blue = '#2efaeb'
+cyan = '#3cfac8'
+green = '#aefb86'
+magenta = '#50fafa'
+red = '#b4fa5c'
+white = '#e0f1dc'
+yellow = '#dafa87'
+
+[colors.cursor]
+cursor = '#47fa6b'
+text = '#292929'
+
+[colors.normal]
+black = '#014401'
+blue = '#2ec3b9'
+cyan = '#3ca078'
+green = '#41a638'
+magenta = '#50a096'
+red = '#ff2736'
+white = '#e6fef2'
+yellow = '#76a831'
+
+[colors.primary]
+background = '#2c2c2c'
+foreground = '#e0f1dc'
+
+[colors.selection]
+background = '#116b41'
+text = '#e0f1dc'

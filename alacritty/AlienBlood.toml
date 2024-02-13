@@ -1,0 +1,33 @@
+# Colors (AlienBlood)
+
+[colors.bright]
+black = '#3c4812'
+blue = '#00aae0'
+cyan = '#00e0c4'
+green = '#18e000'
+magenta = '#0058e0'
+red = '#e08009'
+white = '#73fa91'
+yellow = '#bde000'
+
+[colors.cursor]
+cursor = '#73fa91'
+text = '#0f1610'
+
+[colors.normal]
+black = '#112616'
+blue = '#2f6a7f'
+cyan = '#327f77'
+green = '#2f7e25'
+magenta = '#47587f'
+red = '#7f2b27'
+white = '#647d75'
+yellow = '#717f24'
+
+[colors.primary]
+background = '#0f1610'
+foreground = '#637d75'
+
+[colors.selection]
+background = '#1d4125'
+text = '#73fa91'

@@ -1,0 +1,33 @@
+# Colors (AtelierSulphurpool)
+
+[colors.bright]
+black = '#6b7394'
+blue = '#898ea4'
+cyan = '#9c637a'
+green = '#293256'
+magenta = '#dfe2f1'
+red = '#c76b29'
+white = '#f5f7ff'
+yellow = '#5e6687'
+
+[colors.cursor]
+cursor = '#979db4'
+text = '#202746'
+
+[colors.normal]
+black = '#202746'
+blue = '#3d8fd1'
+cyan = '#22a2c9'
+green = '#ac9739'
+magenta = '#6679cc'
+red = '#c94922'
+white = '#979db4'
+yellow = '#c08b30'
+
+[colors.primary]
+background = '#202746'
+foreground = '#979db4'
+
+[colors.selection]
+background = '#5e6687'
+text = '#979db4'

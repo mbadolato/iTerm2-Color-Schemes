@@ -1,0 +1,33 @@
+# Colors (Firefly Traditional)
+
+[colors.bright]
+black = '#828282'
+blue = '#838dff'
+cyan = '#29f0f0'
+green = '#2ee720'
+magenta = '#ff5cfe'
+red = '#ff3b1e'
+white = '#ebebeb'
+yellow = '#ecec16'
+
+[colors.cursor]
+cursor = '#00f900'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#5a63ff'
+cyan = '#33bbc7'
+green = '#33bc26'
+magenta = '#d53ad2'
+red = '#c23720'
+white = '#cccccc'
+yellow = '#afad24'
+
+[colors.primary]
+background = '#000000'
+foreground = '#f5f5f5'
+
+[colors.selection]
+background = '#cfeac6'
+text = '#000000'

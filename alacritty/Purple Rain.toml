@@ -1,0 +1,33 @@
+# Colors (Purple Rain)
+
+[colors.bright]
+black = '#565656'
+blue = '#00a6ff'
+cyan = '#74fdf3'
+green = '#b8e36e'
+magenta = '#ac7bf0'
+red = '#ff4250'
+white = '#ffffff'
+yellow = '#ffd852'
+
+[colors.cursor]
+cursor = '#ff271d'
+text = '#ff271d'
+
+[colors.normal]
+black = '#000000'
+blue = '#00a2fa'
+cyan = '#00deef'
+green = '#9be205'
+magenta = '#815bb5'
+red = '#ff260e'
+white = '#ffffff'
+yellow = '#ffc400'
+
+[colors.primary]
+background = '#21084a'
+foreground = '#fffbf6'
+
+[colors.selection]
+background = '#287691'
+text = '#ffffff'

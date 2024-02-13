@@ -1,0 +1,33 @@
+# Colors (dayfox)
+
+[colors.bright]
+black = '#534c45'
+blue = '#4863b6'
+cyan = '#488d93'
+green = '#577f63'
+magenta = '#8452d5'
+red = '#b3434e'
+white = '#f4ece6'
+yellow = '#b86e28'
+
+[colors.cursor]
+cursor = '#3d2b5a'
+text = '#f6f2ee'
+
+[colors.normal]
+black = '#352c24'
+blue = '#2848a9'
+cyan = '#287980'
+green = '#396847'
+magenta = '#6e33ce'
+red = '#a5222f'
+white = '#f2e9e1'
+yellow = '#ac5402'
+
+[colors.primary]
+background = '#f6f2ee'
+foreground = '#3d2b5a'
+
+[colors.selection]
+background = '#e7d2be'
+text = '#3d2b5a'

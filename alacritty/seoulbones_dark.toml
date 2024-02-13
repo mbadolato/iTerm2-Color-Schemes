@@ -1,0 +1,33 @@
+# Colors (seoulbones_dark)
+
+[colors.bright]
+black = '#6c6465'
+blue = '#a2c8e9'
+cyan = '#6bcacb'
+green = '#8fcd92'
+magenta = '#b2b3da'
+red = '#eb99b1'
+white = '#a8a8a8'
+yellow = '#ffe5b3'
+
+[colors.cursor]
+cursor = '#e2e2e2'
+text = '#4b4b4b'
+
+[colors.normal]
+black = '#4b4b4b'
+blue = '#97bdde'
+cyan = '#6fbdbe'
+green = '#98bd99'
+magenta = '#a5a6c5'
+red = '#e388a3'
+white = '#dddddd'
+yellow = '#ffdf9b'
+
+[colors.primary]
+background = '#4b4b4b'
+foreground = '#dddddd'
+
+[colors.selection]
+background = '#777777'
+text = '#dddddd'

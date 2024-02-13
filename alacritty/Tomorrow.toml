@@ -1,0 +1,33 @@
+# Colors (Tomorrow)
+
+[colors.bright]
+black = '#000000'
+blue = '#4271ae'
+cyan = '#3e999f'
+green = '#718c00'
+magenta = '#8959a8'
+red = '#c82829'
+white = '#ffffff'
+yellow = '#eab700'
+
+[colors.cursor]
+cursor = '#4d4d4c'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#4271ae'
+cyan = '#3e999f'
+green = '#718c00'
+magenta = '#8959a8'
+red = '#c82829'
+white = '#ffffff'
+yellow = '#eab700'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#4d4d4c'
+
+[colors.selection]
+background = '#d6d6d6'
+text = '#4d4d4c'

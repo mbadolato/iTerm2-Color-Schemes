@@ -1,0 +1,33 @@
+# Colors (Aardvark Blue)
+
+[colors.bright]
+black = '#454545'
+blue = '#60a4ec'
+cyan = '#60b6cb'
+green = '#95dc55'
+magenta = '#e26be2'
+red = '#f05b50'
+white = '#f7f7f7'
+yellow = '#ffe763'
+
+[colors.cursor]
+cursor = '#007acc'
+text = '#bfdbfe'
+
+[colors.normal]
+black = '#191919'
+blue = '#1370d3'
+cyan = '#008eb0'
+green = '#4b8c0f'
+magenta = '#c43ac3'
+red = '#aa342e'
+white = '#bebebe'
+yellow = '#dbba00'
+
+[colors.primary]
+background = '#102040'
+foreground = '#dddddd'
+
+[colors.selection]
+background = '#bfdbfe'
+text = '#000000'

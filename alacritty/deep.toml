@@ -1,0 +1,33 @@
+# Colors (deep)
+
+[colors.bright]
+black = '#535353'
+blue = '#9fa9ff'
+cyan = '#8df9ff'
+green = '#22ff18'
+magenta = '#e09aff'
+red = '#fb0007'
+white = '#ffffff'
+yellow = '#fedc2b'
+
+[colors.cursor]
+cursor = '#d0d0d0'
+text = '#151515'
+
+[colors.normal]
+black = '#000000'
+blue = '#5665ff'
+cyan = '#50d2da'
+green = '#1cd915'
+magenta = '#b052da'
+red = '#d70005'
+white = '#e0e0e0'
+yellow = '#d9bd26'
+
+[colors.primary]
+background = '#090909'
+foreground = '#cdcdcd'
+
+[colors.selection]
+background = '#780002'
+text = '#ececec'

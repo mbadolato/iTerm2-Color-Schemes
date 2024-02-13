@@ -1,0 +1,33 @@
+# Colors (Builtin Tango Dark)
+
+[colors.bright]
+black = '#555753'
+blue = '#729fcf'
+cyan = '#34e2e2'
+green = '#8ae234'
+magenta = '#ad7fa8'
+red = '#ef2929'
+white = '#eeeeec'
+yellow = '#fce94f'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#3465a4'
+cyan = '#06989a'
+green = '#4e9a06'
+magenta = '#75507b'
+red = '#cc0000'
+white = '#d3d7cf'
+yellow = '#c4a000'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#b5d5ff'
+text = '#000000'

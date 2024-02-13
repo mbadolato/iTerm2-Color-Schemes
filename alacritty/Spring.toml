@@ -1,0 +1,33 @@
+# Colors (Spring)
+
+[colors.bright]
+black = '#000000'
+blue = '#15a9fd'
+cyan = '#3e999f'
+green = '#1fc231'
+magenta = '#8959a8'
+red = '#ff0021'
+white = '#ffffff'
+yellow = '#d5b807'
+
+[colors.cursor]
+cursor = '#4d4d4c'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#1dd3ee'
+cyan = '#3e999f'
+green = '#1f8c3b'
+magenta = '#8959a8'
+red = '#ff4d83'
+white = '#ffffff'
+yellow = '#1fc95b'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#4d4d4c'
+
+[colors.selection]
+background = '#d6d6d6'
+text = '#4d4d4c'

@@ -1,0 +1,33 @@
+# Colors (Obsidian)
+
+[colors.bright]
+black = '#555555'
+blue = '#a1d7ff'
+cyan = '#55ffff'
+green = '#93c863'
+magenta = '#ff55ff'
+red = '#ff0003'
+white = '#ffffff'
+yellow = '#fef874'
+
+[colors.cursor]
+cursor = '#c0cad0'
+text = '#cdcdcd'
+
+[colors.normal]
+black = '#000000'
+blue = '#3a9bdb'
+cyan = '#00bbbb'
+green = '#00bb00'
+magenta = '#bb00bb'
+red = '#a60001'
+white = '#bbbbbb'
+yellow = '#fecd22'
+
+[colors.primary]
+background = '#283033'
+foreground = '#cdcdcd'
+
+[colors.selection]
+background = '#3e4c4f'
+text = '#dfe1e2'

@@ -1,0 +1,33 @@
+# Colors (BlulocoLight)
+
+[colors.bright]
+black = '#676a77'
+blue = '#0099e1'
+cyan = '#6d93bb'
+green = '#3cbc66'
+magenta = '#ce33c0'
+red = '#ff6480'
+white = '#d3d3d3'
+yellow = '#c5a332'
+
+[colors.cursor]
+cursor = '#f32759'
+text = '#ffffff'
+
+[colors.normal]
+black = '#373a41'
+blue = '#275fe4'
+cyan = '#27618d'
+green = '#23974a'
+magenta = '#823ff1'
+red = '#d52753'
+white = '#babbc2'
+yellow = '#df631c'
+
+[colors.primary]
+background = '#f9f9f9'
+foreground = '#373a41'
+
+[colors.selection]
+background = '#daf0ff'
+text = '#373a41'

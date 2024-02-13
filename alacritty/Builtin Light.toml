@@ -1,0 +1,33 @@
+# Colors (Builtin Light)
+
+[colors.bright]
+black = '#555555'
+blue = '#5555ff'
+cyan = '#55ffff'
+green = '#55ff55'
+magenta = '#ff55ff'
+red = '#ff5555'
+white = '#ffffff'
+yellow = '#ffff55'
+
+[colors.cursor]
+cursor = '#000000'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#0000bb'
+cyan = '#00bbbb'
+green = '#00bb00'
+magenta = '#bb00bb'
+red = '#bb0000'
+white = '#bbbbbb'
+yellow = '#bbbb00'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#000000'
+
+[colors.selection]
+background = '#b5d5ff'
+text = '#000000'

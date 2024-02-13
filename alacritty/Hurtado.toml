@@ -1,0 +1,33 @@
+# Colors (Hurtado)
+
+[colors.bright]
+black = '#262626'
+blue = '#89beff'
+cyan = '#86eafe'
+green = '#a5df55'
+magenta = '#c001c1'
+red = '#d51d00'
+white = '#dbdbdb'
+yellow = '#fbe84a'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#575757'
+blue = '#496487'
+cyan = '#86e9fe'
+green = '#a5e055'
+magenta = '#fd5ff1'
+red = '#ff1b00'
+white = '#cbcccb'
+yellow = '#fbe74a'
+
+[colors.primary]
+background = '#000000'
+foreground = '#dbdbdb'
+
+[colors.selection]
+background = '#b5d5ff'
+text = '#000000'

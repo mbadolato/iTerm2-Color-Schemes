@@ -1,0 +1,33 @@
+# Colors (Symfonic)
+
+[colors.bright]
+black = '#1b1d21'
+blue = '#0084d4'
+cyan = '#ccccff'
+green = '#56db3a'
+magenta = '#b729d9'
+red = '#dc322f'
+white = '#ffffff'
+yellow = '#ff8400'
+
+[colors.cursor]
+cursor = '#dc322f'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#0084d4'
+cyan = '#ccccff'
+green = '#56db3a'
+magenta = '#b729d9'
+red = '#dc322f'
+white = '#ffffff'
+yellow = '#ff8400'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#073642'
+text = '#ffffff'

@@ -1,0 +1,33 @@
+# Colors (Mirage)
+
+[colors.bright]
+black = '#575656'
+blue = '#7fb5ff'
+cyan = '#85cc95'
+green = '#85cc95'
+magenta = '#ddb3ff'
+red = '#ff9999'
+white = '#ffffff'
+yellow = '#ffd700'
+
+[colors.cursor]
+cursor = '#ddb3ff'
+text = '#ffffff'
+
+[colors.normal]
+black = '#011627'
+blue = '#7fb5ff'
+cyan = '#21c7a8'
+green = '#85cc95'
+magenta = '#ddb3ff'
+red = '#ff9999'
+white = '#ffffff'
+yellow = '#ffd700'
+
+[colors.primary]
+background = '#1b2738'
+foreground = '#a6b2c0'
+
+[colors.selection]
+background = '#273951'
+text = '#d3dbe5'

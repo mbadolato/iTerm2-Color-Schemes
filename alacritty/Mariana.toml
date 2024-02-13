@@ -1,0 +1,33 @@
+# Colors (Mariana)
+
+[colors.bright]
+black = '#333333'
+blue = '#85add6'
+cyan = '#82c4c4'
+green = '#acd1a8'
+magenta = '#d8b6d8'
+red = '#f97b58'
+white = '#ffffff'
+yellow = '#fac761'
+
+[colors.cursor]
+cursor = '#fcbb6a'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#6699cc'
+cyan = '#5fb4b4'
+green = '#99c794'
+magenta = '#c695c6'
+red = '#ec5f66'
+white = '#f7f7f7'
+yellow = '#f9ae58'
+
+[colors.primary]
+background = '#343d46'
+foreground = '#d8dee9'
+
+[colors.selection]
+background = '#4e5a65'
+text = '#d8dee9'

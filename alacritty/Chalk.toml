@@ -1,0 +1,33 @@
+# Colors (Chalk)
+
+[colors.bright]
+black = '#888888'
+blue = '#4196ff'
+cyan = '#53cdbd'
+green = '#80c470'
+magenta = '#fc5275'
+red = '#f24840'
+white = '#d2d8d9'
+yellow = '#ffeb62'
+
+[colors.cursor]
+cursor = '#708284'
+text = '#002831'
+
+[colors.normal]
+black = '#7d8b8f'
+blue = '#2a7fac'
+cyan = '#44a799'
+green = '#789b6a'
+magenta = '#bd4f5a'
+red = '#b23a52'
+white = '#d2d8d9'
+yellow = '#b9ac4a'
+
+[colors.primary]
+background = '#2b2d2e'
+foreground = '#d2d8d9'
+
+[colors.selection]
+background = '#e4e8ed'
+text = '#3f4041'

@@ -1,0 +1,33 @@
+# Colors (Chester)
+
+[colors.bright]
+black = '#6f6b68'
+blue = '#278ad6'
+cyan = '#27dede'
+green = '#16c98d'
+magenta = '#d34590'
+red = '#fa5e5b'
+white = '#ffffff'
+yellow = '#feef6d'
+
+[colors.cursor]
+cursor = '#b4b1b1'
+text = '#000000'
+
+[colors.normal]
+black = '#080200'
+blue = '#288ad6'
+cyan = '#28ddde'
+green = '#16c98d'
+magenta = '#d34590'
+red = '#fa5e5b'
+white = '#e7e7e7'
+yellow = '#ffc83f'
+
+[colors.primary]
+background = '#2c3643'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#67747c'
+text = '#ffffff'

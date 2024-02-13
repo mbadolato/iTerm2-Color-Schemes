@@ -1,0 +1,33 @@
+# Colors (Tomorrow Night Burns)
+
+[colors.bright]
+black = '#5d6f71'
+blue = '#fc595f'
+cyan = '#ba8586'
+green = '#a63c40'
+magenta = '#df9395'
+red = '#832e31'
+white = '#f5f5f5'
+yellow = '#d2494e'
+
+[colors.cursor]
+cursor = '#ff443e'
+text = '#708284'
+
+[colors.normal]
+black = '#252525'
+blue = '#fc595f'
+cyan = '#ba8586'
+green = '#a63c40'
+magenta = '#df9395'
+red = '#832e31'
+white = '#f5f5f5'
+yellow = '#d3494e'
+
+[colors.primary]
+background = '#151515'
+foreground = '#a1b0b8'
+
+[colors.selection]
+background = '#b0bec5'
+text = '#2a2d32'

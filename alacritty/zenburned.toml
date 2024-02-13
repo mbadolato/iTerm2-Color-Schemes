@@ -1,0 +1,33 @@
+# Colors (zenburned)
+
+[colors.bright]
+black = '#625a5b'
+blue = '#61abda'
+cyan = '#65b8c1'
+green = '#8bae68'
+magenta = '#cf86c1'
+red = '#ec8685'
+white = '#c0ab86'
+yellow = '#d68c67'
+
+[colors.cursor]
+cursor = '#f3eadb'
+text = '#404040'
+
+[colors.normal]
+black = '#404040'
+blue = '#6099c0'
+cyan = '#66a5ad'
+green = '#819b69'
+magenta = '#b279a7'
+red = '#e3716e'
+white = '#f0e4cf'
+yellow = '#b77e64'
+
+[colors.primary]
+background = '#404040'
+foreground = '#f0e4cf'
+
+[colors.selection]
+background = '#746956'
+text = '#f0e4cf'

@@ -1,0 +1,33 @@
+# Colors (Thayer Bright)
+
+[colors.bright]
+black = '#505354'
+blue = '#3f78ff'
+cyan = '#23cfd5'
+green = '#b6e354'
+magenta = '#9e6ffe'
+red = '#ff5995'
+white = '#f8f8f2'
+yellow = '#feed6c'
+
+[colors.cursor]
+cursor = '#fc971f'
+text = '#000000'
+
+[colors.normal]
+black = '#1b1d1e'
+blue = '#2757d6'
+cyan = '#38c8b5'
+green = '#4df840'
+magenta = '#8c54fe'
+red = '#f92672'
+white = '#ccccc6'
+yellow = '#f4fd22'
+
+[colors.primary]
+background = '#1b1d1e'
+foreground = '#f8f8f8'
+
+[colors.selection]
+background = '#4d4d4d'
+text = '#ffffff'

@@ -1,0 +1,33 @@
+# Colors (Paraiso Dark)
+
+[colors.bright]
+black = '#776e71'
+blue = '#06b6ef'
+cyan = '#5bc4bf'
+green = '#48b685'
+magenta = '#815ba4'
+red = '#ef6155'
+white = '#e7e9db'
+yellow = '#fec418'
+
+[colors.cursor]
+cursor = '#a39e9b'
+text = '#2f1e2e'
+
+[colors.normal]
+black = '#2f1e2e'
+blue = '#06b6ef'
+cyan = '#5bc4bf'
+green = '#48b685'
+magenta = '#815ba4'
+red = '#ef6155'
+white = '#a39e9b'
+yellow = '#fec418'
+
+[colors.primary]
+background = '#2f1e2e'
+foreground = '#a39e9b'
+
+[colors.selection]
+background = '#4f424c'
+text = '#a39e9b'

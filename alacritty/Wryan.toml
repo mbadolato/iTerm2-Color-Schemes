@@ -1,0 +1,33 @@
+# Colors (Wryan)
+
+[colors.bright]
+black = '#3d3d3d'
+blue = '#477ab3'
+cyan = '#6096bf'
+green = '#53a6a6'
+magenta = '#7e62b3'
+red = '#bf4d80'
+white = '#c0c0c0'
+yellow = '#9e9ecb'
+
+[colors.cursor]
+cursor = '#9e9ecb'
+text = '#000000'
+
+[colors.normal]
+black = '#333333'
+blue = '#395573'
+cyan = '#31658c'
+green = '#287373'
+magenta = '#5e468c'
+red = '#8c4665'
+white = '#899ca1'
+yellow = '#7c7c99'
+
+[colors.primary]
+background = '#101010'
+foreground = '#999993'
+
+[colors.selection]
+background = '#4d4d4d'
+text = '#ffffff'

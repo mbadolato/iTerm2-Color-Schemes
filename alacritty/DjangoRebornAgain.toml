@@ -1,0 +1,33 @@
+# Colors (DjangoRebornAgain)
+
+[colors.bright]
+black = '#323232'
+blue = '#568264'
+cyan = '#cfffd1'
+green = '#73da70'
+magenta = '#ffffff'
+red = '#ff943b'
+white = '#ffffff'
+yellow = '#ffff94'
+
+[colors.cursor]
+cursor = '#ffcc00'
+text = '#dadedc'
+
+[colors.normal]
+black = '#000000'
+blue = '#245032'
+cyan = '#9df39f'
+green = '#41a83e'
+magenta = '#f8f8f8'
+red = '#fd6209'
+white = '#ffffff'
+yellow = '#ffe862'
+
+[colors.primary]
+background = '#051f14'
+foreground = '#dadedc'
+
+[colors.selection]
+background = '#203727'
+text = '#dadedc'

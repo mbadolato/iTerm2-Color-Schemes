@@ -1,0 +1,33 @@
+# Colors (Apple Classic)
+
+[colors.bright]
+black = '#686868'
+blue = '#6871ff'
+cyan = '#60fdff'
+green = '#5ffa68'
+magenta = '#ff77ff'
+red = '#ff6e67'
+white = '#ffffff'
+yellow = '#fffc67'
+
+[colors.cursor]
+cursor = '#c7c7c7'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#0225c7'
+cyan = '#00c5c7'
+green = '#00c200'
+magenta = '#ca30c7'
+red = '#c91b00'
+white = '#c7c7c7'
+yellow = '#c7c400'
+
+[colors.primary]
+background = '#2c2b2b'
+foreground = '#d5a200'
+
+[colors.selection]
+background = '#6b5b02'
+text = '#67e000'

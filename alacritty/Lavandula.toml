@@ -1,0 +1,33 @@
+# Colors (Lavandula)
+
+[colors.bright]
+black = '#372d46'
+blue = '#8e87e0'
+cyan = '#9ad4e0'
+green = '#52e0c4'
+magenta = '#a776e0'
+red = '#e05167'
+white = '#8c91fa'
+yellow = '#e0c386'
+
+[colors.cursor]
+cursor = '#8c91fa'
+text = '#050014'
+
+[colors.normal]
+black = '#230046'
+blue = '#4f4a7f'
+cyan = '#58777f'
+green = '#337e6f'
+magenta = '#5a3f7f'
+red = '#7d1625'
+white = '#736e7d'
+yellow = '#7f6f49'
+
+[colors.primary]
+background = '#050014'
+foreground = '#736e7d'
+
+[colors.selection]
+background = '#37323c'
+text = '#8c91fa'

@@ -1,0 +1,33 @@
+# Colors (Neon)
+
+[colors.bright]
+black = '#686868'
+blue = '#3c40cb'
+cyan = '#88fffe'
+green = '#75ff88'
+magenta = '#f15be5'
+red = '#ff5a5a'
+white = '#ffffff'
+yellow = '#fffd96'
+
+[colors.cursor]
+cursor = '#c7c7c7'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#0208cb'
+cyan = '#00fffc'
+green = '#5ffa74'
+magenta = '#f924e7'
+red = '#ff3045'
+white = '#c7c7c7'
+yellow = '#fffc7e'
+
+[colors.primary]
+background = '#14161a'
+foreground = '#00fffc'
+
+[colors.selection]
+background = '#0013ff'
+text = '#08d2cf'

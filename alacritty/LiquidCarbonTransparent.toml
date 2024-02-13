@@ -1,0 +1,33 @@
+# Colors (LiquidCarbonTransparent)
+
+[colors.bright]
+black = '#000000'
+blue = '#0099cc'
+cyan = '#7ac4cc'
+green = '#559a70'
+magenta = '#cc69c8'
+red = '#ff3030'
+white = '#bccccc'
+yellow = '#ccac00'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#0099cc'
+cyan = '#7ac4cc'
+green = '#559a70'
+magenta = '#cc69c8'
+red = '#ff3030'
+white = '#bccccc'
+yellow = '#ccac00'
+
+[colors.primary]
+background = '#000000'
+foreground = '#afc2c2'
+
+[colors.selection]
+background = '#7dbeff'
+text = '#000000'

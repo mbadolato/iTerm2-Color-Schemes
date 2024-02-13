@@ -1,0 +1,33 @@
+# Colors (terafox)
+
+[colors.bright]
+black = '#4e5157'
+blue = '#73a3b7'
+cyan = '#afd4de'
+green = '#8eb2af'
+magenta = '#b97490'
+red = '#eb746b'
+white = '#eeeeee'
+yellow = '#fdb292'
+
+[colors.cursor]
+cursor = '#e6eaea'
+text = '#152528'
+
+[colors.normal]
+black = '#2f3239'
+blue = '#5a93aa'
+cyan = '#a1cdd8'
+green = '#7aa4a1'
+magenta = '#ad5c7c'
+red = '#e85c51'
+white = '#ebebeb'
+yellow = '#fda47f'
+
+[colors.primary]
+background = '#152528'
+foreground = '#e6eaea'
+
+[colors.selection]
+background = '#293e40'
+text = '#e6eaea'

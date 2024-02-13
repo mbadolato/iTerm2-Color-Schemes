@@ -1,0 +1,33 @@
+# Colors (AdventureTime)
+
+[colors.bright]
+black = '#4e7cbf'
+blue = '#1997c6'
+cyan = '#c8faf4'
+green = '#9eff6e'
+magenta = '#9b5953'
+red = '#fc5f5a'
+white = '#f6f5fb'
+yellow = '#efc11a'
+
+[colors.cursor]
+cursor = '#efbf38'
+text = '#08080a'
+
+[colors.normal]
+black = '#050404'
+blue = '#0f4ac6'
+cyan = '#70a598'
+green = '#4ab118'
+magenta = '#665993'
+red = '#bd0013'
+white = '#f8dcc0'
+yellow = '#e7741e'
+
+[colors.primary]
+background = '#1f1d45'
+foreground = '#f8dcc0'
+
+[colors.selection]
+background = '#706b4e'
+text = '#f3d9c4'

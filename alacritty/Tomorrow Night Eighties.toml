@@ -1,0 +1,33 @@
+# Colors (Tomorrow Night Eighties)
+
+[colors.bright]
+black = '#000000'
+blue = '#6699cc'
+cyan = '#66cccc'
+green = '#99cc99'
+magenta = '#cc99cc'
+red = '#f2777a'
+white = '#ffffff'
+yellow = '#ffcc66'
+
+[colors.cursor]
+cursor = '#cccccc'
+text = '#2d2d2d'
+
+[colors.normal]
+black = '#000000'
+blue = '#6699cc'
+cyan = '#66cccc'
+green = '#99cc99'
+magenta = '#cc99cc'
+red = '#f2777a'
+white = '#ffffff'
+yellow = '#ffcc66'
+
+[colors.primary]
+background = '#2d2d2d'
+foreground = '#cccccc'
+
+[colors.selection]
+background = '#515151'
+text = '#cccccc'

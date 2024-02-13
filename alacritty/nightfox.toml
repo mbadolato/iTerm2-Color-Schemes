@@ -1,0 +1,33 @@
+# Colors (nightfox)
+
+[colors.bright]
+black = '#575860'
+blue = '#86abdc'
+cyan = '#7ad5d6'
+green = '#8ebaa4'
+magenta = '#baa1e2'
+red = '#d16983'
+white = '#e4e4e5'
+yellow = '#e0c989'
+
+[colors.cursor]
+cursor = '#cdcecf'
+text = '#192330'
+
+[colors.normal]
+black = '#393b44'
+blue = '#719cd6'
+cyan = '#63cdcf'
+green = '#81b29a'
+magenta = '#9d79d6'
+red = '#c94f6d'
+white = '#dfdfe0'
+yellow = '#dbc074'
+
+[colors.primary]
+background = '#192330'
+foreground = '#cdcecf'
+
+[colors.selection]
+background = '#2b3b51'
+text = '#cdcecf'

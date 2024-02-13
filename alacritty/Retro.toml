@@ -1,0 +1,33 @@
+# Colors (Retro)
+
+[colors.bright]
+black = '#16ba10'
+blue = '#16ba10'
+cyan = '#16ba10'
+green = '#16ba10'
+magenta = '#16ba10'
+red = '#16ba10'
+white = '#16ba10'
+yellow = '#16ba10'
+
+[colors.cursor]
+cursor = '#13a10e'
+text = '#000000'
+
+[colors.normal]
+black = '#13a10e'
+blue = '#13a10e'
+cyan = '#13a10e'
+green = '#13a10e'
+magenta = '#13a10e'
+red = '#13a10e'
+white = '#13a10e'
+yellow = '#13a10e'
+
+[colors.primary]
+background = '#000000'
+foreground = '#13a10e'
+
+[colors.selection]
+background = '#ffffff'
+text = '#000000'

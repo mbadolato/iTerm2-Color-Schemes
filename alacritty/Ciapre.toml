@@ -1,0 +1,33 @@
+# Colors (Ciapre)
+
+[colors.bright]
+black = '#555555'
+blue = '#3097c6'
+cyan = '#f3dbb2'
+green = '#a6a75d'
+magenta = '#d33061'
+red = '#ac3835'
+white = '#f4f4f4'
+yellow = '#dcdf7c'
+
+[colors.cursor]
+cursor = '#92805b'
+text = '#181818'
+
+[colors.normal]
+black = '#181818'
+blue = '#576d8c'
+cyan = '#5c4f4b'
+green = '#48513b'
+magenta = '#724d7c'
+red = '#810009'
+white = '#aea47f'
+yellow = '#cc8b3f'
+
+[colors.primary]
+background = '#191c27'
+foreground = '#aea47a'
+
+[colors.selection]
+background = '#172539'
+text = '#aea47f'

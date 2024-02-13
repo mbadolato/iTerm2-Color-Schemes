@@ -1,0 +1,33 @@
+# Colors (MaterialOcean)
+
+[colors.bright]
+black = '#546e7a'
+blue = '#82aaff'
+cyan = '#89ddff'
+green = '#c3e88d'
+magenta = '#c792ea'
+red = '#ff5370'
+white = '#ffffff'
+yellow = '#ffcb6b'
+
+[colors.cursor]
+cursor = '#ffcc00'
+text = '#0f111a'
+
+[colors.normal]
+black = '#546e7a'
+blue = '#82aaff'
+cyan = '#89ddff'
+green = '#c3e88d'
+magenta = '#c792ea'
+red = '#ff5370'
+white = '#ffffff'
+yellow = '#ffcb6b'
+
+[colors.primary]
+background = '#0f111a'
+foreground = '#8f93a2'
+
+[colors.selection]
+background = '#1f2233'
+text = '#8f93a2'

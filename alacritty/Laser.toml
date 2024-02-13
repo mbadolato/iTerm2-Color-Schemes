@@ -1,0 +1,33 @@
+# Colors (Laser)
+
+[colors.bright]
+black = '#8f8f8f'
+blue = '#f92883'
+cyan = '#e6e7fe'
+green = '#d6fcba'
+magenta = '#ffb2fe'
+red = '#ffc4be'
+white = '#ffffff'
+yellow = '#fffed5'
+
+[colors.cursor]
+cursor = '#00ff9c'
+text = '#ffffff'
+
+[colors.normal]
+black = '#626262'
+blue = '#fed300'
+cyan = '#d1d1fe'
+green = '#b4fb73'
+magenta = '#ff90fe'
+red = '#ff8373'
+white = '#f1f1f1'
+yellow = '#09b4bd'
+
+[colors.primary]
+background = '#030d18'
+foreground = '#f106e3'
+
+[colors.selection]
+background = '#2e206a'
+text = '#f4f4f4'

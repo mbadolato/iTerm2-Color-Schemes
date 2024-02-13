@@ -1,0 +1,33 @@
+# Colors (PaleNightHC)
+
+[colors.bright]
+black = '#666666'
+blue = '#b4ccff'
+cyan = '#b8eaff'
+green = '#dbf1ba'
+magenta = '#ddbdf2'
+red = '#f6a9ae'
+white = '#999999'
+yellow = '#ffdfa6'
+
+[colors.cursor]
+cursor = '#ffcb6b'
+text = '#323232'
+
+[colors.normal]
+black = '#000000'
+blue = '#82aaff'
+cyan = '#89ddff'
+green = '#c3e88d'
+magenta = '#c792ea'
+red = '#f07178'
+white = '#ffffff'
+yellow = '#ffcb6b'
+
+[colors.primary]
+background = '#3e4251'
+foreground = '#cccccc'
+
+[colors.selection]
+background = '#717cb4'
+text = '#80cbc4'

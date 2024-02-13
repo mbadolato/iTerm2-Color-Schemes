@@ -1,0 +1,33 @@
+# Colors (Molokai)
+
+[colors.bright]
+black = '#555555'
+blue = '#00afff'
+cyan = '#51ceff'
+green = '#b1e05f'
+magenta = '#af87ff'
+red = '#f6669d'
+white = '#ffffff'
+yellow = '#fff26d'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#121212'
+blue = '#1080d0'
+cyan = '#43a8d0'
+green = '#98e123'
+magenta = '#8700ff'
+red = '#fa2573'
+white = '#bbbbbb'
+yellow = '#dfd460'
+
+[colors.primary]
+background = '#121212'
+foreground = '#bbbbbb'
+
+[colors.selection]
+background = '#b5d5ff'
+text = '#000000'

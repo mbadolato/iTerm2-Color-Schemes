@@ -1,0 +1,33 @@
+# Colors (Operator Mono Dark)
+
+[colors.bright]
+black = '#9a9b99'
+blue = '#89d3f6'
+cyan = '#82eada'
+green = '#83d0a2'
+magenta = '#ff2c7a'
+red = '#c37d62'
+white = '#fdfdf6'
+yellow = '#fdfdc5'
+
+[colors.cursor]
+cursor = '#fcdc08'
+text = '#161616'
+
+[colors.normal]
+black = '#5a5a5a'
+blue = '#4387cf'
+cyan = '#72d5c6'
+green = '#4d7b3a'
+magenta = '#b86cb4'
+red = '#ca372d'
+white = '#ced4cd'
+yellow = '#d4d697'
+
+[colors.primary]
+background = '#191919'
+foreground = '#c3cac2'
+
+[colors.selection]
+background = '#19273b'
+text = '#dde5dc'

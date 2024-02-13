@@ -1,0 +1,33 @@
+# Colors (Glacier)
+
+[colors.bright]
+black = '#404a55'
+blue = '#2a8bc1'
+cyan = '#a0b6d3'
+green = '#49e998'
+magenta = '#ea4727'
+red = '#bd0f2f'
+white = '#ffffff'
+yellow = '#fddf6e'
+
+[colors.cursor]
+cursor = '#6c6c6c'
+text = '#6c6c6c'
+
+[colors.normal]
+black = '#2e343c'
+blue = '#1f5872'
+cyan = '#778397'
+green = '#35a770'
+magenta = '#bd2523'
+red = '#bd0f2f'
+white = '#ffffff'
+yellow = '#fb9435'
+
+[colors.primary]
+background = '#0c1115'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#bd2523'
+text = '#ffffff'
