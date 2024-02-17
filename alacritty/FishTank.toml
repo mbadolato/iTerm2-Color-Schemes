@@ -1,0 +1,33 @@
+# Colors (FishTank)
+
+[colors.bright]
+black = '#6c5b30'
+blue = '#b2befa'
+cyan = '#a5bd86'
+green = '#dbffa9'
+magenta = '#fda5cd'
+red = '#da4b8a'
+white = '#f6ffec'
+yellow = '#fee6a9'
+
+[colors.cursor]
+cursor = '#fecd5e'
+text = '#232537'
+
+[colors.normal]
+black = '#03073c'
+blue = '#525fb8'
+cyan = '#968763'
+green = '#acf157'
+magenta = '#986f82'
+red = '#c6004a'
+white = '#ecf0fc'
+yellow = '#fecd5e'
+
+[colors.primary]
+background = '#232537'
+foreground = '#ecf0fe'
+
+[colors.selection]
+background = '#fcf7e9'
+text = '#232537'

@@ -1,0 +1,33 @@
+# Colors (Red Planet)
+
+[colors.bright]
+black = '#676767'
+blue = '#60827e'
+cyan = '#38add8'
+green = '#869985'
+magenta = '#de4974'
+red = '#b55242'
+white = '#d6bfb8'
+yellow = '#ebeb91'
+
+[colors.cursor]
+cursor = '#c2b790'
+text = '#202020'
+
+[colors.normal]
+black = '#202020'
+blue = '#69819e'
+cyan = '#5b8390'
+green = '#728271'
+magenta = '#896492'
+red = '#8c3432'
+white = '#b9aa99'
+yellow = '#e8bf6a'
+
+[colors.primary]
+background = '#222222'
+foreground = '#c2b790'
+
+[colors.selection]
+background = '#1b324a'
+text = '#bcb291'

@@ -1,0 +1,33 @@
+# Colors (Aurora)
+
+[colors.bright]
+black = '#292e38'
+blue = '#03d6b8'
+cyan = '#03d6b8'
+green = '#8fd46d'
+magenta = '#ee5d43'
+red = '#f92672'
+white = '#c74ded'
+yellow = '#ffe66d'
+
+[colors.cursor]
+cursor = '#ee5d43'
+text = '#ffd29c'
+
+[colors.normal]
+black = '#23262e'
+blue = '#0321d7'
+cyan = '#03d6b8'
+green = '#8fd46d'
+magenta = '#ee5d43'
+red = '#f0266f'
+white = '#c74ded'
+yellow = '#ffe66d'
+
+[colors.primary]
+background = '#23262e'
+foreground = '#ffca28'
+
+[colors.selection]
+background = '#292e38'
+text = '#00e8c6'

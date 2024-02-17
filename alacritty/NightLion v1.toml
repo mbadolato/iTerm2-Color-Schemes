@@ -1,0 +1,33 @@
+# Colors (NightLion v1)
+
+[colors.bright]
+black = '#555555'
+blue = '#5555ff'
+cyan = '#55ffff'
+green = '#55ff55'
+magenta = '#ff55ff'
+red = '#ff5555'
+white = '#ffffff'
+yellow = '#ffff55'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#4c4c4c'
+blue = '#276bd8'
+cyan = '#00dadf'
+green = '#5fde8f'
+magenta = '#bb00bb'
+red = '#bb0000'
+white = '#bbbbbb'
+yellow = '#f3f167'
+
+[colors.primary]
+background = '#000000'
+foreground = '#bbbbbb'
+
+[colors.selection]
+background = '#b5d5ff'
+text = '#000000'

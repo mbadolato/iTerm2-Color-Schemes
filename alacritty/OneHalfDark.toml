@@ -1,0 +1,33 @@
+# Colors (OneHalfDark)
+
+[colors.bright]
+black = '#282c34'
+blue = '#61afef'
+cyan = '#56b6c2'
+green = '#98c379'
+magenta = '#c678dd'
+red = '#e06c75'
+white = '#dcdfe4'
+yellow = '#e5c07b'
+
+[colors.cursor]
+cursor = '#a3b3cc'
+text = '#dcdfe4'
+
+[colors.normal]
+black = '#282c34'
+blue = '#61afef'
+cyan = '#56b6c2'
+green = '#98c379'
+magenta = '#c678dd'
+red = '#e06c75'
+white = '#dcdfe4'
+yellow = '#e5c07b'
+
+[colors.primary]
+background = '#282c34'
+foreground = '#dcdfe4'
+
+[colors.selection]
+background = '#474e5d'
+text = '#dcdfe4'

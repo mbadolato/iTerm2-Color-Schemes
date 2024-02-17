@@ -1,0 +1,33 @@
+# Colors (CrayonPonyFish)
+
+[colors.bright]
+black = '#3d2b2e'
+blue = '#cfc9ff'
+cyan = '#ffceaf'
+green = '#8dff57'
+magenta = '#fc6cba'
+red = '#c5255d'
+white = '#b0949d'
+yellow = '#c8381d'
+
+[colors.cursor]
+cursor = '#68525a'
+text = '#140707'
+
+[colors.normal]
+black = '#2b1b1d'
+blue = '#8c87b0'
+cyan = '#e8a866'
+green = '#579524'
+magenta = '#692f50'
+red = '#91002b'
+white = '#68525a'
+yellow = '#ab311b'
+
+[colors.primary]
+background = '#150707'
+foreground = '#68525a'
+
+[colors.selection]
+background = '#2b1b1d'
+text = '#69525a'

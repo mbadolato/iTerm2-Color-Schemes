@@ -1,0 +1,33 @@
+# Colors (Overnight Slumber)
+
+[colors.bright]
+black = '#575656'
+blue = '#8dabe1'
+cyan = '#ffa7c4'
+green = '#85cc95'
+magenta = '#c792eb'
+red = '#ffa7c4'
+white = '#ffffff'
+yellow = '#ffcb8b'
+
+[colors.cursor]
+cursor = '#ffa7c4'
+text = '#ffffff'
+
+[colors.normal]
+black = '#0a1222'
+blue = '#8dabe1'
+cyan = '#78ccf0'
+green = '#85cc95'
+magenta = '#c792eb'
+red = '#ffa7c4'
+white = '#ffffff'
+yellow = '#ffcb8b'
+
+[colors.primary]
+background = '#0e1729'
+foreground = '#ced2d6'
+
+[colors.selection]
+background = '#1f2b41'
+text = '#ced2d6'

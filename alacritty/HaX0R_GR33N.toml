@@ -1,0 +1,33 @@
+# Colors (HaX0R_GR33N)
+
+[colors.bright]
+black = '#001510'
+blue = '#19e20e'
+cyan = '#19e20e'
+green = '#19e20e'
+magenta = '#19e20e'
+red = '#19e20e'
+white = '#fefefe'
+yellow = '#19e20e'
+
+[colors.cursor]
+cursor = '#15d00d'
+text = '#ffffff'
+
+[colors.normal]
+black = '#001f0b'
+blue = '#15d00d'
+cyan = '#15d00d'
+green = '#15d00d'
+magenta = '#15d00d'
+red = '#15d00d'
+white = '#fafafa'
+yellow = '#15d00d'
+
+[colors.primary]
+background = '#020f01'
+foreground = '#16b10e'
+
+[colors.selection]
+background = '#d4ffc1'
+text = '#fdfdfd'

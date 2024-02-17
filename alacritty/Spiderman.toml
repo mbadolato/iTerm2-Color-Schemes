@@ -1,0 +1,33 @@
+# Colors (Spiderman)
+
+[colors.bright]
+black = '#505354'
+blue = '#1d50ff'
+cyan = '#6184ff'
+green = '#ff3338'
+magenta = '#747cff'
+red = '#ff0325'
+white = '#fffff9'
+yellow = '#fe3a35'
+
+[colors.cursor]
+cursor = '#2c3fff'
+text = '#000000'
+
+[colors.normal]
+black = '#1b1d1e'
+blue = '#2c3fff'
+cyan = '#3256ff'
+green = '#e22928'
+magenta = '#2435db'
+red = '#e60813'
+white = '#fffef6'
+yellow = '#e24756'
+
+[colors.primary]
+background = '#1b1d1e'
+foreground = '#e3e3e3'
+
+[colors.selection]
+background = '#070e50'
+text = '#f0272d'

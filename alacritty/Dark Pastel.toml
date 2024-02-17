@@ -1,0 +1,33 @@
+# Colors (Dark Pastel)
+
+[colors.bright]
+black = '#555555'
+blue = '#5555ff'
+cyan = '#55ffff'
+green = '#55ff55'
+magenta = '#ff55ff'
+red = '#ff5555'
+white = '#ffffff'
+yellow = '#ffff55'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#5555ff'
+cyan = '#55ffff'
+green = '#55ff55'
+magenta = '#ff55ff'
+red = '#ff5555'
+white = '#bbbbbb'
+yellow = '#ffff55'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#b5d5ff'
+text = '#000000'

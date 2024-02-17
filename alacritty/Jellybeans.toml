@@ -1,0 +1,33 @@
+# Colors (Jellybeans)
+
+[colors.bright]
+black = '#bdbdbd'
+blue = '#b1d8f6'
+cyan = '#1ab2a8'
+green = '#bddeab'
+magenta = '#fbdaff'
+red = '#ffa1a1'
+white = '#ffffff'
+yellow = '#ffdca0'
+
+[colors.cursor]
+cursor = '#ffa560'
+text = '#ffffff'
+
+[colors.normal]
+black = '#929292'
+blue = '#97bedc'
+cyan = '#00988e'
+green = '#94b979'
+magenta = '#e1c0fa'
+red = '#e27373'
+white = '#dedede'
+yellow = '#ffba7b'
+
+[colors.primary]
+background = '#121212'
+foreground = '#dedede'
+
+[colors.selection]
+background = '#474e91'
+text = '#f4f4f4'

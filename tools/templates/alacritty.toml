@@ -1,0 +1,35 @@
+# Colors ({{ scheme_name }})
+
+[colors.bright]
+black = '#{{ Ansi_8_Color.hex }}'
+blue = '#{{ Ansi_12_Color.hex }}'
+cyan = '#{{ Ansi_14_Color.hex }}'
+green = '#{{ Ansi_10_Color.hex }}'
+magenta = '#{{ Ansi_13_Color.hex }}'
+red = '#{{ Ansi_9_Color.hex }}'
+white = '#{{ Ansi_15_Color.hex }}'
+yellow = '#{{ Ansi_11_Color.hex }}'
+
+[colors.cursor]
+cursor = '#{{ Cursor_Color.hex }}'
+text = '#{{ Cursor_Text_Color.hex }}'
+
+[colors.normal]
+black = '#{{ Ansi_0_Color.hex }}'
+blue = '#{{ Ansi_4_Color.hex }}'
+cyan = '#{{ Ansi_6_Color.hex }}'
+green = '#{{ Ansi_2_Color.hex }}'
+magenta = '#{{ Ansi_5_Color.hex }}'
+red = '#{{ Ansi_1_Color.hex }}'
+white = '#{{ Ansi_7_Color.hex }}'
+yellow = '#{{ Ansi_3_Color.hex }}'
+
+[colors.primary]
+background = '#{{ Background_Color.hex }}'
+foreground = '#{{ Foreground_Color.hex }}'
+
+{% if Selection_Color and Selected_Text_Color %}
+[colors.selection]
+background = '#{{ Selection_Color.hex }}'
+text = '#{{ Selected_Text_Color.hex }}'
+{% endif %}

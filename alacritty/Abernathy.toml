@@ -1,0 +1,33 @@
+# Colors (Abernathy)
+
+[colors.bright]
+black = '#404040'
+blue = '#11b5f6'
+cyan = '#00ffff'
+green = '#00ff00'
+magenta = '#ff00ff'
+red = '#ff0000'
+white = '#ffffff'
+yellow = '#ffff00'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#1093f5'
+cyan = '#00cdcd'
+green = '#00cd00'
+magenta = '#cd00cd'
+red = '#cd0000'
+white = '#faebd7'
+yellow = '#cdcd00'
+
+[colors.primary]
+background = '#111416'
+foreground = '#eeeeec'
+
+[colors.selection]
+background = '#eeeeec'
+text = '#333333'

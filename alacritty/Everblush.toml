@@ -1,0 +1,33 @@
+# Colors (Everblush)
+
+[colors.bright]
+black = '#2d3437'
+blue = '#71baf2'
+cyan = '#67cbe7'
+green = '#96d988'
+magenta = '#ce89df'
+red = '#ef7e7e'
+white = '#bdc3c2'
+yellow = '#f4d67a'
+
+[colors.cursor]
+cursor = '#dadada'
+text = '#141b1e'
+
+[colors.normal]
+black = '#232a2d'
+blue = '#67b0e8'
+cyan = '#6cbfbf'
+green = '#8ccf7e'
+magenta = '#c47fd5'
+red = '#e57474'
+white = '#b3b9b8'
+yellow = '#e5c76b'
+
+[colors.primary]
+background = '#141b1e'
+foreground = '#dadada'
+
+[colors.selection]
+background = '#141b1e'
+text = '#dadada'

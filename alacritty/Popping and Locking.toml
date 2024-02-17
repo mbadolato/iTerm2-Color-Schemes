@@ -1,0 +1,33 @@
+# Colors (Popping and Locking)
+
+[colors.bright]
+black = '#928374'
+blue = '#99c6ca'
+cyan = '#7ec16e'
+green = '#b8bb26'
+magenta = '#d3869b'
+red = '#f42c3e'
+white = '#ebdbb2'
+yellow = '#fabd2f'
+
+[colors.cursor]
+cursor = '#c7c7c7'
+text = '#ffffff'
+
+[colors.normal]
+black = '#1d2021'
+blue = '#458588'
+cyan = '#689d6a'
+green = '#98971a'
+magenta = '#b16286'
+red = '#cc241d'
+white = '#a89984'
+yellow = '#d79921'
+
+[colors.primary]
+background = '#181921'
+foreground = '#ebdbb2'
+
+[colors.selection]
+background = '#ebdbb2'
+text = '#928374'

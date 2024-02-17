@@ -1,0 +1,33 @@
+# Colors (zenbones_dark)
+
+[colors.bright]
+black = '#403833'
+blue = '#61abda'
+cyan = '#65b8c1'
+green = '#8bae68'
+magenta = '#cf86c1'
+red = '#e8838f'
+white = '#888f94'
+yellow = '#d68c67'
+
+[colors.cursor]
+cursor = '#c4cacf'
+text = '#1c1917'
+
+[colors.normal]
+black = '#1c1917'
+blue = '#6099c0'
+cyan = '#66a5ad'
+green = '#819b69'
+magenta = '#b279a7'
+red = '#de6e7c'
+white = '#b4bdc3'
+yellow = '#b77e64'
+
+[colors.primary]
+background = '#1c1917'
+foreground = '#b4bdc3'
+
+[colors.selection]
+background = '#3d4042'
+text = '#b4bdc3'

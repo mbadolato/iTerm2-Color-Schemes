@@ -1,0 +1,33 @@
+# Colors (iTerm2 Tango Dark)
+
+[colors.bright]
+black = '#686a66'
+blue = '#84b0d8'
+cyan = '#37e6e8'
+green = '#99e343'
+magenta = '#bc94b7'
+red = '#f54235'
+white = '#f1f1f0'
+yellow = '#fdeb61'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#427ab3'
+cyan = '#00a7aa'
+green = '#5ea702'
+magenta = '#89658e'
+red = '#d81e00'
+white = '#dbded8'
+yellow = '#cfae00'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#c1deff'
+text = '#000000'

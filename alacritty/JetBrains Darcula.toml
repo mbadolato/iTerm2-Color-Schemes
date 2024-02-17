@@ -1,0 +1,33 @@
+# Colors (JetBrains Darcula)
+
+[colors.bright]
+black = '#555555'
+blue = '#6d9df1'
+cyan = '#60d3d1'
+green = '#67ff4f'
+magenta = '#fb82ff'
+red = '#fb7172'
+white = '#eeeeee'
+yellow = '#ffff00'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#4581eb'
+cyan = '#33c2c1'
+green = '#126e00'
+magenta = '#fa54ff'
+red = '#fa5355'
+white = '#adadad'
+yellow = '#c2c300'
+
+[colors.primary]
+background = '#202020'
+foreground = '#adadad'
+
+[colors.selection]
+background = '#1a3272'
+text = '#adadad'

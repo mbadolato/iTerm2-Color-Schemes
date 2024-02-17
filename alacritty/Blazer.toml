@@ -1,0 +1,33 @@
+# Colors (Blazer)
+
+[colors.bright]
+black = '#262626'
+blue = '#bdbddb'
+cyan = '#bddbdb'
+green = '#bddbbd'
+magenta = '#dbbddb'
+red = '#dbbdbd'
+white = '#ffffff'
+yellow = '#dbdbbd'
+
+[colors.cursor]
+cursor = '#d9e6f2'
+text = '#0d1926'
+
+[colors.normal]
+black = '#000000'
+blue = '#7a7ab8'
+cyan = '#7ab8b8'
+green = '#7ab87a'
+magenta = '#b87ab8'
+red = '#b87a7a'
+white = '#d9d9d9'
+yellow = '#b8b87a'
+
+[colors.primary]
+background = '#0d1926'
+foreground = '#d9e6f2'
+
+[colors.selection]
+background = '#c1ddff'
+text = '#000000'

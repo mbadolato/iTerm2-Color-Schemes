@@ -1,0 +1,33 @@
+# Colors (purplepeter)
+
+[colors.bright]
+black = '#100b23'
+blue = '#79daed'
+cyan = '#a0a0d6'
+green = '#b4be8f'
+magenta = '#ba91d4'
+red = '#f99f92'
+white = '#b9aed3'
+yellow = '#f2e9bf'
+
+[colors.cursor]
+cursor = '#c7c7c7'
+text = '#ffffff'
+
+[colors.normal]
+black = '#0a0520'
+blue = '#66d9ef'
+cyan = '#ba8cff'
+green = '#99b481'
+magenta = '#e78fcd'
+red = '#ff796d'
+white = '#ffba81'
+yellow = '#efdfac'
+
+[colors.primary]
+background = '#2a1a4a'
+foreground = '#ece7fa'
+
+[colors.selection]
+background = '#8689c2'
+text = '#271c50'

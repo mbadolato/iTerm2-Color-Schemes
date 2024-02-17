@@ -1,0 +1,33 @@
+# Colors (VibrantInk)
+
+[colors.bright]
+black = '#555555'
+blue = '#0000ff'
+cyan = '#00ffff'
+green = '#00ff00'
+magenta = '#ff00ff'
+red = '#ff0000'
+white = '#e5e5e5'
+yellow = '#ffff00'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#878787'
+blue = '#44b4cc'
+cyan = '#44b4cc'
+green = '#ccff04'
+magenta = '#9933cc'
+red = '#ff6600'
+white = '#f5f5f5'
+yellow = '#ffcc00'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#b5d5ff'
+text = '#000000'

@@ -1,0 +1,33 @@
+# Colors (Sublette)
+
+[colors.bright]
+black = '#405570'
+blue = '#77bbff'
+cyan = '#55ffbb'
+green = '#99ee77'
+magenta = '#aa88ff'
+red = '#ee6655'
+white = '#ffffee'
+yellow = '#ffff77'
+
+[colors.cursor]
+cursor = '#ccced0'
+text = '#202535'
+
+[colors.normal]
+black = '#253045'
+blue = '#5588ff'
+cyan = '#44eeee'
+green = '#55ee77'
+magenta = '#ff77cc'
+red = '#ee5577'
+white = '#f5f5da'
+yellow = '#ffdd88'
+
+[colors.primary]
+background = '#202535'
+foreground = '#ccced0'
+
+[colors.selection]
+background = '#ccced0'
+text = '#202535'

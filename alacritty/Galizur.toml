@@ -1,0 +1,33 @@
+# Colors (Galizur)
+
+[colors.bright]
+black = '#556677'
+blue = '#3377ff'
+cyan = '#33ddff'
+green = '#33ff11'
+magenta = '#aa77ff'
+red = '#ff1133'
+white = '#bbccdd'
+yellow = '#ffdd33'
+
+[colors.cursor]
+cursor = '#ddeeff'
+text = '#071317'
+
+[colors.normal]
+black = '#223344'
+blue = '#2255cc'
+cyan = '#22bbdd'
+green = '#33aa11'
+magenta = '#7755aa'
+red = '#aa1122'
+white = '#8899aa'
+yellow = '#ccaa22'
+
+[colors.primary]
+background = '#071317'
+foreground = '#ddeeff'
+
+[colors.selection]
+background = '#071317'
+text = '#ddeeff'

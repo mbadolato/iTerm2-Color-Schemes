@@ -1,0 +1,33 @@
+# Colors (Tango Adapted)
+
+[colors.bright]
+black = '#8f928b'
+blue = '#88c9ff'
+cyan = '#00feff'
+green = '#93ff00'
+magenta = '#e9a7e1'
+red = '#ff0013'
+white = '#f6f6f4'
+yellow = '#fff121'
+
+[colors.cursor]
+cursor = '#000000'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#00a2ff'
+cyan = '#00d0d6'
+green = '#59d600'
+magenta = '#c17ecc'
+red = '#ff0000'
+white = '#e6ebe1'
+yellow = '#f0cb00'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#000000'
+
+[colors.selection]
+background = '#c1deff'
+text = '#000000'

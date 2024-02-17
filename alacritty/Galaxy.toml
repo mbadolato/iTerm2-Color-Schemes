@@ -1,0 +1,33 @@
+# Colors (Galaxy)
+
+[colors.bright]
+black = '#555555'
+blue = '#589df6'
+cyan = '#3979bc'
+green = '#35bb9a'
+magenta = '#e75699'
+red = '#fa8c8f'
+white = '#ffffff'
+yellow = '#ffff55'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#589df6'
+cyan = '#1f9ee7'
+green = '#21b089'
+magenta = '#944d95'
+red = '#f9555f'
+white = '#bbbbbb'
+yellow = '#fef02a'
+
+[colors.primary]
+background = '#1d2837'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#b5d5ff'
+text = '#000000'

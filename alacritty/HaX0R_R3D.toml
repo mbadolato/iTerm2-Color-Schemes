@@ -1,0 +1,33 @@
+# Colors (HaX0R_R3D)
+
+[colors.bright]
+black = '#150000'
+blue = '#ff1010'
+cyan = '#ff1010'
+green = '#ff1010'
+magenta = '#ff1010'
+red = '#ff1111'
+white = '#fefefe'
+yellow = '#ff1010'
+
+[colors.cursor]
+cursor = '#b00d0d'
+text = '#ffffff'
+
+[colors.normal]
+black = '#1f0000'
+blue = '#b00d0d'
+cyan = '#b00d0d'
+green = '#b00d0d'
+magenta = '#b00d0d'
+red = '#b00d0d'
+white = '#fafafa'
+yellow = '#b00d0d'
+
+[colors.primary]
+background = '#200101'
+foreground = '#b10e0e'
+
+[colors.selection]
+background = '#ebc1ff'
+text = '#fdfdfd'

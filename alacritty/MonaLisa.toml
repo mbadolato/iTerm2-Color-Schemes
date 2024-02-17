@@ -1,0 +1,33 @@
+# Colors (MonaLisa)
+
+[colors.bright]
+black = '#874228'
+blue = '#9eb2b4'
+cyan = '#8acd8f'
+green = '#b4b264'
+magenta = '#ff5b6a'
+red = '#ff4331'
+white = '#ffe598'
+yellow = '#ff9566'
+
+[colors.cursor]
+cursor = '#c46c32'
+text = '#120b0d'
+
+[colors.normal]
+black = '#351b0e'
+blue = '#515c5d'
+cyan = '#588056'
+green = '#636232'
+magenta = '#9b1d29'
+red = '#9b291c'
+white = '#f7d75c'
+yellow = '#c36e28'
+
+[colors.primary]
+background = '#120b0d'
+foreground = '#f7d66a'
+
+[colors.selection]
+background = '#f7d66a'
+text = '#120b0d'

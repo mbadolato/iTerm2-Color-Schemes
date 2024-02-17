@@ -1,0 +1,33 @@
+# Colors (Peppermint)
+
+[colors.bright]
+black = '#535353'
+blue = '#6fbce2'
+cyan = '#96dcdb'
+green = '#a3cca2'
+magenta = '#e586e7'
+red = '#e4859b'
+white = '#dfdfdf'
+yellow = '#e1e487'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#353535'
+blue = '#449fd0'
+cyan = '#65aaaf'
+green = '#89d287'
+magenta = '#da62dc'
+red = '#e74669'
+white = '#b4b4b4'
+yellow = '#dab853'
+
+[colors.primary]
+background = '#000000'
+foreground = '#c8c8c8'
+
+[colors.selection]
+background = '#e6e6e6'
+text = '#000000'

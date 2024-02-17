@@ -1,0 +1,33 @@
+# Colors (Neopolitan)
+
+[colors.bright]
+black = '#000000'
+blue = '#253b76'
+cyan = '#8da6ce'
+green = '#61ce3c'
+magenta = '#ff0080'
+red = '#800000'
+white = '#f8f8f8'
+yellow = '#fbde2d'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#253b76'
+cyan = '#8da6ce'
+green = '#61ce3c'
+magenta = '#ff0080'
+red = '#800000'
+white = '#f8f8f8'
+yellow = '#fbde2d'
+
+[colors.primary]
+background = '#271f19'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#253b76'
+text = '#ffffff'

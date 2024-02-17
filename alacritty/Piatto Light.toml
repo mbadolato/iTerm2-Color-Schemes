@@ -1,0 +1,33 @@
+# Colors (Piatto Light)
+
+[colors.bright]
+black = '#3f3f3f'
+blue = '#3c5ea8'
+cyan = '#829429'
+green = '#829429'
+magenta = '#a454b2'
+red = '#db3365'
+white = '#f2f2f2'
+yellow = '#cd6f34'
+
+[colors.cursor]
+cursor = '#5e77c8'
+text = '#abbee5'
+
+[colors.normal]
+black = '#414141'
+blue = '#3c5ea8'
+cyan = '#66781e'
+green = '#66781e'
+magenta = '#a454b2'
+red = '#b23771'
+white = '#ffffff'
+yellow = '#cd6f34'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#414141'
+
+[colors.selection]
+background = '#706b4e'
+text = '#acbcdc'

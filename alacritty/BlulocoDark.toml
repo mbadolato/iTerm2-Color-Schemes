@@ -1,0 +1,33 @@
+# Colors (BlulocoDark)
+
+[colors.bright]
+black = '#8f9aae'
+blue = '#10b1fe'
+cyan = '#5fb9bc'
+green = '#3fc56b'
+magenta = '#ff78f8'
+red = '#ff6480'
+white = '#ffffff'
+yellow = '#f9c859'
+
+[colors.cursor]
+cursor = '#ffcc00'
+text = '#282c34'
+
+[colors.normal]
+black = '#41444d'
+blue = '#3476ff'
+cyan = '#4483aa'
+green = '#25a45c'
+magenta = '#7a82da'
+red = '#fc2f52'
+white = '#cdd4e0'
+yellow = '#ff936a'
+
+[colors.primary]
+background = '#282c34'
+foreground = '#b9c0cb'
+
+[colors.selection]
+background = '#b9c0ca'
+text = '#272b33'

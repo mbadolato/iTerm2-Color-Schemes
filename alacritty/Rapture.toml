@@ -1,0 +1,33 @@
+# Colors (Rapture)
+
+[colors.bright]
+black = '#304b66'
+blue = '#6c9bf5'
+cyan = '#64e0ff'
+green = '#7afde1'
+magenta = '#ff4fa1'
+red = '#fc644d'
+white = '#ffffff'
+yellow = '#fff09b'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#111e2a'
+
+[colors.normal]
+black = '#000000'
+blue = '#6c9bf5'
+cyan = '#64e0ff'
+green = '#7afde1'
+magenta = '#ff4fa1'
+red = '#fc644d'
+white = '#c0c9e5'
+yellow = '#fff09b'
+
+[colors.primary]
+background = '#111e2a'
+foreground = '#c0c9e5'
+
+[colors.selection]
+background = '#304b66'
+text = '#ffffff'

@@ -1,0 +1,33 @@
+# Colors (Cobalt Neon)
+
+[colors.bright]
+black = '#fff688'
+blue = '#3c7dd2'
+cyan = '#6cbc67'
+green = '#8ff586'
+magenta = '#8230a7'
+red = '#d4312e'
+white = '#8ff586'
+yellow = '#e9f06d'
+
+[colors.cursor]
+cursor = '#c4206f'
+text = '#8ff586'
+
+[colors.normal]
+black = '#142631'
+blue = '#8ff586'
+cyan = '#8ff586'
+green = '#3ba5ff'
+magenta = '#781aa0'
+red = '#ff2320'
+white = '#ba46b2'
+yellow = '#e9e75c'
+
+[colors.primary]
+background = '#142838'
+foreground = '#8ff586'
+
+[colors.selection]
+background = '#094fb1'
+text = '#8ff586'

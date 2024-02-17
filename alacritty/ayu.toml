@@ -1,0 +1,33 @@
+# Colors (ayu)
+
+[colors.bright]
+black = '#323232'
+blue = '#68d5ff'
+cyan = '#c7fffd'
+green = '#eafe84'
+magenta = '#ffa3aa'
+red = '#ff6565'
+white = '#ffffff'
+yellow = '#fff779'
+
+[colors.cursor]
+cursor = '#f29718'
+text = '#e6e1cf'
+
+[colors.normal]
+black = '#000000'
+blue = '#36a3d9'
+cyan = '#95e6cb'
+green = '#b8cc52'
+magenta = '#f07178'
+red = '#ff3333'
+white = '#ffffff'
+yellow = '#e7c547'
+
+[colors.primary]
+background = '#0f1419'
+foreground = '#e6e1cf'
+
+[colors.selection]
+background = '#253340'
+text = '#e6e1cf'

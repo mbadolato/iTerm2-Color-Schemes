@@ -1,0 +1,33 @@
+# Colors (Highway)
+
+[colors.bright]
+black = '#5d504a'
+blue = '#4fc2fd'
+cyan = '#5d504a'
+green = '#b1d130'
+magenta = '#de0071'
+red = '#f07e18'
+white = '#ffffff'
+yellow = '#fff120'
+
+[colors.cursor]
+cursor = '#e0d9b9'
+text = '#1f192a'
+
+[colors.normal]
+black = '#000000'
+blue = '#006bb3'
+cyan = '#384564'
+green = '#138034'
+magenta = '#6b2775'
+red = '#d00e18'
+white = '#ededed'
+yellow = '#ffcb3e'
+
+[colors.primary]
+background = '#222225'
+foreground = '#ededed'
+
+[colors.selection]
+background = '#384564'
+text = '#ededed'

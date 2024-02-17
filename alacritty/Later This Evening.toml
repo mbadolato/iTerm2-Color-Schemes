@@ -1,0 +1,33 @@
+# Colors (Later This Evening)
+
+[colors.bright]
+black = '#454747'
+blue = '#6699d6'
+cyan = '#5fc0ae'
+green = '#aabb39'
+magenta = '#ab53d6'
+red = '#d3232f'
+white = '#c1c2c2'
+yellow = '#e5be39'
+
+[colors.cursor]
+cursor = '#424242'
+text = '#959595'
+
+[colors.normal]
+black = '#2b2b2b'
+blue = '#a0bad6'
+cyan = '#91bfb7'
+green = '#afba67'
+magenta = '#c092d6'
+red = '#d45a60'
+white = '#3c3d3d'
+yellow = '#e5d289'
+
+[colors.primary]
+background = '#222222'
+foreground = '#959595'
+
+[colors.selection]
+background = '#424242'
+text = '#959595'

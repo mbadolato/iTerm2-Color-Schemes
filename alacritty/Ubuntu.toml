@@ -1,0 +1,33 @@
+# Colors (Ubuntu)
+
+[colors.bright]
+black = '#555753'
+blue = '#729fcf'
+cyan = '#34e2e2'
+green = '#8ae234'
+magenta = '#ad7fa8'
+red = '#ef2929'
+white = '#eeeeec'
+yellow = '#fce94f'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#2e3436'
+blue = '#3465a4'
+cyan = '#06989a'
+green = '#4e9a06'
+magenta = '#75507b'
+red = '#cc0000'
+white = '#d3d7cf'
+yellow = '#c4a000'
+
+[colors.primary]
+background = '#300a24'
+foreground = '#eeeeec'
+
+[colors.selection]
+background = '#b5d5ff'
+text = '#000000'

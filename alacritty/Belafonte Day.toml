@@ -1,0 +1,33 @@
+# Colors (Belafonte Day)
+
+[colors.bright]
+black = '#5e5252'
+blue = '#426a79'
+cyan = '#989a9c'
+green = '#858162'
+magenta = '#97522c'
+red = '#be100e'
+white = '#d5ccba'
+yellow = '#eaa549'
+
+[colors.cursor]
+cursor = '#45373c'
+text = '#d5ccba'
+
+[colors.normal]
+black = '#20111b'
+blue = '#426a79'
+cyan = '#989a9c'
+green = '#858162'
+magenta = '#97522c'
+red = '#be100e'
+white = '#968c83'
+yellow = '#eaa549'
+
+[colors.primary]
+background = '#d5ccba'
+foreground = '#45373c'
+
+[colors.selection]
+background = '#968c83'
+text = '#45373c'

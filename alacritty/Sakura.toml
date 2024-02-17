@@ -1,0 +1,33 @@
+# Colors (Sakura)
+
+[colors.bright]
+black = '#786d69'
+blue = '#9892f1'
+cyan = '#eeeeee'
+green = '#22e529'
+magenta = '#e90cdd'
+red = '#f41d99'
+white = '#cbb6ff'
+yellow = '#f59574'
+
+[colors.cursor]
+cursor = '#ff65fd'
+text = '#24242e'
+
+[colors.normal]
+black = '#000000'
+blue = '#6964ab'
+cyan = '#939393'
+green = '#41af1a'
+magenta = '#c71fbf'
+red = '#d52370'
+white = '#998eac'
+yellow = '#bc7053'
+
+[colors.primary]
+background = '#18131e'
+foreground = '#dd7bdc'
+
+[colors.selection]
+background = '#c05cbf'
+text = '#24242e'

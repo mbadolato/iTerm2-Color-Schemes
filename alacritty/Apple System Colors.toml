@@ -1,0 +1,33 @@
+# Colors (Apple System Colors)
+
+[colors.bright]
+black = '#464646'
+blue = '#0a84ff'
+cyan = '#76d6ff'
+green = '#32d74b'
+magenta = '#bf5af2'
+red = '#ff453a'
+white = '#ffffff'
+yellow = '#ffd60a'
+
+[colors.cursor]
+cursor = '#98989d'
+text = '#ffffff'
+
+[colors.normal]
+black = '#1a1a1a'
+blue = '#0869cb'
+cyan = '#479ec2'
+green = '#26a439'
+magenta = '#9647bf'
+red = '#cc372e'
+white = '#98989d'
+yellow = '#cdac08'
+
+[colors.primary]
+background = '#1e1e1e'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#3f638b'
+text = '#ffffff'

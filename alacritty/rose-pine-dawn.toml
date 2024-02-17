@@ -1,0 +1,33 @@
+# Colors (rose-pine-dawn)
+
+[colors.bright]
+black = '#9893a5'
+blue = '#286983'
+cyan = '#d7827e'
+green = '#56949f'
+magenta = '#907aa9'
+red = '#b4637a'
+white = '#575279'
+yellow = '#ea9d34'
+
+[colors.cursor]
+cursor = '#575279'
+text = '#faf4ed'
+
+[colors.normal]
+black = '#f2e9e1'
+blue = '#286983'
+cyan = '#d7827e'
+green = '#56949f'
+magenta = '#907aa9'
+red = '#b4637a'
+white = '#575279'
+yellow = '#ea9d34'
+
+[colors.primary]
+background = '#faf4ed'
+foreground = '#575279'
+
+[colors.selection]
+background = '#faf4ed'
+text = '#575279'

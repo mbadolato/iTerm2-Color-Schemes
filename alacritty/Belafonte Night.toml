@@ -1,0 +1,33 @@
+# Colors (Belafonte Night)
+
+[colors.bright]
+black = '#5e5252'
+blue = '#426a79'
+cyan = '#989a9c'
+green = '#858162'
+magenta = '#97522c'
+red = '#be100e'
+white = '#d5ccba'
+yellow = '#eaa549'
+
+[colors.cursor]
+cursor = '#968c83'
+text = '#20111b'
+
+[colors.normal]
+black = '#20111b'
+blue = '#426a79'
+cyan = '#989a9c'
+green = '#858162'
+magenta = '#97522c'
+red = '#be100e'
+white = '#968c83'
+yellow = '#eaa549'
+
+[colors.primary]
+background = '#20111b'
+foreground = '#968c83'
+
+[colors.selection]
+background = '#45373c'
+text = '#968c83'

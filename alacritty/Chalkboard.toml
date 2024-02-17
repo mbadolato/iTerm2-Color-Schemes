@@ -1,0 +1,33 @@
+# Colors (Chalkboard)
+
+[colors.bright]
+black = '#323232'
+blue = '#aaaadb'
+cyan = '#aadadb'
+green = '#aadbaa'
+magenta = '#dbaada'
+red = '#dbaaaa'
+white = '#ffffff'
+yellow = '#dadbaa'
+
+[colors.cursor]
+cursor = '#d9e6f2'
+text = '#29262f'
+
+[colors.normal]
+black = '#000000'
+blue = '#7372c3'
+cyan = '#72c2c3'
+green = '#72c373'
+magenta = '#c372c2'
+red = '#c37372'
+white = '#d9d9d9'
+yellow = '#c2c372'
+
+[colors.primary]
+background = '#29262f'
+foreground = '#d9e6f2'
+
+[colors.selection]
+background = '#073642'
+text = '#ffffff'

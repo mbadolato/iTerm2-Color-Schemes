@@ -1,0 +1,33 @@
+# Colors (Solarized Darcula)
+
+[colors.bright]
+black = '#25292a'
+blue = '#2075c7'
+cyan = '#15968d'
+green = '#629655'
+magenta = '#797fd4'
+red = '#f24840'
+white = '#d2d8d9'
+yellow = '#b68800'
+
+[colors.cursor]
+cursor = '#708284'
+text = '#002831'
+
+[colors.normal]
+black = '#25292a'
+blue = '#2075c7'
+cyan = '#15968d'
+green = '#629655'
+magenta = '#797fd4'
+red = '#f24840'
+white = '#d2d8d9'
+yellow = '#b68800'
+
+[colors.primary]
+background = '#3d3f41'
+foreground = '#d2d8d9'
+
+[colors.selection]
+background = '#214283'
+text = '#d2d8d9'

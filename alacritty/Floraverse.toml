@@ -1,0 +1,33 @@
+# Colors (Floraverse)
+
+[colors.bright]
+black = '#331e4d'
+blue = '#40a4cf'
+cyan = '#62caa8'
+green = '#b4ce59'
+magenta = '#f12aae'
+red = '#d02063'
+white = '#fff5db'
+yellow = '#fac357'
+
+[colors.cursor]
+cursor = '#bbbbbb'
+text = '#ffffff'
+
+[colors.normal]
+black = '#08002e'
+blue = '#1d6da1'
+cyan = '#42a38c'
+green = '#5d731a'
+magenta = '#b7077e'
+red = '#64002c'
+white = '#f3e0b8'
+yellow = '#cd751c'
+
+[colors.primary]
+background = '#0e0d15'
+foreground = '#dbd1b9'
+
+[colors.selection]
+background = '#f3e0b8'
+text = '#08002e'

@@ -1,0 +1,33 @@
+# Colors (Shaman)
+
+[colors.bright]
+black = '#384451'
+blue = '#61d5ba'
+cyan = '#98d028'
+green = '#2aea5e'
+magenta = '#1298ff'
+red = '#ff4242'
+white = '#58fbd6'
+yellow = '#8ed4fd'
+
+[colors.cursor]
+cursor = '#4afcd6'
+text = '#031413'
+
+[colors.normal]
+black = '#012026'
+blue = '#449a86'
+cyan = '#5d7e19'
+green = '#00a941'
+magenta = '#00599d'
+red = '#b2302d'
+white = '#405555'
+yellow = '#5e8baa'
+
+[colors.primary]
+background = '#001015'
+foreground = '#405555'
+
+[colors.selection]
+background = '#415555'
+text = '#5afad6'

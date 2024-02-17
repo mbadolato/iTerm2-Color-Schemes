@@ -1,0 +1,33 @@
+# Colors (arcoiris)
+
+[colors.bright]
+black = '#777777'
+blue = '#b3e8f3'
+cyan = '#bcffc7'
+green = '#e3f6aa'
+magenta = '#cbbaf9'
+red = '#ffb9b9'
+white = '#efefef'
+yellow = '#ffddaa'
+
+[colors.cursor]
+cursor = '#7a1c1c'
+text = '#fffbf2'
+
+[colors.normal]
+black = '#333333'
+blue = '#518bfc'
+cyan = '#63fad5'
+green = '#12c258'
+magenta = '#e37bd9'
+red = '#da2700'
+white = '#bab2b2'
+yellow = '#ffc656'
+
+[colors.primary]
+background = '#201f1e'
+foreground = '#eee4d9'
+
+[colors.selection]
+background = '#25524a'
+text = '#f3fffd'

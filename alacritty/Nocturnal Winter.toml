@@ -1,0 +1,33 @@
+# Colors (Nocturnal Winter)
+
+[colors.bright]
+black = '#808080'
+blue = '#6096ff'
+cyan = '#0ae78d'
+green = '#0ae78d'
+magenta = '#ff78a2'
+red = '#f16d86'
+white = '#ffffff'
+yellow = '#fffc67'
+
+[colors.cursor]
+cursor = '#e6e5e5'
+text = '#ffffff'
+
+[colors.normal]
+black = '#4d4d4d'
+blue = '#3182e0'
+cyan = '#09c87a'
+green = '#09cd7e'
+magenta = '#ff2b6d'
+red = '#f12d52'
+white = '#fcfcfc'
+yellow = '#f5f17a'
+
+[colors.primary]
+background = '#0d0d17'
+foreground = '#e6e5e5'
+
+[colors.selection]
+background = '#adbdd0'
+text = '#000000'

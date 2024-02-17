@@ -1,0 +1,33 @@
+# Colors (Konsolas)
+
+[colors.bright]
+black = '#7b716e'
+blue = '#4b4bff'
+cyan = '#69ffff'
+green = '#5fff5f'
+magenta = '#ff54ff'
+red = '#ff4141'
+white = '#ffffff'
+yellow = '#ffff55'
+
+[colors.cursor]
+cursor = '#c8c1c1'
+text = '#060606'
+
+[colors.normal]
+black = '#000000'
+blue = '#2323a5'
+cyan = '#42b0c8'
+green = '#18b218'
+magenta = '#ad1edc'
+red = '#aa1717'
+white = '#c8c1c1'
+yellow = '#ebae1f'
+
+[colors.primary]
+background = '#060606'
+foreground = '#c8c1c1'
+
+[colors.selection]
+background = '#060606'
+text = '#c8c1c1'

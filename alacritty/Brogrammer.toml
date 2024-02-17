@@ -1,0 +1,33 @@
+# Colors (Brogrammer)
+
+[colors.bright]
+black = '#d6dbe5'
+blue = '#1081d6'
+cyan = '#0f7ddb'
+green = '#1dd361'
+magenta = '#5350b9'
+red = '#de352e'
+white = '#ffffff'
+yellow = '#f3bd09'
+
+[colors.cursor]
+cursor = '#b9b9b9'
+text = '#101010'
+
+[colors.normal]
+black = '#1f1f1f'
+blue = '#2a84d2'
+cyan = '#1081d6'
+green = '#2dc55e'
+magenta = '#4e5ab7'
+red = '#f81118'
+white = '#d6dbe5'
+yellow = '#ecba0f'
+
+[colors.primary]
+background = '#131313'
+foreground = '#d6dbe5'
+
+[colors.selection]
+background = '#1f1f1f'
+text = '#d6dbe5'

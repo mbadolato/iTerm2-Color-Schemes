@@ -1,0 +1,33 @@
+# Colors (Duotone Dark)
+
+[colors.bright]
+black = '#353147'
+blue = '#ffc284'
+cyan = '#2488ff'
+green = '#2dcd73'
+magenta = '#de8d40'
+red = '#d9393e'
+white = '#eae5ff'
+yellow = '#d9b76e'
+
+[colors.cursor]
+cursor = '#ff9839'
+text = '#1f1d27'
+
+[colors.normal]
+black = '#1f1d27'
+blue = '#ffc284'
+cyan = '#2488ff'
+green = '#2dcd73'
+magenta = '#de8d40'
+red = '#d9393e'
+white = '#b7a1ff'
+yellow = '#d9b76e'
+
+[colors.primary]
+background = '#1f1d27'
+foreground = '#b7a1ff'
+
+[colors.selection]
+background = '#353147'
+text = '#b7a2ff'

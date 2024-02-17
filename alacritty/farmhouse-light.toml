@@ -1,0 +1,33 @@
+# Colors (farmhouse-light)
+
+[colors.bright]
+black = '#394047'
+blue = '#006efe'
+cyan = '#19e062'
+green = '#7ac100'
+magenta = '#bf3b7f'
+red = '#eb0009'
+white = '#f4eef0'
+yellow = '#ea9a00'
+
+[colors.cursor]
+cursor = '#006efe'
+text = '#1d2027'
+
+[colors.normal]
+black = '#1d2027'
+blue = '#092ccd'
+cyan = '#229256'
+green = '#3a7d00'
+magenta = '#820046'
+red = '#8d0003'
+white = '#e8e4e1'
+yellow = '#a95600'
+
+[colors.primary]
+background = '#e8e4e1'
+foreground = '#1d2027'
+
+[colors.selection]
+background = '#b3b1aa'
+text = '#4d5658'

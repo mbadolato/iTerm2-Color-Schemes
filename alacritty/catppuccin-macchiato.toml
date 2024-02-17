@@ -1,0 +1,33 @@
+# Colors (catppuccin-macchiato)
+
+[colors.bright]
+black = '#5b6078'
+blue = '#8aadf4'
+cyan = '#8bd5ca'
+green = '#a6da95'
+magenta = '#f5bde6'
+red = '#ed8796'
+white = '#a5adcb'
+yellow = '#eed49f'
+
+[colors.cursor]
+cursor = '#f4dbd6'
+text = '#cad3f5'
+
+[colors.normal]
+black = '#494d64'
+blue = '#8aadf4'
+cyan = '#8bd5ca'
+green = '#a6da95'
+magenta = '#f5bde6'
+red = '#ed8796'
+white = '#b8c0e0'
+yellow = '#eed49f'
+
+[colors.primary]
+background = '#24273a'
+foreground = '#cad3f5'
+
+[colors.selection]
+background = '#5b6078'
+text = '#cad3f5'

@@ -1,0 +1,33 @@
+# Colors (Bright Lights)
+
+[colors.bright]
+black = '#191919'
+blue = '#76d5ff'
+cyan = '#6cbfb5'
+green = '#b7e876'
+magenta = '#ba76e7'
+red = '#ff355b'
+white = '#c2c8d7'
+yellow = '#ffc251'
+
+[colors.cursor]
+cursor = '#f34b00'
+text = '#002831'
+
+[colors.normal]
+black = '#191919'
+blue = '#76d4ff'
+cyan = '#6cbfb5'
+green = '#b7e876'
+magenta = '#ba76e7'
+red = '#ff355b'
+white = '#c2c8d7'
+yellow = '#ffc251'
+
+[colors.primary]
+background = '#191919'
+foreground = '#b3c9d7'
+
+[colors.selection]
+background = '#b3c9d7'
+text = '#191919'

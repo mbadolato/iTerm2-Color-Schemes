@@ -1,0 +1,33 @@
+# Colors (Monokai Soda)
+
+[colors.bright]
+black = '#625e4c'
+blue = '#9d65ff'
+cyan = '#58d1eb'
+green = '#98e024'
+magenta = '#f4005f'
+red = '#f4005f'
+white = '#f6f6ef'
+yellow = '#e0d561'
+
+[colors.cursor]
+cursor = '#f6f7ec'
+text = '#c4c5b5'
+
+[colors.normal]
+black = '#1a1a1a'
+blue = '#9d65ff'
+cyan = '#58d1eb'
+green = '#98e024'
+magenta = '#f4005f'
+red = '#f4005f'
+white = '#c4c5b5'
+yellow = '#fa8419'
+
+[colors.primary]
+background = '#1a1a1a'
+foreground = '#c4c5b5'
+
+[colors.selection]
+background = '#343434'
+text = '#c4c5b5'

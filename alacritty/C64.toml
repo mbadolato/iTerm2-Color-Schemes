@@ -1,0 +1,33 @@
+# Colors (C64)
+
+[colors.bright]
+black = '#000000'
+blue = '#40318d'
+cyan = '#67b6bd'
+green = '#55a049'
+magenta = '#8b3f96'
+red = '#883932'
+white = '#f7f7f7'
+yellow = '#bfce72'
+
+[colors.cursor]
+cursor = '#7869c4'
+text = '#40318d'
+
+[colors.normal]
+black = '#090300'
+blue = '#40318d'
+cyan = '#67b6bd'
+green = '#55a049'
+magenta = '#8b3f96'
+red = '#883932'
+white = '#ffffff'
+yellow = '#bfce72'
+
+[colors.primary]
+background = '#40318d'
+foreground = '#7869c4'
+
+[colors.selection]
+background = '#7869c4'
+text = '#40318d'

@@ -1,0 +1,33 @@
+# Colors (Doom Peacock)
+
+[colors.bright]
+black = '#2b2a27'
+blue = '#51afef'
+cyan = '#46d9ff'
+green = '#98be65'
+magenta = '#c678dd'
+red = '#ff5d38'
+white = '#dfdfdf'
+yellow = '#e6f972'
+
+[colors.cursor]
+cursor = '#9c9c9d'
+text = '#36312b'
+
+[colors.normal]
+black = '#1c1f24'
+blue = '#2a6cc6'
+cyan = '#5699af'
+green = '#26a6a6'
+magenta = '#a9a1e1'
+red = '#cb4b16'
+white = '#ede0ce'
+yellow = '#bcd42a'
+
+[colors.primary]
+background = '#2b2a27'
+foreground = '#ede0ce'
+
+[colors.selection]
+background = '#a60033'
+text = '#ffffff'

@@ -1,0 +1,33 @@
+# Colors (Ollie)
+
+[colors.bright]
+black = '#5b3725'
+blue = '#4488ff'
+cyan = '#1ffaff'
+green = '#3bff99'
+magenta = '#ffc21d'
+red = '#ff3d48'
+white = '#5b6ea7'
+yellow = '#ff5e1e'
+
+[colors.cursor]
+cursor = '#5b6ea7'
+text = '#2a292d'
+
+[colors.normal]
+black = '#000000'
+blue = '#2d57ac'
+cyan = '#1fa6ac'
+green = '#31ac61'
+magenta = '#b08528'
+red = '#ac2e31'
+white = '#8a8eac'
+yellow = '#ac4300'
+
+[colors.primary]
+background = '#222125'
+foreground = '#8a8dae'
+
+[colors.selection]
+background = '#1e3a66'
+text = '#8a8eac'

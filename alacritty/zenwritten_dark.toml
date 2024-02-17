@@ -1,0 +1,33 @@
+# Colors (zenwritten_dark)
+
+[colors.bright]
+black = '#3d3839'
+blue = '#61abda'
+cyan = '#65b8c1'
+green = '#8bae68'
+magenta = '#cf86c1'
+red = '#e8838f'
+white = '#8e8e8e'
+yellow = '#d68c67'
+
+[colors.cursor]
+cursor = '#c9c9c9'
+text = '#191919'
+
+[colors.normal]
+black = '#191919'
+blue = '#6099c0'
+cyan = '#66a5ad'
+green = '#819b69'
+magenta = '#b279a7'
+red = '#de6e7c'
+white = '#bbbbbb'
+yellow = '#b77e64'
+
+[colors.primary]
+background = '#191919'
+foreground = '#bbbbbb'
+
+[colors.selection]
+background = '#404040'
+text = '#bbbbbb'

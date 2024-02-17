@@ -1,0 +1,33 @@
+# Colors (Kolorit)
+
+[colors.bright]
+black = '#1d1a1e'
+blue = '#5db4ee'
+cyan = '#57e9eb'
+green = '#47d7a1'
+magenta = '#da6cda'
+red = '#ff5b82'
+white = '#ededed'
+yellow = '#e8e562'
+
+[colors.cursor]
+cursor = '#c7c7c7'
+text = '#ffffff'
+
+[colors.normal]
+black = '#1d1a1e'
+blue = '#5db4ee'
+cyan = '#57e9eb'
+green = '#47d7a1'
+magenta = '#da6cda'
+red = '#ff5b82'
+white = '#ededed'
+yellow = '#e8e562'
+
+[colors.primary]
+background = '#1d1a1e'
+foreground = '#efecec'
+
+[colors.selection]
+background = '#e1925c'
+text = '#1d1a1e'

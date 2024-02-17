@@ -1,0 +1,33 @@
+# Colors (Neutron)
+
+[colors.bright]
+black = '#23252b'
+blue = '#6a7c93'
+cyan = '#3f94a8'
+green = '#5ab977'
+magenta = '#a4799d'
+red = '#b54036'
+white = '#ebedf2'
+yellow = '#deb566'
+
+[colors.cursor]
+cursor = '#f6f7ec'
+text = '#c4c5b5'
+
+[colors.normal]
+black = '#23252b'
+blue = '#6a7c93'
+cyan = '#3f94a8'
+green = '#5ab977'
+magenta = '#a4799d'
+red = '#b54036'
+white = '#e6e8ef'
+yellow = '#deb566'
+
+[colors.primary]
+background = '#1c1e22'
+foreground = '#e6e8ef'
+
+[colors.selection]
+background = '#2f363e'
+text = '#7d8fa4'

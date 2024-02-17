@@ -1,0 +1,33 @@
+# Colors (NvimLight)
+
+[colors.bright]
+black = '#4f5258'
+blue = '#004c73'
+cyan = '#007373'
+green = '#005523'
+magenta = '#470045'
+red = '#590008'
+white = '#eef1f8'
+yellow = '#6b5300'
+
+[colors.cursor]
+cursor = '#9b9ea4'
+text = '#14161b'
+
+[colors.normal]
+black = '#07080d'
+blue = '#004c73'
+cyan = '#007373'
+green = '#005523'
+magenta = '#470045'
+red = '#590008'
+white = '#eef1f8'
+yellow = '#6b5300'
+
+[colors.primary]
+background = '#e0e2ea'
+foreground = '#14161b'
+
+[colors.selection]
+background = '#9b9ea4'
+text = '#14161b'

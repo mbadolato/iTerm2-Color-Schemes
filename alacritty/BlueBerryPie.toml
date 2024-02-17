@@ -1,0 +1,33 @@
+# Colors (BlueBerryPie)
+
+[colors.bright]
+black = '#201637'
+blue = '#39173d'
+cyan = '#5e6071'
+green = '#0a6c7e'
+magenta = '#bc94b7'
+red = '#c87272'
+white = '#0a6c7e'
+yellow = '#7a3188'
+
+[colors.cursor]
+cursor = '#fcfad6'
+text = '#000000'
+
+[colors.normal]
+black = '#0a4c62'
+blue = '#90a5bd'
+cyan = '#7e83cc'
+green = '#5cb1b3'
+magenta = '#9d54a7'
+red = '#99246e'
+white = '#f0e8d6'
+yellow = '#eab9a8'
+
+[colors.primary]
+background = '#1c0c28'
+foreground = '#babab9'
+
+[colors.selection]
+background = '#606060'
+text = '#ffffff'

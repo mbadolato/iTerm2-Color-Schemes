@@ -1,0 +1,33 @@
+# Colors (SynthwaveAlpha)
+
+[colors.bright]
+black = '#7f7094'
+blue = '#aa54f9'
+cyan = '#00fbfd'
+green = '#0ae4a4'
+magenta = '#ff00f6'
+red = '#e60a70'
+white = '#f2f2e3'
+yellow = '#f9f972'
+
+[colors.cursor]
+cursor = '#f2f2e3'
+text = '#241b30'
+
+[colors.normal]
+black = '#241b30'
+blue = '#6e29ad'
+cyan = '#00b0b1'
+green = '#00986c'
+magenta = '#b300ad'
+red = '#e60a70'
+white = '#b9b1bc'
+yellow = '#adad3e'
+
+[colors.primary]
+background = '#241b30'
+foreground = '#f2f2e3'
+
+[colors.selection]
+background = '#6e29ad'
+text = '#f2f2e3'
