@@ -1,0 +1,27 @@
+bg-color = "#{{ Background_Color.hex }}"
+fg-color = "#{{ Foreground_Color.hex }}"
+
+color-0 = "#{{ Ansi_0_Color.hex }}"
+color-1 = "#{{ Ansi_1_Color.hex }}"
+color-2 = "#{{ Ansi_2_Color.hex }}"
+color-3 = "#{{ Ansi_3_Color.hex }}"
+color-4 = "#{{ Ansi_4_Color.hex }}"
+color-5 = "#{{ Ansi_5_Color.hex }}"
+color-6 = "#{{ Ansi_6_Color.hex }}"
+color-7 = "#{{ Ansi_7_Color.hex }}"
+color-8 = "#{{ Ansi_8_Color.hex }}"
+color-9 = "#{{ Ansi_9_Color.hex }}"
+color-10 = "#{{ Ansi_10_Color.hex }}"
+color-11 = "#{{ Ansi_11_Color.hex }}"
+color-12 = "#{{ Ansi_12_Color.hex }}"
+color-13 = "#{{ Ansi_13_Color.hex }}"
+color-14 = "#{{ Ansi_14_Color.hex }}"
+color-15 = "#{{ Ansi_15_Color.hex }}"
+
+{% if Selection_Color %}
+highlight-bg-color = "#{{ Selection_Color.hex }}"
+{% endif %}
+{% if Selected_Text_Color %}
+highlight-fg-color = "#{{ Selected_Text_Color.hex }}"
+{% endif %}
+
