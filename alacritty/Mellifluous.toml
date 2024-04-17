@@ -1,0 +1,33 @@
+# Colors (Mellifluous)
+
+[colors.bright]
+black = '#5b5b5b'
+blue = '#5a6599'
+cyan = '#74a39e'
+green = '#828040'
+magenta = '#9c6995'
+red = '#c95954'
+white = '#ffffff'
+yellow = '#a6794c'
+
+[colors.cursor]
+cursor = '#bfad9e'
+text = '#1a1a1a'
+
+[colors.normal]
+black = '#1a1a1a'
+blue = '#a8a1be'
+cyan = '#c0af8c'
+green = '#b3b393'
+magenta = '#b39fb0'
+red = '#d29393'
+white = '#dadada'
+yellow = '#cbaa89'
+
+[colors.primary]
+background = '#1a1a1a'
+foreground = '#dadada'
+
+[colors.selection]
+background = '#2d2d2d'
+text = '#c0af8c'

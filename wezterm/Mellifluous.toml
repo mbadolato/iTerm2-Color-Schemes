@@ -1,0 +1,12 @@
+# Mellifluous
+[colors]
+foreground = "#dadada"
+background = "#1a1a1a"
+cursor_bg = "#bfad9e"
+cursor_border = "#bfad9e"
+cursor_fg = "#1a1a1a"
+selection_bg = "#2d2d2d"
+selection_fg = "#c0af8c"
+
+ansi = ["#1a1a1a","#d29393","#b3b393","#cbaa89","#a8a1be","#b39fb0","#c0af8c","#dadada"]
+brights = ["#5b5b5b","#c95954","#828040","#a6794c","#5a6599","#9c6995","#74a39e","#ffffff"]
