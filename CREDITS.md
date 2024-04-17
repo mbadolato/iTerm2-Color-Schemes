@@ -202,6 +202,8 @@ The theme Mathias was created by [mathiasbynens](https://github.com/mathiasbynen
 
 The Matrix theme series were created by [Jim Xu](https://github.com/i3d) inspired by the famous Matrix movie series.
 
+The Mellifluous theme was adapted by [rektdeckard](https://github.com/rektdeckard) from the NeoVim scheme of the same name by [ramojus](https://github.com/ramojus/mellifluous.nvim)
+
 The Midnight In Mojave theme was created by [OberstKrueger](https://github.com/oberstkrueger) based on the colors outlined in the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/macos/overview/themes/)
 
 The Mirage theme was created by [Tristan Remy](https://github.com/tristanremy/mirage) and ported to iTerm2 by [Gomah](https://github.com/Gomah/mirage-iterm).
