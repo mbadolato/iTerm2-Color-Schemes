@@ -1,0 +1,33 @@
+# Colors (CutiePro)
+
+[colors.bright]
+black = '#373b41'
+blue = '#80c5de'
+cyan = '#9dccbb'
+green = '#e8d6a7'
+magenta = '#b294bb'
+red = '#e5a1a3'
+white = '#ffffff'
+yellow = '#f1bb79'
+
+[colors.cursor]
+cursor = '#efc4cd'
+text = '#181818'
+
+[colors.normal]
+black = '#000000'
+blue = '#42d9c5'
+cyan = '#37cb8a'
+green = '#bec975'
+magenta = '#d286b7'
+red = '#f56e7f'
+white = '#d5c3c3'
+yellow = '#f58669'
+
+[colors.primary]
+background = '#181818'
+foreground = '#d5d0c9'
+
+[colors.selection]
+background = '#363636'
+text = '#d5d0c9'

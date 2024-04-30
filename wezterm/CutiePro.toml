@@ -1,0 +1,12 @@
+# CutiePro
+[colors]
+foreground = "#d5d0c9"
+background = "#181818"
+cursor_bg = "#efc4cd"
+cursor_border = "#efc4cd"
+cursor_fg = "#181818"
+selection_bg = "#363636"
+selection_fg = "#d5d0c9"
+
+ansi = ["#000000","#f56e7f","#bec975","#f58669","#42d9c5","#d286b7","#37cb8a","#d5c3c3"]
+brights = ["#373b41","#e5a1a3","#e8d6a7","#f1bb79","#80c5de","#b294bb","#9dccbb","#ffffff"]
