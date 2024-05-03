@@ -376,6 +376,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### CrayonPonyFish
 
+### CutiePro
+
+![Screenshot](screenshots/CutiePro.png)
+
 ![Screenshot](screenshots/crayon_pony_fish.png)
 
 ### Cyberdyne
