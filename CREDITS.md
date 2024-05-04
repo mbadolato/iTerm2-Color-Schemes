@@ -350,6 +350,8 @@ The Under The Sea theme was created by [peterpme](https://github.com/peterpme)
 
 The Unikitty theme was created by [jakebathman](https://github.com/jakebathman)
 
+The Vesper theme was originally created by [raunofreiberg](https://github.com/raunofreiberg) for VSCode, ported to iTerm2 by [geoffreybrunet](https://github.com/GeoffreyBrunet) and added by [ubmit](https://github.com/ubmit)
+
 The VibrantInk theme was created by [asanghi](https://github.com/asanghi/vibrantinklion)
 
 The scheme Violet was created by [ashfinal](https://github.com/ashfinal/vim-colors-violet).

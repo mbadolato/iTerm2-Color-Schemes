@@ -1128,6 +1128,10 @@
 
 ![image](vaughn.png)
 
+`vesper.png`
+
+![image](vesper.png)
+
 `vibrant_ink.png`
 
 ![image](vibrant_ink.png)
