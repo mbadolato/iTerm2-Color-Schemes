@@ -76,7 +76,7 @@ The Cobalt Neon theme was created by [vazquez](https://github.com/vazquez/cobalt
 
 The coffee theme was created by [cbitterfield](https://github.com/cbitterfield)
 
-The CutiePro theme was created by [jezzy](https://github.com/jezziewezzie)
+The CutiePro theme was created by [jezzy](https://github.com/jezzy-ultra)
 
 The Cyberpunk theme was created by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)
 
