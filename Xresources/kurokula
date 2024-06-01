@@ -8,35 +8,35 @@
 !
 ! Black
 *.color0:      #333333
-*.color8:      #141515
+*.color8:      #515151
 !
 ! Red
-*.color1:      #d23e08
-*.color9:      #b66056
+*.color1:      #b66056
+*.color9:      #ffc663
 !
 ! Green
-*.color2:      #54ca74
-*.color10:     #85b1a9
+*.color2:      #85b1a9
+*.color10:     #c1ffae
 !
 ! Yellow
-*.color3:      #fff700
-*.color11:     #dbbb43
+*.color3:      #dbbb43
+*.color11:     #fff700
 !
 ! Blue
-*.color4:      #2ab9ff
-*.color12:     #6890d7
+*.color4:      #6890d7
+*.color12:     #a1d9ff
 !
 ! Magenta
-*.color5:      #9e60ec
-*.color13:     #887aa3
+*.color5:      #887aa3
+*.color13:     #a994ff
 !
 ! Cyan
-*.color6:      #9d5918
-*.color14:     #837369
+*.color6:      #837369
+*.color14:     #f9cfb9
 !
 ! White
 *.color7:      #ddd0c4
-*.color15:     #94959b
+*.color15:     #ffffff
 !
 ! Bold, Italic, Underline
 *.colorBD:     #ffffff
