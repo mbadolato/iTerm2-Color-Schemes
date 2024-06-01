@@ -758,6 +758,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/konsolas.png)
 
+### Kurokula
+
+![Screenshot](screenshots/kurokula.png)
+
 ### Lab Fox
 
 ![Screenshot](screenshots/lab_fox.png)

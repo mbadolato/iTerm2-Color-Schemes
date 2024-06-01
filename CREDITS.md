@@ -182,6 +182,8 @@ The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
 
 The Kolorit theme was created by [thomaspaulmann](https://github.com/thomaspaulmann)
 
+The [Kurokula](https://github.com/Indyandie/kurokula-obsidian-theme) theme was created by [some fella](https://github.com/indyandie)
+
 The Lab Fox theme was created by [theatlasroom](https://github.com/theatlasroom) inspired by the [Gitlab design system](https://design.gitlab.com)
 
 The Later This Evening theme was created by [vilhalmer](https://github.com/vilhalmer/System/tree/master/terminal-themes)
