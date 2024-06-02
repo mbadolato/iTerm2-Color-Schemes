@@ -318,6 +318,8 @@ The Sublette theme was created by [sublee](https://github.com/sublee).
 
 The theme Subliminal was created by [gdsrosa](https://github.com/gdsrosa/subliminal-itermcolors)
 
+The theme Sugarplum was created by [lemonlime0x3C33](https://github.com/lemonlime0x3C33/iTerm2-Color-Schemes-Sugarplum)
+
 The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
 
 The synthwave theme was created by [brettstil](https://github.com/brettstil/)
