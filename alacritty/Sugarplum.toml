@@ -1,0 +1,33 @@
+# Colors (Sugarplum)
+
+[colors.bright]
+black = '#111147'
+blue = '#fa5dfd'
+cyan = '#ffffff'
+green = '#52deb5'
+magenta = '#c6a5fd'
+red = '#5cb5dc'
+white = '#b577fd'
+yellow = '#01f5c7'
+
+[colors.cursor]
+cursor = '#53b397'
+text = '#53b397'
+
+[colors.normal]
+black = '#111147'
+blue = '#db7ddd'
+cyan = '#f9f3f9'
+green = '#53b397'
+magenta = '#d0beee'
+red = '#5ca8dc'
+white = '#a175d4'
+yellow = '#249a84'
+
+[colors.primary]
+background = '#111147'
+foreground = '#db7ddd'
+
+[colors.selection]
+background = '#5ca8dc'
+text = '#d0beee'

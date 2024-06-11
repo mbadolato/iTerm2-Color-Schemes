@@ -1223,6 +1223,10 @@ more information.
 
 ![Screenshot](screenshots/subliminal.png)
 
+### Sugarplum
+
+![Screenshot](screenshots/Sugarplum.png)
+
 ### Sundried
 
 ![Screenshot](screenshots/sundried.png)
