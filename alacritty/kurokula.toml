@@ -1,0 +1,33 @@
+# Colors (kurokula)
+
+[colors.bright]
+black = '#515151'
+blue = '#a1d9ff'
+cyan = '#f9cfb9'
+green = '#c1ffae'
+magenta = '#a994ff'
+red = '#ffc663'
+white = '#ffffff'
+yellow = '#fff700'
+
+[colors.cursor]
+cursor = '#702420'
+text = '#fefbf3'
+
+[colors.normal]
+black = '#333333'
+blue = '#6890d7'
+cyan = '#837369'
+green = '#85b1a9'
+magenta = '#887aa3'
+red = '#b66056'
+white = '#ddd0c4'
+yellow = '#dbbb43'
+
+[colors.primary]
+background = '#141515'
+foreground = '#ddd0c4'
+
+[colors.selection]
+background = '#515151'
+text = '#ffc663'
