@@ -1,0 +1,12 @@
+# Oxocarbon
+[colors]
+foreground = "#393939"
+background = "#f2f4f8"
+cursor_bg = "#000000"
+cursor_border = "#000000"
+cursor_fg = "#ffffff"
+selection_bg = "#525252"
+selection_fg = "#f2f4f8"
+
+ansi = ["#f2f4f8","#ff7eb6","#0f62fe","#ff6f00","#42be65","#be95ff","#673ab7","#393939"]
+brights = ["#161616","#ff7eb6","#0f62fe","#ff6f00","#42be65","#be95ff","#673ab7","#393939"]
