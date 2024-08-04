@@ -254,6 +254,8 @@ The Operator Mono Dark was ported from [vharadkou](https://github.com/vharadkou/
 
 The Overnight Slumber theme was created by [Cristian Velasquez Ramos](https://github.com/cevr/overnight) and ported to iTerm2 by [Gomah](https://github.com/Gomah/overnight-slumber-iterm).
 
+The Oxocarbon theme was created by [Nyoom Engineering](https://github.com/nyoom-engineering) and ported to iTerm2 by [Hanna Rose](https://github.com/hqnna).
+
 The PaleNight theme was created by [Mattia Astorino](https://github.com/equinusocio) and ported to iTerm2 by [Kasper](https://github.com/Kasper-Liu)
 
 The Pandora theme was created by [milosmatic](https://github.com/milosmatic/Pandora-iterm)

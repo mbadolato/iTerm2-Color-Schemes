@@ -982,6 +982,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/overnight_slumber.png)
 
+### Oxocarbon
+
+![Screenshot](screenshots/oxocarbon.png)
+
 ### Palenight High Contrast
 
 ![Screenshot](screenshots/PaleNightHC.png)
