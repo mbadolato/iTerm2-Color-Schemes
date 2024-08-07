@@ -1,33 +1,33 @@
 # Colors (Oxocarbon)
 
 [colors.bright]
-black = '#161616'
+black = '#585858'
 blue = '#42be65'
-cyan = '#673ab7'
-green = '#0f62fe'
+cyan = '#ff7eb6'
+green = '#33b1ff'
 magenta = '#be95ff'
-red = '#ff7eb6'
-white = '#393939'
-yellow = '#ff6f00'
+red = '#3ddbd9'
+white = '#f2f4f8'
+yellow = '#ee5396'
 
 [colors.cursor]
-cursor = '#000000'
-text = '#ffffff'
+cursor = '#ffffff'
+text = '#000000'
 
 [colors.normal]
-black = '#f2f4f8'
+black = '#161616'
 blue = '#42be65'
-cyan = '#673ab7'
-green = '#0f62fe'
+cyan = '#ff7eb6'
+green = '#33b1ff'
 magenta = '#be95ff'
-red = '#ff7eb6'
-white = '#393939'
-yellow = '#ff6f00'
+red = '#3ddbd9'
+white = '#f2f4f8'
+yellow = '#ee5396'
 
 [colors.primary]
-background = '#f2f4f8'
-foreground = '#393939'
+background = '#161616'
+foreground = '#f2f4f8'
 
 [colors.selection]
-background = '#525252'
-text = '#f2f4f8'
+background = '#393939'
+text = '#161616'

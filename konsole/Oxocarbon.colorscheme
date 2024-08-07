@@ -4,28 +4,28 @@ Opacity=1
 Wallpaper=
 
 [Background]
-Color=242,244,248
+Color=22,22,22
 
 [BackgroundIntense]
-Color=242,244,248
+Color=22,22,22
 
 [Foreground]
-Color=57,57,57
-
-[ForegroundIntense]
-Color=16,16,16
-
-[Color0]
 Color=242,244,248
 
+[ForegroundIntense]
+Color=255,255,255
+
+[Color0]
+Color=22,22,22
+
 [Color1]
-Color=255,126,182
+Color=61,219,217
 
 [Color2Intense]
-Color=15,98,254
+Color=51,177,255
 
 [Color3Intense]
-Color=255,111,0
+Color=238,83,150
 
 [Color4Intense]
 Color=66,190,101
@@ -34,16 +34,16 @@ Color=66,190,101
 Color=190,149,255
 
 [Color6Intense]
-Color=103,58,183
+Color=255,126,182
 
 [Color7Intense]
-Color=57,57,57
+Color=242,244,248
 
 [Color2]
-Color=15,98,254
+Color=51,177,255
 
 [Color3]
-Color=255,111,0
+Color=238,83,150
 
 [Color4]
 Color=66,190,101
@@ -52,14 +52,14 @@ Color=66,190,101
 Color=190,149,255
 
 [Color6]
-Color=103,58,183
+Color=255,126,182
 
 [Color7]
-Color=57,57,57
+Color=242,244,248
 
 [Color0Intense]
-Color=22,22,22
+Color=88,88,88
 
 [Color1Intense]
-Color=255,126,182
+Color=61,219,217
 

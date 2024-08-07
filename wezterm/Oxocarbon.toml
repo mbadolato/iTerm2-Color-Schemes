@@ -1,12 +1,12 @@
 # Oxocarbon
 [colors]
-foreground = "#393939"
-background = "#f2f4f8"
-cursor_bg = "#000000"
-cursor_border = "#000000"
-cursor_fg = "#ffffff"
-selection_bg = "#525252"
-selection_fg = "#f2f4f8"
+foreground = "#f2f4f8"
+background = "#161616"
+cursor_bg = "#ffffff"
+cursor_border = "#ffffff"
+cursor_fg = "#000000"
+selection_bg = "#393939"
+selection_fg = "#161616"
 
-ansi = ["#f2f4f8","#ff7eb6","#0f62fe","#ff6f00","#42be65","#be95ff","#673ab7","#393939"]
-brights = ["#161616","#ff7eb6","#0f62fe","#ff6f00","#42be65","#be95ff","#673ab7","#393939"]
+ansi = ["#161616","#3ddbd9","#33b1ff","#ee5396","#42be65","#be95ff","#ff7eb6","#f2f4f8"]
+brights = ["#585858","#3ddbd9","#33b1ff","#ee5396","#42be65","#be95ff","#ff7eb6","#f2f4f8"]
