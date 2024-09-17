@@ -1,0 +1,33 @@
+# Colors (gruber-darker)
+
+[colors.bright]
+black = '#52494e'
+blue = '#96a6c8'
+cyan = '#95a99f'
+green = '#73d936'
+magenta = '#afafd7'
+red = '#ff4f58'
+white = '#f5f5f5'
+yellow = '#ffdd33'
+
+[colors.cursor]
+cursor = '#ffdd33'
+text = '#ffffff'
+
+[colors.normal]
+black = '#181818'
+blue = '#96a6c8'
+cyan = '#95a99f'
+green = '#73d936'
+magenta = '#9e95c7'
+red = '#f43841'
+white = '#e4e4e4'
+yellow = '#ffdd33'
+
+[colors.primary]
+background = '#181818'
+foreground = '#e4e4e4'
+
+[colors.selection]
+background = '#ffffff'
+text = '#52494e'

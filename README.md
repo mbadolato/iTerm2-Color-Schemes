@@ -590,6 +590,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/Grey-green.png)
 
+### Gruber Darker
+
+![Screenshot](screenshots/gruber-darker.png)
+
 ### Gruvbox Dark
 
 ![Screenshot](screenshots/gruvbox_dark.png)
