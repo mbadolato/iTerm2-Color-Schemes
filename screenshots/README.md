@@ -416,6 +416,10 @@
 
 ![image](grass.png)
 
+`gruber-darker.png`
+
+![image](gruber-darker.png)
+
 `gruvbox_dark.png`
 
 ![image](gruvbox_dark.png)

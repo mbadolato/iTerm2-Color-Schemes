@@ -140,6 +140,8 @@ The scheme Github was inspired by the color theme palette used at [Github](https
 
 The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncanson)
 
+The Gruber Darker theme was inspired by [Alexey Kutepov](https://github.com/rexim)
+
 The Gruvbox Dark theme was created by [morhetz](https://github.com/morhetz) and added by [saccarosium](https://github.com/mcchrish)
 
 The Gruvbox Dark Hard theme was created by [morhetz](https://github.com/morhetz) and added by [saccarosium](https://github.com/saccarosium)
