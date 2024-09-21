@@ -248,6 +248,10 @@
 
 ![image](desert.png)
 
+`dimidium.png`
+
+![image](dimidium.png)
+
 `dimmed_monokai.png`
 
 ![image](dimmed_monokai.png)
