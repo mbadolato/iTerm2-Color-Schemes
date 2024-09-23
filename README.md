@@ -414,6 +414,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/desert.png)
 
+### Dimidium
+
+![Screenshot](screenshots/dimidium.png)
+
 ### DimmedMonokai
 
 ![Screenshot](screenshots/dimmed_monokai.png)
