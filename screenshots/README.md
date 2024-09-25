@@ -220,6 +220,10 @@
 
 ![image](cyberpunk.png)
 
+`cyberpunk_scarlet_protocol`
+
+![image](cyberpunk_scarlet_protocol.png)
+
 `dark_pastel.png`
 
 ![image](dark_pastel.png)
