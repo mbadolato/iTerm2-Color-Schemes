@@ -1,0 +1,33 @@
+# Colors (CyberpunkScarletProtocol)
+
+[colors.bright]
+black = '#686868'
+blue = '#6a71f6'
+cyan = '#8efafd'
+green = '#8df77a'
+magenta = '#ae40e4'
+red = '#ed776d'
+white = '#ffffff'
+yellow = '#fefc7f'
+
+[colors.cursor]
+cursor = '#9bfca8'
+text = '#ffffff'
+
+[colors.normal]
+black = '#101116'
+blue = '#306fb1'
+cyan = '#59c2c6'
+green = '#64d98c'
+magenta = '#ba3ec1'
+red = '#ea3356'
+white = '#c7c7c7'
+yellow = '#faf968'
+
+[colors.primary]
+background = '#101116'
+foreground = '#d13554'
+
+[colors.selection]
+background = '#c7ddfc'
+text = '#000000'

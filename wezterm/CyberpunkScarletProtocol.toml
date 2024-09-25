@@ -1,0 +1,12 @@
+# CyberpunkScarletProtocol
+[colors]
+foreground = "#d13554"
+background = "#101116"
+cursor_bg = "#9bfca8"
+cursor_border = "#9bfca8"
+cursor_fg = "#ffffff"
+selection_bg = "#c7ddfc"
+selection_fg = "#000000"
+
+ansi = ["#101116","#ea3356","#64d98c","#faf968","#306fb1","#ba3ec1","#59c2c6","#c7c7c7"]
+brights = ["#686868","#ed776d","#8df77a","#fefc7f","#6a71f6","#ae40e4","#8efafd","#ffffff"]

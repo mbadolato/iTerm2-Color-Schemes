@@ -80,6 +80,8 @@ The CutiePro theme was created by [jezzy](https://github.com/jezzy-ultra)
 
 The Cyberpunk theme was created by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)
 
+The Cyberpunk Scarlet Protocol theme was created by [garrettmroberts](https://github.com/garrettmroberts). It is based on the Scarlet Protocol variation of the [Cyberpunk VsCode theme](https://github.com/prometheux-ar/cyberpunk).
+
 The Deep theme was created by [ADoyle](https://github.com/adoyle-h)
 
 The Dimidium theme was created by [dofuuz](https://github.com/dofuuz/dimidium)

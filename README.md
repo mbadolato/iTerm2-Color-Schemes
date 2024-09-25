@@ -390,6 +390,9 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/cyberpunk.png)
 
+### Cyberpunk Scarlet Protocol
+1[Screenshot](screenshots/cyberpunk_scarlet_protocol.png)
+
 ### Dark Pastel
 
 ![Screenshot](screenshots/dark_pastel.png)
