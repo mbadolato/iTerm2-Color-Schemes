@@ -1188,6 +1188,26 @@
 
 ![image](wryan.png)
 
+`xcodedark.png`
+
+![image](xcodedark.png)
+
+`xcodedarkhc.png`
+
+![image](xcodedarkhc.png)
+
+`xcodelight.png`
+
+![image](xcodelight.png)
+
+`xcodelighthc.png`
+
+![image](xcodelighthc.png)
+
+`xcodewwdc.png`
+
+![image](xcodewwdc.png)
+
 `zenburn.png`
 
 ![image](zenburn.png)
