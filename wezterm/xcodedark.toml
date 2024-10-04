@@ -1,0 +1,12 @@
+# xcodedark
+[colors]
+foreground = "#dfdfe0"
+background = "#292a30"
+cursor_bg = "#dfdfe0"
+cursor_border = "#dfdfe0"
+cursor_fg = "#292a30"
+selection_bg = "#414453"
+selection_fg = "#dfdfe0"
+
+ansi = ["#414453","#ff8170","#78c2b3","#d9c97c","#4eb0cc","#ff7ab2","#b281eb","#dfdfe0"]
+brights = ["#7f8c98","#ff8170","#acf2e4","#ffa14f","#6bdfff","#ff7ab2","#dabaff","#dfdfe0"]

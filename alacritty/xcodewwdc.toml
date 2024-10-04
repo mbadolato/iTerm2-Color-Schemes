@@ -1,0 +1,33 @@
+# Colors (xcodewwdc)
+
+[colors.bright]
+black = '#7f869e'
+blue = '#8884c5'
+cyan = '#00aba4'
+green = '#94c66e'
+magenta = '#b73999'
+red = '#bb383a'
+white = '#e7e8eb'
+yellow = '#d28e5d'
+
+[colors.cursor]
+cursor = '#e7e8eb'
+text = '#292c36'
+
+[colors.normal]
+black = '#494d5c'
+blue = '#8884c5'
+cyan = '#00aba4'
+green = '#94c66e'
+magenta = '#b73999'
+red = '#bb383a'
+white = '#e7e8eb'
+yellow = '#d28e5d'
+
+[colors.primary]
+background = '#292c36'
+foreground = '#e7e8eb'
+
+[colors.selection]
+background = '#494d5c'
+text = '#e7e8eb'

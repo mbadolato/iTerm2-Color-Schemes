@@ -1,0 +1,12 @@
+# xcodelight
+[colors]
+foreground = "#262626"
+background = "#ffffff"
+cursor_bg = "#262626"
+cursor_border = "#262626"
+cursor_fg = "#ffffff"
+selection_bg = "#b4d8fd"
+selection_fg = "#262626"
+
+ansi = ["#b4d8fd","#d12f1b","#3e8087","#78492a","#0f68a0","#ad3da4","#804fb8","#262626"]
+brights = ["#8a99a6","#d12f1b","#23575c","#78492a","#0b4f79","#ad3da4","#4b21b0","#262626"]

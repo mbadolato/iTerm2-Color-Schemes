@@ -1,0 +1,33 @@
+# Colors (xcodedark)
+
+[colors.bright]
+black = '#7f8c98'
+blue = '#6bdfff'
+cyan = '#dabaff'
+green = '#acf2e4'
+magenta = '#ff7ab2'
+red = '#ff8170'
+white = '#dfdfe0'
+yellow = '#ffa14f'
+
+[colors.cursor]
+cursor = '#dfdfe0'
+text = '#292a30'
+
+[colors.normal]
+black = '#414453'
+blue = '#4eb0cc'
+cyan = '#b281eb'
+green = '#78c2b3'
+magenta = '#ff7ab2'
+red = '#ff8170'
+white = '#dfdfe0'
+yellow = '#d9c97c'
+
+[colors.primary]
+background = '#292a30'
+foreground = '#dfdfe0'
+
+[colors.selection]
+background = '#414453'
+text = '#dfdfe0'

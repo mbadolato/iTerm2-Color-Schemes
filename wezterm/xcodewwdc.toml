@@ -1,0 +1,12 @@
+# xcodewwdc
+[colors]
+foreground = "#e7e8eb"
+background = "#292c36"
+cursor_bg = "#e7e8eb"
+cursor_border = "#e7e8eb"
+cursor_fg = "#292c36"
+selection_bg = "#494d5c"
+selection_fg = "#e7e8eb"
+
+ansi = ["#494d5c","#bb383a","#94c66e","#d28e5d","#8884c5","#b73999","#00aba4","#e7e8eb"]
+brights = ["#7f869e","#bb383a","#94c66e","#d28e5d","#8884c5","#b73999","#00aba4","#e7e8eb"]
