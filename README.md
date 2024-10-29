@@ -1207,6 +1207,10 @@ more information.
 
 ![Screenshot](screenshots/space_gray.png)
 
+### SpaceGray Bright
+
+![Screenshot](screenshots/spacegray_bright.png)
+
 ### SpaceGray Eighties
 
 ![Screenshot](screenshots/spacegray_eighties.png)

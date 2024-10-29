@@ -1,0 +1,33 @@
+# Colors (SpaceGray Bright)
+
+[colors.bright]
+black = '#626262'
+blue = '#7baec1'
+cyan = '#85c9b8'
+green = '#a0b56c'
+magenta = '#b98aae'
+red = '#bc5553'
+white = '#f7f7f7'
+yellow = '#f6c987'
+
+[colors.cursor]
+cursor = '#c6c6c6'
+text = '#ffffff'
+
+[colors.normal]
+black = '#080808'
+blue = '#7baec1'
+cyan = '#85c9b8'
+green = '#a0b56c'
+magenta = '#b98aae'
+red = '#bc5553'
+white = '#d8d8d8'
+yellow = '#f6c987'
+
+[colors.primary]
+background = '#2a2e3a'
+foreground = '#f3f3f3'
+
+[colors.selection]
+background = '#cacaca'
+text = '#000000'

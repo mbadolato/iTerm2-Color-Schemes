@@ -320,6 +320,8 @@ The Spacedust theme was created by [mhallendal](https://github.com/mhallendal/sp
 
 The SpaceGray theme was created by [ryentzer](https://github.com/ryentzer/SpaceGray-iTerm)
 
+The SpaceGray Bright theme was created by [nicksay](https://github.com/nicksay)
+
 The SpaceGray Eighties and SpaceGray Eighties Dull themes were created by [mhkeller](https://github.com/mhkeller/spacegray-eighties-iterm)
 
 The Spring theme was found [here](https://github.com/t3chnoboy/spring-iTerm)
