@@ -686,7 +686,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/iceberg.png)
 
-### IDEA Drak
+### IDEA Dark
 
 ![Screenshot](screenshots/idea.png)
 
@@ -1617,7 +1617,7 @@ Download the appropriate `colorscheme.reg` file. Open the file with a text edito
 #### Other PuTTY Recommendations
 
 ```
-Window > Apprearance
+Window > Appearance
  Font: Consolas, bold, 14-point
  Font quality:
   ( ) Antialiased     ( ) Non-Antialiased
