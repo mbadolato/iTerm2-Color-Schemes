@@ -858,6 +858,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/mellifluous.png)
 
+### Mellow
+
+![Screenshot](screenshots/mellow.png)
+
 ### Midnight In Mojave
 
 ![Screenshot](screenshots/midnight_in_mojave.png)
