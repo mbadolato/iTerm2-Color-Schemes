@@ -1,0 +1,32 @@
+# Kanagawa Wave
+
+## black
+palette = 0=#090618
+palette = 8=#727169
+## red
+palette = 1=#c34043
+palette = 9=#e82424
+## green
+palette = 2=#76946a
+palette = 10=#98bb6c
+## yellow
+palette = 3=#c0a36e
+palette = 11=#e6c384
+## blue
+palette = 4=#7e9cd8
+palette = 12=#7fb4ca
+## magenta
+palette = 5=#957fb8
+palette = 13=#938aa9
+## cyan
+palette = 6=#6a9589
+palette = 14=#7aa89f
+## white
+palette = 7=#c8c093
+palette = 15=#dcd7ba
+
+background = 1f1f28
+foreground = dcd7ba
+cursor-color = dcd7ba
+selection-background = 2d4f67
+selection-foreground = c8c093
