@@ -1,0 +1,33 @@
+# Colors (Kanagawa Wave)
+
+[colors.bright]
+black = '#727169'
+blue = '#7fb4ca'
+cyan = '#7aa89f'
+green = '#98bb6c'
+magenta = '#938aa9'
+red = '#e82424'
+white = '#dcd7ba'
+yellow = '#e6c384'
+
+[colors.cursor]
+cursor = '#c8c093'
+text = '#1d202f'
+
+[colors.normal]
+black = '#090618'
+blue = '#7e9cd8'
+cyan = '#6a9589'
+green = '#76946a'
+magenta = '#957fb8'
+red = '#c34043'
+white = '#c8c093'
+yellow = '#c0a36e'
+
+[colors.primary]
+background = '#1f1f28'
+foreground = '#dcd7ba'
+
+[colors.selection]
+background = '#2d4f67'
+text = '#c8c093'
