@@ -1,0 +1,33 @@
+# Colors (Kanagawa Dragon)
+
+[colors.bright]
+black = '#a6a69c'
+blue = '#7fb4ca'
+cyan = '#7aa89f'
+green = '#87a987'
+magenta = '#938aa9'
+red = '#e46876'
+white = '#c5c9c5'
+yellow = '#e6c384'
+
+[colors.cursor]
+cursor = '#c5c9c5'
+text = '#1d202f'
+
+[colors.normal]
+black = '#0d0c0c'
+blue = '#8ba4b0'
+cyan = '#8ea4a2'
+green = '#8a9a7b'
+magenta = '#a292a3'
+red = '#c4746e'
+white = '#c8c093'
+yellow = '#c4b28a'
+
+[colors.primary]
+background = '#181616'
+foreground = '#c8c093'
+
+[colors.selection]
+background = '#223249'
+text = '#c5c9c5'

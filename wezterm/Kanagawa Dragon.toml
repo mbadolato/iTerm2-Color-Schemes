@@ -1,0 +1,12 @@
+# Kanagawa Dragon
+[colors]
+foreground = "#c8c093"
+background = "#181616"
+cursor_bg = "#c5c9c5"
+cursor_border = "#c5c9c5"
+cursor_fg = "#1d202f"
+selection_bg = "#223249"
+selection_fg = "#c5c9c5"
+
+ansi = ["#0d0c0c","#c4746e","#8a9a7b","#c4b28a","#8ba4b0","#a292a3","#8ea4a2","#c8c093"]
+brights = ["#a6a69c","#e46876","#87a987","#e6c384","#7fb4ca","#938aa9","#7aa89f","#c5c9c5"]

@@ -188,6 +188,8 @@ The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
 
 The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
 
+The Kanagawa themes (Kanagawa Wave & Kanagawa Dragon) were created by [rebelot](https://github.com/rebelot)
+
 The Kolorit theme was created by [thomaspaulmann](https://github.com/thomaspaulmann)
 
 The [Kurokula](https://github.com/Indyandie/kurokula-obsidian-theme) theme was created by [some fella](https://github.com/indyandie)

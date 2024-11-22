@@ -576,6 +576,14 @@
 
 ![image](jubi.png)
 
+`kanagawa-dragon.png`
+
+![image](kanagawa-dragon.png)
+
+`kanagawa-wave.png`
+
+![image](kanagawa-wave.png)
+
 `kibble.png`
 
 ![image](kibble.png)
