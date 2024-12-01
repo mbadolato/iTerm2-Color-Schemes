@@ -1,0 +1,12 @@
+# RetroLegends
+[colors]
+foreground = "#45eb45"
+background = "#0d0d0d"
+cursor_bg = "#45eb45"
+cursor_border = "#45eb45"
+cursor_fg = "#0d0d0d"
+selection_bg = "#336633"
+selection_fg = "#f2fff2"
+
+ansi = ["#262626","#de5454","#45eb45","#f7bf2b","#4066f2","#bf4cf2","#40d9e6","#bfe6bf"]
+brights = ["#4c594c","#ff6666","#59ff59","#ffd933","#4c80ff","#e666ff","#59e6ff","#f2fff2"]

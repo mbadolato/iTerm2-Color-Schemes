@@ -1,0 +1,33 @@
+# Colors (RetroLegends)
+
+[colors.bright]
+black = '#4c594c'
+blue = '#4c80ff'
+cyan = '#59e6ff'
+green = '#59ff59'
+magenta = '#e666ff'
+red = '#ff6666'
+white = '#f2fff2'
+yellow = '#ffd933'
+
+[colors.cursor]
+cursor = '#45eb45'
+text = '#0d0d0d'
+
+[colors.normal]
+black = '#262626'
+blue = '#4066f2'
+cyan = '#40d9e6'
+green = '#45eb45'
+magenta = '#bf4cf2'
+red = '#de5454'
+white = '#bfe6bf'
+yellow = '#f7bf2b'
+
+[colors.primary]
+background = '#0d0d0d'
+foreground = '#45eb45'
+
+[colors.selection]
+background = '#336633'
+text = '#f2fff2'
