@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # iTerm Color Schemes
 
 - [Intro](#intro)
@@ -68,8 +70,8 @@ There are 3 ways to install an iTerm theme:
 
   # Import specific color schemes (quotations are needed for schemes with spaces in name)
   tools/import-scheme.sh 'schemes/SpaceGray Eighties.itermcolors' # by file path
-  tools/import-scheme.sh 'SpaceGray Eighties'					  # by scheme name
-  tools/import-scheme.sh Molokai 'SpaceGray Eighties'			  # import multiple
+  tools/import-scheme.sh 'SpaceGray Eighties'       # by scheme name
+  tools/import-scheme.sh Molokai 'SpaceGray Eighties'     # import multiple
   ```
 
   - Restart iTerm 2. (Need to quit iTerm 2 to reload the configuration file.)
@@ -139,13 +141,13 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
   {{ Ansi_15_Color }} // bright white
 
   Each color has these fields:
-	- {{ Background_Color.hex }} for hex representation
-	- {{ Background_Color.rgb }} for rgb representation as a "(r, g, b)" string
-	- {{ Backgroun_Color.guint16 }} for guint16 representation
+ - {{ Background_Color.hex }} for hex representation
+ - {{ Background_Color.rgb }} for rgb representation as a "(r, g, b)" string
+ - {{ Backgroun_Color.guint16 }} for guint16 representation
 
   Also you have access to this metadata fields:
-	- {{ Guint16_Palette }} with a string containing all ansi colors as guint16 values
-	- {{ Dark_Theme }} which contains a sign that the theme is dark
+ - {{ Guint16_Palette }} with a string containing all ansi colors as guint16 values
+ - {{ Dark_Theme }} which contains a sign that the theme is dark
 ```
 
 3. If you need a new value type for color, add it too `tools/converter.py`
@@ -1110,6 +1112,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/Retro.png)
 
+### RetroLegends
+
+![image](screenshots/RetroLegends.png)
+
 ### Rippedcasts
 
 ![Screenshot](screenshots/rippedcasts.png)
@@ -1507,59 +1513,59 @@ To install under the [X Window System](https://www.x.org/):
 
 - Import the .xrdb file of the scheme you'd like to use:
 
-		#include "/home/mbadolato/iTerm2-Color-Schemes/xrdb/Blazer.xrdb"
+  #include "/home/mbadolato/iTerm2-Color-Schemes/xrdb/Blazer.xrdb"
 
 - Use the `#define`s provided by the imported .xrdb file:
 
-		Rxvt*color0:	   Ansi_0_Color
-		Rxvt*color1:	   Ansi_1_Color
-		Rxvt*color2:	   Ansi_2_Color
-		Rxvt*color3:	   Ansi_3_Color
-		Rxvt*color4:	   Ansi_4_Color
-		Rxvt*color5:	   Ansi_5_Color
-		Rxvt*color6:	   Ansi_6_Color
-		Rxvt*color7:	   Ansi_7_Color
-		Rxvt*color8:	   Ansi_8_Color
-		Rxvt*color9:	   Ansi_9_Color
-		Rxvt*color10:	   Ansi_10_Color
-		Rxvt*color11:	   Ansi_11_Color
-		Rxvt*color12:	   Ansi_12_Color
-		Rxvt*color13:	   Ansi_13_Color
-		Rxvt*color14:	   Ansi_14_Color
-		Rxvt*color15:	   Ansi_15_Color
-		Rxvt*colorBD:	   Bold_Color
-		Rxvt*colorIT:	   Italic_Color
-		Rxvt*colorUL:	   Underline_Color
-		Rxvt*foreground:   Foreground_Color
-		Rxvt*background:   Background_Color
-		Rxvt*cursorColor:  Cursor_Color
+  Rxvt*color0:    Ansi_0_Color
+  Rxvt*color1:    Ansi_1_Color
+  Rxvt*color2:    Ansi_2_Color
+  Rxvt*color3:    Ansi_3_Color
+  Rxvt*color4:    Ansi_4_Color
+  Rxvt*color5:    Ansi_5_Color
+  Rxvt*color6:    Ansi_6_Color
+  Rxvt*color7:    Ansi_7_Color
+  Rxvt*color8:    Ansi_8_Color
+  Rxvt*color9:    Ansi_9_Color
+  Rxvt*color10:    Ansi_10_Color
+  Rxvt*color11:    Ansi_11_Color
+  Rxvt*color12:    Ansi_12_Color
+  Rxvt*color13:    Ansi_13_Color
+  Rxvt*color14:    Ansi_14_Color
+  Rxvt*color15:    Ansi_15_Color
+  Rxvt*colorBD:    Bold_Color
+  Rxvt*colorIT:    Italic_Color
+  Rxvt*colorUL:    Underline_Color
+  Rxvt*foreground:   Foreground_Color
+  Rxvt*background:   Background_Color
+  Rxvt*cursorColor:  Cursor_Color
 
-		XTerm*color0:	   Ansi_0_Color
-		XTerm*color1:	   Ansi_1_Color
-		XTerm*color2:	   Ansi_2_Color
-		XTerm*color3:	   Ansi_3_Color
-		XTerm*color4:	   Ansi_4_Color
-		XTerm*color5:	   Ansi_5_Color
-		XTerm*color6:	   Ansi_6_Color
-		XTerm*color7:	   Ansi_7_Color
-		XTerm*color8:	   Ansi_8_Color
-		XTerm*color9:	   Ansi_9_Color
-		XTerm*color10:	   Ansi_10_Color
-		XTerm*color11:	   Ansi_11_Color
-		XTerm*color12:	   Ansi_12_Color
-		XTerm*color13:	   Ansi_13_Color
-		XTerm*color14:	   Ansi_14_Color
-		XTerm*color15:	   Ansi_15_Color
-		XTerm*colorBD:	   Bold_Color
-		XTerm*colorIT:	   Italic_Color
-		XTerm*colorUL:	   Underline_Color
-		XTerm*foreground:  Foreground_Color
-		XTerm*background:  Background_Color
-		XTerm*cursorColor: Cursor_Color
+  XTerm*color0:    Ansi_0_Color
+  XTerm*color1:    Ansi_1_Color
+  XTerm*color2:    Ansi_2_Color
+  XTerm*color3:    Ansi_3_Color
+  XTerm*color4:    Ansi_4_Color
+  XTerm*color5:    Ansi_5_Color
+  XTerm*color6:    Ansi_6_Color
+  XTerm*color7:    Ansi_7_Color
+  XTerm*color8:    Ansi_8_Color
+  XTerm*color9:    Ansi_9_Color
+  XTerm*color10:    Ansi_10_Color
+  XTerm*color11:    Ansi_11_Color
+  XTerm*color12:    Ansi_12_Color
+  XTerm*color13:    Ansi_13_Color
+  XTerm*color14:    Ansi_14_Color
+  XTerm*color15:    Ansi_15_Color
+  XTerm*colorBD:    Bold_Color
+  XTerm*colorIT:    Italic_Color
+  XTerm*colorUL:    Underline_Color
+  XTerm*foreground:  Foreground_Color
+  XTerm*background:  Background_Color
+  XTerm*cursorColor: Cursor_Color
 
 - Store the above snippets in a file and pass it in:
 
-		xrdb -merge YOUR_FILE_CONTAINING_ABOVE_SNIPPETS
+  xrdb -merge YOUR_FILE_CONTAINING_ABOVE_SNIPPETS
 
 - Open new XTerm or Rxvt windows to see the changes.
 
@@ -1575,31 +1581,31 @@ An example config file that includes the code snippet for the Symfonic theme wou
 
 ```ini
 [global_config]
-	[keybindings]
-	[profiles]
-	  [[default]]
-		palette = "#1a1a1a:#f4005f:#98e024:#fa8419:#9d65ff:#f4005f:#58d1eb:#c4c5b5:#625e4c:#f4005f:#98e024:#e0d561:#9d65ff:#f4005f:#58d1eb:#f6f6ef"
-		background_image = None
-		use_system_font = False
-		cursor_color = "#f6f7ec"
-		foreground_color = "#c4c5b5"
-		font = Source Code Pro Light 11
-		background_color = "#1a1a1a"
-	  [[Symfonic]]
-		palette = "#000000:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff:#1b1d21:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff"
-		background_color = "#000000"
-		cursor_color = "#dc322f"
-		foreground_color = "#ffffff"
-		background_image = None
-	[layouts]
-	  [[default]]
-		[[[child1]]]
-		  type = Terminal
-		  parent = window0
-		[[[window0]]]
-		  type = Window
-		  parent = ""
-	[plugins]
+ [keybindings]
+ [profiles]
+   [[default]]
+  palette = "#1a1a1a:#f4005f:#98e024:#fa8419:#9d65ff:#f4005f:#58d1eb:#c4c5b5:#625e4c:#f4005f:#98e024:#e0d561:#9d65ff:#f4005f:#58d1eb:#f6f6ef"
+  background_image = None
+  use_system_font = False
+  cursor_color = "#f6f7ec"
+  foreground_color = "#c4c5b5"
+  font = Source Code Pro Light 11
+  background_color = "#1a1a1a"
+   [[Symfonic]]
+  palette = "#000000:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff:#1b1d21:#dc322f:#56db3a:#ff8400:#0084d4:#b729d9:#ccccff:#ffffff"
+  background_color = "#000000"
+  cursor_color = "#dc322f"
+  foreground_color = "#ffffff"
+  background_image = None
+ [layouts]
+   [[default]]
+  [[[child1]]]
+    type = Terminal
+    parent = window0
+  [[[window0]]]
+    type = Window
+    parent = ""
+ [plugins]
 ```
 
 ### Konsole color schemes
@@ -1640,13 +1646,13 @@ Download the appropriate `colorscheme.reg` file. Open the file with a text edito
 Window > Appearance
  Font: Consolas, bold, 14-point
  Font quality:
-  ( ) Antialiased	  ( ) Non-Antialiased
-  (O) ClearType		  ( ) Default
+  ( ) Antialiased   ( ) Non-Antialiased
+  (O) ClearType    ( ) Default
 Window > Colours
  [X] Allow terminal to specify ANSI colours
  [X] Allow terminal to use xterm 256-colour mode
  Indicate bolded text by changing:
-  ( ) The font	 (O) The colour   ( ) Both
+  ( ) The font  (O) The colour   ( ) Both
  [ ] Attempt to use logical palettes
  [ ] Use system colours
 ```
@@ -1718,3 +1724,4 @@ tools/preview.rb schemes/*
 iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes | iTerm Themes | iTerm2 Themes | iTerm 2 Themes
 
 [![Analytics](https://ga-beacon.appspot.com/UA-30661340-2/mbadolato/iTerm2-Color-Schemes?pixel)](https://github.com/igrigorik/ga-beacon)
+=======

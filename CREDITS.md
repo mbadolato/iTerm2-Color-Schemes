@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Credits
 
 The 3024 Day and 3024 Night themes were created by [0x3024](https://github.com/0x3024)
@@ -114,7 +116,7 @@ The Everforest Dark - Hard theme was found [here](https://github.com/icewind/eve
 
 The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
 
-The Farmhouse themes where created by [mattly](https://github.com/mattly) https://github.com/mattly/iterm-colors-farmhouse based on an original Emacs theme.
+The Farmhouse themes where created by [mattly](https://github.com/mattly) <https://github.com/mattly/iterm-colors-farmhouse> based on an original Emacs theme.
 
 The FairyFloss theme was created by [rebecabordini](https://github.com/rebecabordini) based on [sailorhg](https://sailorhg.github.io/fairyfloss/) VS Code theme.
 
@@ -298,6 +300,8 @@ The Red Planet theme was created by [ibrokemypie](https://github.com/ibrokemypie
 
 The Retro theme was created by [Rob Latour](https://github.com/roblatour)
 
+The RetroLegends theme created by [VeteranBV](https://github.com/VeteranBV) - A tribute to classic computer terminals including the DEC VT100 (P1 phosphor), Wyse 60 (P3 phosphor), Commodore 64, IBM 3278, Kaypro, and Osborne 1.
+
 The Rippedcasts theme was created by [mdw123](https://github.com/mdw123/rippedcasts)
 
 The Rosé Pine themes were created by the [Rosé Pine](https://github.com/orgs/rose-pine/people) team
@@ -393,3 +397,4 @@ The scheme Zenburn was inspired by the [Zenburn](http://sunaku.github.io/zenburn
 The Xcode dark, Xcode dark (High Contrast), Xcode light, Xcode light (High Contrast), and Xcode WWDC themes were all created by [lunacookies](https://github.com/lunacookies/vim-colors-xcode).
 
 The Zenbones schemes ( duckbones, kanagawabones, neobones_dark, neobones_light, seoulbones_dark, seoulbones_light, vimbones, zenbones, zenbones_dark, zenbones_light, zenburned, zenwritten_dark, zenwritten_light) were taken from [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)
+=======
