@@ -226,6 +226,10 @@
 
 ![image](cyberpunk_scarlet_protocol.png)
 
+`dark_modern.png`
+
+![image](dark_modern.png)
+
 `dark_pastel.png`
 
 ![image](dark_pastel.png)

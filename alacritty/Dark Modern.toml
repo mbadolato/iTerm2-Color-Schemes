@@ -1,0 +1,33 @@
+# Colors (Dark Modern)
+
+[colors.bright]
+black = '#5d5d5d'
+blue = '#3b8eea'
+cyan = '#29b8db'
+green = '#23d18b'
+magenta = '#d670d6'
+red = '#dc5452'
+white = '#e5e5e5'
+yellow = '#f5f543'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#272727'
+blue = '#0078d4'
+cyan = '#1db4d6'
+green = '#2ea043'
+magenta = '#d01273'
+red = '#f74949'
+white = '#cccccc'
+yellow = '#9e6a03'
+
+[colors.primary]
+background = '#1f1f1f'
+foreground = '#cccccc'
+
+[colors.selection]
+background = '#3a3d41'
+text = '#e0e0e0'

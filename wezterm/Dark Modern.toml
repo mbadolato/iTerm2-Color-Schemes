@@ -1,0 +1,12 @@
+# Dark Modern
+[colors]
+foreground = "#cccccc"
+background = "#1f1f1f"
+cursor_bg = "#ffffff"
+cursor_border = "#ffffff"
+cursor_fg = "#000000"
+selection_bg = "#3a3d41"
+selection_fg = "#e0e0e0"
+
+ansi = ["#272727","#f74949","#2ea043","#9e6a03","#0078d4","#d01273","#1db4d6","#cccccc"]
+brights = ["#5d5d5d","#dc5452","#23d18b","#f5f543","#3b8eea","#d670d6","#29b8db","#e5e5e5"]
