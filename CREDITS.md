@@ -250,9 +250,9 @@ The Niji theme was created by [some dude](https://github.com/indyandie) based on
 
 The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Shriram-Balaji)
 
-Nord theme were added by [Teraskull](https://github.com/Teraskull)
+Nord theme was created by [Arctic Ice Studio](https://www.nordtheme.com/) and added by [Teraskull](https://github.com/Teraskull)
 
-Nord-light were added by [brorbw](https://github.com/brorbw/nord-light-iterm2)
+Nord-light was created by [Arctic Ice Studio](https://www.nordtheme.com/) and added by [brorbw](https://github.com/brorbw/nord-light-iterm2)
 
 The NvimDark and NvimLight themes were added by [slavamak](https://github.com/slavamak)
 
