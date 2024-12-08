@@ -672,6 +672,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/hopscotch_256.png)
 
+### Horizon
+
+![Screenshot](screenshots/horizon.png)
+
 ### Hurtado
 
 ![Screenshot](screenshots/hurtado.png)
