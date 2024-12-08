@@ -1,0 +1,12 @@
+# Horizon
+[colors]
+foreground = "#bbbaba"
+background = "#1c1e26"
+cursor_bg = "#c7c7c7"
+cursor_border = "#c7c7c7"
+cursor_fg = "#ffffff"
+selection_bg = "#292b36"
+selection_fg = "#dfd3d5"
+
+ansi = ["#131519","#e95478","#14d386","#fab795","#30aad7","#b877db","#1fdad9","#c7c7c7"]
+brights = ["#686868","#e06783","#0af29d","#fac39a","#56c2ea","#c38ce1","#3ce8e6","#ffffff"]

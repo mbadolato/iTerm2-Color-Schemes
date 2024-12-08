@@ -174,6 +174,8 @@ The Hivacruz theme was created by [Yann Defretin](https://github.com/kinoute/hiv
 
 The Hopscotch theme was created by [Jan T. Sott](https://github.com/idleberg/Hopscotch)
 
+The Horizon theme was added by [Antonio Camargo](https://github.com/apcamargo). This was based on a prior iTerm2 theme by [Slavko Bojanic](https://github.com/slavkobojanic/horizon-iterm), which was deived from the theme created by [jolaleye](https://github.com/jolaleye/horizon-theme-vscode)
+
 The Hybrid theme was found [here](https://gist.github.com/luan/6362811)
 
 The iceberg theme was created by [cocopon](https://github.com/cocopon/iceberg.vim) and ported to iTerm2 by [pbnj](https://github.com/pbnj)
