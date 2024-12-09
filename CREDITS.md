@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Credits
 
 The 3024 Day and 3024 Night themes were created by [0x3024](https://github.com/0x3024)
@@ -399,4 +397,3 @@ The scheme Zenburn was inspired by the [Zenburn](http://sunaku.github.io/zenburn
 The Xcode dark, Xcode dark (High Contrast), Xcode light, Xcode light (High Contrast), and Xcode WWDC themes were all created by [lunacookies](https://github.com/lunacookies/vim-colors-xcode).
 
 The Zenbones schemes ( duckbones, kanagawabones, neobones_dark, neobones_light, seoulbones_dark, seoulbones_light, vimbones, zenbones, zenbones_dark, zenbones_light, zenburned, zenwritten_dark, zenwritten_light) were taken from [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)
-=======
