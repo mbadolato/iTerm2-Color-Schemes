@@ -84,6 +84,8 @@ The Cyberpunk theme was created by [Murderlon](https://github.com/Murderlon/cybe
 
 The Cyberpunk Scarlet Protocol theme was created by [garrettmroberts](https://github.com/garrettmroberts). It is based on the Scarlet Protocol variation of the [Cyberpunk VsCode theme](https://github.com/prometheux-ar/cyberpunk).
 
+The Dark Modern theme was created by [zasdaym](https://github.com/zasdaym). It is based on the default VS Code theme.
+
 The Deep theme was created by [ADoyle](https://github.com/adoyle-h)
 
 The Dimidium theme was created by [dofuuz](https://github.com/dofuuz/dimidium)
