@@ -650,6 +650,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/HaX0R_BLUE.png)
 
+### heeler
+
+[Screenshot](screenshots/heeler.png)
+
 ### Highway
 
 ![Screenshot](screenshots/highway.png)
