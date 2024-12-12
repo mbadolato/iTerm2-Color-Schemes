@@ -652,7 +652,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### heeler
 
-[Screenshot](screenshots/heeler.png)
+![Screenshot](screenshots/heeler.png)
 
 ### Highway
 
