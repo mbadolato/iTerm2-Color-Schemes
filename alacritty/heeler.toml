@@ -1,0 +1,33 @@
+# Colors (heeler)
+
+[colors.bright]
+black = '#000000'
+blue = '#2c86ff'
+cyan = '#92a5df'
+green = '#c1d041'
+magenta = '#fd9bc1'
+red = '#d3573b'
+white = '#ffffff'
+yellow = '#eecf75'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#6da3ec'
+cyan = '#fe9d6e'
+green = '#c1d041'
+magenta = '#fd9bc1'
+red = '#d3573b'
+white = '#ffffff'
+yellow = '#eecf75'
+
+[colors.primary]
+background = '#211f44'
+foreground = '#fdfdfd'
+
+[colors.selection]
+background = '#2b2c3f'
+text = '#7cfb70'
