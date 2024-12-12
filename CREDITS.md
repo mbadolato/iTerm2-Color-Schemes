@@ -168,6 +168,8 @@ The Harper theme was created by [idleberg](https://github.com/idleberg/Harper-iT
 
 The themes HaX0R_R3D, HaX0R_GR33N and HaX0R_BLUE were created by [Pratik](https://github.com/pratikmullick)
 
+The heeler theme was created by [tacolegs2004](https://github.com/tacolegs2004)
+
 The Hipster Green and Jackie Brown themes were created by [Unkulunkulu](https://github.com/Unkulunkulu)
 
 The Hivacruz theme was created by [Yann Defretin](https://github.com/kinoute/hivacruz-itermcolors)
