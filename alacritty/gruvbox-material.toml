@@ -1,0 +1,33 @@
+# Colors (gruvbox-material)
+
+[colors.bright]
+black = '#000000'
+blue = '#2c86ff'
+cyan = '#92a5df'
+green = '#c1d041'
+magenta = '#fd9bc1'
+red = '#d3573b'
+white = '#ffffff'
+yellow = '#eecf75'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#141617'
+blue = '#6da3ec'
+cyan = '#fe9d6e'
+green = '#c1d041'
+magenta = '#fd9bc1'
+red = '#ea6926'
+white = '#ffffff'
+yellow = '#eecf75'
+
+[colors.primary]
+background = '#1d2021'
+foreground = '#d4be98'
+
+[colors.selection]
+background = '#2b2c3f'
+text = '#7cfb70'
