@@ -622,7 +622,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/gruvbox_light.png)
 
-### gruvbox-material
+### gruvbox_material
 
 ![Screenshot](screenshots/gruvbox_material.png)
 
