@@ -440,11 +440,11 @@
 
 `gruvbox_light.png`
 
-![image](gruvbox_material.png)
+![image](gruvbox_light.png)
 
 `gruvbox_material.png`
 
-![image](gruvbox_light.png)
+![image](gruvbox_material.png)
 
 `Guezwhoz.png`
 
