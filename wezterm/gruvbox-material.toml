@@ -1,0 +1,12 @@
+# gruvbox-material
+[colors]
+foreground = "#d4be98"
+background = "#1d2021"
+cursor_bg = "#ffffff"
+cursor_border = "#ffffff"
+cursor_fg = "#000000"
+selection_bg = "#2b2c3f"
+selection_fg = "#7cfb70"
+
+ansi = ["#141617","#ea6926","#c1d041","#eecf75","#6da3ec","#fd9bc1","#fe9d6e","#ffffff"]
+brights = ["#000000","#d3573b","#c1d041","#eecf75","#2c86ff","#fd9bc1","#92a5df","#ffffff"]
