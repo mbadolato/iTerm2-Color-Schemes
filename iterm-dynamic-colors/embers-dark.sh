@@ -1,5 +1,5 @@
 #!/bin/sh
-# base16-embers.dark
+# embers-dark
 printf "\033]P016130f\033\\"
 printf "\033]P1826d57\033\\"
 printf "\033]P257826d\033\\"

@@ -1,7 +1,7 @@
 #!/bin/bash
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
-name='base16-embers.dark'
+name='embers-dark'
 cursor-color='#a39a90'
 foreground='#a39a90'
 background='rgba(22,19,15,.95)'
