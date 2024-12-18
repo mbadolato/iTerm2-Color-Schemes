@@ -106,6 +106,8 @@ The Dracula theme was created by [zenorocha](https://github.com/zenorocha/dracul
 
 The Elementary OS theme was created by [elementary.io](https://elementary.io/) and added by [987poiuytrewq](https://github.com/987poiuytrewq)
 
+The Embers theme was created by [plyght](https://peril.lol)
+
 The ENCOM theme was created by [Josh Braun](http://wideaperture.net)
 
 The Espresso Libre theme was created by [jurgemaister](https://github.com/jurgemaister/Espresso-Libre)
