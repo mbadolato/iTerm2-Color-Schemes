@@ -482,6 +482,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/elementary.png)
 
+### Embers
+
+![Screenshot](screenshots/embers.png)
+
 ### ENCOM
 
 ![Screenshot](screenshots/encom.png)
