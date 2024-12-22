@@ -10,6 +10,8 @@ The Adventure theme was created by [hongzimao](https://github.com/hongzimao/iTer
 
 The themes AdventureTime, AlienBlood, BirdsOfParadise, Ciapre, CrayonPonyFish, DimmedMonokai, Earthsong, Elemental, FishTank, FrontEndDelight, FunForrest, Grape, Highway, IC_Green_PPL, IC_Orange_PPL, Lavandula, Medallion, MonaLisa, Ollie, Royal, SeaShells, Shaman, SleepyHollow, SoftServer, Sundried, ToyChest, Treehouse, and Urple were created by [zdj](https://github.com/zdj/themes/tree/master/iterm2)
 
+The themes Adwaita and Adwaita Dark are based on the GNOME desktop environment's default Adwaita palette and were adapted for iTerm2 by [cnavajas](https://github.com/cnavajas), with inspiration from vixalien's palette.
+
 The Afterglow theme was created by [yabatadesign](https://github.com/YabataDesign/afterglow-itermcolors)
 
 The Alabaster theme was created by [mkaschenko](https://github.com/mkaschenko) based on [tonsky](https://github.com/tonsky)'s [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster) Sublime 3 theme.
