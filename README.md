@@ -182,6 +182,14 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/adventure_time.png)
 
+### Adwaita Dark
+
+![Screenshot](screenshots/adwaita_dark.png)
+
+### Adwaita
+
+![Screenshot](screenshots/adwaita.png)
+
 ### Afterglow
 
 ![Screenshot](screenshots/afterglow.png)

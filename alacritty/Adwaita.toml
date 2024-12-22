@@ -1,0 +1,33 @@
+# Colors (Adwaita)
+
+[colors.bright]
+black = '#5e5c64'
+blue = '#51a1ff'
+cyan = '#4fd2fd'
+green = '#57e389'
+magenta = '#c061cb'
+red = '#ed333b'
+white = '#f6f5f4'
+yellow = '#f8e45c'
+
+[colors.cursor]
+cursor = '#000000'
+text = '#ffffff'
+
+[colors.normal]
+black = '#241f31'
+blue = '#1e78e4'
+cyan = '#0ab9dc'
+green = '#2ec27e'
+magenta = '#9841bb'
+red = '#c01c28'
+white = '#c0bfbc'
+yellow = '#f5c211'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#000000'
+
+[colors.selection]
+background = '#c0bfbc'
+text = '#000000'
