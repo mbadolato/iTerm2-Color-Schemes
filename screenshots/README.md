@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Screenshots
 
 `3024_day.png`
@@ -26,9 +24,13 @@
 
 ![image](adventure_time.png)
 
-`afterglow.png`
+`adwaita_dark.png`
 
-![image](afterglow.png)
+![image](adwaita_dark.png)
+
+`adwaita.png`
+
+![image](adwaita.png)
 
 `alien_blood.png`
 
