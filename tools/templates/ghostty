@@ -14,8 +14,8 @@ palette = 12=#{{ Ansi_12_Color.hex }}
 palette = 13=#{{ Ansi_13_Color.hex }}
 palette = 14=#{{ Ansi_14_Color.hex }}
 palette = 15=#{{ Ansi_15_Color.hex }}
-background = {{ Background_Color.hex }}
-foreground = {{ Foreground_Color.hex }}
-cursor-color = {{ Cursor_Color.hex }}
-selection-background = {{ Selection_Color.hex }}
-selection-foreground = {{ Selected_Text_Color.hex }}
+background = #{{ Background_Color.hex }}
+foreground = #{{ Foreground_Color.hex }}
+cursor-color = #{{ Cursor_Color.hex }}
+selection-background = #{{ Selection_Color.hex }}
+selection-foreground = #{{ Selected_Text_Color.hex }}
