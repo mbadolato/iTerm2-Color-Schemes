@@ -1,0 +1,33 @@
+# Colors (starlight)
+
+[colors.bright]
+black = '#616161'
+blue = '#78c3f3'
+cyan = '#6adcc5'
+green = '#6bd162'
+magenta = '#f2afee'
+red = '#ec5b58'
+white = '#ffffff'
+yellow = '#e9e85c'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#242424'
+
+[colors.normal]
+black = '#242424'
+blue = '#54aad0'
+cyan = '#5abf9b'
+green = '#66b238'
+magenta = '#e8b2f8'
+red = '#e2425d'
+white = '#e6e6e6'
+yellow = '#dec541'
+
+[colors.primary]
+background = '#242424'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#ffffff'
+text = '#242424'
