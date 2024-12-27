@@ -92,6 +92,8 @@ The Dark Modern theme was created by [zasdaym](https://github.com/zasdaym). It i
 
 The Deep theme was created by [ADoyle](https://github.com/adoyle-h)
 
+The Detuned theme was created by [akx](https://github.com/akx).
+
 The Dimidium theme was created by [dofuuz](https://github.com/dofuuz/dimidium)
 
 The Django theme was created by [Jannis Leidel](https://code.djangoproject.com/wiki/TextMate). The original colors schemes were created by [threespot.com](https://threespot.com) for the Django Software Foundation
