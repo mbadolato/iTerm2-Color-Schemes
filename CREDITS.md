@@ -330,6 +330,8 @@ The Slate theme was created by [deneshshan](https://github.com/deneshshan)
 
 The Smyck theme was found [here](https://github.com/hukl/Smyck-Color-Scheme)
 
+The Snazzy Soft theme was created by [liby](https://github.com/liby) inspired by [Sindre Sorhus](https://github.com/sindresorhus)'s [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy), offering a gentler color palette
+
 The scheme Solarized Darcula was inspired by the color theme created by [@rickhanlonii](https://github.com/rickhanlonii). There are two screenshots below; one with a background and one without. The background image is included in the backgrounds/ directory and the image must be manually set on the profile's Preferences->Window tab. It's hard to see from the screenshot, but it looks great!
 
 The themes Solarized Dark and Solarized Light come from the official [Solarized web site](http://ethanschoonover.com/solarized)

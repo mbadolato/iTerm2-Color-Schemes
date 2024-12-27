@@ -980,6 +980,10 @@
 
 ![image](smyck.png)
 
+`snazzy_soft.png`
+
+![image](snazzy_soft.png)
+
 `snazzy.png`
 
 ![image](snazzy.png)

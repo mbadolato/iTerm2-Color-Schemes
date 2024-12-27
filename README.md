@@ -1218,6 +1218,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/smyck.png)
 
+### Snazzy Soft
+
+![Screenshot](screenshots/snazzy_soft.png)
+
 ### Snazzy
 
 ![Screenshot](screenshots/snazzy.png)
