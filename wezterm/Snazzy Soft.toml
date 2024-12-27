@@ -1,0 +1,12 @@
+# Snazzy Soft
+[colors]
+foreground = "#eff0eb"
+background = "#282a36"
+cursor_bg = "#eaeaea"
+cursor_border = "#eaeaea"
+cursor_fg = "#282a36"
+selection_bg = "#92bcd0"
+selection_fg = "#000000"
+
+ansi = ["#000000","#ff5c57","#5af78e","#f3f99d","#57c7ff","#ff6ac1","#9aedfe","#f1f1f0"]
+brights = ["#686868","#ff5c57","#5af78e","#f3f99d","#57c7ff","#ff6ac1","#9aedfe","#f1f1f0"]
