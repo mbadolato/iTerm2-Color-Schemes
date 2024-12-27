@@ -1,0 +1,33 @@
+# Colors (miasma)
+
+[colors.bright]
+black = '#666666'
+blue = '#78824b'
+cyan = '#c9a554'
+green = '#5f875f'
+magenta = '#bb7744'
+red = '#685742'
+white = '#d7c483'
+yellow = '#b36d43'
+
+[colors.cursor]
+cursor = '#c7c7c7'
+text = '#eeeeee'
+
+[colors.normal]
+black = '#000000'
+blue = '#78824b'
+cyan = '#c9a554'
+green = '#5f875f'
+magenta = '#bb7744'
+red = '#685742'
+white = '#d7c483'
+yellow = '#b36d43'
+
+[colors.primary]
+background = '#222222'
+foreground = '#c2c2b0'
+
+[colors.selection]
+background = '#e5c47b'
+text = '#000000'

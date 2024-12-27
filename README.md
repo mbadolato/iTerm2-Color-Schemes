@@ -910,6 +910,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/mellow.png)
 
+### Miasma
+
+![Screenshot](screenshots/miasma.png)
+
 ### Midnight In Mojave
 
 ![Screenshot](screenshots/midnight_in_mojave.png)

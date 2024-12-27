@@ -1,0 +1,12 @@
+# miasma
+[colors]
+foreground = "#c2c2b0"
+background = "#222222"
+cursor_bg = "#c7c7c7"
+cursor_border = "#c7c7c7"
+cursor_fg = "#eeeeee"
+selection_bg = "#e5c47b"
+selection_fg = "#000000"
+
+ansi = ["#000000","#685742","#5f875f","#b36d43","#78824b","#bb7744","#c9a554","#d7c483"]
+brights = ["#666666","#685742","#5f875f","#b36d43","#78824b","#bb7744","#c9a554","#d7c483"]
