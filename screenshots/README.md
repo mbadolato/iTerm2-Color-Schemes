@@ -68,6 +68,10 @@
 
 ![image](atom_one_light.png)
 
+`aura.png`
+
+![image](aura.png)
+
 `aurora.png`
 
 ![image](aurora.png)

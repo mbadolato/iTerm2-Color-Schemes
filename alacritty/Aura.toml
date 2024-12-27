@@ -1,0 +1,33 @@
+# Colors (Aura)
+
+[colors.bright]
+black = '#4d4d4d'
+blue = '#a277ff'
+cyan = '#61ffca'
+green = '#a277ff'
+magenta = '#a277ff'
+red = '#ffca85'
+white = '#edecee'
+yellow = '#ffca85'
+
+[colors.cursor]
+cursor = '#a277ff'
+text = '#edecee'
+
+[colors.normal]
+black = '#110f18'
+blue = '#a277ff'
+cyan = '#61ffca'
+green = '#61ffca'
+magenta = '#a277ff'
+red = '#ff6767'
+white = '#edecee'
+yellow = '#ffca85'
+
+[colors.primary]
+background = '#15141b'
+foreground = '#edecee'
+
+[colors.selection]
+background = '#a277ff'
+text = '#edecee'

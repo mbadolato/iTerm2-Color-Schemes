@@ -34,6 +34,8 @@ The Atom, Brogrammer, Glacier and Darkside themes were created by [bahlo](https:
 
 The AtomOneLight theme was created by [iamstarkov](https://github.com/iamstarkov)
 
+The Aura theme was created by [daltonmenezes](https://github.com/daltonmenezes)
+
 The Aurora theme was created by [fcsmJS](https://github.com/fcsmJS/iTerm2-Color-Schemes)
 
 The Ayu and Ayu Light themes were created by [alebcay](https://github.com/alebcay)

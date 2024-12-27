@@ -1,0 +1,12 @@
+# Aura
+[colors]
+foreground = "#edecee"
+background = "#15141b"
+cursor_bg = "#a277ff"
+cursor_border = "#a277ff"
+cursor_fg = "#edecee"
+selection_bg = "#a277ff"
+selection_fg = "#edecee"
+
+ansi = ["#110f18","#ff6767","#61ffca","#ffca85","#a277ff","#a277ff","#61ffca","#edecee"]
+brights = ["#4d4d4d","#ffca85","#a277ff","#ffca85","#a277ff","#a277ff","#61ffca","#edecee"]
