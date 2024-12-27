@@ -362,6 +362,8 @@ The theme Sugarplum was created by [lemonlime0x3C33](https://github.com/lemonlim
 
 The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
 
+The [starlight](https://github.com/CosmicToast/starlight) theme was created by [toast](https://github.com/CosmicToast).
+
 The synthwave theme was created by [brettstil](https://github.com/brettstil/)
 
 The Synthwave Alpha theme was created by [vikpe](https://github.com/vikpe) based on the [Synthwave Alpha](https://github.com/vikpe/synthwave-alpha) color palette
