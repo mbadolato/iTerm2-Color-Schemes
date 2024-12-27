@@ -250,6 +250,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/ayu_mirage.png)
 
+### Aura
+
+![Screenshot](screenshots/aura.png)
+
 ### Aurora
 
 ![Screenshot](screenshots/aurora.png)
