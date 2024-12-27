@@ -1378,9 +1378,17 @@ more information.
 
 ![Screenshot](screenshots/tokyonight-storm.png)
 
+### TokyoNight Moon
+
+![Screenshot](screenshots/tokyonight-moon.png)
+
 ### TokyoNight Day
 
 ![Screenshot](screenshots/tokyonight-day.png)
+
+### TokyoNight Night
+
+![Screenshot](screenshots/tokyonight-night.png)
 
 ### Tomorrow
 
