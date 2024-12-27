@@ -1,5 +1,7 @@
 # Credits
 
+The 0x96f theme is created by [Filip](https://github.com/filipjanevski)
+
 The 3024 Day and 3024 Night themes were created by [0x3024](https://github.com/0x3024)
 
 The Aardvark Blue theme was created by [joshka](https://github.com/joshka)

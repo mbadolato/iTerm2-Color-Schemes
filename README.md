@@ -158,6 +158,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ## Screenshots
 
+### 0x96f
+
+![Screenshot](screenshots/0x96f.png)
+
 ### 3024 Day
 
 ![Screenshot](screenshots/3024_day.png)
