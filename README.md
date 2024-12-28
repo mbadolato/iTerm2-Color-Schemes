@@ -490,6 +490,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/earthsong.png)
 
+### Electron Highlighter
+
+![Screenshot](screenshots/electron-highlighter.png)
+
 ### Elemental
 
 ![Screenshot](screenshots/elemental.png)
