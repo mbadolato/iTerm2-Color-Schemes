@@ -1,0 +1,33 @@
+# Colors (Monokai Pro Ristretto)
+
+[colors.bright]
+black = '#72696a'
+blue = '#f38d70'
+cyan = '#85dacc'
+green = '#adda78'
+magenta = '#a8a9eb'
+red = '#fd6883'
+white = '#fff1f3'
+yellow = '#f9cc6c'
+
+[colors.cursor]
+cursor = '#c3b7b8'
+text = '#c3b7b8'
+
+[colors.normal]
+black = '#2c2525'
+blue = '#f38d70'
+cyan = '#85dacc'
+green = '#adda78'
+magenta = '#a8a9eb'
+red = '#fd6883'
+white = '#fff1f3'
+yellow = '#f9cc6c'
+
+[colors.primary]
+background = '#2c2525'
+foreground = '#fff1f3'
+
+[colors.selection]
+background = '#5b5353'
+text = '#fff1f3'

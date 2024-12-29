@@ -1,0 +1,33 @@
+# Colors (Monokai Pro Light)
+
+[colors.bright]
+black = '#a59fa0'
+blue = '#e16032'
+cyan = '#1c8ca8'
+green = '#269d69'
+magenta = '#7058be'
+red = '#e14775'
+white = '#29242a'
+yellow = '#cc7a0a'
+
+[colors.cursor]
+cursor = '#706b6e'
+text = '#706b6e'
+
+[colors.normal]
+black = '#faf4f2'
+blue = '#e16032'
+cyan = '#1c8ca8'
+green = '#269d69'
+magenta = '#7058be'
+red = '#e14775'
+white = '#29242a'
+yellow = '#cc7a0a'
+
+[colors.primary]
+background = '#faf4f2'
+foreground = '#29242a'
+
+[colors.selection]
+background = '#bfb9ba'
+text = '#29242a'

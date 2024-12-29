@@ -938,6 +938,38 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/mona_lisa.png)
 
+### Monokai Classic
+
+![Screenshot](screenshots/monokai-classic.png)
+
+### Monokai Pro
+
+![Screenshot](screenshots/monokai-pro.png)
+
+### Monokai Pro Octagon
+
+![Screenshot](screenshots/monokai-pro-octagon.png)
+
+### Monokai Pro Machine
+
+![Screenshot](screenshots/monokai-pro-machine.png)
+
+### Monokai Pro Ristretto
+
+![Screenshot](screenshots/monokai-pro-ristretto.png)
+
+### Monokai Pro Spectrum
+
+![Screenshot](screenshots/monokai-pro-spectrum.png)
+
+### Monokai Pro Light
+
+![Screenshot](screenshots/monokai-pro-light.png)
+
+### Monokai Pro Light Sun
+
+![Screenshot](screenshots/monokai-pro-light-sun.png)
+
 ### Monokai Remastered
 
 ![Screenshot](screenshots/monokai_remastered.png)

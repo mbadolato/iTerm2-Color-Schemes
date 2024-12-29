@@ -1,0 +1,33 @@
+# Colors (Monokai Pro)
+
+[colors.bright]
+black = '#727072'
+blue = '#fc9867'
+cyan = '#78dce8'
+green = '#a9dc76'
+magenta = '#ab9df2'
+red = '#ff6188'
+white = '#fcfcfa'
+yellow = '#ffd866'
+
+[colors.cursor]
+cursor = '#c1c0c0'
+text = '#c1c0c0'
+
+[colors.normal]
+black = '#2d2a2e'
+blue = '#fc9867'
+cyan = '#78dce8'
+green = '#a9dc76'
+magenta = '#ab9df2'
+red = '#ff6188'
+white = '#fcfcfa'
+yellow = '#ffd866'
+
+[colors.primary]
+background = '#2d2a2e'
+foreground = '#fcfcfa'
+
+[colors.selection]
+background = '#5b595c'
+text = '#fcfcfa'

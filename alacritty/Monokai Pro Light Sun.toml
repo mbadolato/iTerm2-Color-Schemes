@@ -1,0 +1,33 @@
+# Colors (Monokai Pro Light Sun)
+
+[colors.bright]
+black = '#a59c9c'
+blue = '#d4572b'
+cyan = '#2473b6'
+green = '#218871'
+magenta = '#6851a2'
+red = '#ce4770'
+white = '#2c232e'
+yellow = '#b16803'
+
+[colors.cursor]
+cursor = '#72696d'
+text = '#72696d'
+
+[colors.normal]
+black = '#f8efe7'
+blue = '#d4572b'
+cyan = '#2473b6'
+green = '#218871'
+magenta = '#6851a2'
+red = '#ce4770'
+white = '#2c232e'
+yellow = '#b16803'
+
+[colors.primary]
+background = '#f8efe7'
+foreground = '#2c232e'
+
+[colors.selection]
+background = '#beb5b3'
+text = '#2c232e'

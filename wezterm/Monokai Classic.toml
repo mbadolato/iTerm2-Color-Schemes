@@ -1,0 +1,12 @@
+# Monokai Classic
+[colors]
+foreground = "#fdfff1"
+background = "#272822"
+cursor_bg = "#c0c1b5"
+cursor_border = "#c0c1b5"
+cursor_fg = "#c0c1b5"
+selection_bg = "#57584f"
+selection_fg = "#fdfff1"
+
+ansi = ["#272822","#f92672","#a6e22e","#e6db74","#fd971f","#ae81ff","#66d9ef","#fdfff1"]
+brights = ["#6e7066","#f92672","#a6e22e","#e6db74","#fd971f","#ae81ff","#66d9ef","#fdfff1"]
