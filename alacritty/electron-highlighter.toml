@@ -1,0 +1,33 @@
+# Colors (electron-highlighter)
+
+[colors.bright]
+black = '#506686'
+blue = '#82aaff'
+cyan = '#57f9ff'
+green = '#58ffc7'
+magenta = '#d2a6ef'
+red = '#f7768e'
+white = '#c5cee0'
+yellow = '#ffd9af'
+
+[colors.cursor]
+cursor = '#a8b5d1'
+text = '#1a1b26'
+
+[colors.normal]
+black = '#15161e'
+blue = '#82aaff'
+cyan = '#57f9ff'
+green = '#58ffc7'
+magenta = '#d2a6ef'
+red = '#f7768e'
+white = '#7c8eac'
+yellow = '#ffd9af'
+
+[colors.primary]
+background = '#24283b'
+foreground = '#a8b5d1'
+
+[colors.selection]
+background = '#283457'
+text = '#a8b5d1'

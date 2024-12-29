@@ -110,6 +110,8 @@ The DuoTone Dark theme was created by [chibicode](http://chibicode.com) based on
 
 The Dracula theme was created by [zenorocha](https://github.com/zenorocha/dracula-theme)
 
+The Electron Highlighter theme was created by [mikemcbride](https://github.com/mikemcbride)
+
 The Elementary OS theme was created by [elementary.io](https://elementary.io/) and added by [987poiuytrewq](https://github.com/987poiuytrewq)
 
 The Embers theme was created by [plyght](https://peril.lol)

@@ -316,6 +316,10 @@
 
 ![image](earthsong.png)
 
+`electron-highlighter.png`
+
+![image](electron-highlighter.png)
+
 `elemental.png`
 
 ![image](elemental.png)

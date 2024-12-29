@@ -1,0 +1,12 @@
+# electron-highlighter
+[colors]
+foreground = "#a8b5d1"
+background = "#24283b"
+cursor_bg = "#a8b5d1"
+cursor_border = "#a8b5d1"
+cursor_fg = "#1a1b26"
+selection_bg = "#283457"
+selection_fg = "#a8b5d1"
+
+ansi = ["#15161e","#f7768e","#58ffc7","#ffd9af","#82aaff","#d2a6ef","#57f9ff","#7c8eac"]
+brights = ["#506686","#f7768e","#58ffc7","#ffd9af","#82aaff","#d2a6ef","#57f9ff","#c5cee0"]
