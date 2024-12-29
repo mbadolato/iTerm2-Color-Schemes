@@ -166,6 +166,8 @@ The Gruvbox Dark Hard theme was created by [morhetz](https://github.com/morhetz)
 
 The Gruvbox Light theme was created by [morhetz](https://github.com/morhetz) and added by [reynn](https://github.com/reynn)
 
+The Gruvbox Light Hard theme was created by [morhetz](https://github.com/morhetz) and added by [zasdaym](https://github.com/zasdaym)
+
 The gruvbox_material theme was created by [sainnhe](https://github.com/sainnhe) and added by [tacolegs2004](https://github.com/tacolegs2004)
 
 The Grey-green theme was created by [lee](https://github.com/yg66)
