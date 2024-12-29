@@ -1127,9 +1127,17 @@
 
 ![image](tokyonight-storm.png)
 
+`tokyonight-moon.png`
+
+![image](tokyonight-moon.png)
+
 `tokyonight-day.png`
 
 ![image](tokyonight-day.png)
+
+`tokyonight-night.png`
+
+![image](tokyonight-night.png)
 
 `tomorrow.png`
 
