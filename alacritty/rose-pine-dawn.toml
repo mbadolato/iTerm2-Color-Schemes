@@ -1,7 +1,7 @@
 # Colors (rose-pine-dawn)
 
 [colors.bright]
-black = '#9893a5'
+black = '#6e6a86'
 blue = '#286983'
 cyan = '#d7827e'
 green = '#56949f'
@@ -11,11 +11,11 @@ white = '#575279'
 yellow = '#ea9d34'
 
 [colors.cursor]
-cursor = '#575279'
-text = '#faf4ed'
+cursor = '#9893a5'
+text = '#575279'
 
 [colors.normal]
-black = '#f2e9e1'
+black = '#f2e9de'
 blue = '#286983'
 cyan = '#d7827e'
 green = '#56949f'
@@ -29,5 +29,5 @@ background = '#faf4ed'
 foreground = '#575279'
 
 [colors.selection]
-background = '#faf4ed'
+background = '#eee9e6'
 text = '#575279'
