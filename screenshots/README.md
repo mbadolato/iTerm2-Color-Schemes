@@ -724,6 +724,38 @@
 
 ![image](mona_lisa.png)
 
+`monokai-classic.png`
+
+![image](monokai-classic.png)
+
+`monokai-pro.png`
+
+![image](monokai-pro.png)
+
+`monokai-pro-octagon.png`
+
+![image](monokai-pro-octagon.png)
+
+`monokai-pro-machine.png`
+
+![image](monokai-pro-machine.png)
+
+`monokai-pro-ristretto.png`
+
+![image](monokai-pro-ristretto.png)
+
+`monokai-pro-spectrum.png`
+
+![image](monokai-pro-spectrum.png)
+
+`monokai-pro-light.png`
+
+![image](monokai-pro-light.png)
+
+`monokai-pro-light-sun.png`
+
+![image](monokai-pro-light-sun.png)
+
 `monokai_remastered.png`
 
 ![image](monokai_remastered.png)
