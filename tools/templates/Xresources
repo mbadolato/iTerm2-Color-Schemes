@@ -1,6 +1,5 @@
 !
-! Generated with :
-! XRDB2Xreources.py
+! {{ scheme_name }}
 !
 *.foreground:  #{{ Foreground_Color.hex }}
 *.background:  #{{ Background_Color.hex }}
