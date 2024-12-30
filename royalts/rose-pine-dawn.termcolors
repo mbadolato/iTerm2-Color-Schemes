@@ -24,17 +24,17 @@
     },
     {
       "name": "CursorForeground",
-      "color": "#faf4ed",
+      "color": "#575279",
       "terminalMapping": "cursorForeground"
     },
     {
       "name": "CursorBackground",
-      "color": "#575279",
+      "color": "#9893a5",
       "terminalMapping": "cursorBackground"
     },
     {
       "name": "Black",
-      "color": "#f2e9e1",
+      "color": "#f2e9de",
       "terminalMapping": "ansiBlack"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "name": "BrightBlack",
-      "color": "#9893a5",
+      "color": "#6e6a86",
       "terminalMapping": "ansiBrightBlack"
     },
     {
