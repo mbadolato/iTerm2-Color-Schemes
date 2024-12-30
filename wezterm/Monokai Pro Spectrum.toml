@@ -1,0 +1,12 @@
+# Monokai Pro Spectrum
+[colors]
+foreground = "#f7f1ff"
+background = "#222222"
+cursor_bg = "#bab6c0"
+cursor_border = "#bab6c0"
+cursor_fg = "#bab6c0"
+selection_bg = "#525053"
+selection_fg = "#f7f1ff"
+
+ansi = ["#222222","#fc618d","#7bd88f","#fce566","#fd9353","#948ae3","#5ad4e6","#f7f1ff"]
+brights = ["#69676c","#fc618d","#7bd88f","#fce566","#fd9353","#948ae3","#5ad4e6","#f7f1ff"]

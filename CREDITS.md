@@ -250,6 +250,8 @@ The Misterioso theme was created by [flooose](https://github.com/flooose/misteri
 
 The theme Molokai was based on the [vim colorscheme](https://github.com/tomasr/molokai) of the same name.
 
+The theme Monokai (Classic, Pro, Machine, Octagon, Ristretto, Spectrum, Light & Light Sun) was created by [Monokai](https://monokai.com/) & where taken from the official [Monokai Pro website](https://monokai.pro/iterm).
+
 The theme Monokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
 
 The theme Monokai Vivid was created by [vitalymak](https://github.com/vitalymak/iTerm2-Color-Schemes).

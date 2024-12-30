@@ -1,0 +1,33 @@
+# Colors (Monokai Classic)
+
+[colors.bright]
+black = '#6e7066'
+blue = '#fd971f'
+cyan = '#66d9ef'
+green = '#a6e22e'
+magenta = '#ae81ff'
+red = '#f92672'
+white = '#fdfff1'
+yellow = '#e6db74'
+
+[colors.cursor]
+cursor = '#c0c1b5'
+text = '#c0c1b5'
+
+[colors.normal]
+black = '#272822'
+blue = '#fd971f'
+cyan = '#66d9ef'
+green = '#a6e22e'
+magenta = '#ae81ff'
+red = '#f92672'
+white = '#fdfff1'
+yellow = '#e6db74'
+
+[colors.primary]
+background = '#272822'
+foreground = '#fdfff1'
+
+[colors.selection]
+background = '#57584f'
+text = '#fdfff1'

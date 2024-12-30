@@ -1,0 +1,12 @@
+# Monokai Pro
+[colors]
+foreground = "#fcfcfa"
+background = "#2d2a2e"
+cursor_bg = "#c1c0c0"
+cursor_border = "#c1c0c0"
+cursor_fg = "#c1c0c0"
+selection_bg = "#5b595c"
+selection_fg = "#fcfcfa"
+
+ansi = ["#2d2a2e","#ff6188","#a9dc76","#ffd866","#fc9867","#ab9df2","#78dce8","#fcfcfa"]
+brights = ["#727072","#ff6188","#a9dc76","#ffd866","#fc9867","#ab9df2","#78dce8","#fcfcfa"]

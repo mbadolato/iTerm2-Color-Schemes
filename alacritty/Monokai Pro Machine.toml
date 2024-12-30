@@ -1,0 +1,33 @@
+# Colors (Monokai Pro Machine)
+
+[colors.bright]
+black = '#6b7678'
+blue = '#ffb270'
+cyan = '#7cd5f1'
+green = '#a2e57b'
+magenta = '#baa0f8'
+red = '#ff6d7e'
+white = '#f2fffc'
+yellow = '#ffed72'
+
+[colors.cursor]
+cursor = '#b8c4c3'
+text = '#b8c4c3'
+
+[colors.normal]
+black = '#273136'
+blue = '#ffb270'
+cyan = '#7cd5f1'
+green = '#a2e57b'
+magenta = '#baa0f8'
+red = '#ff6d7e'
+white = '#f2fffc'
+yellow = '#ffed72'
+
+[colors.primary]
+background = '#273136'
+foreground = '#f2fffc'
+
+[colors.selection]
+background = '#545f62'
+text = '#f2fffc'
