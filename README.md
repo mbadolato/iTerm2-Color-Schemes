@@ -646,6 +646,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/gruvbox_light.png)
 
+### Gruvbox Light Hard
+
+![Screenshot](screenshots/gruvbox_light_hard.png)
+
 ### gruvbox_material
 
 ![Screenshot](screenshots/gruvbox_material.png)

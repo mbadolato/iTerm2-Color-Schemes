@@ -456,6 +456,10 @@
 
 ![image](gruvbox_light.png)
 
+`gruvbox_light_hard.png`
+
+![image](gruvbox_light_hard.png)
+
 `gruvbox_material.png`
 
 ![image](gruvbox_material.png)
