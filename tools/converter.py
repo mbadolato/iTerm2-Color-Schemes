@@ -1,3 +1,4 @@
+import json
 import logging
 import os
 import plistlib
@@ -162,3 +163,10 @@ class Converter(object):
                     "process", template="Generating " + template, start=False
                 )
                 self.generate_from_template(task_id_tmp, colors, template)
+
+            self.generate_jsonl(colors)
+
+    def generate_jsonl(self, colors):
+        with open(os.path.join(self.out_dir, "schemes.jsonl"), "w", encoding="utf-8") as outf:
+            for scheme, data in sorted(colors.items()):
+                outf.write(json.dumps({**data, "scheme_name": scheme}, sort_keys=True, ensure_ascii=False) + "\n")

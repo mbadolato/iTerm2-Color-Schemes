@@ -12,7 +12,7 @@
 
 ![image](3024_night.png)
 
-`Aardvark Blue.png`
+`aardvark_blue.png`
 
 ![image](aardvark_blue.png)
 
@@ -28,13 +28,21 @@
 
 ![image](adventure_time.png)
 
+`adwaita.png`
+
+![image](adwaita.png)
+
 `adwaita_dark.png`
 
 ![image](adwaita_dark.png)
 
-`adwaita.png`
+`afterglow.png`
 
-![image](adwaita.png)
+![image](afterglow.png)
+
+`alabaster.png`
+
+![image](alabaster.png)
 
 `alien_blood.png`
 
@@ -51,6 +59,10 @@
 `apple-system-colors.png`
 
 ![image](apple-system-colors.png)
+
+`arcoiris.png`
+
+![image](arcoiris.png)
 
 `argonaut.png`
 
@@ -164,19 +176,19 @@
 
 ![image](calamity.png)
 
-`catppuccin-frappe`
+`catppuccin-frappe.png`
 
 ![image](catppuccin-frappe.png)
 
-`catppuccin-latte`
+`catppuccin-latte.png`
 
 ![image](catppuccin-latte.png)
 
-`catppuccin-macchiato`
+`catppuccin-macchiato.png`
 
 ![image](catppuccin-macchiato.png)
 
-`catppuccin-mocha`
+`catppuccin-mocha.png`
 
 ![image](catppuccin-mocha.png)
 
@@ -224,6 +236,10 @@
 
 ![image](crayon_pony_fish.png)
 
+`CutiePro.png`
+
+![image](CutiePro.png)
+
 `cyberdyne.png`
 
 ![image](cyberdyne.png)
@@ -232,7 +248,7 @@
 
 ![image](cyberpunk.png)
 
-`cyberpunk_scarlet_protocol`
+`cyberpunk_scarlet_protocol.png`
 
 ![image](cyberpunk_scarlet_protocol.png)
 
@@ -247,6 +263,10 @@
 `dark_plus.png`
 
 ![image](dark_plus.png)
+
+`darkermatrix.png`
+
+![image](darkermatrix.png)
 
 `darkmatrix.png`
 
@@ -270,7 +290,7 @@
 
 `detuned.png`
 
-![Screenshot](detuned.png)
+![image](detuned.png)
 
 `dimidium.png`
 
@@ -312,6 +332,10 @@
 
 ![image](dracula.png)
 
+`duckbones.png`
+
+![image](duckbones.png)
+
 `duotone_dark.png`
 
 ![image](duotone_dark.png)
@@ -332,6 +356,10 @@
 
 ![image](elementary.png)
 
+`embers.png`
+
+![image](embers.png)
+
 `encom.png`
 
 ![image](encom.png)
@@ -348,13 +376,9 @@
 
 ![image](everblush.png)
 
-`farmhouse-dark.png`
+`everforest_dark_hard.png`
 
-![image](farmhouse-dark.png)
-
-`farmhouse-light.png`
-
-![image](farmhouse-light.png)
+![image](everforest_dark_hard.png)
 
 `fahrenheit.png`
 
@@ -363,6 +387,14 @@
 `fairyfloss.png`
 
 ![image](fairyfloss.png)
+
+`farmhouse-dark.png`
+
+![image](farmhouse-dark.png)
+
+`farmhouse-light.png`
+
+![image](farmhouse-light.png)
 
 `fideloper.png`
 
@@ -448,6 +480,10 @@
 
 ![image](grass.png)
 
+`Grey-green.png`
+
+![image](Grey-green.png)
+
 `gruber-darker.png`
 
 ![image](gruber-darker.png)
@@ -455,6 +491,10 @@
 `gruvbox_dark.png`
 
 ![image](gruvbox_dark.png)
+
+`gruvbox_dark_hard.png`
+
+![image](gruvbox_dark_hard.png)
 
 `gruvbox_light.png`
 
@@ -494,11 +534,11 @@
 
 `HaX0R_R3D.png`
 
-[image](heeler.png)
+![image](HaX0R_R3D.png)
 
 `heeler.png`
 
-![image](HaX0R_R3D.png)
+![image](heeler.png)
 
 `highway.png`
 
@@ -524,6 +564,10 @@
 
 ![image](hopscotch_256.png)
 
+`horizon.png`
+
+![image](horizon.png)
+
 `hurtado.png`
 
 ![image](hurtado.png)
@@ -539,6 +583,10 @@
 `ic_orange_ppl.png`
 
 ![image](ic_orange_ppl.png)
+
+`iceberg-light.png`
+
+![image](iceberg-light.png)
 
 `iceberg.png`
 
@@ -556,13 +604,13 @@
 
 ![image](ir_black.png)
 
-`iterm2-default.png`
-
-![image](iterm2-default.png)
-
 `iterm2-dark-background.png`
 
 ![image](iterm2-dark-background.png)
+
+`iterm2-default.png`
+
+![image](iterm2-default.png)
 
 `iterm2-light-background.png`
 
@@ -620,6 +668,10 @@
 
 ![image](kanagawa-wave.png)
 
+`kanagawabones.png`
+
+![image](kanagawabones.png)
+
 `kibble.png`
 
 ![image](kibble.png)
@@ -631,6 +683,10 @@
 `konsolas.png`
 
 ![image](konsolas.png)
+
+`kurokula.png`
+
+![image](kurokula.png)
 
 `lab_fox.png`
 
@@ -684,6 +740,10 @@
 
 ![image](material_darker.png)
 
+`material_design_colors.png`
+
+![image](material_design_colors.png)
+
 `material_ocean.png`
 
 ![image](material_ocean.png)
@@ -736,17 +796,21 @@
 
 ![image](monokai-classic.png)
 
-`monokai-pro.png`
+`monokai-pro-light-sun.png`
 
-![image](monokai-pro.png)
+![image](monokai-pro-light-sun.png)
 
-`monokai-pro-octagon.png`
+`monokai-pro-light.png`
 
-![image](monokai-pro-octagon.png)
+![image](monokai-pro-light.png)
 
 `monokai-pro-machine.png`
 
 ![image](monokai-pro-machine.png)
+
+`monokai-pro-octagon.png`
+
+![image](monokai-pro-octagon.png)
 
 `monokai-pro-ristretto.png`
 
@@ -756,13 +820,9 @@
 
 ![image](monokai-pro-spectrum.png)
 
-`monokai-pro-light.png`
+`monokai-pro.png`
 
-![image](monokai-pro-light.png)
-
-`monokai-pro-light-sun.png`
-
-![image](monokai-pro-light-sun.png)
+![image](monokai-pro.png)
 
 `monokai_remastered.png`
 
@@ -780,6 +840,18 @@
 
 ![image](n0tch2k.png)
 
+`neobones_dark.png`
+
+![image](neobones_dark.png)
+
+`neobones_light.png`
+
+![image](neobones_light.png)
+
+`neon.png`
+
+![image](neon.png)
+
 `neopolitan.png`
 
 ![image](neopolitan.png)
@@ -788,13 +860,13 @@
 
 ![image](neutron.png)
 
-`nightfox.png`
-
-![image](nightfox.png)
-
 `night_owlish_light.png`
 
 ![image](night_owlish_light.png)
+
+`nightfox.png`
+
+![image](nightfox.png)
 
 `nightlion_v1.png`
 
@@ -816,7 +888,7 @@
 
 ![image](nord.png)
 
-`nord-light.png`
+`nord_light.png`
 
 ![image](nord_light.png)
 
@@ -867,6 +939,10 @@
 `overnight_slumber.png`
 
 ![image](overnight_slumber.png)
+
+`oxocarbon.png`
+
+![image](oxocarbon.png)
 
 `PaleNightHC.png`
 
@@ -972,10 +1048,6 @@
 
 ![image](rippedcasts.png)
 
-`rose-pine.png`
-
-![image](rose-pine.png)
-
 `rose-pine-dawn.png`
 
 ![image](rose-pine-dawn.png)
@@ -983,6 +1055,10 @@
 `rose-pine-moon.png`
 
 ![image](rose-pine-moon.png)
+
+`rose-pine.png`
+
+![image](rose-pine.png)
 
 `rouge_2.png`
 
@@ -1012,6 +1088,14 @@
 
 ![image](seafoam_pastel.png)
 
+`seoulbones_dark.png`
+
+![image](seoulbones_dark.png)
+
+`seoulbones_light.png`
+
+![image](seoulbones_light.png)
+
 `seti.png`
 
 ![image](seti.png)
@@ -1036,13 +1120,13 @@
 
 ![image](smyck.png)
 
-`snazzy_soft.png`
-
-![image](snazzy_soft.png)
-
 `snazzy.png`
 
 ![image](snazzy.png)
+
+`snazzy_soft.png`
+
+![image](snazzy_soft.png)
 
 `soft_server.png`
 
@@ -1072,6 +1156,10 @@
 
 ![image](spacedust.png)
 
+`spacegray_bright.png`
+
+![image](spacegray_bright.png)
+
 `spacegray_eighties.png`
 
 ![image](spacegray_eighties.png)
@@ -1093,6 +1181,7 @@
 ![image](square.png)
 
 `starlight.png`
+
 ![image](starlight.png)
 
 `sublette.png`
@@ -1115,10 +1204,6 @@
 
 ![image](symfonic.png)
 
-`synthwave_alpha.png`
-
-![image](synthwave_alpha.png)
-
 `synthwave-everything.png`
 
 ![image](synthwave-everything.png)
@@ -1126,6 +1211,10 @@
 `synthwave.png`
 
 ![image](synthwave.png)
+
+`synthwave_alpha.png`
+
+![image](synthwave_alpha.png)
 
 `tango_adapted.png`
 
@@ -1163,25 +1252,25 @@
 
 ![image](tinacious_design_light.png)
 
-`tokyonight.png`
+`tokyonight-day.png`
 
-![image](tokyonight.png)
-
-`tokyonight-storm.png`
-
-![image](tokyonight-storm.png)
+![image](tokyonight-day.png)
 
 `tokyonight-moon.png`
 
 ![image](tokyonight-moon.png)
 
-`tokyonight-day.png`
-
-![image](tokyonight-day.png)
-
 `tokyonight-night.png`
 
 ![image](tokyonight-night.png)
+
+`tokyonight-storm.png`
+
+![image](tokyonight-storm.png)
+
+`tokyonight.png`
+
+![image](tokyonight.png)
 
 `tomorrow.png`
 
@@ -1255,6 +1344,10 @@
 
 ![image](vibrant_ink.png)
 
+`vimbones.png`
+
+![image](vimbones.png)
+
 `violet_dark.png`
 
 ![image](violet_dark.png)
@@ -1311,6 +1404,30 @@
 
 ![image](xcodewwdc.png)
 
+`zenbones.png`
+
+![image](zenbones.png)
+
+`zenbones_dark.png`
+
+![image](zenbones_dark.png)
+
+`zenbones_light.png`
+
+![image](zenbones_light.png)
+
 `zenburn.png`
 
-# ![image](zenburn.png)
+![image](zenburn.png)
+
+`zenburned.png`
+
+![image](zenburned.png)
+
+`zenwritten_dark.png`
+
+![image](zenwritten_dark.png)
+
+`zenwritten_light.png`
+
+![image](zenwritten_light.png)
