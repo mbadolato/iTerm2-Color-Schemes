@@ -1,7 +1,7 @@
 !
 ! Dracula
 !
-*.foreground:  #f8f8f2
+*.foreground:  #e6e6e6
 *.background:  #1e1f29
 *.cursorColor: #bbbbbb
 !
@@ -38,6 +38,6 @@
 *.color15:     #ffffff
 !
 ! Bold, Italic, Underline
-*.colorBD:     #ffffff
+*.colorBD:     #e6e6e6
 !*.colorIT:
 !*.colorUL:

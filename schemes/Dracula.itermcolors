@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Dracula Theme v1.2.5
+#
+# https://github.com/dracula/iterm
+#
+# Copyright 2013-present, All rights reserved
+#
+# Code licensed under the MIT license
+#
+# @author Zeno Rocha <hi@zenorocha.com>
+-->
+
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -158,11 +170,11 @@
 	<key>Bold Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>1</real>
+		<real>0.90237069129943848</real>
 		<key>Green Component</key>
-		<real>1</real>
+		<real>0.90237069129943848</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.90237069129943848</real>
 	</dict>
 	<key>Cursor Color</key>
 	<dict>
@@ -185,11 +197,11 @@
 	<key>Foreground Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.94901961088180542</real>
+		<real>0.90032327175140381</real>
 		<key>Green Component</key>
-		<real>0.97254902124404907</real>
+		<real>0.90032327175140381</real>
 		<key>Red Component</key>
-		<real>0.97254902124404907</real>
+		<real>0.90032327175140381</real>
 	</dict>
 	<key>Selected Text Color</key>
 	<dict>
