@@ -1,0 +1,33 @@
+# Colors (Melange_dark)
+
+[colors.bright]
+black = '#867462'
+blue = '#a3a9ce'
+cyan = '#89b3b6'
+green = '#85b695'
+magenta = '#cf9bc2'
+red = '#d47766'
+white = '#ece1d7'
+yellow = '#ebc06d'
+
+[colors.cursor]
+cursor = '#ece1d7'
+text = '#292522'
+
+[colors.normal]
+black = '#34302c'
+blue = '#7f91b2'
+cyan = '#7b9695'
+green = '#78997a'
+magenta = '#b380b0'
+red = '#bd8183'
+white = '#c1a78e'
+yellow = '#e49b5d'
+
+[colors.primary]
+background = '#292522'
+foreground = '#ece1d7'
+
+[colors.selection]
+background = '#ece1d7'
+text = '#403a36'

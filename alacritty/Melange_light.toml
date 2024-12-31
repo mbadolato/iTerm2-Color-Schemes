@@ -1,0 +1,33 @@
+# Colors (Melange_light)
+
+[colors.bright]
+black = '#a98a78'
+blue = '#465aa4'
+cyan = '#3d6568'
+green = '#3a684a'
+magenta = '#904180'
+red = '#bf0021'
+white = '#54433a'
+yellow = '#a06d00'
+
+[colors.cursor]
+cursor = '#54433a'
+text = '#f1f1f1'
+
+[colors.normal]
+black = '#e9e1db'
+blue = '#7892bd'
+cyan = '#739797'
+green = '#6e9b72'
+magenta = '#be79bb'
+red = '#c77b8b'
+white = '#7d6658'
+yellow = '#bc5c00'
+
+[colors.primary]
+background = '#f1f1f1'
+foreground = '#54433a'
+
+[colors.selection]
+background = '#54433a'
+text = '#d9d3ce'

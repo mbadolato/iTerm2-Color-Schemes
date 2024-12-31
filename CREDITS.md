@@ -240,6 +240,8 @@ The theme Mathias was created by [mathiasbynens](https://github.com/mathiasbynen
 
 The Matrix theme series were created by [Jim Xu](https://github.com/i3d) inspired by the famous Matrix movie series.
 
+The Melange theme was created by [savq](https://github.com/savq) and contributed by [aronvandepol](https://github.com/aronvandepol)
+
 The Mellifluous theme was adapted by [rektdeckard](https://github.com/rektdeckard) from the NeoVim scheme of the same name by [ramojus](https://github.com/ramojus/mellifluous.nvim)
 
 The Mellow theme was created by [kvrohit](https://github.com/kvrohit).

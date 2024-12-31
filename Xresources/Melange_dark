@@ -1,0 +1,43 @@
+!
+! Melange_dark
+!
+*.foreground:  #ece1d7
+*.background:  #292522
+*.cursorColor: #ece1d7
+!
+! Black
+*.color0:      #34302c
+*.color8:      #867462
+!
+! Red
+*.color1:      #bd8183
+*.color9:      #d47766
+!
+! Green
+*.color2:      #78997a
+*.color10:     #85b695
+!
+! Yellow
+*.color3:      #e49b5d
+*.color11:     #ebc06d
+!
+! Blue
+*.color4:      #7f91b2
+*.color12:     #a3a9ce
+!
+! Magenta
+*.color5:      #b380b0
+*.color13:     #cf9bc2
+!
+! Cyan
+*.color6:      #7b9695
+*.color14:     #89b3b6
+!
+! White
+*.color7:      #c1a78e
+*.color15:     #ece1d7
+!
+! Bold, Italic, Underline
+*.colorBD:     #292522
+!*.colorIT:
+!*.colorUL:
