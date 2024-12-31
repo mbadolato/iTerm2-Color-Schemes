@@ -1,6 +1,6 @@
 #!/bin/sh
 # GruvboxLightHard
-printf "\033]P0fbf1c7\033\\"
+printf "\033]P0f8f4d6\033\\"
 printf "\033]P19d0006\033\\"
 printf "\033]P279740e\033\\"
 printf "\033]P3b57614\033\\"
