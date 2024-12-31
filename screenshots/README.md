@@ -760,6 +760,14 @@
 
 ![image](medallion.png)
 
+`melange_dark.png`
+
+![image](melange_dark.png)
+
+`melange_light.png`
+
+![image](melange_light.png)
+
 `mellifluous.png`
 
 ![image](mellifluous.png)

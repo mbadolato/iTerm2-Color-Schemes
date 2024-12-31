@@ -911,6 +911,14 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/darkermatrix.png)
 
+### Melange Light
+
+![Screenshot](screenshots/melange_light.png)
+
+### Melange Dark
+
+![Screenshot](screenshots/melange_dark.png)
+
 ### Medallion
 
 ![Screenshot](screenshots/medallion.png)
@@ -1345,6 +1353,7 @@ more information.
 ![Screenshot](screenshots/square.png)
 
 ### Starlight
+
 ![Screenshot](screenshots/starlight.png)
 
 ### Sublette
