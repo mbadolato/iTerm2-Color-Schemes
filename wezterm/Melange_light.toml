@@ -1,0 +1,12 @@
+# Melange_light
+[colors]
+foreground = "#54433a"
+background = "#f1f1f1"
+cursor_bg = "#54433a"
+cursor_border = "#54433a"
+cursor_fg = "#f1f1f1"
+selection_bg = "#54433a"
+selection_fg = "#d9d3ce"
+
+ansi = ["#e9e1db","#c77b8b","#6e9b72","#bc5c00","#7892bd","#be79bb","#739797","#7d6658"]
+brights = ["#a98a78","#bf0021","#3a684a","#a06d00","#465aa4","#904180","#3d6568","#54433a"]
