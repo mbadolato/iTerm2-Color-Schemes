@@ -1,12 +1,12 @@
 # GruvboxDarkHard
 [colors]
 foreground = "#ebdbb2"
-background = "#1b1b1b"
+background = "#1d2021"
 cursor_bg = "#ebdbb2"
 cursor_border = "#ebdbb2"
-cursor_fg = "#1b1b1b"
+cursor_fg = "#1d2021"
 selection_bg = "#665c54"
 selection_fg = "#ebdbb2"
 
-ansi = ["#1b1b1b","#cc241d","#98971a","#d79921","#458588","#b16286","#689d6a","#a89984"]
+ansi = ["#1d2021","#cc241d","#98971a","#d79921","#458588","#b16286","#689d6a","#a89984"]
 brights = ["#928374","#fb4934","#b8bb26","#fabd2f","#83a598","#d3869b","#8ec07c","#ebdbb2"]

@@ -1,6 +1,6 @@
 #!/bin/sh
 # GruvboxDarkHard
-printf "\033]P01b1b1b\033\\"
+printf "\033]P01d2021\033\\"
 printf "\033]P1cc241d\033\\"
 printf "\033]P298971a\033\\"
 printf "\033]P3d79921\033\\"
@@ -17,7 +17,7 @@ printf "\033]Pdd3869b\033\\"
 printf "\033]Pe8ec07c\033\\"
 printf "\033]Pfebdbb2\033\\"
 printf "\033]Pgebdbb2\033\\"
-printf "\033]Ph1b1b1b\033\\"
+printf "\033]Ph1d2021\033\\"
 printf "\033]Plebdbb2\033\\"
 printf "\033]Pj665c54\033\\"
 printf "\033]Pkebdbb2\033\\"
