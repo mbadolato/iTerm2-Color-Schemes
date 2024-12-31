@@ -675,6 +675,14 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/harper.png)
 
+### Havn Daggry
+
+![Screenshot](screenshots/havn_daggry.png)
+
+### Havn Skumring
+
+![Screenshot](screenshots/havn_skumring.png)
+
 ### HaX0R_R3D
 
 ![Screenshot](screenshots/HaX0R_R3D.png)

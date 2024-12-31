@@ -524,6 +524,14 @@
 
 ![image](harper.png)
 
+`havn_daggry.png`
+
+![image](havn_daggry.png)
+
+`havn_skumring.png`
+
+![image](havn_skumring.png)
+
 `HaX0R_BLUE.png`
 
 ![image](HaX0R_BLUE.png)
