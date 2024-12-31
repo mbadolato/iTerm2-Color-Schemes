@@ -1,0 +1,12 @@
+# Havn Skumring
+[colors]
+foreground = "#d7dbea"
+background = "#121521"
+cursor_bg = "#40786f"
+cursor_border = "#40786f"
+cursor_fg = "#e0e4f2"
+selection_bg = "#34504b"
+selection_fg = "#dce0ee"
+
+ansi = ["#262c45","#d96048","#7cab7f","#eeb64e","#5d6bef","#7a729a","#ca8cbe","#dde0ed"]
+brights = ["#212840","#c47768","#8f9d90","#e4c693","#5d85c6","#967de7","#c57eb3","#fdf6e3"]

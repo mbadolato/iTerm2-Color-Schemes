@@ -1,0 +1,33 @@
+# Colors (Havn Skumring)
+
+[colors.bright]
+black = '#212840'
+blue = '#5d85c6'
+cyan = '#c57eb3'
+green = '#8f9d90'
+magenta = '#967de7'
+red = '#c47768'
+white = '#fdf6e3'
+yellow = '#e4c693'
+
+[colors.cursor]
+cursor = '#40786f'
+text = '#e0e4f2'
+
+[colors.normal]
+black = '#262c45'
+blue = '#5d6bef'
+cyan = '#ca8cbe'
+green = '#7cab7f'
+magenta = '#7a729a'
+red = '#d96048'
+white = '#dde0ed'
+yellow = '#eeb64e'
+
+[colors.primary]
+background = '#121521'
+foreground = '#d7dbea'
+
+[colors.selection]
+background = '#34504b'
+text = '#dce0ee'

@@ -182,6 +182,8 @@ The Hardcore theme was created by [hardcore](https://github.com/hardcore/iTerm-c
 
 The Harper theme was created by [idleberg](https://github.com/idleberg/Harper-iTerm2)
 
+The Havn themes (Daggry and Skumring) were created by Erlend over at [Havn.blog](https://havn.blog).
+
 The themes HaX0R_R3D, HaX0R_GR33N and HaX0R_BLUE were created by [Pratik](https://github.com/pratikmullick)
 
 The heeler theme was created by [tacolegs2004](https://github.com/tacolegs2004)
