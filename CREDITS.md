@@ -376,6 +376,8 @@ The scheme Symfonic was inspired by the color scheme used in the [documentation]
 
 The [starlight](https://github.com/CosmicToast/starlight) theme was created by [toast](https://github.com/CosmicToast).
 
+The [Squirrelsong Dark](https://github.com/sapegin/squirrelsong) theme was created by [sapegin](https://github.com/sapegin).
+
 The synthwave theme was created by [brettstil](https://github.com/brettstil/)
 
 The Synthwave Alpha theme was created by [vikpe](https://github.com/vikpe) based on the [Synthwave Alpha](https://github.com/vikpe/synthwave-alpha) color palette

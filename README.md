@@ -1360,6 +1360,10 @@ more information.
 
 ![Screenshot](screenshots/square.png)
 
+### Squirrelsong Dark
+
+![Screenshot](screenshots/squirrelsong_dark.png)
+
 ### Starlight
 
 ![Screenshot](screenshots/starlight.png)
