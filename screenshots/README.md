@@ -1196,6 +1196,10 @@
 
 ![image](square.png)
 
+`squirrelsong_dark.png`
+
+![image](squirrelsong_dark.png)
+
 `starlight.png`
 
 ![image](starlight.png)

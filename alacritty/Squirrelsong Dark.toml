@@ -1,0 +1,33 @@
+# Colors (Squirrelsong Dark)
+
+[colors.bright]
+black = '#6b503c'
+blue = '#63a2d6'
+cyan = '#72aaa8'
+green = '#719955'
+magenta = '#9672d4'
+red = '#ce574a'
+white = '#edd5be'
+yellow = '#e2c358'
+
+[colors.cursor]
+cursor = '#ad9c8b'
+text = '#352a21'
+
+[colors.normal]
+black = '#352a21'
+blue = '#5993c2'
+cyan = '#4f9593'
+green = '#558240'
+magenta = '#7f61b3'
+red = '#ac493e'
+white = '#cfbaa5'
+yellow = '#ceb250'
+
+[colors.primary]
+background = '#352a21'
+foreground = '#ad9c8b'
+
+[colors.selection]
+background = '#574131'
+text = '#ad9c8b'
