@@ -1,0 +1,43 @@
+!
+! Poimandres
+!
+*.foreground:  #a7acca
+*.background:  #1c1e27
+*.cursorColor: #f4b77d
+!
+! Black
+*.color0:      #1c1e27
+*.color8:      #a7acca
+!
+! Red
+*.color1:      #c36d9b
+*.color9:      #c36d9b
+!
+! Green
+*.color2:      #83e1c8
+*.color10:     #83e1c8
+!
+! Yellow
+*.color3:      #fefac8
+*.color11:     #fefac8
+!
+! Blue
+*.color4:      #9cdbfb
+*.color12:     #b5d6fb
+!
+! Magenta
+*.color5:      #f3c7e7
+*.color13:     #f3c7e7
+!
+! Cyan
+*.color6:      #9cdbfb
+*.color14:     #b5d6fb
+!
+! White
+*.color7:      #ffffff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

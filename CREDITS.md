@@ -310,6 +310,8 @@ The Peppermint theme was created by [Noah Frederick](https://noahfrederick.com/l
 
 The Piatto Light theme was created by [kovv](https://github.com/kovv)
 
+The Poimandres theme was created by [drcmda](https://github.com/drcmda)
+
 Popping and Locking theme was created by [Hedinn Eiriksson](https://github.com/hedinne) and added by [didierbroska](https://github.com/didierbroska)
 
 The Primary theme was created by [jayanthkoushik](https://github.com/jayanthkoushik) based on [Google's vim colorscheme](https://github.com/google/vim-colorscheme-primary).

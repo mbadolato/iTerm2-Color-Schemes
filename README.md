@@ -1151,6 +1151,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/pnevma.png)
 
+### Poimandres
+
+![Screenshot](screenshots/poimandres.png)
+
 ### Popping and Locking
 
 ![Screenshot](screenshots/Popping_and_Locking.png)
