@@ -19,6 +19,9 @@
         "terminal.ansiBrightWhite": "#{{ Ansi_15_Color.hex }}",
         "terminal.ansiBrightYellow": "#{{ Ansi_11_Color.hex }}",
         "terminal.selectionBackground": "#{{ Selection_Color.hex }}",
+{% if Cursor_Text_Color %}
+        "terminalCursor.background": "#{{ Cursor_Text_Color.hex }}",
+{% endif %}
         "terminalCursor.foreground": "#{{ Cursor_Color.hex }}"
     }
 }
