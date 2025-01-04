@@ -290,6 +290,8 @@ The Piatto Light theme was created by [kovv](https://github.com/kovv)
 
 Popping and Locking theme was created by [Hedinn Eiriksson](https://github.com/hedinne) and added by [didierbroska](https://github.com/didierbroska)
 
+The Poimandres theme was created by [drcmda](https://github.com/drcmda/poimandres-theme) and ported by [tacolegs2004](https://github.com/tacolegs2004)
+
 The Primary theme was created by [jayanthkoushik](https://github.com/jayanthkoushik) based on [Google's vim colorscheme](https://github.com/google/vim-colorscheme-primary).
 
 The Pro Light theme was adapted from the Pro theme by [crowsonkb](https://github.com/crowsonkb) using her [iterm_schemer](https://github.com/crowsonkb/iterm_schemer) tool.
