@@ -5,7 +5,7 @@ palette = 3=#fab795
 palette = 4=#26bbd9
 palette = 5=#ee64ac
 palette = 6=#59e1e3
-palette = 7=#e5e5e5
+palette = 7=#555555
 palette = 8=#666666
 palette = 9=#ec6a88
 palette = 10=#3fdaa4
@@ -13,10 +13,10 @@ palette = 11=#fbc3a7
 palette = 12=#3fc4de
 palette = 13=#f075b5
 palette = 14=#6be4e6
-palette = 15=#e5e5e5
-background = #1c1e26
-foreground = #d5d8da
-cursor-color = #6c6f93
-cursor-text = #6c6f93
-selection-background = #6c6f93
-selection-foreground = #1c1e26
+palette = 15=#a5a5a5
+background = #fdf0ed
+foreground = #06060c
+cursor-color = #f9cec3
+cursor-text = #f9cec3
+selection-background = #f9cec3
+selection-foreground = #fdf0ed

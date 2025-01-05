@@ -1,5 +1,5 @@
 {
-  "name": "Horizon",
+  "name": "Horizon-Bright",
   "black": "#000000",
   "red": "#e95678",
   "green": "#29d398",
@@ -7,7 +7,7 @@
   "blue": "#26bbd9",
   "purple": "#ee64ac",
   "cyan": "#59e1e3",
-  "white": "#e5e5e5",
+  "white": "#555555",
   "brightBlack": "#666666",
   "brightRed": "#ec6a88",
   "brightGreen": "#3fdaa4",
@@ -15,9 +15,9 @@
   "brightBlue": "#3fc4de",
   "brightPurple": "#f075b5",
   "brightCyan": "#6be4e6",
-  "brightWhite": "#e5e5e5",
-  "background": "#1c1e26",
-  "foreground": "#d5d8da",
-  "cursor": "#6c6f93",
-  "selection": "#6c6f93"
+  "brightWhite": "#a5a5a5",
+  "background": "#fdf0ed",
+  "foreground": "#06060c",
+  "cursorColor": "#f9cec3",
+  "selectionBackground": "#f9cec3"
 }

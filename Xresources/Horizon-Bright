@@ -1,9 +1,9 @@
 !
-! Horizon
+! Horizon-Bright
 !
-*.foreground:  #d5d8da
-*.background:  #1c1e26
-*.cursorColor: #6c6f93
+*.foreground:  #06060c
+*.background:  #fdf0ed
+*.cursorColor: #f9cec3
 !
 ! Black
 *.color0:      #000000
@@ -34,10 +34,10 @@
 *.color14:     #6be4e6
 !
 ! White
-*.color7:      #e5e5e5
-*.color15:     #e5e5e5
+*.color7:      #555555
+*.color15:     #a5a5a5
 !
 ! Bold, Italic, Underline
-*.colorBD:     #d5d8da
+*.colorBD:     #06060c
 !*.colorIT:
 !*.colorUL:
