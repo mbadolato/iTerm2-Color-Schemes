@@ -1,0 +1,33 @@
+# Colors (GitLab-Light)
+
+[colors.bright]
+black = '#303030'
+blue = '#006cd8'
+cyan = '#00798a'
+green = '#0a7f3d'
+magenta = '#583cac'
+red = '#a31700'
+white = '#303030'
+yellow = '#af551d'
+
+[colors.cursor]
+cursor = '#303030'
+text = '#303030'
+
+[colors.normal]
+black = '#303030'
+blue = '#006cd8'
+cyan = '#00798a'
+green = '#0a7f3d'
+magenta = '#583cac'
+red = '#a31700'
+white = '#303030'
+yellow = '#af551d'
+
+[colors.primary]
+background = '#fafaff'
+foreground = '#303030'
+
+[colors.selection]
+background = '#ad95e9'
+text = '#fafaff'

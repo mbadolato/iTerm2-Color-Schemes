@@ -160,6 +160,8 @@ The scheme Github was inspired by the color theme palette used at [Github](https
 
 The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncanson)
 
+The GitLab Dark, GitLab Dark Grey, and GitLab Light themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the theme created by [albertorestifo](https://github.com/albertorestifo/gitlab-webide-theme) using the [ditto](https://github.com/campvanilla/ditto) tool.
+
 The Gruber Darker theme was inspired by [Alexey Kutepov](https://github.com/rexim)
 
 The Gruvbox Dark theme was created by [morhetz](https://github.com/morhetz) and added by [saccarosium](https://github.com/mcchrish)

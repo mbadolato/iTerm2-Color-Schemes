@@ -1,0 +1,12 @@
+# GitLab-Dark-Grey
+[colors]
+foreground = "#ffffff"
+background = "#222222"
+cursor_bg = "#ffffff"
+cursor_border = "#ffffff"
+cursor_fg = "#ffffff"
+selection_bg = "#ad95e9"
+selection_fg = "#222222"
+
+ansi = ["#000000","#f57f6c","#52b87a","#d99530","#7fb6ed","#f88aaf","#32c5d2","#ffffff"]
+brights = ["#666666","#fcb5aa","#91d4a8","#e9be74","#498dd1","#fcacc5","#5edee3","#ffffff"]
