@@ -1067,6 +1067,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/nord_light.png)
 
+### Nord-wave
+
+![Screenshot](screenshots/nord-wave.png)
+
 ### NvimDark
 
 ![Screenshot](screenshots/NvimDark.png)

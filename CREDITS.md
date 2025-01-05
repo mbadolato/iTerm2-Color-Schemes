@@ -282,6 +282,8 @@ Nord theme was created by [Arctic Ice Studio](https://www.nordtheme.com/) and ad
 
 Nord-light was created by [Arctic Ice Studio](https://www.nordtheme.com/) and added by [brorbw](https://github.com/brorbw/nord-light-iterm2)
 
+The Nord-wave theme was added by [Antonio Camargo](https://github.com/apcamargo). This theme was converted from the theme created by [dimitrisnl](https://github.com/dimitrisnl/nord-wave) using the [ditto](https://github.com/campvanilla/ditto) tool.
+
 The NvimDark and NvimLight themes were added by [slavamak](https://github.com/slavamak)
 
 The Obsidian theme was on my hard drive and I don't recall where it came from. If anyone knows, ping me and I'll link back to the author(s).
