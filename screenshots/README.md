@@ -572,6 +572,10 @@
 
 ![image](hopscotch_256.png)
 
+`horizon-bright.png`
+
+![image](horizon-bright.png)
+
 `horizon.png`
 
 ![image](horizon.png)
@@ -839,6 +843,38 @@
 `monokai-pro.png`
 
 ![image](monokai-pro.png)
+
+`monokai_classic.png`
+
+![image](monokai_classic.png)
+
+`monokai_pro.png`
+
+![image](monokai_pro.png)
+
+`monokai_pro_light.png`
+
+![image](monokai_pro_light.png)
+
+`monokai_pro_light_sun.png`
+
+![image](monokai_pro_light_sun.png)
+
+`monokai_pro_machine.png`
+
+![image](monokai_pro_machine.png)
+
+`monokai_pro_octagon.png`
+
+![image](monokai_pro_octagon.png)
+
+`monokai_pro_ristretto.png`
+
+![image](monokai_pro_ristretto.png)
+
+`monokai_pro_spectrum.png`
+
+![image](monokai_pro_spectrum.png)
 
 `monokai_remastered.png`
 

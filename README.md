@@ -727,6 +727,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/horizon.png)
 
+### Horizon Bright
+
+![Screenshot](screenshots/horizon-bright.png)
+
 ### Hurtado
 
 ![Screenshot](screenshots/hurtado.png)
