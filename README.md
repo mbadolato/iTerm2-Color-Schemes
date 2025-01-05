@@ -611,6 +611,26 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![image](screenshots/galizur.png)
 
+### GitHub Dark Default
+
+![image](screenshots/github-dark-default.png)
+
+### GitHub Dark Dimmed
+
+![image](screenshots/github-dark-dimmed.png)
+
+### GitHub Dark Colorblind
+
+![image](screenshots/github-dark-colorblind.png)
+
+### GitHub Light Default
+
+![image](screenshots/github-light-default.png)
+
+### GitHub Dark Colorblind
+
+![image](screenshots/github-light-colorblind.png)
+
 ### Github
 
 ![Screenshot](screenshots/github.png)

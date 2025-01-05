@@ -460,6 +460,26 @@
 
 ![image](galizur.png)
 
+`github-dark-colorblind.png`
+
+![image](github-dark-colorblind.png)
+
+`github-dark-default.png`
+
+![image](github-dark-default.png)
+
+`github-dark-dimmed.png`
+
+![image](github-dark-dimmed.png)
+
+`github-light-colorblind.png`
+
+![image](github-light-colorblind.png)
+
+`github-light-default.png`
+
+![image](github-light-default.png)
+
 `github.png`
 
 ![image](github.png)
@@ -839,6 +859,38 @@
 `monokai-pro.png`
 
 ![image](monokai-pro.png)
+
+`monokai_classic.png`
+
+![image](monokai_classic.png)
+
+`monokai_pro.png`
+
+![image](monokai_pro.png)
+
+`monokai_pro_light.png`
+
+![image](monokai_pro_light.png)
+
+`monokai_pro_light_sun.png`
+
+![image](monokai_pro_light_sun.png)
+
+`monokai_pro_machine.png`
+
+![image](monokai_pro_machine.png)
+
+`monokai_pro_octagon.png`
+
+![image](monokai_pro_octagon.png)
+
+`monokai_pro_ristretto.png`
+
+![image](monokai_pro_ristretto.png)
+
+`monokai_pro_spectrum.png`
+
+![image](monokai_pro_spectrum.png)
 
 `monokai_remastered.png`
 
