@@ -1,0 +1,33 @@
+# Colors (GitHub-Dark-Dimmed)
+
+[colors.bright]
+black = '#636e7b'
+blue = '#6cb6ff'
+cyan = '#56d4dd'
+green = '#6bc46d'
+magenta = '#dcbdfb'
+red = '#ff938a'
+white = '#cdd9e5'
+yellow = '#daaa3f'
+
+[colors.cursor]
+cursor = '#539bf5'
+text = '#539bf5'
+
+[colors.normal]
+black = '#545d68'
+blue = '#539bf5'
+cyan = '#39c5cf'
+green = '#57ab5a'
+magenta = '#b083f0'
+red = '#f47067'
+white = '#909dab'
+yellow = '#c69026'
+
+[colors.primary]
+background = '#22272e'
+foreground = '#adbac7'
+
+[colors.selection]
+background = '#adbac7'
+text = '#22272e'

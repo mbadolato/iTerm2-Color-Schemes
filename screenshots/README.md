@@ -464,6 +464,26 @@
 
 ![image](galizur.png)
 
+`github-dark-colorblind.png`
+
+![image](github-dark-colorblind.png)
+
+`github-dark-default.png`
+
+![image](github-dark-default.png)
+
+`github-dark-dimmed.png`
+
+![image](github-dark-dimmed.png)
+
+`github-light-colorblind.png`
+
+![image](github-light-colorblind.png)
+
+`github-light-default.png`
+
+![image](github-light-default.png)
+
 `github.png`
 
 ![image](github.png)

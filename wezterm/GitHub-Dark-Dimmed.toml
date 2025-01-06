@@ -1,0 +1,12 @@
+# GitHub-Dark-Dimmed
+[colors]
+foreground = "#adbac7"
+background = "#22272e"
+cursor_bg = "#539bf5"
+cursor_border = "#539bf5"
+cursor_fg = "#539bf5"
+selection_bg = "#adbac7"
+selection_fg = "#22272e"
+
+ansi = ["#545d68","#f47067","#57ab5a","#c69026","#539bf5","#b083f0","#39c5cf","#909dab"]
+brights = ["#636e7b","#ff938a","#6bc46d","#daaa3f","#6cb6ff","#dcbdfb","#56d4dd","#cdd9e5"]
