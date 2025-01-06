@@ -219,6 +219,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/apple-system-colors.png)
 
+### Apple System Colors Light
+
+![Screenshot](screenshots/apple-system-colors-light.png)
+
 ### Arcoiris
 
 ![Screenshot](screenshots/arcoiris.png)

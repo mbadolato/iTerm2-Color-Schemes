@@ -24,6 +24,8 @@ The Apple Classic theme was created by [Brian Meyer](https://github.com/CodeMonk
 
 The Apple System Colors theme was created by [Jeremy Bahadirli](https://github.com/jeremybahadirli)
 
+The Apple System Colors Light theme was created by [Aaron-212](https://github.com/Aaron-212). It is based on the Apple System Colors theme.
+
 The Arcoiris theme was created by [some random guy](https://github.com/indyandie)
 
 The Argonaut theme was created by [effkay](https://github.com/effkay/iTerm-argonaut)
