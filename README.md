@@ -1408,6 +1408,10 @@ more information.
 
 ![Screenshot](screenshots/squirrelsong_dark.png)
 
+### Srcery
+
+![Screenshot](screenshots/srcery.png)
+
 ### Starlight
 
 ![Screenshot](screenshots/starlight.png)
