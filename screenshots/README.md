@@ -60,6 +60,10 @@
 
 ![image](apple-system-colors.png)
 
+`apple_system_colors_light.png`
+
+![image](apple_system_colors_light.png)
+
 `arcoiris.png`
 
 ![image](arcoiris.png)
@@ -471,6 +475,26 @@
 `git_lab-light.png`
 
 ![image](git_lab-light.png)
+
+`github-dark-colorblind.png`
+
+![image](github-dark-colorblind.png)
+
+`github-dark-default.png`
+
+![image](github-dark-default.png)
+
+`github-dark-dimmed.png`
+
+![image](github-dark-dimmed.png)
+
+`github-light-colorblind.png`
+
+![image](github-light-colorblind.png)
+
+`github-light-default.png`
+
+![image](github-light-default.png)
 
 `github.png`
 
@@ -943,6 +967,10 @@
 `nocturnal_winter.png`
 
 ![image](nocturnal_winter.png)
+
+`nord-wave.png`
+
+![image](nord-wave.png)
 
 `nord.png`
 

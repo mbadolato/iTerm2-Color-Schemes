@@ -1,0 +1,12 @@
+# GitHub-Light-Colorblind
+[colors]
+foreground = "#24292f"
+background = "#ffffff"
+cursor_bg = "#0969da"
+cursor_border = "#0969da"
+cursor_fg = "#0969da"
+selection_bg = "#24292f"
+selection_fg = "#ffffff"
+
+ansi = ["#24292f","#b35900","#0550ae","#4d2d00","#0969da","#8250df","#1b7c83","#6e7781"]
+brights = ["#57606a","#8a4600","#0969da","#633c01","#218bff","#a475f9","#3192aa","#8c959f"]

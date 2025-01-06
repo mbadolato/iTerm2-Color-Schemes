@@ -219,6 +219,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/apple-system-colors.png)
 
+### Apple System Colors Light
+
+![Screenshot](screenshots/apple-system-colors-light.png)
+
 ### Arcoiris
 
 ![Screenshot](screenshots/arcoiris.png)
@@ -610,6 +614,26 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Galizur
 
 ![image](screenshots/galizur.png)
+
+### GitHub Dark Default
+
+![image](screenshots/github-dark-default.png)
+
+### GitHub Dark Dimmed
+
+![image](screenshots/github-dark-dimmed.png)
+
+### GitHub Dark Colorblind
+
+![image](screenshots/github-dark-colorblind.png)
+
+### GitHub Light Default
+
+![image](screenshots/github-light-default.png)
+
+### GitHub Dark Colorblind
+
+![image](screenshots/github-light-colorblind.png)
 
 ### Github
 
@@ -1078,6 +1102,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Nord-light
 
 ![Screenshot](screenshots/nord_light.png)
+
+### Nord-wave
+
+![Screenshot](screenshots/nord-wave.png)
 
 ### NvimDark
 

@@ -1,0 +1,33 @@
+# Colors (GitHub-Dark-Default)
+
+[colors.bright]
+black = '#6e7681'
+blue = '#79c0ff'
+cyan = '#56d4dd'
+green = '#56d364'
+magenta = '#d2a8ff'
+red = '#ffa198'
+white = '#ffffff'
+yellow = '#e3b341'
+
+[colors.cursor]
+cursor = '#2f81f7'
+text = '#2f81f7'
+
+[colors.normal]
+black = '#484f58'
+blue = '#58a6ff'
+cyan = '#39c5cf'
+green = '#3fb950'
+magenta = '#bc8cff'
+red = '#ff7b72'
+white = '#b1bac4'
+yellow = '#d29922'
+
+[colors.primary]
+background = '#0d1117'
+foreground = '#e6edf3'
+
+[colors.selection]
+background = '#e6edf3'
+text = '#0d1117'

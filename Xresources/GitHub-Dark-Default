@@ -1,0 +1,43 @@
+!
+! GitHub-Dark-Default
+!
+*.foreground:  #e6edf3
+*.background:  #0d1117
+*.cursorColor: #2f81f7
+!
+! Black
+*.color0:      #484f58
+*.color8:      #6e7681
+!
+! Red
+*.color1:      #ff7b72
+*.color9:      #ffa198
+!
+! Green
+*.color2:      #3fb950
+*.color10:     #56d364
+!
+! Yellow
+*.color3:      #d29922
+*.color11:     #e3b341
+!
+! Blue
+*.color4:      #58a6ff
+*.color12:     #79c0ff
+!
+! Magenta
+*.color5:      #bc8cff
+*.color13:     #d2a8ff
+!
+! Cyan
+*.color6:      #39c5cf
+*.color14:     #56d4dd
+!
+! White
+*.color7:      #b1bac4
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #e6edf3
+!*.colorIT:
+!*.colorUL:

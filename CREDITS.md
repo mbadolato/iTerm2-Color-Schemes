@@ -24,6 +24,8 @@ The Apple Classic theme was created by [Brian Meyer](https://github.com/CodeMonk
 
 The Apple System Colors theme was created by [Jeremy Bahadirli](https://github.com/jeremybahadirli)
 
+The Apple System Colors Light theme was created by [Aaron-212](https://github.com/Aaron-212). It is based on the Apple System Colors theme.
+
 The Arcoiris theme was created by [some random guy](https://github.com/indyandie)
 
 The Argonaut theme was created by [effkay](https://github.com/effkay/iTerm-argonaut)
@@ -156,6 +158,8 @@ The Galaxy theme was created by [jglovier](https://github.com/jglovier/galaxy-th
 
 The "Galizur" theme was crafted by [Raziel Anarki](https://github.com/razielanarki)
 
+The GitHub Dark Default, GitHub Dark Dimmed, GitHub Dark Colorblind, GitHub Light Default, and GitHub Light Colorblind themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the [official GitHub theme](https://github.com/primer/github-vscode-theme) using the [ditto](https://github.com/campvanilla/ditto) tool.
+
 The scheme Github was inspired by the color theme palette used at [Github](https://github.com/) for their UI and in some of their mascot images.
 
 The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncanson)
@@ -283,6 +287,8 @@ The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Sh
 Nord theme was created by [Arctic Ice Studio](https://www.nordtheme.com/) and added by [Teraskull](https://github.com/Teraskull)
 
 Nord-light was created by [Arctic Ice Studio](https://www.nordtheme.com/) and added by [brorbw](https://github.com/brorbw/nord-light-iterm2)
+
+The Nord-wave theme was added by [Antonio Camargo](https://github.com/apcamargo). This theme was converted from the theme created by [dimitrisnl](https://github.com/dimitrisnl/nord-wave) using the [ditto](https://github.com/campvanilla/ditto) tool.
 
 The NvimDark and NvimLight themes were added by [slavamak](https://github.com/slavamak)
 
