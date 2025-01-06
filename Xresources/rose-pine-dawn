@@ -3,27 +3,27 @@
 !
 *.foreground:  #575279
 *.background:  #faf4ed
-*.cursorColor: #9893a5
+*.cursorColor: #575279
 !
 ! Black
-*.color0:      #f2e9de
-*.color8:      #6e6a86
+*.color0:      #f2e9e1
+*.color8:      #9893a5
 !
 ! Red
 *.color1:      #b4637a
 *.color9:      #b4637a
 !
 ! Green
-*.color2:      #56949f
-*.color10:     #56949f
+*.color2:      #286983
+*.color10:     #286983
 !
 ! Yellow
 *.color3:      #ea9d34
 *.color11:     #ea9d34
 !
 ! Blue
-*.color4:      #286983
-*.color12:     #286983
+*.color4:      #56949f
+*.color12:     #56949f
 !
 ! Magenta
 *.color5:      #907aa9
