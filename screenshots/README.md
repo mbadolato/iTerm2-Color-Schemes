@@ -1288,6 +1288,10 @@
 
 ![image](squirrelsong_dark.png)
 
+`srcery.png`
+
+![Screenshot](screenshots/srcery.png)
+
 `starlight.png`
 
 ![image](starlight.png)

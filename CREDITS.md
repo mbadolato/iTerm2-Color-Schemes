@@ -388,6 +388,8 @@ The [starlight](https://github.com/CosmicToast/starlight) theme was created by [
 
 The [Squirrelsong Dark](https://github.com/sapegin/squirrelsong) theme was created by [sapegin](https://github.com/sapegin).
 
+The [Srcery](https://github.com/srcery-colors) theme was created by [Roosta](https://github.com/roosta).
+
 The synthwave theme was created by [brettstil](https://github.com/brettstil/)
 
 The Synthwave Alpha theme was created by [vikpe](https://github.com/vikpe) based on the [Synthwave Alpha](https://github.com/vikpe/synthwave-alpha) color palette
