@@ -1,33 +1,33 @@
 # Colors (Horizon)
 
 [colors.bright]
-black = '#686868'
-blue = '#56c2ea'
-cyan = '#3ce8e6'
-green = '#0af29d'
-magenta = '#c38ce1'
-red = '#e06783'
-white = '#ffffff'
-yellow = '#fac39a'
+black = '#666666'
+blue = '#3fc4de'
+cyan = '#6be4e6'
+green = '#3fdaa4'
+magenta = '#f075b5'
+red = '#ec6a88'
+white = '#e5e5e5'
+yellow = '#fbc3a7'
 
 [colors.cursor]
-cursor = '#c7c7c7'
-text = '#ffffff'
+cursor = '#6c6f93'
+text = '#6c6f93'
 
 [colors.normal]
-black = '#131519'
-blue = '#30aad7'
-cyan = '#1fdad9'
-green = '#14d386'
-magenta = '#b877db'
-red = '#e95478'
-white = '#c7c7c7'
+black = '#000000'
+blue = '#26bbd9'
+cyan = '#59e1e3'
+green = '#29d398'
+magenta = '#ee64ac'
+red = '#e95678'
+white = '#e5e5e5'
 yellow = '#fab795'
 
 [colors.primary]
 background = '#1c1e26'
-foreground = '#bbbaba'
+foreground = '#d5d8da'
 
 [colors.selection]
-background = '#292b36'
-text = '#dfd3d5'
+background = '#6c6f93'
+text = '#1c1e26'

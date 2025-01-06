@@ -200,7 +200,7 @@ The Hivacruz theme was created by [Yann Defretin](https://github.com/kinoute/hiv
 
 The Hopscotch theme was created by [Jan T. Sott](https://github.com/idleberg/Hopscotch)
 
-The Horizon theme was added by [Antonio Camargo](https://github.com/apcamargo). This was based on a prior iTerm2 theme by [Slavko Bojanic](https://github.com/slavkobojanic/horizon-iterm), which was deived from the theme created by [jolaleye](https://github.com/jolaleye/horizon-theme-vscode)
+The Horizon and Horizon Bright themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the theme created by [jolaleye](https://github.com/jolaleye/horizon-theme-vscode) using the [ditto](https://github.com/campvanilla/ditto) tool.
 
 The Hybrid theme was found [here](https://gist.github.com/luan/6362811)
 

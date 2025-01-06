@@ -1,12 +1,12 @@
 # Horizon
 [colors]
-foreground = "#bbbaba"
+foreground = "#d5d8da"
 background = "#1c1e26"
-cursor_bg = "#c7c7c7"
-cursor_border = "#c7c7c7"
-cursor_fg = "#ffffff"
-selection_bg = "#292b36"
-selection_fg = "#dfd3d5"
+cursor_bg = "#6c6f93"
+cursor_border = "#6c6f93"
+cursor_fg = "#6c6f93"
+selection_bg = "#6c6f93"
+selection_fg = "#1c1e26"
 
-ansi = ["#131519","#e95478","#14d386","#fab795","#30aad7","#b877db","#1fdad9","#c7c7c7"]
-brights = ["#686868","#e06783","#0af29d","#fac39a","#56c2ea","#c38ce1","#3ce8e6","#ffffff"]
+ansi = ["#000000","#e95678","#29d398","#fab795","#26bbd9","#ee64ac","#59e1e3","#e5e5e5"]
+brights = ["#666666","#ec6a88","#3fdaa4","#fbc3a7","#3fc4de","#f075b5","#6be4e6","#e5e5e5"]

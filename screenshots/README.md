@@ -608,6 +608,10 @@
 
 ![image](hopscotch_256.png)
 
+`horizon-bright.png`
+
+![image](horizon-bright.png)
+
 `horizon.png`
 
 ![image](horizon.png)
