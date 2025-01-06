@@ -1,0 +1,43 @@
+!
+! CobaltNext-Minimal
+!
+*.foreground:  #d8dee9
+*.background:  #0f1c23
+*.cursorColor: #5fb3b3
+!
+! Black
+*.color0:      #343d46
+*.color8:      #65737e
+!
+! Red
+*.color1:      #ed6f7d
+*.color9:      #d6838c
+!
+! Green
+*.color2:      #99c794
+*.color10:     #c1dcbe
+!
+! Yellow
+*.color3:      #fac863
+*.color11:     #ffde9b
+!
+! Blue
+*.color4:      #5a9bcf
+*.color12:     #8abee7
+!
+! Magenta
+*.color5:      #c5a5c5
+*.color13:     #edcded
+!
+! Cyan
+*.color6:      #5fb3b3
+*.color14:     #9be2e2
+!
+! White
+*.color7:      #d8dee9
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

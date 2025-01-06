@@ -82,6 +82,8 @@ The Cobalt2 theme was created by [wesbos](https://github.com/wesbos/Cobalt2-iter
 
 The Cobalt Neon theme was created by [vazquez](https://github.com/vazquez/cobalt-neon-iterm)
 
+The CobaltNext themes were created by [davidleininger](https://github.com/davidleininger/cobaltnext-vscode) and were ported by [WardsParadox](https://github.com/WardsParadox)
+
 The coffee theme was created by [cbitterfield](https://github.com/cbitterfield)
 
 The CutiePro theme was created by [jezzy](https://github.com/jezzy-ultra)

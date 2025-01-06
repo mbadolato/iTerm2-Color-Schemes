@@ -232,6 +232,18 @@
 
 ![image](cobalt_neon.png)
 
+`cobalt_next.png`
+
+![image](cobalt_next.png)
+
+`cobalt_next-dark.png`
+
+![image](cobalt_next-dark.png)
+
+`cobalt_next-minimal.png`
+
+![image](cobalt_next-minimal.png)
+
 `Coffee.png`
 
 ![image](Coffee.png)

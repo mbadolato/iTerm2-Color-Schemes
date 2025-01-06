@@ -1,0 +1,12 @@
+# CobaltNext-Dark
+[colors]
+foreground = "#d8dee9"
+background = "#0f1c23"
+cursor_bg = "#fac863"
+cursor_border = "#fac863"
+cursor_fg = "#ffffff"
+selection_bg = "#5fb3b3"
+selection_fg = "#ffffff"
+
+ansi = ["#282f36","#e6576a","#99c794","#fac863","#5a9bcf","#c5a5c5","#5fb3b3","#d8dee9"]
+brights = ["#65737e","#d6838c","#c1dcbe","#ffde9b","#8abee7","#edcded","#9be2e2","#ffffff"]
