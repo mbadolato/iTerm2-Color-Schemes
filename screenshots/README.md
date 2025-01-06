@@ -464,6 +464,18 @@
 
 ![image](galizur.png)
 
+`git_lab-dark-grey.png`
+
+![image](git_lab-dark-grey.png)
+
+`git_lab-dark.png`
+
+![image](git_lab-dark.png)
+
+`git_lab-light.png`
+
+![image](git_lab-light.png)
+
 `github-dark-colorblind.png`
 
 ![image](github-dark-colorblind.png)

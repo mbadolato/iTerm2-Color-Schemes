@@ -643,6 +643,18 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/GitHub_Dark.png)
 
+### GitLab Dark
+
+![Screenshot](screenshots/git_lab-dark.png)
+
+### GitLab Dark Grey
+
+![Screenshot](screenshots/git_lab-dark-grey.png)
+
+### GitLab Light
+
+![Screenshot](screenshots/git_lab-light.png)
+
 ### Glacier
 
 ![Screenshot](screenshots/glacier.png)

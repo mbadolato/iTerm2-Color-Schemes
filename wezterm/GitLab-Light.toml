@@ -1,0 +1,12 @@
+# GitLab-Light
+[colors]
+foreground = "#303030"
+background = "#fafaff"
+cursor_bg = "#303030"
+cursor_border = "#303030"
+cursor_fg = "#303030"
+selection_bg = "#ad95e9"
+selection_fg = "#fafaff"
+
+ansi = ["#303030","#a31700","#0a7f3d","#af551d","#006cd8","#583cac","#00798a","#303030"]
+brights = ["#303030","#a31700","#0a7f3d","#af551d","#006cd8","#583cac","#00798a","#303030"]

@@ -1,0 +1,43 @@
+!
+! GitLab-Dark
+!
+*.foreground:  #ffffff
+*.background:  #28262b
+*.cursorColor: #ffffff
+!
+! Black
+*.color0:      #000000
+*.color8:      #666666
+!
+! Red
+*.color1:      #f57f6c
+*.color9:      #fcb5aa
+!
+! Green
+*.color2:      #52b87a
+*.color10:     #91d4a8
+!
+! Yellow
+*.color3:      #d99530
+*.color11:     #e9be74
+!
+! Blue
+*.color4:      #7fb6ed
+*.color12:     #498dd1
+!
+! Magenta
+*.color5:      #f88aaf
+*.color13:     #fcacc5
+!
+! Cyan
+*.color6:      #32c5d2
+*.color14:     #5edee3
+!
+! White
+*.color7:      #ffffff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:
