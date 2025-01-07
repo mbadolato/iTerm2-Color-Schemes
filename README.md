@@ -102,7 +102,9 @@ an interactive terminal session inside the container.
 
 ### How to add new theme
 
-Have a great iTerm theme? Send it to me via a Pull Request!
+Have a great theme? Send it to me via a Pull Request!
+
+#### Have an iTerm theme?
 
 1. Get your theme's`.itermcolors` file.
    - Launch iTerm 2
@@ -114,18 +116,9 @@ Have a great iTerm theme? Send it to me via a Pull Request!
    - Adjust the [Color Space](#color-space)
 2. Put your theme file into `/schemes/`
    - `mv <your-itermcolors-file> schemes/`
-3. Generate other formats for your theme using the `gen.py` script.
-   - `python3 tools/gen.py`
-   If you only want to generate files for your theme, you can specify this with the `-s` flag.
-   - `python3 tools/gen.py -s Dracula`
-4. Generate a screenshot of your theme using the `screenshot_gen` tool.
-   - `pushd tools && python3 -m screenshot_gen && popd`. This will generate new screenshots where they are missing.
-   - If you have `oxipng` or `zopflipng` installed, the screenshot will be optimized for you.
-5. Run `generate_screenshots_readme.py` to include your theme's screenshot in the `screenshots/README.md` file:
-   - `python3 tools/generate_screenshots_readme.py`
-6. Update `README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
+3. Continue with the "Create derived versions" below.
 
-#### Color Space
+##### Color Space
 
 iTerm seems to store the colors in its color presets in P3 color space.
 The tools only can handle sRGB color space.
@@ -143,6 +136,33 @@ python3 tools/p3tosRGB.py schemes/YOUR_SCHEME
 ```
 
 This will overwrite your scheme with a converted version.
+
+#### Have a theme in another format?
+
+1. Convert it to the YAML format specified in `yaml/README.md`.
+   This is an extension of the format supported by the [Gogh](https://github.com/Gogh-Co/Gogh/) project.
+   * If it helps, you can use `tools/kitty_to_yaml.py` and `tools/ghostty_to_yaml.py`.
+     These tools accept configuration file streamed into stdin, and output a YAML fragment to stdout. 
+2. Put the YAML file in `yaml/`, with the `.yml` extension.
+3. Continue with the "Create derived versions" below.
+
+#### Create derived versions
+
+If you have `make` installed, steps 1 to 4 can be run with `make` from the root of the repository.
+
+1. Generate other formats for your theme using the `gen.py` script.
+   - `python3 tools/gen.py`
+2. If you only want to generate files for your theme, you can specify this with the `-s` flag.
+   - `python3 tools/gen.py -s Dracula`
+3. Generate a screenshot of your theme using the `screenshot_gen` tool.
+   - `pushd tools && python3 -m screenshot_gen && popd`. This will generate new screenshots where they are missing.
+   - If you have `oxipng` or `zopflipng` installed, the screenshot will be optimized for you.
+4. Run `generate_screenshots_readme.py` to include your theme's screenshot in the `screenshots/README.md` file:
+   - `python3 tools/generate_screenshots_readme.py`
+
+#### Add your theme to the README
+
+1. Update `README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
 
 ### How to add new template
 
