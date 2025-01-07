@@ -121,6 +121,18 @@ class Color:
             "rgb": self.rgb,
         }
 
+    @property
+    def r_float(self) -> float:
+        return self.r / 255
+
+    @property
+    def g_float(self) -> float:
+        return self.g / 255
+
+    @property
+    def b_float(self) -> float:
+        return self.b / 255
+
 
 @dataclasses.dataclass(frozen=True)
 class Theme:
@@ -144,6 +156,7 @@ class Theme:
     def to_dict(self) -> dict[str, Any]:
         return {
             **{key.replace(" ", "_"): color for key, color in self.colors.items()},
+            "colors": self.colors,
             "scheme_name": self.name,
             "Dark_Theme": self.dark_theme,
             "Guint16_Palette": self.guint16_palette,
@@ -242,6 +255,9 @@ def generate_from_template(
     template_name, template_ext = os.path.splitext(template_name)
 
     for name, scheme in schemes.items():
+        if scheme.source_path.suffix == ".itermcolors" == template_ext == ".itermcolors":
+            # Special case: don't overwrite the original iTerm scheme a regeneration of itself.
+            continue
         result = t.render(**scheme.to_dict())
         dest_path = out_dir / f"{template_name}/{name}{template_ext}"
         dest_path.write_text(result, encoding="utf-8")
