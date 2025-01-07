@@ -1290,7 +1290,7 @@
 
 `srcery.png`
 
-![Screenshot](screenshots/srcery.png)
+![image](srcery.png)
 
 `starlight.png`
 
