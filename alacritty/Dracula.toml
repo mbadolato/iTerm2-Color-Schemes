@@ -1,32 +1,32 @@
 # Colors (Dracula)
 
 [colors.bright]
-black = '#555555'
-blue = '#bd93f9'
-cyan = '#8be9fd'
-green = '#50fa7b'
-magenta = '#ff79c6'
-red = '#ff5555'
+black = '#6272a4'
+blue = '#d6acff'
+cyan = '#a4ffff'
+green = '#69ff94'
+magenta = '#ff92df'
+red = '#ff6e6e'
 white = '#ffffff'
-yellow = '#f1fa8c'
+yellow = '#ffffa5'
 
 [colors.cursor]
-cursor = '#bbbbbb'
-text = '#ffffff'
+cursor = '#f8f8f2'
+text = '#282a36'
 
 [colors.normal]
-black = '#000000'
+black = '#21222c'
 blue = '#bd93f9'
 cyan = '#8be9fd'
 green = '#50fa7b'
 magenta = '#ff79c6'
 red = '#ff5555'
-white = '#bbbbbb'
+white = '#f8f8f2'
 yellow = '#f1fa8c'
 
 [colors.primary]
-background = '#1e1f29'
-foreground = '#e6e6e6'
+background = '#282a36'
+foreground = '#f8f8f2'
 
 [colors.selection]
 background = '#44475a'

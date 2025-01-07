@@ -1,43 +1,43 @@
 !
 ! Dracula
 !
-*.foreground:  #e6e6e6
-*.background:  #1e1f29
-*.cursorColor: #bbbbbb
+*.foreground:  #f8f8f2
+*.background:  #282a36
+*.cursorColor: #f8f8f2
 !
 ! Black
-*.color0:      #000000
-*.color8:      #555555
+*.color0:      #21222c
+*.color8:      #6272a4
 !
 ! Red
 *.color1:      #ff5555
-*.color9:      #ff5555
+*.color9:      #ff6e6e
 !
 ! Green
 *.color2:      #50fa7b
-*.color10:     #50fa7b
+*.color10:     #69ff94
 !
 ! Yellow
 *.color3:      #f1fa8c
-*.color11:     #f1fa8c
+*.color11:     #ffffa5
 !
 ! Blue
 *.color4:      #bd93f9
-*.color12:     #bd93f9
+*.color12:     #d6acff
 !
 ! Magenta
 *.color5:      #ff79c6
-*.color13:     #ff79c6
+*.color13:     #ff92df
 !
 ! Cyan
 *.color6:      #8be9fd
-*.color14:     #8be9fd
+*.color14:     #a4ffff
 !
 ! White
-*.color7:      #bbbbbb
+*.color7:      #f8f8f2
 *.color15:     #ffffff
 !
 ! Bold, Italic, Underline
-*.colorBD:     #e6e6e6
+*.colorBD:     #f8f8f2
 !*.colorIT:
 !*.colorUL:
