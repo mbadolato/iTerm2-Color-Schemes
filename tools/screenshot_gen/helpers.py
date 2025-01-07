@@ -12,10 +12,6 @@ screenshots_path = repo_path / "screenshots"
 font_charset = ";" + string.digits + string.ascii_letters
 
 
-def hex_color_to_rgb(hex_color):
-    return tuple(int(hex_color[i : i + 2], 16) for i in (0, 2, 4))
-
-
 def read_schemes_jsonl():
     schemes = {}
     with schemes_jsonl_path.open("r", encoding="utf-8") as inf:
