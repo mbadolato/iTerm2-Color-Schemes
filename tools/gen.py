@@ -45,6 +45,9 @@ import dataclasses
 import json
 import os
 import pathlib
+import sys
+
+import yaml
 import plistlib
 from functools import cached_property
 from typing import Any
@@ -56,6 +59,7 @@ TOOLS_PATH = pathlib.Path(__file__).parent
 TEMPLATES_PATH = TOOLS_PATH / "templates"
 REPO_PATH = pathlib.Path(__file__).parent.parent
 ITERM_SCHEMES_PATH = REPO_PATH / "schemes"
+YAML_SCHEMES_PATH = REPO_PATH / "yaml"
 
 
 @dataclasses.dataclass(frozen=True)
@@ -162,6 +166,72 @@ def read_itermcolors_file(iterm_path: pathlib.Path) -> Theme:
     )
 
 
+yaml_to_iterm_color_name_map = {
+    "background": "Background Color",
+    "bold": "Bold Color",
+    "color_01": "Ansi 0 Color",
+    "color_02": "Ansi 1 Color",
+    "color_03": "Ansi 2 Color",
+    "color_04": "Ansi 3 Color",
+    "color_05": "Ansi 4 Color",
+    "color_06": "Ansi 5 Color",
+    "color_07": "Ansi 6 Color",
+    "color_08": "Ansi 7 Color",
+    "color_09": "Ansi 8 Color",
+    "color_10": "Ansi 9 Color",
+    "color_11": "Ansi 10 Color",
+    "color_12": "Ansi 11 Color",
+    "color_13": "Ansi 12 Color",
+    "color_14": "Ansi 13 Color",
+    "color_15": "Ansi 14 Color",
+    "color_16": "Ansi 15 Color",
+    "cursor": "Cursor Color",
+    "cursor_guide": "Cursor Guide Color",
+    "cursor_text": "Cursor Text Color",
+    "foreground": "Foreground Color",
+    "link": "Link Color",
+    "selection": "Selection Color",
+    "selection_text": "Selected Text Color",
+    "tab": "Tab Color",
+    "underline": "Underline Color",
+}
+
+fallback_color_map = {
+    "Cursor Guide Color": "Cursor Color",
+    "Cursor Text Color": "Foreground Color",
+    "Selected Text Color": "Background Color",
+    "Selection Color": "Foreground Color",
+    "Bold Color": "Foreground Color",
+}
+
+
+def read_yaml_file(yaml_file_path: pathlib.Path) -> Theme:
+    with yaml_file_path.open("r", encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+
+    name = yaml_file_path.stem
+
+    colors_dict = {}
+    for key, value in data.items():
+        if key == "name":
+            name = str(value)
+            continue
+        if key in yaml_to_iterm_color_name_map:
+            colors_dict[yaml_to_iterm_color_name_map[key]] = Color.from_hex(value)
+        else:
+            print(f"{yaml_file_path}: Unknown key {key!r} with value {value!r}", file=sys.stderr)
+
+    for dest_key, src_key in fallback_color_map.items():
+        if dest_key not in colors_dict:
+            colors_dict[dest_key] = colors_dict[src_key]
+
+    return Theme(
+        source_path=yaml_file_path,
+        name=name,
+        colors=colors_dict,
+    )
+
+
 def generate_from_template(
     jinja_env: Environment,
     template_name: str,
@@ -218,10 +288,19 @@ def main() -> None:
 
     scheme_arg = arguments.scheme
     schemes = {}
-    for iterm_scheme in rich.progress.track(ITERM_SCHEMES_PATH.glob("*.itermcolors"), description="Reading schemes"):
+    for iterm_scheme in rich.progress.track(ITERM_SCHEMES_PATH.glob("*.itermcolors"), description="Reading iTerm schemes"):
         name = iterm_scheme.stem
         if scheme_arg is None or name in scheme_arg:
-            schemes[name] = read_itermcolors_file(iterm_scheme)
+            theme = read_itermcolors_file(iterm_scheme)
+            schemes[theme.name] = theme
+
+    # Note: we read iTerm schemes first, then _overwrite_ with the YAML schemes.
+
+    for yml_scheme in rich.progress.track(YAML_SCHEMES_PATH.glob("*.yml"), description="Reading YAML schemes"):
+        name = yml_scheme.stem
+        if scheme_arg is None or name in scheme_arg:
+            theme = read_yaml_file(yml_scheme)
+            schemes[theme.name] = theme
 
     if not schemes:
         parser.error("No schemes found (if you used `-s`, nothing matched)")
