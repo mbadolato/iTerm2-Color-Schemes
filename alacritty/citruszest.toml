@@ -1,0 +1,33 @@
+# Colors (citruszest)
+
+[colors.bright]
+black = '#808080'
+blue = '#33cfff'
+cyan = '#00fff2'
+green = '#1affa3'
+magenta = '#ffb2fe'
+red = '#ff1a75'
+white = '#f9f9f9'
+yellow = '#ffff00'
+
+[colors.cursor]
+cursor = '#666666'
+text = '#f9f9f9'
+
+[colors.normal]
+black = '#404040'
+blue = '#00bfff'
+cyan = '#48d1cc'
+green = '#00cc7a'
+magenta = '#ff90fe'
+red = '#ff5454'
+white = '#bfbfbf'
+yellow = '#ffd400'
+
+[colors.primary]
+background = '#121212'
+foreground = '#bfbfbf'
+
+[colors.selection]
+background = '#ff8c00'
+text = '#f4f4f4'

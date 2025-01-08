@@ -379,6 +379,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/ciapre.png)
 
+### Citruszest
+
+![Screenshot](screenshots/citruszest.png)
+
 ### CLRS
 
 ![Screenshot](screenshots/clrs.png)

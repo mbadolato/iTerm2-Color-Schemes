@@ -220,6 +220,10 @@
 
 ![image](ciapre.png)
 
+`citruszest.png`
+
+![image](citruszest.png)
+
 `clrs.png`
 
 ![image](clrs.png)
@@ -232,10 +236,6 @@
 
 ![image](cobalt_neon.png)
 
-`cobalt_next.png`
-
-![image](cobalt_next.png)
-
 `cobalt_next-dark.png`
 
 ![image](cobalt_next-dark.png)
@@ -243,6 +243,10 @@
 `cobalt_next-minimal.png`
 
 ![image](cobalt_next-minimal.png)
+
+`cobalt_next.png`
+
+![image](cobalt_next.png)
 
 `Coffee.png`
 
