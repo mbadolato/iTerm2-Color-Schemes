@@ -1,0 +1,43 @@
+!
+! citruszest
+!
+*.foreground:  #bfbfbf
+*.background:  #121212
+*.cursorColor: #666666
+!
+! Black
+*.color0:      #404040
+*.color8:      #808080
+!
+! Red
+*.color1:      #ff5454
+*.color9:      #ff1a75
+!
+! Green
+*.color2:      #00cc7a
+*.color10:     #1affa3
+!
+! Yellow
+*.color3:      #ffd400
+*.color11:     #ffff00
+!
+! Blue
+*.color4:      #00bfff
+*.color12:     #33cfff
+!
+! Magenta
+*.color5:      #ff90fe
+*.color13:     #ffb2fe
+!
+! Cyan
+*.color6:      #48d1cc
+*.color14:     #00fff2
+!
+! White
+*.color7:      #bfbfbf
+*.color15:     #f9f9f9
+!
+! Bold, Italic, Underline
+*.colorBD:     #f9f9f9
+!*.colorIT:
+!*.colorUL:

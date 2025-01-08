@@ -76,6 +76,8 @@ The ChallengerDeep theme was found [here](https://github.com/challenger-deep-the
 
 The Chester theme was created by [KH](https://github.com/spectralkh)
 
+The Citruszest theme was created by [zootedb0t](https://github.com/zootedb0t)
+
 The CLRS theme was created by [jasonlong](https://github.com/jasonlong/iterm-clrs)
 
 The Cobalt2 theme was created by [wesbos](https://github.com/wesbos/Cobalt2-iterm)

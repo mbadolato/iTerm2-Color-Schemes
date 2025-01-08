@@ -1,0 +1,12 @@
+# citruszest
+[colors]
+foreground = "#bfbfbf"
+background = "#121212"
+cursor_bg = "#666666"
+cursor_border = "#666666"
+cursor_fg = "#f9f9f9"
+selection_bg = "#ff8c00"
+selection_fg = "#f4f4f4"
+
+ansi = ["#404040","#ff5454","#00cc7a","#ffd400","#00bfff","#ff90fe","#48d1cc","#bfbfbf"]
+brights = ["#808080","#ff1a75","#1affa3","#ffff00","#33cfff","#ffb2fe","#00fff2","#f9f9f9"]
