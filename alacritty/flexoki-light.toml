@@ -1,13 +1,13 @@
 # Colors (flexoki-light)
 
 [colors.bright]
-black = '#575653'
+black = '#b7b5ac'
 blue = '#4385be'
 cyan = '#3aa99f'
 green = '#879a39'
 magenta = '#ce5d97'
 red = '#d14d41'
-white = '#fffcf0'
+white = '#cecdc3'
 yellow = '#d0a215'
 
 [colors.cursor]
@@ -21,7 +21,7 @@ cyan = '#24837b'
 green = '#66800b'
 magenta = '#a02f6f'
 red = '#af3029'
-white = '#f2f0e5'
+white = '#6f6e69'
 yellow = '#ad8301'
 
 [colors.primary]
@@ -29,5 +29,5 @@ background = '#fffcf0'
 foreground = '#100f0f'
 
 [colors.selection]
-background = '#cecdc3'
-text = '#100f0f'
+background = '#6f6e69'
+text = '#fffcf0'
