@@ -25,7 +25,7 @@ def save_scaling_tests(img, dest_path_base):
 def save_downscaled(img, dest_path, *, no_optimize: bool = False):
     oxipng_path = shutil.which("oxipng")
     zopflipng_path = shutil.which("zopflipng")
-    img = img.resize((600, 300), resample=Image.Resampling.LANCZOS).convert("RGB")
+    img = img.resize((600, 300), resample=Image.Resampling.BOX).convert("RGB")
     if not no_optimize and (oxipng_path or zopflipng_path):
         # No need to optimize in PIL
         img.save(dest_path, optimize=False, compress_level=0)
