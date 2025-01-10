@@ -1,0 +1,12 @@
+# CobaltNext
+[colors]
+foreground = "#d8dee9"
+background = "#1b2b34"
+cursor_bg = "#fac863"
+cursor_border = "#fac863"
+cursor_fg = "#d8dee9"
+selection_bg = "#4f5b66"
+selection_fg = "#ffffff"
+
+ansi = ["#000000","#ed5f7d","#99c794","#fac863","#5a9bcf","#c5a5c5","#5fb3b3","#d8dee9"]
+brights = ["#65737e","#d6838c","#c1dcbe","#ffde9b","#8abee7","#edcded","#9be2e2","#ffffff"]

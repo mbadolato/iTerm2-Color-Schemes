@@ -1,0 +1,43 @@
+!
+! Horizon-Bright
+!
+*.foreground:  #06060c
+*.background:  #fdf0ed
+*.cursorColor: #f9cec3
+!
+! Black
+*.color0:      #000000
+*.color8:      #666666
+!
+! Red
+*.color1:      #e95678
+*.color9:      #ec6a88
+!
+! Green
+*.color2:      #29d398
+*.color10:     #3fdaa4
+!
+! Yellow
+*.color3:      #fab795
+*.color11:     #fbc3a7
+!
+! Blue
+*.color4:      #26bbd9
+*.color12:     #3fc4de
+!
+! Magenta
+*.color5:      #ee64ac
+*.color13:     #f075b5
+!
+! Cyan
+*.color6:      #59e1e3
+*.color14:     #6be4e6
+!
+! White
+*.color7:      #555555
+*.color15:     #a5a5a5
+!
+! Bold, Italic, Underline
+*.colorBD:     #06060c
+!*.colorIT:
+!*.colorUL:

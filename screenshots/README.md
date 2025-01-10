@@ -60,6 +60,10 @@
 
 ![image](apple-system-colors.png)
 
+`apple_system_colors_light.png`
+
+![image](apple_system_colors_light.png)
+
 `arcoiris.png`
 
 ![image](arcoiris.png)
@@ -216,6 +220,10 @@
 
 ![image](ciapre.png)
 
+`citruszest.png`
+
+![image](citruszest.png)
+
 `clrs.png`
 
 ![image](clrs.png)
@@ -227,6 +235,18 @@
 `cobalt_neon.png`
 
 ![image](cobalt_neon.png)
+
+`cobalt_next-dark.png`
+
+![image](cobalt_next-dark.png)
+
+`cobalt_next-minimal.png`
+
+![image](cobalt_next-minimal.png)
+
+`cobalt_next.png`
+
+![image](cobalt_next.png)
 
 `Coffee.png`
 
@@ -460,6 +480,38 @@
 
 ![image](galizur.png)
 
+`git_lab-dark-grey.png`
+
+![image](git_lab-dark-grey.png)
+
+`git_lab-dark.png`
+
+![image](git_lab-dark.png)
+
+`git_lab-light.png`
+
+![image](git_lab-light.png)
+
+`github-dark-colorblind.png`
+
+![image](github-dark-colorblind.png)
+
+`github-dark-default.png`
+
+![image](github-dark-default.png)
+
+`github-dark-dimmed.png`
+
+![image](github-dark-dimmed.png)
+
+`github-light-colorblind.png`
+
+![image](github-light-colorblind.png)
+
+`github-light-default.png`
+
+![image](github-light-default.png)
+
 `github.png`
 
 ![image](github.png)
@@ -571,6 +623,10 @@
 `hopscotch_256.png`
 
 ![image](hopscotch_256.png)
+
+`horizon-bright.png`
+
+![image](horizon-bright.png)
 
 `horizon.png`
 
@@ -840,6 +896,38 @@
 
 ![image](monokai-pro.png)
 
+`monokai_classic.png`
+
+![image](monokai_classic.png)
+
+`monokai_pro.png`
+
+![image](monokai_pro.png)
+
+`monokai_pro_light.png`
+
+![image](monokai_pro_light.png)
+
+`monokai_pro_light_sun.png`
+
+![image](monokai_pro_light_sun.png)
+
+`monokai_pro_machine.png`
+
+![image](monokai_pro_machine.png)
+
+`monokai_pro_octagon.png`
+
+![image](monokai_pro_octagon.png)
+
+`monokai_pro_ristretto.png`
+
+![image](monokai_pro_ristretto.png)
+
+`monokai_pro_spectrum.png`
+
+![image](monokai_pro_spectrum.png)
+
 `monokai_remastered.png`
 
 ![image](monokai_remastered.png)
@@ -899,6 +987,10 @@
 `nocturnal_winter.png`
 
 ![image](nocturnal_winter.png)
+
+`nord-wave.png`
+
+![image](nord-wave.png)
 
 `nord.png`
 
@@ -1199,6 +1291,14 @@
 `square.png`
 
 ![image](square.png)
+
+`squirrelsong_dark.png`
+
+![image](squirrelsong_dark.png)
+
+`srcery.png`
+
+![image](srcery.png)
 
 `starlight.png`
 

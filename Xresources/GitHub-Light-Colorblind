@@ -1,0 +1,43 @@
+!
+! GitHub-Light-Colorblind
+!
+*.foreground:  #24292f
+*.background:  #ffffff
+*.cursorColor: #0969da
+!
+! Black
+*.color0:      #24292f
+*.color8:      #57606a
+!
+! Red
+*.color1:      #b35900
+*.color9:      #8a4600
+!
+! Green
+*.color2:      #0550ae
+*.color10:     #0969da
+!
+! Yellow
+*.color3:      #4d2d00
+*.color11:     #633c01
+!
+! Blue
+*.color4:      #0969da
+*.color12:     #218bff
+!
+! Magenta
+*.color5:      #8250df
+*.color13:     #a475f9
+!
+! Cyan
+*.color6:      #1b7c83
+*.color14:     #3192aa
+!
+! White
+*.color7:      #6e7781
+*.color15:     #8c959f
+!
+! Bold, Italic, Underline
+*.colorBD:     #24292f
+!*.colorIT:
+!*.colorUL:

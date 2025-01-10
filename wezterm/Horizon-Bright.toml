@@ -1,0 +1,12 @@
+# Horizon-Bright
+[colors]
+foreground = "#06060c"
+background = "#fdf0ed"
+cursor_bg = "#f9cec3"
+cursor_border = "#f9cec3"
+cursor_fg = "#f9cec3"
+selection_bg = "#f9cec3"
+selection_fg = "#fdf0ed"
+
+ansi = ["#000000","#e95678","#29d398","#fab795","#26bbd9","#ee64ac","#59e1e3","#555555"]
+brights = ["#666666","#ec6a88","#3fdaa4","#fbc3a7","#3fc4de","#f075b5","#6be4e6","#a5a5a5"]

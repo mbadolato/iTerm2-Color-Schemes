@@ -1,24 +1,24 @@
 # Colors (rose-pine-moon)
 
 [colors.bright]
-black = '#817c9c'
-blue = '#3e8fb0'
+black = '#6e6a86'
+blue = '#9ccfd8'
 cyan = '#ea9a97'
-green = '#9ccfd8'
+green = '#3e8fb0'
 magenta = '#c4a7e7'
 red = '#eb6f92'
 white = '#e0def4'
 yellow = '#f6c177'
 
 [colors.cursor]
-cursor = '#59546d'
-text = '#e0def4'
+cursor = '#e0def4'
+text = '#232136'
 
 [colors.normal]
 black = '#393552'
-blue = '#3e8fb0'
+blue = '#9ccfd8'
 cyan = '#ea9a97'
-green = '#9ccfd8'
+green = '#3e8fb0'
 magenta = '#c4a7e7'
 red = '#eb6f92'
 white = '#e0def4'
@@ -29,5 +29,5 @@ background = '#232136'
 foreground = '#e0def4'
 
 [colors.selection]
-background = '#312f44'
+background = '#44415a'
 text = '#e0def4'

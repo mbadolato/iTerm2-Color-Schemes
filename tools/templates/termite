@@ -1,6 +1,8 @@
 [colors]
 background = #{{ Background_Color.hex }}
 cursor = #{{ Cursor_Color.hex }}
+{% if Cursor_Text_Color %}cursor_foreground = #{{ Cursor_Text_Color.hex }}
+{% endif %}
 foreground = #{{ Foreground_Color.hex }}
 color0 = #{{ Ansi_0_Color.hex }}
 color1 = #{{ Ansi_1_Color.hex }}

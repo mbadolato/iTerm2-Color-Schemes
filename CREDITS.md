@@ -24,6 +24,8 @@ The Apple Classic theme was created by [Brian Meyer](https://github.com/CodeMonk
 
 The Apple System Colors theme was created by [Jeremy Bahadirli](https://github.com/jeremybahadirli)
 
+The Apple System Colors Light theme was created by [Aaron-212](https://github.com/Aaron-212). It is based on the Apple System Colors theme.
+
 The Arcoiris theme was created by [some random guy](https://github.com/indyandie)
 
 The Argonaut theme was created by [effkay](https://github.com/effkay/iTerm-argonaut)
@@ -74,11 +76,15 @@ The ChallengerDeep theme was found [here](https://github.com/challenger-deep-the
 
 The Chester theme was created by [KH](https://github.com/spectralkh)
 
+The Citruszest theme was created by [zootedb0t](https://github.com/zootedb0t)
+
 The CLRS theme was created by [jasonlong](https://github.com/jasonlong/iterm-clrs)
 
 The Cobalt2 theme was created by [wesbos](https://github.com/wesbos/Cobalt2-iterm)
 
 The Cobalt Neon theme was created by [vazquez](https://github.com/vazquez/cobalt-neon-iterm)
+
+The CobaltNext themes were created by [davidleininger](https://github.com/davidleininger/cobaltnext-vscode) and were ported by [WardsParadox](https://github.com/WardsParadox)
 
 The coffee theme was created by [cbitterfield](https://github.com/cbitterfield)
 
@@ -156,9 +162,13 @@ The Galaxy theme was created by [jglovier](https://github.com/jglovier/galaxy-th
 
 The "Galizur" theme was crafted by [Raziel Anarki](https://github.com/razielanarki)
 
+The GitHub Dark Default, GitHub Dark Dimmed, GitHub Dark Colorblind, GitHub Light Default, and GitHub Light Colorblind themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the [official GitHub theme](https://github.com/primer/github-vscode-theme) using the [ditto](https://github.com/campvanilla/ditto) tool.
+
 The scheme Github was inspired by the color theme palette used at [Github](https://github.com/) for their UI and in some of their mascot images.
 
 The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncanson)
+
+The GitLab Dark, GitLab Dark Grey, and GitLab Light themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the theme created by [albertorestifo](https://github.com/albertorestifo/gitlab-webide-theme) using the [ditto](https://github.com/campvanilla/ditto) tool.
 
 The Gruber Darker theme was inspired by [Alexey Kutepov](https://github.com/rexim)
 
@@ -194,7 +204,7 @@ The Hivacruz theme was created by [Yann Defretin](https://github.com/kinoute/hiv
 
 The Hopscotch theme was created by [Jan T. Sott](https://github.com/idleberg/Hopscotch)
 
-The Horizon theme was added by [Antonio Camargo](https://github.com/apcamargo). This was based on a prior iTerm2 theme by [Slavko Bojanic](https://github.com/slavkobojanic/horizon-iterm), which was deived from the theme created by [jolaleye](https://github.com/jolaleye/horizon-theme-vscode)
+The Horizon and Horizon Bright themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the theme created by [jolaleye](https://github.com/jolaleye/horizon-theme-vscode) using the [ditto](https://github.com/campvanilla/ditto) tool.
 
 The Hybrid theme was found [here](https://gist.github.com/luan/6362811)
 
@@ -281,6 +291,8 @@ The Nocturnal Winter theme was created by [Shriram Balaji](https://github.com/Sh
 Nord theme was created by [Arctic Ice Studio](https://www.nordtheme.com/) and added by [Teraskull](https://github.com/Teraskull)
 
 Nord-light was created by [Arctic Ice Studio](https://www.nordtheme.com/) and added by [brorbw](https://github.com/brorbw/nord-light-iterm2)
+
+The Nord-wave theme was added by [Antonio Camargo](https://github.com/apcamargo). This theme was converted from the theme created by [dimitrisnl](https://github.com/dimitrisnl/nord-wave) using the [ditto](https://github.com/campvanilla/ditto) tool.
 
 The NvimDark and NvimLight themes were added by [slavamak](https://github.com/slavamak)
 
@@ -377,6 +389,10 @@ The theme Sugarplum was created by [lemonlime0x3C33](https://github.com/lemonlim
 The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
 
 The [starlight](https://github.com/CosmicToast/starlight) theme was created by [toast](https://github.com/CosmicToast).
+
+The [Squirrelsong Dark](https://github.com/sapegin/squirrelsong) theme was created by [sapegin](https://github.com/sapegin).
+
+The [Srcery](https://github.com/srcery-colors) theme was created by [Roosta](https://github.com/roosta).
 
 The synthwave theme was created by [brettstil](https://github.com/brettstil/)
 

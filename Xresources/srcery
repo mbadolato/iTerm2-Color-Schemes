@@ -1,0 +1,43 @@
+!
+! srcery
+!
+*.foreground:  #fce8c3
+*.background:  #1c1b19
+*.cursorColor: #fbb829
+!
+! Black
+*.color0:      #1c1b19
+*.color8:      #918175
+!
+! Red
+*.color1:      #ef2f27
+*.color9:      #f75341
+!
+! Green
+*.color2:      #519f50
+*.color10:     #98bc37
+!
+! Yellow
+*.color3:      #fbb829
+*.color11:     #fed06e
+!
+! Blue
+*.color4:      #2c78bf
+*.color12:     #68a8e4
+!
+! Magenta
+*.color5:      #e02c6d
+*.color13:     #ff5c8f
+!
+! Cyan
+*.color6:      #0aaeb3
+*.color14:     #2be4d0
+!
+! White
+*.color7:      #baa67f
+*.color15:     #fce8c3
+!
+! Bold, Italic, Underline
+*.colorBD:     #fce8c3
+!*.colorIT:
+!*.colorUL:

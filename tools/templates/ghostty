@@ -17,5 +17,7 @@ palette = 15=#{{ Ansi_15_Color.hex }}
 background = #{{ Background_Color.hex }}
 foreground = #{{ Foreground_Color.hex }}
 cursor-color = #{{ Cursor_Color.hex }}
+{% if Cursor_Text_Color %}cursor-text = #{{ Cursor_Text_Color.hex }}
+{% endif %}
 selection-background = #{{ Selection_Color.hex }}
 selection-foreground = #{{ Selected_Text_Color.hex }}

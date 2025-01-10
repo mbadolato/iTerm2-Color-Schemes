@@ -3,7 +3,7 @@
 !
 *.foreground:  #e0def4
 *.background:  #191724
-*.cursorColor: #555169
+*.cursorColor: #e0def4
 !
 ! Black
 *.color0:      #26233a
@@ -14,16 +14,16 @@
 *.color9:      #eb6f92
 !
 ! Green
-*.color2:      #9ccfd8
-*.color10:     #9ccfd8
+*.color2:      #31748f
+*.color10:     #31748f
 !
 ! Yellow
 *.color3:      #f6c177
 *.color11:     #f6c177
 !
 ! Blue
-*.color4:      #31748f
-*.color12:     #31748f
+*.color4:      #9ccfd8
+*.color12:     #9ccfd8
 !
 ! Magenta
 *.color5:      #c4a7e7

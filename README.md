@@ -219,6 +219,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/apple-system-colors.png)
 
+### Apple System Colors Light
+
+![Screenshot](screenshots/apple_system_colors_light.png)
+
 ### Arcoiris
 
 ![Screenshot](screenshots/arcoiris.png)
@@ -374,6 +378,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Ciapre
 
 ![Screenshot](screenshots/ciapre.png)
+
+### Citruszest
+
+![Screenshot](screenshots/citruszest.png)
 
 ### CLRS
 
@@ -611,6 +619,26 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![image](screenshots/galizur.png)
 
+### GitHub Dark Default
+
+![image](screenshots/github-dark-default.png)
+
+### GitHub Dark Dimmed
+
+![image](screenshots/github-dark-dimmed.png)
+
+### GitHub Dark Colorblind
+
+![image](screenshots/github-dark-colorblind.png)
+
+### GitHub Light Default
+
+![image](screenshots/github-light-default.png)
+
+### GitHub Dark Colorblind
+
+![image](screenshots/github-light-colorblind.png)
+
 ### Github
 
 ![Screenshot](screenshots/github.png)
@@ -618,6 +646,18 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### GitHub Dark
 
 ![Screenshot](screenshots/GitHub_Dark.png)
+
+### GitLab Dark
+
+![Screenshot](screenshots/git_lab-dark.png)
+
+### GitLab Dark Grey
+
+![Screenshot](screenshots/git_lab-dark-grey.png)
+
+### GitLab Light
+
+![Screenshot](screenshots/git_lab-light.png)
 
 ### Glacier
 
@@ -726,6 +766,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Horizon
 
 ![Screenshot](screenshots/horizon.png)
+
+### Horizon Bright
+
+![Screenshot](screenshots/horizon-bright.png)
 
 ### Hurtado
 
@@ -1067,6 +1111,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/nord_light.png)
 
+### Nord-wave
+
+![Screenshot](screenshots/nord-wave.png)
+
 ### NvimDark
 
 ![Screenshot](screenshots/NvimDark.png)
@@ -1363,6 +1411,14 @@ more information.
 ### Square
 
 ![Screenshot](screenshots/square.png)
+
+### Squirrelsong Dark
+
+![Screenshot](screenshots/squirrelsong_dark.png)
+
+### Srcery
+
+![Screenshot](screenshots/srcery.png)
 
 ### Starlight
 
