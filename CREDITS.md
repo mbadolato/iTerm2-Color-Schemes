@@ -162,7 +162,7 @@ The Galaxy theme was created by [jglovier](https://github.com/jglovier/galaxy-th
 
 The "Galizur" theme was crafted by [Raziel Anarki](https://github.com/razielanarki)
 
-The GitHub Dark Default, GitHub Dark Dimmed, GitHub Dark Colorblind, GitHub Light Default, and GitHub Light Colorblind themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the [official GitHub theme](https://github.com/primer/github-vscode-theme) using the [ditto](https://github.com/campvanilla/ditto) tool.
+The GitHub Dark Default, GitHub Dark Dimmed, GitHub Dark Colorblind, GitHub Dark High Contrast, GitHub Light Default, GitHub Light Colorblind, and GitHub Light High Contrast themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the [official GitHub theme](https://github.com/primer/github-vscode-theme) using the [ditto](https://github.com/campvanilla/ditto) tool.
 
 The scheme Github was inspired by the color theme palette used at [Github](https://github.com/) for their UI and in some of their mascot images.
 

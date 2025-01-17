@@ -504,6 +504,10 @@
 
 ![image](github-dark-dimmed.png)
 
+`github-dark-high-contrast.png`
+
+![image](github-dark-high-contrast.png)
+
 `github-light-colorblind.png`
 
 ![image](github-light-colorblind.png)
@@ -511,6 +515,10 @@
 `github-light-default.png`
 
 ![image](github-light-default.png)
+
+`github-light-high-contrast.png`
+
+![image](github-light-high-contrast.png)
 
 `github.png`
 
