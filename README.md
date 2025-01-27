@@ -619,6 +619,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![image](screenshots/galizur.png)
 
+### Ghostty Default StyleDark
+
+![image](screenshots/Ghostty_Default_StyleDark.png)
+
 ### GitHub Dark Default
 
 ![image](screenshots/github-dark-default.png)

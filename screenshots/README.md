@@ -480,6 +480,10 @@
 
 ![image](galizur.png)
 
+`Ghostty_Default_StyleDark.png`
+
+![image](Ghostty_Default_StyleDark.png)
+
 `git_lab-dark-grey.png`
 
 ![image](git_lab-dark-grey.png)
