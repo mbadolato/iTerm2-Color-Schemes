@@ -1405,6 +1405,10 @@ more information.
 
 ![Screenshot](screenshots/solarized-osaka-night.png)
 
+### Sonokai
+
+![Screenshot](screenshots/sonokai.png)
+
 ### SpaceGray
 
 ![Screenshot](screenshots/space_gray.png)
