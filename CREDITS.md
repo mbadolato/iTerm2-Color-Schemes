@@ -120,6 +120,8 @@ The Dracula theme was created by [zenorocha](https://github.com/zenorocha/dracul
 
 The Electron Highlighter theme was created by [mikemcbride](https://github.com/mikemcbride)
 
+The Elegant theme was created by [lukgri](https://github.com/lukgri)
+
 The Elementary OS theme was created by [elementary.io](https://elementary.io/) and added by [987poiuytrewq](https://github.com/987poiuytrewq)
 
 The Embers theme was created by [plyght](https://peril.lol)

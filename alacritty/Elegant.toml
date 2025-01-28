@@ -1,0 +1,33 @@
+# Colors (Elegant)
+
+[colors.bright]
+black = '#575656'
+blue = '#93aadd'
+cyan = '#5faae9'
+green = '#95ca9a'
+magenta = '#bf94e5'
+red = '#ea335b'
+white = '#ffffff'
+yellow = '#f7cd94'
+
+[colors.cursor]
+cursor = '#55bbf9'
+text = '#ffffff'
+
+[colors.normal]
+black = '#0c1221'
+blue = '#93aadd'
+cyan = '#8ccaec'
+green = '#95ca9a'
+magenta = '#bf94e5'
+red = '#ea335b'
+white = '#ffffff'
+yellow = '#f7cd94'
+
+[colors.primary]
+background = '#292b31'
+foreground = '#cfd2d6'
+
+[colors.selection]
+background = '#d5d5d5'
+text = '#224281'

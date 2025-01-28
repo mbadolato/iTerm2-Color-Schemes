@@ -1,0 +1,43 @@
+!
+! Elegant
+!
+*.foreground:  #cfd2d6
+*.background:  #292b31
+*.cursorColor: #55bbf9
+!
+! Black
+*.color0:      #0c1221
+*.color8:      #575656
+!
+! Red
+*.color1:      #ea335b
+*.color9:      #ea335b
+!
+! Green
+*.color2:      #95ca9a
+*.color10:     #95ca9a
+!
+! Yellow
+*.color3:      #f7cd94
+*.color11:     #f7cd94
+!
+! Blue
+*.color4:      #93aadd
+*.color12:     #93aadd
+!
+! Magenta
+*.color5:      #bf94e5
+*.color13:     #bf94e5
+!
+! Cyan
+*.color6:      #8ccaec
+*.color14:     #5faae9
+!
+! White
+*.color7:      #ffffff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f7cd94
+!*.colorIT:
+*.colorUL:     #000000
