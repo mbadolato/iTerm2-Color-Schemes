@@ -507,6 +507,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/electron-highlighter.png)
 
+### Elegant
+
+![Screenshot](screenshots/elegant.png)
+
 ### Elemental
 
 ![Screenshot](screenshots/elemental.png)

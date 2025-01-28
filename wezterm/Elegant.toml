@@ -1,0 +1,12 @@
+# Elegant
+[colors]
+foreground = "#cfd2d6"
+background = "#292b31"
+cursor_bg = "#55bbf9"
+cursor_border = "#55bbf9"
+cursor_fg = "#ffffff"
+selection_bg = "#d5d5d5"
+selection_fg = "#224281"
+
+ansi = ["#0c1221","#ea335b","#95ca9a","#f7cd94","#93aadd","#bf94e5","#8ccaec","#ffffff"]
+brights = ["#575656","#ea335b","#95ca9a","#f7cd94","#93aadd","#bf94e5","#5faae9","#ffffff"]
