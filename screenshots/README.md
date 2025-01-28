@@ -1280,6 +1280,10 @@
 
 ![image](solarized_dark_patched.png)
 
+`sonokai.png`
+
+![image](sonokai.png)
+
 `space_gray.png`
 
 ![image](space_gray.png)
