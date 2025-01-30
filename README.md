@@ -1392,6 +1392,10 @@ more information.
 
 ![Screenshot](screenshots/solarized_dark_higher_contrast.png)
 
+### Solarized Osaka Night
+
+![Screenshot](screenshots/solarized-osaka-night.png)
+
 ### SpaceGray
 
 ![Screenshot](screenshots/space_gray.png)

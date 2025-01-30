@@ -368,6 +368,10 @@
 
 ![image](electron-highlighter.png)
 
+`elegant.png`
+
+![image](elegant.png)
+
 `elemental.png`
 
 ![image](elemental.png)
@@ -479,6 +483,10 @@
 `galizur.png`
 
 ![image](galizur.png)
+
+`ghostty_default_style_dark.png`
+
+![image](ghostty_default_style_dark.png)
 
 `Ghostty_Default_StyleDark.png`
 
@@ -1251,6 +1259,10 @@
 `soft_server.png`
 
 ![image](soft_server.png)
+
+`solarized-osaka-night.png`
+
+![image](solarized-osaka-night.png)
 
 `solarized_darcula.png`
 

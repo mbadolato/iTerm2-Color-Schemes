@@ -1,0 +1,33 @@
+# Colors (solarized-osaka-night)
+
+[colors.bright]
+black = '#424866'
+blue = '#82a1f1'
+cyan = '#90cdfa'
+green = '#a8cd76'
+magenta = '#b69bf1'
+red = '#e77d8f'
+white = '#c2caf1'
+yellow = '#d8b172'
+
+[colors.cursor]
+cursor = '#c2caf1'
+text = '#1a1b25'
+
+[colors.normal]
+black = '#15161d'
+blue = '#82a1f1'
+cyan = '#90cdfa'
+green = '#a8cd76'
+magenta = '#b69bf1'
+red = '#e77d8f'
+white = '#aab1d3'
+yellow = '#d8b172'
+
+[colors.primary]
+background = '#1a1b25'
+foreground = '#c2caf1'
+
+[colors.selection]
+background = '#2a3454'
+text = '#c2caf1'

@@ -1,0 +1,43 @@
+!
+! solarized-osaka-night
+!
+*.foreground:  #c2caf1
+*.background:  #1a1b25
+*.cursorColor: #c2caf1
+!
+! Black
+*.color0:      #15161d
+*.color8:      #424866
+!
+! Red
+*.color1:      #e77d8f
+*.color9:      #e77d8f
+!
+! Green
+*.color2:      #a8cd76
+*.color10:     #a8cd76
+!
+! Yellow
+*.color3:      #d8b172
+*.color11:     #d8b172
+!
+! Blue
+*.color4:      #82a1f1
+*.color12:     #82a1f1
+!
+! Magenta
+*.color5:      #b69bf1
+*.color13:     #b69bf1
+!
+! Cyan
+*.color6:      #90cdfa
+*.color14:     #90cdfa
+!
+! White
+*.color7:      #aab1d3
+*.color15:     #c2caf1
+!
+! Bold, Italic, Underline
+*.colorBD:     #58b99d
+!*.colorIT:
+!*.colorUL:

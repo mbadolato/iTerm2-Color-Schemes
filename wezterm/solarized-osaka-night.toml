@@ -1,0 +1,12 @@
+# solarized-osaka-night
+[colors]
+foreground = "#c2caf1"
+background = "#1a1b25"
+cursor_bg = "#c2caf1"
+cursor_border = "#c2caf1"
+cursor_fg = "#1a1b25"
+selection_bg = "#2a3454"
+selection_fg = "#c2caf1"
+
+ansi = ["#15161d","#e77d8f","#a8cd76","#d8b172","#82a1f1","#b69bf1","#90cdfa","#aab1d3"]
+brights = ["#424866","#e77d8f","#a8cd76","#d8b172","#82a1f1","#b69bf1","#90cdfa","#c2caf1"]
