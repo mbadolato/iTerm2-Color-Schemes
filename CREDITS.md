@@ -372,6 +372,8 @@ The themes Solarized Dark and Solarized Light come from the official [Solarized 
 
 The Solorized Dark Higher Contrast theme was created by [heisters](https://gist.github.com/heisters/1015503)
 
+The Solarized Osaka Night theme came from work by [craftzdog](https://github.com/craftzdog/solarized-osaka.nvim) and was contributed to this project by [johnstegeman](https://github.com/johnstegeman)
+
 The Spacedust theme was created by [mhallendal](https://github.com/mhallendal/spacedust-theme) and ported to iTerm by [Couto](https://github.com/Couto)
 
 The SpaceGray theme was created by [ryentzer](https://github.com/ryentzer/SpaceGray-iTerm)
