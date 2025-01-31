@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+{% for key, color in colors|dictsort %}
+	<key>{{ key }}</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>{{ color.b_float|round(4) }}</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>{{ color.g_float|round(4) }}</real>
+		<key>Red Component</key>
+		<real>{{ color.r_float|round(4) }}</real>
+	</dict>
+{% endfor %}
+</dict>
+</plist>
