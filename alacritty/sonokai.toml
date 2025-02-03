@@ -1,0 +1,33 @@
+# Colors (sonokai)
+
+[colors.bright]
+black = '#7f8490'
+blue = '#76cce0'
+cyan = '#f39660'
+green = '#9ed072'
+magenta = '#b39df3'
+red = '#fc5d7c'
+white = '#e2e2e3'
+yellow = '#e7c664'
+
+[colors.cursor]
+cursor = '#e2e2e3'
+text = '#2c2e34'
+
+[colors.normal]
+black = '#181819'
+blue = '#76cce0'
+cyan = '#f39660'
+green = '#9ed072'
+magenta = '#b39df3'
+red = '#fc5d7c'
+white = '#e2e2e3'
+yellow = '#e7c664'
+
+[colors.primary]
+background = '#2c2e34'
+foreground = '#e2e2e3'
+
+[colors.selection]
+background = '#414550'
+text = '#e2e2e3'
