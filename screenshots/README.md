@@ -1376,6 +1376,10 @@
 
 ![image](terminal_basic.png)
 
+`terminal_basic_dark.png`
+
+![image](terminal_basic_dark.png)
+
 `thayer_bright.png`
 
 ![image](thayer_bright.png)

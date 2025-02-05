@@ -1,0 +1,33 @@
+# Colors (Terminal Basic Dark)
+
+[colors.bright]
+black = '#909090'
+blue = '#d09af9'
+cyan = '#78f1f2'
+green = '#77ea51'
+magenta = '#eb5af7'
+red = '#eb5a3a'
+white = '#ededed'
+yellow = '#efef53'
+
+[colors.cursor]
+cursor = '#9d9d9d'
+text = '#1d1e1d'
+
+[colors.normal]
+black = '#000000'
+blue = '#6444ed'
+cyan = '#69c1cf'
+green = '#6ac44b'
+magenta = '#d357db'
+red = '#c65339'
+white = '#d1d1d1'
+yellow = '#b8b74a'
+
+[colors.primary]
+background = '#1d1e1d'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#3f638a'
+text = '#ffffff'
