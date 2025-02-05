@@ -368,6 +368,10 @@
 
 ![image](electron-highlighter.png)
 
+`elegant.png`
+
+![image](elegant.png)
+
 `elemental.png`
 
 ![image](elemental.png)
