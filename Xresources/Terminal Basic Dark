@@ -1,0 +1,43 @@
+!
+! Terminal Basic Dark
+!
+*.foreground:  #ffffff
+*.background:  #1d1e1d
+*.cursorColor: #9d9d9d
+!
+! Black
+*.color0:      #000000
+*.color8:      #909090
+!
+! Red
+*.color1:      #c65339
+*.color9:      #eb5a3a
+!
+! Green
+*.color2:      #6ac44b
+*.color10:     #77ea51
+!
+! Yellow
+*.color3:      #b8b74a
+*.color11:     #efef53
+!
+! Blue
+*.color4:      #6444ed
+*.color12:     #d09af9
+!
+! Magenta
+*.color5:      #d357db
+*.color13:     #eb5af7
+!
+! Cyan
+*.color6:      #69c1cf
+*.color14:     #78f1f2
+!
+! White
+*.color7:      #d1d1d1
+*.color15:     #ededed
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

@@ -368,10 +368,6 @@
 
 ![image](electron-highlighter.png)
 
-`elegant.png`
-
-![image](elegant.png)
-
 `elemental.png`
 
 ![image](elemental.png)
@@ -1375,6 +1371,10 @@
 `terminal_basic.png`
 
 ![image](terminal_basic.png)
+
+`terminal_basic_dark.png`
+
+![image](terminal_basic_dark.png)
 
 `thayer_bright.png`
 
