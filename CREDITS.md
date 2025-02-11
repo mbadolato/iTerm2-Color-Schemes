@@ -218,6 +218,13 @@ The scheme idleToes was inspired by the [idleFingers](http://www.idlefingers.co.
 
 The IR_Black theme was found [here](https://gist.github.com/meqif/1238378)
 
+The Irix theme was created with the help of ChatGPT.
+[I](https://github.com/Skeeve) worked as a Systems Engineer at Silicon Graphics
+in the 90's and loved our IRIX OS.
+I tried to recreate its terminal color scheme but I'm unsure about its
+correctness.
+So any help will be appreciated.
+
 The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors)
 
 The Jellybeans theme was created by [qtpi](https://github.com/qtpi/Jellybeans.itermcolors)

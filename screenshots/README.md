@@ -368,10 +368,6 @@
 
 ![image](electron-highlighter.png)
 
-`elegant.png`
-
-![image](elegant.png)
-
 `elemental.png`
 
 ![image](elemental.png)
@@ -687,6 +683,10 @@
 `ir_black.png`
 
 ![image](ir_black.png)
+
+`irix.png`
+
+![image](irix.png)
 
 `iterm2-dark-background.png`
 

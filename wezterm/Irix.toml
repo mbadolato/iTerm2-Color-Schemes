@@ -1,0 +1,12 @@
+# Irix
+[colors]
+foreground = "#ffffff"
+background = "#003366"
+cursor_bg = "#5ac439"
+cursor_border = "#5ac439"
+cursor_fg = "#000000"
+selection_bg = "#c7ddfc"
+selection_fg = "#000000"
+
+ansi = ["#000000","#8b0000","#006400","#8b8b00","#00008b","#8b008b","#008b8b","#a9a9a9"]
+brights = ["#686868","#ff0000","#00ff00","#ffff00","#0000ff","#ff00ff","#00ffff","#ffffff"]

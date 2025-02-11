@@ -819,6 +819,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/ir_black.png)
 
+### Irix
+
+![Screenshot](screenshots/irix.png)
+
 ### iTerm2 Default
 
 ![Screenshot](screenshots/iterm2-default.png)

@@ -1,0 +1,43 @@
+!
+! Irix
+!
+*.foreground:  #ffffff
+*.background:  #003366
+*.cursorColor: #5ac439
+!
+! Black
+*.color0:      #000000
+*.color8:      #686868
+!
+! Red
+*.color1:      #8b0000
+*.color9:      #ff0000
+!
+! Green
+*.color2:      #006400
+*.color10:     #00ff00
+!
+! Yellow
+*.color3:      #8b8b00
+*.color11:     #ffff00
+!
+! Blue
+*.color4:      #00008b
+*.color12:     #0000ff
+!
+! Magenta
+*.color5:      #8b008b
+*.color13:     #ff00ff
+!
+! Cyan
+*.color6:      #008b8b
+*.color14:     #00ffff
+!
+! White
+*.color7:      #a9a9a9
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ac4af6
+!*.colorIT:
+!*.colorUL:
