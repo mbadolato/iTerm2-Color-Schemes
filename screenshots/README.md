@@ -1,1573 +1,1543 @@
+
 # Screenshots
 
-`0x96f.png`
+The screenshots are categorized.
+
+- [Dark Themes](#darkthemes)
+- [Light Themes](#lightthemes)
+
+## Dark Themes<a name="darkthemes"><a/>
+
+`0x96f`
 
 ![image](0x96f.png)
 
-`3024_day.png`
-
-![image](3024_day.png)
-
-`3024_night.png`
+`3024 Night`
 
 ![image](3024_night.png)
 
-`aardvark_blue.png`
+`Aardvark Blue`
 
 ![image](aardvark_blue.png)
 
-`abernathy.png`
+`Abernathy`
 
 ![image](abernathy.png)
 
-`adventure.png`
+`Adventure`
 
 ![image](adventure.png)
 
-`adventure_time.png`
+`AdventureTime`
 
 ![image](adventure_time.png)
 
-`adwaita.png`
-
-![image](adwaita.png)
-
-`adwaita_dark.png`
+`Adwaita Dark`
 
 ![image](adwaita_dark.png)
 
-`afterglow.png`
+`Afterglow`
 
 ![image](afterglow.png)
 
-`alabaster.png`
-
-![image](alabaster.png)
-
-`alien_blood.png`
+`AlienBlood`
 
 ![image](alien_blood.png)
 
-`andromeda.png`
+`Andromeda`
 
 ![image](andromeda.png)
 
-`apple-classic.png`
+`Apple Classic`
 
 ![image](apple-classic.png)
 
-`apple-system-colors.png`
+`Apple System Colors`
 
 ![image](apple-system-colors.png)
 
-`apple_system_colors_light.png`
-
-![image](apple_system_colors_light.png)
-
-`arcoiris.png`
+`arcoiris`
 
 ![image](arcoiris.png)
 
-`argonaut.png`
+`Argonaut`
 
 ![image](argonaut.png)
 
-`arthur.png`
+`Arthur`
 
 ![image](arthur.png)
 
-`atelier-sulphurpool_dark.png`
+`AtelierSulphurpool`
 
 ![image](atelier-sulphurpool_dark.png)
 
-`atom.png`
+`Atom`
 
 ![image](atom.png)
 
-`atom_one_light.png`
-
-![image](atom_one_light.png)
-
-`aura.png`
+`Aura`
 
 ![image](aura.png)
 
-`aurora.png`
+`Aurora`
 
 ![image](aurora.png)
 
-`ayu.png`
-
-![image](ayu.png)
-
-`ayu_light.png`
-
-![image](ayu_light.png)
-
-`ayu_mirage.png`
+`Ayu Mirage`
 
 ![image](ayu_mirage.png)
 
-`banana_blueberry.png`
+`ayu`
+
+![image](ayu.png)
+
+`Banana Blueberry`
 
 ![image](banana_blueberry.png)
 
-`batman.png`
+`Batman`
 
 ![image](batman.png)
 
-`belafonte_day.png`
-
-![image](belafonte_day.png)
-
-`belafonte_night.png`
+`Belafonte Night`
 
 ![image](belafonte_night.png)
 
-`birds_of_paradise.png`
+`BirdsOfParadise`
 
 ![image](birds_of_paradise.png)
 
-`blazer.png`
+`Blazer`
 
 ![image](blazer.png)
 
-`blue_matrix.png`
+`Blue Matrix`
 
 ![image](blue_matrix.png)
 
-`blueberry_pie.png`
+`BlueBerryPie`
 
 ![image](blueberry_pie.png)
 
-`BlueDolphin.png`
+`BlueDolphin`
 
 ![image](BlueDolphin.png)
 
-`bluloco_dark.png`
+`BlulocoDark`
 
 ![image](bluloco_dark.png)
 
-`bluloco_light.png`
-
-![image](bluloco_light.png)
-
-`borland.png`
+`Borland`
 
 ![image](borland.png)
 
-`breeze.png`
+`Breeze`
 
 ![image](breeze.png)
 
-`bright_lights.png`
+`Bright Lights`
 
 ![image](bright_lights.png)
 
-`broadcast.png`
+`Broadcast`
 
 ![image](broadcast.png)
 
-`brogrammer.png`
+`Brogrammer`
 
 ![image](brogrammer.png)
 
-`c64.png`
+`C64`
 
 ![image](c64.png)
 
-`calamity.png`
+`Calamity`
 
 ![image](calamity.png)
 
-`catppuccin-frappe.png`
+`catppuccin-frappe`
 
 ![image](catppuccin-frappe.png)
 
-`catppuccin-latte.png`
-
-![image](catppuccin-latte.png)
-
-`catppuccin-macchiato.png`
+`catppuccin-macchiato`
 
 ![image](catppuccin-macchiato.png)
 
-`catppuccin-mocha.png`
+`catppuccin-mocha`
 
 ![image](catppuccin-mocha.png)
 
-`CGA.png`
+`CGA`
 
-![image](CGA.png)
+![image](cga.png)
 
-`chalk.png`
+`Chalk`
 
 ![image](chalk.png)
 
-`chalkboard.png`
+`Chalkboard`
 
 ![image](chalkboard.png)
 
-`challenger_deep.png`
+`ChallengerDeep`
 
 ![image](challenger_deep.png)
 
-`chester.png`
+`Chester`
 
 ![image](chester.png)
 
-`ciapre.png`
+`Ciapre`
 
 ![image](ciapre.png)
 
-`citruszest.png`
+`citruszest`
 
 ![image](citruszest.png)
 
-`clrs.png`
-
-![image](clrs.png)
-
-`cobalt2.png`
-
-![image](cobalt2.png)
-
-`cobalt_neon.png`
+`Cobalt Neon`
 
 ![image](cobalt_neon.png)
 
-`cobalt_next-dark.png`
+`Cobalt2`
+
+![image](cobalt2.png)
+
+`CobaltNext-Dark`
 
 ![image](cobalt_next-dark.png)
 
-`cobalt_next-minimal.png`
+`CobaltNext-Minimal`
 
 ![image](cobalt_next-minimal.png)
 
-`cobalt_next.png`
+`CobaltNext`
 
 ![image](cobalt_next.png)
 
-`Coffee.png`
-
-![image](Coffee.png)
-
-`crayon_pony_fish.png`
+`CrayonPonyFish`
 
 ![image](crayon_pony_fish.png)
 
-`CutiePro.png`
+`CutiePro`
 
 ![image](CutiePro.png)
 
-`cyberdyne.png`
+`Cyberdyne`
 
 ![image](cyberdyne.png)
 
-`cyberpunk.png`
+`cyberpunk`
 
 ![image](cyberpunk.png)
 
-`cyberpunk_scarlet_protocol.png`
+`CyberpunkScarletProtocol`
 
 ![image](cyberpunk_scarlet_protocol.png)
 
-`dark_modern.png`
+`Dark Modern`
 
 ![image](dark_modern.png)
 
-`dark_pastel.png`
+`Dark Pastel`
 
 ![image](dark_pastel.png)
 
-`dark_plus.png`
+`Dark+`
 
 ![image](dark_plus.png)
 
-`darkermatrix.png`
+`darkermatrix`
 
 ![image](darkermatrix.png)
 
-`darkmatrix.png`
+`darkmatrix`
 
 ![image](darkmatrix.png)
 
-`darkside.png`
+`Darkside`
 
 ![image](darkside.png)
 
-`dayfox.png`
-
-![image](dayfox.png)
-
-`deep.png`
+`deep`
 
 ![image](deep.png)
 
-`desert.png`
+`Desert`
 
 ![image](desert.png)
 
-`detuned.png`
+`detuned`
 
 ![image](detuned.png)
 
-`dimidium.png`
+`Dimidium`
 
 ![image](dimidium.png)
 
-`dimmed_monokai.png`
+`DimmedMonokai`
 
 ![image](dimmed_monokai.png)
 
-`Django.png`
+`Django`
 
-![image](Django.png)
+![image](django.png)
 
-`DjangoRebornAgain.png`
+`DjangoRebornAgain`
 
 ![image](DjangoRebornAgain.png)
 
-`DjangoSmoothy.png`
+`DjangoSmooth`
 
 ![image](DjangoSmoothy.png)
 
-`doom_one.png`
-
-![image](doom_one.png)
-
-`doom_peacock.png`
+`Doom Peacock`
 
 ![image](doom_peacock.png)
 
-`dot_gov.png`
+`DoomOne`
+
+![image](doom_one.png)
+
+`DotGov`
 
 ![image](dot_gov.png)
 
-`Dracula+.png`
+`Dracula+`
 
-![image](Dracula+.png)
+![image](dracula+.png)
 
-`dracula.png`
+`Dracula`
 
 ![image](dracula.png)
 
-`duckbones.png`
+`duckbones`
 
 ![image](duckbones.png)
 
-`duotone_dark.png`
+`Duotone Dark`
 
 ![image](duotone_dark.png)
 
-`earthsong.png`
+`Earthsong`
 
 ![image](earthsong.png)
 
-`electron-highlighter.png`
+`electron-highlighter`
 
 ![image](electron-highlighter.png)
 
-`elegant.png`
+`Elegant`
 
 ![image](elegant.png)
 
-`elemental.png`
+`Elemental`
 
 ![image](elemental.png)
 
-`elementary.png`
+`Elementary`
 
 ![image](elementary.png)
 
-`embers.png`
+`embers-dark`
 
 ![image](embers.png)
 
-`encom.png`
+`ENCOM`
 
 ![image](encom.png)
 
-`espresso.png`
-
-![image](espresso.png)
-
-`espresso_libre.png`
+`Espresso Libre`
 
 ![image](espresso_libre.png)
 
-`everblush.png`
+`Espresso`
+
+![image](espresso.png)
+
+`Everblush`
 
 ![image](everblush.png)
 
-`everforest_dark_hard.png`
+`Everforest Dark - Hard`
 
 ![image](everforest_dark_hard.png)
 
-`fahrenheit.png`
+`Fahrenheit`
 
 ![image](fahrenheit.png)
 
-`fairyfloss.png`
+`Fairyfloss`
 
 ![image](fairyfloss.png)
 
-`farmhouse-dark.png`
+`farmhouse-dark`
 
 ![image](farmhouse-dark.png)
 
-`farmhouse-light.png`
-
-![image](farmhouse-light.png)
-
-`fideloper.png`
+`Fideloper`
 
 ![image](fideloper.png)
 
-`firefly-traditional.png`
+`Firefly Traditional`
 
 ![image](firefly-traditional.png)
 
-`firefox_dev.png`
+`FirefoxDev`
 
 ![image](firefox_dev.png)
 
-`firewatch.png`
+`Firewatch`
 
 ![image](firewatch.png)
 
-`fish_tank.png`
+`FishTank`
 
 ![image](fish_tank.png)
 
-`flat.png`
+`Flat`
 
 ![image](flat.png)
 
-`flatland.png`
+`Flatland`
 
 ![image](flatland.png)
 
-`flexoki-dark.png`
+`flexoki-dark`
 
 ![image](flexoki-dark.png)
 
-`flexoki-light.png`
-
-![image](flexoki-light.png)
-
-`floraverse.png`
+`Floraverse`
 
 ![image](floraverse.png)
 
-`forest_blue.png`
+`ForestBlue`
 
 ![image](forest_blue.png)
 
-`framer.png`
+`Framer`
 
 ![image](framer.png)
 
-`front_end_delight.png`
+`FrontEndDelight`
 
 ![image](front_end_delight.png)
 
-`fun_forrest.png`
+`FunForrest`
 
 ![image](fun_forrest.png)
 
-`galaxy.png`
+`Galaxy`
 
 ![image](galaxy.png)
 
-`galizur.png`
+`Galizur`
 
 ![image](galizur.png)
 
-`ghostty_default_style_dark.png`
+`Ghostty Default StyleDark`
 
 ![image](ghostty_default_style_dark.png)
 
-`Ghostty_Default_StyleDark.png`
+`GitHub Dark`
 
-![image](Ghostty_Default_StyleDark.png)
+![image](github_dark.png)
 
-`git_lab-dark-grey.png`
-
-![image](git_lab-dark-grey.png)
-
-`git_lab-dark.png`
-
-![image](git_lab-dark.png)
-
-`git_lab-light.png`
-
-![image](git_lab-light.png)
-
-`github-dark-colorblind.png`
+`GitHub-Dark-Colorblind`
 
 ![image](github-dark-colorblind.png)
 
-`github-dark-default.png`
+`GitHub-Dark-Default`
 
 ![image](github-dark-default.png)
 
-`github-dark-dimmed.png`
+`GitHub-Dark-Dimmed`
 
 ![image](github-dark-dimmed.png)
 
-`github-dark-high-contrast.png`
+`GitHub-Dark-High-Contrast`
 
 ![image](github-dark-high-contrast.png)
 
-`github-light-colorblind.png`
+`GitLab-Dark-Grey`
 
-![image](github-light-colorblind.png)
+![image](git_lab-dark-grey.png)
 
-`github-light-default.png`
+`GitLab-Dark`
 
-![image](github-light-default.png)
+![image](git_lab-dark.png)
 
-`github-light-high-contrast.png`
-
-![image](github-light-high-contrast.png)
-
-`github.png`
-
-![image](github.png)
-
-`GitHub_Dark.png`
-
-![image](GitHub_Dark.png)
-
-`glacier.png`
+`Glacier`
 
 ![image](glacier.png)
 
-`grape.png`
+`Grape`
 
 ![image](grape.png)
 
-`grass.png`
+`Grass`
 
 ![image](grass.png)
 
-`Grey-green.png`
+`Grey-green`
 
-![image](Grey-green.png)
+![image](grey-green.png)
 
-`gruber-darker.png`
+`gruber-darker`
 
 ![image](gruber-darker.png)
 
-`gruvbox_dark.png`
-
-![image](gruvbox_dark.png)
-
-`gruvbox_dark_hard.png`
-
-![image](gruvbox_dark_hard.png)
-
-`gruvbox_light.png`
-
-![image](gruvbox_light.png)
-
-`gruvbox_light_hard.png`
-
-![image](gruvbox_light_hard.png)
-
-`gruvbox_material.png`
+`gruvbox-material`
 
 ![image](gruvbox_material.png)
 
-`Guezwhoz.png`
+`GruvboxDark`
 
-![image](Guezwhoz.png)
+![image](gruvbox_dark.png)
 
-`hacktober.png`
+`GruvboxDarkHard`
+
+![image](gruvbox_dark_hard.png)
+
+`Guezwhoz`
+
+![image](guezwhoz.png)
+
+`Hacktober`
 
 ![image](hacktober.png)
 
-`hardcore.png`
+`Hardcore`
 
 ![image](hardcore.png)
 
-`harper.png`
+`Harper`
 
 ![image](harper.png)
 
-`havn_daggry.png`
-
-![image](havn_daggry.png)
-
-`havn_skumring.png`
+`Havn Skumring`
 
 ![image](havn_skumring.png)
 
-`HaX0R_BLUE.png`
+`HaX0R_BLUE`
 
-![image](HaX0R_BLUE.png)
+![image](hax0r_blue.png)
 
-`HaX0R_GR33N.png`
+`HaX0R_GR33N`
 
-![image](HaX0R_GR33N.png)
+![image](hax0r_gr33n.png)
 
-`HaX0R_R3D.png`
+`HaX0R_R3D`
 
-![image](HaX0R_R3D.png)
+![image](hax0r_r3d.png)
 
-`heeler.png`
+`heeler`
 
 ![image](heeler.png)
 
-`highway.png`
+`Highway`
 
 ![image](highway.png)
 
-`hipster_green.png`
+`Hipster Green`
 
 ![image](hipster_green.png)
 
-`hivacruz.png`
+`Hivacruz`
 
 ![image](hivacruz.png)
 
-`homebrew.png`
+`Homebrew`
 
 ![image](homebrew.png)
 
-`hopscotch.png`
-
-![image](hopscotch.png)
-
-`hopscotch_256.png`
+`Hopscotch.256`
 
 ![image](hopscotch_256.png)
 
-`horizon-bright.png`
+`Hopscotch`
 
-![image](horizon-bright.png)
+![image](hopscotch.png)
 
-`horizon.png`
+`Horizon`
 
 ![image](horizon.png)
 
-`hurtado.png`
+`Hurtado`
 
 ![image](hurtado.png)
 
-`hybrid.png`
+`Hybrid`
 
 ![image](hybrid.png)
 
-`ic_green_ppl.png`
+`IC_Green_PPL`
 
 ![image](ic_green_ppl.png)
 
-`ic_orange_ppl.png`
+`IC_Orange_PPL`
 
 ![image](ic_orange_ppl.png)
 
-`iceberg-light.png`
-
-![image](iceberg-light.png)
-
-`iceberg.png`
+`iceberg-dark`
 
 ![image](iceberg.png)
 
-`idea.png`
+`idea`
 
 ![image](idea.png)
 
-`idleToes.png`
+`idleToes`
 
 ![image](idleToes.png)
 
-`ir_black.png`
+`IR_Black`
 
 ![image](ir_black.png)
 
-`iterm2-dark-background.png`
+`iTerm2 Dark Background`
 
 ![image](iterm2-dark-background.png)
 
-`iterm2-default.png`
+`iTerm2 Default`
 
 ![image](iterm2-default.png)
 
-`iterm2-light-background.png`
-
-![image](iterm2-light-background.png)
-
-`iterm2-pastel-dark-background.png`
+`iTerm2 Pastel Dark Background`
 
 ![image](iterm2-pastel-dark-background.png)
 
-`iterm2-smoooooth.png`
+`iTerm2 Smoooooth`
 
 ![image](iterm2-smoooooth.png)
 
-`iterm2-solarized-dark.png`
+`iTerm2 Solarized Dark`
 
 ![image](iterm2-solarized-dark.png)
 
-`iterm2-solarized-light.png`
-
-![image](iterm2-solarized-light.png)
-
-`iterm2-tango-dark.png`
+`iTerm2 Tango Dark`
 
 ![image](iterm2-tango-dark.png)
 
-`iterm2-tango-light.png`
-
-![image](iterm2-tango-light.png)
-
-`jackie_brown.png`
+`Jackie Brown`
 
 ![image](jackie_brown.png)
 
-`japanesque.png`
+`Japanesque`
 
 ![image](japanesque.png)
 
-`jellybeans.png`
+`Jellybeans`
 
 ![image](jellybeans.png)
 
-`jetbrains_darcula.png`
+`JetBrains Darcula`
 
 ![image](jetbrains_darcula.png)
 
-`jubi.png`
+`jubi`
 
 ![image](jubi.png)
 
-`kanagawa-dragon.png`
+`Kanagawa Dragon`
 
 ![image](kanagawa-dragon.png)
 
-`kanagawa-wave.png`
+`Kanagawa Wave`
 
 ![image](kanagawa-wave.png)
 
-`kanagawabones.png`
+`kanagawabones`
 
 ![image](kanagawabones.png)
 
-`kibble.png`
+`Kibble`
 
 ![image](kibble.png)
 
-`kolorit.png`
+`Kolorit`
 
 ![image](kolorit.png)
 
-`konsolas.png`
+`Konsolas`
 
 ![image](konsolas.png)
 
-`kurokula.png`
+`kurokula`
 
 ![image](kurokula.png)
 
-`lab_fox.png`
+`Lab Fox`
 
 ![image](lab_fox.png)
 
-`laser.png`
+`Laser`
 
 ![image](laser.png)
 
-`later_this_evening.png`
+`Later This Evening`
 
 ![image](later_this_evening.png)
 
-`lavandula.png`
+`Lavandula`
 
 ![image](lavandula.png)
 
-`liquid_carbon.png`
+`LiquidCarbon`
 
 ![image](liquid_carbon.png)
 
-`liquid_carbon_transparent.png`
+`LiquidCarbonTransparent`
 
 ![image](liquid_carbon_transparent.png)
 
-`liquid_carbon_transparent_inverse.png`
+`LiquidCarbonTransparentInverse`
 
 ![image](liquid_carbon_transparent_inverse.png)
 
-`LoveLace.png`
+`lovelace`
 
-![image](LoveLace.png)
+![image](lovelace.png)
 
-`man_page.png`
-
-![image](man_page.png)
-
-`mariana.png`
+`Mariana`
 
 ![image](mariana.png)
 
-`material.png`
-
-![image](material.png)
-
-`material_dark.png`
+`MaterialDark`
 
 ![image](material_dark.png)
 
-`material_darker.png`
+`MaterialDarker`
 
 ![image](material_darker.png)
 
-`material_design_colors.png`
+`MaterialDesignColors`
 
 ![image](material_design_colors.png)
 
-`material_ocean.png`
+`MaterialOcean`
 
 ![image](material_ocean.png)
 
-`mathias.png`
+`Mathias`
 
 ![image](mathias.png)
 
-`matrix.png`
+`matrix`
 
 ![image](matrix.png)
 
-`medallion.png`
+`Medallion`
 
 ![image](medallion.png)
 
-`melange_dark.png`
+`Melange_dark`
 
 ![image](melange_dark.png)
 
-`melange_light.png`
-
-![image](melange_light.png)
-
-`mellifluous.png`
+`Mellifluous`
 
 ![image](mellifluous.png)
 
-`mellow.png`
+`mellow`
 
 ![image](mellow.png)
 
-`miasma.png`
+`miasma`
 
 ![image](miasma.png)
 
-`midnight_in_mojave.png`
+`midnight-in-mojave`
 
 ![image](midnight_in_mojave.png)
 
-`mirage.png`
+`Mirage`
 
 ![image](mirage.png)
 
-`misterioso.png`
+`Misterioso`
 
 ![image](misterioso.png)
 
-`molokai.png`
+`Molokai`
 
 ![image](molokai.png)
 
-`mona_lisa.png`
+`MonaLisa`
 
 ![image](mona_lisa.png)
 
-`monokai-classic.png`
-
-![image](monokai-classic.png)
-
-`monokai-pro-light-sun.png`
-
-![image](monokai-pro-light-sun.png)
-
-`monokai-pro-light.png`
-
-![image](monokai-pro-light.png)
-
-`monokai-pro-machine.png`
-
-![image](monokai-pro-machine.png)
-
-`monokai-pro-octagon.png`
-
-![image](monokai-pro-octagon.png)
-
-`monokai-pro-ristretto.png`
-
-![image](monokai-pro-ristretto.png)
-
-`monokai-pro-spectrum.png`
-
-![image](monokai-pro-spectrum.png)
-
-`monokai-pro.png`
-
-![image](monokai-pro.png)
-
-`monokai_classic.png`
+`Monokai Classic`
 
 ![image](monokai_classic.png)
 
-`monokai_pro.png`
-
-![image](monokai_pro.png)
-
-`monokai_pro_light.png`
-
-![image](monokai_pro_light.png)
-
-`monokai_pro_light_sun.png`
-
-![image](monokai_pro_light_sun.png)
-
-`monokai_pro_machine.png`
+`Monokai Pro Machine`
 
 ![image](monokai_pro_machine.png)
 
-`monokai_pro_octagon.png`
+`Monokai Pro Octagon`
 
 ![image](monokai_pro_octagon.png)
 
-`monokai_pro_ristretto.png`
+`Monokai Pro Ristretto`
 
 ![image](monokai_pro_ristretto.png)
 
-`monokai_pro_spectrum.png`
+`Monokai Pro Spectrum`
 
 ![image](monokai_pro_spectrum.png)
 
-`monokai_remastered.png`
+`Monokai Pro`
+
+![image](monokai_pro.png)
+
+`Monokai Remastered`
 
 ![image](monokai_remastered.png)
 
-`monokai_soda.png`
+`Monokai Soda`
 
 ![image](monokai_soda.png)
 
-`monokai_vivid.png`
+`Monokai Vivid`
 
 ![image](monokai_vivid.png)
 
-`n0tch2k.png`
+`N0tch2k`
 
 ![image](n0tch2k.png)
 
-`neobones_dark.png`
+`neobones_dark`
 
 ![image](neobones_dark.png)
 
-`neobones_light.png`
-
-![image](neobones_light.png)
-
-`neon.png`
+`Neon`
 
 ![image](neon.png)
 
-`neopolitan.png`
+`Neopolitan`
 
 ![image](neopolitan.png)
 
-`neutron.png`
+`Neutron`
 
 ![image](neutron.png)
 
-`night_owlish_light.png`
-
-![image](night_owlish_light.png)
-
-`nightfox.png`
+`nightfox`
 
 ![image](nightfox.png)
 
-`nightlion_v1.png`
+`NightLion v1`
 
 ![image](nightlion_v1.png)
 
-`nightlion_v2.png`
+`NightLion v2`
 
 ![image](nightlion_v2.png)
 
-`niji.png`
+`niji`
 
 ![image](niji.png)
 
-`nocturnal_winter.png`
+`Nocturnal Winter`
 
 ![image](nocturnal_winter.png)
 
-`nord-wave.png`
+`nord-wave`
 
 ![image](nord-wave.png)
 
-`nord.png`
+`nord`
 
 ![image](nord.png)
 
-`nord_light.png`
-
-![image](nord_light.png)
-
-`novel.png`
-
-![image](novel.png)
-
-`NvimDark.png`
+`NvimDark`
 
 ![image](NvimDark.png)
 
-`NvimLight.png`
-
-![image](NvimLight.png)
-
-`obsidian.png`
+`Obsidian`
 
 ![image](obsidian.png)
 
-`ocean.png`
+`Ocean`
 
 ![image](ocean.png)
 
-`oceanic_material.png`
-
-![image](oceanic_material.png)
-
-`oceanic_next.png`
+`Oceanic-Next`
 
 ![image](oceanic_next.png)
 
-`ollie.png`
+`OceanicMaterial`
+
+![image](oceanic_material.png)
+
+`Ollie`
 
 ![image](ollie.png)
 
-`onehalfdark.png`
+`OneHalfDark`
 
 ![image](onehalfdark.png)
 
-`onehalflight.png`
-
-![image](onehalflight.png)
-
-`operator_mono_dark.png`
+`Operator Mono Dark`
 
 ![image](operator_mono_dark.png)
 
-`overnight_slumber.png`
+`Overnight Slumber`
 
 ![image](overnight_slumber.png)
 
-`oxocarbon.png`
+`Oxocarbon`
 
 ![image](oxocarbon.png)
 
-`PaleNightHC.png`
+`PaleNightHC`
 
 ![image](PaleNightHC.png)
 
-`pandora.png`
+`Pandora`
 
 ![image](pandora.png)
 
-`paraiso_dark.png`
+`Paraiso Dark`
 
 ![image](paraiso_dark.png)
 
-`paul_millr.png`
+`PaulMillr`
 
 ![image](paul_millr.png)
 
-`pencil_dark.png`
+`PencilDark`
 
 ![image](pencil_dark.png)
 
-`pencil_light.png`
+`Peppermint`
 
-![image](pencil_light.png)
+![image](peppermint.png)
 
-`Peppermint.png`
-
-![image](Peppermint.png)
-
-`piatto_light.png`
-
-![image](piatto_light.png)
-
-`pnevma.png`
+`Pnevma`
 
 ![image](pnevma.png)
 
-`Popping_and_Locking.png`
+`Popping and Locking`
 
-![image](Popping_and_Locking.png)
+![image](popping_and_locking.png)
 
-`primary.png`
-
-![image](primary.png)
-
-`pro.png`
+`Pro`
 
 ![image](pro.png)
 
-`pro_light.png`
-
-![image](pro_light.png)
-
-`purple_rain.png`
+`Purple Rain`
 
 ![image](purple_rain.png)
 
-`purplepeter.png`
+`purplepeter`
 
 ![image](purplepeter.png)
 
-`rapture.png`
+`Rapture`
 
 ![image](rapture.png)
 
-`raycast_dark.png`
+`Raycast_Dark`
 
 ![image](raycast_dark.png)
 
-`raycast_light.png`
-
-![image](raycast_light.png)
-
-`rebecca.png`
+`rebecca`
 
 ![image](rebecca.png)
 
-`red_alert.png`
+`Red Alert`
 
 ![image](red_alert.png)
 
-`red_planet.png`
+`Red Planet`
 
 ![image](red_planet.png)
 
-`red_sands.png`
+`Red Sands`
 
 ![image](red_sands.png)
 
-`relaxed.png`
+`Relaxed`
 
 ![image](relaxed.png)
 
-`Retro.png`
+`Retro`
 
-![image](Retro.png)
+![image](retro.png)
 
-`RetroLegends.png`
+`RetroLegends`
 
 ![image](RetroLegends.png)
 
-`rippedcasts.png`
+`Rippedcasts`
 
 ![image](rippedcasts.png)
 
-`rose-pine-dawn.png`
-
-![image](rose-pine-dawn.png)
-
-`rose-pine-moon.png`
+`rose-pine-moon`
 
 ![image](rose-pine-moon.png)
 
-`rose-pine.png`
+`rose-pine`
 
 ![image](rose-pine.png)
 
-`rouge_2.png`
+`Rouge 2`
 
 ![image](rouge_2.png)
 
-`royal.png`
+`Royal`
 
 ![image](royal.png)
 
-`ryuuko.png`
+`Ryuuko`
 
 ![image](ryuuko.png)
 
-`sakura.png`
+`Sakura`
 
 ![image](sakura.png)
 
-`scarlet_protocol.png`
+`Scarlet Protocol`
 
 ![image](scarlet_protocol.png)
 
-`sea_shells.png`
-
-![image](sea_shells.png)
-
-`seafoam_pastel.png`
+`Seafoam Pastel`
 
 ![image](seafoam_pastel.png)
 
-`seoulbones_dark.png`
+`SeaShells`
+
+![image](sea_shells.png)
+
+`seoulbones_dark`
 
 ![image](seoulbones_dark.png)
 
-`seoulbones_light.png`
-
-![image](seoulbones_light.png)
-
-`seti.png`
+`Seti`
 
 ![image](seti.png)
 
-`ShadesOfPurple.png`
+`shades-of-purple`
 
 ![image](ShadesOfPurple.png)
 
-`shaman.png`
+`Shaman`
 
 ![image](shaman.png)
 
-`slate.png`
+`Slate`
 
 ![image](slate.png)
 
-`SleepyHollow.png`
+`SleepyHollow`
 
 ![image](SleepyHollow.png)
 
-`smyck.png`
+`Smyck`
 
 ![image](smyck.png)
 
-`snazzy.png`
-
-![image](snazzy.png)
-
-`snazzy_soft.png`
+`Snazzy Soft`
 
 ![image](snazzy_soft.png)
 
-`soft_server.png`
+`Snazzy`
+
+![image](snazzy.png)
+
+`SoftServer`
 
 ![image](soft_server.png)
 
-`solarized-osaka-night.png`
-
-![image](solarized-osaka-night.png)
-
-`solarized_darcula.png`
+`Solarized Darcula`
 
 ![image](solarized_darcula.png)
 
-`solarized_darcula_with_background.png`
-
-![image](solarized_darcula_with_background.png)
-
-`solarized_dark_higher_contrast.png`
-
-![image](solarized_dark_higher_contrast.png)
-
-`solarized_dark_patched.png`
+`Solarized Dark - Patched`
 
 ![image](solarized_dark_patched.png)
 
-`space_gray.png`
+`Solarized Dark Higher Contrast`
 
-![image](space_gray.png)
+![image](solarized_dark_higher_contrast.png)
 
-`spacedust.png`
+`solarized-osaka-night`
+
+![image](solarized-osaka-night.png)
+
+`Spacedust`
 
 ![image](spacedust.png)
 
-`spacegray_bright.png`
+`SpaceGray Bright`
 
 ![image](spacegray_bright.png)
 
-`spacegray_eighties.png`
-
-![image](spacegray_eighties.png)
-
-`spacegray_eighties_dull.png`
+`SpaceGray Eighties Dull`
 
 ![image](spacegray_eighties_dull.png)
 
-`spiderman.png`
+`SpaceGray Eighties`
+
+![image](spacegray_eighties.png)
+
+`SpaceGray`
+
+![image](space_gray.png)
+
+`Spiderman`
 
 ![image](spiderman.png)
 
-`spring.png`
-
-![image](spring.png)
-
-`square.png`
+`Square`
 
 ![image](square.png)
 
-`squirrelsong_dark.png`
+`Squirrelsong Dark`
 
 ![image](squirrelsong_dark.png)
 
-`srcery.png`
+`srcery`
 
 ![image](srcery.png)
 
-`starlight.png`
+`starlight`
 
 ![image](starlight.png)
 
-`sublette.png`
+`Sublette`
 
 ![image](sublette.png)
 
-`subliminal.png`
+`Subliminal`
 
 ![image](subliminal.png)
 
-`sugarplum.png`
+`Sugarplum`
 
 ![image](sugarplum.png)
 
-`sundried.png`
+`Sundried`
 
 ![image](sundried.png)
 
-`symfonic.png`
+`Symfonic`
 
 ![image](symfonic.png)
 
-`synthwave-everything.png`
+`synthwave-everything`
 
 ![image](synthwave-everything.png)
 
-`synthwave.png`
+`synthwave`
 
 ![image](synthwave.png)
 
-`synthwave_alpha.png`
+`SynthwaveAlpha`
 
 ![image](synthwave_alpha.png)
 
-`tango_adapted.png`
-
-![image](tango_adapted.png)
-
-`tango_half_adapted.png`
-
-![image](tango_half_adapted.png)
-
-`teerb.png`
+`Teerb`
 
 ![image](teerb.png)
 
-`terafox.png`
+`terafox`
 
 ![image](terafox.png)
 
-`terminal_basic.png`
-
-![image](terminal_basic.png)
-
-`thayer_bright.png`
+`Thayer Bright`
 
 ![image](thayer_bright.png)
 
-`the_hulk.png`
+`The Hulk`
 
 ![image](the_hulk.png)
 
-`tinacious_design_dark.png`
+`Tinacious Design (Dark)`
 
 ![image](tinacious_design_dark.png)
 
-`tinacious_design_light.png`
-
-![image](tinacious_design_light.png)
-
-`tokyonight-day.png`
-
-![image](tokyonight-day.png)
-
-`tokyonight-moon.png`
-
-![image](tokyonight-moon.png)
-
-`tokyonight-night.png`
-
-![image](tokyonight-night.png)
-
-`tokyonight-storm.png`
+`tokyonight-storm`
 
 ![image](tokyonight-storm.png)
 
-`tokyonight.png`
+`tokyonight`
 
 ![image](tokyonight.png)
 
-`tomorrow.png`
+`tokyonight_moon`
 
-![image](tomorrow.png)
+![image](tokyonight-moon.png)
 
-`tomorrow_night.png`
+`tokyonight_night`
 
-![image](tomorrow_night.png)
+![image](tokyonight-night.png)
 
-`tomorrow_night_blue.png`
+`Tomorrow Night Blue`
 
 ![image](tomorrow_night_blue.png)
 
-`tomorrow_night_bright.png`
+`Tomorrow Night Bright`
 
 ![image](tomorrow_night_bright.png)
 
-`tomorrow_night_burns.png`
+`Tomorrow Night Burns`
 
 ![image](tomorrow_night_burns.png)
 
-`tomorrow_night_eighties.png`
+`Tomorrow Night Eighties`
 
 ![image](tomorrow_night_eighties.png)
 
-`toy_chest.png`
+`Tomorrow Night`
+
+![image](tomorrow_night.png)
+
+`ToyChest`
 
 ![image](toy_chest.png)
 
-`treehouse.png`
+`Treehouse`
 
 ![image](treehouse.png)
 
-`twilight.png`
+`Twilight`
 
 ![image](twilight.png)
 
-`ubuntu.png`
+`Ubuntu`
 
 ![image](ubuntu.png)
 
-`ultra_violent.png`
-
-![image](ultra_violent.png)
-
-`ultradark.png`
+`UltraDark`
 
 ![image](ultradark.png)
 
-`under_the_sea.png`
+`UltraViolent`
+
+![image](ultra_violent.png)
+
+`UnderTheSea`
 
 ![image](under_the_sea.png)
 
-`unikitty.png`
-
-![image](unikitty.png)
-
-`urple.png`
+`Urple`
 
 ![image](urple.png)
 
-`vaughn.png`
+`Vaughn`
 
 ![image](vaughn.png)
 
-`vesper.png`
+`Vesper`
 
 ![image](vesper.png)
 
-`vibrant_ink.png`
+`VibrantInk`
 
 ![image](vibrant_ink.png)
 
-`vimbones.png`
-
-![image](vimbones.png)
-
-`violet_dark.png`
+`Violet Dark`
 
 ![image](violet_dark.png)
 
-`violet_light.png`
-
-![image](violet_light.png)
-
-`warm_neon.png`
+`WarmNeon`
 
 ![image](warm_neon.png)
 
-`wez.png`
+`Wez`
 
 ![image](wez.png)
 
-`whimsy.png`
+`Whimsy`
 
 ![image](whimsy.png)
 
-`wild_cherry.png`
+`WildCherry`
 
 ![image](wild_cherry.png)
 
-`wilmersdorf.png`
+`wilmersdorf`
 
 ![image](wilmersdorf.png)
 
-`wombat.png`
+`Wombat`
 
 ![image](wombat.png)
 
-`wryan.png`
+`Wryan`
 
 ![image](wryan.png)
 
-`xcodedark.png`
+`xcodedark`
 
 ![image](xcodedark.png)
 
-`xcodedarkhc.png`
+`xcodedarkhc`
 
 ![image](xcodedarkhc.png)
 
-`xcodelight.png`
-
-![image](xcodelight.png)
-
-`xcodelighthc.png`
-
-![image](xcodelighthc.png)
-
-`xcodewwdc.png`
+`xcodewwdc`
 
 ![image](xcodewwdc.png)
 
-`zenbones.png`
-
-![image](zenbones.png)
-
-`zenbones_dark.png`
+`zenbones_dark`
 
 ![image](zenbones_dark.png)
 
-`zenbones_light.png`
-
-![image](zenbones_light.png)
-
-`zenburn.png`
+`Zenburn`
 
 ![image](zenburn.png)
 
-`zenburned.png`
+`zenburned`
 
 ![image](zenburned.png)
 
-`zenwritten_dark.png`
+`zenwritten_dark`
 
 ![image](zenwritten_dark.png)
 
-`zenwritten_light.png`
+## Light Themes<a name="lightthemes"><a/>
+
+`3024 Day`
+
+![image](3024_day.png)
+
+`Adwaita`
+
+![image](adwaita.png)
+
+`Alabaster`
+
+![image](alabaster.png)
+
+`Apple System Colors Light`
+
+![image](apple_system_colors_light.png)
+
+`AtomOneLight`
+
+![image](atom_one_light.png)
+
+`ayu_light`
+
+![image](ayu_light.png)
+
+`Belafonte Day`
+
+![image](belafonte_day.png)
+
+`BlulocoLight`
+
+![image](bluloco_light.png)
+
+`catppuccin-latte`
+
+![image](catppuccin-latte.png)
+
+`CLRS`
+
+![image](clrs.png)
+
+`coffee_theme`
+
+![image](Coffee.png)
+
+`dayfox`
+
+![image](dayfox.png)
+
+`farmhouse-light`
+
+![image](farmhouse-light.png)
+
+`flexoki-light`
+
+![image](flexoki-light.png)
+
+`GitHub-Light-Colorblind`
+
+![image](github-light-colorblind.png)
+
+`GitHub-Light-Default`
+
+![image](github-light-default.png)
+
+`GitHub-Light-High-Contrast`
+
+![image](github-light-high-contrast.png)
+
+`Github`
+
+![image](github.png)
+
+`GitLab-Light`
+
+![image](git_lab-light.png)
+
+`GruvboxLight`
+
+![image](gruvbox_light.png)
+
+`GruvboxLightHard`
+
+![image](gruvbox_light_hard.png)
+
+`Havn Daggry`
+
+![image](havn_daggry.png)
+
+`Horizon-Bright`
+
+![image](horizon-bright.png)
+
+`iceberg-light`
+
+![image](iceberg-light.png)
+
+`iTerm2 Light Background`
+
+![image](iterm2-light-background.png)
+
+`iTerm2 Solarized Light`
+
+![image](iterm2-solarized-light.png)
+
+`iTerm2 Tango Light`
+
+![image](iterm2-tango-light.png)
+
+`Man Page`
+
+![image](man_page.png)
+
+`Material`
+
+![image](material.png)
+
+`Melange_light`
+
+![image](melange_light.png)
+
+`Monokai Pro Light Sun`
+
+![image](monokai_pro_light_sun.png)
+
+`Monokai Pro Light`
+
+![image](monokai_pro_light.png)
+
+`neobones_light`
+
+![image](neobones_light.png)
+
+`Night Owlish Light`
+
+![image](night_owlish_light.png)
+
+`nord-light`
+
+![image](nord_light.png)
+
+`Novel`
+
+![image](novel.png)
+
+`NvimLight`
+
+![image](NvimLight.png)
+
+`OneHalfLight`
+
+![image](onehalflight.png)
+
+`PencilLight`
+
+![image](pencil_light.png)
+
+`Piatto Light`
+
+![image](piatto_light.png)
+
+`primary`
+
+![image](primary.png)
+
+`Pro Light`
+
+![image](pro_light.png)
+
+`Raycast_Light`
+
+![image](raycast_light.png)
+
+`rose-pine-dawn`
+
+![image](rose-pine-dawn.png)
+
+`seoulbones_light`
+
+![image](seoulbones_light.png)
+
+`Spring`
+
+![image](spring.png)
+
+`Tango Adapted`
+
+![image](tango_adapted.png)
+
+`Tango Half Adapted`
+
+![image](tango_half_adapted.png)
+
+`Terminal Basic`
+
+![image](terminal_basic.png)
+
+`Tinacious Design (Light)`
+
+![image](tinacious_design_light.png)
+
+`tokyonight-day`
+
+![image](tokyonight-day.png)
+
+`Tomorrow`
+
+![image](tomorrow.png)
+
+`Unikitty`
+
+![image](unikitty.png)
+
+`vimbones`
+
+![image](vimbones.png)
+
+`Violet Light`
+
+![image](violet_light.png)
+
+`xcodelight`
+
+![image](xcodelight.png)
+
+`xcodelighthc`
+
+![image](xcodelighthc.png)
+
+`zenbones`
+
+![image](zenbones.png)
+
+`zenbones_light`
+
+![image](zenbones_light.png)
+
+`zenwritten_light`
 
 ![image](zenwritten_light.png)
