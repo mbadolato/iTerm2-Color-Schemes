@@ -76,6 +76,15 @@ There are 3 ways to install an iTerm theme:
 
 ## Contribute
 
+### Using Docker
+
+If docker is installed, the script `generate-all.sh` will do most of the
+steps described in [Prerequisits](#prerequisits).
+There is no need to install python and the dependencies on your computer.
+
+The remaining manual tasks are to update `README.md` to include your theme and
+screenshot, and to update `CREDITS.md` to credit yourself for your contribution.
+
 ### Prerequisites
 
 1. For convenient work with generation scripts, it is recommended to install [pyenv](https://github.com/pyenv/pyenv).
