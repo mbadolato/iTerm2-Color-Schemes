@@ -1,0 +1,33 @@
+# Colors (IRIX Console)
+
+[colors.bright]
+black = '#767676'
+blue = '#4a77f7'
+cyan = '#81d4d5'
+green = '#5cc33c'
+magenta = '#a52199'
+red = '#d6545b'
+white = '#f2f2f2'
+yellow = '#f8f2ae'
+
+[colors.cursor]
+cursor = '#c7c7c7'
+text = '#ffffff'
+
+[colors.normal]
+black = '#1a1a1a'
+blue = '#1037d2'
+cyan = '#5394d7'
+green = '#4a9f30'
+magenta = '#7d2393'
+red = '#b52a29'
+white = '#cccccc'
+yellow = '#bb9e33'
+
+[colors.primary]
+background = '#0c0c0c'
+foreground = '#f2f2f2'
+
+[colors.selection]
+background = '#c7ddfc'
+text = '#000000'

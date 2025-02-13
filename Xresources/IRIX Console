@@ -1,0 +1,43 @@
+!
+! IRIX Console
+!
+*.foreground:  #f2f2f2
+*.background:  #0c0c0c
+*.cursorColor: #c7c7c7
+!
+! Black
+*.color0:      #1a1a1a
+*.color8:      #767676
+!
+! Red
+*.color1:      #b52a29
+*.color9:      #d6545b
+!
+! Green
+*.color2:      #4a9f30
+*.color10:     #5cc33c
+!
+! Yellow
+*.color3:      #bb9e33
+*.color11:     #f8f2ae
+!
+! Blue
+*.color4:      #1037d2
+*.color12:     #4a77f7
+!
+! Magenta
+*.color5:      #7d2393
+*.color13:     #a52199
+!
+! Cyan
+*.color6:      #5394d7
+*.color14:     #81d4d5
+!
+! White
+*.color7:      #cccccc
+*.color15:     #f2f2f2
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffff55
+!*.colorIT:
+!*.colorUL:

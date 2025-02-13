@@ -1,0 +1,33 @@
+# Colors (IRIX Terminal)
+
+[colors.bright]
+black = '#ffff55'
+blue = '#ffff55'
+cyan = '#ffff55'
+green = '#ffff55'
+magenta = '#ffff55'
+red = '#ffff55'
+white = '#ffff55'
+yellow = '#fefc7f'
+
+[colors.cursor]
+cursor = '#c7c7c7'
+text = '#ffffff'
+
+[colors.normal]
+black = '#1a1a1a'
+blue = '#0004f5'
+cyan = '#74fbfd'
+green = '#75fb4c'
+magenta = '#ea34f7'
+red = '#ea3323'
+white = '#ffffff'
+yellow = '#ffff55'
+
+[colors.primary]
+background = '#00003d'
+foreground = '#f2f2f2'
+
+[colors.selection]
+background = '#c7ddfc'
+text = '#000000'
