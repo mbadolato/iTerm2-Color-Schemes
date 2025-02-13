@@ -8,7 +8,7 @@ import sys
 from jinja2 import Environment
 from rich.progress import Progress
 
-iterm_re = re.compile("(.+)\.itermcolors$")
+iterm_re = re.compile("(.+)\\.itermcolors$")
 iterm_ext = ".itermcolors"
 hex_format = "%02x%02x%02x"
 
