@@ -39,11 +39,17 @@ ZHAO Xudong <986839138@qq.com>
 """
 
 import argparse
+import os.path
 
 from jinja2 import Environment, FileSystemLoader
 from rich.progress import Progress, TextColumn, BarColumn
 
 from converter import Converter
+
+ROOT_DIR = os.path.abspath(
+    os.path.join(os.path.realpath(__file__), os.pardir, os.pardir)
+)
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
@@ -61,7 +67,7 @@ if __name__ == '__main__':
     template = arguments['template']
 
     file_system_loader = Environment(
-        loader=FileSystemLoader('templates/'),
+        loader=FileSystemLoader(os.path.join(ROOT_DIR, 'tools', 'templates')),
         trim_blocks=True,
         lstrip_blocks=True,
         keep_trailing_newline=True
@@ -78,8 +84,8 @@ if __name__ == '__main__':
         templates=arguments['template'],
         loader=file_system_loader,
         bar=progress_bar,
-        path_to_iterm_schemes='../schemes/',
-        output_dir='../'
+        path_to_iterm_schemes=os.path.join(ROOT_DIR, 'schemes'),
+        output_dir=ROOT_DIR,
     )
 
     converter.run()

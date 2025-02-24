@@ -340,6 +340,10 @@ The screenshots are categorized.
 
 ![image](elementary.png)
 
+`Embark`
+
+![image](embark.png)
+
 `embers-dark`
 
 ![image](embers.png)
