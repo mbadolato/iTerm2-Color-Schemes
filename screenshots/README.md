@@ -1068,6 +1068,10 @@ The screenshots are categorized.
 
 ![image](solarized-osaka-night.png)
 
+`sonokai.png`
+
+![image](sonokai.png)
+
 `Spacedust`
 
 ![image](spacedust.png)
