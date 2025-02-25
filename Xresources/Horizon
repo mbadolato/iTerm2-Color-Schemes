@@ -1,43 +1,43 @@
 !
 ! Horizon
 !
-*.foreground:  #bbbaba
+*.foreground:  #d5d8da
 *.background:  #1c1e26
-*.cursorColor: #c7c7c7
+*.cursorColor: #6c6f93
 !
 ! Black
-*.color0:      #131519
-*.color8:      #686868
+*.color0:      #000000
+*.color8:      #666666
 !
 ! Red
-*.color1:      #e95478
-*.color9:      #e06783
+*.color1:      #e95678
+*.color9:      #ec6a88
 !
 ! Green
-*.color2:      #14d386
-*.color10:     #0af29d
+*.color2:      #29d398
+*.color10:     #3fdaa4
 !
 ! Yellow
 *.color3:      #fab795
-*.color11:     #fac39a
+*.color11:     #fbc3a7
 !
 ! Blue
-*.color4:      #30aad7
-*.color12:     #56c2ea
+*.color4:      #26bbd9
+*.color12:     #3fc4de
 !
 ! Magenta
-*.color5:      #b877db
-*.color13:     #c38ce1
+*.color5:      #ee64ac
+*.color13:     #f075b5
 !
 ! Cyan
-*.color6:      #1fdad9
-*.color14:     #3ce8e6
+*.color6:      #59e1e3
+*.color14:     #6be4e6
 !
 ! White
-*.color7:      #c7c7c7
-*.color15:     #ffffff
+*.color7:      #e5e5e5
+*.color15:     #e5e5e5
 !
 ! Bold, Italic, Underline
-*.colorBD:     #ffffff
+*.colorBD:     #d5d8da
 !*.colorIT:
 !*.colorUL:

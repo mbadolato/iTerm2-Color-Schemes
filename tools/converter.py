@@ -8,7 +8,7 @@ import sys
 from jinja2 import Environment
 from rich.progress import Progress
 
-iterm_re = re.compile("(.+)\.itermcolors$")
+iterm_re = re.compile("(.+)\\.itermcolors$")
 iterm_ext = ".itermcolors"
 hex_format = "%02x%02x%02x"
 
@@ -60,7 +60,7 @@ class Converter(object):
     def parse_scheme(self, scheme):
         colors_dict = {}
 
-        iterm_path = self.iterm_dir + scheme + iterm_ext
+        iterm_path = os.path.join(self.iterm_dir, f'{scheme}{iterm_ext}')
 
         if not os.path.isfile(iterm_path):
             logging.error("Scheme " + iterm_path + " doesn't exist")
@@ -136,7 +136,7 @@ class Converter(object):
             data = colors[scheme]
             data["scheme_name"] = scheme
             result = t.render(data)
-            destination = self.out_dir + template + "/" + scheme + ext
+            destination = os.path.join(self.out_dir, template, f'{scheme}{ext}')
             f = open(destination, "w")
             f.write(result)
             f.close()

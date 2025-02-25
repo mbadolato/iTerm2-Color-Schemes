@@ -1,0 +1,43 @@
+!
+! GitLab-Light
+!
+*.foreground:  #303030
+*.background:  #fafaff
+*.cursorColor: #303030
+!
+! Black
+*.color0:      #303030
+*.color8:      #303030
+!
+! Red
+*.color1:      #a31700
+*.color9:      #a31700
+!
+! Green
+*.color2:      #0a7f3d
+*.color10:     #0a7f3d
+!
+! Yellow
+*.color3:      #af551d
+*.color11:     #af551d
+!
+! Blue
+*.color4:      #006cd8
+*.color12:     #006cd8
+!
+! Magenta
+*.color5:      #583cac
+*.color13:     #583cac
+!
+! Cyan
+*.color6:      #00798a
+*.color14:     #00798a
+!
+! White
+*.color7:      #303030
+*.color15:     #303030
+!
+! Bold, Italic, Underline
+*.colorBD:     #303030
+!*.colorIT:
+!*.colorUL:

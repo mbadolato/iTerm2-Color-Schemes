@@ -76,6 +76,24 @@ There are 3 ways to install an iTerm theme:
 
 ## Contribute
 
+### Using Docker
+
+If docker is installed, the script `generate-all.sh` will do most of the
+steps described in [Prerequisits](#prerequisits), except for the instructions
+related to `pyenv` as this is not required in a docker container dedicated to
+generating the required files.
+
+With docker, there is no need to install python and its dependencies on your
+computer.
+
+The remaining manual tasks are to update `README.md` to include your theme and
+screenshot, and to update `CREDITS.md` to credit yourself for your contribution.
+
+#### Debugging using Docker
+
+In cases where new tools have to be tested, `./generate-all.sh debug` will start
+an interactive terminal session inside the container.
+
 ### Prerequisites
 
 1. For convenient work with generation scripts, it is recommended to install [pyenv](https://github.com/pyenv/pyenv).
@@ -96,16 +114,15 @@ Have a great iTerm theme? Send it to me via a Pull Request!
 2. Put your theme file into `/schemes/`
    - `mv <your-itermcolors-file> schemes/`
 3. Generate other formats for your theme using the `gen.py` script.
-   - `cd tools/ && python3 gen.py` OR
-   - `cd tools/ && ./gen.py`
-4. If you only want to generate files for your theme, you can specify this with the `-s` flag.
-   - `./gen.py -s Dracula`
-5. Generate a screenshot of your theme using the `screenshot_gen` tool.
-   - `cd tools/ && python -m screenshot_gen`. This will generate new screenshots where they are missing.
+   - `python3 tools/gen.py`
+   If you only want to generate files for your theme, you can specify this with the `-s` flag.
+   - `python3 tools/gen.py -s Dracula`
+4. Generate a screenshot of your theme using the `screenshot_gen` tool.
+   - `pushd tools && python3 -m screenshot_gen && popd`. This will generate new screenshots where they are missing.
    - If you have `oxipng` or `zopflipng` installed, the screenshot will be optimized for you.
-6. Run `generate_screenshots_readme.py` to include your theme's screenshot in the `screenshots/README.md` file:
-   - `cd tools/ && python generate_screenshots_readme.py`
-7. Update `README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
+5. Run `generate_screenshots_readme.py` to include your theme's screenshot in the `screenshots/README.md` file:
+   - `python3 tools/generate_screenshots_readme.py`
+6. Update `README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
 
 ### How to add new template
 
@@ -218,6 +235,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Apple System Colors
 
 ![Screenshot](screenshots/apple-system-colors.png)
+
+### Apple System Colors Light
+
+![Screenshot](screenshots/apple_system_colors_light.png)
 
 ### Arcoiris
 
@@ -379,6 +400,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/ciapre.png)
 
+### Citruszest
+
+![Screenshot](screenshots/citruszest.png)
+
 ### CLRS
 
 ![Screenshot](screenshots/clrs.png)
@@ -503,6 +528,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/electron-highlighter.png)
 
+### Elegant
+
+![Screenshot](screenshots/elegant.png)
+
 ### Elemental
 
 ![Screenshot](screenshots/elemental.png)
@@ -615,6 +644,38 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![image](screenshots/galizur.png)
 
+### Ghostty Default StyleDark
+
+![image](screenshots/Ghostty_Default_StyleDark.png)
+
+### GitHub Dark Default
+
+![image](screenshots/github-dark-default.png)
+
+### GitHub Dark Dimmed
+
+![image](screenshots/github-dark-dimmed.png)
+
+### GitHub Dark Colorblind
+
+![image](screenshots/github-dark-colorblind.png)
+
+### GitHub Dark High Contrast
+
+![image](screenshots/github-dark-high-contrast.png)
+
+### GitHub Light Default
+
+![image](screenshots/github-light-default.png)
+
+### GitHub Light Colorblind
+
+![image](screenshots/github-light-colorblind.png)
+
+### GitHub Light High Contrast
+
+![image](screenshots/github-light-high-contrast.png)
+
 ### Github
 
 ![Screenshot](screenshots/github.png)
@@ -622,6 +683,18 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### GitHub Dark
 
 ![Screenshot](screenshots/GitHub_Dark.png)
+
+### GitLab Dark
+
+![Screenshot](screenshots/git_lab-dark.png)
+
+### GitLab Dark Grey
+
+![Screenshot](screenshots/git_lab-dark-grey.png)
+
+### GitLab Light
+
+![Screenshot](screenshots/git_lab-light.png)
 
 ### Glacier
 
@@ -730,6 +803,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### Horizon
 
 ![Screenshot](screenshots/horizon.png)
+
+### Horizon Bright
+
+![Screenshot](screenshots/horizon-bright.png)
 
 ### Hurtado
 
@@ -1071,6 +1148,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/nord_light.png)
 
+### Nord-wave
+
+![Screenshot](screenshots/nord-wave.png)
+
 ### NvimDark
 
 ![Screenshot](screenshots/NvimDark.png)
@@ -1332,6 +1413,14 @@ more information.
 
 ![Screenshot](screenshots/solarized_dark_higher_contrast.png)
 
+### Solarized Osaka Night
+
+![Screenshot](screenshots/solarized-osaka-night.png)
+
+### Sonokai
+
+![Screenshot](screenshots/sonokai.png)
+
 ### SpaceGray
 
 ![Screenshot](screenshots/space_gray.png)
@@ -1367,6 +1456,10 @@ more information.
 ### Squirrelsong Dark
 
 ![Screenshot](screenshots/squirrelsong_dark.png)
+
+### Srcery
+
+![Screenshot](screenshots/srcery.png)
 
 ### Starlight
 

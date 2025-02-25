@@ -9,7 +9,7 @@
     },
     {
       "name": "BoldForeground",
-      "color": "#fffcf0",
+      "color": "#6f6e69",
       "terminalMapping": "boldforeground"
     },
     {
@@ -69,12 +69,12 @@
     },
     {
       "name": "White",
-      "color": "#f2f0e5",
+      "color": "#6f6e69",
       "terminalMapping": "ansiWhite"
     },
     {
       "name": "BrightBlack",
-      "color": "#575653",
+      "color": "#b7b5ac",
       "terminalMapping": "ansiBrightBlack"
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "name": "BrightWhite",
-      "color": "#fffcf0",
+      "color": "#cecdc3",
       "terminalMapping": "ansiBrightWhite"
     }
   ],

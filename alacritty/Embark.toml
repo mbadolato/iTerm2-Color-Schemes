@@ -1,0 +1,33 @@
+# Colors (Embark)
+
+[colors.bright]
+black = '#585273'
+blue = '#1da0e2'
+cyan = '#63f2f1'
+green = '#2ce592'
+magenta = '#a742ea'
+red = '#f02e6e'
+white = '#a6b3cc'
+yellow = '#ffb378'
+
+[colors.cursor]
+cursor = '#a1efd3'
+text = '#1e1c31'
+
+[colors.normal]
+black = '#1e1c31'
+blue = '#57c7ff'
+cyan = '#87dfeb'
+green = '#a1efd3'
+magenta = '#c792ea'
+red = '#f0719b'
+white = '#f8f8f2'
+yellow = '#ffe9aa'
+
+[colors.primary]
+background = '#1e1c31'
+foreground = '#eeffff'
+
+[colors.selection]
+background = '#fbfcfc'
+text = '#1e1c31'

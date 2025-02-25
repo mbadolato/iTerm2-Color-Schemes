@@ -24,12 +24,12 @@
     },
     {
       "name": "CursorForeground",
-      "color": "#e0def4",
+      "color": "#232136",
       "terminalMapping": "cursorForeground"
     },
     {
       "name": "CursorBackground",
-      "color": "#59546d",
+      "color": "#e0def4",
       "terminalMapping": "cursorBackground"
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "name": "Green",
-      "color": "#9ccfd8",
+      "color": "#3e8fb0",
       "terminalMapping": "ansiGreen"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Blue",
-      "color": "#3e8fb0",
+      "color": "#9ccfd8",
       "terminalMapping": "ansiBlue"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "name": "BrightBlack",
-      "color": "#817c9c",
+      "color": "#6e6a86",
       "terminalMapping": "ansiBrightBlack"
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "name": "BrightGreen",
-      "color": "#9ccfd8",
+      "color": "#3e8fb0",
       "terminalMapping": "ansiBrightGreen"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "name": "BrightBlue",
-      "color": "#3e8fb0",
+      "color": "#9ccfd8",
       "terminalMapping": "ansiBrightBlue"
     },
     {

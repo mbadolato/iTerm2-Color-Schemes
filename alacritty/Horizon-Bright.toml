@@ -1,0 +1,33 @@
+# Colors (Horizon-Bright)
+
+[colors.bright]
+black = '#1a1c23'
+blue = '#3fc6de'
+cyan = '#6be6e6'
+green = '#3fdaa4'
+magenta = '#f075b7'
+red = '#ec6a88'
+white = '#fff3f0'
+yellow = '#fbc3a7'
+
+[colors.cursor]
+cursor = '#f2d0c5'
+text = '#f2d0c5'
+
+[colors.normal]
+black = '#16161c'
+blue = '#26bbd9'
+cyan = '#59e3e3'
+green = '#29d398'
+magenta = '#ee64ae'
+red = '#e95678'
+white = '#fdf0ed'
+yellow = '#fab795'
+
+[colors.primary]
+background = '#fbf0ee'
+foreground = '#16161c'
+
+[colors.selection]
+background = '#f2d0c5'
+text = '#16161c'

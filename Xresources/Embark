@@ -1,0 +1,43 @@
+!
+! Embark
+!
+*.foreground:  #eeffff
+*.background:  #1e1c31
+*.cursorColor: #a1efd3
+!
+! Black
+*.color0:      #1e1c31
+*.color8:      #585273
+!
+! Red
+*.color1:      #f0719b
+*.color9:      #f02e6e
+!
+! Green
+*.color2:      #a1efd3
+*.color10:     #2ce592
+!
+! Yellow
+*.color3:      #ffe9aa
+*.color11:     #ffb378
+!
+! Blue
+*.color4:      #57c7ff
+*.color12:     #1da0e2
+!
+! Magenta
+*.color5:      #c792ea
+*.color13:     #a742ea
+!
+! Cyan
+*.color6:      #87dfeb
+*.color14:     #63f2f1
+!
+! White
+*.color7:      #f8f8f2
+*.color15:     #a6b3cc
+!
+! Bold, Italic, Underline
+*.colorBD:     #c4c9ff
+!*.colorIT:
+*.colorUL:     #596181
