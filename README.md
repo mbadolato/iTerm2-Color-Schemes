@@ -280,6 +280,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/atom.png)
 
+### Atom One Dark
+
+![Screenshot](screenshots/atom_one_dark.png)
+
 ### Atom One Light
 
 ![Screenshot](screenshots/atom_one_light.png)

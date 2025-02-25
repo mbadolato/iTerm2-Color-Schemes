@@ -76,6 +76,16 @@ The screenshots are categorized.
 
 ![image](atom.png)
 
+`atom_one_dark.png`
+
+![image](atom_one_dark.png)
+
+`atom_one_light.png`
+
+![image](atom_one_light.png)
+
+`aura.png`
+ 
 `Aura`
 
 ![image](aura.png)
@@ -796,6 +806,44 @@ The screenshots are categorized.
 
 ![image](monokai_pro.png)
 
+`monokai-pro.png`
+
+![image](monokai-pro.png)
+
+`monokai_classic.png`
+
+![image](monokai_classic.png)
+
+`monokai_pro.png`
+
+![image](monokai_pro.png)
+
+`monokai_pro_light.png`
+
+![image](monokai_pro_light.png)
+
+`monokai_pro_light_sun.png`
+
+![image](monokai_pro_light_sun.png)
+
+`monokai_pro_machine.png`
+
+![image](monokai_pro_machine.png)
+
+`monokai_pro_octagon.png`
+
+![image](monokai_pro_octagon.png)
+
+`monokai_pro_ristretto.png`
+
+![image](monokai_pro_ristretto.png)
+
+`monokai_pro_spectrum.png`
+
+![image](monokai_pro_spectrum.png)
+
+`monokai_remastered.png`
+               
 `Monokai Remastered`
 
 ![image](monokai_remastered.png)
