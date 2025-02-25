@@ -111,6 +111,7 @@ Have a great iTerm theme? Send it to me via a Pull Request!
    - Click on **Color Presets**
    - Click on **Export**
    - Save the .itermcolors file
+   - Adjust the [Color Space](#color-space)
 2. Put your theme file into `/schemes/`
    - `mv <your-itermcolors-file> schemes/`
 3. Generate other formats for your theme using the `gen.py` script.
@@ -123,6 +124,25 @@ Have a great iTerm theme? Send it to me via a Pull Request!
 5. Run `generate_screenshots_readme.py` to include your theme's screenshot in the `screenshots/README.md` file:
    - `python3 tools/generate_screenshots_readme.py`
 6. Update `README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
+
+#### Color Space
+
+iTerm seems to store the colors in its color presets in P3 color space.
+The tools only can handle sRGB color space.
+To convert an `.itermcolors` file int sRGB color space, use the provided `p3tosRGB.py` tool:
+
+```shell
+python3 tools/p3tosRGB schemes/YOUR_SCHEME
+```
+
+When using Docker:
+
+```shell
+./generate-all.sh debug
+python3 tools/p3tosRGB schemes/YOUR_SCHEME
+```
+
+This will overwrite your scheme with a converted version.
 
 ### How to add new template
 
