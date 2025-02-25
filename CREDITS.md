@@ -34,6 +34,8 @@ The AtelierSulphurpool theme was created by [atelierbram](http://atelierbram.git
 
 The Atom, Brogrammer, Glacier and Darkside themes were created by [bahlo](https://github.com/bahlo/iterm-colors)
 
+The AtomOneDark theme was created by [zasdaym](https://github.com/zasdaym)
+
 The AtomOneLight theme was created by [iamstarkov](https://github.com/iamstarkov)
 
 The Aura theme was created by [daltonmenezes](https://github.com/daltonmenezes)

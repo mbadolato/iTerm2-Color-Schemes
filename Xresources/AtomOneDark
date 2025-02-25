@@ -1,0 +1,43 @@
+!
+! AtomOneDark
+!
+*.foreground:  #abb2bf
+*.background:  #21252b
+*.cursorColor: #abb2bf
+!
+! Black
+*.color0:      #21252b
+*.color8:      #767676
+!
+! Red
+*.color1:      #e06c75
+*.color9:      #e06c75
+!
+! Green
+*.color2:      #98c379
+*.color10:     #98c379
+!
+! Yellow
+*.color3:      #e5c07b
+*.color11:     #e5c07b
+!
+! Blue
+*.color4:      #61afef
+*.color12:     #61afef
+!
+! Magenta
+*.color5:      #c678dd
+*.color13:     #c678dd
+!
+! Cyan
+*.color6:      #56b6c2
+*.color14:     #56b6c2
+!
+! White
+*.color7:      #abb2bf
+*.color15:     #abb2bf
+!
+! Bold, Italic, Underline
+*.colorBD:     #abb2bf
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (AtomOneDark)
+
+[colors.bright]
+black = '#767676'
+blue = '#61afef'
+cyan = '#56b6c2'
+green = '#98c379'
+magenta = '#c678dd'
+red = '#e06c75'
+white = '#abb2bf'
+yellow = '#e5c07b'
+
+[colors.cursor]
+cursor = '#abb2bf'
+text = '#abb2bf'
+
+[colors.normal]
+black = '#21252b'
+blue = '#61afef'
+cyan = '#56b6c2'
+green = '#98c379'
+magenta = '#c678dd'
+red = '#e06c75'
+white = '#abb2bf'
+yellow = '#e5c07b'
+
+[colors.primary]
+background = '#21252b'
+foreground = '#abb2bf'
+
+[colors.selection]
+background = '#323844'
+text = '#abb2bf'

@@ -1,0 +1,12 @@
+# AtomOneDark
+[colors]
+foreground = "#abb2bf"
+background = "#21252b"
+cursor_bg = "#abb2bf"
+cursor_border = "#abb2bf"
+cursor_fg = "#abb2bf"
+selection_bg = "#323844"
+selection_fg = "#abb2bf"
+
+ansi = ["#21252b","#e06c75","#98c379","#e5c07b","#61afef","#c678dd","#56b6c2","#abb2bf"]
+brights = ["#767676","#e06c75","#98c379","#e5c07b","#61afef","#c678dd","#56b6c2","#abb2bf"]
