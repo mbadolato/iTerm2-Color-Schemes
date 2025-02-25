@@ -1156,6 +1156,17 @@ The screenshots are categorized.
 
 ![image](terafox.png)
 
+
+`terminal_basic.png`
+
+![image](terminal_basic.png)
+
+`terminal_basic_dark.png`
+
+![image](terminal_basic_dark.png)
+
+`thayer_bright.png`
+
 `Thayer Bright`
 
 ![image](thayer_bright.png)
