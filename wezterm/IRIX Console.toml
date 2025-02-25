@@ -1,0 +1,12 @@
+# IRIX Console
+[colors]
+foreground = "#f2f2f2"
+background = "#0c0c0c"
+cursor_bg = "#c7c7c7"
+cursor_border = "#c7c7c7"
+cursor_fg = "#ffffff"
+selection_bg = "#c2deff"
+selection_fg = "#000000"
+
+ansi = ["#1a1919","#d42426","#37a327","#c29d28","#0739e2","#911f9c","#4497df","#cccccc"]
+brights = ["#767676","#f34f59","#45c731","#f9f2a7","#4079ff","#c31ba2","#6ed7d7","#f2f2f2"]

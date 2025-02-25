@@ -600,6 +600,14 @@ The screenshots are categorized.
 
 ![image](ir_black.png)
 
+`IRIX Console`
+
+![image](irix_console.png)
+
+`IRIX Terminal`
+
+![image](irix_terminal.png)
+
 `iTerm2 Dark Background`
 
 ![image](iterm2-dark-background.png)
@@ -1072,7 +1080,7 @@ The screenshots are categorized.
 
 ![image](solarized-osaka-night.png)
 
-`sonokai.png`
+`sonokai`
 
 ![image](sonokai.png)
 
