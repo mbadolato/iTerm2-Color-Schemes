@@ -1,0 +1,33 @@
+# Colors (Vesper)
+
+[colors.bright]
+black = '#7e7e7e'
+blue = '#b9aeda'
+cyan = '#f591b2'
+green = '#99ffe4'
+magenta = '#ecaad6'
+red = '#ff8080'
+white = '#ffffff'
+yellow = '#ffc799'
+
+[colors.cursor]
+cursor = '#acb1ab'
+text = '#ffffff'
+
+[colors.normal]
+black = '#101010'
+blue = '#aca1cf'
+cyan = '#ea83a5'
+green = '#90b99f'
+magenta = '#e29eca'
+red = '#f5a191'
+white = '#a0a0a0'
+yellow = '#e6b99d'
+
+[colors.primary]
+background = '#101010'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#988049'
+text = '#acb1ab'

@@ -76,6 +76,24 @@ There are 3 ways to install an iTerm theme:
 
 ## Contribute
 
+### Using Docker
+
+If docker is installed, the script `generate-all.sh` will do most of the
+steps described in [Prerequisits](#prerequisits), except for the instructions
+related to `pyenv` as this is not required in a docker container dedicated to
+generating the required files.
+
+With docker, there is no need to install python and its dependencies on your
+computer.
+
+The remaining manual tasks are to update `README.md` to include your theme and
+screenshot, and to update `CREDITS.md` to credit yourself for your contribution.
+
+#### Debugging using Docker
+
+In cases where new tools have to be tested, `./generate-all.sh debug` will start
+an interactive terminal session inside the container.
+
 ### Prerequisites
 
 1. For convenient work with generation scripts, it is recommended to install [pyenv](https://github.com/pyenv/pyenv).
@@ -96,16 +114,15 @@ Have a great iTerm theme? Send it to me via a Pull Request!
 2. Put your theme file into `/schemes/`
    - `mv <your-itermcolors-file> schemes/`
 3. Generate other formats for your theme using the `gen.py` script.
-   - `cd tools/ && python3 gen.py` OR
-   - `cd tools/ && ./gen.py`
-4. If you only want to generate files for your theme, you can specify this with the `-s` flag.
-   - `./gen.py -s Dracula`
-5. Generate a screenshot of your theme using the `screenshot_gen` tool.
-   - `cd tools/ && python -m screenshot_gen`. This will generate new screenshots where they are missing.
+   - `python3 tools/gen.py`
+   If you only want to generate files for your theme, you can specify this with the `-s` flag.
+   - `python3 tools/gen.py -s Dracula`
+4. Generate a screenshot of your theme using the `screenshot_gen` tool.
+   - `pushd tools && python3 -m screenshot_gen && popd`. This will generate new screenshots where they are missing.
    - If you have `oxipng` or `zopflipng` installed, the screenshot will be optimized for you.
-6. Run `generate_screenshots_readme.py` to include your theme's screenshot in the `screenshots/README.md` file:
-   - `cd tools/ && python generate_screenshots_readme.py`
-7. Update `README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
+5. Run `generate_screenshots_readme.py` to include your theme's screenshot in the `screenshots/README.md` file:
+   - `python3 tools/generate_screenshots_readme.py`
+6. Update `README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
 
 ### How to add new template
 
@@ -1395,6 +1412,10 @@ more information.
 ### Solarized Osaka Night
 
 ![Screenshot](screenshots/solarized-osaka-night.png)
+
+### Sonokai
+
+![Screenshot](screenshots/sonokai.png)
 
 ### SpaceGray
 
