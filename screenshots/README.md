@@ -76,16 +76,10 @@ The screenshots are categorized.
 
 ![image](atom.png)
 
-`atom_one_dark.png`
+`AtomOneDark`
 
 ![image](atom_one_dark.png)
 
-`atom_one_light.png`
-
-![image](atom_one_light.png)
-
-`aura.png`
- 
 `Aura`
 
 ![image](aura.png)
@@ -610,6 +604,14 @@ The screenshots are categorized.
 
 ![image](ir_black.png)
 
+`IRIX Console`
+
+![image](irix_console.png)
+
+`IRIX Terminal`
+
+![image](irix_terminal.png)
+
 `iTerm2 Dark Background`
 
 ![image](iterm2-dark-background.png)
@@ -806,44 +808,6 @@ The screenshots are categorized.
 
 ![image](monokai_pro.png)
 
-`monokai-pro.png`
-
-![image](monokai-pro.png)
-
-`monokai_classic.png`
-
-![image](monokai_classic.png)
-
-`monokai_pro.png`
-
-![image](monokai_pro.png)
-
-`monokai_pro_light.png`
-
-![image](monokai_pro_light.png)
-
-`monokai_pro_light_sun.png`
-
-![image](monokai_pro_light_sun.png)
-
-`monokai_pro_machine.png`
-
-![image](monokai_pro_machine.png)
-
-`monokai_pro_octagon.png`
-
-![image](monokai_pro_octagon.png)
-
-`monokai_pro_ristretto.png`
-
-![image](monokai_pro_ristretto.png)
-
-`monokai_pro_spectrum.png`
-
-![image](monokai_pro_spectrum.png)
-
-`monokai_remastered.png`
-               
 `Monokai Remastered`
 
 ![image](monokai_remastered.png)
@@ -1120,7 +1084,7 @@ The screenshots are categorized.
 
 ![image](solarized-osaka-night.png)
 
-`sonokai.png`
+`sonokai`
 
 ![image](sonokai.png)
 
@@ -1204,16 +1168,9 @@ The screenshots are categorized.
 
 ![image](terafox.png)
 
-
-`terminal_basic.png`
-
-![image](terminal_basic.png)
-
-`terminal_basic_dark.png`
+`Terminal Basic Dark`
 
 ![image](terminal_basic_dark.png)
-
-`thayer_bright.png`
 
 `Thayer Bright`
 

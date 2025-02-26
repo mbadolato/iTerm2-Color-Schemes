@@ -1,0 +1,12 @@
+# IRIX Terminal
+[colors]
+foreground = "#f2f2f2"
+background = "#000043"
+cursor_bg = "#c7c7c7"
+cursor_border = "#c7c7c7"
+cursor_fg = "#ffffff"
+selection_bg = "#c2deff"
+selection_fg = "#000000"
+
+ansi = ["#1a1919","#ff2b1e","#57ff3d","#ffff44","#0004ff","#ff2cff","#56ffff","#ffffff"]
+brights = ["#ffff44","#ffff44","#ffff44","#fffc72","#ffff44","#ffff44","#ffff44","#ffff44"]
