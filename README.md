@@ -860,6 +860,14 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/ir_black.png)
 
+### IRIX Console
+
+![Screenshot](screenshot/irix_console.png)
+
+### IRIX Terminal
+
+![Screenshot](screenshot/irix_terminal.png)
+
 ### iTerm2 Default
 
 ![Screenshot](screenshots/iterm2-default.png)

@@ -1,0 +1,43 @@
+!
+! IRIX Terminal
+!
+*.foreground:  #f2f2f2
+*.background:  #000043
+*.cursorColor: #c7c7c7
+!
+! Black
+*.color0:      #1a1919
+*.color8:      #ffff44
+!
+! Red
+*.color1:      #ff2b1e
+*.color9:      #ffff44
+!
+! Green
+*.color2:      #57ff3d
+*.color10:     #ffff44
+!
+! Yellow
+*.color3:      #ffff44
+*.color11:     #fffc72
+!
+! Blue
+*.color4:      #0004ff
+*.color12:     #ffff44
+!
+! Magenta
+*.color5:      #ff2cff
+*.color13:     #ffff44
+!
+! Cyan
+*.color6:      #56ffff
+*.color14:     #ffff44
+!
+! White
+*.color7:      #ffffff
+*.color15:     #ffff44
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffff44
+!*.colorIT:
+!*.colorUL:

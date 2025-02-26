@@ -220,6 +220,9 @@ The scheme idleToes was inspired by the [idleFingers](http://www.idlefingers.co.
 
 The IR_Black theme was found [here](https://gist.github.com/meqif/1238378)
 
+The IRIX Console and IRIX Terminal themes were created, based on screenshots from [CompuHacker/](https://www.reddit.com/user/CompuHacker/) on [Reddit](https://www.reddit.com/r/IRIX/comments/1iohgt4/any_irix_user_able_to_help) by [Skeeve](https://github.com/Skeeve).
+[IRIX](https://en.wikipedia.org/wiki/IRIX) was the operating system of Silicon Graphics Computers.
+
 The Japanesque theme was created by [aereal](https://github.com/aereal/dotfiles/blob/master/colors/Japanesque/Japanesque.itermcolors)
 
 The Jellybeans theme was created by [qtpi](https://github.com/qtpi/Jellybeans.itermcolors)
