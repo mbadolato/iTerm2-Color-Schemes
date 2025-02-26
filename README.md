@@ -398,7 +398,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### CGA
 
-![Screenshot](screenshots/CGA.png)
+![Screenshot](screenshots/cga.png)
 
 ### Chalk
 
@@ -502,7 +502,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### Django
 
-![Screenshot](screenshots/Django.png)
+![Screenshot](screenshots/django.png)
 
 ### DjangoRebornAgain
 
@@ -530,7 +530,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### Dracula+
 
-![Screenshot](screenshots/Dracula+.png)
+![Screenshot](screenshots/dracula+.png)
 
 ### Duckbones
 
@@ -702,7 +702,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### GitHub Dark
 
-![Screenshot](screenshots/GitHub_Dark.png)
+![Screenshot](screenshots/github_dark.png)
 
 ### GitLab Dark
 
@@ -730,7 +730,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### Grey-green
 
-![Screenshot](screenshots/Grey-green.png)
+![Screenshot](screenshots/grey-green.png)
 
 ### Gruber Darker
 
@@ -758,7 +758,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### Guezwhoz
 
-![Screenshot](screenshots/Guezwhoz.png)
+![Screenshot](screenshots/guezwhoz.png)
 
 ### Hacktober
 
@@ -782,15 +782,15 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### HaX0R_R3D
 
-![Screenshot](screenshots/HaX0R_R3D.png)
+![Screenshot](screenshots/hax0r_r3d.png)
 
 ### HaX0R_GR33N
 
-![Screenshot](screenshots/HaX0R_GR33N.png)
+![Screenshot](screenshots/hax0r_gr33n.png)
 
 ### HaX0R_BLUE
 
-![Screenshot](screenshots/HaX0R_BLUE.png)
+![Screenshot](screenshots/hax0r_blue.png)
 
 ### heeler
 
@@ -974,7 +974,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### LoveLace
 
-![Screenshot](screenshots/LoveLace.png)
+![Screenshot](screenshots/lovelace.png)
 
 ### Man Page
 
@@ -1246,7 +1246,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### Peppermint
 
-![Screenshot](screenshots/Peppermint.png)
+![Screenshot](screenshots/peppermint.png)
 
 ### Piatto Light
 
@@ -1258,7 +1258,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### Popping and Locking
 
-![Screenshot](screenshots/Popping_and_Locking.png)
+![Screenshot](screenshots/popping_and_locking.png)
 
 ### Primary
 
@@ -1314,7 +1314,7 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### Retro
 
-![Screenshot](screenshots/Retro.png)
+![Screenshot](screenshots/retro.png)
 
 ### RetroLegends
 
@@ -1495,7 +1495,7 @@ more information.
 
 ### Sugarplum
 
-![Screenshot](screenshots/Sugarplum.png)
+![Screenshot](screenshots/sugarplum.png)
 
 ### Sundried
 
@@ -1960,3 +1960,4 @@ tools/preview.rb schemes/*
 iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes | iTerm Themes | iTerm2 Themes | iTerm 2 Themes
 
 [![Analytics](https://ga-beacon.appspot.com/UA-30661340-2/mbadolato/iTerm2-Color-Schemes?pixel)](https://github.com/igrigorik/ga-beacon)
+
