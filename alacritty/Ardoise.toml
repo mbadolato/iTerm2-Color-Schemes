@@ -1,0 +1,33 @@
+# Colors (Ardoise)
+
+[colors.bright]
+black = '#535353'
+blue = '#6ab5f8'
+cyan = '#89ffdb'
+green = '#8dc252'
+magenta = '#be68ca'
+red = '#fa5852'
+white = '#fefefe'
+yellow = '#ffea51'
+
+[colors.cursor]
+cursor = '#f7f7f7'
+text = '#000000'
+
+[colors.normal]
+black = '#2c2c2c'
+blue = '#2465c2'
+cyan = '#64e1b8'
+green = '#588b35'
+magenta = '#7332b4'
+red = '#d3322d'
+white = '#f7f7f7'
+yellow = '#fca93a'
+
+[colors.primary]
+background = '#1e1e1e'
+foreground = '#eaeaea'
+
+[colors.selection]
+background = '#46515e'
+text = '#f1f3f5'

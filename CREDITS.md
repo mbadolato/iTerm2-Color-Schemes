@@ -28,6 +28,8 @@ The Apple System Colors Light theme was created by [Aaron-212](https://github.co
 
 The Arcoiris theme was created by [some random guy](https://github.com/indyandie)
 
+The Ardoise theme was created by [JeffreyCA](https://github.com/JeffreyCA)
+
 The Argonaut theme was created by [effkay](https://github.com/effkay/iTerm-argonaut)
 
 The Arthur, N0tch2k, Pnevma, Square, and Wryan themes were created by [baskerville](https://github.com/baskerville/iTerm-2-Color-Themes)

@@ -1,0 +1,43 @@
+!
+! Ardoise
+!
+*.foreground:  #eaeaea
+*.background:  #1e1e1e
+*.cursorColor: #f7f7f7
+!
+! Black
+*.color0:      #2c2c2c
+*.color8:      #535353
+!
+! Red
+*.color1:      #d3322d
+*.color9:      #fa5852
+!
+! Green
+*.color2:      #588b35
+*.color10:     #8dc252
+!
+! Yellow
+*.color3:      #fca93a
+*.color11:     #ffea51
+!
+! Blue
+*.color4:      #2465c2
+*.color12:     #6ab5f8
+!
+! Magenta
+*.color5:      #7332b4
+*.color13:     #be68ca
+!
+! Cyan
+*.color6:      #64e1b8
+*.color14:     #89ffdb
+!
+! White
+*.color7:      #f7f7f7
+*.color15:     #fefefe
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

@@ -60,6 +60,10 @@ The screenshots are categorized.
 
 ![image](arcoiris.png)
 
+`Ardoise`
+
+![image](ardoise.png)
+
 `Argonaut`
 
 ![image](argonaut.png)

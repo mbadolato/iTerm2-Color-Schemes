@@ -1,0 +1,12 @@
+# Ardoise
+[colors]
+foreground = "#eaeaea"
+background = "#1e1e1e"
+cursor_bg = "#f7f7f7"
+cursor_border = "#f7f7f7"
+cursor_fg = "#000000"
+selection_bg = "#46515e"
+selection_fg = "#f1f3f5"
+
+ansi = ["#2c2c2c","#d3322d","#588b35","#fca93a","#2465c2","#7332b4","#64e1b8","#f7f7f7"]
+brights = ["#535353","#fa5852","#8dc252","#ffea51","#6ab5f8","#be68ca","#89ffdb","#fefefe"]
