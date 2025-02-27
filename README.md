@@ -132,14 +132,14 @@ The tools only can handle sRGB color space.
 To convert an `.itermcolors` file int sRGB color space, use the provided `p3tosRGB.py` tool:
 
 ```shell
-python3 tools/p3tosRGB schemes/YOUR_SCHEME
+python3 tools/p3tosRGB.py schemes/YOUR_SCHEME
 ```
 
 When using Docker:
 
 ```shell
 ./generate-all.sh debug
-python3 tools/p3tosRGB schemes/YOUR_SCHEME
+python3 tools/p3tosRGB.py schemes/YOUR_SCHEME
 ```
 
 This will overwrite your scheme with a converted version.
