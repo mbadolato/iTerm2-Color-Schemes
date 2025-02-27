@@ -264,6 +264,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/arcoiris.png)
 
+### Ardoise
+
+![Screenshot](screenshots/ardoise.png)
+
 ### Argonaut
 
 ![Screenshot](screenshots/argonaut.png)
