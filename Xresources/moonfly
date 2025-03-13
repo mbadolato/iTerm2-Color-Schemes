@@ -1,0 +1,43 @@
+!
+! moonfly
+!
+*.foreground:  #bdbdbd
+*.background:  #080808
+*.cursorColor: #9e9e9e
+!
+! Black
+*.color0:      #323437
+*.color8:      #949494
+!
+! Red
+*.color1:      #ff5454
+*.color9:      #ff5189
+!
+! Green
+*.color2:      #8cc85f
+*.color10:     #36c692
+!
+! Yellow
+*.color3:      #e3c78a
+*.color11:     #c6c684
+!
+! Blue
+*.color4:      #80a0ff
+*.color12:     #74b2ff
+!
+! Magenta
+*.color5:      #cf87e8
+*.color13:     #ae81ff
+!
+! Cyan
+*.color6:      #79dac8
+*.color14:     #85dc85
+!
+! White
+*.color7:      #c6c6c6
+*.color15:     #e4e4e4
+!
+! Bold, Italic, Underline
+*.colorBD:     #eeeeee
+!*.colorIT:
+!*.colorUL:
