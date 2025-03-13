@@ -1120,6 +1120,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/monokai_vivid.png)
 
+### moonfly
+
+![Screenshot](screenshots/moonfly.png)
+
 ### N0tch2k
 
 ![Screenshot](screenshots/n0tch2k.png)
