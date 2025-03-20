@@ -243,6 +243,8 @@ The Lab Fox theme was created by [theatlasroom](https://github.com/theatlasroom)
 
 The Later This Evening theme was created by [vilhalmer](https://github.com/vilhalmer/System/tree/master/terminal-themes)
 
+The LightOwl theme was created by [zasdaym](https://github.com/zasdaym)
+
 The LiquidCarbon themes were created by [markcho](https://github.com/markcho/iTerm2_LiquidCarbon)
 
 The LoveLace theme was created by [nalanbar](https://github.com/nalanbar) based on a dotfile from [elenapan](https://github.com/elenapan)
@@ -294,6 +296,8 @@ The Neutron theme was created by [Ch4s3](https://github.com/Ch4s3/iTerm2-Neutron
 The Nightfox, Dayfox and Terafox theme was created by [EdenEast](https://github.com/edeneast/nightfox.nvim)
 
 The NightLion themes were created by [Curvve Media](http://www.curvve.com/blog/category/themes/)
+
+The NightOwl theme was created by [zasdaym](https://github.com/zasdaym)
 
 The Night Owlish Light theme was created by [praveenpuglia](https://github.com/praveenpuglia) based on [sdras](https://github.com/sdras)'s [Night Owl](https://github.com/sdras/night-owl-vscode-theme) VS Code theme.
 

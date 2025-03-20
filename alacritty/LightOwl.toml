@@ -1,0 +1,33 @@
+# Colors (LightOwl)
+
+[colors.bright]
+black = '#989fb1'
+blue = '#288ed7'
+cyan = '#2aa298'
+green = '#08916a'
+magenta = '#d6438a'
+red = '#de3d3b'
+white = '#f0f0f0'
+yellow = '#daaa01'
+
+[colors.cursor]
+cursor = '#403f53'
+text = '#f6f6f6'
+
+[colors.normal]
+black = '#403f53'
+blue = '#288ed7'
+cyan = '#2aa298'
+green = '#08916a'
+magenta = '#d6438a'
+red = '#de3d3b'
+white = '#f0f0f0'
+yellow = '#e0af02'
+
+[colors.primary]
+background = '#fbfbfb'
+foreground = '#403f53'
+
+[colors.selection]
+background = '#e0e0e0'
+text = '#403f53'
