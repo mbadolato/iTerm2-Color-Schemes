@@ -860,6 +860,10 @@ The screenshots are categorized.
 
 ![image](nightlion_v2.png)
 
+`NightOwl`
+
+![image](night_owl.png)
+
 `niji`
 
 ![image](niji.png)
@@ -1441,6 +1445,10 @@ The screenshots are categorized.
 `iTerm2 Tango Light`
 
 ![image](iterm2-tango-light.png)
+
+`LightOwl`
+
+![image](light_owl.png)
 
 `Man Page`
 

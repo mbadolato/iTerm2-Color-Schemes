@@ -972,6 +972,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/lavandula.png)
 
+### Light Owl
+
+![Screenshot](screenshots/light_owl.png)
+
 ### LiquidCarbon
 
 ![Screenshot](screenshots/liquid_carbon.png)
@@ -1159,6 +1163,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### NightLion v2
 
 ![Screenshot](screenshots/nightlion_v2.png)
+
+### Night Owl
+
+![Screenshot](screenshots/night_owl.png)
 
 ### Night Owlish Light
 

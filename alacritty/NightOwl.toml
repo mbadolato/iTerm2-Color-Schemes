@@ -1,0 +1,33 @@
+# Colors (NightOwl)
+
+[colors.bright]
+black = '#575656'
+blue = '#82aaff'
+cyan = '#7fdbca'
+green = '#22da6e'
+magenta = '#c792ea'
+red = '#ef5350'
+white = '#ffffff'
+yellow = '#ffeb95'
+
+[colors.cursor]
+cursor = '#7e57c2'
+text = '#ffffff'
+
+[colors.normal]
+black = '#011627'
+blue = '#82aaff'
+cyan = '#21c7a8'
+green = '#22da6e'
+magenta = '#c792ea'
+red = '#ef5350'
+white = '#ffffff'
+yellow = '#addb67'
+
+[colors.primary]
+background = '#011627'
+foreground = '#d6deeb'
+
+[colors.selection]
+background = '#5f7e97'
+text = '#dfe5ee'

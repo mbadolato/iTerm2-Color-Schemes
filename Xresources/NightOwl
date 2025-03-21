@@ -1,0 +1,43 @@
+!
+! NightOwl
+!
+*.foreground:  #d6deeb
+*.background:  #011627
+*.cursorColor: #7e57c2
+!
+! Black
+*.color0:      #011627
+*.color8:      #575656
+!
+! Red
+*.color1:      #ef5350
+*.color9:      #ef5350
+!
+! Green
+*.color2:      #22da6e
+*.color10:     #22da6e
+!
+! Yellow
+*.color3:      #addb67
+*.color11:     #ffeb95
+!
+! Blue
+*.color4:      #82aaff
+*.color12:     #82aaff
+!
+! Magenta
+*.color5:      #c792ea
+*.color13:     #c792ea
+!
+! Cyan
+*.color6:      #21c7a8
+*.color14:     #7fdbca
+!
+! White
+*.color7:      #ffffff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #addb67
+!*.colorIT:
+!*.colorUL:
