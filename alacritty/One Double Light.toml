@@ -1,0 +1,33 @@
+# Colors (One Double Light)
+
+[colors.bright]
+black = '#0f131e'
+blue = '#2e63d6'
+cyan = '#06b1d8'
+green = '#3db637'
+magenta = '#d21fd1'
+red = '#f24c2d'
+white = '#ffffff'
+yellow = '#e09d00'
+
+[colors.cursor]
+cursor = '#1a1a1a'
+text = '#dcdfe4'
+
+[colors.normal]
+black = '#464b57'
+blue = '#0184bc'
+cyan = '#0997b3'
+green = '#50a14f'
+magenta = '#a626a4'
+red = '#e45649'
+white = '#e8d9d9'
+yellow = '#c18401'
+
+[colors.primary]
+background = '#fafafa'
+foreground = '#383a42'
+
+[colors.selection]
+background = '#474e5d'
+text = '#1a1a1a'

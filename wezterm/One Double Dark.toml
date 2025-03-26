@@ -1,0 +1,12 @@
+# One Double Dark
+[colors]
+foreground = "#dcdfe4"
+background = "#292c33"
+cursor_bg = "#f1e1dd"
+cursor_border = "#f1e1dd"
+cursor_fg = "#cfd6f1"
+selection_bg = "#595b6e"
+selection_fg = "#cfd6f1"
+
+ansi = ["#3e4451","#e06c75","#98c379","#e5c07b","#61afef","#c678dd","#56b6c2","#dcdfe4"]
+brights = ["#545d6d","#fd807f","#96d58b","#edc273","#84c8ff","#ee82ee","#3ae1f7","#f7f9fc"]

@@ -904,6 +904,10 @@ The screenshots are categorized.
 
 ![image](ollie.png)
 
+`One Double Dark`
+
+![image](one_double_dark.png)
+
 `OneHalfDark`
 
 ![image](onehalfdark.png)
@@ -1489,6 +1493,10 @@ The screenshots are categorized.
 `NvimLight`
 
 ![image](NvimLight.png)
+
+`One Double Light`
+
+![image](one_double_light.png)
 
 `OneHalfLight`
 
