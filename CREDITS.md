@@ -319,6 +319,8 @@ The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpa
 
 The Oceanic Next theme was created by [mhartington](https://github.com/mhartington/oceanic-next-iterm)
 
+The One Double Dark and One Double Light themes were created by [pamburus](https://github.com/pamburus/one-double), based on One Half and Atom's One, with a visibility fix for the bright black color in the dark variant and altered bright colors in both variants.
+
 The One Half themes were created by [sonph](https://github.com/sonph), based on Atom's One with some tweakings.
 
 The Operator Mono Dark was ported from [vharadkou](https://github.com/vharadkou/OperatorMonoDarkTheme) by [dreamyguy](https://github.com/dreamyguy/iterm-theme-operator-mono-dark)

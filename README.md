@@ -1224,6 +1224,14 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/ollie.png)
 
+### One Double Dark
+
+![Screenshot](screenshots/one_double_dark.png)
+
+### One Double Light
+
+![Screenshot](screenshots/one_double_light.png)
+
 ### One Half Dark
 
 ![Screenshot](screenshots/onehalfdark.png)
@@ -1984,4 +1992,3 @@ tools/preview.rb schemes/*
 iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes | iTerm Themes | iTerm2 Themes | iTerm 2 Themes
 
 [![Analytics](https://ga-beacon.appspot.com/UA-30661340-2/mbadolato/iTerm2-Color-Schemes?pixel)](https://github.com/igrigorik/ga-beacon)
-
