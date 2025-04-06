@@ -1,0 +1,26 @@
+tags = [{% if Dark_Theme %}"dark"{% else %}"light"{% endif %}]
+
+[theme.colors]
+background = "#{{ Background_Color.hex }}"
+foreground = "#{{ Foreground_Color.hex }}"
+{% if Bold_Color %}
+bright-foreground = "#{{ Bold_Color.hex }}"
+{% endif %}
+
+[theme.colors.palette]
+0 = "#{{ Ansi_0_Color.hex }}"
+1 = "#{{ Ansi_1_Color.hex }}"
+2 = "#{{ Ansi_2_Color.hex }}"
+3 = "#{{ Ansi_3_Color.hex }}"
+4 = "#{{ Ansi_4_Color.hex }}"
+5 = "#{{ Ansi_5_Color.hex }}"
+6 = "#{{ Ansi_6_Color.hex }}"
+7 = "#{{ Ansi_7_Color.hex }}"
+8 = "#{{ Ansi_8_Color.hex }}"
+9 = "#{{ Ansi_9_Color.hex }}"
+10 = "#{{ Ansi_10_Color.hex }}"
+11 = "#{{ Ansi_11_Color.hex }}"
+12 = "#{{ Ansi_12_Color.hex }}"
+13 = "#{{ Ansi_13_Color.hex }}"
+14 = "#{{ Ansi_14_Color.hex }}"
+15 = "#{{ Ansi_15_Color.hex }}"
