@@ -62,6 +62,8 @@ The BlueDolphin theme was designed by [vimiomori](https://github.com/vimiomori).
 
 The Borland theme was created by [delip](https://gist.github.com/delip/9e16c606d9331d69d681)
 
+The Box theme was created by [D3vil0p3r](https://github.com/D3vil0p3r)
+
 The Breeze theme was based on [the Breeze color scheme](https://github.com/KDE/konsole/blob/master/data/color-schemes/Breeze.colorscheme) by [KDE](https://kde.org) and ported to iTerm by [nieltg](https://github.com/nieltg)
 
 The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
