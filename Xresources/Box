@@ -1,0 +1,43 @@
+!
+! Box
+!
+*.foreground:  #9fef00
+*.background:  #141d2b
+*.cursorColor: #9fef00
+!
+! Black
+*.color0:      #000000
+*.color8:      #767676
+!
+! Red
+*.color1:      #cc0403
+*.color9:      #f2201f
+!
+! Green
+*.color2:      #19cb00
+*.color10:     #23fd00
+!
+! Yellow
+*.color3:      #cecb00
+*.color11:     #fffd00
+!
+! Blue
+*.color4:      #0d73cc
+*.color12:     #1a8fff
+!
+! Magenta
+*.color5:      #cb1ed1
+*.color13:     #fd28ff
+!
+! Cyan
+*.color6:      #0dcdcd
+*.color14:     #14ffff
+!
+! White
+*.color7:      #dddddd
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

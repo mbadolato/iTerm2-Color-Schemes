@@ -360,6 +360,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/borland.png)
 
+### Box
+
+![Screenshot](screenshots/box.png)
+
 ### Breeze
 
 ![Screenshot](screenshots/breeze.png)
