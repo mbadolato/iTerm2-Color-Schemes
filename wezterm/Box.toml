@@ -1,0 +1,12 @@
+# Box
+[colors]
+foreground = "#9fef00"
+background = "#141d2b"
+cursor_bg = "#9fef00"
+cursor_border = "#9fef00"
+cursor_fg = "#111111"
+selection_bg = "#a4b1cd"
+selection_fg = "#141d2b"
+
+ansi = ["#000000","#cc0403","#19cb00","#cecb00","#0d73cc","#cb1ed1","#0dcdcd","#dddddd"]
+brights = ["#767676","#f2201f","#23fd00","#fffd00","#1a8fff","#fd28ff","#14ffff","#ffffff"]

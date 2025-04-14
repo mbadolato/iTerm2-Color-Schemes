@@ -1,0 +1,33 @@
+# Colors (Box)
+
+[colors.bright]
+black = '#767676'
+blue = '#1a8fff'
+cyan = '#14ffff'
+green = '#23fd00'
+magenta = '#fd28ff'
+red = '#f2201f'
+white = '#ffffff'
+yellow = '#fffd00'
+
+[colors.cursor]
+cursor = '#9fef00'
+text = '#111111'
+
+[colors.normal]
+black = '#000000'
+blue = '#0d73cc'
+cyan = '#0dcdcd'
+green = '#19cb00'
+magenta = '#cb1ed1'
+red = '#cc0403'
+white = '#dddddd'
+yellow = '#cecb00'
+
+[colors.primary]
+background = '#141d2b'
+foreground = '#9fef00'
+
+[colors.selection]
+background = '#a4b1cd'
+text = '#141d2b'
