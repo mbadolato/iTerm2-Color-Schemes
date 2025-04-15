@@ -1,0 +1,24 @@
+tags = ["light"]
+
+[theme.colors]
+background = "#332a57"
+foreground = "#e5e5e5"
+bright-foreground = "#ffffff"
+
+[theme.colors.palette]
+0 = "#000000"
+1 = "#ff7092"
+2 = "#00fbac"
+3 = "#fffa6a"
+4 = "#00bfff"
+5 = "#df95ff"
+6 = "#86cbfe"
+7 = "#ffffff"
+8 = "#000000"
+9 = "#ff8aa4"
+10 = "#21f6bc"
+11 = "#fff787"
+12 = "#1bccfd"
+13 = "#e6aefe"
+14 = "#99d6fc"
+15 = "#ffffff"
