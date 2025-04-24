@@ -1394,6 +1394,10 @@ The screenshots are categorized.
 
 ![image](dayfox.png)
 
+`Everforest Light - Med`
+
+![image](everforest_light_med.png)
+
 `farmhouse-light`
 
 ![image](farmhouse-light.png)
