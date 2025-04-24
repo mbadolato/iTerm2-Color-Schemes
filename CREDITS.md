@@ -140,6 +140,8 @@ The Everblush theme was created by [Mangeshrex](https://github.com/Mangeshrex)
 
 The Everforest Dark - Hard theme was found [here](https://github.com/icewind/everforest.iterm2) and ported by [NicolasGB](https://github.com/NicolasGB)
 
+The Everforest Light - Med theme was found [here](https://github.com/icewind/everforest.iterm2) and ported by [robertjkeller](https://github.com/robertjkeller)
+
 The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
 
 The Farmhouse themes where created by [mattly](https://github.com/mattly) <https://github.com/mattly/iterm-colors-farmhouse> based on an original Emacs theme.
