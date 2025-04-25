@@ -612,6 +612,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/everforest_dark_hard.png)
 
+### Everforest Light - Med
+
+![Screenshot](screenshots/everforest_light_med.png)
+
 ### Fairyfloss
 
 ![Screenshot](screenshots/fairyfloss.png)
