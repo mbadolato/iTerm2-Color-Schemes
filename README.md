@@ -141,8 +141,8 @@ This will overwrite your scheme with a converted version.
 
 1. Convert it to the YAML format specified in `yaml/README.md`.
    This is an extension of the format supported by the [Gogh](https://github.com/Gogh-Co/Gogh/) project.
-   * If it helps, you can use `tools/kitty_to_yaml.py` and `tools/ghostty_to_yaml.py`.
-     These tools accept configuration file streamed into stdin, and output a YAML fragment to stdout. 
+   - If it helps, you can use `tools/kitty_to_yaml.py` and `tools/ghostty_to_yaml.py`.
+     These tools accept configuration file streamed into stdin, and output a YAML fragment to stdout.
 2. Put the YAML file in `yaml/`, with the `.yml` extension.
 3. Continue with the "Create derived versions" below.
 
@@ -351,6 +351,50 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 ### BirdsOfParadise
 
 ![Screenshot](screenshots/birds_of_paradise.png)
+
+### Black Metal (Bathory)
+
+![Screenshot](screenshots/black_metal_bathory.png)
+
+### Black Metal (Burzum)
+
+![Screenshot](screenshots/black_metal_burzum.png)
+
+### Black Metal (Dark Funeral)
+
+![Screenshot](screenshots/black_metal_dark_funeral.png)
+
+### Black Metal (Gorgoroth)
+
+![Screenshot](screenshots/black_metal_gorgoroth.png)
+
+### Black Metal (Immortal)
+
+![Screenshot](screenshots/black_metal_immortal.png)
+
+### Black Metal (Khold)
+
+![Screenshot](screenshots/black_metal_khold.png)
+
+### Black Metal (Marduk)
+
+![Screenshot](screenshots/black_metal_marduk.png)
+
+### Black Metal (Mayhem)
+
+![Screenshot](screenshots/black_metal_mayhem.png)
+
+### Black Metal (Nile)
+
+![Screenshot](screenshots/black_metal_nile.png)
+
+### Black Metal (Venom)
+
+![Screenshot](screenshots/black_metal_venom.png)
+
+### Black Metal
+
+![Screenshot](screenshots/black_metal.png)
 
 ### Blazer
 

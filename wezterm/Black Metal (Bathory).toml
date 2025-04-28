@@ -1,0 +1,12 @@
+# Black Metal (Bathory)
+[colors]
+foreground = "#c1c1c1"
+background = "#000000"
+cursor_bg = "#c1c1c1"
+cursor_border = "#c1c1c1"
+cursor_fg = "#c1c1c1"
+selection_bg = "#c1c1c1"
+selection_fg = "#000000"
+
+ansi = ["#000000","#5f8787","#fbcb97","#e78a53","#888888","#999999","#aaaaaa","#c1c1c1"]
+brights = ["#333333","#5f8787","#fbcb97","#e78a53","#888888","#999999","#aaaaaa","#c1c1c1"]

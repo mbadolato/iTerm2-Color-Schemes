@@ -1,0 +1,33 @@
+# Colors (Black Metal (Bathory))
+
+[colors.bright]
+black = '#333333'
+blue = '#888888'
+cyan = '#aaaaaa'
+green = '#fbcb97'
+magenta = '#999999'
+red = '#5f8787'
+white = '#c1c1c1'
+yellow = '#e78a53'
+
+[colors.cursor]
+cursor = '#c1c1c1'
+text = '#c1c1c1'
+
+[colors.normal]
+black = '#000000'
+blue = '#888888'
+cyan = '#aaaaaa'
+green = '#fbcb97'
+magenta = '#999999'
+red = '#5f8787'
+white = '#c1c1c1'
+yellow = '#e78a53'
+
+[colors.primary]
+background = '#000000'
+foreground = '#c1c1c1'
+
+[colors.selection]
+background = '#c1c1c1'
+text = '#000000'

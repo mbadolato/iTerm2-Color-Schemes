@@ -54,6 +54,8 @@ The Batman, Spiderman, and The Hulk themes were created by [pyrophos](https://gi
 
 The Belafonte Day, Belafonte Night, Paraiso Dark, and C64 themes were created by [idleberg](https://github.com/idleberg)
 
+The Black Metal themes were implemented by [nooneknows](https://github.com/nooneknowspeter) based on [base16-black-metal schemes](https://github.com/metalelf0/base16-black-metal-scheme)
+
 The Blueberry Banana, Blue Matrix, Cyberdyne, Laser, and Scarlet Protocol themes were created by [ReagentX](https://github.com/ReagentX)
 
 The BlueBerry Pie theme was created together by [murmurlilia](https://www.instagram.com/the.julias/) and [fitz123](https://github.com/fitz123)

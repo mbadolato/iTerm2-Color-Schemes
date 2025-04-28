@@ -116,6 +116,50 @@ The screenshots are categorized.
 
 ![image](birds_of_paradise.png)
 
+`Black Metal (Bathory)`
+
+![image](black_metal_bathory.png)
+
+`Black Metal (Burzum)`
+
+![image](black_metal_burzum.png)
+
+`Black Metal (Dark Funeral)`
+
+![image](black_metal_dark_funeral.png)
+
+`Black Metal (Gorgoroth)`
+
+![image](black_metal_gorgoroth.png)
+
+`Black Metal (Immortal)`
+
+![image](black_metal_immortal.png)
+
+`Black Metal (Khold)`
+
+![image](black_metal_khold.png)
+
+`Black Metal (Marduk)`
+
+![image](black_metal_marduk.png)
+
+`Black Metal (Mayhem)`
+
+![image](black_metal_mayhem.png)
+
+`Black Metal (Nile)`
+
+![image](black_metal_nile.png)
+
+`Black Metal (Venom)`
+
+![image](black_metal_venom.png)
+
+`Black Metal`
+
+![image](black_metal.png)
+
 `Blazer`
 
 ![image](blazer.png)

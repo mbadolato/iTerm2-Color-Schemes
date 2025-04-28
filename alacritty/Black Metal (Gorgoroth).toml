@@ -1,0 +1,33 @@
+# Colors (Black Metal (Gorgoroth))
+
+[colors.bright]
+black = '#333333'
+blue = '#888888'
+cyan = '#aaaaaa'
+green = '#9b8d7f'
+magenta = '#999999'
+red = '#5f8787'
+white = '#c1c1c1'
+yellow = '#8c7f70'
+
+[colors.cursor]
+cursor = '#c1c1c1'
+text = '#c1c1c1'
+
+[colors.normal]
+black = '#000000'
+blue = '#888888'
+cyan = '#aaaaaa'
+green = '#9b8d7f'
+magenta = '#999999'
+red = '#5f8787'
+white = '#c1c1c1'
+yellow = '#8c7f70'
+
+[colors.primary]
+background = '#000000'
+foreground = '#c1c1c1'
+
+[colors.selection]
+background = '#c1c1c1'
+text = '#000000'
