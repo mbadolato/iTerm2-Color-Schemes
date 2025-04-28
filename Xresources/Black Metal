@@ -1,0 +1,43 @@
+!
+! Black Metal
+!
+*.foreground:  #c1c1c1
+*.background:  #000000
+*.cursorColor: #c1c1c1
+!
+! Black
+*.color0:      #000000
+*.color8:      #333333
+!
+! Red
+*.color1:      #486e6f
+*.color9:      #486e6f
+!
+! Green
+*.color2:      #dd9999
+*.color10:     #dd9999
+!
+! Yellow
+*.color3:      #a06666
+*.color11:     #a06666
+!
+! Blue
+*.color4:      #888888
+*.color12:     #888888
+!
+! Magenta
+*.color5:      #999999
+*.color13:     #999999
+!
+! Cyan
+*.color6:      #aaaaaa
+*.color14:     #aaaaaa
+!
+! White
+*.color7:      #c1c1c1
+*.color15:     #c1c1c1
+!
+! Bold, Italic, Underline
+*.colorBD:     #c1c1c1
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,43 @@
+!
+! Black Metal (Nile)
+!
+*.foreground:  #c1c1c1
+*.background:  #000000
+*.cursorColor: #c1c1c1
+!
+! Black
+*.color0:      #000000
+*.color8:      #333333
+!
+! Red
+*.color1:      #5f8787
+*.color9:      #5f8787
+!
+! Green
+*.color2:      #aa9988
+*.color10:     #aa9988
+!
+! Yellow
+*.color3:      #777755
+*.color11:     #777755
+!
+! Blue
+*.color4:      #888888
+*.color12:     #888888
+!
+! Magenta
+*.color5:      #999999
+*.color13:     #999999
+!
+! Cyan
+*.color6:      #aaaaaa
+*.color14:     #aaaaaa
+!
+! White
+*.color7:      #c1c1c1
+*.color15:     #c1c1c1
+!
+! Bold, Italic, Underline
+*.colorBD:     #c1c1c1
+!*.colorIT:
+!*.colorUL:
