@@ -1,0 +1,12 @@
+# Vague
+[colors]
+foreground = "#cdcdcd"
+background = "#141415"
+cursor_bg = "#cdcdcd"
+cursor_border = "#cdcdcd"
+cursor_fg = "#141415"
+selection_bg = "#878787"
+selection_fg = "#cdcdcd"
+
+ansi = ["#141415","#df6882","#8cb66d","#f3be7c","#7e98e8","#c3c3d5","#9bb4bc","#cdcdcd"]
+brights = ["#878787","#df6882","#8cb66d","#f3be7c","#7e98e8","#c3c3d5","#9bb4bc","#cdcdcd"]

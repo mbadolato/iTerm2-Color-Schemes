@@ -1737,6 +1737,10 @@ more information.
 
 ![Screenshot](screenshots/urple.png)
 
+### Vague
+
+![Screenshot](screenshots/vague.png)
+
 ### Vaughn
 
 ![Screenshot](screenshots/vaughn.png)

@@ -1,0 +1,43 @@
+!
+! Vague
+!
+*.foreground:  #cdcdcd
+*.background:  #141415
+*.cursorColor: #cdcdcd
+!
+! Black
+*.color0:      #141415
+*.color8:      #878787
+!
+! Red
+*.color1:      #df6882
+*.color9:      #df6882
+!
+! Green
+*.color2:      #8cb66d
+*.color10:     #8cb66d
+!
+! Yellow
+*.color3:      #f3be7c
+*.color11:     #f3be7c
+!
+! Blue
+*.color4:      #7e98e8
+*.color12:     #7e98e8
+!
+! Magenta
+*.color5:      #c3c3d5
+*.color13:     #c3c3d5
+!
+! Cyan
+*.color6:      #9bb4bc
+*.color14:     #9bb4bc
+!
+! White
+*.color7:      #cdcdcd
+*.color15:     #cdcdcd
+!
+! Bold, Italic, Underline
+*.colorBD:     #cdcdcd
+!*.colorIT:
+!*.colorUL:
