@@ -1,0 +1,33 @@
+# Colors (Vague)
+
+[colors.bright]
+black = '#878787'
+blue = '#7e98e8'
+cyan = '#9bb4bc'
+green = '#8cb66d'
+magenta = '#c3c3d5'
+red = '#df6882'
+white = '#cdcdcd'
+yellow = '#f3be7c'
+
+[colors.cursor]
+cursor = '#cdcdcd'
+text = '#141415'
+
+[colors.normal]
+black = '#141415'
+blue = '#7e98e8'
+cyan = '#9bb4bc'
+green = '#8cb66d'
+magenta = '#c3c3d5'
+red = '#df6882'
+white = '#cdcdcd'
+yellow = '#f3be7c'
+
+[colors.primary]
+background = '#141415'
+foreground = '#cdcdcd'
+
+[colors.selection]
+background = '#878787'
+text = '#cdcdcd'

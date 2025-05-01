@@ -1316,6 +1316,10 @@ The screenshots are categorized.
 
 ![image](urple.png)
 
+`Vague`
+
+![image](vague.png)
+
 `Vaughn`
 
 ![image](vaughn.png)
