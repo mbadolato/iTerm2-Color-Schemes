@@ -377,6 +377,8 @@ The Ryuuko theme was created by [dylanaraps](https://github.com/dylanaraps) and 
 
 The theme Sakura was created by [0xN0ri](https://github.com/0xN0ri) based on [zdj](https://github.com/zdj) iTerm 2 color scheme [Urple](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Urple.itermcolors)
 
+The themes Selenized Dark and Light were created by [jan-warchol](https://github.com/jan-warchol) and added by [iton0](https://github.com/iton0)
+
 The Seti theme was created by [jesseweed](https://github.com/jesseweed/seti-syntax/) and ported to iTerm2 by [philduffy](https://github.com/willmanduffy/seti-iterm) and slightly modified to make the ANSI blacks have a little more contrast
 
 The Shades Of Purple theme was found [here](https://github.com/ahmadawais/shades-of-purple-iterm2) and ported by [fr3fou](https://github.com/fr3fou)

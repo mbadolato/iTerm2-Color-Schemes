@@ -1,0 +1,33 @@
+# Colors (selenized-light)
+
+[colors.bright]
+black = '#d5cdb6'
+blue = '#006dce'
+cyan = '#00978a'
+green = '#428b00'
+magenta = '#c44392'
+red = '#cc1729'
+white = '#3a4d53'
+yellow = '#a78300'
+
+[colors.cursor]
+cursor = '#53676d'
+text = '#53676d'
+
+[colors.normal]
+black = '#ece3cc'
+blue = '#0072d4'
+cyan = '#009c8f'
+green = '#489100'
+magenta = '#ca4898'
+red = '#d2212d'
+white = '#909995'
+yellow = '#ad8900'
+
+[colors.primary]
+background = '#fbf3db'
+foreground = '#53676d'
+
+[colors.selection]
+background = '#ece3cc'
+text = '#00978a'

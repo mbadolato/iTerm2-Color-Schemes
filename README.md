@@ -1476,6 +1476,14 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/seoulbones_light.png)
 
+### Selenized Dark
+
+![Screenshot](screenshots/selenized-dark.png)
+
+### Selenized Light
+
+![Screenshot](screenshots/selenized-light.png)
+
 ### Seti
 
 ![Screenshot](screenshots/seti.png)
