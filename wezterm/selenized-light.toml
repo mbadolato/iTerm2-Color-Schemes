@@ -1,0 +1,12 @@
+# selenized-light
+[colors]
+foreground = "#53676d"
+background = "#fbf3db"
+cursor_bg = "#53676d"
+cursor_border = "#53676d"
+cursor_fg = "#53676d"
+selection_bg = "#ece3cc"
+selection_fg = "#00978a"
+
+ansi = ["#ece3cc","#d2212d","#489100","#ad8900","#0072d4","#ca4898","#009c8f","#909995"]
+brights = ["#d5cdb6","#cc1729","#428b00","#a78300","#006dce","#c44392","#00978a","#3a4d53"]

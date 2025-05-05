@@ -1,0 +1,43 @@
+!
+! selenized-dark
+!
+*.foreground:  #adbcbc
+*.background:  #103c48
+*.cursorColor: #adbcbc
+!
+! Black
+*.color0:      #184956
+*.color8:      #2d5b69
+!
+! Red
+*.color1:      #fa5750
+*.color9:      #ff665c
+!
+! Green
+*.color2:      #75b938
+*.color10:     #84c747
+!
+! Yellow
+*.color3:      #dbb32d
+*.color11:     #ebc13d
+!
+! Blue
+*.color4:      #4695f7
+*.color12:     #58a3ff
+!
+! Magenta
+*.color5:      #f275be
+*.color13:     #ff84cd
+!
+! Cyan
+*.color6:      #41c7b9
+*.color14:     #53d6c7
+!
+! White
+*.color7:      #72898f
+*.color15:     #cad8d9
+!
+! Bold, Italic, Underline
+*.colorBD:     #adbcbc
+!*.colorIT:
+!*.colorUL:

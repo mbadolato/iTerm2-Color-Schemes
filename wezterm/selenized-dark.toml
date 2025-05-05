@@ -1,0 +1,12 @@
+# selenized-dark
+[colors]
+foreground = "#adbcbc"
+background = "#103c48"
+cursor_bg = "#adbcbc"
+cursor_border = "#adbcbc"
+cursor_fg = "#adbcbc"
+selection_bg = "#184956"
+selection_fg = "#53d6c7"
+
+ansi = ["#184956","#fa5750","#75b938","#dbb32d","#4695f7","#f275be","#41c7b9","#72898f"]
+brights = ["#2d5b69","#ff665c","#84c747","#ebc13d","#58a3ff","#ff84cd","#53d6c7","#cad8d9"]

@@ -1092,6 +1092,10 @@ The screenshots are categorized.
 
 ![image](sea_shells.png)
 
+`selenized-dark`
+
+![image](selenized-dark.png)
+
 `seoulbones_dark`
 
 ![image](seoulbones_dark.png)
@@ -1581,6 +1585,10 @@ The screenshots are categorized.
 `rose-pine-dawn`
 
 ![image](rose-pine-dawn.png)
+
+`selenized-light`
+
+![image](selenized-light.png)
 
 `seoulbones_light`
 
