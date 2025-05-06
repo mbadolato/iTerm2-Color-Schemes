@@ -1,0 +1,32 @@
+# This is based on Kate Morley's 12-bit rainbow palette
+# https://iamkate.com/data/12-bit-rainbow/
+#
+# It does not _strictly_ follow the palette, which does not include blacks and
+# whites; if we stuck strictly to the palette, the closest thing to white would
+# be yellow, and to black a sort of purple. This palette keeps some
+# monochromatic colors in here, if for no other reason that they have "white"
+# and "black" in their names.
+
+name:           "12-bit Rainbow"
+color_01:       "#000000"             # black,      ¬kate
+color_02:       "#a03050"             # red
+color_03:       "#40d080"             # green
+color_04:       "#e09040"             # yellow
+color_05:       "#3060b0"             # blue
+color_06:       "#603090"             # magenta
+color_07:       "#0090c0"             # cyan
+color_08:       "#dbded8"             # white       ¬kate
+color_09:       "#685656"             # light black ¬kate
+color_10:       "#c06060"             # light red
+color_11:       "#90d050"             # light green
+color_12:       "#e0d000"             # light yellow
+color_13:       "#00b0c0"             # light blue
+color_14:       "#801070"             # light magenta
+color_15:       "#20b0c0"             # light cyan
+color_16:       "#ffffff"             # bright white
+cursor:         "#e0d000"             # (yellow)
+cursor_text:    "#000000"             # (black)     ¬kate
+foreground:     "#feffff"             #             ¬kate
+background:     "#040404"             #             ¬kate
+selection:      "#606060"             #             ¬kate
+selection_text: "#ffffff"             # (b.white)   ¬kate

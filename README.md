@@ -220,6 +220,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/0x96f.png)
 
+### 12-bit Rainbow
+
+![Screenshot](screenshots/12-bit_rainbow.png)
+
 ### 3024 Day
 
 ![Screenshot](screenshots/3024_day.png)

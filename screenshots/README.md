@@ -12,6 +12,10 @@ The screenshots are categorized.
 
 ![image](0x96f.png)
 
+`12-bit Rainbow`
+
+![image](12-bit_rainbow.png)
+
 `3024 Night`
 
 ![image](3024_night.png)
