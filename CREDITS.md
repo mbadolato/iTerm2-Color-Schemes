@@ -2,6 +2,8 @@
 
 The 0x96f theme is created by [Filip](https://github.com/filipjanevski)
 
+The 12-bit Rainbow theme was adapted by [xxxserxxx](https://github.com/xxxserxxx) from Kate Morley's public-domain [12-bit Rainbow palette](https://iamkate.com/data/12-bit-rainbow/).
+
 The 3024 Day and 3024 Night themes were created by [0x3024](https://github.com/0x3024)
 
 The Aardvark Blue theme was created by [joshka](https://github.com/joshka)

@@ -1,0 +1,12 @@
+# 12-bit Rainbow
+[colors]
+foreground = "#feffff"
+background = "#040404"
+cursor_bg = "#e0d000"
+cursor_border = "#e0d000"
+cursor_fg = "#000000"
+selection_bg = "#606060"
+selection_fg = "#ffffff"
+
+ansi = ["#000000","#a03050","#40d080","#e09040","#3060b0","#603090","#0090c0","#dbded8"]
+brights = ["#685656","#c06060","#90d050","#e0d000","#00b0c0","#801070","#20b0c0","#ffffff"]

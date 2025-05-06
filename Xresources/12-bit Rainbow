@@ -1,0 +1,43 @@
+!
+! 12-bit Rainbow
+!
+*.foreground:  #feffff
+*.background:  #040404
+*.cursorColor: #e0d000
+!
+! Black
+*.color0:      #000000
+*.color8:      #685656
+!
+! Red
+*.color1:      #a03050
+*.color9:      #c06060
+!
+! Green
+*.color2:      #40d080
+*.color10:     #90d050
+!
+! Yellow
+*.color3:      #e09040
+*.color11:     #e0d000
+!
+! Blue
+*.color4:      #3060b0
+*.color12:     #00b0c0
+!
+! Magenta
+*.color5:      #603090
+*.color13:     #801070
+!
+! Cyan
+*.color6:      #0090c0
+*.color14:     #20b0c0
+!
+! White
+*.color7:      #dbded8
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #feffff
+!*.colorIT:
+!*.colorUL:

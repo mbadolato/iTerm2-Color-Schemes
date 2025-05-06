@@ -1,0 +1,33 @@
+# Colors (12-bit Rainbow)
+
+[colors.bright]
+black = '#685656'
+blue = '#00b0c0'
+cyan = '#20b0c0'
+green = '#90d050'
+magenta = '#801070'
+red = '#c06060'
+white = '#ffffff'
+yellow = '#e0d000'
+
+[colors.cursor]
+cursor = '#e0d000'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#3060b0'
+cyan = '#0090c0'
+green = '#40d080'
+magenta = '#603090'
+red = '#a03050'
+white = '#dbded8'
+yellow = '#e09040'
+
+[colors.primary]
+background = '#040404'
+foreground = '#feffff'
+
+[colors.selection]
+background = '#606060'
+text = '#ffffff'
