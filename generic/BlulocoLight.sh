@@ -1,0 +1,72 @@
+#!/bin/sh
+# BlulocoLight
+
+# source for these helper functions:
+# https://github.com/chriskempson/base16-shell/blob/master/templates/default.mustache
+if [ -n "$TMUX" ]; then
+  # Tell tmux to pass the escape sequences through
+  # (Source: http://permalink.gmane.org/gmane.comp.terminal-emulators.tmux.user/1324)
+  put_template() { printf '\033Ptmux;\033\033]4;%d;rgb:%s\033\033\\\033\\' $@; }
+  put_template_var() { printf '\033Ptmux;\033\033]%d;rgb:%s\033\033\\\033\\' $@; }
+  put_template_custom() { printf '\033Ptmux;\033\033]%s%s\033\033\\\033\\' $@; }
+elif [ "${TERM%%[-.]*}" = "screen" ]; then
+  # GNU screen (screen, screen-256color, screen-256color-bce)
+  put_template() { printf '\033P\033]4;%d;rgb:%s\007\033\\' $@; }
+  put_template_var() { printf '\033P\033]%d;rgb:%s\007\033\\' $@; }
+  put_template_custom() { printf '\033P\033]%s%s\007\033\\' $@; }
+elif [ "${TERM%%-*}" = "linux" ]; then
+  put_template() { [ $1 -lt 16 ] && printf "\e]P%x%s" $1 $(echo $2 | sed 's/\///g'); }
+  put_template_var() { true; }
+  put_template_custom() { true; }
+else
+  put_template() { printf '\033]4;%d;rgb:%s\033\\' $@; }
+  put_template_var() { printf '\033]%d;rgb:%s\033\\' $@; }
+  put_template_custom() { printf '\033]%s%s\033\\' $@; }
+fi
+
+# 16 color space
+put_template 0  "37/3a/41"
+put_template 1  "d5/27/53"
+put_template 2  "23/97/4a"
+put_template 3  "df/63/1c"
+put_template 4  "27/5f/e4"
+put_template 5  "82/3f/f1"
+put_template 6  "27/61/8d"
+put_template 7  "ba/bb/c2"
+put_template 8  "67/6a/77"
+put_template 9  "ff/64/80"
+put_template 10 "3c/bc/66"
+put_template 11 "c5/a3/32"
+put_template 12 "00/99/e1"
+put_template 13 "ce/33/c0"
+put_template 14 "6d/93/bb"
+put_template 15 "d3/d3/d3"
+
+color_foreground="37/3a/41"
+color_background="f9/f9/f9"
+
+if [ -n "$ITERM_SESSION_ID" ]; then
+  # iTerm2 proprietary escape codes
+  put_template_custom Pg "373a41"
+  put_template_custom Ph "f9f9f9"
+  put_template_custom Pi "383a42"
+  put_template_custom Pj "daf0ff"
+  put_template_custom Pk "373a41"
+  put_template_custom Pl "f32759"
+  put_template_custom Pm "ffffff"
+else
+  put_template_var 10 $color_foreground
+  put_template_var 11 $color_background
+  if [ "${TERM%%-*}" = "rxvt" ]; then
+    put_template_var 708 $color_background # internal border (rxvt)
+  fi
+  put_template_custom 12 ";7" # cursor (reverse video)
+fi
+
+# clean up
+unset -f put_template
+unset -f put_template_var
+unset -f put_template_custom
+
+unset color_foreground
+unset color_background
