@@ -6,6 +6,7 @@
 - [Screenshots](#screenshots)
 - [Credits](#credits)
 - [Extra](#extra)
+  - [Previewing color schemes](#previewing-color-schemes)
   - [X11 Installation](#x11-installation)
   - [Konsole color schemes](#konsole-color-schemes)
   - [Terminator color schemes](#terminator-color-schemes)
@@ -13,7 +14,6 @@
   - [PuTTY color schemes](#putty-color-schemes)
   - [Xfce Terminal color schemes](#xfce-terminal-color-schemes)
   - [FreeBSD vt(4) color schemes](#freebsd-vt-color-schemes)
-  - [Previewing color schemes](#previewing-color-schemes)
   - [MobaXterm color schemes](#mobaxterm-color-schemes)
   - [LXTerminal color schemes](#lxterminal-color-schemes)
   - [Visual Studio Code color schemes](#visual-studio-code-color-schemes)
@@ -2083,6 +2083,20 @@ tools/preview.rb schemes/AdventureTime.itermcolors
 tools/preview.rb schemes/*
 ```
 
+#### Previewing color schemes in other terminal emulators
+
+[preview-generic.sh](tools/preview-generic.sh) is a script which can preview
+the themes in any terminal emulator which has support for the OSC 4 escape
+codes. It works by running the shell scripts from the `generic/` directory. 
+
+```sh
+# Apply AdventureTime scheme to the current session
+bash generic/AdventureTime.sh
+
+# Apply the schemes in turn
+# - Press left/right arrow keys to navigate, press `q` to stop
+./tools/preview-generic.sh generic/*
+```
 ---
 
 iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes | iTerm Themes | iTerm2 Themes | iTerm 2 Themes
