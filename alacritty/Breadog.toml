@@ -1,0 +1,33 @@
+# Colors (Breadog)
+
+[colors.bright]
+black = '#514337'
+blue = '#0074e1'
+cyan = '#008697'
+green = '#008f40'
+magenta = '#c300bd'
+red = '#de1100'
+white = '#eae1da'
+yellow = '#ae6000'
+
+[colors.cursor]
+cursor = '#362c24'
+text = '#f1ebe6'
+
+[colors.normal]
+black = '#362c24'
+blue = '#005cb4'
+cyan = '#006a78'
+green = '#007232'
+magenta = '#9b0097'
+red = '#b10b00'
+white = '#d4c3b7'
+yellow = '#8b4c00'
+
+[colors.primary]
+background = '#f1ebe6'
+foreground = '#362c24'
+
+[colors.selection]
+background = '#362c24'
+text = '#f1ebe6'

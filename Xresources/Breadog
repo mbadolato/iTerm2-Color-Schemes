@@ -1,0 +1,43 @@
+!
+! Breadog
+!
+*.foreground:  #362c24
+*.background:  #f1ebe6
+*.cursorColor: #362c24
+!
+! Black
+*.color0:      #362c24
+*.color8:      #514337
+!
+! Red
+*.color1:      #b10b00
+*.color9:      #de1100
+!
+! Green
+*.color2:      #007232
+*.color10:     #008f40
+!
+! Yellow
+*.color3:      #8b4c00
+*.color11:     #ae6000
+!
+! Blue
+*.color4:      #005cb4
+*.color12:     #0074e1
+!
+! Magenta
+*.color5:      #9b0097
+*.color13:     #c300bd
+!
+! Cyan
+*.color6:      #006a78
+*.color14:     #008697
+!
+! White
+*.color7:      #d4c3b7
+*.color15:     #eae1da
+!
+! Bold, Italic, Underline
+*.colorBD:     #362c24
+!*.colorIT:
+!*.colorUL:
