@@ -94,6 +94,10 @@ class Color:
         return f"{self.r:d},{self.g:d},{self.b:d}"
 
     @cached_property
+    def hexshell(self) -> str:
+        return f"{self.r:02x}/{self.g:02x}/{self.b:02x}"
+
+    @cached_property
     def hexchat(self) -> str:
         return f"{self.r:02x}{self.r:02x} {self.g:02x}{self.g:02x} {self.b:02x}{self.b:02x}"
 
@@ -119,6 +123,7 @@ class Color:
             "b": self.b,
             "hex": self.hex,
             "rgb": self.rgb,
+            "hexshell": self.hexshell,
         }
 
     @property

@@ -21,6 +21,7 @@
   - [Alacritty color schemes](#alacritty-color-schemes)
   - [Ghostty color schemes](#ghostty-color-schemes)
   - [Termux color schemes](#termux-color-schemes)
+  - [Generic color schemes](#generic-color-schemes)
 
 ## Intro
 
@@ -2056,6 +2057,13 @@ Then specify the name of your theme in the `theme` field in the [config file](ht
 ### Termux color schemes
 
 Copy the theme content from `termux/` and paste the content to `~/.termux` directory as `~/.termux/colors.properties` file and run `termux-reload-settings` to apply the theme.
+
+### Generic color schemes
+
+These schemes work with any terminal emulator with support for the OSC 4 escape code (including the Linux console, GNOME Terminal, and more).
+
+Copy the shell script from `generic/` and paste the script to `~/bin/set-colors.sh`, or wherever you prefer to put shell scripts.
+Then add `bash ~/bin/set-colors.sh` to your shell's config file (`~/.bashrc`, `~/.zshrc`, etc).
 
 ### Previewing color schemes
 
