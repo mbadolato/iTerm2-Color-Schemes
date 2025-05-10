@@ -1434,6 +1434,10 @@ The screenshots are categorized.
 
 ![image](bluloco_light.png)
 
+`Breadog`
+
+![image](breadog.png)
+
 `catppuccin-latte`
 
 ![image](catppuccin-latte.png)

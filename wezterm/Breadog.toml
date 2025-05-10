@@ -1,0 +1,12 @@
+# Breadog
+[colors]
+foreground = "#362c24"
+background = "#f1ebe6"
+cursor_bg = "#362c24"
+cursor_border = "#362c24"
+cursor_fg = "#f1ebe6"
+selection_bg = "#362c24"
+selection_fg = "#f1ebe6"
+
+ansi = ["#362c24","#b10b00","#007232","#8b4c00","#005cb4","#9b0097","#006a78","#d4c3b7"]
+brights = ["#514337","#de1100","#008f40","#ae6000","#0074e1","#c300bd","#008697","#eae1da"]

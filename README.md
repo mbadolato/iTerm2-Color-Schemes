@@ -433,6 +433,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/box.png)
 
+### Breadog
+
+![Screenshot](screenshots/breadog.png)
+
 ### Breeze
 
 ![Screenshot](screenshots/breeze.png)
