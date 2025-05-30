@@ -40,7 +40,7 @@ put_template 11 "d1/ed/85"
 put_template 12 "64/b2/ed"
 put_template 13 "a3/98/ed"
 put_template 14 "61/ed/e4"
-put_template 15 "ff/ff/ff"
+put_template 15 "ed/ed/ed"
 
 color_foreground="d9/d9/d9"
 color_background="1d/1d/1d"
