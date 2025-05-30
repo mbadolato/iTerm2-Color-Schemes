@@ -2,42 +2,42 @@
 ! Guezwhoz
 !
 *.foreground:  #d9d9d9
-*.background:  #1e1e1e
-*.cursorColor: #8cd7af
+*.background:  #1d1d1d
+*.cursorColor: #99d4b1
 !
 ! Black
 *.color0:      #333333
 *.color8:      #808080
 !
 ! Red
-*.color1:      #f35782
-*.color9:      #f35782
+*.color1:      #e85181
+*.color9:      #e85181
 !
 ! Green
-*.color2:      #7fd693
-*.color10:     #b0d7af
+*.color2:      #7ad694
+*.color10:     #afd7af
 !
 ! Yellow
-*.color3:      #b4ca74
-*.color11:     #cbee7b
+*.color3:      #b7d074
+*.color11:     #d1ed85
 !
 ! Blue
-*.color4:      #60a0d7
-*.color12:     #52b5f4
+*.color4:      #5aa0d6
+*.color12:     #64b2ed
 !
 ! Magenta
 *.color5:      #9a90e0
-*.color13:     #a698f5
+*.color13:     #a398ed
 !
 ! Cyan
-*.color6:      #69dad0
-*.color14:     #70e3d9
+*.color6:      #59d9d0
+*.color14:     #61ede4
 !
 ! White
-*.color7:      #dadada
-*.color15:     #ededed
+*.color7:      #d9d9d9
+*.color15:     #ffffff
 !
 ! Bold, Italic, Underline
-*.colorBD:     #eeeeee
+*.colorBD:     #d9d9d9
 !*.colorIT:
-*.colorUL:     #333333
+!*.colorUL:

@@ -9,17 +9,17 @@
     },
     {
       "name": "BoldForeground",
-      "color": "#eeeeee",
+      "color": "#d9d9d9",
       "terminalMapping": "boldforeground"
     },
     {
       "name": "Background",
-      "color": "#1e1e1e",
+      "color": "#1d1d1d",
       "terminalMapping": "background"
     },
     {
       "name": "BoldBackground",
-      "color": "#1e1e1e",
+      "color": "#1d1d1d",
       "terminalMapping": "boldbackground"
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "name": "CursorBackground",
-      "color": "#8cd7af",
+      "color": "#99d4b1",
       "terminalMapping": "cursorBackground"
     },
     {
@@ -39,22 +39,22 @@
     },
     {
       "name": "Red",
-      "color": "#f35782",
+      "color": "#e85181",
       "terminalMapping": "ansiRed"
     },
     {
       "name": "Green",
-      "color": "#7fd693",
+      "color": "#7ad694",
       "terminalMapping": "ansiGreen"
     },
     {
       "name": "Yellow",
-      "color": "#b4ca74",
+      "color": "#b7d074",
       "terminalMapping": "ansiYellow"
     },
     {
       "name": "Blue",
-      "color": "#60a0d7",
+      "color": "#5aa0d6",
       "terminalMapping": "ansiBlue"
     },
     {
@@ -64,12 +64,12 @@
     },
     {
       "name": "Cyan",
-      "color": "#69dad0",
+      "color": "#59d9d0",
       "terminalMapping": "ansiCyan"
     },
     {
       "name": "White",
-      "color": "#dadada",
+      "color": "#d9d9d9",
       "terminalMapping": "ansiWhite"
     },
     {
@@ -79,37 +79,37 @@
     },
     {
       "name": "BrightRed",
-      "color": "#f35782",
+      "color": "#e85181",
       "terminalMapping": "ansiBrightRed"
     },
     {
       "name": "BrightGreen",
-      "color": "#b0d7af",
+      "color": "#afd7af",
       "terminalMapping": "ansiBrightGreen"
     },
     {
       "name": "BrightYellow",
-      "color": "#cbee7b",
+      "color": "#d1ed85",
       "terminalMapping": "ansiBrightYellow"
     },
     {
       "name": "BrightBlue",
-      "color": "#52b5f4",
+      "color": "#64b2ed",
       "terminalMapping": "ansiBrightBlue"
     },
     {
       "name": "BrightMagenta",
-      "color": "#a698f5",
+      "color": "#a398ed",
       "terminalMapping": "ansiBrightMagenta"
     },
     {
       "name": "BrightCyan",
-      "color": "#70e3d9",
+      "color": "#61ede4",
       "terminalMapping": "ansiBrightCyan"
     },
     {
       "name": "BrightWhite",
-      "color": "#ededed",
+      "color": "#ffffff",
       "terminalMapping": "ansiBrightWhite"
     }
   ],
