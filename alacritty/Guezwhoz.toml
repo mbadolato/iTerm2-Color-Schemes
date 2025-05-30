@@ -1,33 +1,33 @@
 # Colors (Guezwhoz)
 
 [colors.bright]
-black = '#8a8a8a'
-blue = '#87afd7'
-cyan = '#87d7d7'
+black = '#808080'
+blue = '#64b2ed'
+cyan = '#61ede4'
 green = '#afd7af'
-magenta = '#afafd7'
-red = '#d75f5f'
-white = '#dadada'
-yellow = '#d7d7af'
+magenta = '#a398ed'
+red = '#e85181'
+white = '#ededed'
+yellow = '#d1ed85'
 
 [colors.cursor]
-cursor = '#eeeeee'
-text = '#eeeeee'
+cursor = '#99d4b1'
+text = '#1d1d1d'
 
 [colors.normal]
-black = '#080808'
-blue = '#5fafd7'
-cyan = '#5fd7d7'
-green = '#87d7af'
-magenta = '#afafff'
-red = '#ff5f5f'
-white = '#dadada'
-yellow = '#d7d787'
+black = '#333333'
+blue = '#5aa0d6'
+cyan = '#58d6ce'
+green = '#7ad694'
+magenta = '#9a90e0'
+red = '#e85181'
+white = '#d9d9d9'
+yellow = '#b7d074'
 
 [colors.primary]
-background = '#1c1c1c'
-foreground = '#d0d0d0'
+background = '#1d1d1d'
+foreground = '#d9d9d9'
 
 [colors.selection]
-background = '#005f5f'
-text = '#eeeeee'
+background = '#245354'
+text = '#58d6ce'
