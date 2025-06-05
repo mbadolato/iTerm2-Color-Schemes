@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Guezwhoz'
-cursor-color='#eeeeee'
-foreground='#d0d0d0'
-background='rgba(28,28,28,.95)'
-palette='#080808:#ff5f5f:#87d7af:#d7d787:#5fafd7:#afafff:#5fd7d7:#dadada:#8a8a8a:#d75f5f:#afd7af:#d7d7af:#87afd7:#afafd7:#87d7d7:#dadada'
+cursor-color='#99d4b1'
+foreground='#d9d9d9'
+background='rgba(29,29,29,.95)'
+palette='#333333:#e85181:#7ad694:#b7d074:#5aa0d6:#9a90e0:#58d6ce:#d9d9d9:#808080:#e85181:#afd7af:#d1ed85:#64b2ed:#a398ed:#61ede4:#ededed'
 COLORS

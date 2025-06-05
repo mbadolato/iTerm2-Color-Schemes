@@ -1,12 +1,12 @@
 # Guezwhoz
 [colors]
-foreground = "#d0d0d0"
-background = "#1c1c1c"
-cursor_bg = "#eeeeee"
-cursor_border = "#eeeeee"
-cursor_fg = "#eeeeee"
-selection_bg = "#005f5f"
-selection_fg = "#eeeeee"
+foreground = "#d9d9d9"
+background = "#1d1d1d"
+cursor_bg = "#99d4b1"
+cursor_border = "#99d4b1"
+cursor_fg = "#1d1d1d"
+selection_bg = "#245354"
+selection_fg = "#58d6ce"
 
-ansi = ["#080808","#ff5f5f","#87d7af","#d7d787","#5fafd7","#afafff","#5fd7d7","#dadada"]
-brights = ["#8a8a8a","#d75f5f","#afd7af","#d7d7af","#87afd7","#afafd7","#87d7d7","#dadada"]
+ansi = ["#333333","#e85181","#7ad694","#b7d074","#5aa0d6","#9a90e0","#58d6ce","#d9d9d9"]
+brights = ["#808080","#e85181","#afd7af","#d1ed85","#64b2ed","#a398ed","#61ede4","#ededed"]
