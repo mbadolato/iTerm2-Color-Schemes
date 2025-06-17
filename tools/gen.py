@@ -156,7 +156,7 @@ class Theme:
     @cached_property
     def dark_theme(self) -> bool:
         color = self.colors["Background Color"]
-        return (0.2126 * color.r + 0.7152 * color.g + 0.0722 * color.b) < 40
+        return (0.2126 * color.r + 0.7152 * color.g + 0.0722 * color.b) < 127
 
     def to_dict(self) -> dict[str, Any]:
         return {
