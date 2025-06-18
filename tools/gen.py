@@ -212,6 +212,7 @@ yaml_to_iterm_color_name_map = {
     "selection_text": "Selected Text Color",
     "tab": "Tab Color",
     "underline": "Underline Color",
+    "badge": "Badge Color",
 }
 
 fallback_color_map = {
