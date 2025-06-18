@@ -43,17 +43,17 @@ put_template 14 "4f/d2/fd"
 put_template 15 "f6/f5/f4"
 
 color_foreground="ff/ff/ff"
-color_background="1e/1e/1e"
+color_background="1d/1d/20"
 
 if [ -n "$ITERM_SESSION_ID" ]; then
   # iTerm2 proprietary escape codes
   put_template_custom Pg "ffffff"
-  put_template_custom Ph "1e1e1e"
+  put_template_custom Ph "1d1d20"
   put_template_custom Pi "ffffff"
   put_template_custom Pj "ffffff"
   put_template_custom Pk "5e5c64"
   put_template_custom Pl "ffffff"
-  put_template_custom Pm "1e1e1e"
+  put_template_custom Pm "1d1d20"
 else
   put_template_var 10 $color_foreground
   put_template_var 11 $color_background
