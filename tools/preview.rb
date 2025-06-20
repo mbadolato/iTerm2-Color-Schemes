@@ -9,7 +9,7 @@
 require 'rexml/document'
 require 'io/console'
 
-files = ARGV.select { |f| File.exists? f }
+files = ARGV.select { |f| File.exist? f }
 if files.empty?
   puts "usage: #$0 <itermcolors files...>"
   exit 1
