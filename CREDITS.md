@@ -482,3 +482,5 @@ The Xcode dark, Xcode dark (High Contrast), Xcode light, Xcode light (High Contr
 The Zenbones schemes ( duckbones, kanagawabones, neobones_dark, neobones_light, seoulbones_dark, seoulbones_light, vimbones, zenbones, zenbones_dark, zenbones_light, zenburned, zenwritten_dark, zenwritten_light) were taken from [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)
 
 The Breadog theme was created by [Ruby Klover](https://gitlab.com/warningnonpotablewater/breadog)
+
+The Tearout theme was created by [leobeosab](https://github.com/leobeosab)

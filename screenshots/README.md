@@ -1232,6 +1232,10 @@ The screenshots are categorized.
 
 ![image](synthwave_alpha.png)
 
+`Tearout`
+
+![image](tearout.png)
+
 `Teerb`
 
 ![image](teerb.png)
