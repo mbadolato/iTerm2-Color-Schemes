@@ -1,0 +1,12 @@
+# Tearout
+[colors]
+foreground = "#f4d2ae"
+background = "#34392d"
+cursor_bg = "#d7c483"
+cursor_border = "#d7c483"
+cursor_fg = "#141415"
+selection_bg = "#e4c47a"
+selection_fg = "#000000"
+
+ansi = ["#685742","#cc967b","#97976d","#6c9861","#b5955e","#c9a554","#d7c483","#b5955e"]
+brights = ["#685742","#cc967b","#97976d","#6c9861","#b5955e","#c9a554","#d7c483","#b5955e"]

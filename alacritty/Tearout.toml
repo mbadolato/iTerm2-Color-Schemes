@@ -1,0 +1,33 @@
+# Colors (Tearout)
+
+[colors.bright]
+black = '#685742'
+blue = '#b5955e'
+cyan = '#d7c483'
+green = '#97976d'
+magenta = '#c9a554'
+red = '#cc967b'
+white = '#b5955e'
+yellow = '#6c9861'
+
+[colors.cursor]
+cursor = '#d7c483'
+text = '#141415'
+
+[colors.normal]
+black = '#685742'
+blue = '#b5955e'
+cyan = '#d7c483'
+green = '#97976d'
+magenta = '#c9a554'
+red = '#cc967b'
+white = '#b5955e'
+yellow = '#6c9861'
+
+[colors.primary]
+background = '#34392d'
+foreground = '#f4d2ae'
+
+[colors.selection]
+background = '#e4c47a'
+text = '#000000'

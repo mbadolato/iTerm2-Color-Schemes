@@ -1646,6 +1646,10 @@ more information.
 
 ![Screenshot](screenshots/tango_half_adapted.png)
 
+### Tearout
+
+![Screenshot](screenshots/tearout.png)
+
 ### Teerb
 
 ![Screenshot](screenshots/teerb.png)

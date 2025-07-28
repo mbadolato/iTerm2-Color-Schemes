@@ -1,0 +1,43 @@
+!
+! Tearout
+!
+*.foreground:  #f4d2ae
+*.background:  #34392d
+*.cursorColor: #d7c483
+!
+! Black
+*.color0:      #685742
+*.color8:      #685742
+!
+! Red
+*.color1:      #cc967b
+*.color9:      #cc967b
+!
+! Green
+*.color2:      #97976d
+*.color10:     #97976d
+!
+! Yellow
+*.color3:      #6c9861
+*.color11:     #6c9861
+!
+! Blue
+*.color4:      #b5955e
+*.color12:     #b5955e
+!
+! Magenta
+*.color5:      #c9a554
+*.color13:     #c9a554
+!
+! Cyan
+*.color6:      #d7c483
+*.color14:     #d7c483
+!
+! White
+*.color7:      #b5955e
+*.color15:     #b5955e
+!
+! Bold, Italic, Underline
+*.colorBD:     #f4d2ae
+!*.colorIT:
+!*.colorUL:
