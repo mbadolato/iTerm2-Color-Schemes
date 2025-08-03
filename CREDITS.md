@@ -484,3 +484,5 @@ The Zenbones schemes ( duckbones, kanagawabones, neobones_dark, neobones_light, 
 The Breadog theme was created by [Ruby Klover](https://gitlab.com/warningnonpotablewater/breadog)
 
 The Tearout theme was created by [leobeosab](https://github.com/leobeosab)
+
+The violite theme was created by [Link](https://github.com/4c696e6b)
