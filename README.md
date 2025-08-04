@@ -947,11 +947,11 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ### IRIX Console
 
-![Screenshot](screenshot/irix_console.png)
+![Screenshot](screenshots/irix_console.png)
 
 ### IRIX Terminal
 
-![Screenshot](screenshot/irix_terminal.png)
+![Screenshot](screenshots/irix_terminal.png)
 
 ### iTerm2 Default
 
