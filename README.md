@@ -1786,6 +1786,10 @@ more information.
 
 ![Screenshot](screenshots/violet_dark.png)
 
+### violite
+
+![Screenshot](screenshots/violite.png)
+
 ### WarmNeon
 
 ![Screenshot](screenshots/warm_neon.png)

@@ -1,0 +1,33 @@
+# Colors (violite)
+
+[colors.bright]
+black = '#49376d'
+blue = '#b78fef'
+cyan = '#9fefef'
+green = '#9fefbf'
+magenta = '#ef8fcf'
+red = '#ef8f8f'
+white = '#f8fafc'
+yellow = '#efe78f'
+
+[colors.cursor]
+cursor = '#eef4f6'
+text = '#241c36'
+
+[colors.normal]
+black = '#241c36'
+blue = '#a979ec'
+cyan = '#79ecec'
+green = '#79ecb3'
+magenta = '#ec79ec'
+red = '#ec7979'
+white = '#eef4f6'
+yellow = '#ece279'
+
+[colors.primary]
+background = '#241c36'
+foreground = '#eef4f6'
+
+[colors.selection]
+background = '#49376d'
+text = '#eef4f6'

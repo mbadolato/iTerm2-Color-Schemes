@@ -1348,6 +1348,10 @@ The screenshots are categorized.
 
 ![image](violet_dark.png)
 
+`violite`
+
+![image](violite.png)
+
 `WarmNeon`
 
 ![image](warm_neon.png)
