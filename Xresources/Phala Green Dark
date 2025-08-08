@@ -1,0 +1,43 @@
+!
+! Phala Green Dark
+!
+*.foreground:  #cdfa50
+*.background:  #000000
+*.cursorColor: #cdfa50
+!
+! Black
+*.color0:      #000000
+*.color8:      #797979
+!
+! Red
+*.color1:      #9d2814
+*.color9:      #da3b20
+!
+! Green
+*.color2:      #4aae31
+*.color10:     #5dd83f
+!
+! Yellow
+*.color3:      #a9a733
+*.color11:     #e9e74a
+!
+! Blue
+*.color4:      #0c23b8
+*.color12:     #1432f5
+!
+! Magenta
+*.color5:      #b23bba
+*.color13:     #da4be3
+!
+! Cyan
+*.color6:      #4bb1bd
+*.color14:     #64e5e8
+!
+! White
+*.color7:      #cbcbcb
+*.color15:     #eaeaea
+!
+! Bold, Italic, Underline
+*.colorBD:     #defa86
+!*.colorIT:
+!*.colorUL:

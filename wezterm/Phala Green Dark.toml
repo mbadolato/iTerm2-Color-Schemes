@@ -1,0 +1,12 @@
+# Phala Green Dark
+[colors]
+foreground = "#cdfa50"
+background = "#000000"
+cursor_bg = "#cdfa50"
+cursor_border = "#cdfa50"
+cursor_fg = "#ed4131"
+selection_bg = "#1c4611"
+selection_fg = "#ffffff"
+
+ansi = ["#000000","#9d2814","#4aae31","#a9a733","#0c23b8","#b23bba","#4bb1bd","#cbcbcb"]
+brights = ["#797979","#da3b20","#5dd83f","#e9e74a","#1432f5","#da4be3","#64e5e8","#eaeaea"]
