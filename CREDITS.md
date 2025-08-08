@@ -347,6 +347,8 @@ The Pencil Dark and Pencil Light themes were created by [mattly](https://github.
 
 The Peppermint theme was created by [Noah Frederick](https://noahfrederick.com/log/lion-terminal-theme-peppermint) and adapted for iTerm by [dotzero](https://github.com/dotzero/iTerm-2-Peppermint).
 
+The Phala Green Dark theme was created by [h4x3rotab](https://github.com/h4x3rotab)
+
 The Piatto Light theme was created by [kovv](https://github.com/kovv)
 
 Popping and Locking theme was created by [Hedinn Eiriksson](https://github.com/hedinne) and added by [didierbroska](https://github.com/didierbroska)

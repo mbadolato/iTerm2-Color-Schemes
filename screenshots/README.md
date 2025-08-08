@@ -1000,6 +1000,10 @@ The screenshots are categorized.
 
 ![image](peppermint.png)
 
+`Phala Green Dark`
+
+![image](phala_green_dark.png)
+
 `Pnevma`
 
 ![image](pnevma.png)
