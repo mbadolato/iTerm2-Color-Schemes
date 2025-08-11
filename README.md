@@ -1361,6 +1361,10 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/peppermint.png)
 
+### Phala Green Dark
+
+![Screenshot](screenshots/phala_green_dark.png)
+
 ### Piatto Light
 
 ![Screenshot](screenshots/piatto_light.png)
