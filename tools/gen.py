@@ -74,11 +74,53 @@ class Color:
 
     @classmethod
     def from_iterm_color_dict(cls, data: dict[str, Any]) -> Color:
-        # TODO: add support for colorspace conversion here!
         r = data["Red Component"]
         g = data["Green Component"]
         b = data["Blue Component"]
+        color_space = data.get("Color Space", "sRGB").strip()
+        if color_space == "P3":
+            r, g, b = cls._p3_to_srgb(r, g, b)
         return cls(round(r * 255), round(g * 255), round(b * 255), _raw_float_rgb=(r, g, b))
+
+    @staticmethod
+    def _srgb_to_linear(c):
+        if c < 0.04045:
+            return c / 12.92
+        else:
+            return ((c + 0.055) / 1.055) ** 2.4
+
+    @staticmethod
+    def _linear_to_srgb(c):
+        if c < 0.0031308:
+            return 12.92 * c
+        else:
+            return 1.055 * (c ** (1/2.4)) - 0.055
+
+    @classmethod
+    def _p3_to_srgb(cls, r, g, b):
+        r_lin = cls._srgb_to_linear(r)
+        g_lin = cls._srgb_to_linear(g)
+        b_lin = cls._srgb_to_linear(b)
+
+        matrix = [
+            [1.22494018, -0.22469880, -0.00012973],
+            [-0.04205631, 1.04203282, -0.00000601],
+            [-0.01963755, -0.07862814, 1.09826365]
+        ]
+
+        r_s_lin = matrix[0][0] * r_lin + matrix[0][1] * g_lin + matrix[0][2] * b_lin
+        g_s_lin = matrix[1][0] * r_lin + matrix[1][1] * g_lin + matrix[1][2] * b_lin
+        b_s_lin = matrix[2][0] * r_lin + matrix[2][1] * g_lin + matrix[2][2] * b_lin
+
+        r_s_lin = max(0, min(1, r_s_lin))
+        g_s_lin = max(0, min(1, g_s_lin))
+        b_s_lin = max(0, min(1, b_s_lin))
+
+        r_out = cls._linear_to_srgb(r_s_lin)
+        g_out = cls._linear_to_srgb(g_s_lin)
+        b_out = cls._linear_to_srgb(b_s_lin)
+
+        return r_out, g_out, b_out
 
     @classmethod
     def from_hex(cls, value: str) -> Color:
