@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Havn Daggry'
-cursor-color='#386a51'
-foreground='#3e4a77'
+cursor-color='#226c4f'
+foreground='#3b4a7a'
 background='rgba(248,249,251,.95)'
-palette='#212840:#8f564b:#5c705b:#b36f00:#40567a:#775d93:#8a5a7e:#d7dbea:#212840:#bd533e:#79957b:#f3b550:#6988bc:#7b7393:#a4879c:#d7dbea'
+palette='#1f2842:#985248:#577159:#be6b00:#3a577d:#7c5c97:#925780:#d6dbeb:#1f2842:#cc4a35:#719679:#feb234:#6089c0:#7d7396:#aa869d:#d6dbeb'
 COLORS

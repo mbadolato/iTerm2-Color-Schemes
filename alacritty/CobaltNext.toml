@@ -1,33 +1,33 @@
 # Colors (CobaltNext)
 
 [colors.bright]
-black = '#65737e'
-blue = '#8abee7'
-cyan = '#9be2e2'
-green = '#c1dcbe'
-magenta = '#edcded'
-red = '#d6838c'
+black = '#62747f'
+blue = '#7ac0eb'
+cyan = '#84e4e3'
+green = '#baddbb'
+magenta = '#f3ccef'
+red = '#e47e8b'
 white = '#ffffff'
-yellow = '#ffde9b'
+yellow = '#ffdc91'
 
 [colors.cursor]
-cursor = '#fac863'
-text = '#d8dee9'
+cursor = '#ffc64c'
+text = '#d7deea'
 
 [colors.normal]
 black = '#000000'
-blue = '#5a9bcf'
-cyan = '#5fb3b3'
-green = '#99c794'
-magenta = '#c5a5c5'
-red = '#ed5f7d'
-white = '#d8dee9'
-yellow = '#fac863'
+blue = '#409dd4'
+cyan = '#37b5b4'
+green = '#8cc98f'
+magenta = '#cba3c7'
+red = '#ff527b'
+white = '#d7deea'
+yellow = '#ffc64c'
 
 [colors.primary]
-background = '#1b2b34'
-foreground = '#d8dee9'
+background = '#162c35'
+foreground = '#d7deea'
 
 [colors.selection]
-background = '#4f5b66'
+background = '#4c5b67'
 text = '#ffffff'

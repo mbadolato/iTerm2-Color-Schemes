@@ -1,43 +1,43 @@
 !
 ! Horizon-Bright
 !
-*.foreground:  #16161c
-*.background:  #fbf0ee
-*.cursorColor: #f2d0c5
+*.foreground:  #16161d
+*.background:  #fdf0ed
+*.cursorColor: #f9cec3
 !
 ! Black
-*.color0:      #16161c
-*.color8:      #1a1c23
+*.color0:      #16161d
+*.color8:      #1a1c24
 !
 ! Red
-*.color1:      #e95678
-*.color9:      #ec6a88
+*.color1:      #fc4777
+*.color9:      #fe5f87
 !
 ! Green
-*.color2:      #29d398
-*.color10:     #3fdaa4
+*.color2:      #00d793
+*.color10:     #00dea0
 !
 ! Yellow
-*.color3:      #fab795
-*.color11:     #fbc3a7
+*.color3:      #ffb38f
+*.color11:     #ffc0a2
 !
 ! Blue
-*.color4:      #26bbd9
-*.color12:     #3fc6de
+*.color4:      #00bedd
+*.color12:     #00c9e2
 !
 ! Magenta
-*.color5:      #ee64ae
-*.color13:     #f075b7
+*.color5:      #ff58b1
+*.color13:     #ff6cba
 !
 ! Cyan
-*.color6:      #59e3e3
-*.color14:     #6be6e6
+*.color6:      #00e7e5
+*.color14:     #07e9e8
 !
 ! White
-*.color7:      #fdf0ed
-*.color15:     #fff3f0
+*.color7:      #ffefec
+*.color15:     #fff2ef
 !
 ! Bold, Italic, Underline
-*.colorBD:     #16161c
+*.colorBD:     #16161d
 !*.colorIT:
-*.colorUL:     #5a617f
+*.colorUL:     #596181

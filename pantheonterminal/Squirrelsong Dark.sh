@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Squirrelsong Dark'
-cursor-color='#ad9c8b'
-foreground='#ad9c8b'
-background='rgba(53,42,33,.95)'
-palette='#352a21:#ac493e:#558240:#ceb250:#5993c2:#7f61b3:#4f9593:#cfbaa5:#6b503c:#ce574a:#719955:#e2c358:#63a2d6:#9672d4:#72aaa8:#edd5be'
+cursor-color='#b19b89'
+foreground='#b19b89'
+background='rgba(55,41,32,.95)'
+palette='#372920:#ba4138:#468336:#d4b139:#4395c6:#855fb8:#2f9794:#d3b9a2:#704f39:#df4d43:#659a4c:#e8c23f:#4ca4db:#9d70da:#60aca9:#f2d4bb'
 COLORS

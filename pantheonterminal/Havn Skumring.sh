@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Havn Skumring'
-cursor-color='#40786f'
-foreground='#d7dbea'
-background='rgba(18,21,33,.95)'
-palette='#262c45:#d96048:#7cab7f:#eeb64e:#5d6bef:#7a729a:#ca8cbe:#dde0ed:#212840:#c47768:#8f9d90:#e4c693:#5d85c6:#967de7:#c57eb3:#fdf6e3'
+cursor-color='#277a6f'
+foreground='#d6dbeb'
+background='rgba(17,21,34,.95)'
+palette='#252c47:#ea563e:#6ead7b:#f8b330:#596cf7:#7c719e:#d588c1:#dce0ee:#1f2842:#d17264:#8c9e8f:#eac58c:#5186cb:#9b7cee:#d17ab6:#fff6e1'
 COLORS

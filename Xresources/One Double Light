@@ -1,43 +1,43 @@
 !
 ! One Double Light
 !
-*.foreground:  #383a42
+*.foreground:  #383a43
 *.background:  #fafafa
-*.cursorColor: #1a1a1a
+*.cursorColor: #1a1919
 !
 ! Black
-*.color0:      #464b57
-*.color8:      #0f131e
+*.color0:      #454b58
+*.color8:      #0e131f
 !
 ! Red
-*.color1:      #e45649
-*.color9:      #f24c2d
+*.color1:      #f74840
+*.color9:      #ff3711
 !
 ! Green
-*.color2:      #50a14f
-*.color10:     #3db637
+*.color2:      #25a343
+*.color10:     #00b90e
 !
 ! Yellow
-*.color3:      #c18401
-*.color11:     #e09d00
+*.color3:      #cc8100
+*.color11:     #ec9900
 !
 ! Blue
-*.color4:      #0184bc
-*.color12:     #2e63d6
+*.color4:      #0087c1
+*.color12:     #1065de
 !
 ! Magenta
-*.color5:      #a626a4
-*.color13:     #d21fd1
+*.color5:      #b50da9
+*.color13:     #e500d8
 !
 ! Cyan
-*.color6:      #0997b3
-*.color14:     #06b1d8
+*.color6:      #009ab7
+*.color14:     #00b4dd
 !
 ! White
-*.color7:      #e8d9d9
+*.color7:      #ebd8d9
 *.color15:     #ffffff
 !
 ! Bold, Italic, Underline
-*.colorBD:     #0f131e
+*.colorBD:     #0e131f
 !*.colorIT:
 !*.colorUL:

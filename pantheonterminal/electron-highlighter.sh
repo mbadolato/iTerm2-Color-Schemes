@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='electron-highlighter'
-cursor-color='#a8b5d1'
-foreground='#a8b5d1'
-background='rgba(36,40,59,.95)'
-palette='#15161e:#f7768e:#58ffc7:#ffd9af:#82aaff:#d2a6ef:#57f9ff:#7c8eac:#506686:#f7768e:#58ffc7:#ffd9af:#82aaff:#d2a6ef:#57f9ff:#c5cee0'
+cursor-color='#a5b6d4'
+foreground='#a5b6d4'
+background='rgba(35,40,61,.95)'
+palette='#15161f:#ff6c8d:#00ffc3:#ffd7a9:#77abff:#daa4f4:#00fdff:#778faf:#4a6789:#ff6c8d:#00ffc3:#ffd7a9:#77abff:#daa4f4:#00fdff:#c3cee2'
 COLORS

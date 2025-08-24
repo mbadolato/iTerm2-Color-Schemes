@@ -1,12 +1,12 @@
 # CobaltNext
 [colors]
-foreground = "#d8dee9"
-background = "#1b2b34"
-cursor_bg = "#fac863"
-cursor_border = "#fac863"
-cursor_fg = "#d8dee9"
-selection_bg = "#4f5b66"
+foreground = "#d7deea"
+background = "#162c35"
+cursor_bg = "#ffc64c"
+cursor_border = "#ffc64c"
+cursor_fg = "#d7deea"
+selection_bg = "#4c5b67"
 selection_fg = "#ffffff"
 
-ansi = ["#000000","#ed5f7d","#99c794","#fac863","#5a9bcf","#c5a5c5","#5fb3b3","#d8dee9"]
-brights = ["#65737e","#d6838c","#c1dcbe","#ffde9b","#8abee7","#edcded","#9be2e2","#ffffff"]
+ansi = ["#000000","#ff527b","#8cc98f","#ffc64c","#409dd4","#cba3c7","#37b5b4","#d7deea"]
+brights = ["#62747f","#e47e8b","#baddbb","#ffdc91","#7ac0eb","#f3ccef","#84e4e3","#ffffff"]

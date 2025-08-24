@@ -1,7 +1,7 @@
 #!/bin/sh
 # electron-highlighter
-printf "\033]4;0;#15161e;1;#f7768e;2;#58ffc7;3;#ffd9af;4;#82aaff;5;#d2a6ef;6;#57f9ff;7;#7c8eac;8;#506686;9;#f7768e;10;#58ffc7;11;#ffd9af;12;#82aaff;13;#d2a6ef;14;#57f9ff;15;#c5cee0\007"
-printf "\033]10;#a8b5d1;#24283b;#a8b5d1\007"
-printf "\033]17;#283457\007"
-printf "\033]19;#a8b5d1\007"
-printf "\033]5;0;#aab5cf\007"
+printf "\033]4;0;#15161f;1;#ff6c8d;2;#00ffc3;3;#ffd7a9;4;#77abff;5;#daa4f4;6;#00fdff;7;#778faf;8;#4a6789;9;#ff6c8d;10;#00ffc3;11;#ffd7a9;12;#77abff;13;#daa4f4;14;#00fdff;15;#c3cee2\007"
+printf "\033]10;#a5b6d4;#23283d;#a5b6d4\007"
+printf "\033]17;#25345a\007"
+printf "\033]19;#a5b6d4\007"
+printf "\033]5;0;#a8b5d1\007"

@@ -1,43 +1,43 @@
 !
 ! One Double Dark
 !
-*.foreground:  #dcdfe4
-*.background:  #292c33
-*.cursorColor: #f1e1dd
+*.foreground:  #dbdfe5
+*.background:  #282c34
+*.cursorColor: #f5e0dc
 !
 ! Black
-*.color0:      #3e4451
-*.color8:      #545d6d
+*.color0:      #3d4452
+*.color8:      #525d6f
 !
 ! Red
-*.color1:      #e06c75
-*.color9:      #fd807f
+*.color1:      #f16372
+*.color9:      #ff777b
 !
 ! Green
-*.color2:      #98c379
-*.color10:     #96d58b
+*.color2:      #8cc570
+*.color10:     #82d882
 !
 ! Yellow
-*.color3:      #e5c07b
-*.color11:     #edc273
+*.color3:      #ecbe70
+*.color11:     #f5c065
 !
 ! Blue
-*.color4:      #61afef
-*.color12:     #84c8ff
+*.color4:      #3fb1f5
+*.color12:     #6dcaff
 !
 ! Magenta
-*.color5:      #c678dd
-*.color13:     #ee82ee
+*.color5:      #d373e3
+*.color13:     #ff7bf4
 !
 ! Cyan
-*.color6:      #56b6c2
-*.color14:     #3ae1f7
+*.color6:      #17b9c4
+*.color14:     #00e5fb
 !
 ! White
-*.color7:      #dcdfe4
+*.color7:      #dbdfe5
 *.color15:     #f7f9fc
 !
 ! Bold, Italic, Underline
 *.colorBD:     #f7f9fc
 !*.colorIT:
-*.colorUL:     #6f3634
+*.colorUL:     #783232

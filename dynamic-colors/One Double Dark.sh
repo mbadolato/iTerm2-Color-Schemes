@@ -1,7 +1,7 @@
 #!/bin/sh
 # One Double Dark
-printf "\033]4;0;#3e4451;1;#e06c75;2;#98c379;3;#e5c07b;4;#61afef;5;#c678dd;6;#56b6c2;7;#dcdfe4;8;#545d6d;9;#fd807f;10;#96d58b;11;#edc273;12;#84c8ff;13;#ee82ee;14;#3ae1f7;15;#f7f9fc\007"
-printf "\033]10;#dcdfe4;#292c33;#f1e1dd\007"
-printf "\033]17;#595b6e\007"
-printf "\033]19;#cfd6f1\007"
+printf "\033]4;0;#3d4452;1;#f16372;2;#8cc570;3;#ecbe70;4;#3fb1f5;5;#d373e3;6;#17b9c4;7;#dbdfe5;8;#525d6f;9;#ff777b;10;#82d882;11;#f5c065;12;#6dcaff;13;#ff7bf4;14;#00e5fb;15;#f7f9fc\007"
+printf "\033]10;#dbdfe5;#282c34;#f5e0dc\007"
+printf "\033]17;#585b70\007"
+printf "\033]19;#cdd6f4\007"
 printf "\033]5;0;#f7f9fc\007"
