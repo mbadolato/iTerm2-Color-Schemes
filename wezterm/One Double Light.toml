@@ -1,12 +1,12 @@
 # One Double Light
 [colors]
-foreground = "#383a42"
+foreground = "#383a43"
 background = "#fafafa"
-cursor_bg = "#1a1a1a"
-cursor_border = "#1a1a1a"
-cursor_fg = "#dcdfe4"
-selection_bg = "#474e5d"
-selection_fg = "#1a1a1a"
+cursor_bg = "#1a1919"
+cursor_border = "#1a1919"
+cursor_fg = "#dbdfe5"
+selection_bg = "#454e5e"
+selection_fg = "#1a1919"
 
-ansi = ["#464b57","#e45649","#50a14f","#c18401","#0184bc","#a626a4","#0997b3","#e8d9d9"]
-brights = ["#0f131e","#f24c2d","#3db637","#e09d00","#2e63d6","#d21fd1","#06b1d8","#ffffff"]
+ansi = ["#454b58","#f74840","#25a343","#cc8100","#0087c1","#b50da9","#009ab7","#ebd8d9"]
+brights = ["#0e131f","#ff3711","#00b90e","#ec9900","#1065de","#e500d8","#00b4dd","#ffffff"]

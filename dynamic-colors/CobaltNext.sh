@@ -1,7 +1,7 @@
 #!/bin/sh
 # CobaltNext
-printf "\033]4;0;#000000;1;#ed5f7d;2;#99c794;3;#fac863;4;#5a9bcf;5;#c5a5c5;6;#5fb3b3;7;#d8dee9;8;#65737e;9;#d6838c;10;#c1dcbe;11;#ffde9b;12;#8abee7;13;#edcded;14;#9be2e2;15;#ffffff\007"
-printf "\033]10;#d8dee9;#1b2b34;#fac863\007"
-printf "\033]17;#4f5b66\007"
+printf "\033]4;0;#000000;1;#ff527b;2;#8cc98f;3;#ffc64c;4;#409dd4;5;#cba3c7;6;#37b5b4;7;#d7deea;8;#62747f;9;#e47e8b;10;#baddbb;11;#ffdc91;12;#7ac0eb;13;#f3ccef;14;#84e4e3;15;#ffffff\007"
+printf "\033]10;#d7deea;#162c35;#ffc64c\007"
+printf "\033]17;#4c5b67\007"
 printf "\033]19;#ffffff\007"
 printf "\033]5;0;#ffffff\007"

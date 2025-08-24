@@ -5,5 +5,5 @@ name='detuned'
 cursor-color='#c7c7c7'
 foreground='#c7c7c7'
 background='rgba(0,0,0,.95)'
-palette='#171717:#ea5386:#b3e153:#e4da81:#4192d3:#8f3ef6:#6cb4d5:#c7c7c7:#686868:#ea86ac:#c5e280:#fdf38f:#55bbf9:#b9a0f9:#7fd4fb:#ffffff'
+palette='#171717:#fe4386:#a6e32d:#e6da73:#0094d9:#9b37ff:#50b7d9:#c7c7c7:#686868:#fa80ac:#bde371:#fff27f:#00beff:#be9eff:#5ed7ff:#ffffff'
 COLORS
