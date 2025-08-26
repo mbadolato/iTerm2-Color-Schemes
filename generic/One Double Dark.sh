@@ -25,35 +25,35 @@ else
 fi
 
 # 16 color space
-put_template 0  "3e/44/51"
-put_template 1  "e0/6c/75"
-put_template 2  "98/c3/79"
-put_template 3  "e5/c0/7b"
-put_template 4  "61/af/ef"
-put_template 5  "c6/78/dd"
-put_template 6  "56/b6/c2"
-put_template 7  "dc/df/e4"
-put_template 8  "54/5d/6d"
-put_template 9  "fd/80/7f"
-put_template 10 "96/d5/8b"
-put_template 11 "ed/c2/73"
-put_template 12 "84/c8/ff"
-put_template 13 "ee/82/ee"
-put_template 14 "3a/e1/f7"
+put_template 0  "3d/44/52"
+put_template 1  "f1/63/72"
+put_template 2  "8c/c5/70"
+put_template 3  "ec/be/70"
+put_template 4  "3f/b1/f5"
+put_template 5  "d3/73/e3"
+put_template 6  "17/b9/c4"
+put_template 7  "db/df/e5"
+put_template 8  "52/5d/6f"
+put_template 9  "ff/77/7b"
+put_template 10 "82/d8/82"
+put_template 11 "f5/c0/65"
+put_template 12 "6d/ca/ff"
+put_template 13 "ff/7b/f4"
+put_template 14 "00/e5/fb"
 put_template 15 "f7/f9/fc"
 
-color_foreground="dc/df/e4"
-color_background="29/2c/33"
+color_foreground="db/df/e5"
+color_background="28/2c/34"
 
 if [ -n "$ITERM_SESSION_ID" ]; then
   # iTerm2 proprietary escape codes
-  put_template_custom Pg "dcdfe4"
-  put_template_custom Ph "292c33"
+  put_template_custom Pg "dbdfe5"
+  put_template_custom Ph "282c34"
   put_template_custom Pi "f7f9fc"
-  put_template_custom Pj "595b6e"
-  put_template_custom Pk "cfd6f1"
-  put_template_custom Pl "f1e1dd"
-  put_template_custom Pm "cfd6f1"
+  put_template_custom Pj "585b70"
+  put_template_custom Pk "cdd6f4"
+  put_template_custom Pl "f5e0dc"
+  put_template_custom Pm "cdd6f4"
 else
   put_template_var 10 $color_foreground
   put_template_var 11 $color_background

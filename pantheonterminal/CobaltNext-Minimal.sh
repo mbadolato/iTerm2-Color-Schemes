@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='CobaltNext-Minimal'
-cursor-color='#5fb3b3'
-foreground='#d8dee9'
-background='rgba(15,28,35,.95)'
-palette='#343d46:#ed6f7d:#99c794:#fac863:#5a9bcf:#c5a5c5:#5fb3b3:#d8dee9:#65737e:#d6838c:#c1dcbe:#ffde9b:#8abee7:#edcded:#9be2e2:#ffffff'
+cursor-color='#37b5b4'
+foreground='#d7deea'
+background='rgba(11,28,36,.95)'
+palette='#323d47:#ff657a:#8cc98f:#ffc64c:#409dd4:#cba3c7:#37b5b4:#d7deea:#62747f:#e47e8b:#baddbb:#ffdc91:#7ac0eb:#f3ccef:#84e4e3:#ffffff'
 COLORS

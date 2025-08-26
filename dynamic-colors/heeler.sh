@@ -1,7 +1,7 @@
 #!/bin/sh
 # heeler
-printf "\033]4;0;#000000;1;#d3573b;2;#c1d041;3;#eecf75;4;#6da3ec;5;#fd9bc1;6;#fe9d6e;7;#ffffff;8;#000000;9;#d3573b;10;#c1d041;11;#eecf75;12;#2c86ff;13;#fd9bc1;14;#92a5df;15;#ffffff\007"
-printf "\033]10;#fdfdfd;#211f44;#ffffff\007"
-printf "\033]17;#2b2c3f\007"
-printf "\033]19;#7cfb70\007"
-printf "\033]5;0;#414694\007"
+printf "\033]4;0;#000000;1;#e44c2e;2;#bdd100;3;#f4ce65;4;#5ba5f2;5;#ff95c2;6;#ff9763;7;#ffffff;8;#000000;9;#e44c2e;10;#bdd100;11;#f4ce65;12;#0088ff;13;#ff95c2;14;#8da6e4;15;#ffffff\007"
+printf "\033]10;#fdfdfd;#211f46;#ffffff\007"
+printf "\033]17;#2b2c41\007"
+printf "\033]19;#2eff58\007"
+printf "\033]5;0;#404699\007"

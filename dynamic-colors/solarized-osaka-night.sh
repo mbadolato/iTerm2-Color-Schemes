@@ -1,7 +1,7 @@
 #!/bin/sh
 # solarized-osaka-night
-printf "\033]4;0;#15161d;1;#e77d8f;2;#a8cd76;3;#d8b172;4;#82a1f1;5;#b69bf1;6;#90cdfa;7;#aab1d3;8;#424866;9;#e77d8f;10;#a8cd76;11;#d8b172;12;#82a1f1;13;#b69bf1;14;#90cdfa;15;#c2caf1\007"
-printf "\033]10;#c2caf1;#1a1b25;#c2caf1\007"
-printf "\033]17;#2a3454\007"
-printf "\033]19;#c2caf1\007"
-printf "\033]5;0;#58b99d\007"
+printf "\033]4;0;#15161e;1;#f7768e;2;#9ece6a;3;#e0af68;4;#7aa2f7;5;#bb9af7;6;#7dcfff;7;#a9b1d6;8;#414868;9;#f7768e;10;#9ece6a;11;#e0af68;12;#7aa2f7;13;#bb9af7;14;#7dcfff;15;#c0caf5\007"
+printf "\033]10;#c0caf5;#1a1b26;#c0caf5\007"
+printf "\033]17;#283457\007"
+printf "\033]19;#c0caf5\007"
+printf "\033]5;0;#1abc9c\007"

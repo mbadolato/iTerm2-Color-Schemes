@@ -1,12 +1,12 @@
 # kurokula
 [colors]
-foreground = "#ddd0c4"
+foreground = "#e0cfc2"
 background = "#141515"
-cursor_bg = "#702420"
-cursor_border = "#702420"
-cursor_fg = "#fefbf3"
+cursor_bg = "#7a1c1c"
+cursor_border = "#7a1c1c"
+cursor_fg = "#fffbf2"
 selection_bg = "#515151"
-selection_fg = "#ffc663"
+selection_fg = "#ffc34c"
 
-ansi = ["#333333","#b66056","#85b1a9","#dbbb43","#6890d7","#887aa3","#837369","#ddd0c4"]
-brights = ["#515151","#ffc663","#c1ffae","#fff700","#a1d9ff","#a994ff","#f9cfb9","#ffffff"]
+ansi = ["#333333","#c35a52","#78b3a9","#e1b917","#5c91dd","#8b79a6","#867268","#e0cfc2"]
+brights = ["#515151","#ffc34c","#afffa5","#fff700","#90dbff","#ad93ff","#ffcdb6","#ffffff"]

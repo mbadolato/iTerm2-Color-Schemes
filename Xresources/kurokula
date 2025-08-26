@@ -1,43 +1,43 @@
 !
 ! kurokula
 !
-*.foreground:  #ddd0c4
+*.foreground:  #e0cfc2
 *.background:  #141515
-*.cursorColor: #702420
+*.cursorColor: #7a1c1c
 !
 ! Black
 *.color0:      #333333
 *.color8:      #515151
 !
 ! Red
-*.color1:      #b66056
-*.color9:      #ffc663
+*.color1:      #c35a52
+*.color9:      #ffc34c
 !
 ! Green
-*.color2:      #85b1a9
-*.color10:     #c1ffae
+*.color2:      #78b3a9
+*.color10:     #afffa5
 !
 ! Yellow
-*.color3:      #dbbb43
+*.color3:      #e1b917
 *.color11:     #fff700
 !
 ! Blue
-*.color4:      #6890d7
-*.color12:     #a1d9ff
+*.color4:      #5c91dd
+*.color12:     #90dbff
 !
 ! Magenta
-*.color5:      #887aa3
-*.color13:     #a994ff
+*.color5:      #8b79a6
+*.color13:     #ad93ff
 !
 ! Cyan
-*.color6:      #837369
-*.color14:     #f9cfb9
+*.color6:      #867268
+*.color14:     #ffcdb6
 !
 ! White
-*.color7:      #ddd0c4
+*.color7:      #e0cfc2
 *.color15:     #ffffff
 !
 ! Bold, Italic, Underline
 *.colorBD:     #ffffff
 !*.colorIT:
-*.colorUL:     #5a617f
+*.colorUL:     #596181

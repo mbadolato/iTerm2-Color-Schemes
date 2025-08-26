@@ -1,12 +1,12 @@
 # Oceanic-Next
 [colors]
-foreground = "#c1c5cd"
-background = "#1b2b34"
-cursor_bg = "#c1c5cd"
-cursor_border = "#c1c5cd"
-cursor_fg = "#1e2b33"
-selection_bg = "#515b65"
-selection_fg = "#c1c5cd"
+foreground = "#c0c5ce"
+background = "#162c35"
+cursor_bg = "#c0c5ce"
+cursor_border = "#c0c5ce"
+cursor_fg = "#1b2b34"
+selection_bg = "#4f5b66"
+selection_fg = "#c0c5ce"
 
-ansi = ["#1b2b34","#db686b","#a2c699","#f2ca73","#7198c8","#bd96c2","#74b1b2","#ffffff"]
-brights = ["#68737d","#db686b","#a2c699","#f2ca73","#7198c8","#bd96c2","#74b1b2","#ffffff"]
+ansi = ["#162c35","#ec5f67","#99c794","#fac863","#6699cc","#c594c5","#5fb3b3","#ffffff"]
+brights = ["#65737e","#ec5f67","#99c794","#fac863","#6699cc","#c594c5","#5fb3b3","#ffffff"]

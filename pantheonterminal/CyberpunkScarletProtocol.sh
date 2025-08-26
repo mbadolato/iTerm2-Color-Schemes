@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='CyberpunkScarletProtocol'
-cursor-color='#9bfca8'
-foreground='#d13554'
+cursor-color='#76ff9f'
+foreground='#e41951'
 background='rgba(16,17,22,.95)'
-palette='#101116:#ea3356:#64d98c:#faf968:#306fb1:#ba3ec1:#59c2c6:#c7c7c7:#686868:#ed776d:#8df77a:#fefc7f:#6a71f6:#ae40e4:#8efafd:#ffffff'
+palette='#101116:#ff0051:#01dc84:#faf945:#0271b6:#c930c7:#00c5c7:#c7c7c7:#686868:#ff6e67:#60fa68:#fffc67:#6871ff:#bd35ec:#60fdff:#ffffff'
 COLORS

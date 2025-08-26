@@ -1,33 +1,33 @@
 # Colors (Oceanic-Next)
 
 [colors.bright]
-black = '#68737d'
-blue = '#7198c8'
-cyan = '#74b1b2'
-green = '#a2c699'
-magenta = '#bd96c2'
-red = '#db686b'
+black = '#65737e'
+blue = '#6699cc'
+cyan = '#5fb3b3'
+green = '#99c794'
+magenta = '#c594c5'
+red = '#ec5f67'
 white = '#ffffff'
-yellow = '#f2ca73'
+yellow = '#fac863'
 
 [colors.cursor]
-cursor = '#c1c5cd'
-text = '#1e2b33'
+cursor = '#c0c5ce'
+text = '#1b2b34'
 
 [colors.normal]
-black = '#1b2b34'
-blue = '#7198c8'
-cyan = '#74b1b2'
-green = '#a2c699'
-magenta = '#bd96c2'
-red = '#db686b'
+black = '#162c35'
+blue = '#6699cc'
+cyan = '#5fb3b3'
+green = '#99c794'
+magenta = '#c594c5'
+red = '#ec5f67'
 white = '#ffffff'
-yellow = '#f2ca73'
+yellow = '#fac863'
 
 [colors.primary]
-background = '#1b2b34'
-foreground = '#c1c5cd'
+background = '#162c35'
+foreground = '#c0c5ce'
 
 [colors.selection]
-background = '#515b65'
-text = '#c1c5cd'
+background = '#4f5b66'
+text = '#c0c5ce'

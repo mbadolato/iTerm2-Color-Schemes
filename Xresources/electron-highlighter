@@ -1,43 +1,43 @@
 !
 ! electron-highlighter
 !
-*.foreground:  #a8b5d1
-*.background:  #24283b
-*.cursorColor: #a8b5d1
+*.foreground:  #a5b6d4
+*.background:  #23283d
+*.cursorColor: #a5b6d4
 !
 ! Black
-*.color0:      #15161e
-*.color8:      #506686
+*.color0:      #15161f
+*.color8:      #4a6789
 !
 ! Red
-*.color1:      #f7768e
-*.color9:      #f7768e
+*.color1:      #ff6c8d
+*.color9:      #ff6c8d
 !
 ! Green
-*.color2:      #58ffc7
-*.color10:     #58ffc7
+*.color2:      #00ffc3
+*.color10:     #00ffc3
 !
 ! Yellow
-*.color3:      #ffd9af
-*.color11:     #ffd9af
+*.color3:      #ffd7a9
+*.color11:     #ffd7a9
 !
 ! Blue
-*.color4:      #82aaff
-*.color12:     #82aaff
+*.color4:      #77abff
+*.color12:     #77abff
 !
 ! Magenta
-*.color5:      #d2a6ef
-*.color13:     #d2a6ef
+*.color5:      #daa4f4
+*.color13:     #daa4f4
 !
 ! Cyan
-*.color6:      #57f9ff
-*.color14:     #57f9ff
+*.color6:      #00fdff
+*.color14:     #00fdff
 !
 ! White
-*.color7:      #7c8eac
-*.color15:     #c5cee0
+*.color7:      #778faf
+*.color15:     #c3cee2
 !
 ! Bold, Italic, Underline
-*.colorBD:     #aab5cf
+*.colorBD:     #a8b5d1
 !*.colorIT:
 !*.colorUL:
