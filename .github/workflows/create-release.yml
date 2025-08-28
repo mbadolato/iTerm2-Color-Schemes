@@ -1,0 +1,281 @@
+name: Create Terminal Color Schemes Release
+
+on:
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - "**"
+      - "!screenshots/**"
+      - "!backgrounds/**"
+      - "!README.md"
+      - "!CREDITS.md"
+      - "!LICENSE"
+      - "!.gitignore"
+      - "!.github/**"
+  workflow_dispatch: # Allows manual triggering
+    inputs:
+      release_name:
+        description: "Custom release name (optional)"
+        required: false
+        default: ""
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up variables
+        id: vars
+        run: |
+          # Generate timestamp-based tag for releases
+          TIMESTAMP=$(date '+%Y%m%d-%H%M%S')
+          SHORT_SHA=${GITHUB_SHA::7}
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.release_name }}" ]; then
+            echo "tag_name=release-$TIMESTAMP-$SHORT_SHA" >> $GITHUB_OUTPUT
+            echo "release_name=${{ github.event.inputs.release_name }}" >> $GITHUB_OUTPUT
+          else
+            echo "tag_name=release-$TIMESTAMP-$SHORT_SHA" >> $GITHUB_OUTPUT
+            echo "release_name=Terminal Color Schemes - $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
+          fi
+
+          echo "short_sha=$SHORT_SHA" >> $GITHUB_OUTPUT
+          echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
+
+      - name: Check for existing release and clean up if needed
+        run: |
+          # Delete the 'latest' release and tag if they exist to avoid conflicts
+          gh release delete latest --yes --cleanup-tag 2>/dev/null || echo "No existing 'latest' release to delete"
+
+          # Also clean up old automated releases (keep only the last 5)
+          echo "Cleaning up old automated releases..."
+          gh release list --limit 100 --json tagName,createdAt \
+            | jq -r '.[] | select(.tagName | startswith("release-")) | .tagName' \
+            | sort -r \
+            | tail -n +6 \
+            | head -10 \
+            | while read -r old_tag; do
+              if [ -n "$old_tag" ]; then
+                echo "Deleting old release: $old_tag"
+                gh release delete "$old_tag" --yes --cleanup-tag 2>/dev/null || echo "Failed to delete $old_tag"
+              fi
+            done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create release archives
+        run: |
+          # Dynamically discover all directories, excluding screenshots and backgrounds
+          ALL_DIRS=($(find . -maxdepth 1 -type d -name '[a-zA-Z]*' ! -name 'screenshots' ! -name 'backgrounds' ! -name '.git*' | sed 's|./||' | sort))
+          mkdir -p releases
+
+          # Create individual archives for each terminal emulator directory
+          for dir in "${ALL_DIRS[@]}"; do
+            if [ -d "$dir" ]; then
+              echo "Creating archive for $dir..."
+              
+              # Count files to ensure directory is not empty
+              file_count=$(find "$dir" -type f | wc -l)
+              if [ $file_count -gt 0 ]; then
+                # Create tar.gz archive
+                tar -czf "releases/${dir}-color-schemes.tar.gz" "$dir"
+                
+                # Create zip archive
+                zip -r "releases/${dir}-color-schemes.zip" "$dir"
+                
+                echo "✓ Created archives for $dir ($file_count files)"
+              else
+                echo "⚠️ Skipping empty directory: $dir"
+              fi
+            else
+              echo "⚠️ Directory not found: $dir"
+            fi
+          done
+
+          # Create a complete archive excluding screenshots and backgrounds
+          echo "Creating complete archive (excluding screenshots and backgrounds)..."
+          tar -czf "releases/all-terminal-color-schemes.tar.gz" \
+            --exclude="screenshots" \
+            --exclude="backgrounds" \
+            --exclude="*.png" \
+            --exclude="*.jpg" \
+            --exclude="*.jpeg" \
+            --exclude="*.gif" \
+            --exclude="*.webp" \
+            --exclude=".git*" \
+            --exclude="releases" \
+            .
+
+          zip -r "releases/all-terminal-color-schemes.zip" . \
+            -x "screenshots/*" \
+            -x "backgrounds/*" \
+            -x "*.png" \
+            -x "*.jpg" \
+            -x "*.jpeg" \
+            -x "*.gif" \
+            -x "*.webp" \
+            -x ".git*" \
+            -x "releases/*"
+
+          echo "✓ Created complete archives"
+
+          # List created archives
+          echo "📦 Created archives:"
+          ls -la releases/
+
+      - name: Generate release notes
+        id: release_notes
+        run: |
+          # Generate timestamp-based release notes
+          cat > release_notes.md << EOF
+          # Terminal Color Schemes - $(date '+%Y-%m-%d %H:%M:%S UTC')
+
+          **Commit:** [\`${{ steps.vars.outputs.short_sha }}\`](https://github.com/${{ github.repository }}/commit/${{ github.sha }})
+          **Build:** ${{ steps.vars.outputs.timestamp }}
+
+          ## What's Updated
+
+          $(if [ "${{ github.event_name }}" = "push" ]; then
+            echo "This release was triggered by changes to the following directories:"
+            echo ""
+            echo "${{ steps.changes.outputs.changed_dirs }}" | while read -r dir; do
+              if [ -n "$dir" ] && [ -d "$dir" ]; then
+                echo "- **$dir** - $(echo $dir | tr '_' ' ' | sed 's/\b\w/\U&/g') color schemes"
+              fi
+            done
+            echo ""
+            echo "### Recent Changes"
+            echo ""
+            echo "\`\`\`"
+            git log --oneline -5 --no-merges
+            echo "\`\`\`"
+          else
+            echo "This is a manually triggered release containing all available color schemes."
+          fi)
+
+          ## Individual Downloads
+
+          Choose the archive for your specific terminal emulator:
+
+          ### Terminal Emulators
+          - **alacritty** - Alacritty terminal color schemes
+          - **ghostty** - Ghostty terminal color schemes
+          - **gnome_terminal** - GNOME Terminal color schemes
+          - **konsole** - KDE Konsole color schemes
+          - **terminal** - macOS Terminal.app color schemes
+          - **terminator** - Terminator terminal color schemes
+          - **windowsterminal** - Windows Terminal color schemes
+          - **xfce4terminal** - XFCE Terminal color schemes
+
+          ### Formats & Standards
+          - **schemes** - Original iTerm2 .itermcolors files
+          - **yaml** - YAML format color definitions
+          - **xrdb** - X11 resource database format
+          - **generic** - Universal shell scripts using OSC escape codes
+
+          ### Applications & Tools
+          - **vim** - Vim/Neovim color schemes
+          - **vscode** - Visual Studio Code color schemes
+
+          ### Legacy & Specialized
+          - **freebsd_vt** - FreeBSD VT console color schemes
+          - **linux_console** - Linux console color schemes
+          - **lxterminal** - LXTerminal color schemes
+          - **mobaxterm** - MobaXterm color schemes
+          - **putty** - PuTTY color schemes
+          - **qt_creator** - Qt Creator color schemes
+          - **remmina** - Remmina color schemes
+          - **rio** - Rio terminal color schemes
+          - **termite** - Termite terminal color schemes (archived)
+          - **termux** - Termux Android terminal color schemes
+          - **tilda** - Tilda drop-down terminal color schemes
+
+          ## Complete Archive
+
+          The `all-terminal-color-schemes` archives contain all terminal emulator formats in a single download (screenshots excluded to reduce size).
+
+          ## Installation
+
+          See the [README](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/README.md) for detailed installation instructions for each terminal emulator.
+
+          ---
+
+          **📅 Generated:** $(date '+%Y-%m-%d %H:%M:%S UTC')  
+          **🔗 Commit:** ${{ github.sha }}  
+          **⚡ Auto-release:** This release is automatically generated when terminal emulator folders are updated
+
+          **Note:** Screenshots and backgrounds have been excluded from release archives to reduce download size. You can view all color scheme previews in the [screenshots directory](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/screenshots) on GitHub.
+          EOF
+
+          # Set output for the release notes
+          {
+            echo 'notes<<EOF'
+            cat release_notes.md
+            echo EOF
+          } >> $GITHUB_OUTPUT
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.vars.outputs.tag_name }}
+          name: ${{ steps.vars.outputs.release_name }}
+          body: ${{ steps.release_notes.outputs.notes }}
+          files: releases/*
+          draft: false
+          prerelease: false
+          make_latest: true
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload release summary
+        run: |
+          echo "## 🎉 Auto-Release Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Tag:** \`${{ steps.vars.outputs.tag_name }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "**Release:** ${{ steps.vars.outputs.release_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Commit:** [\`${{ steps.vars.outputs.short_sha }}\`](https://github.com/${{ github.repository }}/commit/${{ github.sha }})" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ "${{ github.event_name }}" = "push" ]; then
+            echo "**Triggered by:** Changes to terminal emulator directories" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**Changed directories:**" >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+            echo "${{ steps.changes.outputs.changed_dirs }}" >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "**Triggered by:** Manual workflow dispatch" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 📦 Archives Created:" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Archive | Size | Type |" >> $GITHUB_STEP_SUMMARY
+          echo "|---------|------|------|" >> $GITHUB_STEP_SUMMARY
+
+          for file in releases/*; do
+            if [ -f "$file" ]; then
+              filename=$(basename "$file")
+              size=$(ls -lh "$file" | awk '{print $5}')
+              if [[ "$filename" == *".tar.gz" ]]; then
+                filetype="tar.gz"
+              else
+                filetype="zip"
+              fi
+              echo "| $filename | $size | $filetype |" >> $GITHUB_STEP_SUMMARY
+            fi
+          done
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🔗 Release Links" >> $GITHUB_STEP_SUMMARY
+          echo "- **Release Page:** [View Release](https://github.com/${{ github.repository }}/releases/tag/${{ steps.vars.outputs.tag_name }})" >> $GITHUB_STEP_SUMMARY
+          echo "- **Latest Release:** [Always Latest](https://github.com/${{ github.repository }}/releases/latest)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ **Auto-release completed successfully!**" >> $GITHUB_STEP_SUMMARY
