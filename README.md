@@ -114,29 +114,8 @@ Have a great theme? Send it to me via a Pull Request!
    - Click on **Color Presets**
    - Click on **Export**
    - Save the .itermcolors file
-   - Adjust the [Color Space](#color-space)
 2. Put your theme file into `/schemes/`
    - `mv <your-itermcolors-file> schemes/`
-3. Continue with the "Create derived versions" below.
-
-##### Color Space
-
-iTerm seems to store the colors in its color presets in P3 color space.
-The tools only can handle sRGB color space.
-To convert an `.itermcolors` file int sRGB color space, use the provided `p3tosRGB.py` tool:
-
-```shell
-python3 tools/p3tosRGB.py schemes/YOUR_SCHEME
-```
-
-When using Docker:
-
-```shell
-./generate-all.sh debug
-python3 tools/p3tosRGB.py schemes/YOUR_SCHEME
-```
-
-This will overwrite your scheme with a converted version.
 
 #### Have a theme in another format?
 
@@ -145,25 +124,18 @@ This will overwrite your scheme with a converted version.
    - If it helps, you can use `tools/kitty_to_yaml.py` and `tools/ghostty_to_yaml.py`.
      These tools accept configuration file streamed into stdin, and output a YAML fragment to stdout.
 2. Put the YAML file in `yaml/`, with the `.yml` extension.
-3. Continue with the "Create derived versions" below.
 
-#### Create derived versions
-
-If you have `make` installed, steps 1 to 4 can be run with `make` from the root of the repository.
+#### Test your theme
 
 1. Generate other formats for your theme using the `gen.py` script.
-   - `python3 tools/gen.py`
-2. If you only want to generate files for your theme, you can specify this with the `-s` flag.
-   - `python3 tools/gen.py -s Dracula`
-3. Generate a screenshot of your theme using the `screenshot_gen` tool.
+   - `python3 tools/gen.py -s <YourTheme>`
+2. Generate a screenshot of your theme using the `screenshot_gen` tool.
    - `pushd tools && python3 -m screenshot_gen && popd`. This will generate new screenshots where they are missing.
    - If you have `oxipng` or `zopflipng` installed, the screenshot will be optimized for you.
-4. Run `generate_screenshots_readme.py` to include your theme's screenshot in the `screenshots/README.md` file:
-   - `python3 tools/generate_screenshots_readme.py`
 
-#### Add your theme to the README
+#### Update `CREDITS.md` (optional)
 
-1. Update `README.md` to include your theme and screenshot. Also update `CREDITS.md` to credit yourself for your contribution.
+1. Update `CREDITS.md` to credit yourself for your contribution.
 
 ### How to add new template
 
@@ -1891,6 +1863,7 @@ The screenshots are categorized.
 ### zenwritten_light
 
 ![Screenshot](/screenshots/zenwritten_light.png)
+
 <!-- SCREENSHOTS_END -->
 
 ## Credits
