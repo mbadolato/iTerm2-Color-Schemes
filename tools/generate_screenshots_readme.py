@@ -16,7 +16,7 @@ def calculate_brightness(r, g, b):
 def classify_itermcolors(directory="."):
     light_themes = []
     dark_themes = []
-    
+
     for file in sorted(directory.glob("*.itermcolors"), key=lambda entry: entry.name.lower()):
         screenshot_filename = get_screenshot_filename(file.with_suffix("").name)+ ".png"
         if screenshot_filename.startswith("builtin_"):
@@ -24,14 +24,14 @@ def classify_itermcolors(directory="."):
             continue
         with open(os.path.join(directory, file), "rb") as f:
             plist = plistlib.load(f)
-            
+
             bg_color = plist.get("Background Color", {})
             r = bg_color.get("Red Component", 0)
             g = bg_color.get("Green Component", 0)
             b = bg_color.get("Blue Component", 0)
-            
+
             brightness = calculate_brightness(r, g, b)
-            
+
             if brightness > 0.5:
                 light_themes.append((file.with_suffix(""), screenshot_filename))
             else:
@@ -48,23 +48,23 @@ def generate_screenshots_readme():
 
     with (screenshots_path / "README.md").open("w", encoding="utf-8") as outf:
         outf.write("""
-# Screenshots
+## Screenshots
 
 The screenshots are categorized.
 
 - [Dark Themes](#darkthemes)
 - [Light Themes](#lightthemes)
 
-## Dark Themes<a name="darkthemes"><a/>
+### Dark Themes<a name="darkthemes"><a/>
 
 """)
-        outf.write("\n\n".join(f"`{f[0].name}`\n\n![image]({f[1]})" for f in dark_themes))
+        outf.write("\n\n".join(f"### {f[0].name}\n\n![Screenshot](/screenshots/{f[1]})" for f in dark_themes))
         outf.write("""
 
-## Light Themes<a name="lightthemes"><a/>
+### Light Themes<a name="lightthemes"><a/>
 
 """)
-        outf.write("\n\n".join(f"`{f[0].name}`\n\n![image]({f[1]})" for f in light_themes))
+        outf.write("\n\n".join(f"### {f[0].name}\n\n![Screenshot](/screenshots/{f[1]})" for f in light_themes))
         outf.write("\n")
         print(outf.name, "written")
 

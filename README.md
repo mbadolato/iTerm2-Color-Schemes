@@ -215,6 +215,8 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 6. If in the process you had to add new dependencies or update the version of python, do not forget to indicate this in `requirements.txt` or `.python-version`.
 
+<!-- SCREENSHOTS_BEGIN -->
+
 ## Screenshots
 
 ### 0x96f
@@ -1870,6 +1872,8 @@ more information.
 
 ![Screenshot](screenshots/zenwritten_light.png)
 
+<!-- SCREENSHOTS_END -->
+
 ## Credits
 
 - The schemes [_Novel_](#novel), [_Espresso_](#espresso), [_Grass_](#grass), [_Homebrew_](#homebrew), [_Ocean_](#ocean), [_Pro_](#pro), [_Man Page_](#man-page), [_Red Sands_](#red-sands), and [_Terminal Basic_](#terminal-basic) are ports of the schemes of the same name included with the Mac Terminal application. All of Terminal's schemes have now been ported, with the exception of _Solid Colors_ (random backgrounds, which iTerm doesn't support) and _Aerogel_ (which is hideous).
@@ -2103,7 +2107,7 @@ tools/preview.rb schemes/*
 
 [preview-generic.sh](tools/preview-generic.sh) is a script which can preview
 the themes in any terminal emulator which has support for the OSC 4 escape
-codes. It works by running the shell scripts from the `generic/` directory. 
+codes. It works by running the shell scripts from the `generic/` directory.
 
 ```sh
 # Apply AdventureTime scheme to the current session
@@ -2113,6 +2117,7 @@ bash generic/AdventureTime.sh
 # - Press left/right arrow keys to navigate, press `q` to stop
 ./tools/preview-generic.sh generic/*
 ```
+
 ---
 
 iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes | iTerm Themes | iTerm2 Themes | iTerm 2 Themes
