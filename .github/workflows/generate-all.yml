@@ -1,4 +1,4 @@
-name: Generate iTerm2 Color Schemes
+name: Generate iTerm2 Color Schemes & Screenshots
 
 on:
   workflow_dispatch:
@@ -26,6 +26,16 @@ jobs:
         run: |
           cd tools
           python gen.py
+
+      - name: Run screenshot_gen to generate screenshot images
+        run: |
+          cd tools
+          python -m screenshot_gen
+
+      - name: Run generate_screenshots_readme.py to generate screenshots/README.md
+        run: |
+          cd tools
+          python -m generate_screenshots_readme.py
 
       - name: Check for changes
         id: changes
