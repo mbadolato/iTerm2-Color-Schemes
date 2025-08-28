@@ -1,0 +1,27 @@
+# https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/
+# 15% brightness increase 0-7 to simulate brightness on monitor
+
+name:     'IBM 5153 CGA'
+author:   '(https://jmiller.com/)' # 'Author Name (http://website.com)'
+variant:  'Dark' # Dark or Light
+
+color_01:   '#262626' # Black (Host)
+color_02:   '#DB3333' # Red (Syntax string)
+color_03:   '#33DB33' # Green (Command)
+color_04:   '#DB9833' # Yellow (Command second)
+color_05:   '#3333DB' # Blue (Path)
+color_06:   '#DB33DB' # Magenta (Syntax var)
+color_07:   '#33DBDB' # Cyan (Prompt)
+color_08:   '#D6D6D6' # White
+color_09:   '#4E4E4E' # Bright Black
+color_10:   '#DC4E4E' # Bright Red (Command error)
+color_11:   '#4EDC4E' # Bright Green (Exec)
+color_12:   '#F3F34E' # Bright Yellow
+color_13:   '#4E4EDC' # Bright Blue (Folder)
+color_14:   '#F34EF3' # Bright Magenta
+color_15:   '#4EF3F3' # Bright Cyan
+color_16:   '#FFFFFF' # Bright White
+
+background: '#262626' # Background
+foreground: '#D6D6D6' # Foreground (Text)
+cursor:     '#D6D6D6' # Cursor
