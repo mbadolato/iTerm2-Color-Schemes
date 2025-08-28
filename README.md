@@ -921,6 +921,14 @@ Do you want to convert existing iTerm themes to themes for your favorite termina
 
 ![Screenshot](screenshots/hybrid.png)
 
+### IBM 5153 CGA (Black)
+
+![Screenshot](screenshots/ibm_5153_cga_black.png)
+
+### IBM 5153 CGA
+
+![Screenshot](screenshots/ibm_5153_cga.png)
+
 ### IC_Green_PPL
 
 ![Screenshot](screenshots/ic_green_ppl.png)
@@ -2103,7 +2111,7 @@ tools/preview.rb schemes/*
 
 [preview-generic.sh](tools/preview-generic.sh) is a script which can preview
 the themes in any terminal emulator which has support for the OSC 4 escape
-codes. It works by running the shell scripts from the `generic/` directory. 
+codes. It works by running the shell scripts from the `generic/` directory.
 
 ```sh
 # Apply AdventureTime scheme to the current session

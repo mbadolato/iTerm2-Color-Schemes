@@ -636,6 +636,14 @@ The screenshots are categorized.
 
 ![image](hybrid.png)
 
+`IBM 5153 CGA (Black)`
+
+![image](ibm_5153_cga_black.png)
+
+`IBM 5153 CGA`
+
+![image](ibm_5153_cga.png)
+
 `IC_Green_PPL`
 
 ![image](ic_green_ppl.png)
