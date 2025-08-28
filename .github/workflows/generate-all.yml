@@ -37,24 +37,7 @@ jobs:
           cd tools
           python generate_screenshots_readme.py
 
-      - name: Check for changes
-        id: changes
-        run: |
-          if git diff --quiet; then
-            echo "No changes to commit"
-            echo "changes=false" >> $GITHUB_OUTPUT
-          else
-            echo "Changes detected"
-            echo "changes=true" >> $GITHUB_OUTPUT
-          fi
-
       - name: Commit and push changes
-        if: steps.changes.outputs.changes == 'true'
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "Auto-generate color scheme files"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Auto-generate color schemes, screenshots, screenshots/README.md"
