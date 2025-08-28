@@ -4,6 +4,12 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 14 * * 1" # Run every Monday at 14:00 UTC
+  push:
+    branches:
+      - master
+    paths:
+      - "schemes/**"
+      - "yaml/**"
 
 jobs:
   generate-themes:
