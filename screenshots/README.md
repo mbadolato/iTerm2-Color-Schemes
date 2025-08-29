@@ -14,15 +14,15 @@ The screenshots are categorized.
 
 `12-bit Rainbow`
 
-![image](12-bit_rainbow.png)
+![image](12-bit-rainbow.png)
 
 `3024 Night`
 
-![image](3024_night.png)
+![image](3024-night.png)
 
 `Aardvark Blue`
 
-![image](aardvark_blue.png)
+![image](aardvark-blue.png)
 
 `Abernathy`
 
@@ -34,11 +34,11 @@ The screenshots are categorized.
 
 `AdventureTime`
 
-![image](adventure_time.png)
+![image](adventuretime.png)
 
 `Adwaita Dark`
 
-![image](adwaita_dark.png)
+![image](adwaita-dark.png)
 
 `Afterglow`
 
@@ -46,7 +46,7 @@ The screenshots are categorized.
 
 `AlienBlood`
 
-![image](alien_blood.png)
+![image](alienblood.png)
 
 `Andromeda`
 
@@ -78,7 +78,7 @@ The screenshots are categorized.
 
 `AtelierSulphurpool`
 
-![image](atelier-sulphurpool_dark.png)
+![image](ateliersulphurpool.png)
 
 `Atom`
 
@@ -86,7 +86,7 @@ The screenshots are categorized.
 
 `AtomOneDark`
 
-![image](atom_one_dark.png)
+![image](atomonedark.png)
 
 `Aura`
 
@@ -98,7 +98,7 @@ The screenshots are categorized.
 
 `Ayu Mirage`
 
-![image](ayu_mirage.png)
+![image](ayu-mirage.png)
 
 `ayu`
 
@@ -106,7 +106,7 @@ The screenshots are categorized.
 
 `Banana Blueberry`
 
-![image](banana_blueberry.png)
+![image](banana-blueberry.png)
 
 `Batman`
 
@@ -114,55 +114,55 @@ The screenshots are categorized.
 
 `Belafonte Night`
 
-![image](belafonte_night.png)
+![image](belafonte-night.png)
 
 `BirdsOfParadise`
 
-![image](birds_of_paradise.png)
+![image](birdsofparadise.png)
 
 `Black Metal (Bathory)`
 
-![image](black_metal_bathory.png)
+![image](black-metal-bathory.png)
 
 `Black Metal (Burzum)`
 
-![image](black_metal_burzum.png)
+![image](black-metal-burzum.png)
 
 `Black Metal (Dark Funeral)`
 
-![image](black_metal_dark_funeral.png)
+![image](black-metal-dark-funeral.png)
 
 `Black Metal (Gorgoroth)`
 
-![image](black_metal_gorgoroth.png)
+![image](black-metal-gorgoroth.png)
 
 `Black Metal (Immortal)`
 
-![image](black_metal_immortal.png)
+![image](black-metal-immortal.png)
 
 `Black Metal (Khold)`
 
-![image](black_metal_khold.png)
+![image](black-metal-khold.png)
 
 `Black Metal (Marduk)`
 
-![image](black_metal_marduk.png)
+![image](black-metal-marduk.png)
 
 `Black Metal (Mayhem)`
 
-![image](black_metal_mayhem.png)
+![image](black-metal-mayhem.png)
 
 `Black Metal (Nile)`
 
-![image](black_metal_nile.png)
+![image](black-metal-nile.png)
 
 `Black Metal (Venom)`
 
-![image](black_metal_venom.png)
+![image](black-metal-venom.png)
 
 `Black Metal`
 
-![image](black_metal.png)
+![image](black-metal.png)
 
 `Blazer`
 
@@ -170,19 +170,19 @@ The screenshots are categorized.
 
 `Blue Matrix`
 
-![image](blue_matrix.png)
+![image](blue-matrix.png)
 
 `BlueBerryPie`
 
-![image](blueberry_pie.png)
+![image](blueberrypie.png)
 
 `BlueDolphin`
 
-![image](BlueDolphin.png)
+![image](bluedolphin.png)
 
 `BlulocoDark`
 
-![image](bluloco_dark.png)
+![image](blulocodark.png)
 
 `Borland`
 
@@ -198,7 +198,7 @@ The screenshots are categorized.
 
 `Bright Lights`
 
-![image](bright_lights.png)
+![image](bright-lights.png)
 
 `Broadcast`
 
@@ -207,6 +207,22 @@ The screenshots are categorized.
 `Brogrammer`
 
 ![image](brogrammer.png)
+
+`Builtin Dark`
+
+![image](builtin-dark.png)
+
+`Builtin Pastel Dark`
+
+![image](builtin-pastel-dark.png)
+
+`Builtin Solarized Dark`
+
+![image](builtin-solarized-dark.png)
+
+`Builtin Tango Dark`
+
+![image](builtin-tango-dark.png)
 
 `C64`
 
@@ -242,7 +258,7 @@ The screenshots are categorized.
 
 `ChallengerDeep`
 
-![image](challenger_deep.png)
+![image](challengerdeep.png)
 
 `Chester`
 
@@ -258,7 +274,7 @@ The screenshots are categorized.
 
 `Cobalt Neon`
 
-![image](cobalt_neon.png)
+![image](cobalt-neon.png)
 
 `Cobalt2`
 
@@ -266,23 +282,23 @@ The screenshots are categorized.
 
 `CobaltNext-Dark`
 
-![image](cobalt_next-dark.png)
+![image](cobaltnext-dark.png)
 
 `CobaltNext-Minimal`
 
-![image](cobalt_next-minimal.png)
+![image](cobaltnext-minimal.png)
 
 `CobaltNext`
 
-![image](cobalt_next.png)
+![image](cobaltnext.png)
 
 `CrayonPonyFish`
 
-![image](crayon_pony_fish.png)
+![image](crayonponyfish.png)
 
 `CutiePro`
 
-![image](CutiePro.png)
+![image](cutiepro.png)
 
 `Cyberdyne`
 
@@ -294,19 +310,19 @@ The screenshots are categorized.
 
 `CyberpunkScarletProtocol`
 
-![image](cyberpunk_scarlet_protocol.png)
+![image](cyberpunkscarletprotocol.png)
 
 `Dark Modern`
 
-![image](dark_modern.png)
+![image](dark-modern.png)
 
 `Dark Pastel`
 
-![image](dark_pastel.png)
+![image](dark-pastel.png)
 
 `Dark+`
 
-![image](dark_plus.png)
+![image](dark.png)
 
 `darkermatrix`
 
@@ -338,7 +354,7 @@ The screenshots are categorized.
 
 `DimmedMonokai`
 
-![image](dimmed_monokai.png)
+![image](dimmedmonokai.png)
 
 `Django`
 
@@ -346,27 +362,27 @@ The screenshots are categorized.
 
 `DjangoRebornAgain`
 
-![image](DjangoRebornAgain.png)
+![image](djangorebornagain.png)
 
 `DjangoSmooth`
 
-![image](DjangoSmoothy.png)
+![image](djangosmooth.png)
 
 `Doom Peacock`
 
-![image](doom_peacock.png)
+![image](doom-peacock.png)
 
 `DoomOne`
 
-![image](doom_one.png)
+![image](doomone.png)
 
 `DotGov`
 
-![image](dot_gov.png)
+![image](dotgov.png)
 
 `Dracula+`
 
-![image](dracula+.png)
+![image](dracula.png)
 
 `Dracula`
 
@@ -378,7 +394,7 @@ The screenshots are categorized.
 
 `Duotone Dark`
 
-![image](duotone_dark.png)
+![image](duotone-dark.png)
 
 `Earthsong`
 
@@ -406,7 +422,7 @@ The screenshots are categorized.
 
 `embers-dark`
 
-![image](embers.png)
+![image](embers-dark.png)
 
 `ENCOM`
 
@@ -414,7 +430,7 @@ The screenshots are categorized.
 
 `Espresso Libre`
 
-![image](espresso_libre.png)
+![image](espresso-libre.png)
 
 `Espresso`
 
@@ -426,7 +442,7 @@ The screenshots are categorized.
 
 `Everforest Dark - Hard`
 
-![image](everforest_dark_hard.png)
+![image](everforest-dark---hard.png)
 
 `Fahrenheit`
 
@@ -450,7 +466,7 @@ The screenshots are categorized.
 
 `FirefoxDev`
 
-![image](firefox_dev.png)
+![image](firefoxdev.png)
 
 `Firewatch`
 
@@ -458,7 +474,7 @@ The screenshots are categorized.
 
 `FishTank`
 
-![image](fish_tank.png)
+![image](fishtank.png)
 
 `Flat`
 
@@ -478,7 +494,7 @@ The screenshots are categorized.
 
 `ForestBlue`
 
-![image](forest_blue.png)
+![image](forestblue.png)
 
 `Framer`
 
@@ -486,11 +502,11 @@ The screenshots are categorized.
 
 `FrontEndDelight`
 
-![image](front_end_delight.png)
+![image](frontenddelight.png)
 
 `FunForrest`
 
-![image](fun_forrest.png)
+![image](funforrest.png)
 
 `Galaxy`
 
@@ -502,11 +518,11 @@ The screenshots are categorized.
 
 `Ghostty Default StyleDark`
 
-![image](ghostty_default_style_dark.png)
+![image](ghostty-default-styledark.png)
 
 `GitHub Dark`
 
-![image](github_dark.png)
+![image](github-dark.png)
 
 `GitHub-Dark-Colorblind`
 
@@ -526,11 +542,11 @@ The screenshots are categorized.
 
 `GitLab-Dark-Grey`
 
-![image](git_lab-dark-grey.png)
+![image](gitlab-dark-grey.png)
 
 `GitLab-Dark`
 
-![image](git_lab-dark.png)
+![image](gitlab-dark.png)
 
 `Glacier`
 
@@ -554,15 +570,15 @@ The screenshots are categorized.
 
 `gruvbox-material`
 
-![image](gruvbox_material.png)
+![image](gruvbox-material.png)
 
 `GruvboxDark`
 
-![image](gruvbox_dark.png)
+![image](gruvboxdark.png)
 
 `GruvboxDarkHard`
 
-![image](gruvbox_dark_hard.png)
+![image](gruvboxdarkhard.png)
 
 `Guezwhoz`
 
@@ -582,19 +598,19 @@ The screenshots are categorized.
 
 `Havn Skumring`
 
-![image](havn_skumring.png)
+![image](havn-skumring.png)
 
 `HaX0R_BLUE`
 
-![image](hax0r_blue.png)
+![image](hax0r-blue.png)
 
 `HaX0R_GR33N`
 
-![image](hax0r_gr33n.png)
+![image](hax0r-gr33n.png)
 
 `HaX0R_R3D`
 
-![image](hax0r_r3d.png)
+![image](hax0r-r3d.png)
 
 `heeler`
 
@@ -606,7 +622,7 @@ The screenshots are categorized.
 
 `Hipster Green`
 
-![image](hipster_green.png)
+![image](hipster-green.png)
 
 `Hivacruz`
 
@@ -618,7 +634,7 @@ The screenshots are categorized.
 
 `Hopscotch.256`
 
-![image](hopscotch_256.png)
+![image](hopscotch256.png)
 
 `Hopscotch`
 
@@ -638,15 +654,15 @@ The screenshots are categorized.
 
 `IC_Green_PPL`
 
-![image](ic_green_ppl.png)
+![image](ic-green-ppl.png)
 
 `IC_Orange_PPL`
 
-![image](ic_orange_ppl.png)
+![image](ic-orange-ppl.png)
 
 `iceberg-dark`
 
-![image](iceberg.png)
+![image](iceberg-dark.png)
 
 `idea`
 
@@ -654,19 +670,19 @@ The screenshots are categorized.
 
 `idleToes`
 
-![image](idleToes.png)
+![image](idletoes.png)
 
 `IR_Black`
 
-![image](ir_black.png)
+![image](ir-black.png)
 
 `IRIX Console`
 
-![image](irix_console.png)
+![image](irix-console.png)
 
 `IRIX Terminal`
 
-![image](irix_terminal.png)
+![image](irix-terminal.png)
 
 `iTerm2 Dark Background`
 
@@ -694,7 +710,7 @@ The screenshots are categorized.
 
 `Jackie Brown`
 
-![image](jackie_brown.png)
+![image](jackie-brown.png)
 
 `Japanesque`
 
@@ -706,7 +722,7 @@ The screenshots are categorized.
 
 `JetBrains Darcula`
 
-![image](jetbrains_darcula.png)
+![image](jetbrains-darcula.png)
 
 `jubi`
 
@@ -742,7 +758,7 @@ The screenshots are categorized.
 
 `Lab Fox`
 
-![image](lab_fox.png)
+![image](lab-fox.png)
 
 `Laser`
 
@@ -750,7 +766,7 @@ The screenshots are categorized.
 
 `Later This Evening`
 
-![image](later_this_evening.png)
+![image](later-this-evening.png)
 
 `Lavandula`
 
@@ -758,15 +774,15 @@ The screenshots are categorized.
 
 `LiquidCarbon`
 
-![image](liquid_carbon.png)
+![image](liquidcarbon.png)
 
 `LiquidCarbonTransparent`
 
-![image](liquid_carbon_transparent.png)
+![image](liquidcarbontransparent.png)
 
 `LiquidCarbonTransparentInverse`
 
-![image](liquid_carbon_transparent_inverse.png)
+![image](liquidcarbontransparentinverse.png)
 
 `lovelace`
 
@@ -778,19 +794,19 @@ The screenshots are categorized.
 
 `MaterialDark`
 
-![image](material_dark.png)
+![image](materialdark.png)
 
 `MaterialDarker`
 
-![image](material_darker.png)
+![image](materialdarker.png)
 
 `MaterialDesignColors`
 
-![image](material_design_colors.png)
+![image](materialdesigncolors.png)
 
 `MaterialOcean`
 
-![image](material_ocean.png)
+![image](materialocean.png)
 
 `Mathias`
 
@@ -806,7 +822,7 @@ The screenshots are categorized.
 
 `Melange_dark`
 
-![image](melange_dark.png)
+![image](melange-dark.png)
 
 `Mellifluous`
 
@@ -822,7 +838,7 @@ The screenshots are categorized.
 
 `midnight-in-mojave`
 
-![image](midnight_in_mojave.png)
+![image](midnight-in-mojave.png)
 
 `Mirage`
 
@@ -838,43 +854,43 @@ The screenshots are categorized.
 
 `MonaLisa`
 
-![image](mona_lisa.png)
+![image](monalisa.png)
 
 `Monokai Classic`
 
-![image](monokai_classic.png)
+![image](monokai-classic.png)
 
 `Monokai Pro Machine`
 
-![image](monokai_pro_machine.png)
+![image](monokai-pro-machine.png)
 
 `Monokai Pro Octagon`
 
-![image](monokai_pro_octagon.png)
+![image](monokai-pro-octagon.png)
 
 `Monokai Pro Ristretto`
 
-![image](monokai_pro_ristretto.png)
+![image](monokai-pro-ristretto.png)
 
 `Monokai Pro Spectrum`
 
-![image](monokai_pro_spectrum.png)
+![image](monokai-pro-spectrum.png)
 
 `Monokai Pro`
 
-![image](monokai_pro.png)
+![image](monokai-pro.png)
 
 `Monokai Remastered`
 
-![image](monokai_remastered.png)
+![image](monokai-remastered.png)
 
 `Monokai Soda`
 
-![image](monokai_soda.png)
+![image](monokai-soda.png)
 
 `Monokai Vivid`
 
-![image](monokai_vivid.png)
+![image](monokai-vivid.png)
 
 `moonfly`
 
@@ -886,7 +902,7 @@ The screenshots are categorized.
 
 `neobones_dark`
 
-![image](neobones_dark.png)
+![image](neobones-dark.png)
 
 `Neon`
 
@@ -906,15 +922,15 @@ The screenshots are categorized.
 
 `NightLion v1`
 
-![image](nightlion_v1.png)
+![image](nightlion-v1.png)
 
 `NightLion v2`
 
-![image](nightlion_v2.png)
+![image](nightlion-v2.png)
 
 `NightOwl`
 
-![image](night_owl.png)
+![image](nightowl.png)
 
 `niji`
 
@@ -922,7 +938,7 @@ The screenshots are categorized.
 
 `Nocturnal Winter`
 
-![image](nocturnal_winter.png)
+![image](nocturnal-winter.png)
 
 `nord-wave`
 
@@ -934,7 +950,7 @@ The screenshots are categorized.
 
 `NvimDark`
 
-![image](NvimDark.png)
+![image](nvimdark.png)
 
 `Obsidian`
 
@@ -946,11 +962,11 @@ The screenshots are categorized.
 
 `Oceanic-Next`
 
-![image](oceanic_next.png)
+![image](oceanic-next.png)
 
 `OceanicMaterial`
 
-![image](oceanic_material.png)
+![image](oceanicmaterial.png)
 
 `Ollie`
 
@@ -958,7 +974,7 @@ The screenshots are categorized.
 
 `One Double Dark`
 
-![image](one_double_dark.png)
+![image](one-double-dark.png)
 
 `OneHalfDark`
 
@@ -966,11 +982,11 @@ The screenshots are categorized.
 
 `Operator Mono Dark`
 
-![image](operator_mono_dark.png)
+![image](operator-mono-dark.png)
 
 `Overnight Slumber`
 
-![image](overnight_slumber.png)
+![image](overnight-slumber.png)
 
 `Oxocarbon`
 
@@ -978,7 +994,7 @@ The screenshots are categorized.
 
 `PaleNightHC`
 
-![image](PaleNightHC.png)
+![image](palenighthc.png)
 
 `Pandora`
 
@@ -986,15 +1002,15 @@ The screenshots are categorized.
 
 `Paraiso Dark`
 
-![image](paraiso_dark.png)
+![image](paraiso-dark.png)
 
 `PaulMillr`
 
-![image](paul_millr.png)
+![image](paulmillr.png)
 
 `PencilDark`
 
-![image](pencil_dark.png)
+![image](pencildark.png)
 
 `Peppermint`
 
@@ -1002,7 +1018,7 @@ The screenshots are categorized.
 
 `Phala Green Dark`
 
-![image](phala_green_dark.png)
+![image](phala-green-dark.png)
 
 `Pnevma`
 
@@ -1010,7 +1026,7 @@ The screenshots are categorized.
 
 `Popping and Locking`
 
-![image](popping_and_locking.png)
+![image](popping-and-locking.png)
 
 `Pro`
 
@@ -1018,7 +1034,7 @@ The screenshots are categorized.
 
 `Purple Rain`
 
-![image](purple_rain.png)
+![image](purple-rain.png)
 
 `purplepeter`
 
@@ -1030,7 +1046,7 @@ The screenshots are categorized.
 
 `Raycast_Dark`
 
-![image](raycast_dark.png)
+![image](raycast-dark.png)
 
 `rebecca`
 
@@ -1038,15 +1054,15 @@ The screenshots are categorized.
 
 `Red Alert`
 
-![image](red_alert.png)
+![image](red-alert.png)
 
 `Red Planet`
 
-![image](red_planet.png)
+![image](red-planet.png)
 
 `Red Sands`
 
-![image](red_sands.png)
+![image](red-sands.png)
 
 `Relaxed`
 
@@ -1058,7 +1074,7 @@ The screenshots are categorized.
 
 `RetroLegends`
 
-![image](RetroLegends.png)
+![image](retrolegends.png)
 
 `Rippedcasts`
 
@@ -1074,7 +1090,7 @@ The screenshots are categorized.
 
 `Rouge 2`
 
-![image](rouge_2.png)
+![image](rouge-2.png)
 
 `Royal`
 
@@ -1090,15 +1106,15 @@ The screenshots are categorized.
 
 `Scarlet Protocol`
 
-![image](scarlet_protocol.png)
+![image](scarlet-protocol.png)
 
 `Seafoam Pastel`
 
-![image](seafoam_pastel.png)
+![image](seafoam-pastel.png)
 
 `SeaShells`
 
-![image](sea_shells.png)
+![image](seashells.png)
 
 `selenized-dark`
 
@@ -1106,7 +1122,7 @@ The screenshots are categorized.
 
 `seoulbones_dark`
 
-![image](seoulbones_dark.png)
+![image](seoulbones-dark.png)
 
 `Seti`
 
@@ -1114,7 +1130,7 @@ The screenshots are categorized.
 
 `shades-of-purple`
 
-![image](ShadesOfPurple.png)
+![image](shades-of-purple.png)
 
 `Shaman`
 
@@ -1126,7 +1142,7 @@ The screenshots are categorized.
 
 `SleepyHollow`
 
-![image](SleepyHollow.png)
+![image](sleepyhollow.png)
 
 `Smyck`
 
@@ -1134,7 +1150,7 @@ The screenshots are categorized.
 
 `Snazzy Soft`
 
-![image](snazzy_soft.png)
+![image](snazzy-soft.png)
 
 `Snazzy`
 
@@ -1142,19 +1158,19 @@ The screenshots are categorized.
 
 `SoftServer`
 
-![image](soft_server.png)
+![image](softserver.png)
 
 `Solarized Darcula`
 
-![image](solarized_darcula.png)
+![image](solarized-darcula.png)
 
 `Solarized Dark - Patched`
 
-![image](solarized_dark_patched.png)
+![image](solarized-dark---patched.png)
 
 `Solarized Dark Higher Contrast`
 
-![image](solarized_dark_higher_contrast.png)
+![image](solarized-dark-higher-contrast.png)
 
 `solarized-osaka-night`
 
@@ -1170,19 +1186,19 @@ The screenshots are categorized.
 
 `SpaceGray Bright`
 
-![image](spacegray_bright.png)
+![image](spacegray-bright.png)
 
 `SpaceGray Eighties Dull`
 
-![image](spacegray_eighties_dull.png)
+![image](spacegray-eighties-dull.png)
 
 `SpaceGray Eighties`
 
-![image](spacegray_eighties.png)
+![image](spacegray-eighties.png)
 
 `SpaceGray`
 
-![image](space_gray.png)
+![image](spacegray.png)
 
 `Spiderman`
 
@@ -1194,7 +1210,7 @@ The screenshots are categorized.
 
 `Squirrelsong Dark`
 
-![image](squirrelsong_dark.png)
+![image](squirrelsong-dark.png)
 
 `srcery`
 
@@ -1234,7 +1250,7 @@ The screenshots are categorized.
 
 `SynthwaveAlpha`
 
-![image](synthwave_alpha.png)
+![image](synthwavealpha.png)
 
 `Tearout`
 
@@ -1250,19 +1266,19 @@ The screenshots are categorized.
 
 `Terminal Basic Dark`
 
-![image](terminal_basic_dark.png)
+![image](terminal-basic-dark.png)
 
 `Thayer Bright`
 
-![image](thayer_bright.png)
+![image](thayer-bright.png)
 
 `The Hulk`
 
-![image](the_hulk.png)
+![image](the-hulk.png)
 
 `Tinacious Design (Dark)`
 
-![image](tinacious_design_dark.png)
+![image](tinacious-design-dark.png)
 
 `tokyonight-storm`
 
@@ -1282,27 +1298,27 @@ The screenshots are categorized.
 
 `Tomorrow Night Blue`
 
-![image](tomorrow_night_blue.png)
+![image](tomorrow-night-blue.png)
 
 `Tomorrow Night Bright`
 
-![image](tomorrow_night_bright.png)
+![image](tomorrow-night-bright.png)
 
 `Tomorrow Night Burns`
 
-![image](tomorrow_night_burns.png)
+![image](tomorrow-night-burns.png)
 
 `Tomorrow Night Eighties`
 
-![image](tomorrow_night_eighties.png)
+![image](tomorrow-night-eighties.png)
 
 `Tomorrow Night`
 
-![image](tomorrow_night.png)
+![image](tomorrow-night.png)
 
 `ToyChest`
 
-![image](toy_chest.png)
+![image](toychest.png)
 
 `Treehouse`
 
@@ -1322,11 +1338,11 @@ The screenshots are categorized.
 
 `UltraViolent`
 
-![image](ultra_violent.png)
+![image](ultraviolent.png)
 
 `UnderTheSea`
 
-![image](under_the_sea.png)
+![image](underthesea.png)
 
 `Urple`
 
@@ -1346,11 +1362,11 @@ The screenshots are categorized.
 
 `VibrantInk`
 
-![image](vibrant_ink.png)
+![image](vibrantink.png)
 
 `Violet Dark`
 
-![image](violet_dark.png)
+![image](violet-dark.png)
 
 `violite`
 
@@ -1358,7 +1374,7 @@ The screenshots are categorized.
 
 `WarmNeon`
 
-![image](warm_neon.png)
+![image](warmneon.png)
 
 `Wez`
 
@@ -1370,7 +1386,7 @@ The screenshots are categorized.
 
 `WildCherry`
 
-![image](wild_cherry.png)
+![image](wildcherry.png)
 
 `wilmersdorf`
 
@@ -1398,7 +1414,7 @@ The screenshots are categorized.
 
 `zenbones_dark`
 
-![image](zenbones_dark.png)
+![image](zenbones-dark.png)
 
 `Zenburn`
 
@@ -1410,13 +1426,13 @@ The screenshots are categorized.
 
 `zenwritten_dark`
 
-![image](zenwritten_dark.png)
+![image](zenwritten-dark.png)
 
 ## Light Themes<a name="lightthemes"><a/>
 
 `3024 Day`
 
-![image](3024_day.png)
+![image](3024-day.png)
 
 `Adwaita`
 
@@ -1428,27 +1444,39 @@ The screenshots are categorized.
 
 `Apple System Colors Light`
 
-![image](apple_system_colors_light.png)
+![image](apple-system-colors-light.png)
 
 `AtomOneLight`
 
-![image](atom_one_light.png)
+![image](atomonelight.png)
 
 `ayu_light`
 
-![image](ayu_light.png)
+![image](ayu-light.png)
 
 `Belafonte Day`
 
-![image](belafonte_day.png)
+![image](belafonte-day.png)
 
 `BlulocoLight`
 
-![image](bluloco_light.png)
+![image](blulocolight.png)
 
 `Breadog`
 
 ![image](breadog.png)
+
+`Builtin Light`
+
+![image](builtin-light.png)
+
+`Builtin Solarized Light`
+
+![image](builtin-solarized-light.png)
+
+`Builtin Tango Light`
+
+![image](builtin-tango-light.png)
 
 `catppuccin-latte`
 
@@ -1460,7 +1488,7 @@ The screenshots are categorized.
 
 `coffee_theme`
 
-![image](Coffee.png)
+![image](coffee-theme.png)
 
 `dayfox`
 
@@ -1468,7 +1496,7 @@ The screenshots are categorized.
 
 `Everforest Light - Med`
 
-![image](everforest_light_med.png)
+![image](everforest-light---med.png)
 
 `farmhouse-light`
 
@@ -1496,19 +1524,19 @@ The screenshots are categorized.
 
 `GitLab-Light`
 
-![image](git_lab-light.png)
+![image](gitlab-light.png)
 
 `GruvboxLight`
 
-![image](gruvbox_light.png)
+![image](gruvboxlight.png)
 
 `GruvboxLightHard`
 
-![image](gruvbox_light_hard.png)
+![image](gruvboxlighthard.png)
 
 `Havn Daggry`
 
-![image](havn_daggry.png)
+![image](havn-daggry.png)
 
 `Horizon-Bright`
 
@@ -1532,11 +1560,11 @@ The screenshots are categorized.
 
 `LightOwl`
 
-![image](light_owl.png)
+![image](lightowl.png)
 
 `Man Page`
 
-![image](man_page.png)
+![image](man-page.png)
 
 `Material`
 
@@ -1544,27 +1572,27 @@ The screenshots are categorized.
 
 `Melange_light`
 
-![image](melange_light.png)
+![image](melange-light.png)
 
 `Monokai Pro Light Sun`
 
-![image](monokai_pro_light_sun.png)
+![image](monokai-pro-light-sun.png)
 
 `Monokai Pro Light`
 
-![image](monokai_pro_light.png)
+![image](monokai-pro-light.png)
 
 `neobones_light`
 
-![image](neobones_light.png)
+![image](neobones-light.png)
 
 `Night Owlish Light`
 
-![image](night_owlish_light.png)
+![image](night-owlish-light.png)
 
 `nord-light`
 
-![image](nord_light.png)
+![image](nord-light.png)
 
 `Novel`
 
@@ -1572,11 +1600,11 @@ The screenshots are categorized.
 
 `NvimLight`
 
-![image](NvimLight.png)
+![image](nvimlight.png)
 
 `One Double Light`
 
-![image](one_double_light.png)
+![image](one-double-light.png)
 
 `OneHalfLight`
 
@@ -1584,11 +1612,11 @@ The screenshots are categorized.
 
 `PencilLight`
 
-![image](pencil_light.png)
+![image](pencillight.png)
 
 `Piatto Light`
 
-![image](piatto_light.png)
+![image](piatto-light.png)
 
 `primary`
 
@@ -1596,11 +1624,11 @@ The screenshots are categorized.
 
 `Pro Light`
 
-![image](pro_light.png)
+![image](pro-light.png)
 
 `Raycast_Light`
 
-![image](raycast_light.png)
+![image](raycast-light.png)
 
 `rose-pine-dawn`
 
@@ -1612,7 +1640,7 @@ The screenshots are categorized.
 
 `seoulbones_light`
 
-![image](seoulbones_light.png)
+![image](seoulbones-light.png)
 
 `Spring`
 
@@ -1620,19 +1648,19 @@ The screenshots are categorized.
 
 `Tango Adapted`
 
-![image](tango_adapted.png)
+![image](tango-adapted.png)
 
 `Tango Half Adapted`
 
-![image](tango_half_adapted.png)
+![image](tango-half-adapted.png)
 
 `Terminal Basic`
 
-![image](terminal_basic.png)
+![image](terminal-basic.png)
 
 `Tinacious Design (Light)`
 
-![image](tinacious_design_light.png)
+![image](tinacious-design-light.png)
 
 `tokyonight-day`
 
@@ -1652,7 +1680,7 @@ The screenshots are categorized.
 
 `Violet Light`
 
-![image](violet_light.png)
+![image](violet-light.png)
 
 `xcodelight`
 
@@ -1668,8 +1696,8 @@ The screenshots are categorized.
 
 `zenbones_light`
 
-![image](zenbones_light.png)
+![image](zenbones-light.png)
 
 `zenwritten_light`
 
-![image](zenwritten_light.png)
+![image](zenwritten-light.png)
