@@ -22,28 +22,17 @@ def save_scaling_tests(img, dest_path_base):
         img2.save(dest_path_base.with_suffix(f".{resampling.name}.png"), optimize=True, compress_level=9)
 
 
-def save_downscaled(img, dest_path, *, no_optimize: bool = False):
+def save_downscaled(img, dest_path):
     oxipng_path = shutil.which("oxipng")
     zopflipng_path = shutil.which("zopflipng")
     img = img.resize((600, 300), resample=Image.Resampling.BOX).convert("RGB")
-    if not no_optimize and (oxipng_path or zopflipng_path):
-        # No need to optimize in PIL
-        img.save(dest_path, optimize=False, compress_level=0)
-        if oxipng_path:
-            subprocess.check_call([oxipng_path, "-o", "max", "--strip", "all", "-q", dest_path])
-        if zopflipng_path:
-            subprocess.check_call(
-                [zopflipng_path, "-m", "-y", dest_path, dest_path],
-                stdout=subprocess.DEVNULL,
-            )
-    else:
-        img.save(dest_path, optimize=True, compress_level=9)
+    img = img.quantize(colors=256, method=2)
+    img.save(dest_path, optimize=True, compress_level=9)
 
 
 def generate_images(args, schemes):
     font = PixFont(Image.open(screenshot_font_path).convert("L"), charset=font_charset)
 
-    no_optimize = args.no_optimize
     for name, scheme in rich.progress.track(
         schemes.items(),
         description=f"Generating screenshots for {len(schemes)} schemes...",
@@ -64,7 +53,7 @@ def generate_images(args, schemes):
             save_scaling_tests(img, dest_path_base)
             print(f"Generated scaling test images for {name}")
         else:
-            save_downscaled(img, dest_path, no_optimize=no_optimize)
+            save_downscaled(img, dest_path)
             print(f"Generated {dest_path.name} for {name}")
 
 
@@ -72,7 +61,6 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("-f", "--force", action="store_true", help="Force re-rendering")
     ap.add_argument("-v", "--verbose", action="store_true", help="Verbose output")
-    ap.add_argument("--no-optimize", action="store_true", help="Don't optimize output, even if tools exist")
     ap.add_argument("--scaling-test-mode", action="store_true", help="Generate images for scaling tests")
     ap.add_argument("schemes", nargs="*", help="Scheme names to render; default: all")
     args = ap.parse_args()
