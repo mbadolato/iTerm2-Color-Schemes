@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Iterm2-color-schemes : Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Iterm Themes - Color Schemes and Themes for Iterm2</title>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-30661340-1', 'iterm2colorschemes.com');
+      ga('send', 'pageview');
+    </script>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/mbadolato/iTerm2-Color-Schemes">Fork Me on GitHub</a>
+
+          <h1 id="project_title">Iterm2-color-schemes</h1>
+          <h2 id="project_tagline">A set of color themes for most terminals.</h2>
+          <h3 id="project_details">Includes iTerm2, Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, and Microsoft's Windows Terminal.</h3>
+
+          <section id="downloads">
+            <a class="zip_download_link" href="https://github.com/mbadolato/iTerm2-Color-Schemes/zipball/master">Download this project as a .zip file</a>
+            <a class="tar_download_link" href="https://github.com/mbadolato/iTerm2-Color-Schemes/tarball/master">Download this project as a tar.gz file</a>
+          </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+
+        <h1>iTerm Themes</h1>
+
+<h2>Intro</h2>
+
+<p>This is a set of color themes for iTerm (aka iTerm2). Screenshots below and in the <a href="https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/screenshots">screenshots</a> directory.</p>
+
+<h2>Installation Instructions</h2>
+
+<p>To install:</p>
+
+<ul>
+<li>Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
+</li>
+<li>Type CMD+i</li>
+<li>Navigate to Colors tab</li>
+<li>Click on Load Presets</li>
+<li>Click on Import</li>
+<li>Select the .itermcolors file(s) of the scheme(s) you'd like to use</li>
+<li>Click on Load Presets and choose a color scheme</li>
+</ul>
+
+<h2>Alternate terminal installation and configuration</h2>
+<p>See the <a href="https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/README.md#extra">README</a> file for instructions on installing themes under alternate terminals</p>
+
+<h2>Screenshots</h2>
+
+{% for scheme in schemes %}
+<p><a href="{{ scheme.url }}"><strong>{{ scheme.name }}</strong></a></p>
+<p><img src="{{ scheme.screenshot }}" alt="Screenshot"></p>
+{% endfor %}
+
+<h2>Credits</h2>
+
+<p>For individual theme credits, please see <a href="https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/CREDITS.md">CREDITS.md</a>
+
+<hr><p>iTerm Color Schemes | iTerm2 Color Schemes | iTerm 2 Color Schemes | iTerm Themes | iTerm2 Themes | iTerm 2 Themes</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Iterm2-color-schemes maintained by <a href="https://github.com/mbadolato">mbadolato</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+  </body>
+</html>
