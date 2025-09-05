@@ -16,7 +16,7 @@ def calculate_brightness(r, g, b):
 def classify_itermcolors(directory="."):
     light_themes = []
     dark_themes = []
-    
+
     for file in sorted(directory.glob("*.itermcolors"), key=lambda entry: entry.name.lower()):
         screenshot_filename = get_screenshot_filename(file.with_suffix("").name)+ ".png"
         if screenshot_filename.startswith("builtin_"):
@@ -24,14 +24,14 @@ def classify_itermcolors(directory="."):
             continue
         with open(os.path.join(directory, file), "rb") as f:
             plist = plistlib.load(f)
-            
+
             bg_color = plist.get("Background Color", {})
             r = bg_color.get("Red Component", 0)
             g = bg_color.get("Green Component", 0)
             b = bg_color.get("Blue Component", 0)
-            
+
             brightness = calculate_brightness(r, g, b)
-            
+
             if brightness > 0.5:
                 light_themes.append((file.with_suffix(""), screenshot_filename))
             else:
@@ -46,28 +46,61 @@ def generate_screenshots_readme():
 
     dark_themes, light_themes = classify_itermcolors(schemes_path)
 
-    with (screenshots_path / "README.md").open("w", encoding="utf-8") as outf:
+    # Write screenshots/README.md
+    screenshots_readme_path = screenshots_path / "README.md"
+    with screenshots_readme_path.open("w", encoding="utf-8") as outf:
         outf.write("""
-# Screenshots
+## Screenshots
 
 The screenshots are categorized.
 
 - [Dark Themes](#darkthemes)
 - [Light Themes](#lightthemes)
 
-## Dark Themes<a name="darkthemes"><a/>
+### Dark Themes<a name="darkthemes"><a/>
 
 """)
-        outf.write("\n\n".join(f"`{f[0].name}`\n\n![image]({f[1]})" for f in dark_themes))
+        outf.write("\n\n".join(f"### {f[0].name}\n\n![Screenshot](/screenshots/{f[1]})" for f in dark_themes))
         outf.write("""
 
-## Light Themes<a name="lightthemes"><a/>
+### Light Themes<a name="lightthemes"><a/>
 
 """)
-        outf.write("\n\n".join(f"`{f[0].name}`\n\n![image]({f[1]})" for f in light_themes))
+        outf.write("\n\n".join(f"### {f[0].name}\n\n![Screenshot](/screenshots/{f[1]})" for f in light_themes))
         outf.write("\n")
-        print(outf.name, "written")
+        print(f"{outf.name} written")
 
+    # Read the newly written screenshots/README.md
+    with screenshots_readme_path.open("r", encoding="utf-8") as f:
+        screenshots_readme_content = f.read()
+
+    # Update parent README.md
+    parent_readme_path = pathlib.Path(__file__).parent.parent / "README.md"
+    if parent_readme_path.exists():
+        with parent_readme_path.open("r", encoding="utf-8") as f:
+            parent_content = f.read()
+
+        # Find the markers
+        begin_marker = "<!-- SCREENSHOTS_BEGIN -->"
+        end_marker = "<!-- SCREENSHOTS_END -->"
+        begin_index = parent_content.find(begin_marker)
+        end_index = parent_content.find(end_marker)
+
+        if begin_index != -1 and end_index != -1 and begin_index < end_index:
+            # Replace content between markers
+            new_content = (
+                parent_content[:begin_index + len(begin_marker)]
+                + "\n"
+                + screenshots_readme_content
+                + parent_content[end_index:]
+            )
+            with parent_readme_path.open("w", encoding="utf-8") as f:
+                f.write(new_content)
+                print(f"{parent_readme_path} updated")
+        else:
+            print(f"Warning: Could not find {begin_marker} and {end_marker} in {parent_readme_path}")
+    else:
+        print(f"Warning: {parent_readme_path} does not exist")
 
 if __name__ == "__main__":
     generate_screenshots_readme()
