@@ -224,6 +224,8 @@ The Horizon and Horizon Bright themes were added by [Antonio Camargo](https://gi
 
 The Hybrid theme was found [here](https://gist.github.com/luan/6362811)
 
+The IBM 5153 CGA themes were created by [Jesse Miller](https://jmiller.com/). Based on The IBM 5153's True CGA Palette and Color Output [int10h.org/blog](https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/).
+
 The iceberg theme was created by [cocopon](https://github.com/cocopon/iceberg.vim) and ported to iTerm2 by [pbnj](https://github.com/pbnj)
 
 The scheme idleToes was inspired by the [idleFingers](http://www.idlefingers.co.uk/) TextMate theme and suggested for inclusion by Seth Wilson.
