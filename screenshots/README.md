@@ -14,15 +14,15 @@ The screenshots are categorized.
 
 ### 12-bit Rainbow
 
-![Screenshot](/screenshots/12-bit_rainbow.png)
+![Screenshot](/screenshots/12-bit-rainbow.png)
 
 ### 3024 Night
 
-![Screenshot](/screenshots/3024_night.png)
+![Screenshot](/screenshots/3024-night.png)
 
 ### Aardvark Blue
 
-![Screenshot](/screenshots/aardvark_blue.png)
+![Screenshot](/screenshots/aardvark-blue.png)
 
 ### Abernathy
 
@@ -34,11 +34,11 @@ The screenshots are categorized.
 
 ### AdventureTime
 
-![Screenshot](/screenshots/adventure_time.png)
+![Screenshot](/screenshots/adventuretime.png)
 
 ### Adwaita Dark
 
-![Screenshot](/screenshots/adwaita_dark.png)
+![Screenshot](/screenshots/adwaita-dark.png)
 
 ### Afterglow
 
@@ -46,7 +46,7 @@ The screenshots are categorized.
 
 ### AlienBlood
 
-![Screenshot](/screenshots/alien_blood.png)
+![Screenshot](/screenshots/alienblood.png)
 
 ### Andromeda
 
@@ -78,7 +78,7 @@ The screenshots are categorized.
 
 ### AtelierSulphurpool
 
-![Screenshot](/screenshots/atelier-sulphurpool_dark.png)
+![Screenshot](/screenshots/ateliersulphurpool.png)
 
 ### Atom
 
@@ -86,7 +86,7 @@ The screenshots are categorized.
 
 ### AtomOneDark
 
-![Screenshot](/screenshots/atom_one_dark.png)
+![Screenshot](/screenshots/atomonedark.png)
 
 ### Aura
 
@@ -98,7 +98,7 @@ The screenshots are categorized.
 
 ### Ayu Mirage
 
-![Screenshot](/screenshots/ayu_mirage.png)
+![Screenshot](/screenshots/ayu-mirage.png)
 
 ### ayu
 
@@ -106,7 +106,7 @@ The screenshots are categorized.
 
 ### Banana Blueberry
 
-![Screenshot](/screenshots/banana_blueberry.png)
+![Screenshot](/screenshots/banana-blueberry.png)
 
 ### Batman
 
@@ -114,55 +114,55 @@ The screenshots are categorized.
 
 ### Belafonte Night
 
-![Screenshot](/screenshots/belafonte_night.png)
+![Screenshot](/screenshots/belafonte-night.png)
 
 ### BirdsOfParadise
 
-![Screenshot](/screenshots/birds_of_paradise.png)
+![Screenshot](/screenshots/birdsofparadise.png)
 
 ### Black Metal (Bathory)
 
-![Screenshot](/screenshots/black_metal_bathory.png)
+![Screenshot](/screenshots/black-metal-bathory.png)
 
 ### Black Metal (Burzum)
 
-![Screenshot](/screenshots/black_metal_burzum.png)
+![Screenshot](/screenshots/black-metal-burzum.png)
 
 ### Black Metal (Dark Funeral)
 
-![Screenshot](/screenshots/black_metal_dark_funeral.png)
+![Screenshot](/screenshots/black-metal-dark-funeral.png)
 
 ### Black Metal (Gorgoroth)
 
-![Screenshot](/screenshots/black_metal_gorgoroth.png)
+![Screenshot](/screenshots/black-metal-gorgoroth.png)
 
 ### Black Metal (Immortal)
 
-![Screenshot](/screenshots/black_metal_immortal.png)
+![Screenshot](/screenshots/black-metal-immortal.png)
 
 ### Black Metal (Khold)
 
-![Screenshot](/screenshots/black_metal_khold.png)
+![Screenshot](/screenshots/black-metal-khold.png)
 
 ### Black Metal (Marduk)
 
-![Screenshot](/screenshots/black_metal_marduk.png)
+![Screenshot](/screenshots/black-metal-marduk.png)
 
 ### Black Metal (Mayhem)
 
-![Screenshot](/screenshots/black_metal_mayhem.png)
+![Screenshot](/screenshots/black-metal-mayhem.png)
 
 ### Black Metal (Nile)
 
-![Screenshot](/screenshots/black_metal_nile.png)
+![Screenshot](/screenshots/black-metal-nile.png)
 
 ### Black Metal (Venom)
 
-![Screenshot](/screenshots/black_metal_venom.png)
+![Screenshot](/screenshots/black-metal-venom.png)
 
 ### Black Metal
 
-![Screenshot](/screenshots/black_metal.png)
+![Screenshot](/screenshots/black-metal.png)
 
 ### Blazer
 
@@ -170,19 +170,19 @@ The screenshots are categorized.
 
 ### Blue Matrix
 
-![Screenshot](/screenshots/blue_matrix.png)
+![Screenshot](/screenshots/blue-matrix.png)
 
 ### BlueBerryPie
 
-![Screenshot](/screenshots/blueberry_pie.png)
+![Screenshot](/screenshots/blueberrypie.png)
 
 ### BlueDolphin
 
-![Screenshot](/screenshots/BlueDolphin.png)
+![Screenshot](/screenshots/bluedolphin.png)
 
 ### BlulocoDark
 
-![Screenshot](/screenshots/bluloco_dark.png)
+![Screenshot](/screenshots/blulocodark.png)
 
 ### Borland
 
@@ -198,7 +198,7 @@ The screenshots are categorized.
 
 ### Bright Lights
 
-![Screenshot](/screenshots/bright_lights.png)
+![Screenshot](/screenshots/bright-lights.png)
 
 ### Broadcast
 
@@ -207,6 +207,22 @@ The screenshots are categorized.
 ### Brogrammer
 
 ![Screenshot](/screenshots/brogrammer.png)
+
+### Builtin Dark
+
+![Screenshot](/screenshots/builtin-dark.png)
+
+### Builtin Pastel Dark
+
+![Screenshot](/screenshots/builtin-pastel-dark.png)
+
+### Builtin Solarized Dark
+
+![Screenshot](/screenshots/builtin-solarized-dark.png)
+
+### Builtin Tango Dark
+
+![Screenshot](/screenshots/builtin-tango-dark.png)
 
 ### C64
 
@@ -242,7 +258,7 @@ The screenshots are categorized.
 
 ### ChallengerDeep
 
-![Screenshot](/screenshots/challenger_deep.png)
+![Screenshot](/screenshots/challengerdeep.png)
 
 ### Chester
 
@@ -258,7 +274,7 @@ The screenshots are categorized.
 
 ### Cobalt Neon
 
-![Screenshot](/screenshots/cobalt_neon.png)
+![Screenshot](/screenshots/cobalt-neon.png)
 
 ### Cobalt2
 
@@ -266,23 +282,23 @@ The screenshots are categorized.
 
 ### CobaltNext-Dark
 
-![Screenshot](/screenshots/cobalt_next-dark.png)
+![Screenshot](/screenshots/cobaltnext-dark.png)
 
 ### CobaltNext-Minimal
 
-![Screenshot](/screenshots/cobalt_next-minimal.png)
+![Screenshot](/screenshots/cobaltnext-minimal.png)
 
 ### CobaltNext
 
-![Screenshot](/screenshots/cobalt_next.png)
+![Screenshot](/screenshots/cobaltnext.png)
 
 ### CrayonPonyFish
 
-![Screenshot](/screenshots/crayon_pony_fish.png)
+![Screenshot](/screenshots/crayonponyfish.png)
 
 ### CutiePro
 
-![Screenshot](/screenshots/CutiePro.png)
+![Screenshot](/screenshots/cutiepro.png)
 
 ### Cyberdyne
 
@@ -294,19 +310,19 @@ The screenshots are categorized.
 
 ### CyberpunkScarletProtocol
 
-![Screenshot](/screenshots/cyberpunk_scarlet_protocol.png)
+![Screenshot](/screenshots/cyberpunkscarletprotocol.png)
 
 ### Dark Modern
 
-![Screenshot](/screenshots/dark_modern.png)
+![Screenshot](/screenshots/dark-modern.png)
 
 ### Dark Pastel
 
-![Screenshot](/screenshots/dark_pastel.png)
+![Screenshot](/screenshots/dark-pastel.png)
 
 ### Dark+
 
-![Screenshot](/screenshots/dark_plus.png)
+![Screenshot](/screenshots/dark.png)
 
 ### darkermatrix
 
@@ -338,7 +354,7 @@ The screenshots are categorized.
 
 ### DimmedMonokai
 
-![Screenshot](/screenshots/dimmed_monokai.png)
+![Screenshot](/screenshots/dimmedmonokai.png)
 
 ### Django
 
@@ -346,27 +362,27 @@ The screenshots are categorized.
 
 ### DjangoRebornAgain
 
-![Screenshot](/screenshots/DjangoRebornAgain.png)
+![Screenshot](/screenshots/djangorebornagain.png)
 
 ### DjangoSmooth
 
-![Screenshot](/screenshots/DjangoSmoothy.png)
+![Screenshot](/screenshots/djangosmooth.png)
 
 ### Doom Peacock
 
-![Screenshot](/screenshots/doom_peacock.png)
+![Screenshot](/screenshots/doom-peacock.png)
 
 ### DoomOne
 
-![Screenshot](/screenshots/doom_one.png)
+![Screenshot](/screenshots/doomone.png)
 
 ### DotGov
 
-![Screenshot](/screenshots/dot_gov.png)
+![Screenshot](/screenshots/dotgov.png)
 
 ### Dracula+
 
-![Screenshot](/screenshots/dracula+.png)
+![Screenshot](/screenshots/dracula.png)
 
 ### Dracula
 
@@ -378,7 +394,7 @@ The screenshots are categorized.
 
 ### Duotone Dark
 
-![Screenshot](/screenshots/duotone_dark.png)
+![Screenshot](/screenshots/duotone-dark.png)
 
 ### Earthsong
 
@@ -406,7 +422,7 @@ The screenshots are categorized.
 
 ### embers-dark
 
-![Screenshot](/screenshots/embers.png)
+![Screenshot](/screenshots/embers-dark.png)
 
 ### ENCOM
 
@@ -414,7 +430,7 @@ The screenshots are categorized.
 
 ### Espresso Libre
 
-![Screenshot](/screenshots/espresso_libre.png)
+![Screenshot](/screenshots/espresso-libre.png)
 
 ### Espresso
 
@@ -426,7 +442,7 @@ The screenshots are categorized.
 
 ### Everforest Dark - Hard
 
-![Screenshot](/screenshots/everforest_dark_hard.png)
+![Screenshot](/screenshots/everforest-dark---hard.png)
 
 ### Fahrenheit
 
@@ -450,7 +466,7 @@ The screenshots are categorized.
 
 ### FirefoxDev
 
-![Screenshot](/screenshots/firefox_dev.png)
+![Screenshot](/screenshots/firefoxdev.png)
 
 ### Firewatch
 
@@ -458,7 +474,7 @@ The screenshots are categorized.
 
 ### FishTank
 
-![Screenshot](/screenshots/fish_tank.png)
+![Screenshot](/screenshots/fishtank.png)
 
 ### Flat
 
@@ -478,7 +494,7 @@ The screenshots are categorized.
 
 ### ForestBlue
 
-![Screenshot](/screenshots/forest_blue.png)
+![Screenshot](/screenshots/forestblue.png)
 
 ### Framer
 
@@ -486,11 +502,11 @@ The screenshots are categorized.
 
 ### FrontEndDelight
 
-![Screenshot](/screenshots/front_end_delight.png)
+![Screenshot](/screenshots/frontenddelight.png)
 
 ### FunForrest
 
-![Screenshot](/screenshots/fun_forrest.png)
+![Screenshot](/screenshots/funforrest.png)
 
 ### Galaxy
 
@@ -502,11 +518,11 @@ The screenshots are categorized.
 
 ### Ghostty Default StyleDark
 
-![Screenshot](/screenshots/ghostty_default_style_dark.png)
+![Screenshot](/screenshots/ghostty-default-styledark.png)
 
 ### GitHub Dark
 
-![Screenshot](/screenshots/github_dark.png)
+![Screenshot](/screenshots/github-dark.png)
 
 ### GitHub-Dark-Colorblind
 
@@ -526,11 +542,11 @@ The screenshots are categorized.
 
 ### GitLab-Dark-Grey
 
-![Screenshot](/screenshots/git_lab-dark-grey.png)
+![Screenshot](/screenshots/gitlab-dark-grey.png)
 
 ### GitLab-Dark
 
-![Screenshot](/screenshots/git_lab-dark.png)
+![Screenshot](/screenshots/gitlab-dark.png)
 
 ### Glacier
 
@@ -554,15 +570,15 @@ The screenshots are categorized.
 
 ### gruvbox-material
 
-![Screenshot](/screenshots/gruvbox_material.png)
+![Screenshot](/screenshots/gruvbox-material.png)
 
 ### GruvboxDark
 
-![Screenshot](/screenshots/gruvbox_dark.png)
+![Screenshot](/screenshots/gruvboxdark.png)
 
 ### GruvboxDarkHard
 
-![Screenshot](/screenshots/gruvbox_dark_hard.png)
+![Screenshot](/screenshots/gruvboxdarkhard.png)
 
 ### Guezwhoz
 
@@ -582,19 +598,19 @@ The screenshots are categorized.
 
 ### Havn Skumring
 
-![Screenshot](/screenshots/havn_skumring.png)
+![Screenshot](/screenshots/havn-skumring.png)
 
 ### HaX0R_BLUE
 
-![Screenshot](/screenshots/hax0r_blue.png)
+![Screenshot](/screenshots/hax0r-blue.png)
 
 ### HaX0R_GR33N
 
-![Screenshot](/screenshots/hax0r_gr33n.png)
+![Screenshot](/screenshots/hax0r-gr33n.png)
 
 ### HaX0R_R3D
 
-![Screenshot](/screenshots/hax0r_r3d.png)
+![Screenshot](/screenshots/hax0r-r3d.png)
 
 ### heeler
 
@@ -606,7 +622,7 @@ The screenshots are categorized.
 
 ### Hipster Green
 
-![Screenshot](/screenshots/hipster_green.png)
+![Screenshot](/screenshots/hipster-green.png)
 
 ### Hivacruz
 
@@ -618,7 +634,7 @@ The screenshots are categorized.
 
 ### Hopscotch.256
 
-![Screenshot](/screenshots/hopscotch_256.png)
+![Screenshot](/screenshots/hopscotch256.png)
 
 ### Hopscotch
 
@@ -638,15 +654,15 @@ The screenshots are categorized.
 
 ### IC_Green_PPL
 
-![Screenshot](/screenshots/ic_green_ppl.png)
+![Screenshot](/screenshots/ic-green-ppl.png)
 
 ### IC_Orange_PPL
 
-![Screenshot](/screenshots/ic_orange_ppl.png)
+![Screenshot](/screenshots/ic-orange-ppl.png)
 
 ### iceberg-dark
 
-![Screenshot](/screenshots/iceberg.png)
+![Screenshot](/screenshots/iceberg-dark.png)
 
 ### idea
 
@@ -654,19 +670,19 @@ The screenshots are categorized.
 
 ### idleToes
 
-![Screenshot](/screenshots/idleToes.png)
+![Screenshot](/screenshots/idletoes.png)
 
 ### IR_Black
 
-![Screenshot](/screenshots/ir_black.png)
+![Screenshot](/screenshots/ir-black.png)
 
 ### IRIX Console
 
-![Screenshot](/screenshots/irix_console.png)
+![Screenshot](/screenshots/irix-console.png)
 
 ### IRIX Terminal
 
-![Screenshot](/screenshots/irix_terminal.png)
+![Screenshot](/screenshots/irix-terminal.png)
 
 ### iTerm2 Dark Background
 
@@ -694,7 +710,7 @@ The screenshots are categorized.
 
 ### Jackie Brown
 
-![Screenshot](/screenshots/jackie_brown.png)
+![Screenshot](/screenshots/jackie-brown.png)
 
 ### Japanesque
 
@@ -706,7 +722,7 @@ The screenshots are categorized.
 
 ### JetBrains Darcula
 
-![Screenshot](/screenshots/jetbrains_darcula.png)
+![Screenshot](/screenshots/jetbrains-darcula.png)
 
 ### jubi
 
@@ -742,7 +758,7 @@ The screenshots are categorized.
 
 ### Lab Fox
 
-![Screenshot](/screenshots/lab_fox.png)
+![Screenshot](/screenshots/lab-fox.png)
 
 ### Laser
 
@@ -750,7 +766,7 @@ The screenshots are categorized.
 
 ### Later This Evening
 
-![Screenshot](/screenshots/later_this_evening.png)
+![Screenshot](/screenshots/later-this-evening.png)
 
 ### Lavandula
 
@@ -758,15 +774,15 @@ The screenshots are categorized.
 
 ### LiquidCarbon
 
-![Screenshot](/screenshots/liquid_carbon.png)
+![Screenshot](/screenshots/liquidcarbon.png)
 
 ### LiquidCarbonTransparent
 
-![Screenshot](/screenshots/liquid_carbon_transparent.png)
+![Screenshot](/screenshots/liquidcarbontransparent.png)
 
 ### LiquidCarbonTransparentInverse
 
-![Screenshot](/screenshots/liquid_carbon_transparent_inverse.png)
+![Screenshot](/screenshots/liquidcarbontransparentinverse.png)
 
 ### lovelace
 
@@ -778,19 +794,19 @@ The screenshots are categorized.
 
 ### MaterialDark
 
-![Screenshot](/screenshots/material_dark.png)
+![Screenshot](/screenshots/materialdark.png)
 
 ### MaterialDarker
 
-![Screenshot](/screenshots/material_darker.png)
+![Screenshot](/screenshots/materialdarker.png)
 
 ### MaterialDesignColors
 
-![Screenshot](/screenshots/material_design_colors.png)
+![Screenshot](/screenshots/materialdesigncolors.png)
 
 ### MaterialOcean
 
-![Screenshot](/screenshots/material_ocean.png)
+![Screenshot](/screenshots/materialocean.png)
 
 ### Mathias
 
@@ -806,7 +822,7 @@ The screenshots are categorized.
 
 ### Melange_dark
 
-![Screenshot](/screenshots/melange_dark.png)
+![Screenshot](/screenshots/melange-dark.png)
 
 ### Mellifluous
 
@@ -822,7 +838,7 @@ The screenshots are categorized.
 
 ### midnight-in-mojave
 
-![Screenshot](/screenshots/midnight_in_mojave.png)
+![Screenshot](/screenshots/midnight-in-mojave.png)
 
 ### Mirage
 
@@ -838,43 +854,43 @@ The screenshots are categorized.
 
 ### MonaLisa
 
-![Screenshot](/screenshots/mona_lisa.png)
+![Screenshot](/screenshots/monalisa.png)
 
 ### Monokai Classic
 
-![Screenshot](/screenshots/monokai_classic.png)
+![Screenshot](/screenshots/monokai-classic.png)
 
 ### Monokai Pro Machine
 
-![Screenshot](/screenshots/monokai_pro_machine.png)
+![Screenshot](/screenshots/monokai-pro-machine.png)
 
 ### Monokai Pro Octagon
 
-![Screenshot](/screenshots/monokai_pro_octagon.png)
+![Screenshot](/screenshots/monokai-pro-octagon.png)
 
 ### Monokai Pro Ristretto
 
-![Screenshot](/screenshots/monokai_pro_ristretto.png)
+![Screenshot](/screenshots/monokai-pro-ristretto.png)
 
 ### Monokai Pro Spectrum
 
-![Screenshot](/screenshots/monokai_pro_spectrum.png)
+![Screenshot](/screenshots/monokai-pro-spectrum.png)
 
 ### Monokai Pro
 
-![Screenshot](/screenshots/monokai_pro.png)
+![Screenshot](/screenshots/monokai-pro.png)
 
 ### Monokai Remastered
 
-![Screenshot](/screenshots/monokai_remastered.png)
+![Screenshot](/screenshots/monokai-remastered.png)
 
 ### Monokai Soda
 
-![Screenshot](/screenshots/monokai_soda.png)
+![Screenshot](/screenshots/monokai-soda.png)
 
 ### Monokai Vivid
 
-![Screenshot](/screenshots/monokai_vivid.png)
+![Screenshot](/screenshots/monokai-vivid.png)
 
 ### moonfly
 
@@ -886,7 +902,7 @@ The screenshots are categorized.
 
 ### neobones_dark
 
-![Screenshot](/screenshots/neobones_dark.png)
+![Screenshot](/screenshots/neobones-dark.png)
 
 ### Neon
 
@@ -906,15 +922,15 @@ The screenshots are categorized.
 
 ### NightLion v1
 
-![Screenshot](/screenshots/nightlion_v1.png)
+![Screenshot](/screenshots/nightlion-v1.png)
 
 ### NightLion v2
 
-![Screenshot](/screenshots/nightlion_v2.png)
+![Screenshot](/screenshots/nightlion-v2.png)
 
 ### NightOwl
 
-![Screenshot](/screenshots/night_owl.png)
+![Screenshot](/screenshots/nightowl.png)
 
 ### niji
 
@@ -922,7 +938,7 @@ The screenshots are categorized.
 
 ### Nocturnal Winter
 
-![Screenshot](/screenshots/nocturnal_winter.png)
+![Screenshot](/screenshots/nocturnal-winter.png)
 
 ### nord-wave
 
@@ -934,7 +950,7 @@ The screenshots are categorized.
 
 ### NvimDark
 
-![Screenshot](/screenshots/NvimDark.png)
+![Screenshot](/screenshots/nvimdark.png)
 
 ### Obsidian
 
@@ -946,11 +962,11 @@ The screenshots are categorized.
 
 ### Oceanic-Next
 
-![Screenshot](/screenshots/oceanic_next.png)
+![Screenshot](/screenshots/oceanic-next.png)
 
 ### OceanicMaterial
 
-![Screenshot](/screenshots/oceanic_material.png)
+![Screenshot](/screenshots/oceanicmaterial.png)
 
 ### Ollie
 
@@ -958,7 +974,7 @@ The screenshots are categorized.
 
 ### One Double Dark
 
-![Screenshot](/screenshots/one_double_dark.png)
+![Screenshot](/screenshots/one-double-dark.png)
 
 ### OneHalfDark
 
@@ -966,11 +982,11 @@ The screenshots are categorized.
 
 ### Operator Mono Dark
 
-![Screenshot](/screenshots/operator_mono_dark.png)
+![Screenshot](/screenshots/operator-mono-dark.png)
 
 ### Overnight Slumber
 
-![Screenshot](/screenshots/overnight_slumber.png)
+![Screenshot](/screenshots/overnight-slumber.png)
 
 ### Oxocarbon
 
@@ -978,7 +994,7 @@ The screenshots are categorized.
 
 ### PaleNightHC
 
-![Screenshot](/screenshots/PaleNightHC.png)
+![Screenshot](/screenshots/palenighthc.png)
 
 ### Pandora
 
@@ -986,15 +1002,15 @@ The screenshots are categorized.
 
 ### Paraiso Dark
 
-![Screenshot](/screenshots/paraiso_dark.png)
+![Screenshot](/screenshots/paraiso-dark.png)
 
 ### PaulMillr
 
-![Screenshot](/screenshots/paul_millr.png)
+![Screenshot](/screenshots/paulmillr.png)
 
 ### PencilDark
 
-![Screenshot](/screenshots/pencil_dark.png)
+![Screenshot](/screenshots/pencildark.png)
 
 ### Peppermint
 
@@ -1002,7 +1018,7 @@ The screenshots are categorized.
 
 ### Phala Green Dark
 
-![Screenshot](/screenshots/phala_green_dark.png)
+![Screenshot](/screenshots/phala-green-dark.png)
 
 ### Pnevma
 
@@ -1010,7 +1026,7 @@ The screenshots are categorized.
 
 ### Popping and Locking
 
-![Screenshot](/screenshots/popping_and_locking.png)
+![Screenshot](/screenshots/popping-and-locking.png)
 
 ### Pro
 
@@ -1018,7 +1034,7 @@ The screenshots are categorized.
 
 ### Purple Rain
 
-![Screenshot](/screenshots/purple_rain.png)
+![Screenshot](/screenshots/purple-rain.png)
 
 ### purplepeter
 
@@ -1030,7 +1046,7 @@ The screenshots are categorized.
 
 ### Raycast_Dark
 
-![Screenshot](/screenshots/raycast_dark.png)
+![Screenshot](/screenshots/raycast-dark.png)
 
 ### rebecca
 
@@ -1038,15 +1054,15 @@ The screenshots are categorized.
 
 ### Red Alert
 
-![Screenshot](/screenshots/red_alert.png)
+![Screenshot](/screenshots/red-alert.png)
 
 ### Red Planet
 
-![Screenshot](/screenshots/red_planet.png)
+![Screenshot](/screenshots/red-planet.png)
 
 ### Red Sands
 
-![Screenshot](/screenshots/red_sands.png)
+![Screenshot](/screenshots/red-sands.png)
 
 ### Relaxed
 
@@ -1058,7 +1074,7 @@ The screenshots are categorized.
 
 ### RetroLegends
 
-![Screenshot](/screenshots/RetroLegends.png)
+![Screenshot](/screenshots/retrolegends.png)
 
 ### Rippedcasts
 
@@ -1074,7 +1090,7 @@ The screenshots are categorized.
 
 ### Rouge 2
 
-![Screenshot](/screenshots/rouge_2.png)
+![Screenshot](/screenshots/rouge-2.png)
 
 ### Royal
 
@@ -1090,15 +1106,15 @@ The screenshots are categorized.
 
 ### Scarlet Protocol
 
-![Screenshot](/screenshots/scarlet_protocol.png)
+![Screenshot](/screenshots/scarlet-protocol.png)
 
 ### Seafoam Pastel
 
-![Screenshot](/screenshots/seafoam_pastel.png)
+![Screenshot](/screenshots/seafoam-pastel.png)
 
 ### SeaShells
 
-![Screenshot](/screenshots/sea_shells.png)
+![Screenshot](/screenshots/seashells.png)
 
 ### selenized-dark
 
@@ -1106,7 +1122,7 @@ The screenshots are categorized.
 
 ### seoulbones_dark
 
-![Screenshot](/screenshots/seoulbones_dark.png)
+![Screenshot](/screenshots/seoulbones-dark.png)
 
 ### Seti
 
@@ -1114,7 +1130,7 @@ The screenshots are categorized.
 
 ### shades-of-purple
 
-![Screenshot](/screenshots/ShadesOfPurple.png)
+![Screenshot](/screenshots/shades-of-purple.png)
 
 ### Shaman
 
@@ -1126,7 +1142,7 @@ The screenshots are categorized.
 
 ### SleepyHollow
 
-![Screenshot](/screenshots/SleepyHollow.png)
+![Screenshot](/screenshots/sleepyhollow.png)
 
 ### Smyck
 
@@ -1134,7 +1150,7 @@ The screenshots are categorized.
 
 ### Snazzy Soft
 
-![Screenshot](/screenshots/snazzy_soft.png)
+![Screenshot](/screenshots/snazzy-soft.png)
 
 ### Snazzy
 
@@ -1142,19 +1158,19 @@ The screenshots are categorized.
 
 ### SoftServer
 
-![Screenshot](/screenshots/soft_server.png)
+![Screenshot](/screenshots/softserver.png)
 
 ### Solarized Darcula
 
-![Screenshot](/screenshots/solarized_darcula.png)
+![Screenshot](/screenshots/solarized-darcula.png)
 
 ### Solarized Dark - Patched
 
-![Screenshot](/screenshots/solarized_dark_patched.png)
+![Screenshot](/screenshots/solarized-dark---patched.png)
 
 ### Solarized Dark Higher Contrast
 
-![Screenshot](/screenshots/solarized_dark_higher_contrast.png)
+![Screenshot](/screenshots/solarized-dark-higher-contrast.png)
 
 ### solarized-osaka-night
 
@@ -1170,19 +1186,19 @@ The screenshots are categorized.
 
 ### SpaceGray Bright
 
-![Screenshot](/screenshots/spacegray_bright.png)
+![Screenshot](/screenshots/spacegray-bright.png)
 
 ### SpaceGray Eighties Dull
 
-![Screenshot](/screenshots/spacegray_eighties_dull.png)
+![Screenshot](/screenshots/spacegray-eighties-dull.png)
 
 ### SpaceGray Eighties
 
-![Screenshot](/screenshots/spacegray_eighties.png)
+![Screenshot](/screenshots/spacegray-eighties.png)
 
 ### SpaceGray
 
-![Screenshot](/screenshots/space_gray.png)
+![Screenshot](/screenshots/spacegray.png)
 
 ### Spiderman
 
@@ -1194,7 +1210,7 @@ The screenshots are categorized.
 
 ### Squirrelsong Dark
 
-![Screenshot](/screenshots/squirrelsong_dark.png)
+![Screenshot](/screenshots/squirrelsong-dark.png)
 
 ### srcery
 
@@ -1234,7 +1250,7 @@ The screenshots are categorized.
 
 ### SynthwaveAlpha
 
-![Screenshot](/screenshots/synthwave_alpha.png)
+![Screenshot](/screenshots/synthwavealpha.png)
 
 ### Tearout
 
@@ -1250,19 +1266,19 @@ The screenshots are categorized.
 
 ### Terminal Basic Dark
 
-![Screenshot](/screenshots/terminal_basic_dark.png)
+![Screenshot](/screenshots/terminal-basic-dark.png)
 
 ### Thayer Bright
 
-![Screenshot](/screenshots/thayer_bright.png)
+![Screenshot](/screenshots/thayer-bright.png)
 
 ### The Hulk
 
-![Screenshot](/screenshots/the_hulk.png)
+![Screenshot](/screenshots/the-hulk.png)
 
 ### Tinacious Design (Dark)
 
-![Screenshot](/screenshots/tinacious_design_dark.png)
+![Screenshot](/screenshots/tinacious-design-dark.png)
 
 ### tokyonight-storm
 
@@ -1282,27 +1298,27 @@ The screenshots are categorized.
 
 ### Tomorrow Night Blue
 
-![Screenshot](/screenshots/tomorrow_night_blue.png)
+![Screenshot](/screenshots/tomorrow-night-blue.png)
 
 ### Tomorrow Night Bright
 
-![Screenshot](/screenshots/tomorrow_night_bright.png)
+![Screenshot](/screenshots/tomorrow-night-bright.png)
 
 ### Tomorrow Night Burns
 
-![Screenshot](/screenshots/tomorrow_night_burns.png)
+![Screenshot](/screenshots/tomorrow-night-burns.png)
 
 ### Tomorrow Night Eighties
 
-![Screenshot](/screenshots/tomorrow_night_eighties.png)
+![Screenshot](/screenshots/tomorrow-night-eighties.png)
 
 ### Tomorrow Night
 
-![Screenshot](/screenshots/tomorrow_night.png)
+![Screenshot](/screenshots/tomorrow-night.png)
 
 ### ToyChest
 
-![Screenshot](/screenshots/toy_chest.png)
+![Screenshot](/screenshots/toychest.png)
 
 ### Treehouse
 
@@ -1322,11 +1338,11 @@ The screenshots are categorized.
 
 ### UltraViolent
 
-![Screenshot](/screenshots/ultra_violent.png)
+![Screenshot](/screenshots/ultraviolent.png)
 
 ### UnderTheSea
 
-![Screenshot](/screenshots/under_the_sea.png)
+![Screenshot](/screenshots/underthesea.png)
 
 ### Urple
 
@@ -1346,11 +1362,11 @@ The screenshots are categorized.
 
 ### VibrantInk
 
-![Screenshot](/screenshots/vibrant_ink.png)
+![Screenshot](/screenshots/vibrantink.png)
 
 ### Violet Dark
 
-![Screenshot](/screenshots/violet_dark.png)
+![Screenshot](/screenshots/violet-dark.png)
 
 ### violite
 
@@ -1358,7 +1374,7 @@ The screenshots are categorized.
 
 ### WarmNeon
 
-![Screenshot](/screenshots/warm_neon.png)
+![Screenshot](/screenshots/warmneon.png)
 
 ### Wez
 
@@ -1370,7 +1386,7 @@ The screenshots are categorized.
 
 ### WildCherry
 
-![Screenshot](/screenshots/wild_cherry.png)
+![Screenshot](/screenshots/wildcherry.png)
 
 ### wilmersdorf
 
@@ -1398,7 +1414,7 @@ The screenshots are categorized.
 
 ### zenbones_dark
 
-![Screenshot](/screenshots/zenbones_dark.png)
+![Screenshot](/screenshots/zenbones-dark.png)
 
 ### Zenburn
 
@@ -1410,13 +1426,13 @@ The screenshots are categorized.
 
 ### zenwritten_dark
 
-![Screenshot](/screenshots/zenwritten_dark.png)
+![Screenshot](/screenshots/zenwritten-dark.png)
 
 ### Light Themes<a name="lightthemes"><a/>
 
 ### 3024 Day
 
-![Screenshot](/screenshots/3024_day.png)
+![Screenshot](/screenshots/3024-day.png)
 
 ### Adwaita
 
@@ -1428,27 +1444,39 @@ The screenshots are categorized.
 
 ### Apple System Colors Light
 
-![Screenshot](/screenshots/apple_system_colors_light.png)
+![Screenshot](/screenshots/apple-system-colors-light.png)
 
 ### AtomOneLight
 
-![Screenshot](/screenshots/atom_one_light.png)
+![Screenshot](/screenshots/atomonelight.png)
 
 ### ayu_light
 
-![Screenshot](/screenshots/ayu_light.png)
+![Screenshot](/screenshots/ayu-light.png)
 
 ### Belafonte Day
 
-![Screenshot](/screenshots/belafonte_day.png)
+![Screenshot](/screenshots/belafonte-day.png)
 
 ### BlulocoLight
 
-![Screenshot](/screenshots/bluloco_light.png)
+![Screenshot](/screenshots/blulocolight.png)
 
 ### Breadog
 
 ![Screenshot](/screenshots/breadog.png)
+
+### Builtin Light
+
+![Screenshot](/screenshots/builtin-light.png)
+
+### Builtin Solarized Light
+
+![Screenshot](/screenshots/builtin-solarized-light.png)
+
+### Builtin Tango Light
+
+![Screenshot](/screenshots/builtin-tango-light.png)
 
 ### catppuccin-latte
 
@@ -1460,7 +1488,7 @@ The screenshots are categorized.
 
 ### coffee_theme
 
-![Screenshot](/screenshots/Coffee.png)
+![Screenshot](/screenshots/coffee-theme.png)
 
 ### dayfox
 
@@ -1468,7 +1496,7 @@ The screenshots are categorized.
 
 ### Everforest Light - Med
 
-![Screenshot](/screenshots/everforest_light_med.png)
+![Screenshot](/screenshots/everforest-light---med.png)
 
 ### farmhouse-light
 
@@ -1496,19 +1524,19 @@ The screenshots are categorized.
 
 ### GitLab-Light
 
-![Screenshot](/screenshots/git_lab-light.png)
+![Screenshot](/screenshots/gitlab-light.png)
 
 ### GruvboxLight
 
-![Screenshot](/screenshots/gruvbox_light.png)
+![Screenshot](/screenshots/gruvboxlight.png)
 
 ### GruvboxLightHard
 
-![Screenshot](/screenshots/gruvbox_light_hard.png)
+![Screenshot](/screenshots/gruvboxlighthard.png)
 
 ### Havn Daggry
 
-![Screenshot](/screenshots/havn_daggry.png)
+![Screenshot](/screenshots/havn-daggry.png)
 
 ### Horizon-Bright
 
@@ -1532,11 +1560,11 @@ The screenshots are categorized.
 
 ### LightOwl
 
-![Screenshot](/screenshots/light_owl.png)
+![Screenshot](/screenshots/lightowl.png)
 
 ### Man Page
 
-![Screenshot](/screenshots/man_page.png)
+![Screenshot](/screenshots/man-page.png)
 
 ### Material
 
@@ -1544,27 +1572,27 @@ The screenshots are categorized.
 
 ### Melange_light
 
-![Screenshot](/screenshots/melange_light.png)
+![Screenshot](/screenshots/melange-light.png)
 
 ### Monokai Pro Light Sun
 
-![Screenshot](/screenshots/monokai_pro_light_sun.png)
+![Screenshot](/screenshots/monokai-pro-light-sun.png)
 
 ### Monokai Pro Light
 
-![Screenshot](/screenshots/monokai_pro_light.png)
+![Screenshot](/screenshots/monokai-pro-light.png)
 
 ### neobones_light
 
-![Screenshot](/screenshots/neobones_light.png)
+![Screenshot](/screenshots/neobones-light.png)
 
 ### Night Owlish Light
 
-![Screenshot](/screenshots/night_owlish_light.png)
+![Screenshot](/screenshots/night-owlish-light.png)
 
 ### nord-light
 
-![Screenshot](/screenshots/nord_light.png)
+![Screenshot](/screenshots/nord-light.png)
 
 ### Novel
 
@@ -1572,11 +1600,11 @@ The screenshots are categorized.
 
 ### NvimLight
 
-![Screenshot](/screenshots/NvimLight.png)
+![Screenshot](/screenshots/nvimlight.png)
 
 ### One Double Light
 
-![Screenshot](/screenshots/one_double_light.png)
+![Screenshot](/screenshots/one-double-light.png)
 
 ### OneHalfLight
 
@@ -1584,11 +1612,11 @@ The screenshots are categorized.
 
 ### PencilLight
 
-![Screenshot](/screenshots/pencil_light.png)
+![Screenshot](/screenshots/pencillight.png)
 
 ### Piatto Light
 
-![Screenshot](/screenshots/piatto_light.png)
+![Screenshot](/screenshots/piatto-light.png)
 
 ### primary
 
@@ -1596,11 +1624,11 @@ The screenshots are categorized.
 
 ### Pro Light
 
-![Screenshot](/screenshots/pro_light.png)
+![Screenshot](/screenshots/pro-light.png)
 
 ### Raycast_Light
 
-![Screenshot](/screenshots/raycast_light.png)
+![Screenshot](/screenshots/raycast-light.png)
 
 ### rose-pine-dawn
 
@@ -1612,7 +1640,7 @@ The screenshots are categorized.
 
 ### seoulbones_light
 
-![Screenshot](/screenshots/seoulbones_light.png)
+![Screenshot](/screenshots/seoulbones-light.png)
 
 ### Spring
 
@@ -1620,19 +1648,19 @@ The screenshots are categorized.
 
 ### Tango Adapted
 
-![Screenshot](/screenshots/tango_adapted.png)
+![Screenshot](/screenshots/tango-adapted.png)
 
 ### Tango Half Adapted
 
-![Screenshot](/screenshots/tango_half_adapted.png)
+![Screenshot](/screenshots/tango-half-adapted.png)
 
 ### Terminal Basic
 
-![Screenshot](/screenshots/terminal_basic.png)
+![Screenshot](/screenshots/terminal-basic.png)
 
 ### Tinacious Design (Light)
 
-![Screenshot](/screenshots/tinacious_design_light.png)
+![Screenshot](/screenshots/tinacious-design-light.png)
 
 ### tokyonight-day
 
@@ -1652,7 +1680,7 @@ The screenshots are categorized.
 
 ### Violet Light
 
-![Screenshot](/screenshots/violet_light.png)
+![Screenshot](/screenshots/violet-light.png)
 
 ### xcodelight
 
@@ -1668,8 +1696,8 @@ The screenshots are categorized.
 
 ### zenbones_light
 
-![Screenshot](/screenshots/zenbones_light.png)
+![Screenshot](/screenshots/zenbones-light.png)
 
 ### zenwritten_light
 
-![Screenshot](/screenshots/zenwritten_light.png)
+![Screenshot](/screenshots/zenwritten-light.png)
