@@ -1,4 +1,4 @@
-name: Generate iTerm2 Color Schemes & Screenshots
+name: Generate iTerm2 Color Schemes, Screenshots, README, and Deploy Website
 
 on:
   workflow_dispatch:
@@ -10,6 +10,7 @@ on:
     paths:
       - "schemes/**"
       - "yaml/**"
+      - "screenshots/README.md"
 
 jobs:
   generate-themes:
