@@ -1,0 +1,43 @@
+!
+! IBM 5153 CGA (Black)
+!
+*.foreground:  #c4c4c4
+*.background:  #000000
+*.cursorColor: #c4c4c4
+!
+! Black
+*.color0:      #000000
+*.color8:      #4e4e4e
+!
+! Red
+*.color1:      #c40000
+*.color9:      #dc4e4e
+!
+! Green
+*.color2:      #00c400
+*.color10:     #4edc4e
+!
+! Yellow
+*.color3:      #c47e00
+*.color11:     #f3f34e
+!
+! Blue
+*.color4:      #0000c4
+*.color12:     #4e4edc
+!
+! Magenta
+*.color5:      #c400c4
+*.color13:     #f34ef3
+!
+! Cyan
+*.color6:      #00c4c4
+*.color14:     #4ef3f3
+!
+! White
+*.color7:      #c4c4c4
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #c4c4c4
+!*.colorIT:
+!*.colorUL:
