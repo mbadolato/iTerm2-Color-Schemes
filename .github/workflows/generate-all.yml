@@ -1,0 +1,51 @@
+name: Generate iTerm2 Color Schemes & Screenshots
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 14 * * 1" # Run every Monday at 14:00 UTC
+  push:
+    branches:
+      - master
+    paths:
+      - "schemes/**"
+      - "yaml/**"
+
+jobs:
+  generate-themes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run gen.py to generate themes
+        run: |
+          cd tools
+          python gen.py
+
+      - name: Run screenshot_gen to generate screenshot images
+        run: |
+          cd tools
+          python -m screenshot_gen
+
+      - name: Run generate_screenshots_readme.py to generate screenshots/README.md
+        run: |
+          cd tools
+          python generate_screenshots_readme.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Auto-generate color schemes, screenshots, screenshots/README.md"
