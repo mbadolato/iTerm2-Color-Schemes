@@ -1,4 +1,4 @@
-name: Generate iTerm2 Color Schemes & Screenshots
+name: Generate iTerm2 Color Schemes, Screenshots, README, and Deploy Website
 
 on:
   workflow_dispatch:
@@ -10,6 +10,7 @@ on:
     paths:
       - "schemes/**"
       - "yaml/**"
+      - "screenshots/README.md"
 
 jobs:
   generate-themes:
@@ -49,3 +50,13 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "Auto-generate color schemes, screenshots, screenshots/README.md"
+
+      - name: Build static site
+        run: python tools/generate_pages_index.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./gh-pages
+          cname: iterm2colorschemes.com
