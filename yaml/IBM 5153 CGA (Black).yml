@@ -1,0 +1,26 @@
+# https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/
+
+name:     'IBM 5153 CGA (Black)'
+author:   '(https://jmiller.com/)' # 'Author Name (http://website.com)'
+variant:  'Dark' # Dark or Light
+
+color_01:   '#000000' # Black (Host)
+color_02:   '#C40000' # Red (Syntax string)
+color_03:   '#00C400' # Green (Command)
+color_04:   '#C47E00' # Yellow (Command second)
+color_05:   '#0000C4' # Blue (Path)
+color_06:   '#C400C4' # Magenta (Syntax var)
+color_07:   '#00C4C4' # Cyan (Prompt)
+color_08:   '#C4C4C4' # White
+color_09:   '#4E4E4E' # Bright Black
+color_10:   '#DC4E4E' # Bright Red (Command error)
+color_11:   '#4EDC4E' # Bright Green (Exec)
+color_12:   '#F3F34E' # Bright Yellow
+color_13:   '#4E4EDC' # Bright Blue (Folder)
+color_14:   '#F34EF3' # Bright Magenta
+color_15:   '#4EF3F3' # Bright Cyan
+color_16:   '#FFFFFF' # Bright White
+
+background: '#000000' # Background
+foreground: '#C4C4C4' # Foreground (Text)
+cursor:     '#C4C4C4' # Cursor
