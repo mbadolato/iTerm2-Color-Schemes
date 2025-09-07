@@ -1,0 +1,43 @@
+!
+! Cursor Dark
+!
+*.foreground:  #ffffff
+*.background:  #141414
+*.cursorColor: #ffffff
+!
+! Black
+*.color0:      #2a2a2a
+*.color8:      #505050
+!
+! Red
+*.color1:      #bf616a
+*.color9:      #bf616a
+!
+! Green
+*.color2:      #a3be8c
+*.color10:     #a3be8c
+!
+! Yellow
+*.color3:      #ebcb8b
+*.color11:     #ebcb8b
+!
+! Blue
+*.color4:      #81a1c1
+*.color12:     #81a1c1
+!
+! Magenta
+*.color5:      #b48ead
+*.color13:     #b48ead
+!
+! Cyan
+*.color6:      #88c0d0
+*.color14:     #88c0d0
+!
+! White
+*.color7:      #d8dee9
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

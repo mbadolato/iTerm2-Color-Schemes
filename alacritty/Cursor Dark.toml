@@ -1,0 +1,33 @@
+# Colors (Cursor Dark)
+
+[colors.bright]
+black = '#505050'
+blue = '#81a1c1'
+cyan = '#88c0d0'
+green = '#a3be8c'
+magenta = '#b48ead'
+red = '#bf616a'
+white = '#ffffff'
+yellow = '#ebcb8b'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#141414'
+
+[colors.normal]
+black = '#2a2a2a'
+blue = '#81a1c1'
+cyan = '#88c0d0'
+green = '#a3be8c'
+magenta = '#b48ead'
+red = '#bf616a'
+white = '#d8dee9'
+yellow = '#ebcb8b'
+
+[colors.primary]
+background = '#141414'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#303030'
+text = '#ffffff'

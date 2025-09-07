@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Cursor Dark'
+cursor-color='#ffffff'
+foreground='#ffffff'
+background='rgba(20,20,20,.95)'
+palette='#2a2a2a:#bf616a:#a3be8c:#ebcb8b:#81a1c1:#b48ead:#88c0d0:#d8dee9:#505050:#bf616a:#a3be8c:#ebcb8b:#81a1c1:#b48ead:#88c0d0:#ffffff'
+COLORS
