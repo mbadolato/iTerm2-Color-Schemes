@@ -1,0 +1,28 @@
+---
+name: "Cursor Dark"
+variant: "Dark"
+
+color_01: "#2A2A2A" # Black
+color_02: "#BF616A" # Red
+color_03: "#A3BE8C" # Green
+color_04: "#EBCB8B" # Yellow
+color_05: "#81A1C1" # Blue
+color_06: "#B48EAD" # Magenta
+color_07: "#88C0D0" # Cyan
+color_08: "#D8DEE9" # White
+
+color_09: "#505050" # Bright Black
+color_10: "#BF616A" # Bright Red
+color_11: "#A3BE8C" # Bright Green
+color_12: "#EBCB8B" # Bright Yellow
+color_13: "#81A1C1" # Bright Blue
+color_14: "#B48EAD" # Bright Magenta
+color_15: "#88C0D0" # Bright Cyan
+color_16: "#FFFFFF" # Bright White
+
+background: "#141414"
+foreground: "#FFFFFF"
+cursor: "#FFFFFF"
+cursor_text: "#141414"
+selection: "#303030"
+selection_text: "#FFFFFF"

@@ -98,6 +98,8 @@ The CobaltNext themes were created by [davidleininger](https://github.com/davidl
 
 The coffee theme was created by [cbitterfield](https://github.com/cbitterfield)
 
+The Cursor Dark theme was created by [Takk8IS](https://github.com/Takk8IS) for Zed and ported by [m154k1](https://github.com/m154k1)
+
 The CutiePro theme was created by [jezzy](https://github.com/jezzy-ultra)
 
 The Cyberpunk theme was created by [Murderlon](https://github.com/Murderlon/cyberpunk-iterm)

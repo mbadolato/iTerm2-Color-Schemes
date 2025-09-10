@@ -486,6 +486,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/crayonponyfish.png)
 
+### Cursor Dark
+
+![Screenshot](/screenshots/cursor-dark.png)
+
 ### CutiePro
 
 ![Screenshot](/screenshots/cutiepro.png)
