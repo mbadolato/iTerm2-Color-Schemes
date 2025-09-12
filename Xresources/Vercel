@@ -1,0 +1,43 @@
+!
+! Vercel
+!
+*.foreground:  #fafafa
+*.background:  #101010
+*.cursorColor: #f32882
+!
+! Black
+*.color0:      #000000
+*.color8:      #a8a8a8
+!
+! Red
+*.color1:      #fc0036
+*.color9:      #ff8080
+!
+! Green
+*.color2:      #29a948
+*.color10:     #4be15d
+!
+! Yellow
+*.color3:      #ffae00
+*.color11:     #ffae00
+!
+! Blue
+*.color4:      #006aff
+*.color12:     #49aeff
+!
+! Magenta
+*.color5:      #f32882
+*.color13:     #f97ea8
+!
+! Cyan
+*.color6:      #00ac96
+*.color14:     #00e4c4
+!
+! White
+*.color7:      #feffff
+*.color15:     #fefefe
+!
+! Bold, Italic, Underline
+*.colorBD:     #fafafa
+!*.colorIT:
+!*.colorUL:

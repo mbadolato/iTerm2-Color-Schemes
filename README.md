@@ -1558,6 +1558,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/vaughn.png)
 
+### Vercel
+
+![Screenshot](/screenshots/vercel.png)
+
 ### Vesper
 
 ![Screenshot](/screenshots/vesper.png)
