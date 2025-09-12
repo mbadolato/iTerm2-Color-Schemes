@@ -1,19 +1,8 @@
-name: Create Terminal Color Schemes Release
+name: Create Terminal Themes Release
 
 on:
-  push:
-    branches:
-      - master
-      - main
-    paths:
-      - "**"
-      - "!screenshots/**"
-      - "!backgrounds/**"
-      - "!README.md"
-      - "!CREDITS.md"
-      - "!LICENSE"
-      - "!.gitignore"
-      - "!.github/**"
+  schedule:
+    - cron: "0 15 * * 1" # Run every Monday at 15:00 UTC
   workflow_dispatch: # Allows manual triggering
     inputs:
       release_name:
@@ -43,7 +32,7 @@ jobs:
             echo "release_name=${{ github.event.inputs.release_name }}" >> $GITHUB_OUTPUT
           else
             echo "tag_name=release-$TIMESTAMP-$SHORT_SHA" >> $GITHUB_OUTPUT
-            echo "release_name=Terminal Color Schemes - $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
+            echo "release_name=Terminal Themes - $(date +'%Y%m%d')" >> $GITHUB_OUTPUT
           fi
 
           echo "short_sha=$SHORT_SHA" >> $GITHUB_OUTPUT
@@ -72,23 +61,25 @@ jobs:
       - name: Create release archives
         run: |
           # Dynamically discover all directories, excluding screenshots and backgrounds
-          ALL_DIRS=($(find . -maxdepth 1 -type d -name '[a-zA-Z]*' ! -name 'screenshots' ! -name 'backgrounds' ! -name '.git*' | sed 's|./||' | sort))
+          mv schemes iterm2
+          mv terminal terminal.app
+          ALL_DIRS=($(find . -maxdepth 1 -type d -name '[a-zA-Z]*' ! -name 'screenshots' ! -name 'backgrounds' ! -name '.*' ! -name 'tools' ! -name 'gh-pages' | sed 's|./||' | sort))
           mkdir -p releases
 
           # Create individual archives for each terminal emulator directory
           for dir in "${ALL_DIRS[@]}"; do
             if [ -d "$dir" ]; then
               echo "Creating archive for $dir..."
-              
+
               # Count files to ensure directory is not empty
               file_count=$(find "$dir" -type f | wc -l)
               if [ $file_count -gt 0 ]; then
                 # Create tar.gz archive
-                tar -czf "releases/${dir}-color-schemes.tar.gz" "$dir"
-                
-                # Create zip archive
-                zip -r "releases/${dir}-color-schemes.zip" "$dir"
-                
+                tar -czf "releases/${dir}-themes.tgz" "$dir"
+
+                # Create 7z archive
+                7z a "releases/${dir}-themes.7z" "$dir"
+
                 echo "✓ Created archives for $dir ($file_count files)"
               else
                 echo "⚠️ Skipping empty directory: $dir"
@@ -98,30 +89,11 @@ jobs:
             fi
           done
 
-          # Create a complete archive excluding screenshots and backgrounds
+          # Create a complete archive
           echo "Creating complete archive (excluding screenshots and backgrounds)..."
-          tar -czf "releases/all-terminal-color-schemes.tar.gz" \
-            --exclude="screenshots" \
-            --exclude="backgrounds" \
-            --exclude="*.png" \
-            --exclude="*.jpg" \
-            --exclude="*.jpeg" \
-            --exclude="*.gif" \
-            --exclude="*.webp" \
-            --exclude=".git*" \
-            --exclude="releases" \
-            .
+          tar -czf "releases/all-terminal-themes.tgz" "${ALL_DIRS[@]}"
 
-          zip -r "releases/all-terminal-color-schemes.zip" . \
-            -x "screenshots/*" \
-            -x "backgrounds/*" \
-            -x "*.png" \
-            -x "*.jpg" \
-            -x "*.jpeg" \
-            -x "*.gif" \
-            -x "*.webp" \
-            -x ".git*" \
-            -x "releases/*"
+          7z a "releases/all-terminal-themes.7z" "${ALL_DIRS[@]}"
 
           echo "✓ Created complete archives"
 
@@ -134,7 +106,7 @@ jobs:
         run: |
           # Generate timestamp-based release notes
           cat > release_notes.md << EOF
-          # Terminal Color Schemes - $(date '+%Y-%m-%d %H:%M:%S UTC')
+          # Terminal Themes - $(date +'%Y%m%d')
 
           **Commit:** [\`${{ steps.vars.outputs.short_sha }}\`](https://github.com/${{ github.repository }}/commit/${{ github.sha }})
           **Build:** ${{ steps.vars.outputs.timestamp }}
@@ -146,7 +118,7 @@ jobs:
             echo ""
             echo "${{ steps.changes.outputs.changed_dirs }}" | while read -r dir; do
               if [ -n "$dir" ] && [ -d "$dir" ]; then
-                echo "- **$dir** - $(echo $dir | tr '_' ' ' | sed 's/\b\w/\U&/g') color schemes"
+                echo "- **$dir** - $(echo $dir | tr '_' ' ' | sed 's/\b\w/\U&/g') themes"
               fi
             done
             echo ""
@@ -156,7 +128,7 @@ jobs:
             git log --oneline -5 --no-merges
             echo "\`\`\`"
           else
-            echo "This is a manually triggered release containing all available color schemes."
+            echo "This is a manually triggered release containing all available themes."
           fi)
 
           ## Individual Downloads
@@ -164,41 +136,55 @@ jobs:
           Choose the archive for your specific terminal emulator:
 
           ### Terminal Emulators
-          - **alacritty** - Alacritty terminal color schemes
-          - **ghostty** - Ghostty terminal color schemes
-          - **gnome_terminal** - GNOME Terminal color schemes
-          - **konsole** - KDE Konsole color schemes
-          - **terminal** - macOS Terminal.app color schemes
-          - **terminator** - Terminator terminal color schemes
-          - **windowsterminal** - Windows Terminal color schemes
-          - **xfce4terminal** - XFCE Terminal color schemes
+          - **alacritty** - Alacritty (https://alacritty.org/)
+          - **electerm** - Electerm (https://electerm.html5beta.com/)
+          - **foot** - Foot (https://codeberg.org/dnkl/foot)
+          - **ghostty** - Ghostty (https://ghostty.org/)
+          - **iterm2** - iTerm2 (https://iterm2.com/)
+          - **kitty** - Kitty (https://sw.kovidgoyal.net/kitty/)
+          - **konsole** - KDE Konsole (https://konsole.kde.org/)
+          - **lxterminal** - LXTerminal (https://lxde.org/)
+          - **mobaxterm** - MobaXterm (https://mobaxterm.mobatek.net/)
+          - **pantheon-terminal** - Pantheon Terminal (https://elementary.io/)
+          - **putty** - PuTTY (https://www.putty.org/)
+          - **rio** - Rio (https://rioterm.com/)
+          - **royalts** - RoyalTS (https://royalts.com/ts/)
+          - **terminal.app** - macOS Terminal.app (https://support.apple.com/guide/terminal)
+          - **terminator** - Terminator (https://gnome-terminator.org/)
+          - **termux** - Termux (https://termux.com/)
+          - **tilda** - Tilda (https://github.com/lanoxx/tilda)
+          - **wayst** - Wayst (https://github.com/91861/wayst)
+          - **wezterm** - WezTerm (https://wezterm.org/)
+          - **windowsterminal** - Windows Terminal (https://github.com/microsoft/terminal)
+          - **xfce4terminal** - XFCE Terminal (https://docs.xfce.org/apps/xfce4-terminal/)
+
+          ### Console
+          - **freebsd_vt** - FreeBSD VT console color themes
+          - **linux_console** - Linux console color themes
+
+          ### Shell
+          - **dynamic-colors** - OSC4 (shell) dynamic color themes
+          - **generic** - Universal shell scripts using OSC escape codes
+          - **iterm-dynamic** - iTerm2 (shell) dynamic color themes
 
           ### Formats & Standards
-          - **schemes** - Original iTerm2 .itermcolors files
           - **yaml** - YAML format color definitions
           - **xrdb** - X11 resource database format
           - **generic** - Universal shell scripts using OSC escape codes
 
           ### Applications & Tools
-          - **vim** - Vim/Neovim color schemes
-          - **vscode** - Visual Studio Code color schemes
+          - **hexchat** - HexChat IRC client (https://hexchat.github.io/)
+          - **remmina** - Remmina Remote Desktop Client (https://remmina.org/)
+          - **termframe** - TermFrame (https://terminaltrove.com/termframe/)
+          - **vhs** - VHS (https://github.com/charmbracelet/vhs)
+          - **vscode** - Visual Studio Code (https://code.visualstudio.com/)
 
-          ### Legacy & Specialized
-          - **freebsd_vt** - FreeBSD VT console color schemes
-          - **linux_console** - Linux console color schemes
-          - **lxterminal** - LXTerminal color schemes
-          - **mobaxterm** - MobaXterm color schemes
-          - **putty** - PuTTY color schemes
-          - **qt_creator** - Qt Creator color schemes
-          - **remmina** - Remmina color schemes
-          - **rio** - Rio terminal color schemes
-          - **termite** - Termite terminal color schemes (archived)
-          - **termux** - Termux Android terminal color schemes
-          - **tilda** - Tilda drop-down terminal color schemes
+          ### Legacy
+          - **termite** - Termite (https://github.com/thestinger/termite)
 
           ## Complete Archive
 
-          The `all-terminal-color-schemes` archives contain all terminal emulator formats in a single download (screenshots excluded to reduce size).
+          The `all-terminal-themes` archives contain all terminal emulator formats in a single download (screenshots excluded to reduce size).
 
           ## Installation
 
@@ -206,8 +192,8 @@ jobs:
 
           ---
 
-          **📅 Generated:** $(date '+%Y-%m-%d %H:%M:%S UTC')  
-          **🔗 Commit:** ${{ github.sha }}  
+          **📅 Generated:** $(date '+%Y-%m-%d %H:%M:%S UTC')
+          **🔗 Commit:** ${{ github.sha }}
           **⚡ Auto-release:** This release is automatically generated when terminal emulator folders are updated
 
           **Note:** Screenshots and backgrounds have been excluded from release archives to reduce download size. You can view all color scheme previews in the [screenshots directory](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/screenshots) on GitHub.
@@ -264,10 +250,10 @@ jobs:
             if [ -f "$file" ]; then
               filename=$(basename "$file")
               size=$(ls -lh "$file" | awk '{print $5}')
-              if [[ "$filename" == *".tar.gz" ]]; then
+              if [[ "$filename" == *".tgz" ]]; then
                 filetype="tar.gz"
               else
-                filetype="zip"
+                filetype="7z"
               fi
               echo "| $filename | $size | $filetype |" >> $GITHUB_STEP_SUMMARY
             fi
