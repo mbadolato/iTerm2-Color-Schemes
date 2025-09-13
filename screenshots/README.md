@@ -756,6 +756,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/kibble.png)
 
+### Kitty Default
+
+![Screenshot](/screenshots/kitty-default.png)
+
+### Kitty Low Contrast
+
+![Screenshot](/screenshots/kitty-low-contrast.png)
+
 ### Kolorit
 
 ![Screenshot](/screenshots/kolorit.png)

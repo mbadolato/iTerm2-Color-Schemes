@@ -1,0 +1,12 @@
+# Kitty Low Contrast
+[colors]
+foreground = "#ffffff"
+background = "#333333"
+cursor_bg = "#cccccc"
+cursor_border = "#cccccc"
+cursor_fg = "#111111"
+selection_bg = "#fffacd"
+selection_fg = "#000000"
+
+ansi = ["#000000","#cc0403","#19cb00","#cecb00","#0d73cc","#cb1ed1","#0dcdcd","#dddddd"]
+brights = ["#767676","#f2201f","#23fd00","#fffd00","#1a8fff","#fd28ff","#14ffff","#ffffff"]
