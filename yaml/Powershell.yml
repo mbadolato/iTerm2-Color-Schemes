@@ -1,0 +1,27 @@
+---
+name: 'Powershell'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+variant: ''            # dark or light
+
+color_01: '#000000'    # Black (Host)
+color_02: '#7E0008'    # Red (Syntax string)
+color_03: '#098003'    # Green (Command)
+color_04: '#C4A000'    # Yellow (Command second)
+color_05: '#010083'    # Blue (Path)
+color_06: '#D33682'    # Magenta (Syntax var)
+color_07: '#0E807F'    # Cyan (Prompt)
+color_08: '#7F7C7F'    # White
+
+color_09: '#808080'    # Bright Black
+color_10: '#EF2929'    # Bright Red (Command error)
+color_11: '#1CFE3C'    # Bright Green (Exec)
+color_12: '#FEFE45'    # Bright Yellow
+color_13: '#268AD2'    # Bright Blue (Folder)
+color_14: '#FE13FA'    # Bright Magenta
+color_15: '#29FFFE'    # Bright Cyan
+color_16: '#C2C1C3'    # Bright White
+
+background: '#052454'  # Background
+foreground: '#F6F6F7'  # Foreground (Text)
+
+cursor: '#F6F6F7'      # Cursor
