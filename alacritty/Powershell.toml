@@ -1,0 +1,33 @@
+# Colors (Powershell)
+
+[colors.bright]
+black = '#808080'
+blue = '#268ad2'
+cyan = '#29fffe'
+green = '#1cfe3c'
+magenta = '#fe13fa'
+red = '#ef2929'
+white = '#c2c1c3'
+yellow = '#fefe45'
+
+[colors.cursor]
+cursor = '#f6f6f7'
+text = '#f6f6f7'
+
+[colors.normal]
+black = '#000000'
+blue = '#010083'
+cyan = '#0e807f'
+green = '#098003'
+magenta = '#d33682'
+red = '#7e0008'
+white = '#7f7c7f'
+yellow = '#c4a000'
+
+[colors.primary]
+background = '#052454'
+foreground = '#f6f6f7'
+
+[colors.selection]
+background = '#f6f6f7'
+text = '#052454'

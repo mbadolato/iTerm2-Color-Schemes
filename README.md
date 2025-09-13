@@ -1238,6 +1238,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/popping-and-locking.png)
 
+### Powershell
+
+![Screenshot](/screenshots/powershell.png)
+
 ### Pro
 
 ![Screenshot](/screenshots/pro.png)
