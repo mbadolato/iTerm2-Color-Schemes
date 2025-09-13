@@ -25,24 +25,6 @@ Color={{ Ansi_0_Color.rgb }}
 [Color1]
 Color={{ Ansi_1_Color.rgb }}
 
-[Color2Intense]
-Color={{ Ansi_10_Color.rgb }}
-
-[Color3Intense]
-Color={{ Ansi_11_Color.rgb }}
-
-[Color4Intense]
-Color={{ Ansi_12_Color.rgb }}
-
-[Color5Intense]
-Color={{ Ansi_13_Color.rgb }}
-
-[Color6Intense]
-Color={{ Ansi_14_Color.rgb }}
-
-[Color7Intense]
-Color={{ Ansi_15_Color.rgb }}
-
 [Color2]
 Color={{ Ansi_2_Color.rgb }}
 
@@ -67,3 +49,44 @@ Color={{ Ansi_8_Color.rgb }}
 [Color1Intense]
 Color={{ Ansi_9_Color.rgb }}
 
+[Color2Intense]
+Color={{ Ansi_10_Color.rgb }}
+
+[Color3Intense]
+Color={{ Ansi_11_Color.rgb }}
+
+[Color4Intense]
+Color={{ Ansi_12_Color.rgb }}
+
+[Color5Intense]
+Color={{ Ansi_13_Color.rgb }}
+
+[Color6Intense]
+Color={{ Ansi_14_Color.rgb }}
+
+[Color7Intense]
+Color={{ Ansi_15_Color.rgb }}
+
+[Color0Faint]
+Color={{ Ansi_0_Color.rgb }}
+
+[Color1Faint]
+Color={{ Ansi_1_Color.rgb }}
+
+[Color2Faint]
+Color={{ Ansi_2_Color.rgb }}
+
+[Color3Faint]
+Color={{ Ansi_3_Color.rgb }}
+
+[Color4Faint]
+Color={{ Ansi_4_Color.rgb }}
+
+[Color5Faint]
+Color={{ Ansi_5_Color.rgb }}
+
+[Color6Faint]
+Color={{ Ansi_6_Color.rgb }}
+
+[Color7Faint]
+Color={{ Ansi_7_Color.rgb }}
