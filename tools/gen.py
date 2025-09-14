@@ -321,6 +321,7 @@ def generate_from_template(
             # Special case: don't overwrite the original iTerm scheme a regeneration of itself.
             continue
         result = t.render(**scheme.to_dict())
+        os.makedirs(out_dir / f"{template_name}", exist_ok=True)
         dest_path = out_dir / f"{template_name}/{name}{template_ext}"
         dest_path.write_text(result, encoding="utf-8")
         if result.startswith("#!"):
