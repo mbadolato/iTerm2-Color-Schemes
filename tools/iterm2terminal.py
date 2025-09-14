@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 # Python script to convert iTerm2 themes to Terminal.app themes
 #
@@ -105,12 +105,37 @@ def convert(source, target):
 
 if __name__ == "__main__":
     parser = ArgumentParser()
-    parser.add_argument("source", help="Location of .itermcolors file to convert")
+    parser.add_argument("source", help="Location of .itermcolors file or directory to convert")
     parser.add_argument("target", help="Directory in which to save Terminal.app color scheme")
     args = parser.parse_args()
 
-    try:
-        convert(args.source, args.target)
-    except FileNotFoundError as e:
-        print(e)
+    source_path = Path(args.source).resolve()
+    target_path = Path(args.target).resolve()
+
+    if not target_path.exists():
+         print(f"Target directory {target_path} does not exist. Creating it...")
+         target_path.mkdir(parents=True, exist_ok=True)
+    else:
+         print(f"Using existing target directory: {target_path}")
+
+    def process_file(file_path, target_dir):
+        print(f"Processing file: {file_path}")
+        try:
+            convert(str(file_path), str(target_dir))
+            print(f"Successfully converted {file_path} to {target_dir}")
+        except FileNotFoundError as e:
+            print(e)
+
+    if source_path.is_dir():
+        print(f"Source is a directory: {source_path}")
+        files = list(source_path.glob("*.itermcolors"))
+        if not files:
+            print(f"No .itermcolors files found in {source_path}")
+        for iterm_file in files:
+            process_file(iterm_file, target_path)
+    elif source_path.is_file():
+        print(f"Source is a file: {source_path}")
+        process_file(source_path, target_path)
+    else:
+        print(f"Source {source_path} does not exist")
         exit(1)
