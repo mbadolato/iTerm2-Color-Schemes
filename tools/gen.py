@@ -186,6 +186,8 @@ class Theme:
     source_path: pathlib.Path
     name: str
     colors: dict[str, Color]
+    author: str = ""
+    variant: str = ""
 
     @cached_property
     def guint16_palette(self) -> str:
@@ -207,6 +209,8 @@ class Theme:
             "scheme_name": self.name,
             "Dark_Theme": self.dark_theme,
             "Guint16_Palette": self.guint16_palette,
+            "author": self.author,
+            "variant": self.variant,
         }
 
 
@@ -272,12 +276,20 @@ def read_yaml_file(yaml_file_path: pathlib.Path) -> Theme:
 
     name = yaml_file_path.stem
 
+    author = ""
+
+    variant = ""
+
     colors_dict = {}
     for key, value in data.items():
         if key == "name":
             name = str(value)
             continue
-        if key in yaml_to_iterm_color_name_map:
+        elif key == "author":
+            author = str(value) if value is not None else ""
+        elif key == "variant":
+            variant = str(value) if value is not None else ""
+        elif key in yaml_to_iterm_color_name_map:
             colors_dict[yaml_to_iterm_color_name_map[key]] = Color.from_hex(value)
         else:
             print(f"{yaml_file_path}: Unknown key {key!r} with value {value!r}", file=sys.stderr)
@@ -290,6 +302,8 @@ def read_yaml_file(yaml_file_path: pathlib.Path) -> Theme:
         source_path=yaml_file_path,
         name=name,
         colors=colors_dict,
+        author=author,
+        variant=variant,
     )
 
 
@@ -365,6 +379,11 @@ def main() -> None:
         if scheme_arg is None or name in scheme_arg:
             theme = read_yaml_file(yml_scheme)
             schemes[theme.name] = theme
+
+    # Ensure variant is set for all themes
+    for theme in schemes.values():
+        if not theme.variant:
+            object.__setattr__(theme, 'variant', 'Dark' if theme.dark_theme else 'Light')
 
     if not schemes:
         parser.error("No schemes found (if you used `-s`, nothing matched)")
