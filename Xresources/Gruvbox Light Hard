@@ -1,0 +1,43 @@
+!
+! Gruvbox Light Hard
+!
+*.foreground:  #3c3836
+*.background:  #f9f5d7
+*.cursorColor: #3c3836
+!
+! Black
+*.color0:      #f9f5d7
+*.color8:      #928374
+!
+! Red
+*.color1:      #cc241d
+*.color9:      #9d0006
+!
+! Green
+*.color2:      #98971a
+*.color10:     #79740e
+!
+! Yellow
+*.color3:      #d79921
+*.color11:     #b57614
+!
+! Blue
+*.color4:      #458588
+*.color12:     #076678
+!
+! Magenta
+*.color5:      #b16286
+*.color13:     #8f3f71
+!
+! Cyan
+*.color6:      #689d6a
+*.color14:     #427b58
+!
+! White
+*.color7:      #7c6f64
+*.color15:     #3c3836
+!
+! Bold, Italic, Underline
+*.colorBD:     #3c3836
+!*.colorIT:
+!*.colorUL:

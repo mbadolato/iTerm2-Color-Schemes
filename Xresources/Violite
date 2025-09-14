@@ -1,0 +1,43 @@
+!
+! Violite
+!
+*.foreground:  #eef4f6
+*.background:  #241c36
+*.cursorColor: #eef4f6
+!
+! Black
+*.color0:      #241c36
+*.color8:      #49376d
+!
+! Red
+*.color1:      #ec7979
+*.color9:      #ef8f8f
+!
+! Green
+*.color2:      #79ecb3
+*.color10:     #9fefbf
+!
+! Yellow
+*.color3:      #ece279
+*.color11:     #efe78f
+!
+! Blue
+*.color4:      #a979ec
+*.color12:     #b78fef
+!
+! Magenta
+*.color5:      #ec79ec
+*.color13:     #ef8fcf
+!
+! Cyan
+*.color6:      #79ecec
+*.color14:     #9fefef
+!
+! White
+*.color7:      #eef4f6
+*.color15:     #f8fafc
+!
+! Bold, Italic, Underline
+*.colorBD:     #eef4f6
+!*.colorIT:
+!*.colorUL:
