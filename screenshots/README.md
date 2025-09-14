@@ -572,7 +572,7 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/gruber-darker.png)
 
-### gruvbox-material
+### Gruvbox Material
 
 ![Screenshot](/screenshots/gruvbox-material.png)
 
@@ -1140,7 +1140,7 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/seashells.png)
 
-### selenized-dark
+### Selenized Dark
 
 ![Screenshot](/screenshots/selenized-dark.png)
 
@@ -1396,7 +1396,7 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/violet-dark.png)
 
-### violite
+### Violite
 
 ![Screenshot](/screenshots/violite.png)
 
@@ -1554,13 +1554,13 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/gitlab-light.png)
 
-### GruvboxLight
+### Gruvbox Light Hard
 
-![Screenshot](/screenshots/gruvboxlight.png)
+![Screenshot](/screenshots/gruvbox-light-hard.png)
 
-### GruvboxLightHard
+### Gruvbox Light
 
-![Screenshot](/screenshots/gruvboxlighthard.png)
+![Screenshot](/screenshots/gruvbox-light.png)
 
 ### Havn Daggry
 
@@ -1662,7 +1662,7 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/rose-pine-dawn.png)
 
-### selenized-light
+### Selenized Light
 
 ![Screenshot](/screenshots/selenized-light.png)
 

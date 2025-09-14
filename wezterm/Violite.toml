@@ -1,0 +1,12 @@
+# Violite
+[colors]
+foreground = "#eef4f6"
+background = "#241c36"
+cursor_bg = "#eef4f6"
+cursor_border = "#eef4f6"
+cursor_fg = "#241c36"
+selection_bg = "#49376d"
+selection_fg = "#eef4f6"
+
+ansi = ["#241c36","#ec7979","#79ecb3","#ece279","#a979ec","#ec79ec","#79ecec","#eef4f6"]
+brights = ["#49376d","#ef8f8f","#9fefbf","#efe78f","#b78fef","#ef8fcf","#9fefef","#f8fafc"]
