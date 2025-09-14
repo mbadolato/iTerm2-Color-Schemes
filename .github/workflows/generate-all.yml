@@ -36,6 +36,11 @@ jobs:
           cd tools
           python gen.py
 
+      - name: Run iterm2terminal.py to generate Terminal.app color schemes
+        run: |
+          cd tools
+          python iterm2terminal.py
+
       - name: Run screenshot_gen to generate screenshot images
         run: |
           cd tools
