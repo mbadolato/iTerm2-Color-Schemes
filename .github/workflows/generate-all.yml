@@ -39,7 +39,7 @@ jobs:
       - name: Run iterm2terminal.py to generate Terminal.app color schemes
         run: |
           cd tools
-          python iterm2terminal.py
+          python iterm2terminal.py ../schemes ../terminal
 
       - name: Run screenshot_gen to generate screenshot images
         run: |
