@@ -1494,19 +1494,19 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/tinacious-design-dark.png)
 
-### Tokyonight Moon
+### TokyoNight Moon
 
 ![Screenshot](/screenshots/tokyonight-moon.png)
 
-### Tokyonight Night
+### TokyoNight Night
 
 ![Screenshot](/screenshots/tokyonight-night.png)
 
-### Tokyonight Storm
+### TokyoNight Storm
 
 ![Screenshot](/screenshots/tokyonight-storm.png)
 
-### Tokyonight
+### TokyoNight
 
 ![Screenshot](/screenshots/tokyonight.png)
 
@@ -1880,7 +1880,7 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/tinacious-design-light.png)
 
-### Tokyonight Day
+### TokyoNight Day
 
 ![Screenshot](/screenshots/tokyonight-day.png)
 
