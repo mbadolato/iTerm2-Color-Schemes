@@ -1,0 +1,43 @@
+!
+! Flexoki Light
+!
+*.foreground:  #100f0f
+*.background:  #fffcf0
+*.cursorColor: #100f0f
+!
+! Black
+*.color0:      #100f0f
+*.color8:      #b7b5ac
+!
+! Red
+*.color1:      #af3029
+*.color9:      #d14d41
+!
+! Green
+*.color2:      #66800b
+*.color10:     #879a39
+!
+! Yellow
+*.color3:      #ad8301
+*.color11:     #d0a215
+!
+! Blue
+*.color4:      #205ea6
+*.color12:     #4385be
+!
+! Magenta
+*.color5:      #a02f6f
+*.color13:     #ce5d97
+!
+! Cyan
+*.color6:      #24837b
+*.color14:     #3aa99f
+!
+! White
+*.color7:      #6f6e69
+*.color15:     #cecdc3
+!
+! Bold, Italic, Underline
+*.colorBD:     #6f6e69
+!*.colorIT:
+!*.colorUL:

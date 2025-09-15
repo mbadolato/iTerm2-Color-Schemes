@@ -1,0 +1,43 @@
+!
+! Embers Dark
+!
+*.foreground:  #a39a90
+*.background:  #16130f
+*.cursorColor: #a39a90
+!
+! Black
+*.color0:      #16130f
+*.color8:      #5a5047
+!
+! Red
+*.color1:      #826d57
+*.color9:      #828257
+!
+! Green
+*.color2:      #57826d
+*.color10:     #2c2620
+!
+! Yellow
+*.color3:      #6d8257
+*.color11:     #433b32
+!
+! Blue
+*.color4:      #6d5782
+*.color12:     #8a8075
+!
+! Magenta
+*.color5:      #82576d
+*.color13:     #beb6ae
+!
+! Cyan
+*.color6:      #576d82
+*.color14:     #825757
+!
+! White
+*.color7:      #a39a90
+*.color15:     #dbd6d1
+!
+! Bold, Italic, Underline
+*.colorBD:     #a39a90
+!*.colorIT:
+!*.colorUL:

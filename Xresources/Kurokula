@@ -1,0 +1,43 @@
+!
+! Kurokula
+!
+*.foreground:  #e0cfc2
+*.background:  #141515
+*.cursorColor: #7a1c1c
+!
+! Black
+*.color0:      #333333
+*.color8:      #515151
+!
+! Red
+*.color1:      #c35a52
+*.color9:      #ffc34c
+!
+! Green
+*.color2:      #78b3a9
+*.color10:     #afffa5
+!
+! Yellow
+*.color3:      #e1b917
+*.color11:     #fff700
+!
+! Blue
+*.color4:      #5c91dd
+*.color12:     #90dbff
+!
+! Magenta
+*.color5:      #8b79a6
+*.color13:     #ad93ff
+!
+! Cyan
+*.color6:      #867268
+*.color14:     #ffcdb6
+!
+! White
+*.color7:      #e0cfc2
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+*.colorUL:     #596181

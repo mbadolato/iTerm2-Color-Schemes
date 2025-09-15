@@ -1,0 +1,12 @@
+# Kurokula
+[colors]
+foreground = "#e0cfc2"
+background = "#141515"
+cursor_bg = "#7a1c1c"
+cursor_border = "#7a1c1c"
+cursor_fg = "#fffbf2"
+selection_bg = "#515151"
+selection_fg = "#ffc34c"
+
+ansi = ["#333333","#c35a52","#78b3a9","#e1b917","#5c91dd","#8b79a6","#867268","#e0cfc2"]
+brights = ["#515151","#ffc34c","#afffa5","#fff700","#90dbff","#ad93ff","#ffcdb6","#ffffff"]

@@ -1,0 +1,43 @@
+!
+! Ghostty Default Style Dark
+!
+*.foreground:  #ffffff
+*.background:  #282c34
+*.cursorColor: #ffffff
+!
+! Black
+*.color0:      #1d1f21
+*.color8:      #666666
+!
+! Red
+*.color1:      #cc6566
+*.color9:      #d54e53
+!
+! Green
+*.color2:      #b6bd68
+*.color10:     #b9ca4b
+!
+! Yellow
+*.color3:      #f0c674
+*.color11:     #e7c547
+!
+! Blue
+*.color4:      #82a2be
+*.color12:     #7aa6da
+!
+! Magenta
+*.color5:      #b294bb
+*.color13:     #c397d8
+!
+! Cyan
+*.color6:      #8abeb7
+*.color14:     #70c0b1
+!
+! White
+*.color7:      #c4c8c6
+*.color15:     #eaeaea
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:
