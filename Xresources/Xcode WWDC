@@ -1,0 +1,43 @@
+!
+! Xcode WWDC
+!
+*.foreground:  #e7e8eb
+*.background:  #292c36
+*.cursorColor: #e7e8eb
+!
+! Black
+*.color0:      #494d5c
+*.color8:      #7f869e
+!
+! Red
+*.color1:      #bb383a
+*.color9:      #bb383a
+!
+! Green
+*.color2:      #94c66e
+*.color10:     #94c66e
+!
+! Yellow
+*.color3:      #d28e5d
+*.color11:     #d28e5d
+!
+! Blue
+*.color4:      #8884c5
+*.color12:     #8884c5
+!
+! Magenta
+*.color5:      #b73999
+*.color13:     #b73999
+!
+! Cyan
+*.color6:      #00aba4
+*.color14:     #00aba4
+!
+! White
+*.color7:      #e7e8eb
+*.color15:     #e7e8eb
+!
+! Bold, Italic, Underline
+*.colorBD:     #e7e8eb
+!*.colorIT:
+!*.colorUL:

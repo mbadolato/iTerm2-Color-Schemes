@@ -1,0 +1,12 @@
+# Cobalt Next Minimal
+[colors]
+foreground = "#d7deea"
+background = "#0b1c24"
+cursor_bg = "#37b5b4"
+cursor_border = "#37b5b4"
+cursor_fg = "#ffffff"
+selection_bg = "#37b5b4"
+selection_fg = "#ffffff"
+
+ansi = ["#323d47","#ff657a","#8cc98f","#ffc64c","#409dd4","#cba3c7","#37b5b4","#d7deea"]
+brights = ["#62747f","#e47e8b","#baddbb","#ffdc91","#7ac0eb","#f3ccef","#84e4e3","#ffffff"]

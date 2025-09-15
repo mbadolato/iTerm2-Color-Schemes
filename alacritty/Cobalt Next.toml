@@ -1,0 +1,33 @@
+# Colors (Cobalt Next)
+
+[colors.bright]
+black = '#62747f'
+blue = '#7ac0eb'
+cyan = '#84e4e3'
+green = '#baddbb'
+magenta = '#f3ccef'
+red = '#e47e8b'
+white = '#ffffff'
+yellow = '#ffdc91'
+
+[colors.cursor]
+cursor = '#ffc64c'
+text = '#d7deea'
+
+[colors.normal]
+black = '#000000'
+blue = '#409dd4'
+cyan = '#37b5b4'
+green = '#8cc98f'
+magenta = '#cba3c7'
+red = '#ff527b'
+white = '#d7deea'
+yellow = '#ffc64c'
+
+[colors.primary]
+background = '#162c35'
+foreground = '#d7deea'
+
+[colors.selection]
+background = '#4c5b67'
+text = '#ffffff'

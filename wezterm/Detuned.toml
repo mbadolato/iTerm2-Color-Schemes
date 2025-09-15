@@ -1,0 +1,12 @@
+# Detuned
+[colors]
+foreground = "#c7c7c7"
+background = "#000000"
+cursor_bg = "#c7c7c7"
+cursor_border = "#c7c7c7"
+cursor_fg = "#ffffff"
+selection_bg = "#c1deff"
+selection_fg = "#000000"
+
+ansi = ["#171717","#fe4386","#a6e32d","#e6da73","#0094d9","#9b37ff","#50b7d9","#c7c7c7"]
+brights = ["#686868","#fa80ac","#bde371","#fff27f","#00beff","#be9eff","#5ed7ff","#ffffff"]

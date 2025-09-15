@@ -1,0 +1,43 @@
+!
+! Catppuccin Mocha
+!
+*.foreground:  #cdd6f4
+*.background:  #1e1e2e
+*.cursorColor: #f5e0dc
+!
+! Black
+*.color0:      #45475a
+*.color8:      #585b70
+!
+! Red
+*.color1:      #f38ba8
+*.color9:      #f37799
+!
+! Green
+*.color2:      #a6e3a1
+*.color10:     #89d88b
+!
+! Yellow
+*.color3:      #f9e2af
+*.color11:     #ebd391
+!
+! Blue
+*.color4:      #89b4fa
+*.color12:     #74a8fc
+!
+! Magenta
+*.color5:      #f5c2e7
+*.color13:     #f2aede
+!
+! Cyan
+*.color6:      #94e2d5
+*.color14:     #6bd7ca
+!
+! White
+*.color7:      #a6adc8
+*.color15:     #bac2de
+!
+! Bold, Italic, Underline
+*.colorBD:     #cdd6f4
+!*.colorIT:
+!*.colorUL:

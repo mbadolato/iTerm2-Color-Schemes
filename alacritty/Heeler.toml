@@ -1,0 +1,33 @@
+# Colors (Heeler)
+
+[colors.bright]
+black = '#000000'
+blue = '#0088ff'
+cyan = '#8da6e4'
+green = '#bdd100'
+magenta = '#ff95c2'
+red = '#e44c2e'
+white = '#ffffff'
+yellow = '#f4ce65'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#5ba5f2'
+cyan = '#ff9763'
+green = '#bdd100'
+magenta = '#ff95c2'
+red = '#e44c2e'
+white = '#ffffff'
+yellow = '#f4ce65'
+
+[colors.primary]
+background = '#211f46'
+foreground = '#fdfdfd'
+
+[colors.selection]
+background = '#2b2c41'
+text = '#2eff58'

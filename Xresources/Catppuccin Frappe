@@ -1,0 +1,43 @@
+!
+! Catppuccin Frappe
+!
+*.foreground:  #c6d0f5
+*.background:  #303446
+*.cursorColor: #f2d5cf
+!
+! Black
+*.color0:      #51576d
+*.color8:      #626880
+!
+! Red
+*.color1:      #e78284
+*.color9:      #e67172
+!
+! Green
+*.color2:      #a6d189
+*.color10:     #8ec772
+!
+! Yellow
+*.color3:      #e5c890
+*.color11:     #d9ba73
+!
+! Blue
+*.color4:      #8caaee
+*.color12:     #7b9ef0
+!
+! Magenta
+*.color5:      #f4b8e4
+*.color13:     #f2a4db
+!
+! Cyan
+*.color6:      #81c8be
+*.color14:     #5abfb5
+!
+! White
+*.color7:      #a5adce
+*.color15:     #b5bfe2
+!
+! Bold, Italic, Underline
+*.colorBD:     #c6d0f5
+!*.colorIT:
+!*.colorUL:

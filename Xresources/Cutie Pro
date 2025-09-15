@@ -1,0 +1,43 @@
+!
+! Cutie Pro
+!
+*.foreground:  #d5d0c9
+*.background:  #181818
+*.cursorColor: #efc4cd
+!
+! Black
+*.color0:      #000000
+*.color8:      #88847f
+!
+! Red
+*.color1:      #f56e7f
+*.color9:      #e5a1a3
+!
+! Green
+*.color2:      #bec975
+*.color10:     #e8d6a7
+!
+! Yellow
+*.color3:      #f58669
+*.color11:     #f1bb79
+!
+! Blue
+*.color4:      #42d9c5
+*.color12:     #80c5de
+!
+! Magenta
+*.color5:      #d286b7
+*.color13:     #b294bb
+!
+! Cyan
+*.color6:      #37cb8a
+*.color14:     #9dccbb
+!
+! White
+*.color7:      #d5c3c3
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #d5d0c9
+!*.colorIT:
+!*.colorUL:

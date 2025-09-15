@@ -1,0 +1,12 @@
+# Electron Highlighter
+[colors]
+foreground = "#a5b6d4"
+background = "#23283d"
+cursor_bg = "#a5b6d4"
+cursor_border = "#a5b6d4"
+cursor_fg = "#1a1b27"
+selection_bg = "#25345a"
+selection_fg = "#a5b6d4"
+
+ansi = ["#15161f","#ff6c8d","#00ffc3","#ffd7a9","#77abff","#daa4f4","#00fdff","#778faf"]
+brights = ["#4a6789","#ff6c8d","#00ffc3","#ffd7a9","#77abff","#daa4f4","#00fdff","#c3cee2"]

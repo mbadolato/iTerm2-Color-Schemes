@@ -1,0 +1,43 @@
+!
+! Cyberpunk Scarlet Protocol
+!
+*.foreground:  #e41951
+*.background:  #101116
+*.cursorColor: #76ff9f
+!
+! Black
+*.color0:      #101116
+*.color8:      #686868
+!
+! Red
+*.color1:      #ff0051
+*.color9:      #ff6e67
+!
+! Green
+*.color2:      #01dc84
+*.color10:     #60fa68
+!
+! Yellow
+*.color3:      #faf945
+*.color11:     #fffc67
+!
+! Blue
+*.color4:      #0271b6
+*.color12:     #6871ff
+!
+! Magenta
+*.color5:      #c930c7
+*.color13:     #bd35ec
+!
+! Cyan
+*.color6:      #00c5c7
+*.color14:     #60fdff
+!
+! White
+*.color7:      #c7c7c7
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f5f443
+!*.colorIT:
+!*.colorUL:

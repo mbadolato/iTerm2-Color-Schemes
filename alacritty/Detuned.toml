@@ -1,0 +1,33 @@
+# Colors (Detuned)
+
+[colors.bright]
+black = '#686868'
+blue = '#00beff'
+cyan = '#5ed7ff'
+green = '#bde371'
+magenta = '#be9eff'
+red = '#fa80ac'
+white = '#ffffff'
+yellow = '#fff27f'
+
+[colors.cursor]
+cursor = '#c7c7c7'
+text = '#ffffff'
+
+[colors.normal]
+black = '#171717'
+blue = '#0094d9'
+cyan = '#50b7d9'
+green = '#a6e32d'
+magenta = '#9b37ff'
+red = '#fe4386'
+white = '#c7c7c7'
+yellow = '#e6da73'
+
+[colors.primary]
+background = '#000000'
+foreground = '#c7c7c7'
+
+[colors.selection]
+background = '#c1deff'
+text = '#000000'

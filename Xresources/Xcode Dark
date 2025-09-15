@@ -1,0 +1,43 @@
+!
+! Xcode Dark
+!
+*.foreground:  #dfdfe0
+*.background:  #292a30
+*.cursorColor: #dfdfe0
+!
+! Black
+*.color0:      #414453
+*.color8:      #7f8c98
+!
+! Red
+*.color1:      #ff8170
+*.color9:      #ff8170
+!
+! Green
+*.color2:      #78c2b3
+*.color10:     #acf2e4
+!
+! Yellow
+*.color3:      #d9c97c
+*.color11:     #ffa14f
+!
+! Blue
+*.color4:      #4eb0cc
+*.color12:     #6bdfff
+!
+! Magenta
+*.color5:      #ff7ab2
+*.color13:     #ff7ab2
+!
+! Cyan
+*.color6:      #b281eb
+*.color14:     #dabaff
+!
+! White
+*.color7:      #dfdfe0
+*.color15:     #dfdfe0
+!
+! Bold, Italic, Underline
+*.colorBD:     #dfdfe0
+!*.colorIT:
+!*.colorUL:
