@@ -128,7 +128,7 @@ jobs:
             git log --oneline -5 --no-merges
             echo "\`\`\`"
           else
-            echo "This is a manually triggered release containing all available themes."
+            echo "This is a scheduled release containing all available themes."
           fi)
 
           ## Individual Downloads
