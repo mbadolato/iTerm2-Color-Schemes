@@ -1,0 +1,33 @@
+# Colors (iTerm2 Pastel Dark Background)
+
+[colors.bright]
+black = '#8f8f8f'
+blue = '#c2e3ff'
+cyan = '#e6e6fe'
+green = '#d6fcba'
+magenta = '#ffb2fe'
+red = '#ffc4be'
+white = '#ffffff'
+yellow = '#fffed5'
+
+[colors.cursor]
+cursor = '#ffb473'
+text = '#ffffff'
+
+[colors.normal]
+black = '#626262'
+blue = '#a5d5fe'
+cyan = '#d1d1fe'
+green = '#b4fb73'
+magenta = '#ff90fe'
+red = '#ff8373'
+white = '#f1f1f1'
+yellow = '#fffdc3'
+
+[colors.primary]
+background = '#000000'
+foreground = '#c7c7c7'
+
+[colors.selection]
+background = '#454d96'
+text = '#f4f4f4'

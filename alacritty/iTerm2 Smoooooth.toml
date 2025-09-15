@@ -1,0 +1,33 @@
+# Colors (iTerm2 Smoooooth)
+
+[colors.bright]
+black = '#686868'
+blue = '#a7abf2'
+cyan = '#60fdff'
+green = '#58e790'
+magenta = '#e17ee1'
+red = '#dd7975'
+white = '#ffffff'
+yellow = '#ece100'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#14191e'
+blue = '#2744c7'
+cyan = '#00c5c7'
+green = '#00c200'
+magenta = '#c040be'
+red = '#b43c2a'
+white = '#c7c7c7'
+yellow = '#c7c400'
+
+[colors.primary]
+background = '#15191f'
+foreground = '#dcdcdc'
+
+[colors.selection]
+background = '#b3d7ff'
+text = '#000000'
