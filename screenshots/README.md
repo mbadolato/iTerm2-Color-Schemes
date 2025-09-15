@@ -792,10 +792,6 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/lavandula.png)
 
-### Liquid Carbon Transparent Inverse
-
-![Screenshot](/screenshots/liquid-carbon-transparent-inverse.png)
-
 ### Liquid Carbon Transparent
 
 ![Screenshot](/screenshots/liquid-carbon-transparent.png)
