@@ -634,9 +634,9 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/everblush.png)
 
-### Everforest Dark   Hard
+### Everforest Dark Hard
 
-![Screenshot](/screenshots/everforest-dark---hard.png)
+![Screenshot](/screenshots/everforest-dark-hard.png)
 
 ### Fahrenheit
 
@@ -1708,9 +1708,9 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/dayfox.png)
 
-### Everforest Light   Med
+### Everforest Light Med
 
-![Screenshot](/screenshots/everforest-light---med.png)
+![Screenshot](/screenshots/everforest-light-med.png)
 
 ### Farmhouse Light
 
