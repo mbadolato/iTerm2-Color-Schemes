@@ -68,7 +68,7 @@
 
 <h2>Screenshots</h2>
 
-{% for scheme in schemes %}
+{% for scheme in schemes | sort(attribute='name', case_sensitive=False) %}
 <p><a href="{{ scheme.url }}"><strong>{{ scheme.name }}</strong></a></p>
 <p><img src="{{ scheme.screenshot }}" alt="Screenshot"></p>
 {% endfor %}
