@@ -886,27 +886,27 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/irix-terminal.png)
 
-### ITerm2 Dark Background
+### iTerm2 Dark Background
 
 ![Screenshot](/screenshots/iterm2-dark-background.png)
 
-### ITerm2 Default
+### iTerm2 Default
 
 ![Screenshot](/screenshots/iterm2-default.png)
 
-### ITerm2 Pastel Dark Background
+### iTerm2 Pastel Dark Background
 
 ![Screenshot](/screenshots/iterm2-pastel-dark-background.png)
 
-### ITerm2 Smoooooth
+### iTerm2 Smoooooth
 
 ![Screenshot](/screenshots/iterm2-smoooooth.png)
 
-### ITerm2 Solarized Dark
+### iTerm2 Solarized Dark
 
 ![Screenshot](/screenshots/iterm2-solarized-dark.png)
 
-### ITerm2 Tango Dark
+### iTerm2 Tango Dark
 
 ![Screenshot](/screenshots/iterm2-tango-dark.png)
 
@@ -1764,15 +1764,15 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/iceberg-light.png)
 
-### ITerm2 Light Background
+### iTerm2 Light Background
 
 ![Screenshot](/screenshots/iterm2-light-background.png)
 
-### ITerm2 Solarized Light
+### iTerm2 Solarized Light
 
 ![Screenshot](/screenshots/iterm2-solarized-light.png)
 
-### ITerm2 Tango Light
+### iTerm2 Tango Light
 
 ![Screenshot](/screenshots/iterm2-tango-light.png)
 
