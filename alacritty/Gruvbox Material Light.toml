@@ -1,0 +1,33 @@
+# Colors (Gruvbox Material Light)
+
+[colors.bright]
+black = '#a89984'
+blue = '#45707a'
+cyan = '#4c7a5d'
+green = '#6c782e'
+magenta = '#945e80'
+red = '#c14a4a'
+white = '#4f3829'
+yellow = '#b47109'
+
+[colors.cursor]
+cursor = '#654735'
+text = '#654735'
+
+[colors.normal]
+black = '#fbf1c7'
+blue = '#45707a'
+cyan = '#4c7a5d'
+green = '#6c782e'
+magenta = '#945e80'
+red = '#c14a4a'
+white = '#654735'
+yellow = '#b47109'
+
+[colors.primary]
+background = '#fbf1c7'
+foreground = '#654735'
+
+[colors.selection]
+background = '#654735'
+text = '#fbf1c7'
