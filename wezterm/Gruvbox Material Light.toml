@@ -1,0 +1,12 @@
+# Gruvbox Material Light
+[colors]
+foreground = "#654735"
+background = "#fbf1c7"
+cursor_bg = "#654735"
+cursor_border = "#654735"
+cursor_fg = "#654735"
+selection_bg = "#654735"
+selection_fg = "#fbf1c7"
+
+ansi = ["#fbf1c7","#c14a4a","#6c782e","#b47109","#45707a","#945e80","#4c7a5d","#654735"]
+brights = ["#a89984","#c14a4a","#6c782e","#b47109","#45707a","#945e80","#4c7a5d","#4f3829"]

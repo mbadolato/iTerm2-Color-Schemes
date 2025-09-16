@@ -588,6 +588,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/gruvbox-dark.png)
 
+### Gruvbox Material Dark
+
+![Screenshot](/screenshots/gruvbox-material-dark.png)
+
 ### Gruvbox Material
 
 ![Screenshot](/screenshots/gruvbox-material.png)
@@ -1573,6 +1577,10 @@ The screenshots are categorized.
 ### Gruvbox Light
 
 ![Screenshot](/screenshots/gruvbox-light.png)
+
+### Gruvbox Material Light
+
+![Screenshot](/screenshots/gruvbox-material-light.png)
 
 ### Havn Daggry
 

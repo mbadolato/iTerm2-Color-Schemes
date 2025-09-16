@@ -1,0 +1,43 @@
+!
+! Gruvbox Material Light
+!
+*.foreground:  #654735
+*.background:  #fbf1c7
+*.cursorColor: #654735
+!
+! Black
+*.color0:      #fbf1c7
+*.color8:      #a89984
+!
+! Red
+*.color1:      #c14a4a
+*.color9:      #c14a4a
+!
+! Green
+*.color2:      #6c782e
+*.color10:     #6c782e
+!
+! Yellow
+*.color3:      #b47109
+*.color11:     #b47109
+!
+! Blue
+*.color4:      #45707a
+*.color12:     #45707a
+!
+! Magenta
+*.color5:      #945e80
+*.color13:     #945e80
+!
+! Cyan
+*.color6:      #4c7a5d
+*.color14:     #4c7a5d
+!
+! White
+*.color7:      #654735
+*.color15:     #4f3829
+!
+! Bold, Italic, Underline
+*.colorBD:     #654735
+!*.colorIT:
+!*.colorUL:
