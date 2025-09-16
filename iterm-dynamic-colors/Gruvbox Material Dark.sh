@@ -1,12 +1,12 @@
 #!/bin/sh
 # Gruvbox Material Dark
 printf "\033]P0282828\033\\"
-printf "\033]P1ea6962\033\\"
-printf "\033]P2a9b665\033\\"
-printf "\033]P3d8a657\033\\"
-printf "\033]P47daea3\033\\"
-printf "\033]P5d3869b\033\\"
-printf "\033]P689b482\033\\"
+printf "\033]P1c14a4a\033\\"
+printf "\033]P26c782e\033\\"
+printf "\033]P3b47109\033\\"
+printf "\033]P445707a\033\\"
+printf "\033]P5945e80\033\\"
+printf "\033]P64c7a5d\033\\"
 printf "\033]P7d4be98\033\\"
 printf "\033]P87c6f64\033\\"
 printf "\033]P9ea6962\033\\"
