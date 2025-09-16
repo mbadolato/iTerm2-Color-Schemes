@@ -1,0 +1,33 @@
+# Colors (Nordfox)
+
+[colors.bright]
+black = '#465780'
+blue = '#8cafd2'
+cyan = '#93ccdc'
+green = '#b1d196'
+magenta = '#c895bf'
+red = '#d06f79'
+white = '#e7ecf4'
+yellow = '#f0d399'
+
+[colors.cursor]
+cursor = '#cdcecf'
+text = '#2e3440'
+
+[colors.normal]
+black = '#3b4252'
+blue = '#81a1c1'
+cyan = '#88c0d0'
+green = '#a3be8c'
+magenta = '#b48ead'
+red = '#bf616a'
+white = '#e5e9f0'
+yellow = '#ebcb8b'
+
+[colors.primary]
+background = '#2e3440'
+foreground = '#cdcecf'
+
+[colors.selection]
+background = '#3e4a5b'
+text = '#cdcecf'

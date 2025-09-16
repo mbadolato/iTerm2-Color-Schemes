@@ -1,0 +1,43 @@
+!
+! Duskfox
+!
+*.foreground:  #e0def4
+*.background:  #232136
+*.cursorColor: #e0def4
+!
+! Black
+*.color0:      #393552
+*.color8:      #47407d
+!
+! Red
+*.color1:      #eb6f92
+*.color9:      #f083a2
+!
+! Green
+*.color2:      #a3be8c
+*.color10:     #b1d196
+!
+! Yellow
+*.color3:      #f6c177
+*.color11:     #f9cb8c
+!
+! Blue
+*.color4:      #569fba
+*.color12:     #65b1cd
+!
+! Magenta
+*.color5:      #c4a7e7
+*.color13:     #ccb1ed
+!
+! Cyan
+*.color6:      #9ccfd8
+*.color14:     #a6dae3
+!
+! White
+*.color7:      #e0def4
+*.color15:     #e2e0f7
+!
+! Bold, Italic, Underline
+*.colorBD:     #e0def4
+!*.colorIT:
+!*.colorUL:

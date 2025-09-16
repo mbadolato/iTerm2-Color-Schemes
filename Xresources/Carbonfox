@@ -1,0 +1,43 @@
+!
+! Carbonfox
+!
+*.foreground:  #f2f4f8
+*.background:  #161616
+*.cursorColor: #f2f4f8
+!
+! Black
+*.color0:      #282828
+*.color8:      #484848
+!
+! Red
+*.color1:      #ee5396
+*.color9:      #f16da6
+!
+! Green
+*.color2:      #25be6a
+*.color10:     #46c880
+!
+! Yellow
+*.color3:      #08bdba
+*.color11:     #2dc7c4
+!
+! Blue
+*.color4:      #78a9ff
+*.color12:     #8cb6ff
+!
+! Magenta
+*.color5:      #be95ff
+*.color13:     #c8a5ff
+!
+! Cyan
+*.color6:      #33b1ff
+*.color14:     #52bdff
+!
+! White
+*.color7:      #dfdfe0
+*.color15:     #e4e4e5
+!
+! Bold, Italic, Underline
+*.colorBD:     #f2f4f8
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,43 @@
+!
+! Dawnfox
+!
+*.foreground:  #575279
+*.background:  #faf4ed
+*.cursorColor: #575279
+!
+! Black
+*.color0:      #575279
+*.color8:      #5f5695
+!
+! Red
+*.color1:      #b4637a
+*.color9:      #c26d85
+!
+! Green
+*.color2:      #618774
+*.color10:     #629f81
+!
+! Yellow
+*.color3:      #ea9d34
+*.color11:     #eea846
+!
+! Blue
+*.color4:      #286983
+*.color12:     #2d81a3
+!
+! Magenta
+*.color5:      #907aa9
+*.color13:     #9a80b9
+!
+! Cyan
+*.color6:      #56949f
+*.color14:     #5ca7b4
+!
+! White
+*.color7:      #e5e9f0
+*.color15:     #e6ebf3
+!
+! Bold, Italic, Underline
+*.colorBD:     #575279
+!*.colorIT:
+!*.colorUL:

@@ -232,6 +232,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/calamity.png)
 
+### Carbonfox
+
+![Screenshot](/screenshots/carbonfox.png)
+
 ### Catppuccin Frappe
 
 ![Screenshot](/screenshots/catppuccin-frappe.png)
@@ -399,6 +403,10 @@ The screenshots are categorized.
 ### Duotone Dark
 
 ![Screenshot](/screenshots/duotone-dark.png)
+
+### Duskfox
+
+![Screenshot](/screenshots/duskfox.png)
 
 ### Earthsong
 
@@ -964,6 +972,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/nord.png)
 
+### Nordfox
+
+![Screenshot](/screenshots/nordfox.png)
+
 ### Nvim Dark
 
 ![Screenshot](/screenshots/nvim-dark.png)
@@ -1513,6 +1525,10 @@ The screenshots are categorized.
 ### Coffee Theme
 
 ![Screenshot](/screenshots/coffee-theme.png)
+
+### Dawnfox
+
+![Screenshot](/screenshots/dawnfox.png)
 
 ### Dayfox
 

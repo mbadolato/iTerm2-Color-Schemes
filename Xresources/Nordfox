@@ -1,0 +1,43 @@
+!
+! Nordfox
+!
+*.foreground:  #cdcecf
+*.background:  #2e3440
+*.cursorColor: #cdcecf
+!
+! Black
+*.color0:      #3b4252
+*.color8:      #465780
+!
+! Red
+*.color1:      #bf616a
+*.color9:      #d06f79
+!
+! Green
+*.color2:      #a3be8c
+*.color10:     #b1d196
+!
+! Yellow
+*.color3:      #ebcb8b
+*.color11:     #f0d399
+!
+! Blue
+*.color4:      #81a1c1
+*.color12:     #8cafd2
+!
+! Magenta
+*.color5:      #b48ead
+*.color13:     #c895bf
+!
+! Cyan
+*.color6:      #88c0d0
+*.color14:     #93ccdc
+!
+! White
+*.color7:      #e5e9f0
+*.color15:     #e7ecf4
+!
+! Bold, Italic, Underline
+*.colorBD:     #cdcecf
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (Duskfox)
+
+[colors.bright]
+black = '#47407d'
+blue = '#65b1cd'
+cyan = '#a6dae3'
+green = '#b1d196'
+magenta = '#ccb1ed'
+red = '#f083a2'
+white = '#e2e0f7'
+yellow = '#f9cb8c'
+
+[colors.cursor]
+cursor = '#e0def4'
+text = '#232136'
+
+[colors.normal]
+black = '#393552'
+blue = '#569fba'
+cyan = '#9ccfd8'
+green = '#a3be8c'
+magenta = '#c4a7e7'
+red = '#eb6f92'
+white = '#e0def4'
+yellow = '#f6c177'
+
+[colors.primary]
+background = '#232136'
+foreground = '#e0def4'
+
+[colors.selection]
+background = '#433c59'
+text = '#e0def4'

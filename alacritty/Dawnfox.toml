@@ -1,0 +1,33 @@
+# Colors (Dawnfox)
+
+[colors.bright]
+black = '#5f5695'
+blue = '#2d81a3'
+cyan = '#5ca7b4'
+green = '#629f81'
+magenta = '#9a80b9'
+red = '#c26d85'
+white = '#e6ebf3'
+yellow = '#eea846'
+
+[colors.cursor]
+cursor = '#575279'
+text = '#faf4ed'
+
+[colors.normal]
+black = '#575279'
+blue = '#286983'
+cyan = '#56949f'
+green = '#618774'
+magenta = '#907aa9'
+red = '#b4637a'
+white = '#e5e9f0'
+yellow = '#ea9d34'
+
+[colors.primary]
+background = '#faf4ed'
+foreground = '#575279'
+
+[colors.selection]
+background = '#d0d8d8'
+text = '#575279'
