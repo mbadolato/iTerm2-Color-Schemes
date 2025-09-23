@@ -38,6 +38,35 @@ jobs:
           echo "short_sha=$SHORT_SHA" >> $GITHUB_OUTPUT
           echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
 
+      - name: Check for changes since last release
+        id: changes
+        run: |
+          # Find the latest release tag matching your pattern
+          LAST_TAG=$(git tag --list 'release-*' --sort=-creatordate | head -n 1)
+          echo "Latest release tag: $LAST_TAG"
+
+          # If no previous release, always proceed
+          if [ -z "$LAST_TAG" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # Check for changes since last release tag, excluding screenshots and backgrounds
+          CHANGED=$(git diff --name-only "$LAST_TAG"..HEAD | grep -vE '^screenshots/|^backgrounds/' | wc -l)
+          echo "Changed files count: $CHANGED"
+
+          if [ "$CHANGED" -gt 0 ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Skip release if no changes
+        if: steps.changes.outputs.changed == 'false'
+        run: |
+          echo "No changes since last release. Skipping release."
+          exit 0
+
       - name: Check for existing release and clean up if needed
         run: |
           # Delete the 'latest' release and tag if they exist to avoid conflicts
