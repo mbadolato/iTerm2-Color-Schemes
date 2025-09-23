@@ -52,11 +52,8 @@ jobs:
           fi
 
           # Check for changes since last release tag, excluding screenshots and backgrounds
-          CHANGED_FILES=$(git diff --name-only "$LAST_TAG"..HEAD | grep -vE '^screenshots/|^backgrounds/')
-          CHANGED=$(echo "$CHANGED_FILES" | wc -l)
+          CHANGED=$(git diff --name-only "$LAST_TAG"..HEAD | grep -vE '^screenshots/|^backgrounds/' | wc -l)
           echo "Changed files count: $CHANGED"
-          echo "Changed files:"
-          echo "$CHANGED_FILES"
 
           if [ "$CHANGED" -gt 0 ]; then
             echo "changed=true" >> $GITHUB_OUTPUT
