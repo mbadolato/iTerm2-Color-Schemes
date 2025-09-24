@@ -1,0 +1,33 @@
+# Colors (Matte Black)
+
+[colors.bright]
+black = '#8a8a8d'
+blue = '#f59e0b'
+cyan = '#eaeaea'
+green = '#ffc107'
+magenta = '#b91c1c'
+red = '#891c1c'
+white = '#ffffff'
+yellow = '#b90a0a'
+
+[colors.cursor]
+cursor = '#eaeaea'
+text = '#121212'
+
+[colors.normal]
+black = '#333333'
+blue = '#e68e0d'
+cyan = '#bebebe'
+green = '#ffc107'
+magenta = '#d35f5f'
+red = '#d35f5f'
+white = '#bebebe'
+yellow = '#b91c1c'
+
+[colors.primary]
+background = '#121212'
+foreground = '#bebebe'
+
+[colors.selection]
+background = '#333333'
+text = '#eaeaea'

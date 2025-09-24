@@ -1045,6 +1045,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/matrix.png)
 
+### Matte Black
+
+![Screenshot](/screenshots/matte-black.png)
+
 ### Medallion
 
 ![Screenshot](/screenshots/medallion.png)

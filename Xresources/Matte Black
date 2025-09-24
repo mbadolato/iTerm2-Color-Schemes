@@ -1,0 +1,43 @@
+!
+! Matte Black
+!
+*.foreground:  #bebebe
+*.background:  #121212
+*.cursorColor: #eaeaea
+!
+! Black
+*.color0:      #333333
+*.color8:      #8a8a8d
+!
+! Red
+*.color1:      #d35f5f
+*.color9:      #891c1c
+!
+! Green
+*.color2:      #ffc107
+*.color10:     #ffc107
+!
+! Yellow
+*.color3:      #b91c1c
+*.color11:     #b90a0a
+!
+! Blue
+*.color4:      #e68e0d
+*.color12:     #f59e0b
+!
+! Magenta
+*.color5:      #d35f5f
+*.color13:     #b91c1c
+!
+! Cyan
+*.color6:      #bebebe
+*.color14:     #eaeaea
+!
+! White
+*.color7:      #bebebe
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #bebebe
+!*.colorIT:
+!*.colorUL:
