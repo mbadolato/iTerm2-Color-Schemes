@@ -1,9 +1,9 @@
 !
 ! Hot Dog Stand (Mustard)
 !
-*.foreground:  #ffffff
-*.background:  #ea3323
-*.cursorColor: #ffff54
+*.foreground:  #000000
+*.background:  #ffff54
+*.cursorColor: #ea3323
 !
 ! Black
 *.color0:      #000000
@@ -38,6 +38,6 @@
 *.color15:     #c6c6c6
 !
 ! Bold, Italic, Underline
-*.colorBD:     #ffffff
+*.colorBD:     #000000
 !*.colorIT:
 !*.colorUL:

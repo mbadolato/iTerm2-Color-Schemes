@@ -42,18 +42,18 @@ put_template 13 "ff/ff/54"
 put_template 14 "ff/ff/ff"
 put_template 15 "c6/c6/c6"
 
-color_foreground="00/00/00"
-color_background="ff/ff/54"
+color_foreground="ff/ff/ff"
+color_background="ea/33/23"
 
 if [ -n "$ITERM_SESSION_ID" ]; then
   # iTerm2 proprietary escape codes
-  put_template_custom Pg "000000"
-  put_template_custom Ph "ffff54"
-  put_template_custom Pi "000000"
-  put_template_custom Pj "ea3323"
-  put_template_custom Pk "ffffff"
-  put_template_custom Pl "ea3323"
-  put_template_custom Pm "000000"
+  put_template_custom Pg "ffffff"
+  put_template_custom Ph "ea3323"
+  put_template_custom Pi "ffffff"
+  put_template_custom Pj "ffff54"
+  put_template_custom Pk "000000"
+  put_template_custom Pl "ffff54"
+  put_template_custom Pm "ffffff"
 else
   put_template_var 10 $color_foreground
   put_template_var 11 $color_background

@@ -11,8 +11,8 @@ white = '#c6c6c6'
 yellow = '#ffff54'
 
 [colors.cursor]
-cursor = '#ea3323'
-text = '#000000'
+cursor = '#ffff54'
+text = '#ffffff'
 
 [colors.normal]
 black = '#000000'
@@ -25,9 +25,9 @@ white = '#c6c6c6'
 yellow = '#ffff54'
 
 [colors.primary]
-background = '#ffff54'
-foreground = '#000000'
+background = '#ea3323'
+foreground = '#ffffff'
 
 [colors.selection]
-background = '#ea3323'
-text = '#ffffff'
+background = '#ffff54'
+text = '#000000'

@@ -4,32 +4,32 @@
   "colors": [
     {
       "name": "Foreground",
-      "color": "#000000",
+      "color": "#ffffff",
       "terminalMapping": "foreground"
     },
     {
       "name": "BoldForeground",
-      "color": "#000000",
+      "color": "#ffffff",
       "terminalMapping": "boldforeground"
     },
     {
       "name": "Background",
-      "color": "#ffff54",
+      "color": "#ea3323",
       "terminalMapping": "background"
     },
     {
       "name": "BoldBackground",
-      "color": "#ffff54",
+      "color": "#ea3323",
       "terminalMapping": "boldbackground"
     },
     {
       "name": "CursorForeground",
-      "color": "#000000",
+      "color": "#ffffff",
       "terminalMapping": "cursorForeground"
     },
     {
       "name": "CursorBackground",
-      "color": "#ea3323",
+      "color": "#ffff54",
       "terminalMapping": "cursorBackground"
     },
     {
