@@ -28,9 +28,9 @@ color_14:   '#EA3323' # Bright Magenta
 color_15:   '#000000' # Bright Cyan
 color_16:   '#C6C6C6' # Bright White
 
-background: '#EA3323' # Background
-foreground: '#FFFFFF' # Foreground (Text)
-cursor:     '#FFFF54' # Cursor
+background: '#FFFF54' # Background
+foreground: '#000000' # Foreground (Text)
+cursor:     '#EA3323' # Cursor
 
-selection_text: '#000000'
-selection:      '#FFFF54'
+selection_text: '#FFFFFF'
+selection:      '#EA3323'
