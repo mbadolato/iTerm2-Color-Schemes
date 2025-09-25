@@ -1,0 +1,43 @@
+!
+! Hot Dog Stand (Mustard)
+!
+*.foreground:  #ffffff
+*.background:  #ea3323
+*.cursorColor: #ffff54
+!
+! Black
+*.color0:      #000000
+*.color8:      #000000
+!
+! Red
+*.color1:      #ea3323
+*.color9:      #ea3323
+!
+! Green
+*.color2:      #ea3323
+*.color10:     #ea3323
+!
+! Yellow
+*.color3:      #ea3323
+*.color11:     #ea3323
+!
+! Blue
+*.color4:      #000000
+*.color12:     #000000
+!
+! Magenta
+*.color5:      #ea3323
+*.color13:     #ea3323
+!
+! Cyan
+*.color6:      #000000
+*.color14:     #000000
+!
+! White
+*.color7:      #c6c6c6
+*.color15:     #c6c6c6
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

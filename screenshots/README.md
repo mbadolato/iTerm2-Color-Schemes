@@ -660,6 +660,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/horizon.png)
 
+### Hot Dog Stand (Mustard)
+
+![Screenshot](/screenshots/hot-dog-stand-mustard.png)
+
 ### Hurtado
 
 ![Screenshot](/screenshots/hurtado.png)
@@ -1593,6 +1597,10 @@ The screenshots are categorized.
 ### Horizon Bright
 
 ![Screenshot](/screenshots/horizon-bright.png)
+
+### Hot Dog Stand
+
+![Screenshot](/screenshots/hot-dog-stand.png)
 
 ### Iceberg Light
 

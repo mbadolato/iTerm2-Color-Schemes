@@ -1,0 +1,33 @@
+# Colors (Hot Dog Stand)
+
+[colors.bright]
+black = '#000000'
+blue = '#000000'
+cyan = '#ffffff'
+green = '#ffff54'
+magenta = '#ffff54'
+red = '#ffff54'
+white = '#c6c6c6'
+yellow = '#ffff54'
+
+[colors.cursor]
+cursor = '#ea3323'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#000000'
+cyan = '#ffffff'
+green = '#ffff54'
+magenta = '#ffff54'
+red = '#ffff54'
+white = '#c6c6c6'
+yellow = '#ffff54'
+
+[colors.primary]
+background = '#ffff54'
+foreground = '#000000'
+
+[colors.selection]
+background = '#ea3323'
+text = '#ffffff'

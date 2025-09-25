@@ -1,0 +1,12 @@
+# Hot Dog Stand (Mustard)
+[colors]
+foreground = "#ffffff"
+background = "#ea3323"
+cursor_bg = "#ffff54"
+cursor_border = "#ffff54"
+cursor_fg = "#ffffff"
+selection_bg = "#ffff54"
+selection_fg = "#000000"
+
+ansi = ["#000000","#ea3323","#ea3323","#ea3323","#000000","#ea3323","#000000","#c6c6c6"]
+brights = ["#000000","#ea3323","#ea3323","#ea3323","#000000","#ea3323","#000000","#c6c6c6"]
