@@ -12,7 +12,7 @@ variant:  'Dark' # Dark or Light
 # Shadow/Disabled = #848484
 
 color_01:   '#000000' # Black (Host)
-color_02:   '#EA3323' # Red (Syntax string)
+color_02:   '#FFFF54' # Red (Syntax string)
 color_03:   '#FFFF54' # Green (Command)
 color_04:   '#FFFF54' # Yellow (Command second)
 color_05:   '#000000' # Blue (Path)
@@ -20,7 +20,7 @@ color_06:   '#FFFF54' # Magenta (Syntax var)
 color_07:   '#FFFFFF' # Cyan (Prompt)
 color_08:   '#C6C6C6' # White
 color_09:   '#000000' # Bright Black
-color_10:   '#EA3323' # Bright Red (Command error)
+color_10:   '#FFFF54' # Bright Red (Command error)
 color_11:   '#FFFF54' # Bright Green (Exec)
 color_12:   '#FFFF54' # Bright Yellow
 color_13:   '#000000' # Bright Blue (Folder)
