@@ -1,0 +1,36 @@
+# https://blog.codinghorror.com/a-tribute-to-the-windows-31-hot-dog-stand-color-scheme/
+
+name:     'Hot Dog Stand'
+author:   'Benjamin Reed (https://github.com/RangerRick/)' # 'Author Name (http://website.com)'
+variant:  'Dark' # Dark or Light
+
+# Black           = #000000
+# Red             = #EA3323
+# Yellow          = #FFFF54
+# Grey            = #C6C6C6
+# Highlight/White = #FFFFFF
+# Shadow/Disabled = #848484
+
+color_01:   '#000000' # Black (Host)
+color_02:   '#EA3323' # Red (Syntax string)
+color_03:   '#FFFF54' # Green (Command)
+color_04:   '#FFFF54' # Yellow (Command second)
+color_05:   '#000000' # Blue (Path)
+color_06:   '#FFFF54' # Magenta (Syntax var)
+color_07:   '#FFFFFF' # Cyan (Prompt)
+color_08:   '#C6C6C6' # White
+color_09:   '#000000' # Bright Black
+color_10:   '#EA3323' # Bright Red (Command error)
+color_11:   '#FFFF54' # Bright Green (Exec)
+color_12:   '#FFFF54' # Bright Yellow
+color_13:   '#000000' # Bright Blue (Folder)
+color_14:   '#FFFF54' # Bright Magenta
+color_15:   '#FFFFFF' # Bright Cyan
+color_16:   '#C6C6C6' # Bright White
+
+background: '#FFFF54' # Background
+foreground: '#000000' # Foreground (Text)
+cursor:     '#EA3323' # Cursor
+
+selection_text: '#FFFFFF'
+selection:      '#EA3323'
