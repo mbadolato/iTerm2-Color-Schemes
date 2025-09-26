@@ -1,43 +1,43 @@
 !
 ! Ayu Light
 !
-*.foreground:  #5c6773
-*.background:  #fafafa
-*.cursorColor: #ff6a00
+*.foreground:  #5c6166
+*.background:  #f8f9fa
+*.cursorColor: #ffaa33
 !
 ! Black
 *.color0:      #000000
-*.color8:      #323232
+*.color8:      #686868
 !
 ! Red
-*.color1:      #ff3333
-*.color9:      #ff6565
+*.color1:      #ea6c6d
+*.color9:      #f07171
 !
 ! Green
-*.color2:      #86b300
-*.color10:     #b8e532
+*.color2:      #6cbf43
+*.color10:     #86b300
 !
 ! Yellow
-*.color3:      #f29718
-*.color11:     #ffc94a
+*.color3:      #eca944
+*.color11:     #f2ae49
 !
 ! Blue
-*.color4:      #41a6d9
-*.color12:     #73d8ff
+*.color4:      #3199e1
+*.color12:     #399ee6
 !
 ! Magenta
-*.color5:      #f07178
-*.color13:     #ffa3aa
+*.color5:      #9e75c7
+*.color13:     #a37acc
 !
 ! Cyan
-*.color6:      #4dbf99
-*.color14:     #7ff1cb
+*.color6:      #46ba94
+*.color14:     #4cbf99
 !
 ! White
-*.color7:      #ffffff
-*.color15:     #ffffff
+*.color7:      #c7c7c7
+*.color15:     #d1d1d1
 !
 ! Bold, Italic, Underline
-*.colorBD:     #5c6773
+*.colorBD:     #5c6166
 !*.colorIT:
 !*.colorUL:

@@ -1,12 +1,12 @@
 !
 ! Ayu Mirage
 !
-*.foreground:  #cbccc6
+*.foreground:  #cccac2
 *.background:  #1f2430
 *.cursorColor: #ffcc66
 !
 ! Black
-*.color0:      #191e2a
+*.color0:      #171b24
 *.color8:      #686868
 !
 ! Red
@@ -14,20 +14,20 @@
 *.color9:      #f28779
 !
 ! Green
-*.color2:      #a6cc70
-*.color10:     #bae67e
+*.color2:      #87d96c
+*.color10:     #d5ff80
 !
 ! Yellow
-*.color3:      #fad07b
-*.color11:     #ffd580
+*.color3:      #facc6e
+*.color11:     #ffd173
 !
 ! Blue
 *.color4:      #6dcbfa
 *.color12:     #73d0ff
 !
 ! Magenta
-*.color5:      #cfbafa
-*.color13:     #d4bfff
+*.color5:      #dabafa
+*.color13:     #dfbfff
 !
 ! Cyan
 *.color6:      #90e1c6
@@ -38,6 +38,6 @@
 *.color15:     #ffffff
 !
 ! Bold, Italic, Underline
-*.colorBD:     #ffffff
+*.colorBD:     #cccac2
 !*.colorIT:
 !*.colorUL:

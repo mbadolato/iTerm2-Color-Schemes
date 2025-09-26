@@ -1,43 +1,43 @@
 !
 ! Ayu
 !
-*.foreground:  #e6e1cf
-*.background:  #0f1419
-*.cursorColor: #f29718
+*.foreground:  #bfbdb6
+*.background:  #0b0e14
+*.cursorColor: #e6b450
 !
 ! Black
-*.color0:      #000000
-*.color8:      #323232
+*.color0:      #11151c
+*.color8:      #686868
 !
 ! Red
-*.color1:      #ff3333
-*.color9:      #ff6565
+*.color1:      #ea6c73
+*.color9:      #f07178
 !
 ! Green
-*.color2:      #b8cc52
-*.color10:     #eafe84
+*.color2:      #7fd962
+*.color10:     #aad94c
 !
 ! Yellow
-*.color3:      #e7c547
-*.color11:     #fff779
+*.color3:      #f9af4f
+*.color11:     #ffb454
 !
 ! Blue
-*.color4:      #36a3d9
-*.color12:     #68d5ff
+*.color4:      #53bdfa
+*.color12:     #59c2ff
 !
 ! Magenta
-*.color5:      #f07178
-*.color13:     #ffa3aa
+*.color5:      #cda1fa
+*.color13:     #d2a6ff
 !
 ! Cyan
-*.color6:      #95e6cb
-*.color14:     #c7fffd
+*.color6:      #90e1c6
+*.color14:     #95e6cb
 !
 ! White
-*.color7:      #ffffff
+*.color7:      #c7c7c7
 *.color15:     #ffffff
 !
 ! Bold, Italic, Underline
-*.colorBD:     #e6e1cf
+*.colorBD:     #bfbdb6
 !*.colorIT:
 !*.colorUL:

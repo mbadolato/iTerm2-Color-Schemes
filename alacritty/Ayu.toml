@@ -1,33 +1,33 @@
 # Colors (Ayu)
 
 [colors.bright]
-black = '#323232'
-blue = '#68d5ff'
-cyan = '#c7fffd'
-green = '#eafe84'
-magenta = '#ffa3aa'
-red = '#ff6565'
+black = '#686868'
+blue = '#59c2ff'
+cyan = '#95e6cb'
+green = '#aad94c'
+magenta = '#d2a6ff'
+red = '#f07178'
 white = '#ffffff'
-yellow = '#fff779'
+yellow = '#ffb454'
 
 [colors.cursor]
-cursor = '#f29718'
-text = '#e6e1cf'
+cursor = '#e6b450'
+text = '#0b0e14'
 
 [colors.normal]
-black = '#000000'
-blue = '#36a3d9'
-cyan = '#95e6cb'
-green = '#b8cc52'
-magenta = '#f07178'
-red = '#ff3333'
-white = '#ffffff'
-yellow = '#e7c547'
+black = '#11151c'
+blue = '#53bdfa'
+cyan = '#90e1c6'
+green = '#7fd962'
+magenta = '#cda1fa'
+red = '#ea6c73'
+white = '#c7c7c7'
+yellow = '#f9af4f'
 
 [colors.primary]
-background = '#0f1419'
-foreground = '#e6e1cf'
+background = '#0b0e14'
+foreground = '#bfbdb6'
 
 [colors.selection]
-background = '#253340'
-text = '#e6e1cf'
+background = '#409fff'
+text = '#0b0e14'

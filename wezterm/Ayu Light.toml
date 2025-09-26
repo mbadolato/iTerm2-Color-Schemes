@@ -1,12 +1,12 @@
 # Ayu Light
 [colors]
-foreground = "#5c6773"
-background = "#fafafa"
-cursor_bg = "#ff6a00"
-cursor_border = "#ff6a00"
-cursor_fg = "#5c6773"
-selection_bg = "#f0eee4"
-selection_fg = "#5c6773"
+foreground = "#5c6166"
+background = "#f8f9fa"
+cursor_bg = "#ffaa33"
+cursor_border = "#ffaa33"
+cursor_fg = "#f8f9fa"
+selection_bg = "#035bd6"
+selection_fg = "#f8f9fa"
 
-ansi = ["#000000","#ff3333","#86b300","#f29718","#41a6d9","#f07178","#4dbf99","#ffffff"]
-brights = ["#323232","#ff6565","#b8e532","#ffc94a","#73d8ff","#ffa3aa","#7ff1cb","#ffffff"]
+ansi = ["#000000","#ea6c6d","#6cbf43","#eca944","#3199e1","#9e75c7","#46ba94","#c7c7c7"]
+brights = ["#686868","#f07171","#86b300","#f2ae49","#399ee6","#a37acc","#4cbf99","#d1d1d1"]
