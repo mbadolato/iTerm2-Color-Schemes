@@ -155,6 +155,18 @@ def check_scheme(plist: dict, scheme_name: str, threshold: float) -> tuple[bool,
     else:
         checks.append((cursor_key, False, 0.0, None, None, None))
 
+    # Cursor text vs cursor background
+    cursor_text_key = 'Cursor Text Color'
+    if cursor_text_key in plist and cursor_key in plist:
+        cursor_text_rgb = get_rgb(plist[cursor_text_key])
+        cursor_bg_rgb = get_rgb(plist[cursor_key])
+        ratio = contrast_ratio(cursor_text_rgb, cursor_bg_rgb)
+        passed = passes_wcag(ratio, threshold)
+        suggested_fg = suggest_color(cursor_text_rgb, cursor_bg_rgb, threshold) if not passed else None
+        checks.append(('Cursor Text on Cursor', passed, ratio, cursor_text_rgb, cursor_bg_rgb, suggested_fg))
+    else:
+        checks.append(('Cursor Text on Cursor', False, 0.0, None, None, None))
+
     # Selected text vs selection background
     sel_bg_key = 'Selection Color'
     sel_text_key = 'Selected Text Color'
