@@ -1,25 +1,28 @@
-name: Ayu Light
-author: Ayu Theme (https://github.com/ayu-theme)
-variant: light
-color_01: '#000000'
-color_02: '#ea6c6d'
-color_03: '#6cbf43'
-color_04: '#eca944'
-color_05: '#3199e1'
-color_06: '#9e75c7'
-color_07: '#46ba94'
-color_08: '#bababa'
-color_09: '#686868'
-color_10: '#f07171'
-color_11: '#86b300'
-color_12: '#f2ae49'
-color_13: '#399ee6'
-color_14: '#a37acc'
-color_15: '#4cbf99'
-color_16: '#d1d1d1'
-background: '#f8f9fa'
-foreground: '#5c6166'
-cursor: '#ffaa33'
-cursor_text: '#f8f9fa'
-selection: '#035bd6'
-selection_text: '#f8f9fa'
+name: "Ayu Light"
+author: "Ayu Theme (https://github.com/ayu-theme)"
+variant: "light"
+
+color_01: "#000000"
+color_02: "#ea6c6d"
+color_03: "#6cbf43"
+color_04: "#eca944"
+color_05: "#3199e1"
+color_06: "#9e75c7"
+color_07: "#46ba94"
+color_08: "#c7c7c7"
+
+color_09: "#686868"
+color_10: "#f07171"
+color_11: "#86b300"
+color_12: "#f2ae49"
+color_13: "#399ee6"
+color_14: "#a37acc"
+color_15: "#4cbf99"
+color_16: "#d1d1d1"
+
+background: "#f8f9fa"
+foreground: "#5c6166"
+cursor: "#ffaa33"
+cursor_text: "#f8f9fa"
+selection: "#035bd6"
+selection_text: "#f8f9fa"
