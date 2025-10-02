@@ -52,6 +52,7 @@ import plistlib
 from functools import cached_property
 from typing import Any
 
+import math
 import rich.progress
 from jinja2 import Environment, FileSystemLoader
 
@@ -181,6 +182,128 @@ class Color:
         return self.b / 255
 
 
+def srgb_to_linear(c: float) -> float:
+    """Convert sRGB gamma (0-1) to linear light."""
+    if c <= 0.04045:
+        return c / 12.92
+    else:
+        return math.pow((c + 0.055) / 1.055, 2.4)
+
+
+def relative_luminance(rgb: tuple[float, float, float]) -> float:
+    """Compute relative luminance per WCAG (sRGB gamma input)."""
+    r_lin, g_lin, b_lin = [srgb_to_linear(c) for c in rgb]
+    return 0.2126 * r_lin + 0.7152 * g_lin + 0.0722 * b_lin
+
+
+def contrast_ratio(fg_rgb: tuple[float, float, float], bg_rgb: tuple[float, float, float]) -> float:
+    """Compute WCAG contrast ratio between foreground and background."""
+    l_fg = relative_luminance(fg_rgb)
+    l_bg = relative_luminance(bg_rgb)
+    if l_fg < l_bg:
+        l_fg, l_bg = l_bg, l_fg  # Ensure l_fg >= l_bg
+    return (l_fg + 0.05) / (l_bg + 0.05)
+
+
+def passes_wcag(ratio: float, threshold: float = 1.75) -> bool:
+    """Check if contrast meets WCAG (threshold:1)."""
+    return ratio >= threshold
+
+
+def suggest_color(fg_rgb: tuple[float, float, float], bg_rgb: tuple[float, float, float], threshold: float = 1.75) -> tuple[float, float, float]:
+    """Suggest an adjusted FG color to meet threshold by lightening/darkening."""
+    current_ratio = contrast_ratio(fg_rgb, bg_rgb)
+    if current_ratio >= threshold:
+        return fg_rgb
+
+    l_bg = relative_luminance(bg_rgb)
+    step = 0.05  # Small adjustment step
+    max_steps = 20  # Prevent infinite loop
+    fg = list(fg_rgb)
+
+    # Dark BG: lighten FG towards white
+    if l_bg < 0.5:
+        for _ in range(max_steps):
+            for i in range(3):
+                fg[i] = min(1.0, fg[i] + step)
+            new_fg = tuple(fg)
+            if contrast_ratio(new_fg, bg_rgb) >= threshold:
+                return new_fg
+    # Light BG: darken FG towards black
+    else:
+        for _ in range(max_steps):
+            for i in range(3):
+                fg[i] = max(0.0, fg[i] - step)
+            new_fg = tuple(fg)
+            if contrast_ratio(new_fg, bg_rgb) >= threshold:
+                return new_fg
+
+    # Fallback: extreme (white or black)
+    if l_bg < 0.5:
+        return (1.0, 1.0, 1.0)
+    else:
+        return (0.0, 0.0, 0.0)
+
+
+def get_rgb_color(color: Color) -> tuple[float, float, float]:
+    """Extract sRGB gamma RGB (0-1) from Color."""
+    return (color.r_float, color.g_float, color.b_float)
+
+
+def adjust_colors_for_wcag(colors_dict: dict[str, Color], name: str) -> None:
+    """Apply WCAG adjustments to colors in the dict (threshold 1.75)."""
+    threshold = 1.75
+    if "Background Color" not in colors_dict:
+        return
+
+    bg_rgb = get_rgb_color(colors_dict["Background Color"])
+
+    # Targets against background
+    targets = ["Foreground Color"] + [f"Ansi {i} Color" for i in range(1, 15)] + ["Cursor Color"]
+    for color_name in targets:
+        if color_name in colors_dict:
+            fg_color = colors_dict[color_name]
+            fg_rgb = get_rgb_color(fg_color)
+            old_ratio = contrast_ratio(fg_rgb, bg_rgb)
+            if not passes_wcag(old_ratio, threshold):
+                suggested_fg_rgb = suggest_color(fg_rgb, bg_rgb, threshold)
+                new_ratio = contrast_ratio(suggested_fg_rgb, bg_rgb)
+                new_color = Color(
+                    round(suggested_fg_rgb[0] * 255),
+                    round(suggested_fg_rgb[1] * 255),
+                    round(suggested_fg_rgb[2] * 255),
+                )
+                old_rgb = (fg_color.r, fg_color.g, fg_color.b)
+                new_rgb = (new_color.r, new_color.g, new_color.b)
+                print(
+                    f"Adjusted {color_name} in {name} from RGB{old_rgb} to RGB{new_rgb}: old ratio {old_ratio:.2f} -> new {new_ratio:.2f}",
+                    file=sys.stderr,
+                )
+                colors_dict[color_name] = new_color
+
+    # Selection: Selected Text Color against Selection Color
+    if "Selection Color" in colors_dict and "Selected Text Color" in colors_dict:
+        sel_bg_rgb = get_rgb_color(colors_dict["Selection Color"])
+        sel_text_color = colors_dict["Selected Text Color"]
+        sel_text_rgb = get_rgb_color(sel_text_color)
+        old_ratio = contrast_ratio(sel_text_rgb, sel_bg_rgb)
+        if not passes_wcag(old_ratio, threshold):
+            suggested_fg_rgb = suggest_color(sel_text_rgb, sel_bg_rgb, threshold)
+            new_ratio = contrast_ratio(suggested_fg_rgb, sel_bg_rgb)
+            new_color = Color(
+                round(suggested_fg_rgb[0] * 255),
+                round(suggested_fg_rgb[1] * 255),
+                round(suggested_fg_rgb[2] * 255),
+            )
+            old_rgb = (sel_text_color.r, sel_text_color.g, sel_text_color.b)
+            new_rgb = (new_color.r, new_color.g, new_color.b)
+            print(
+                f"Adjusted Selected Text Color in {name} from RGB{old_rgb} to RGB{new_rgb}: old ratio {old_ratio:.2f} -> new {new_ratio:.2f}",
+                file=sys.stderr,
+            )
+            colors_dict["Selected Text Color"] = new_color
+
+
 @dataclasses.dataclass(frozen=True)
 class Theme:
     source_path: pathlib.Path
@@ -222,6 +345,9 @@ def read_itermcolors_file(iterm_path: pathlib.Path) -> Theme:
 
     for color_name, color_data in plist.items():
         colors_dict[color_name] = Color.from_iterm_color_dict(color_data)
+
+    name = iterm_path.stem
+    adjust_colors_for_wcag(colors_dict, name)
 
     return Theme(
         source_path=iterm_path,
@@ -297,6 +423,8 @@ def read_yaml_file(yaml_file_path: pathlib.Path) -> Theme:
     for dest_key, src_key in fallback_color_map.items():
         if dest_key not in colors_dict:
             colors_dict[dest_key] = colors_dict[src_key]
+
+    adjust_colors_for_wcag(colors_dict, name)
 
     return Theme(
         source_path=yaml_file_path,
