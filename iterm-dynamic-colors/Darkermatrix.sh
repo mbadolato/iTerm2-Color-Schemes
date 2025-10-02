@@ -1,7 +1,7 @@
 #!/bin/sh
 # Darkermatrix
 printf "\033]P0091013\033\\"
-printf "\033]P11a4832\033\\"
+printf "\033]P11a4831\033\\"
 printf "\033]P26fa64c\033\\"
 printf "\033]P3595900\033\\"
 printf "\033]P400cb6b\033\\"

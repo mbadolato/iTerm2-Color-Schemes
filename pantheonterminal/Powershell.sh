@@ -5,5 +5,5 @@ name='Powershell'
 cursor-color='#f6f6f7'
 foreground='#f6f6f7'
 background='rgba(5,36,84,.95)'
-palette='#000000:#971921:#098003:#c4a000:#403fc2:#d33682:#0e807f:#7f7c7f:#808080:#ef2929:#1cfe3c:#fefe45:#268ad2:#fe13fa:#29fffe:#c2c1c3'
+palette='#000000:#981a22:#098003:#c4a000:#4140c3:#d33682:#0e807f:#7f7c7f:#808080:#ef2929:#1cfe3c:#fefe45:#268ad2:#fe13fa:#29fffe:#c2c1c3'
 COLORS

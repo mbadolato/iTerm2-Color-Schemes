@@ -1,7 +1,7 @@
 #!/bin/sh
 # C64
 printf "\033]P0090300\033\\"
-printf "\033]P1a2534c\033\\"
+printf "\033]P1a2524c\033\\"
 printf "\033]P255a049\033\\"
 printf "\033]P3bfce72\033\\"
 printf "\033]P46657b3\033\\"
@@ -9,7 +9,7 @@ printf "\033]P5984ca3\033\\"
 printf "\033]P667b6bd\033\\"
 printf "\033]P7ffffff\033\\"
 printf "\033]P8000000\033\\"
-printf "\033]P9a2534c\033\\"
+printf "\033]P9a2524c\033\\"
 printf "\033]Pa55a049\033\\"
 printf "\033]Pbbfce72\033\\"
 printf "\033]Pc6657b3\033\\"

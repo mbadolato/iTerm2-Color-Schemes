@@ -2,11 +2,11 @@
 [colors]
 foreground = "#16161d"
 background = "#fdf0ed"
-cursor_bg = "#dba69b"
-cursor_border = "#dba69b"
+cursor_bg = "#d3a89d"
+cursor_border = "#d3a89d"
 cursor_fg = "#f9cec3"
 selection_bg = "#f9cec3"
 selection_fg = "#16161d"
 
-ansi = ["#16161d","#fc4777","#00ce81","#ffa27b","#00bedd","#ff58b1","#00c8c1","#c3afac"]
-brights = ["#1a1c24","#fe5f87","#00cc7b","#f1a383","#00c9e2","#ff6cba","#00c7c3","#fff2ef"]
+ansi = ["#16161d","#fc4777","#00ca86","#f2a682","#00bedd","#ff58b1","#00cdcb","#bfafac"]
+brights = ["#1a1c24","#fe5f87","#00d193","#e5a688","#00c9e2","#ff6cba","#00c3c2","#fff2ef"]

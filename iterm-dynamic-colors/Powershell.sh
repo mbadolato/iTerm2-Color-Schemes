@@ -1,10 +1,10 @@
 #!/bin/sh
 # Powershell
 printf "\033]P0000000\033\\"
-printf "\033]P1971921\033\\"
+printf "\033]P1981a22\033\\"
 printf "\033]P2098003\033\\"
 printf "\033]P3c4a000\033\\"
-printf "\033]P4403fc2\033\\"
+printf "\033]P44140c3\033\\"
 printf "\033]P5d33682\033\\"
 printf "\033]P60e807f\033\\"
 printf "\033]P77f7c7f\033\\"

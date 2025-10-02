@@ -5,5 +5,5 @@ name='Black Metal (Venom)'
 cursor-color='#c1c1c1'
 foreground='#c1c1c1'
 background='rgba(0,0,0,.95)'
-palette='#000000:#5f8787:#f8f7f2:#79241f:#888888:#999999:#aaaaaa:#c1c1c1:#3f3f3f:#5f8787:#f8f7f2:#79241f:#888888:#999999:#aaaaaa:#c1c1c1'
+palette='#000000:#5f8787:#f8f7f2:#79241f:#888888:#999999:#aaaaaa:#c1c1c1:#404040:#5f8787:#f8f7f2:#79241f:#888888:#999999:#aaaaaa:#c1c1c1'
 COLORS

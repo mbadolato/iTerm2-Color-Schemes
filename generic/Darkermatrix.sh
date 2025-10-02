@@ -26,7 +26,7 @@ fi
 
 # 16 color space
 put_template 0  "09/10/13"
-put_template 1  "1a/48/32"
+put_template 1  "1a/48/31"
 put_template 2  "6f/a6/4c"
 put_template 3  "59/59/00"
 put_template 4  "00/cb/6b"

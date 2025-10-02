@@ -8,10 +8,10 @@ green = '#00d364'
 magenta = '#d783ff'
 red = '#ff2f92'
 white = '#d5d6f3'
-yellow = '#d9ae52'
+yellow = '#d9ae53'
 
 [colors.cursor]
-cursor = '#b2b2d7'
+cursor = '#b1b1d6'
 text = '#ffffff'
 
 [colors.normal]
@@ -21,8 +21,8 @@ cyan = '#00ceca'
 green = '#00d364'
 magenta = '#cc66ff'
 red = '#ff3399'
-white = '#b2b2d7'
-yellow = '#e5b34d'
+white = '#b1b1d6'
+yellow = '#e5b24d'
 
 [colors.primary]
 background = '#f8f8ff'

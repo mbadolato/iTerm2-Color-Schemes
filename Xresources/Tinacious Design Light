@@ -3,7 +3,7 @@
 !
 *.foreground:  #1d1d26
 *.background:  #f8f8ff
-*.cursorColor: #b2b2d7
+*.cursorColor: #b1b1d6
 !
 ! Black
 *.color0:      #1d1d26
@@ -18,8 +18,8 @@
 *.color10:     #00d364
 !
 ! Yellow
-*.color3:      #e5b34d
-*.color11:     #d9ae52
+*.color3:      #e5b24d
+*.color11:     #d9ae53
 !
 ! Blue
 *.color4:      #00cbff
@@ -34,7 +34,7 @@
 *.color14:     #00c8c7
 !
 ! White
-*.color7:      #b2b2d7
+*.color7:      #b1b1d6
 *.color15:     #d5d6f3
 !
 ! Bold, Italic, Underline

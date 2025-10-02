@@ -4,7 +4,7 @@
 black = '#686868'
 blue = '#6871ff'
 cyan = '#20bdbf'
-green = '#20ba28'
+green = '#1fba28'
 magenta = '#f26af2'
 red = '#ff6e67'
 white = '#ffffff'
@@ -17,12 +17,12 @@ text = '#fffc67'
 [colors.normal]
 black = '#000000'
 blue = '#0225c7'
-cyan = '#00b9bb'
+cyan = '#00b8ba'
 green = '#00c200'
 magenta = '#ca30c7'
 red = '#c91b00'
 white = '#a1a1a1'
-yellow = '#aeab00'
+yellow = '#adaa00'
 
 [colors.primary]
 background = '#f5deb3'
