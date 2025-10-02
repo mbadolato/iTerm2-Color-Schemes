@@ -53,7 +53,7 @@ if [ -n "$ITERM_SESSION_ID" ]; then
   put_template_custom Pj "184956"
   put_template_custom Pk "53d6c7"
   put_template_custom Pl "adbcbc"
-  put_template_custom Pm "adbcbc"
+  put_template_custom Pm "edfcfc"
 else
   put_template_var 10 $color_foreground
   put_template_var 11 $color_background
