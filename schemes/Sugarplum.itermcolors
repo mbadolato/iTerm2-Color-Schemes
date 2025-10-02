@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-    Name:       Sugarplum
-    Author:     lemonlime0x3C33 (https://github.com/lemonlime0x3C33)
--->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -63,11 +59,11 @@
 	<key>Ansi 14 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>1</real>
+		<real>1.0</real>
 		<key>Green Component</key>
-		<real>1</real>
+		<real>1.0</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>1.0</real>
 	</dict>
 	<key>Ansi 15 Color</key>
 	<dict>
@@ -135,11 +131,11 @@
 	<key>Ansi 8 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.2784313725490196</real>
+		<real>0.4784313725490196</real>
 		<key>Green Component</key>
-		<real>0.06666666666666667</real>
+		<real>0.26666666666666666</real>
 		<key>Red Component</key>
-		<real>0.06666666666666667</real>
+		<real>0.26666666666666666</real>
 	</dict>
 	<key>Ansi 9 Color</key>
 	<dict>
@@ -198,11 +194,11 @@
 	<key>Selected Text Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.9333333333333333</real>
+		<real>1.0</real>
 		<key>Green Component</key>
-		<real>0.7450980392156863</real>
+		<real>0.8450980392156864</real>
 		<key>Red Component</key>
-		<real>0.8156862745098039</real>
+		<real>0.915686274509804</real>
 	</dict>
 	<key>Selection Color</key>
 	<dict>

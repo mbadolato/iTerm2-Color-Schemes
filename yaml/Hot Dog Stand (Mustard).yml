@@ -1,36 +1,24 @@
-# https://blog.codinghorror.com/a-tribute-to-the-windows-31-hot-dog-stand-color-scheme/
-
-name:     'Hot Dog Stand (Mustard)'
-author:   'Benjamin Reed (https://github.com/RangerRick/)' # 'Author Name (http://website.com)'
-variant:  'Light' # Dark or Light
-
-# Black           = #000000
-# Red             = #EA3323
-# Yellow          = #FFFF54
-# Grey            = #C6C6C6
-# Highlight/White = #FFFFFF
-# Shadow/Disabled = #848484
-
-color_01:   '#000000' # Black (Host)
-color_02:   '#EA3323' # Red (Syntax string)
-color_03:   '#EA3323' # Green (Command)
-color_04:   '#EA3323' # Yellow (Command second)
-color_05:   '#000000' # Blue (Path)
-color_06:   '#EA3323' # Magenta (Syntax var)
-color_07:   '#000000' # Cyan (Prompt)
-color_08:   '#C6C6C6' # White
-color_09:   '#000000' # Bright Black
-color_10:   '#EA3323' # Bright Red (Command error)
-color_11:   '#EA3323' # Bright Green (Exec)
-color_12:   '#EA3323' # Bright Yellow
-color_13:   '#000000' # Bright Blue (Folder)
-color_14:   '#EA3323' # Bright Magenta
-color_15:   '#000000' # Bright Cyan
-color_16:   '#C6C6C6' # Bright White
-
-background: '#FFFF54' # Background
-foreground: '#000000' # Foreground (Text)
-cursor:     '#EA3323' # Cursor
-
+name: Hot Dog Stand (Mustard)
+author: Benjamin Reed (https://github.com/RangerRick/)
+variant: Light
+color_01: '#000000'
+color_02: '#EA3323'
+color_03: '#EA3323'
+color_04: '#EA3323'
+color_05: '#000000'
+color_06: '#EA3323'
+color_07: '#000000'
+color_08: '#b9b9b9'
+color_09: '#000000'
+color_10: '#EA3323'
+color_11: '#EA3323'
+color_12: '#EA3323'
+color_13: '#000000'
+color_14: '#EA3323'
+color_15: '#000000'
+color_16: '#C6C6C6'
+background: '#FFFF54'
+foreground: '#000000'
+cursor: '#EA3323'
 selection_text: '#FFFFFF'
-selection:      '#EA3323'
+selection: '#EA3323'
