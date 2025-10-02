@@ -281,6 +281,28 @@ def adjust_colors_for_wcag(colors_dict: dict[str, Color], name: str) -> None:
                 )
                 colors_dict[color_name] = new_color
 
+    # Cursor Text Color against Cursor Color
+    if "Cursor Color" in colors_dict and "Cursor Text Color" in colors_dict:
+        cursor_bg_rgb = get_rgb_color(colors_dict["Cursor Color"])
+        cursor_text_color = colors_dict["Cursor Text Color"]
+        cursor_text_rgb = get_rgb_color(cursor_text_color)
+        old_ratio = contrast_ratio(cursor_text_rgb, cursor_bg_rgb)
+        if not passes_wcag(old_ratio, threshold):
+            suggested_fg_rgb = suggest_color(cursor_text_rgb, cursor_bg_rgb, threshold)
+            new_ratio = contrast_ratio(suggested_fg_rgb, cursor_bg_rgb)
+            new_color = Color(
+                round(suggested_fg_rgb[0] * 255),
+                round(suggested_fg_rgb[1] * 255),
+                round(suggested_fg_rgb[2] * 255),
+            )
+            old_rgb = (cursor_text_color.r, cursor_text_color.g, cursor_text_color.b)
+            new_rgb = (new_color.r, new_color.g, new_color.b)
+            print(
+                f"Adjusted Cursor Text Color in {name} from RGB{old_rgb} to RGB{new_rgb}: old ratio {old_ratio:.2f} -> new {new_ratio:.2f}",
+                file=sys.stderr,
+            )
+            colors_dict["Cursor Text Color"] = new_color
+
     # Selection: Selected Text Color against Selection Color
     if "Selection Color" in colors_dict and "Selected Text Color" in colors_dict:
         sel_bg_rgb = get_rgb_color(colors_dict["Selection Color"])
