@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Name:       Zissou: Belafonte (Day)
+    Author:     Jan T. Sott
+    License:    Creative Commons Attribution-ShareAlike 4.0 Unported License
+    URL:        https://github.com/idleberg/Zissou-iTerm2
+
+    Base16 template by for iTerm2 by Chris Kempson (https://github.com/chriskempson)
+
+-->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -32,11 +42,11 @@
 	<key>Ansi 11 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.18627450980392157</real>
+		<real>0.28627450980392155</real>
 		<key>Green Component</key>
-		<real>0.5470588235294117</real>
+		<real>0.6470588235294118</real>
 		<key>Red Component</key>
-		<real>0.8176470588235293</real>
+		<real>0.9176470588235294</real>
 	</dict>
 	<key>Ansi 12 Color</key>
 	<dict>
@@ -86,11 +96,11 @@
 	<key>Ansi 3 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.18627450980392157</real>
+		<real>0.28627450980392155</real>
 		<key>Green Component</key>
-		<real>0.5470588235294117</real>
+		<real>0.6470588235294118</real>
 		<key>Red Component</key>
-		<real>0.8176470588235293</real>
+		<real>0.9176470588235294</real>
 	</dict>
 	<key>Ansi 4 Color</key>
 	<dict>

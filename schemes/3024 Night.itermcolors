@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Name:       3024 night
+    Author:     Jan T. Sott (http://github.com/idleberg)
+
+    3024 color scheme by Jan T. Sott (https://github.com/idleberg)
+    Built with a modified version of Base16 Builder by Chris Kempson (https://github.com/chriskempson)
+
+-->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -23,11 +32,11 @@
 	<key>Ansi 10 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.24607843137254903</real>
+		<real>0.19607843137254902</real>
 		<key>Green Component</key>
-		<real>0.25392156862745097</real>
+		<real>0.20392156862745098</real>
 		<key>Red Component</key>
-		<real>0.2774509803921569</real>
+		<real>0.22745098039215686</real>
 	</dict>
 	<key>Ansi 11 Color</key>
 	<dict>

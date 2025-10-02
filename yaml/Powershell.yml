@@ -1,22 +1,27 @@
-name: Powershell
-author: ''
-variant: ''
-color_01: '#000000'
-color_02: '#971921'
-color_03: '#098003'
-color_04: '#C4A000'
-color_05: '#403fc2'
-color_06: '#D33682'
-color_07: '#0E807F'
-color_08: '#7F7C7F'
-color_09: '#808080'
-color_10: '#EF2929'
-color_11: '#1CFE3C'
-color_12: '#FEFE45'
-color_13: '#268AD2'
-color_14: '#FE13FA'
-color_15: '#29FFFE'
-color_16: '#C2C1C3'
-background: '#052454'
-foreground: '#F6F6F7'
-cursor: '#F6F6F7'
+---
+name: 'Powershell'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+variant: ''            # dark or light
+
+color_01: '#000000'    # Black (Host)
+color_02: '#7E0008'    # Red (Syntax string)
+color_03: '#098003'    # Green (Command)
+color_04: '#C4A000'    # Yellow (Command second)
+color_05: '#010083'    # Blue (Path)
+color_06: '#D33682'    # Magenta (Syntax var)
+color_07: '#0E807F'    # Cyan (Prompt)
+color_08: '#7F7C7F'    # White
+
+color_09: '#808080'    # Bright Black
+color_10: '#EF2929'    # Bright Red (Command error)
+color_11: '#1CFE3C'    # Bright Green (Exec)
+color_12: '#FEFE45'    # Bright Yellow
+color_13: '#268AD2'    # Bright Blue (Folder)
+color_14: '#FE13FA'    # Bright Magenta
+color_15: '#29FFFE'    # Bright Cyan
+color_16: '#C2C1C3'    # Bright White
+
+background: '#052454'  # Background
+foreground: '#F6F6F7'  # Foreground (Text)
+
+cursor: '#F6F6F7'      # Cursor
