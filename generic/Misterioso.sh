@@ -33,7 +33,7 @@ put_template 4  "33/8f/86"
 put_template 5  "94/14/e6"
 put_template 6  "23/d7/d7"
 put_template 7  "e1/e1/e0"
-put_template 8  "55/55/55"
+put_template 8  "62/62/62"
 put_template 9  "ff/32/42"
 put_template 10 "74/cd/68"
 put_template 11 "ff/b9/29"
@@ -52,7 +52,7 @@ if [ -n "$ITERM_SESSION_ID" ]; then
   put_template_custom Pi "000000"
   put_template_custom Pj "2d37ff"
   put_template_custom Pk "000000"
-  put_template_custom Pl "000000"
+  put_template_custom Pl "666666"
   put_template_custom Pm "ffffff"
 else
   put_template_var 10 $color_foreground

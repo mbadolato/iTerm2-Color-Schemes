@@ -3,15 +3,15 @@
 !
 *.foreground:  #fff0a5
 *.background:  #13773d
-*.cursorColor: #8c2800
+*.cursorColor: #d9744c
 !
 ! Black
 *.color0:      #000000
-*.color8:      #555555
+*.color8:      #959595
 !
 ! Red
-*.color1:      #bb0000
-*.color9:      #bb0000
+*.color1:      #ff5959
+*.color9:      #ff5959
 !
 ! Green
 *.color2:      #00bb00
@@ -26,7 +26,7 @@
 *.color12:     #0000bb
 !
 ! Magenta
-*.color5:      #950062
+*.color5:      #ee59bb
 *.color13:     #ff55ff
 !
 ! Cyan

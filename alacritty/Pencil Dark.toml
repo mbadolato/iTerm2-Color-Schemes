@@ -1,7 +1,7 @@
 # Colors (Pencil Dark)
 
 [colors.bright]
-black = '#424242'
+black = '#4f4f4f'
 blue = '#20bbfc'
 cyan = '#4fb8cc'
 green = '#5fd7af'
@@ -19,7 +19,7 @@ black = '#212121'
 blue = '#008ec4'
 cyan = '#20a5ba'
 green = '#10a778'
-magenta = '#523c79'
+magenta = '#5f4986'
 red = '#c30771'
 white = '#d9d9d9'
 yellow = '#a89c14'
@@ -30,4 +30,4 @@ foreground = '#f1f1f1'
 
 [colors.selection]
 background = '#b6d6fd'
-text = '#f1f1f1'
+text = '#989898'

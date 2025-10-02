@@ -1,15 +1,15 @@
 {
   "name": "Grass",
   "black": "#000000",
-  "red": "#bb0000",
+  "red": "#ff5959",
   "green": "#00bb00",
   "yellow": "#e7b000",
   "blue": "#0000a3",
-  "purple": "#950062",
+  "purple": "#ee59bb",
   "cyan": "#00bbbb",
   "white": "#bbbbbb",
-  "brightBlack": "#555555",
-  "brightRed": "#bb0000",
+  "brightBlack": "#959595",
+  "brightRed": "#ff5959",
   "brightGreen": "#00bb00",
   "brightYellow": "#e7b000",
   "brightBlue": "#0000bb",
@@ -18,6 +18,6 @@
   "brightWhite": "#ffffff",
   "background": "#13773d",
   "foreground": "#fff0a5",
-  "cursor": "#8c2800",
+  "cursor": "#d9744c",
   "selection": "#b64926"
 }

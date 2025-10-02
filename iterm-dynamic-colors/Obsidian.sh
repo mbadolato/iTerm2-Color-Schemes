@@ -1,7 +1,7 @@
 #!/bin/sh
 # Obsidian
 printf "\033]P0000000\033\\"
-printf "\033]P1a60001\033\\"
+printf "\033]P1b30d0e\033\\"
 printf "\033]P200bb00\033\\"
 printf "\033]P3fecd22\033\\"
 printf "\033]P43a9bdb\033\\"

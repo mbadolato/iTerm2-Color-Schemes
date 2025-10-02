@@ -1,12 +1,12 @@
 # Darkermatrix
 [colors]
-foreground = "#28380d"
+foreground = "#35451a"
 background = "#070c0e"
-cursor_bg = "#373a26"
-cursor_border = "#373a26"
+cursor_bg = "#444733"
+cursor_border = "#444733"
 cursor_fg = "#00ff87"
 selection_bg = "#0f191c"
 selection_fg = "#00ff87"
 
-ansi = ["#091013","#002e18","#6fa64c","#595900","#00cb6b","#412a4d","#125459","#002e19"]
-brights = ["#333333","#00381d","#90d762","#e2e500","#00ff87","#412a4d","#176c73","#00381e"]
+ansi = ["#091013","#1a4832","#6fa64c","#595900","#00cb6b","#4e375a","#125459","#1a4833"]
+brights = ["#404040","#0d452a","#90d762","#e2e500","#00ff87","#4e375a","#176c73","#00381e"]

@@ -3,12 +3,12 @@
 [colors.bright]
 black = '#666666'
 blue = '#0000ff'
-cyan = '#00e5e5'
-green = '#00d900'
+cyan = '#00cccc'
+green = '#00cc00'
 magenta = '#e500e5'
 red = '#e50000'
 white = '#e5e5e5'
-yellow = '#e5e500'
+yellow = '#b2b200'
 
 [colors.cursor]
 cursor = '#7f7f7f'
@@ -21,7 +21,7 @@ cyan = '#00a6b2'
 green = '#00a600'
 magenta = '#b200b2'
 red = '#cc0000'
-white = '#cccccc'
+white = '#b3b3b3'
 yellow = '#999900'
 
 [colors.primary]

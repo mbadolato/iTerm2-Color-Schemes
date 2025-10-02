@@ -5,5 +5,5 @@ name='Havn Daggry'
 cursor-color='#226c4f'
 foreground='#3b4a7a'
 background='rgba(248,249,251,.95)'
-palette='#1f2842:#985248:#577159:#be6b00:#3a577d:#7c5c97:#925780:#d6dbeb:#1f2842:#cc4a35:#719679:#feb234:#6089c0:#7d7396:#aa869d:#d6dbeb'
+palette='#1f2842:#985248:#577159:#be6b00:#3a577d:#7c5c97:#925780:#afb5c7:#1f2842:#cc4a35:#719679:#ffa100:#6089c0:#7d7396:#aa869d:#d6dbeb'
 COLORS

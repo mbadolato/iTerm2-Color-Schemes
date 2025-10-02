@@ -26,14 +26,14 @@ fi
 
 # 16 color space
 put_template 0  "08/00/2e"
-put_template 1  "64/00/2c"
+put_template 1  "7e/1a/46"
 put_template 2  "5d/73/1a"
 put_template 3  "cd/75/1c"
 put_template 4  "1d/6d/a1"
 put_template 5  "b7/07/7e"
 put_template 6  "42/a3/8c"
 put_template 7  "f3/e0/b8"
-put_template 8  "33/1e/4d"
+put_template 8  "4c/38/66"
 put_template 9  "d0/20/63"
 put_template 10 "b4/ce/59"
 put_template 11 "fa/c3/57"

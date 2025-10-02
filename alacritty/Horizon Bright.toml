@@ -3,26 +3,26 @@
 [colors.bright]
 black = '#1a1c24'
 blue = '#00c9e2'
-cyan = '#07e9e8'
-green = '#00dea0'
+cyan = '#00c7c3'
+green = '#00cc7b'
 magenta = '#ff6cba'
 red = '#fe5f87'
 white = '#fff2ef'
-yellow = '#ffc0a2'
+yellow = '#f1a383'
 
 [colors.cursor]
-cursor = '#f9cec3'
+cursor = '#dba69b'
 text = '#f9cec3'
 
 [colors.normal]
 black = '#16161d'
 blue = '#00bedd'
-cyan = '#00e7e5'
-green = '#00d793'
+cyan = '#00c8c1'
+green = '#00ce81'
 magenta = '#ff58b1'
 red = '#fc4777'
-white = '#ffefec'
-yellow = '#ffb38f'
+white = '#c3afac'
+yellow = '#ffa27b'
 
 [colors.primary]
 background = '#fdf0ed'

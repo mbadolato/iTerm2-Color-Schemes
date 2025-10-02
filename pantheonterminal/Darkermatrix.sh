@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Darkermatrix'
-cursor-color='#373a26'
-foreground='#28380d'
+cursor-color='#444733'
+foreground='#35451a'
 background='rgba(7,12,14,.95)'
-palette='#091013:#002e18:#6fa64c:#595900:#00cb6b:#412a4d:#125459:#002e19:#333333:#00381d:#90d762:#e2e500:#00ff87:#412a4d:#176c73:#00381e'
+palette='#091013:#1a4832:#6fa64c:#595900:#00cb6b:#4e375a:#125459:#1a4833:#404040:#0d452a:#90d762:#e2e500:#00ff87:#4e375a:#176c73:#00381e'
 COLORS

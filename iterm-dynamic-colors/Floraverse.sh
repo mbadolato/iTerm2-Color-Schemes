@@ -1,14 +1,14 @@
 #!/bin/sh
 # Floraverse
 printf "\033]P008002e\033\\"
-printf "\033]P164002c\033\\"
+printf "\033]P17e1a46\033\\"
 printf "\033]P25d731a\033\\"
 printf "\033]P3cd751c\033\\"
 printf "\033]P41d6da1\033\\"
 printf "\033]P5b7077e\033\\"
 printf "\033]P642a38c\033\\"
 printf "\033]P7f3e0b8\033\\"
-printf "\033]P8331e4d\033\\"
+printf "\033]P84c3866\033\\"
 printf "\033]P9d02063\033\\"
 printf "\033]Pab4ce59\033\\"
 printf "\033]Pbfac357\033\\"

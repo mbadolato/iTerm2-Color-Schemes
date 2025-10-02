@@ -1,17 +1,17 @@
 # Colors (Grass)
 
 [colors.bright]
-black = '#555555'
+black = '#959595'
 blue = '#0000bb'
 cyan = '#55ffff'
 green = '#00bb00'
 magenta = '#ff55ff'
-red = '#bb0000'
+red = '#ff5959'
 white = '#ffffff'
 yellow = '#e7b000'
 
 [colors.cursor]
-cursor = '#8c2800'
+cursor = '#d9744c'
 text = '#ffffff'
 
 [colors.normal]
@@ -19,8 +19,8 @@ black = '#000000'
 blue = '#0000a3'
 cyan = '#00bbbb'
 green = '#00bb00'
-magenta = '#950062'
-red = '#bb0000'
+magenta = '#ee59bb'
+red = '#ff5959'
 white = '#bbbbbb'
 yellow = '#e7b000'
 

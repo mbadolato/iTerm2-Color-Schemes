@@ -1,7 +1,7 @@
 #define Ansi_0_Color #000000
 #define Ansi_1_Color #f8282a
 #define Ansi_10_Color #2cc631
-#define Ansi_11_Color #fdd727
+#define Ansi_11_Color #e3bd0e
 #define Ansi_12_Color #1670ff
 #define Ansi_13_Color #e900b0
 #define Ansi_14_Color #3ad5ce
@@ -16,7 +16,7 @@
 #define Ansi_9_Color #fb0416
 #define Background_Color #ffffff
 #define Bold_Color #1a1a1a
-#define Cursor_Color #6fd3fc
+#define Cursor_Color #62c6ef
 #define Cursor_Text_Color #ffffff
 #define Foreground_Color #262626
 #define Selected_Text_Color #041730

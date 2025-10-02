@@ -1,10 +1,10 @@
 #!/bin/sh
 # Zenburn
 printf "\033]P04d4d4d\033\\"
-printf "\033]P1705050\033\\"
+printf "\033]P17d5d5d\033\\"
 printf "\033]P260b48a\033\\"
 printf "\033]P3f0dfaf\033\\"
-printf "\033]P4506070\033\\"
+printf "\033]P45d6d7d\033\\"
 printf "\033]P5dc8cc3\033\\"
 printf "\033]P68cd0d3\033\\"
 printf "\033]P7dcdccc\033\\"

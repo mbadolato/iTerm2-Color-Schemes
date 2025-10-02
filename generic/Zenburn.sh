@@ -26,10 +26,10 @@ fi
 
 # 16 color space
 put_template 0  "4d/4d/4d"
-put_template 1  "70/50/50"
+put_template 1  "7d/5d/5d"
 put_template 2  "60/b4/8a"
 put_template 3  "f0/df/af"
-put_template 4  "50/60/70"
+put_template 4  "5d/6d/7d"
 put_template 5  "dc/8c/c3"
 put_template 6  "8c/d0/d3"
 put_template 7  "dc/dc/cc"

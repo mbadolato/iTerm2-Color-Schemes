@@ -26,33 +26,33 @@ fi
 
 # 16 color space
 put_template 0  "09/10/13"
-put_template 1  "00/2e/18"
+put_template 1  "1a/48/32"
 put_template 2  "6f/a6/4c"
 put_template 3  "59/59/00"
 put_template 4  "00/cb/6b"
-put_template 5  "41/2a/4d"
+put_template 5  "4e/37/5a"
 put_template 6  "12/54/59"
-put_template 7  "00/2e/19"
-put_template 8  "33/33/33"
-put_template 9  "00/38/1d"
+put_template 7  "1a/48/33"
+put_template 8  "40/40/40"
+put_template 9  "0d/45/2a"
 put_template 10 "90/d7/62"
 put_template 11 "e2/e5/00"
 put_template 12 "00/ff/87"
-put_template 13 "41/2a/4d"
+put_template 13 "4e/37/5a"
 put_template 14 "17/6c/73"
 put_template 15 "00/38/1e"
 
-color_foreground="28/38/0d"
+color_foreground="35/45/1a"
 color_background="07/0c/0e"
 
 if [ -n "$ITERM_SESSION_ID" ]; then
   # iTerm2 proprietary escape codes
-  put_template_custom Pg "28380d"
+  put_template_custom Pg "35451a"
   put_template_custom Ph "070c0e"
   put_template_custom Pi "00cd6d"
   put_template_custom Pj "0f191c"
   put_template_custom Pk "00ff87"
-  put_template_custom Pl "373a26"
+  put_template_custom Pl "444733"
   put_template_custom Pm "00ff87"
 else
   put_template_var 10 $color_foreground

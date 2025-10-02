@@ -7,11 +7,11 @@
 !
 ! Black
 *.color0:      #000000
-*.color8:      #666666
+*.color8:      #808080
 !
 ! Red
-*.color1:      #990000
-*.color9:      #e50000
+*.color1:      #e64c4c
+*.color9:      #ff1a1a
 !
 ! Green
 *.color2:      #00a600
@@ -23,10 +23,10 @@
 !
 ! Blue
 *.color4:      #0000b2
-*.color12:     #0000ff
+*.color12:     #7373ff
 !
 ! Magenta
-*.color5:      #b200b2
+*.color5:      #d826d8
 *.color13:     #e500e5
 !
 ! Cyan

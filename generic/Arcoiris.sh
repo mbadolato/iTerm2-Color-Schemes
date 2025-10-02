@@ -52,7 +52,7 @@ if [ -n "$ITERM_SESSION_ID" ]; then
   put_template_custom Pi "ffffff"
   put_template_custom Pj "25524a"
   put_template_custom Pk "f3fffd"
-  put_template_custom Pl "7a1c1c"
+  put_template_custom Pl "872929"
   put_template_custom Pm "fffbf2"
 else
   put_template_var 10 $color_foreground

@@ -26,7 +26,7 @@ fi
 
 # 16 color space
 put_template 0  "18/18/18"
-put_template 1  "81/00/09"
+put_template 1  "8e/0d/16"
 put_template 2  "48/51/3b"
 put_template 3  "cc/8b/3f"
 put_template 4  "57/6d/8c"

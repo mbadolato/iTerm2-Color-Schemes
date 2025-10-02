@@ -12,7 +12,7 @@
 #define Ansi_5_Color #c0236f
 #define Ansi_6_Color #309186
 #define Ansi_7_Color #eae3ce
-#define Ansi_8_Color #092028
+#define Ansi_8_Color #496068
 #define Ansi_9_Color #d4605a
 #define Background_Color #292f33
 #define Badge_Color #ff0000
@@ -22,6 +22,6 @@
 #define Cursor_Text_Color #fefff2
 #define Foreground_Color #dbdae0
 #define Link_Color #0645ad
-#define Selected_Text_Color #ffffff
+#define Selected_Text_Color #8c8c8c
 #define Selection_Color #efb8ac
 #define Tab_Color #000000

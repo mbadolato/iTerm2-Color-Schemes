@@ -1,17 +1,17 @@
 # Colors (Darkermatrix)
 
 [colors.bright]
-black = '#333333'
+black = '#404040'
 blue = '#00ff87'
 cyan = '#176c73'
 green = '#90d762'
-magenta = '#412a4d'
-red = '#00381d'
+magenta = '#4e375a'
+red = '#0d452a'
 white = '#00381e'
 yellow = '#e2e500'
 
 [colors.cursor]
-cursor = '#373a26'
+cursor = '#444733'
 text = '#00ff87'
 
 [colors.normal]
@@ -19,14 +19,14 @@ black = '#091013'
 blue = '#00cb6b'
 cyan = '#125459'
 green = '#6fa64c'
-magenta = '#412a4d'
-red = '#002e18'
-white = '#002e19'
+magenta = '#4e375a'
+red = '#1a4832'
+white = '#1a4833'
 yellow = '#595900'
 
 [colors.primary]
 background = '#070c0e'
-foreground = '#28380d'
+foreground = '#35451a'
 
 [colors.selection]
 background = '#0f191c'

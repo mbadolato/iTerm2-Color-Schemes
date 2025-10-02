@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Django Smooth'
-cursor-color='#336442'
+cursor-color='#4c7e5c'
 foreground='#f8f8f8'
 background='rgba(36,80,50,.95)'
-palette='#000000:#fd6209:#41a83e:#ffe862:#989898:#f8f8f8:#9df39f:#e8e8e7:#323232:#ff943b:#73da70:#ffff94:#cacaca:#ffffff:#cfffd1:#ffffff'
+palette='#000000:#fd6209:#41a83e:#ffe862:#989898:#f8f8f8:#9df39f:#e8e8e7:#727272:#ff943b:#73da70:#ffff94:#cacaca:#ffffff:#cfffd1:#ffffff'
 COLORS

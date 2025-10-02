@@ -29,7 +29,7 @@
     },
     {
       "name": "CursorBackground",
-      "color": "#8c2800",
+      "color": "#d9744c",
       "terminalMapping": "cursorBackground"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "name": "Red",
-      "color": "#bb0000",
+      "color": "#ff5959",
       "terminalMapping": "ansiRed"
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "name": "Magenta",
-      "color": "#950062",
+      "color": "#ee59bb",
       "terminalMapping": "ansiMagenta"
     },
     {
@@ -74,12 +74,12 @@
     },
     {
       "name": "BrightBlack",
-      "color": "#555555",
+      "color": "#959595",
       "terminalMapping": "ansiBrightBlack"
     },
     {
       "name": "BrightRed",
-      "color": "#bb0000",
+      "color": "#ff5959",
       "terminalMapping": "ansiBrightRed"
     },
     {

@@ -1,7 +1,7 @@
 #!/bin/sh
 # Ciapre
 printf "\033]P0181818\033\\"
-printf "\033]P1810009\033\\"
+printf "\033]P18e0d16\033\\"
 printf "\033]P248513b\033\\"
 printf "\033]P3cc8b3f\033\\"
 printf "\033]P4576d8c\033\\"
