@@ -1160,6 +1160,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/seafoam-pastel.png)
 
+### Selenized Black
+
+![Screenshot](/screenshots/selenized-black.png)
+
 ### Selenized Dark
 
 ![Screenshot](/screenshots/selenized-dark.png)
