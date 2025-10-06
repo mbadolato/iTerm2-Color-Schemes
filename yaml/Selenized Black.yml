@@ -1,0 +1,34 @@
+---
+# https://github.com/jan-warchol/selenized/blob/master/manual-installation.md#using-selenized-palette
+# https://github.com/jan-warchol/selenized/blob/master/the-values.md#selenized-black
+name: "Selenized Black"
+author: 'Jan Warchoł (https://github.com/jan-warchol/selenized)'
+variant: 'Dark'
+
+color_01: "#252525"        # bg_1
+color_02: "#ed4a46"        # red
+color_03: "#70b433"        # green
+color_04: "#dbb32d"        # yellow
+color_05: "#368aeb"        # blue
+color_06: "#eb6eb7"        # magenta
+color_07: "#3fc5b7"        # cyan
+color_08: "#777777"        # dim_0
+
+color_09: "#3b3b3b"        # bg_2
+color_10: "#ff5e56"        # br_red
+color_11: "#83c746"        # br_green
+color_12: "#efc541"        # br_yellow
+color_13: "#4f9cfe"        # br_blue
+color_14: "#ff81ca"        # br_magenta
+color_15: "#56d8c9"        # br_cyan
+color_16: "#dedede"        # fg_1
+
+background: "#181818"      # bg_0
+foreground: "#b9b9b9"      # fg_0
+
+cursor: "#777777"          # dim_0
+cursor_text: "#181818"     # bg_0
+
+selection: "#3b3b3b"       # bg_2
+
+bold: "#dedede"            # fg_1
