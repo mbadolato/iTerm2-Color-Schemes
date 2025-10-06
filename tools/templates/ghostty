@@ -19,5 +19,7 @@ foreground = #{{ Foreground_Color.hex }}
 cursor-color = #{{ Cursor_Color.hex }}
 {% if Cursor_Text_Color %}cursor-text = #{{ Cursor_Text_Color.hex }}
 {% endif %}
+{% if Bold_Color %}bold-color = #{{ Bold_Color.hex }}
+{% endif %}
 selection-background = #{{ Selection_Color.hex }}
 selection-foreground = #{{ Selected_Text_Color.hex }}
