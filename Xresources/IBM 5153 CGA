@@ -1,43 +1,43 @@
 !
 ! IBM 5153 CGA
 !
-*.foreground:  #d6d6d6
-*.background:  #262626
-*.cursorColor: #d6d6d6
+*.foreground:  #cecece
+*.background:  #141414
+*.cursorColor: #cecece
 !
 ! Black
-*.color0:      #262626
+*.color0:      #141414
 *.color8:      #4e4e4e
 !
 ! Red
-*.color1:      #db3333
+*.color1:      #d03333
 *.color9:      #dc4e4e
 !
 ! Green
-*.color2:      #33db33
+*.color2:      #1bd01b
 *.color10:     #4edc4e
 !
 ! Yellow
-*.color3:      #db9833
+*.color3:      #d08c1b
 *.color11:     #f3f34e
 !
 ! Blue
-*.color4:      #3333db
+*.color4:      #1b1bd0
 *.color12:     #4e4edc
 !
 ! Magenta
-*.color5:      #db33db
+*.color5:      #d01bd0
 *.color13:     #f34ef3
 !
 ! Cyan
-*.color6:      #33dbdb
+*.color6:      #1bd0d0
 *.color14:     #4ef3f3
 !
 ! White
-*.color7:      #d6d6d6
+*.color7:      #cecece
 *.color15:     #ffffff
 !
 ! Bold, Italic, Underline
-*.colorBD:     #d6d6d6
+*.colorBD:     #cecece
 !*.colorIT:
 !*.colorUL:

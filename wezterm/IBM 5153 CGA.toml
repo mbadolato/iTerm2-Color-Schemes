@@ -1,12 +1,12 @@
 # IBM 5153 CGA
 [colors]
-foreground = "#d6d6d6"
-background = "#262626"
-cursor_bg = "#d6d6d6"
-cursor_border = "#d6d6d6"
-cursor_fg = "#969696"
-selection_bg = "#d6d6d6"
-selection_fg = "#262626"
+foreground = "#cecece"
+background = "#141414"
+cursor_bg = "#cecece"
+cursor_border = "#cecece"
+cursor_fg = "#9b9b9b"
+selection_bg = "#cecece"
+selection_fg = "#141414"
 
-ansi = ["#262626","#db3333","#33db33","#db9833","#3333db","#db33db","#33dbdb","#d6d6d6"]
+ansi = ["#141414","#d03333","#1bd01b","#d08c1b","#1b1bd0","#d01bd0","#1bd0d0","#cecece"]
 brights = ["#4e4e4e","#dc4e4e","#4edc4e","#f3f34e","#4e4edc","#f34ef3","#4ef3f3","#ffffff"]
