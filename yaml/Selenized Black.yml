@@ -1,5 +1,9 @@
 # https://github.com/jan-warchol/selenized/blob/master/manual-installation.md#using-selenized-palette
 # https://github.com/jan-warchol/selenized/blob/master/the-values.md#selenized-black
+#
+# to improve usability
+# re-map dim_0 to bright black
+# re-map fg_1 to white
 name: "Selenized Black"
 author: 'Jan Warchoł (https://github.com/jan-warchol/selenized)'
 variant: 'Dark'
@@ -11,9 +15,9 @@ color_04: "#dbb32d"        # yellow
 color_05: "#368aeb"        # blue
 color_06: "#eb6eb7"        # magenta
 color_07: "#3fc5b7"        # cyan
-color_08: "#777777"        # dim_0
+color_08: "#b9b9b9"        # dim_0->fg_0
 
-color_09: "#3b3b3b"        # bg_2
+color_09: "#777777"        # bg_2->dim_0
 color_10: "#ff5e56"        # br_red
 color_11: "#83c746"        # br_green
 color_12: "#efc541"        # br_yellow
