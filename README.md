@@ -1254,6 +1254,18 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/pnevma.png)
 
+### Poimandres Darker
+
+![Screenshot](/screenshots/poimandres-darker.png)
+
+### Poimandres Storm
+
+![Screenshot](/screenshots/poimandres-storm.png)
+
+### Poimandres
+
+![Screenshot](/screenshots/poimandres.png)
+
 ### Popping And Locking
 
 ![Screenshot](/screenshots/popping-and-locking.png)
@@ -1871,6 +1883,10 @@ The screenshots are categorized.
 ### Piatto Light
 
 ![Screenshot](/screenshots/piatto-light.png)
+
+### Poimandres White
+
+![Screenshot](/screenshots/poimandres-white.png)
 
 ### Primary
 
