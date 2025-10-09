@@ -1,14 +1,3 @@
-## Ghostty
-
-As of the release of Ghostty 1.2.0 the bundled themes have been updated. Some theme names have changed, popular examples:
-
-```
-catppuccin-mocha -> Catppuccin Mocha
-rose-pine -> Rose Pine
-```
-
-If you receieve a theme not found error on Ghostty startup, verify the new theme name with `ghostty +list-themes`.
-
 # iTerm Color Schemes
 
 - [Intro](#intro)
@@ -130,7 +119,7 @@ Have a great theme? Send it to me via a Pull Request!
 
 #### Have a theme in another format?
 
-1. Convert it to the YAML format specified in `yaml/README.md`.
+1. Convert it to the YAML format specified in [yaml/README.md](/yaml/README.md).
    This is an extension of the format supported by the [Gogh](https://github.com/Gogh-Co/Gogh/) project.
    - If it helps, you can use `tools/kitty_to_yaml.py` and `tools/ghostty_to_yaml.py`.
      These tools accept configuration file streamed into stdin, and output a YAML fragment to stdout.
