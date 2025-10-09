@@ -1,0 +1,33 @@
+# Colors (Poimandres Storm)
+
+[colors.bright]
+black = '#a6accd'
+blue = '#add7ff'
+cyan = '#add7ff'
+green = '#5de4c7'
+magenta = '#f087bd'
+red = '#d0679d'
+white = '#ffffff'
+yellow = '#fffac2'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#252b37'
+
+[colors.normal]
+black = '#252b37'
+blue = '#89ddff'
+cyan = '#89ddff'
+green = '#5de4c7'
+magenta = '#f087bd'
+red = '#d0679d'
+white = '#ffffff'
+yellow = '#fffac2'
+
+[colors.primary]
+background = '#252b37'
+foreground = '#a6accd'
+
+[colors.selection]
+background = '#28344a'
+text = '#ffffff'

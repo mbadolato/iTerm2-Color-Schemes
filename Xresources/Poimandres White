@@ -1,0 +1,43 @@
+!
+! Poimandres White
+!
+*.foreground:  #969cbd
+*.background:  #fefeff
+*.cursorColor: #969cbd
+!
+! Black
+*.color0:      #fefeff
+*.color8:      #969cbd
+!
+! Red
+*.color1:      #ff2090
+*.color9:      #ff2090
+!
+! Green
+*.color2:      #01dab2
+*.color10:     #01dab2
+!
+! Yellow
+*.color3:      #e5ba4e
+*.color11:     #e5ba4e
+!
+! Blue
+*.color4:      #8abacd
+*.color12:     #0ebfff
+!
+! Magenta
+*.color5:      #eb8394
+*.color13:     #eb8394
+!
+! Cyan
+*.color6:      #8abacd
+*.color14:     #0ebfff
+!
+! White
+*.color7:      #000000
+*.color15:     #000000
+!
+! Bold, Italic, Underline
+*.colorBD:     #969cbd
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (Poimandres)
+
+[colors.bright]
+black = '#a6accd'
+blue = '#add7ff'
+cyan = '#89ddff'
+green = '#5de4c7'
+magenta = '#fae4fc'
+red = '#d0679d'
+white = '#ffffff'
+yellow = '#fffac2'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#1a1e29'
+
+[colors.normal]
+black = '#1a1e28'
+blue = '#89ddff'
+cyan = '#add7ff'
+green = '#5de4c7'
+magenta = '#fcc5e9'
+red = '#d0679d'
+white = '#ffffff'
+yellow = '#fffac2'
+
+[colors.primary]
+background = '#1a1e28'
+foreground = '#a6accd'
+
+[colors.selection]
+background = '#28344a'
+text = '#ffffff'

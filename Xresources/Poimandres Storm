@@ -1,0 +1,43 @@
+!
+! Poimandres Storm
+!
+*.foreground:  #a6accd
+*.background:  #252b37
+*.cursorColor: #ffffff
+!
+! Black
+*.color0:      #252b37
+*.color8:      #a6accd
+!
+! Red
+*.color1:      #d0679d
+*.color9:      #d0679d
+!
+! Green
+*.color2:      #5de4c7
+*.color10:     #5de4c7
+!
+! Yellow
+*.color3:      #fffac2
+*.color11:     #fffac2
+!
+! Blue
+*.color4:      #89ddff
+*.color12:     #add7ff
+!
+! Magenta
+*.color5:      #f087bd
+*.color13:     #f087bd
+!
+! Cyan
+*.color6:      #89ddff
+*.color14:     #add7ff
+!
+! White
+*.color7:      #ffffff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #a6accd
+!*.colorIT:
+!*.colorUL:
