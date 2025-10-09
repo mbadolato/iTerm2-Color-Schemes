@@ -1,0 +1,43 @@
+!
+! Poimandres Darker
+!
+*.foreground:  #a6accd
+*.background:  #16161e
+*.cursorColor: #ffffff
+!
+! Black
+*.color0:      #16161e
+*.color8:      #a6accd
+!
+! Red
+*.color1:      #d0679d
+*.color9:      #d0679d
+!
+! Green
+*.color2:      #5de4c7
+*.color10:     #5de4c7
+!
+! Yellow
+*.color3:      #fffac2
+*.color11:     #fffac2
+!
+! Blue
+*.color4:      #89ddff
+*.color12:     #add7ff
+!
+! Magenta
+*.color5:      #fcc5e9
+*.color13:     #fae4fc
+!
+! Cyan
+*.color6:      #add7ff
+*.color14:     #89ddff
+!
+! White
+*.color7:      #ffffff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #a6accd
+!*.colorIT:
+!*.colorUL:

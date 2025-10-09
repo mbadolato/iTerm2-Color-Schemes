@@ -1,0 +1,12 @@
+# Poimandres White
+[colors]
+foreground = "#969cbd"
+background = "#fefeff"
+cursor_bg = "#969cbd"
+cursor_border = "#969cbd"
+cursor_fg = "#fefeff"
+selection_bg = "#c0d0df"
+selection_fg = "#3b3e48"
+
+ansi = ["#fefeff","#ff2090","#01dab2","#e5ba4e","#8abacd","#eb8394","#8abacd","#000000"]
+brights = ["#969cbd","#ff2090","#01dab2","#e5ba4e","#0ebfff","#eb8394","#0ebfff","#000000"]

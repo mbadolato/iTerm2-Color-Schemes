@@ -1,0 +1,12 @@
+# Poimandres
+[colors]
+foreground = "#a6accd"
+background = "#1a1e28"
+cursor_bg = "#ffffff"
+cursor_border = "#ffffff"
+cursor_fg = "#1a1e29"
+selection_bg = "#28344a"
+selection_fg = "#ffffff"
+
+ansi = ["#1a1e28","#d0679d","#5de4c7","#fffac2","#89ddff","#fcc5e9","#add7ff","#ffffff"]
+brights = ["#a6accd","#d0679d","#5de4c7","#fffac2","#add7ff","#fae4fc","#89ddff","#ffffff"]

@@ -1,0 +1,117 @@
+{
+  "userInterface": false,
+  "terminal": true,
+  "colors": [
+    {
+      "name": "Foreground",
+      "color": "#a6accd",
+      "terminalMapping": "foreground"
+    },
+    {
+      "name": "BoldForeground",
+      "color": "#a6accd",
+      "terminalMapping": "boldforeground"
+    },
+    {
+      "name": "Background",
+      "color": "#1a1e28",
+      "terminalMapping": "background"
+    },
+    {
+      "name": "BoldBackground",
+      "color": "#1a1e28",
+      "terminalMapping": "boldbackground"
+    },
+    {
+      "name": "CursorForeground",
+      "color": "#1a1e29",
+      "terminalMapping": "cursorForeground"
+    },
+    {
+      "name": "CursorBackground",
+      "color": "#ffffff",
+      "terminalMapping": "cursorBackground"
+    },
+    {
+      "name": "Black",
+      "color": "#1a1e28",
+      "terminalMapping": "ansiBlack"
+    },
+    {
+      "name": "Red",
+      "color": "#d0679d",
+      "terminalMapping": "ansiRed"
+    },
+    {
+      "name": "Green",
+      "color": "#5de4c7",
+      "terminalMapping": "ansiGreen"
+    },
+    {
+      "name": "Yellow",
+      "color": "#fffac2",
+      "terminalMapping": "ansiYellow"
+    },
+    {
+      "name": "Blue",
+      "color": "#89ddff",
+      "terminalMapping": "ansiBlue"
+    },
+    {
+      "name": "Magenta",
+      "color": "#fcc5e9",
+      "terminalMapping": "ansiMagenta"
+    },
+    {
+      "name": "Cyan",
+      "color": "#add7ff",
+      "terminalMapping": "ansiCyan"
+    },
+    {
+      "name": "White",
+      "color": "#ffffff",
+      "terminalMapping": "ansiWhite"
+    },
+    {
+      "name": "BrightBlack",
+      "color": "#a6accd",
+      "terminalMapping": "ansiBrightBlack"
+    },
+    {
+      "name": "BrightRed",
+      "color": "#d0679d",
+      "terminalMapping": "ansiBrightRed"
+    },
+    {
+      "name": "BrightGreen",
+      "color": "#5de4c7",
+      "terminalMapping": "ansiBrightGreen"
+    },
+    {
+      "name": "BrightYellow",
+      "color": "#fffac2",
+      "terminalMapping": "ansiBrightYellow"
+    },
+    {
+      "name": "BrightBlue",
+      "color": "#add7ff",
+      "terminalMapping": "ansiBrightBlue"
+    },
+    {
+      "name": "BrightMagenta",
+      "color": "#fae4fc",
+      "terminalMapping": "ansiBrightMagenta"
+    },
+    {
+      "name": "BrightCyan",
+      "color": "#89ddff",
+      "terminalMapping": "ansiBrightCyan"
+    },
+    {
+      "name": "BrightWhite",
+      "color": "#ffffff",
+      "terminalMapping": "ansiBrightWhite"
+    }
+  ],
+  "paletteName": "Poimandres"
+}

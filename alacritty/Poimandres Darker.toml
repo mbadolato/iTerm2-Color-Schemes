@@ -1,0 +1,33 @@
+# Colors (Poimandres Darker)
+
+[colors.bright]
+black = '#a6accd'
+blue = '#add7ff'
+cyan = '#89ddff'
+green = '#5de4c7'
+magenta = '#fae4fc'
+red = '#d0679d'
+white = '#ffffff'
+yellow = '#fffac2'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#16161e'
+
+[colors.normal]
+black = '#16161e'
+blue = '#89ddff'
+cyan = '#add7ff'
+green = '#5de4c7'
+magenta = '#fcc5e9'
+red = '#d0679d'
+white = '#ffffff'
+yellow = '#fffac2'
+
+[colors.primary]
+background = '#16161e'
+foreground = '#a6accd'
+
+[colors.selection]
+background = '#28344a'
+text = '#ffffff'
