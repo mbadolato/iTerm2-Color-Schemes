@@ -3,7 +3,7 @@ tags = ["dark"]
 [theme.colors]
 background = "#141414"
 foreground = "#bab7b6"
-bright-foreground = "#d3d8d9"
+bright-foreground = "#dee3e4"
 
 [theme.colors.palette]
 0 = "#000000"
@@ -21,4 +21,4 @@ bright-foreground = "#d3d8d9"
 12 = "#688dfd"
 13 = "#ed6fe9"
 14 = "#32e0fb"
-15 = "#d3d8d9"
+15 = "#dee3e4"

@@ -40,7 +40,7 @@ put_template 11 "fc/cd/1a"
 put_template 12 "68/8d/fd"
 put_template 13 "ed/6f/e9"
 put_template 14 "32/e0/fb"
-put_template 15 "d3/d8/d9"
+put_template 15 "de/e3/e4"
 
 color_foreground="ba/b7/b6"
 color_background="14/14/14"
@@ -49,7 +49,7 @@ if [ -n "$ITERM_SESSION_ID" ]; then
   # iTerm2 proprietary escape codes
   put_template_custom Pg "bab7b6"
   put_template_custom Ph "141414"
-  put_template_custom Pi "d3d8d9"
+  put_template_custom Pi "dee3e4"
   put_template_custom Pj "8db8e5"
   put_template_custom Pk "141414"
   put_template_custom Pl "37e57b"
