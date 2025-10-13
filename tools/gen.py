@@ -411,7 +411,7 @@ yaml_to_iterm_color_name_map = {
 
 fallback_color_map = {
     "Cursor Guide Color": "Cursor Color",
-    "Cursor Text Color": "Foreground Color",
+    "Cursor Text Color": "Background Color",
     "Selected Text Color": "Background Color",
     "Selection Color": "Foreground Color",
     "Bold Color": "Foreground Color",
