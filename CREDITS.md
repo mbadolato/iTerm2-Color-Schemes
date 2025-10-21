@@ -461,7 +461,7 @@ The Under The Sea theme was created by [peterpme](https://github.com/peterpme)
 
 The Unikitty theme was created by [jakebathman](https://github.com/jakebathman)
 
-The Vague theme was created by [vague2k](https://github.com/vague2k) and ported to iTerm2 by [carldaws](https://github.com/carldaws)
+The Vague theme was created by [vague2k](https://github.com/vague2k) and ported to iTerm2 by [skewb1k](https://github.com/skewb1k)
 
 The Vesper theme was originally created by [raunofreiberg](https://github.com/raunofreiberg) for VSCode, ported to iTerm2 by [geoffreybrunet](https://github.com/GeoffreyBrunet) and added by [ubmit](https://github.com/ubmit)
 
