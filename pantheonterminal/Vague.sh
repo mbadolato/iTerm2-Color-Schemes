@@ -5,5 +5,5 @@ name='Vague'
 cursor-color='#cdcdcd'
 foreground='#cdcdcd'
 background='rgba(20,20,21,.95)'
-palette='#141415:#df6882:#8cb66d:#f3be7c:#7e98e8:#c3c3d5:#9bb4bc:#cdcdcd:#878787:#df6882:#8cb66d:#f3be7c:#7e98e8:#c3c3d5:#9bb4bc:#cdcdcd'
+palette='#252530:#d8647e:#7fa563:#f3be7c:#6e94b2:#bb9dbd:#aeaed1:#cdcdcd:#606079:#e08398:#99b782:#f5cb96:#8ba9c1:#c9b1ca:#bebeda:#d7d7d7'
 COLORS
