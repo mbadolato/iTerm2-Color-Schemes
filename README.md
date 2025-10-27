@@ -1162,6 +1162,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/niji.png)
 
+### No Clown Fiesta
+
+![Screenshot](/screenshots/no-clown-fiesta.png)
+
 ### Nocturnal Winter
 
 ![Screenshot](/screenshots/nocturnal-winter.png)
@@ -1855,6 +1859,10 @@ The screenshots are categorized.
 ### Night Owlish Light
 
 ![Screenshot](/screenshots/night-owlish-light.png)
+
+### No Clown Fiesta Light
+
+![Screenshot](/screenshots/no-clown-fiesta-light.png)
 
 ### Nord Light
 

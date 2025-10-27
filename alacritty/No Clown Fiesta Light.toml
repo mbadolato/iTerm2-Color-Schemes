@@ -1,0 +1,33 @@
+# Colors (No Clown Fiesta Light)
+
+[colors.bright]
+black = '#2b2b2b'
+blue = '#93a2ab'
+cyan = '#99ab93'
+green = '#677940'
+magenta = '#aa759f'
+red = '#637786'
+white = '#373737'
+yellow = '#b89058'
+
+[colors.cursor]
+cursor = '#151515'
+text = '#d0d0d0'
+
+[colors.normal]
+black = '#d6d6d6'
+blue = '#8ba1bf'
+cyan = '#3e5f66'
+green = '#677940'
+magenta = '#aa759f'
+red = '#874e42'
+white = '#151515'
+yellow = '#b89058'
+
+[colors.primary]
+background = '#e1e1e1'
+foreground = '#151515'
+
+[colors.selection]
+background = '#c6d5de'
+text = '#151515'

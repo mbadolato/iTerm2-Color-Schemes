@@ -1,0 +1,43 @@
+!
+! No Clown Fiesta Light
+!
+*.foreground:  #151515
+*.background:  #e1e1e1
+*.cursorColor: #151515
+!
+! Black
+*.color0:      #d6d6d6
+*.color8:      #2b2b2b
+!
+! Red
+*.color1:      #874e42
+*.color9:      #637786
+!
+! Green
+*.color2:      #677940
+*.color10:     #677940
+!
+! Yellow
+*.color3:      #b89058
+*.color11:     #b89058
+!
+! Blue
+*.color4:      #8ba1bf
+*.color12:     #93a2ab
+!
+! Magenta
+*.color5:      #aa759f
+*.color13:     #aa759f
+!
+! Cyan
+*.color6:      #3e5f66
+*.color14:     #99ab93
+!
+! White
+*.color7:      #151515
+*.color15:     #373737
+!
+! Bold, Italic, Underline
+*.colorBD:     #151515
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,43 @@
+!
+! No Clown Fiesta
+!
+*.foreground:  #e0e1e4
+*.background:  #101010
+*.cursorColor: #e0e1e4
+!
+! Black
+*.color0:      #151515
+*.color8:      #727272
+!
+! Red
+*.color1:      #b46958
+*.color9:      #7e97ab
+!
+! Green
+*.color2:      #90a959
+*.color10:     #90a959
+!
+! Yellow
+*.color3:      #f4bf75
+*.color11:     #f4bf75
+!
+! Blue
+*.color4:      #bad7ff
+*.color12:     #bad7ff
+!
+! Magenta
+*.color5:      #aa759f
+*.color13:     #aa759f
+!
+! Cyan
+*.color6:      #88afa2
+*.color14:     #88afa2
+!
+! White
+*.color7:      #e1e1e1
+*.color15:     #afafaf
+!
+! Bold, Italic, Underline
+*.colorBD:     #e0e1e4
+!*.colorIT:
+!*.colorUL:
