@@ -1,0 +1,33 @@
+# Colors (traffic)
+
+[colors.bright]
+black = '#4e575e'
+blue = '#515e67'
+cyan = '#5c6f7d'
+green = '#637270'
+magenta = '#715f5e'
+red = '#934e46'
+white = '#ddcec2'
+yellow = '#c79e84'
+
+[colors.cursor]
+cursor = '#cfb9a8'
+text = '#272c30'
+
+[colors.normal]
+black = '#282d31'
+blue = '#515e67'
+cyan = '#5c6f7d'
+green = '#637268'
+magenta = '#715f5e'
+red = '#934e46'
+white = '#cfb9a8'
+yellow = '#c79e84'
+
+[colors.primary]
+background = '#272c30'
+foreground = '#cfb9a8'
+
+[colors.selection]
+background = '#272c30'
+text = '#cfb9a8'

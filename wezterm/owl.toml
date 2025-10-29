@@ -1,0 +1,12 @@
+# owl
+[colors]
+foreground = "#dedede"
+background = "#2f2b2c"
+cursor_bg = "#dedede"
+cursor_border = "#dedede"
+cursor_fg = "#2f2b2c"
+selection_bg = "#2f2b2c"
+selection_fg = "#dedede"
+
+ansi = ["#302c2c","#5a5a5a","#989898","#cacaca","#656565","#b1b1b1","#7f7f7f","#dedede"]
+brights = ["#5d595b","#da5b2c","#989898","#cacaca","#656565","#b1b1b1","#7f7f7f","#ffffff"]

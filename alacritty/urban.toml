@@ -1,0 +1,33 @@
+# Colors (urban)
+
+[colors.bright]
+black = '#5c5865'
+blue = '#615772'
+cyan = '#625464'
+green = '#74934e'
+magenta = '#854b64'
+red = '#87404f'
+white = '#c0a79a'
+yellow = '#ae835a'
+
+[colors.cursor]
+cursor = '#c0a79a'
+text = '#312e39'
+
+[colors.normal]
+black = '#33303b'
+blue = '#615772'
+cyan = '#625464'
+green = '#74934e'
+magenta = '#854b64'
+red = '#87404f'
+white = '#c0a79a'
+yellow = '#ae835a'
+
+[colors.primary]
+background = '#312e39'
+foreground = '#c0a79a'
+
+[colors.selection]
+background = '#312e39'
+text = '#c0a79a'

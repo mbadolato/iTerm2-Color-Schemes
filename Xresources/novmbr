@@ -1,0 +1,43 @@
+!
+! novmbr
+!
+*.foreground:  #c7b8ac
+*.background:  #241d1a
+*.cursorColor: #c7b8ac
+!
+! Black
+*.color0:      #282a2e
+*.color8:      #5d4e47
+!
+! Red
+*.color1:      #9f6434
+*.color9:      #9f6434
+!
+! Green
+*.color2:      #9dac5f
+*.color10:     #9dac5f
+!
+! Yellow
+*.color3:      #cca75f
+*.color11:     #cca75f
+!
+! Blue
+*.color4:      #2f7d7c
+*.color12:     #2f7d7c
+!
+! Magenta
+*.color5:      #b5896e
+*.color13:     #b5896e
+!
+! Cyan
+*.color6:      #52877f
+*.color14:     #52877f
+!
+! White
+*.color7:      #c7b8ac
+*.color15:     #c7b8ac
+!
+! Bold, Italic, Underline
+*.colorBD:     #c7b8ac
+!*.colorIT:
+!*.colorUL:

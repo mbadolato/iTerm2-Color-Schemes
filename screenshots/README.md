@@ -192,6 +192,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/box.png)
 
+### branch
+
+![Screenshot](/screenshots/branch.png)
+
 ### Breeze
 
 ![Screenshot](/screenshots/breeze.png)
@@ -988,6 +992,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/nordfox.png)
 
+### novmbr
+
+![Screenshot](/screenshots/novmbr.png)
+
 ### Nvim Dark
 
 ![Screenshot](/screenshots/nvim-dark.png)
@@ -1027,6 +1035,10 @@ The screenshots are categorized.
 ### Overnight Slumber
 
 ![Screenshot](/screenshots/overnight-slumber.png)
+
+### owl
+
+![Screenshot](/screenshots/owl.png)
 
 ### Oxocarbon
 
@@ -1380,6 +1392,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/toy-chest.png)
 
+### traffic
+
+![Screenshot](/screenshots/traffic.png)
+
 ### Treehouse
 
 ![Screenshot](/screenshots/treehouse.png)
@@ -1403,6 +1419,10 @@ The screenshots are categorized.
 ### Under The Sea
 
 ![Screenshot](/screenshots/under-the-sea.png)
+
+### urban
+
+![Screenshot](/screenshots/urban.png)
 
 ### Urple
 

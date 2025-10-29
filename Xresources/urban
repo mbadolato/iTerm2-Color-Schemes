@@ -1,0 +1,43 @@
+!
+! urban
+!
+*.foreground:  #c0a79a
+*.background:  #312e39
+*.cursorColor: #c0a79a
+!
+! Black
+*.color0:      #33303b
+*.color8:      #5c5865
+!
+! Red
+*.color1:      #87404f
+*.color9:      #87404f
+!
+! Green
+*.color2:      #74934e
+*.color10:     #74934e
+!
+! Yellow
+*.color3:      #ae835a
+*.color11:     #ae835a
+!
+! Blue
+*.color4:      #615772
+*.color12:     #615772
+!
+! Magenta
+*.color5:      #854b64
+*.color13:     #854b64
+!
+! Cyan
+*.color6:      #625464
+*.color14:     #625464
+!
+! White
+*.color7:      #c0a79a
+*.color15:     #c0a79a
+!
+! Bold, Italic, Underline
+*.colorBD:     #c0a79a
+!*.colorIT:
+!*.colorUL:
