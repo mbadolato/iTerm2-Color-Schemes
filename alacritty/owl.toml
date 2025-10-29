@@ -1,0 +1,33 @@
+# Colors (owl)
+
+[colors.bright]
+black = '#5d595b'
+blue = '#656565'
+cyan = '#7f7f7f'
+green = '#989898'
+magenta = '#b1b1b1'
+red = '#da5b2c'
+white = '#ffffff'
+yellow = '#cacaca'
+
+[colors.cursor]
+cursor = '#dedede'
+text = '#2f2b2c'
+
+[colors.normal]
+black = '#302c2c'
+blue = '#656565'
+cyan = '#7f7f7f'
+green = '#989898'
+magenta = '#b1b1b1'
+red = '#5a5a5a'
+white = '#dedede'
+yellow = '#cacaca'
+
+[colors.primary]
+background = '#2f2b2c'
+foreground = '#dedede'
+
+[colors.selection]
+background = '#2f2b2c'
+text = '#dedede'

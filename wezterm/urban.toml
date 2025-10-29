@@ -1,0 +1,12 @@
+# urban
+[colors]
+foreground = "#c0a79a"
+background = "#312e39"
+cursor_bg = "#c0a79a"
+cursor_border = "#c0a79a"
+cursor_fg = "#312e39"
+selection_bg = "#312e39"
+selection_fg = "#c0a79a"
+
+ansi = ["#33303b","#87404f","#74934e","#ae835a","#615772","#854b64","#625464","#c0a79a"]
+brights = ["#5c5865","#87404f","#74934e","#ae835a","#615772","#854b64","#625464","#c0a79a"]

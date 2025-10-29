@@ -1,0 +1,43 @@
+!
+! traffic
+!
+*.foreground:  #cfb9a8
+*.background:  #272c30
+*.cursorColor: #cfb9a8
+!
+! Black
+*.color0:      #282d31
+*.color8:      #4e575e
+!
+! Red
+*.color1:      #934e46
+*.color9:      #934e46
+!
+! Green
+*.color2:      #637268
+*.color10:     #637270
+!
+! Yellow
+*.color3:      #c79e84
+*.color11:     #c79e84
+!
+! Blue
+*.color4:      #515e67
+*.color12:     #515e67
+!
+! Magenta
+*.color5:      #715f5e
+*.color13:     #715f5e
+!
+! Cyan
+*.color6:      #5c6f7d
+*.color14:     #5c6f7d
+!
+! White
+*.color7:      #cfb9a8
+*.color15:     #ddcec2
+!
+! Bold, Italic, Underline
+*.colorBD:     #cfb9a8
+!*.colorIT:
+!*.colorUL:

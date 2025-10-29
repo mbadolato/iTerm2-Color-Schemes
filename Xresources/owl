@@ -1,0 +1,43 @@
+!
+! owl
+!
+*.foreground:  #dedede
+*.background:  #2f2b2c
+*.cursorColor: #dedede
+!
+! Black
+*.color0:      #302c2c
+*.color8:      #5d595b
+!
+! Red
+*.color1:      #5a5a5a
+*.color9:      #da5b2c
+!
+! Green
+*.color2:      #989898
+*.color10:     #989898
+!
+! Yellow
+*.color3:      #cacaca
+*.color11:     #cacaca
+!
+! Blue
+*.color4:      #656565
+*.color12:     #656565
+!
+! Magenta
+*.color5:      #b1b1b1
+*.color13:     #b1b1b1
+!
+! Cyan
+*.color6:      #7f7f7f
+*.color14:     #7f7f7f
+!
+! White
+*.color7:      #dedede
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #dedede
+!*.colorIT:
+!*.colorUL:

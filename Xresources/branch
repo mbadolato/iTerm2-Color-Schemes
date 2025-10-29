@@ -1,0 +1,43 @@
+!
+! branch
+!
+*.foreground:  #cfc1a9
+*.background:  #32221a
+*.cursorColor: #cfc1a9
+!
+! Black
+*.color0:      #35241c
+*.color8:      #564a45
+!
+! Red
+*.color1:      #c2562d
+*.color9:      #c2562d
+!
+! Green
+*.color2:      #96a65e
+*.color10:     #96a65e
+!
+! Yellow
+*.color3:      #d29b5a
+*.color11:     #d29b5a
+!
+! Blue
+*.color4:      #3b8e8c
+*.color12:     #3b8e8c
+!
+! Magenta
+*.color5:      #c47e5b
+*.color13:     #c47e5b
+!
+! Cyan
+*.color6:      #639a90
+*.color14:     #639a90
+!
+! White
+*.color7:      #cfc1a9
+*.color15:     #cfc1a9
+!
+! Bold, Italic, Underline
+*.colorBD:     #cfc1a9
+!*.colorIT:
+!*.colorUL:

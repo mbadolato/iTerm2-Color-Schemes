@@ -1,0 +1,12 @@
+# novmbr
+[colors]
+foreground = "#c7b8ac"
+background = "#241d1a"
+cursor_bg = "#c7b8ac"
+cursor_border = "#c7b8ac"
+cursor_fg = "#241d1a"
+selection_bg = "#241d1a"
+selection_fg = "#c7b8ac"
+
+ansi = ["#282a2e","#9f6434","#9dac5f","#cca75f","#2f7d7c","#b5896e","#52877f","#c7b8ac"]
+brights = ["#5d4e47","#9f6434","#9dac5f","#cca75f","#2f7d7c","#b5896e","#52877f","#c7b8ac"]

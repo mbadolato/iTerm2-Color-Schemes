@@ -1,0 +1,33 @@
+# Colors (novmbr)
+
+[colors.bright]
+black = '#5d4e47'
+blue = '#2f7d7c'
+cyan = '#52877f'
+green = '#9dac5f'
+magenta = '#b5896e'
+red = '#9f6434'
+white = '#c7b8ac'
+yellow = '#cca75f'
+
+[colors.cursor]
+cursor = '#c7b8ac'
+text = '#241d1a'
+
+[colors.normal]
+black = '#282a2e'
+blue = '#2f7d7c'
+cyan = '#52877f'
+green = '#9dac5f'
+magenta = '#b5896e'
+red = '#9f6434'
+white = '#c7b8ac'
+yellow = '#cca75f'
+
+[colors.primary]
+background = '#241d1a'
+foreground = '#c7b8ac'
+
+[colors.selection]
+background = '#241d1a'
+text = '#c7b8ac'

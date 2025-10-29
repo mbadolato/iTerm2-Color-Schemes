@@ -1,0 +1,33 @@
+# Colors (branch)
+
+[colors.bright]
+black = '#564a45'
+blue = '#3b8e8c'
+cyan = '#639a90'
+green = '#96a65e'
+magenta = '#c47e5b'
+red = '#c2562d'
+white = '#cfc1a9'
+yellow = '#d29b5a'
+
+[colors.cursor]
+cursor = '#cfc1a9'
+text = '#32221a'
+
+[colors.normal]
+black = '#35241c'
+blue = '#3b8e8c'
+cyan = '#639a90'
+green = '#96a65e'
+magenta = '#c47e5b'
+red = '#c2562d'
+white = '#cfc1a9'
+yellow = '#d29b5a'
+
+[colors.primary]
+background = '#32221a'
+foreground = '#cfc1a9'
+
+[colors.selection]
+background = '#32221a'
+text = '#cfc1a9'
