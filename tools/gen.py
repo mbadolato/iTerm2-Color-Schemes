@@ -347,11 +347,16 @@ class Theme:
         color = self.colors["Background Color"]
         return (0.2126 * color.r + 0.7152 * color.g + 0.0722 * color.b) < 127
 
+    @cached_property
+    def dashed_name(self) -> str:
+        return self.name.replace(" ", "-")
+
     def to_dict(self) -> dict[str, Any]:
         return {
             **{key.replace(" ", "_"): color for key, color in self.colors.items()},
             "colors": self.colors,
             "scheme_name": self.name,
+            "scheme_name_dashed": self.dashed_name,
             "Dark_Theme": self.dark_theme,
             "Guint16_Palette": self.guint16_palette,
             "author": self.author,
@@ -472,7 +477,8 @@ def generate_from_template(
             continue
         result = t.render(**scheme.to_dict())
         os.makedirs(out_dir / f"{template_name}", exist_ok=True)
-        dest_path = out_dir / f"{template_name}/{name}{template_ext}"
+        # vim colorschemes cannot have spaces in their names
+        dest_path = out_dir / f"{template_name}/{name}{template_ext}" if template_name != "vim" else out_dir / f"{template_name}/{name.replace(' ', '-')}{template_ext}"
         dest_path.write_text(result, encoding="utf-8")
         if result.startswith("#!"):
             dest_path.chmod(0o755)
