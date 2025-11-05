@@ -22,10 +22,11 @@
   - [Ghostty color schemes](#ghostty-color-schemes)
   - [Termux color schemes](#termux-color-schemes)
   - [Generic color schemes](#generic-color-schemes)
+  - [Vim color schemes](#vim-color-schemes)
 
 ## Intro
 
-This is a set of color schemes for iTerm (aka iTerm2). It also includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Ghostty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
+This is a set of color schemes for iTerm (aka iTerm2). It also includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Ghostty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Vim
 
 Screenshots below and in the [screenshots](screenshots/) directory.
 
@@ -34,6 +35,8 @@ Screenshots below and in the [screenshots](screenshots/) directory.
 There are 3 ways to install an iTerm theme:
 
 - Direct way via keyboard shortcut:
+
+
 
   - Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
   - Type CMD+i (⌘+i)
@@ -1999,6 +2002,7 @@ The screenshots are categorized.
 ### Zenwritten Light
 
 ![Screenshot](/screenshots/zenwritten-light.png)
+
 <!-- SCREENSHOTS_END -->
 
 ## Credits
@@ -2204,6 +2208,10 @@ Then specify the name of your theme in the `theme` field in the [config file](ht
 ### Termux color schemes
 
 Copy the theme content from `termux/` and paste the content to `~/.termux` directory as `~/.termux/colors.properties` file and run `termux-reload-settings` to apply the theme.
+
+### Vim color schemes
+
+Copy the theme content from `vim/` and paste the content to `~/.vim/colors/` directory. In Vim, use `:colorscheme <scheme_name>` to apply the colorscheme.
 
 ### Generic color schemes
 
