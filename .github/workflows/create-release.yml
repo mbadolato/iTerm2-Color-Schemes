@@ -61,33 +61,16 @@ jobs:
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Skip release if no changes
-        if: steps.changes.outputs.changed == 'false'
-        run: |
-          echo "No changes since last release. Skipping release."
-          exit 0
-
       - name: Check for existing release and clean up if needed
+        if: steps.changes.outputs.changed == 'true'
         run: |
           # Delete the 'latest' release and tag if they exist to avoid conflicts
           gh release delete latest --yes --cleanup-tag 2>/dev/null || echo "No existing 'latest' release to delete"
-
-          # Also clean up old automated releases (keep only the last 5)
-          echo "Cleaning up old automated releases..."
-          gh release list --limit 100 --json tagName,createdAt \
-            | jq -r '.[] | select(.tagName | startswith("release-")) | .tagName' \
-            | sort -r \
-            | tail -n +6 \
-            | head -10 \
-            | while read -r old_tag; do
-              if [ -n "$old_tag" ]; then
-                echo "Deleting old release: $old_tag"
-                gh release delete "$old_tag" --yes --cleanup-tag 2>/dev/null || echo "Failed to delete $old_tag"
-              fi
-            done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Create release archives
+        if: steps.changes.outputs.changed == 'true'
         run: |
           # Dynamically discover all directories, excluding screenshots and backgrounds
           mv schemes iterm2
@@ -131,6 +114,7 @@ jobs:
           ls -la releases/
 
       - name: Generate release notes
+        if: steps.changes.outputs.changed == 'true'
         id: release_notes
         run: |
           # Generate timestamp-based release notes
@@ -236,6 +220,7 @@ jobs:
           } >> $GITHUB_OUTPUT
 
       - name: Create GitHub Release
+        if: steps.changes.outputs.changed == 'true'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.vars.outputs.tag_name }}
@@ -250,6 +235,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload release summary
+        if: steps.changes.outputs.changed == 'true'
         run: |
           echo "## 🎉 Auto-Release Summary" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
