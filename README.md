@@ -2002,7 +2002,6 @@ The screenshots are categorized.
 ### Zenwritten Light
 
 ![Screenshot](/screenshots/zenwritten-light.png)
-
 <!-- SCREENSHOTS_END -->
 
 ## Credits
