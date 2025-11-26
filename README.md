@@ -1217,6 +1217,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/ollie.png)
 
+### One Dark Two
+
+![Screenshot](/screenshots/one-dark-two.png)
+
 ### One Double Dark
 
 ![Screenshot](/screenshots/one-double-dark.png)
