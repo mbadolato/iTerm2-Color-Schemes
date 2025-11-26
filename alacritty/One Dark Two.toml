@@ -1,0 +1,33 @@
+# Colors (One Dark Two)
+
+[colors.bright]
+black = '#4a505a'
+blue = '#8dc7f6'
+cyan = '#78c4ce'
+green = '#a8cc8e'
+magenta = '#d3a2e2'
+red = '#e68991'
+white = '#e6e6e6'
+yellow = '#edcf97'
+
+[colors.cursor]
+cursor = '#e6e6e6'
+text = '#1d1f23'
+
+[colors.normal]
+black = '#1d1f23'
+blue = '#71b9f4'
+cyan = '#62bac6'
+green = '#98c379'
+magenta = '#c88bda'
+red = '#e27881'
+white = '#c9ccd3'
+yellow = '#eac786'
+
+[colors.primary]
+background = '#21252b'
+foreground = '#e6e6e6'
+
+[colors.selection]
+background = '#393e47'
+text = '#e6e6e6'
