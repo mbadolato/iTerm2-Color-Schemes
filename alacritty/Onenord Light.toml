@@ -1,0 +1,33 @@
+# Colors (Onenord Light)
+
+[colors.bright]
+black = '#646a76'
+blue = '#1b40a6'
+cyan = '#8fbcbb'
+green = '#5f9e9d'
+magenta = '#9665af'
+red = '#d16366'
+white = '#eceff4'
+yellow = '#ba793e'
+
+[colors.cursor]
+cursor = '#3879c5'
+text = '#f7f8fa'
+
+[colors.normal]
+black = '#2e3440'
+blue = '#3879c5'
+cyan = '#3ea1ad'
+green = '#48a53d'
+magenta = '#9f4aca'
+red = '#cb4f53'
+white = '#b2b6bd'
+yellow = '#ee5e25'
+
+[colors.primary]
+background = '#f7f8fa'
+foreground = '#2e3440'
+
+[colors.selection]
+background = '#eaebed'
+text = '#000000'

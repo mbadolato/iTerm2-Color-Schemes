@@ -1,0 +1,12 @@
+# Onenord
+[colors]
+foreground = "#e5e9f0"
+background = "#2e3440"
+cursor_bg = "#81a1c1"
+cursor_border = "#81a1c1"
+cursor_fg = "#3b4252"
+selection_bg = "#434c5e"
+selection_fg = "#d8dee9"
+
+ansi = ["#3b4252","#e06c75","#9ec183","#ebcb8b","#81a1c1","#b988b0","#88c0d0","#e5e9f0"]
+brights = ["#596377","#e06c75","#9ec183","#ebcb8b","#81a1c1","#b988b0","#8fbcbb","#eceff4"]

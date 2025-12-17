@@ -1,0 +1,12 @@
+# Onenord Light
+[colors]
+foreground = "#2e3440"
+background = "#f7f8fa"
+cursor_bg = "#3879c5"
+cursor_border = "#3879c5"
+cursor_fg = "#f7f8fa"
+selection_bg = "#eaebed"
+selection_fg = "#000000"
+
+ansi = ["#2e3440","#cb4f53","#48a53d","#ee5e25","#3879c5","#9f4aca","#3ea1ad","#b2b6bd"]
+brights = ["#646a76","#d16366","#5f9e9d","#ba793e","#1b40a6","#9665af","#8fbcbb","#eceff4"]

@@ -1,0 +1,33 @@
+# Colors (Onenord)
+
+[colors.bright]
+black = '#596377'
+blue = '#81a1c1'
+cyan = '#8fbcbb'
+green = '#9ec183'
+magenta = '#b988b0'
+red = '#e06c75'
+white = '#eceff4'
+yellow = '#ebcb8b'
+
+[colors.cursor]
+cursor = '#81a1c1'
+text = '#3b4252'
+
+[colors.normal]
+black = '#3b4252'
+blue = '#81a1c1'
+cyan = '#88c0d0'
+green = '#9ec183'
+magenta = '#b988b0'
+red = '#e06c75'
+white = '#e5e9f0'
+yellow = '#ebcb8b'
+
+[colors.primary]
+background = '#2e3440'
+foreground = '#e5e9f0'
+
+[colors.selection]
+background = '#434c5e'
+text = '#d8dee9'

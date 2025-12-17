@@ -1229,6 +1229,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/one-half-dark.png)
 
+### Onenord
+
+![Screenshot](/screenshots/onenord.png)
+
 ### Operator Mono Dark
 
 ![Screenshot](/screenshots/operator-mono-dark.png)
@@ -1910,6 +1914,10 @@ The screenshots are categorized.
 ### One Half Light
 
 ![Screenshot](/screenshots/one-half-light.png)
+
+### Onenord Light
+
+![Screenshot](/screenshots/onenord-light.png)
 
 ### Pencil Light
 

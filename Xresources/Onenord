@@ -1,0 +1,43 @@
+!
+! Onenord
+!
+*.foreground:  #e5e9f0
+*.background:  #2e3440
+*.cursorColor: #81a1c1
+!
+! Black
+*.color0:      #3b4252
+*.color8:      #596377
+!
+! Red
+*.color1:      #e06c75
+*.color9:      #e06c75
+!
+! Green
+*.color2:      #9ec183
+*.color10:     #9ec183
+!
+! Yellow
+*.color3:      #ebcb8b
+*.color11:     #ebcb8b
+!
+! Blue
+*.color4:      #81a1c1
+*.color12:     #81a1c1
+!
+! Magenta
+*.color5:      #b988b0
+*.color13:     #b988b0
+!
+! Cyan
+*.color6:      #88c0d0
+*.color14:     #8fbcbb
+!
+! White
+*.color7:      #e5e9f0
+*.color15:     #eceff4
+!
+! Bold, Italic, Underline
+*.colorBD:     #eceff4
+!*.colorIT:
+!*.colorUL:

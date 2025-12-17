@@ -1,0 +1,43 @@
+!
+! Onenord Light
+!
+*.foreground:  #2e3440
+*.background:  #f7f8fa
+*.cursorColor: #3879c5
+!
+! Black
+*.color0:      #2e3440
+*.color8:      #646a76
+!
+! Red
+*.color1:      #cb4f53
+*.color9:      #d16366
+!
+! Green
+*.color2:      #48a53d
+*.color10:     #5f9e9d
+!
+! Yellow
+*.color3:      #ee5e25
+*.color11:     #ba793e
+!
+! Blue
+*.color4:      #3879c5
+*.color12:     #1b40a6
+!
+! Magenta
+*.color5:      #9f4aca
+*.color13:     #9665af
+!
+! Cyan
+*.color6:      #3ea1ad
+*.color14:     #8fbcbb
+!
+! White
+*.color7:      #b2b6bd
+*.color15:     #eceff4
+!
+! Bold, Italic, Underline
+*.colorBD:     #eceff4
+!*.colorIT:
+!*.colorUL:
