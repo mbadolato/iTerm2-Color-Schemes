@@ -498,3 +498,5 @@ The Tearout theme was created by [leobeosab](https://github.com/leobeosab)
 The violite theme was created by [Link](https://github.com/4c696e6b)
 
 Poimandres theme was originally created by [drcmda](https://github.com/drcmda/poimandres-theme) and ported by [bastiangx](https://github.com/bastiangx)
+
+Onenord and Onenord Light theme was created by [Ryan Mehri](https://github.com/rmehri01/onenord.nvim)
