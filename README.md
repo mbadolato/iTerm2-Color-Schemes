@@ -413,10 +413,6 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/builtin-pastel-dark.png)
 
-### Builtin Solarized Dark
-
-![Screenshot](/screenshots/builtin-solarized-dark.png)
-
 ### Builtin Tango Dark
 
 ![Screenshot](/screenshots/builtin-tango-dark.png)
@@ -1758,10 +1754,6 @@ The screenshots are categorized.
 ### Builtin Light
 
 ![Screenshot](/screenshots/builtin-light.png)
-
-### Builtin Solarized Light
-
-![Screenshot](/screenshots/builtin-solarized-light.png)
 
 ### Builtin Tango Light
 
