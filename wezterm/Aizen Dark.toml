@@ -1,0 +1,12 @@
+# Aizen Dark
+[colors]
+foreground = "#d0d6f0"
+background = "#1a1a1a"
+cursor_bg = "#f8b080"
+cursor_border = "#f8b080"
+cursor_fg = "#1a1a1a"
+selection_bg = "#333333"
+selection_fg = "#d0d6f0"
+
+ansi = ["#1a1a1a","#f08898","#a4e09c","#f5dea4","#84b4f8","#c8a2f4","#90dcd0","#d0d6f0"]
+brights = ["#444444","#f08898","#a4e09c","#f5dea4","#84b4f8","#c8a2f4","#90dcd0","#ffffff"]

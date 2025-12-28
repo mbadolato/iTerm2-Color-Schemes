@@ -1,0 +1,43 @@
+!
+! Aizen Light
+!
+*.foreground:  #4a4d66
+*.background:  #f0f2f6
+*.cursorColor: #fc6008
+!
+! Black
+*.color0:      #f0f2f6
+*.color8:      #adb2bc
+!
+! Red
+*.color1:      #d00c36
+*.color9:      #d00c36
+!
+! Green
+*.color2:      #3e9e28
+*.color10:     #3e9e28
+!
+! Yellow
+*.color3:      #dd8c1a
+*.color11:     #dd8c1a
+!
+! Blue
+*.color4:      #1c64f2
+*.color12:     #1c64f2
+!
+! Magenta
+*.color5:      #8636ec
+*.color13:     #8636ec
+!
+! Cyan
+*.color6:      #159096
+*.color14:     #159096
+!
+! White
+*.color7:      #4a4d66
+*.color15:     #4a4d66
+!
+! Bold, Italic, Underline
+*.colorBD:     #4a4d66
+!*.colorIT:
+!*.colorUL:

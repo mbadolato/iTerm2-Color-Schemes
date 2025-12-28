@@ -1,0 +1,12 @@
+# Aizen Light
+[colors]
+foreground = "#4a4d66"
+background = "#f0f2f6"
+cursor_bg = "#fc6008"
+cursor_border = "#fc6008"
+cursor_fg = "#f0f2f6"
+selection_bg = "#bdc2cc"
+selection_fg = "#4a4d66"
+
+ansi = ["#f0f2f6","#d00c36","#3e9e28","#dd8c1a","#1c64f2","#8636ec","#159096","#4a4d66"]
+brights = ["#adb2bc","#d00c36","#3e9e28","#dd8c1a","#1c64f2","#8636ec","#159096","#4a4d66"]
