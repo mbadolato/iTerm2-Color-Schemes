@@ -237,6 +237,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/afterglow.png)
 
+### Aizen Dark
+
+![Screenshot](/screenshots/aizen-dark.png)
+
 ### Alien Blood
 
 ![Screenshot](/screenshots/alien-blood.png)
@@ -1722,6 +1726,10 @@ The screenshots are categorized.
 ### Adwaita
 
 ![Screenshot](/screenshots/adwaita.png)
+
+### Aizen Light
+
+![Screenshot](/screenshots/aizen-light.png)
 
 ### Alabaster
 
