@@ -1,0 +1,33 @@
+# Colors (Aizen Dark)
+
+[colors.bright]
+black = '#444444'
+blue = '#84b4f8'
+cyan = '#90dcd0'
+green = '#a4e09c'
+magenta = '#c8a2f4'
+red = '#f08898'
+white = '#ffffff'
+yellow = '#f5dea4'
+
+[colors.cursor]
+cursor = '#f8b080'
+text = '#1a1a1a'
+
+[colors.normal]
+black = '#1a1a1a'
+blue = '#84b4f8'
+cyan = '#90dcd0'
+green = '#a4e09c'
+magenta = '#c8a2f4'
+red = '#f08898'
+white = '#d0d6f0'
+yellow = '#f5dea4'
+
+[colors.primary]
+background = '#1a1a1a'
+foreground = '#d0d6f0'
+
+[colors.selection]
+background = '#333333'
+text = '#d0d6f0'

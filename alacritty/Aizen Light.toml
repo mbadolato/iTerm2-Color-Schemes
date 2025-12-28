@@ -1,0 +1,33 @@
+# Colors (Aizen Light)
+
+[colors.bright]
+black = '#adb2bc'
+blue = '#1c64f2'
+cyan = '#159096'
+green = '#3e9e28'
+magenta = '#8636ec'
+red = '#d00c36'
+white = '#4a4d66'
+yellow = '#dd8c1a'
+
+[colors.cursor]
+cursor = '#fc6008'
+text = '#f0f2f6'
+
+[colors.normal]
+black = '#f0f2f6'
+blue = '#1c64f2'
+cyan = '#159096'
+green = '#3e9e28'
+magenta = '#8636ec'
+red = '#d00c36'
+white = '#4a4d66'
+yellow = '#dd8c1a'
+
+[colors.primary]
+background = '#f0f2f6'
+foreground = '#4a4d66'
+
+[colors.selection]
+background = '#bdc2cc'
+text = '#4a4d66'

@@ -1,0 +1,43 @@
+!
+! Aizen Dark
+!
+*.foreground:  #d0d6f0
+*.background:  #1a1a1a
+*.cursorColor: #f8b080
+!
+! Black
+*.color0:      #1a1a1a
+*.color8:      #444444
+!
+! Red
+*.color1:      #f08898
+*.color9:      #f08898
+!
+! Green
+*.color2:      #a4e09c
+*.color10:     #a4e09c
+!
+! Yellow
+*.color3:      #f5dea4
+*.color11:     #f5dea4
+!
+! Blue
+*.color4:      #84b4f8
+*.color12:     #84b4f8
+!
+! Magenta
+*.color5:      #c8a2f4
+*.color13:     #c8a2f4
+!
+! Cyan
+*.color6:      #90dcd0
+*.color14:     #90dcd0
+!
+! White
+*.color7:      #d0d6f0
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #d0d6f0
+!*.colorIT:
+!*.colorUL:
