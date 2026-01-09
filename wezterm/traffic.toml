@@ -5,8 +5,8 @@ background = "#272c30"
 cursor_bg = "#cfb9a8"
 cursor_border = "#cfb9a8"
 cursor_fg = "#272c30"
-selection_bg = "#272c30"
-selection_fg = "#cfb9a8"
+selection_bg = "#cfb9a8"
+selection_fg = "#272c30"
 
 ansi = ["#282d31","#934e46","#637268","#c79e84","#515e67","#715f5e","#5c6f7d","#cfb9a8"]
 brights = ["#4e575e","#934e46","#637270","#c79e84","#515e67","#715f5e","#5c6f7d","#ddcec2"]
