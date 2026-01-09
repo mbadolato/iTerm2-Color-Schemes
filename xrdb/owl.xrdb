@@ -15,12 +15,9 @@
 #define Ansi_8_Color #5d595b
 #define Ansi_9_Color #da5b2c
 #define Background_Color #2f2b2c
-#define Badge_Color #ff2600
 #define Bold_Color #dedede
 #define Cursor_Color #dedede
-#define Cursor_Guide_Color #b3ecff
 #define Cursor_Text_Color #2f2b2c
 #define Foreground_Color #dedede
-#define Link_Color #005cbb
-#define Selected_Text_Color #dedede
-#define Selection_Color #2f2b2c
+#define Selected_Text_Color #2f2b2c
+#define Selection_Color #dedede
