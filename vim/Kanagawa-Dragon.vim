@@ -11,7 +11,7 @@ endif
 let g:colors_name = "Kanagawa-Dragon"
 
 " Normal colors
-hi Normal guifg=#c8c093 guibg=#181616
+hi Normal guifg=#c5c9c5 guibg=#181616
 
 " Syntax highlighting groups
 hi Comment guifg=#a6a69c
@@ -59,12 +59,12 @@ hi Debug guifg=#e6c384
 hi Ignore guifg=#181616
 
 " Cursor and line highlighting
-hi Cursor guifg=#1d202f guibg=#c5c9c5
-hi CursorLine guibg=#223249
-hi CursorColumn guibg=#223249
+hi Cursor guifg=#181616 guibg=#c8c093
+hi CursorLine guibg=#c5c9c5
+hi CursorColumn guibg=#c5c9c5
 
 " Visual selection
-hi Visual guibg=#223249
+hi Visual guibg=#c5c9c5
 
 " Search highlighting
 hi Search guibg=#e6c384 guifg=#181616
@@ -72,22 +72,22 @@ hi IncSearch guibg=#e6c384 guifg=#181616
 
 " Line numbers
 hi LineNr guifg=#a6a69c
-hi CursorLineNr guifg=#c8c093
+hi CursorLineNr guifg=#c5c9c5
 
 " Status line
-hi StatusLine guifg=#c8c093 guibg=#a6a69c
+hi StatusLine guifg=#c5c9c5 guibg=#a6a69c
 hi StatusLineNC guifg=#a6a69c guibg=#181616
 
 " Tab line
 hi TabLine guifg=#a6a69c guibg=#181616
-hi TabLineSel guifg=#c8c093 guibg=#223249
+hi TabLineSel guifg=#c5c9c5 guibg=#c5c9c5
 hi TabLineFill guibg=#181616
 
 " Popup menu
-hi Pmenu guifg=#c8c093 guibg=#a6a69c
-hi PmenuSel guifg=#181616 guibg=#223249
+hi Pmenu guifg=#c5c9c5 guibg=#a6a69c
+hi PmenuSel guifg=#181616 guibg=#c5c9c5
 hi PmenuSbar guibg=#a6a69c
-hi PmenuThumb guibg=#c8c093
+hi PmenuThumb guibg=#c5c9c5
 
 " Diff highlighting
 hi DiffAdd guibg=#8a9a7b

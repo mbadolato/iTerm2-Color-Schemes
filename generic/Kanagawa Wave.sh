@@ -49,11 +49,11 @@ if [ -n "$ITERM_SESSION_ID" ]; then
   # iTerm2 proprietary escape codes
   put_template_custom Pg "dcd7ba"
   put_template_custom Ph "1f1f28"
-  put_template_custom Pi "eeeeee"
-  put_template_custom Pj "2d4f67"
-  put_template_custom Pk "c8c093"
-  put_template_custom Pl "c8c093"
-  put_template_custom Pm "1d202f"
+  put_template_custom Pi "dcd7ba"
+  put_template_custom Pj "dcd7ba"
+  put_template_custom Pk "1f1f28"
+  put_template_custom Pl "dcd7ba"
+  put_template_custom Pm "1f1f28"
 else
   put_template_var 10 $color_foreground
   put_template_var 11 $color_background

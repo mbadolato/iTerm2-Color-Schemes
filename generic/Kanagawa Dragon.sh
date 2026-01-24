@@ -42,18 +42,18 @@ put_template 13 "93/8a/a9"
 put_template 14 "7a/a8/9f"
 put_template 15 "c5/c9/c5"
 
-color_foreground="c8/c0/93"
+color_foreground="c5/c9/c5"
 color_background="18/16/16"
 
 if [ -n "$ITERM_SESSION_ID" ]; then
   # iTerm2 proprietary escape codes
-  put_template_custom Pg "c8c093"
+  put_template_custom Pg "c5c9c5"
   put_template_custom Ph "181616"
-  put_template_custom Pi "eeeeee"
-  put_template_custom Pj "223249"
-  put_template_custom Pk "c5c9c5"
-  put_template_custom Pl "c5c9c5"
-  put_template_custom Pm "1d202f"
+  put_template_custom Pi "c5c9c5"
+  put_template_custom Pj "c5c9c5"
+  put_template_custom Pk "181616"
+  put_template_custom Pl "c8c093"
+  put_template_custom Pm "181616"
 else
   put_template_var 10 $color_foreground
   put_template_var 11 $color_background

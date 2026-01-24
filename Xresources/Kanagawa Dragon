@@ -1,9 +1,9 @@
 !
 ! Kanagawa Dragon
 !
-*.foreground:  #c8c093
+*.foreground:  #c5c9c5
 *.background:  #181616
-*.cursorColor: #c5c9c5
+*.cursorColor: #c8c093
 !
 ! Black
 *.color0:      #0d0c0c
@@ -38,6 +38,6 @@
 *.color15:     #c5c9c5
 !
 ! Bold, Italic, Underline
-*.colorBD:     #eeeeee
+*.colorBD:     #c5c9c5
 !*.colorIT:
 !*.colorUL:
