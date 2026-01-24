@@ -249,6 +249,8 @@ The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
 
 The Kanagawa themes (Kanagawa Wave & Kanagawa Dragon) were created by [rebelot](https://github.com/rebelot)
 
+The Kanso Ink, Kanso Mist, Kanso Zen, and Kanso Pearl themes were created by [webhooked](https://github.com/webhooked) and added by [Antonio Camargo](https://github.com/apcamargo).
+
 The Kolorit theme was created by [thomaspaulmann](https://github.com/thomaspaulmann)
 
 The [Kurokula](https://github.com/Indyandie/kurokula-obsidian-theme) theme was created by [some fella](https://github.com/indyandie)
