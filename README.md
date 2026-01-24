@@ -1859,6 +1859,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/iterm2-tango-light.png)
 
+### Kanagawa Lotus
+
+![Screenshot](/screenshots/kanagawa-lotus.png)
+
 ### Light Owl
 
 ![Screenshot](/screenshots/light-owl.png)
