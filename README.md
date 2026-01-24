@@ -965,6 +965,18 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/kanagawabones.png)
 
+### Kanso Ink
+
+![Screenshot](/screenshots/kanso-ink.png)
+
+### Kanso Mist
+
+![Screenshot](/screenshots/kanso-mist.png)
+
+### Kanso Zen
+
+![Screenshot](/screenshots/kanso-zen.png)
+
 ### Kibble
 
 ![Screenshot](/screenshots/kibble.png)
@@ -1858,6 +1870,10 @@ The screenshots are categorized.
 ### iTerm2 Tango Light
 
 ![Screenshot](/screenshots/iterm2-tango-light.png)
+
+### Kanso Pearl
+
+![Screenshot](/screenshots/kanso-pearl.png)
 
 ### Light Owl
 

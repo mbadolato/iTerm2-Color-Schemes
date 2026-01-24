@@ -1,0 +1,43 @@
+!
+! Kanso Ink
+!
+*.foreground:  #c5c9c7
+*.background:  #14171d
+*.cursorColor: #c5c9c7
+!
+! Black
+*.color0:      #14171d
+*.color8:      #a4a7a4
+!
+! Red
+*.color1:      #c4746e
+*.color9:      #e46876
+!
+! Green
+*.color2:      #8a9a7b
+*.color10:     #87a987
+!
+! Yellow
+*.color3:      #c4b28a
+*.color11:     #e6c384
+!
+! Blue
+*.color4:      #8ba4b0
+*.color12:     #7fb4ca
+!
+! Magenta
+*.color5:      #a292a3
+*.color13:     #938aa9
+!
+! Cyan
+*.color6:      #8ea4a2
+*.color14:     #7aa89f
+!
+! White
+*.color7:      #c8c093
+*.color15:     #c5c9c7
+!
+! Bold, Italic, Underline
+*.colorBD:     #c5c9c7
+!*.colorIT:
+!*.colorUL:
