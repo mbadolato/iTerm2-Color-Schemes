@@ -1,0 +1,27 @@
+---
+name: 'Kanagawa Lotus'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+variant: ''            # dark or light
+
+color_01: '#1f1f28'    # Black (Host)
+color_02: '#c84053'    # Red (Syntax string)
+color_03: '#6f894e'    # Green (Command)
+color_04: '#77713f'    # Yellow (Command second)
+color_05: '#4d699b'    # Blue (Path)
+color_06: '#b35b79'    # Magenta (Syntax var)
+color_07: '#597b75'    # Cyan (Prompt)
+color_08: '#545464'    # White
+
+color_09: '#8a8980'    # Bright Black
+color_10: '#d7474b'    # Bright Red (Command error)
+color_11: '#6e915f'    # Bright Green (Exec)
+color_12: '#836f4a'    # Bright Yellow
+color_13: '#6693bf'    # Bright Blue (Folder)
+color_14: '#624c83'    # Bright Magenta
+color_15: '#5e857a'    # Bright Cyan
+color_16: '#43436c'    # Bright White
+
+background: '#f2ecbc'  # Background
+foreground: '#545464'  # Foreground (Text)
+
+cursor: '#43436c'      # Cursor
