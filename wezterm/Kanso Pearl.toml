@@ -1,0 +1,12 @@
+# Kanso Pearl
+[colors]
+foreground = "#22262d"
+background = "#f2f1ef"
+cursor_bg = "#22262d"
+cursor_border = "#22262d"
+cursor_fg = "#f2f1ef"
+selection_bg = "#e2e1df"
+selection_fg = "#22262d"
+
+ansi = ["#22262d","#c84053","#6f894e","#77713f","#4d699b","#b35b79","#597b75","#545464"]
+brights = ["#6d6f6e","#d7474b","#6e915f","#836f4a","#6693bf","#624c83","#5e857a","#43436c"]

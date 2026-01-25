@@ -1,0 +1,33 @@
+# Colors (Kanso Mist)
+
+[colors.bright]
+black = '#5c6066'
+blue = '#7fb4ca'
+cyan = '#7aa89f'
+green = '#87a987'
+magenta = '#938aa9'
+red = '#e46876'
+white = '#c5c9c7'
+yellow = '#e6c384'
+
+[colors.cursor]
+cursor = '#c5c9c7'
+text = '#22262d'
+
+[colors.normal]
+black = '#22262d'
+blue = '#8ba4b0'
+cyan = '#8ea4a2'
+green = '#8a9a7b'
+magenta = '#a292a3'
+red = '#c4746e'
+white = '#a4a7a4'
+yellow = '#c4b28a'
+
+[colors.primary]
+background = '#22262d'
+foreground = '#c5c9c7'
+
+[colors.selection]
+background = '#43464e'
+text = '#c5c9c7'

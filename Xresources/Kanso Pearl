@@ -1,0 +1,43 @@
+!
+! Kanso Pearl
+!
+*.foreground:  #22262d
+*.background:  #f2f1ef
+*.cursorColor: #22262d
+!
+! Black
+*.color0:      #22262d
+*.color8:      #6d6f6e
+!
+! Red
+*.color1:      #c84053
+*.color9:      #d7474b
+!
+! Green
+*.color2:      #6f894e
+*.color10:     #6e915f
+!
+! Yellow
+*.color3:      #77713f
+*.color11:     #836f4a
+!
+! Blue
+*.color4:      #4d699b
+*.color12:     #6693bf
+!
+! Magenta
+*.color5:      #b35b79
+*.color13:     #624c83
+!
+! Cyan
+*.color6:      #597b75
+*.color14:     #5e857a
+!
+! White
+*.color7:      #545464
+*.color15:     #43436c
+!
+! Bold, Italic, Underline
+*.colorBD:     #22262d
+!*.colorIT:
+!*.colorUL:
