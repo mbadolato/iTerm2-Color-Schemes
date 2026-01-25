@@ -4,12 +4,12 @@
   "colors": [
     {
       "name": "Foreground",
-      "color": "#c8c093",
+      "color": "#c5c9c5",
       "terminalMapping": "foreground"
     },
     {
       "name": "BoldForeground",
-      "color": "#eeeeee",
+      "color": "#c5c9c5",
       "terminalMapping": "boldforeground"
     },
     {
@@ -24,12 +24,12 @@
     },
     {
       "name": "CursorForeground",
-      "color": "#1d202f",
+      "color": "#181616",
       "terminalMapping": "cursorForeground"
     },
     {
       "name": "CursorBackground",
-      "color": "#c5c9c5",
+      "color": "#c8c093",
       "terminalMapping": "cursorBackground"
     },
     {

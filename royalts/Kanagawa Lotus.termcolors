@@ -1,0 +1,117 @@
+{
+  "userInterface": false,
+  "terminal": true,
+  "colors": [
+    {
+      "name": "Foreground",
+      "color": "#545464",
+      "terminalMapping": "foreground"
+    },
+    {
+      "name": "BoldForeground",
+      "color": "#545464",
+      "terminalMapping": "boldforeground"
+    },
+    {
+      "name": "Background",
+      "color": "#f2ecbc",
+      "terminalMapping": "background"
+    },
+    {
+      "name": "BoldBackground",
+      "color": "#f2ecbc",
+      "terminalMapping": "boldbackground"
+    },
+    {
+      "name": "CursorForeground",
+      "color": "#f2ecbc",
+      "terminalMapping": "cursorForeground"
+    },
+    {
+      "name": "CursorBackground",
+      "color": "#43436c",
+      "terminalMapping": "cursorBackground"
+    },
+    {
+      "name": "Black",
+      "color": "#1f1f28",
+      "terminalMapping": "ansiBlack"
+    },
+    {
+      "name": "Red",
+      "color": "#c84053",
+      "terminalMapping": "ansiRed"
+    },
+    {
+      "name": "Green",
+      "color": "#6f894e",
+      "terminalMapping": "ansiGreen"
+    },
+    {
+      "name": "Yellow",
+      "color": "#77713f",
+      "terminalMapping": "ansiYellow"
+    },
+    {
+      "name": "Blue",
+      "color": "#4d699b",
+      "terminalMapping": "ansiBlue"
+    },
+    {
+      "name": "Magenta",
+      "color": "#b35b79",
+      "terminalMapping": "ansiMagenta"
+    },
+    {
+      "name": "Cyan",
+      "color": "#597b75",
+      "terminalMapping": "ansiCyan"
+    },
+    {
+      "name": "White",
+      "color": "#545464",
+      "terminalMapping": "ansiWhite"
+    },
+    {
+      "name": "BrightBlack",
+      "color": "#8a8980",
+      "terminalMapping": "ansiBrightBlack"
+    },
+    {
+      "name": "BrightRed",
+      "color": "#d7474b",
+      "terminalMapping": "ansiBrightRed"
+    },
+    {
+      "name": "BrightGreen",
+      "color": "#6e915f",
+      "terminalMapping": "ansiBrightGreen"
+    },
+    {
+      "name": "BrightYellow",
+      "color": "#836f4a",
+      "terminalMapping": "ansiBrightYellow"
+    },
+    {
+      "name": "BrightBlue",
+      "color": "#6693bf",
+      "terminalMapping": "ansiBrightBlue"
+    },
+    {
+      "name": "BrightMagenta",
+      "color": "#624c83",
+      "terminalMapping": "ansiBrightMagenta"
+    },
+    {
+      "name": "BrightCyan",
+      "color": "#5e857a",
+      "terminalMapping": "ansiBrightCyan"
+    },
+    {
+      "name": "BrightWhite",
+      "color": "#43436c",
+      "terminalMapping": "ansiBrightWhite"
+    }
+  ],
+  "paletteName": "Kanagawa Lotus"
+}

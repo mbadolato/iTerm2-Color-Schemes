@@ -1871,6 +1871,9 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/iterm2-tango-light.png)
 
+### Kanagawa Lotus
+
+![Screenshot](/screenshots/kanagawa-lotus.png)
 ### Kanso Pearl
 
 ![Screenshot](/screenshots/kanso-pearl.png)

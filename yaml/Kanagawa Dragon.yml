@@ -1,0 +1,27 @@
+---
+name: 'Kanagawa Dragon'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+variant: ''            # dark or light
+
+color_01: '#0D0C0C'    # Black (Host)
+color_02: '#C4746E'    # Red (Syntax string)
+color_03: '#8A9A7B'    # Green (Command)
+color_04: '#C4B28A'    # Yellow (Command second)
+color_05: '#8BA4B0'    # Blue (Path)
+color_06: '#A292A3'    # Magenta (Syntax var)
+color_07: '#8EA4A2'    # Cyan (Prompt)
+color_08: '#C8C093'    # White
+
+color_09: '#A6A69C'    # Bright Black
+color_10: '#E46876'    # Bright Red (Command error)
+color_11: '#87A987'    # Bright Green (Exec)
+color_12: '#E6C384'    # Bright Yellow
+color_13: '#7FB4CA'    # Bright Blue (Folder)
+color_14: '#938AA9'    # Bright Magenta
+color_15: '#7AA89F'    # Bright Cyan
+color_16: '#C5C9C5'    # Bright White
+
+background: '#181616'  # Background
+foreground: '#C5C9C5'  # Foreground (Text)
+
+cursor: '#C8C093'      # Cursor

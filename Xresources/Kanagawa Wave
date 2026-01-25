@@ -3,7 +3,7 @@
 !
 *.foreground:  #dcd7ba
 *.background:  #1f1f28
-*.cursorColor: #c8c093
+*.cursorColor: #dcd7ba
 !
 ! Black
 *.color0:      #090618
@@ -38,6 +38,6 @@
 *.color15:     #dcd7ba
 !
 ! Bold, Italic, Underline
-*.colorBD:     #eeeeee
+*.colorBD:     #dcd7ba
 !*.colorIT:
 !*.colorUL:

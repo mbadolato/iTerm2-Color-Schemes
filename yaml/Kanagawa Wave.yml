@@ -1,0 +1,27 @@
+---
+name: 'Kanagawa Wave'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+variant: ''            # dark or light
+
+color_01: '#090618'    # Black (Host)
+color_02: '#C34043'    # Red (Syntax string)
+color_03: '#76946A'    # Green (Command)
+color_04: '#C0A36E'    # Yellow (Command second)
+color_05: '#7E9CD8'    # Blue (Path)
+color_06: '#957FB8'    # Magenta (Syntax var)
+color_07: '#6A9589'    # Cyan (Prompt)
+color_08: '#C8C093'    # White
+
+color_09: '#727169'    # Bright Black
+color_10: '#E82424'    # Bright Red (Command error)
+color_11: '#98BB6C'    # Bright Green (Exec)
+color_12: '#E6C384'    # Bright Yellow
+color_13: '#7FB4CA'    # Bright Blue (Folder)
+color_14: '#938AA9'    # Bright Magenta
+color_15: '#7AA89F'    # Bright Cyan
+color_16: '#DCD7BA'    # Bright White
+
+background: '#1F1F28'  # Background
+foreground: '#DCD7BA'  # Foreground (Text)
+
+cursor: '#DCD7BA'      # Cursor

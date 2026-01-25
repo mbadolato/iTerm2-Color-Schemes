@@ -9,7 +9,7 @@
     },
     {
       "name": "BoldForeground",
-      "color": "#eeeeee",
+      "color": "#dcd7ba",
       "terminalMapping": "boldforeground"
     },
     {
@@ -24,12 +24,12 @@
     },
     {
       "name": "CursorForeground",
-      "color": "#1d202f",
+      "color": "#1f1f28",
       "terminalMapping": "cursorForeground"
     },
     {
       "name": "CursorBackground",
-      "color": "#c8c093",
+      "color": "#dcd7ba",
       "terminalMapping": "cursorBackground"
     },
     {

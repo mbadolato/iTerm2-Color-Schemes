@@ -247,7 +247,7 @@ The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
 
 The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
 
-The Kanagawa themes (Kanagawa Wave & Kanagawa Dragon) were created by [rebelot](https://github.com/rebelot)
+The Kanagawa themes (Kanagawa Wave, Kanagawa Dragon, and Kanagawa Lotus) were created by [rebelot](https://github.com/rebelot) and added by [Jeremy Seago](https://github.com/seagoj) and [Antonio Camargo](https://github.com/apcamargo).
 
 The Kanso Ink, Kanso Mist, Kanso Zen, and Kanso Pearl themes were created by [webhooked](https://github.com/webhooked) and added by [Antonio Camargo](https://github.com/apcamargo).
 
