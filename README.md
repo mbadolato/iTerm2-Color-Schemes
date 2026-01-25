@@ -1874,6 +1874,7 @@ The screenshots are categorized.
 ### Kanagawa Lotus
 
 ![Screenshot](/screenshots/kanagawa-lotus.png)
+
 ### Kanso Pearl
 
 ![Screenshot](/screenshots/kanso-pearl.png)
