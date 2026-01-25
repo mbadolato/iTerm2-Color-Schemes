@@ -1,0 +1,33 @@
+# Colors (Kanso Pearl)
+
+[colors.bright]
+black = '#6d6f6e'
+blue = '#6693bf'
+cyan = '#5e857a'
+green = '#6e915f'
+magenta = '#624c83'
+red = '#d7474b'
+white = '#43436c'
+yellow = '#836f4a'
+
+[colors.cursor]
+cursor = '#22262d'
+text = '#f2f1ef'
+
+[colors.normal]
+black = '#22262d'
+blue = '#4d699b'
+cyan = '#597b75'
+green = '#6f894e'
+magenta = '#b35b79'
+red = '#c84053'
+white = '#545464'
+yellow = '#77713f'
+
+[colors.primary]
+background = '#f2f1ef'
+foreground = '#22262d'
+
+[colors.selection]
+background = '#e2e1df'
+text = '#22262d'
