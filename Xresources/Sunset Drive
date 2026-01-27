@@ -1,0 +1,43 @@
+!
+! Sunset Drive
+!
+*.foreground:  #ededfe
+*.background:  #0f0f1a
+*.cursorColor: #ededfe
+!
+! Black
+*.color0:      #0a0a13
+*.color8:      #3e3e4b
+!
+! Red
+*.color1:      #ff0063
+*.color9:      #ff948b
+!
+! Green
+*.color2:      #00f992
+*.color10:     #00fcb9
+!
+! Yellow
+*.color3:      #ffe900
+*.color11:     #ffff68
+!
+! Blue
+*.color4:      #00a4ff
+*.color12:     #3ea0ff
+!
+! Magenta
+*.color5:      #ff57fd
+*.color13:     #ff93ff
+!
+! Cyan
+*.color6:      #00ffed
+*.color14:     #38ffff
+!
+! White
+*.color7:      #ededff
+*.color15:     #f8f8ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

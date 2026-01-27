@@ -429,6 +429,8 @@ The theme Subliminal was created by [gdsrosa](https://github.com/gdsrosa/sublimi
 
 The theme Sugarplum was created by [lemonlime0x3C33](https://github.com/lemonlime0x3C33/iTerm2-Color-Schemes-Sugarplum)
 
+The Sunset Drive theme was created by [tahayvr](https://github.com/tahayvr)
+
 The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
 
 The [starlight](https://github.com/CosmicToast/starlight) theme was created by [toast](https://github.com/CosmicToast).

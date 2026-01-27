@@ -1,0 +1,33 @@
+# Colors (Sunset Drive)
+
+[colors.bright]
+black = '#3e3e4b'
+blue = '#3ea0ff'
+cyan = '#38ffff'
+green = '#00fcb9'
+magenta = '#ff93ff'
+red = '#ff948b'
+white = '#f8f8ff'
+yellow = '#ffff68'
+
+[colors.cursor]
+cursor = '#ededfe'
+text = '#0f0f1a'
+
+[colors.normal]
+black = '#0a0a13'
+blue = '#00a4ff'
+cyan = '#00ffed'
+green = '#00f992'
+magenta = '#ff57fd'
+red = '#ff0063'
+white = '#ededff'
+yellow = '#ffe900'
+
+[colors.primary]
+background = '#0f0f1a'
+foreground = '#ededfe'
+
+[colors.selection]
+background = '#202036'
+text = '#ededff'
