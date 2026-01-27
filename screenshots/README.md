@@ -1332,6 +1332,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/sundried.png)
 
+### Sunset Drive
+
+![Screenshot](/screenshots/sunset-drive.png)
+
 ### Symfonic
 
 ![Screenshot](/screenshots/symfonic.png)
