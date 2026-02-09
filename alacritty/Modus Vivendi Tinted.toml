@@ -1,0 +1,33 @@
+# Colors (Modus Vivendi Tinted)
+
+[colors.bright]
+black = '#595959'
+blue = '#79a8ff'
+cyan = '#6ae4b9'
+green = '#00c06f'
+magenta = '#b6a0ff'
+red = '#ff6b55'
+white = '#ffffff'
+yellow = '#fec43f'
+
+[colors.cursor]
+cursor = '#ff66ff'
+text = '#0d0e1c'
+
+[colors.normal]
+black = '#0d0e1c'
+blue = '#2fafff'
+cyan = '#00d3d0'
+green = '#44bc44'
+magenta = '#feacd0'
+red = '#ff5f59'
+white = '#a6a6a6'
+yellow = '#d0bc00'
+
+[colors.primary]
+background = '#0d0e1c'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#555a66'
+text = '#ffffff'

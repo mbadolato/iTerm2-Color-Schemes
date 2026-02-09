@@ -1,0 +1,43 @@
+!
+! Modus Vivendi Tinted
+!
+*.foreground:  #ffffff
+*.background:  #0d0e1c
+*.cursorColor: #ff66ff
+!
+! Black
+*.color0:      #0d0e1c
+*.color8:      #595959
+!
+! Red
+*.color1:      #ff5f59
+*.color9:      #ff6b55
+!
+! Green
+*.color2:      #44bc44
+*.color10:     #00c06f
+!
+! Yellow
+*.color3:      #d0bc00
+*.color11:     #fec43f
+!
+! Blue
+*.color4:      #2fafff
+*.color12:     #79a8ff
+!
+! Magenta
+*.color5:      #feacd0
+*.color13:     #b6a0ff
+!
+! Cyan
+*.color6:      #00d3d0
+*.color14:     #6ae4b9
+!
+! White
+*.color7:      #a6a6a6
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:
