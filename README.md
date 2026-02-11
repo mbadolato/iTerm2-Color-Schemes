@@ -1093,6 +1093,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/misterioso.png)
 
+### Modus Vivendi Tinted
+
+![Screenshot](/screenshots/modus-vivendi-tinted.png)
+
+### Modus Vivendi
+
+![Screenshot](/screenshots/modus-vivendi.png)
+
 ### Molokai
 
 ![Screenshot](/screenshots/molokai.png)
@@ -1898,6 +1906,14 @@ The screenshots are categorized.
 ### Melange Light
 
 ![Screenshot](/screenshots/melange-light.png)
+
+### Modus Operandi Tinted
+
+![Screenshot](/screenshots/modus-operandi-tinted.png)
+
+### Modus Operandi
+
+![Screenshot](/screenshots/modus-operandi.png)
 
 ### Monokai Pro Light Sun
 
