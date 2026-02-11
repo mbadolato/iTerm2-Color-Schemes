@@ -1,0 +1,43 @@
+!
+! Modus Operandi
+!
+*.foreground:  #000000
+*.background:  #ffffff
+*.cursorColor: #000000
+!
+! Black
+*.color0:      #000000
+*.color8:      #595959
+!
+! Red
+*.color1:      #a60000
+*.color9:      #972500
+!
+! Green
+*.color2:      #006800
+*.color10:     #00663f
+!
+! Yellow
+*.color3:      #6f5500
+*.color11:     #884900
+!
+! Blue
+*.color4:      #0031a9
+*.color12:     #3548cf
+!
+! Magenta
+*.color5:      #721045
+*.color13:     #531ab6
+!
+! Cyan
+*.color6:      #005e8b
+*.color14:     #005f5f
+!
+! White
+*.color7:      #a6a6a6
+*.color15:     #595959
+!
+! Bold, Italic, Underline
+*.colorBD:     #000000
+!*.colorIT:
+!*.colorUL:

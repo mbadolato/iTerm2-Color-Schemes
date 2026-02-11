@@ -1,0 +1,12 @@
+# Modus Operandi Tinted
+[colors]
+foreground = "#000000"
+background = "#fbf7f0"
+cursor_bg = "#d00000"
+cursor_border = "#d00000"
+cursor_fg = "#fbf7f0"
+selection_bg = "#c2bcb5"
+selection_fg = "#000000"
+
+ansi = ["#000000","#a60000","#006800","#6f5500","#0031a9","#721045","#005e8b","#a6a6a6"]
+brights = ["#595959","#972500","#00663f","#884900","#3548cf","#531ab6","#005f5f","#595959"]

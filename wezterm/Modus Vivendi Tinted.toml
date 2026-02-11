@@ -1,0 +1,12 @@
+# Modus Vivendi Tinted
+[colors]
+foreground = "#ffffff"
+background = "#0d0e1c"
+cursor_bg = "#ff66ff"
+cursor_border = "#ff66ff"
+cursor_fg = "#0d0e1c"
+selection_bg = "#555a66"
+selection_fg = "#ffffff"
+
+ansi = ["#0d0e1c","#ff5f59","#44bc44","#d0bc00","#2fafff","#feacd0","#00d3d0","#a6a6a6"]
+brights = ["#595959","#ff6b55","#00c06f","#fec43f","#79a8ff","#b6a0ff","#6ae4b9","#ffffff"]
