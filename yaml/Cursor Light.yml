@@ -1,0 +1,28 @@
+---
+name: "Cursor Light"
+variant: "Light"
+
+color_01: "#141414" # Black
+color_02: "#CF2D56" # Red
+color_03: "#1F8A65" # Green
+color_04: "#A16900" # Yellow
+color_05: "#3C7CAB" # Blue
+color_06: "#B8448B" # Magenta
+color_07: "#4C7F8C" # Cyan
+color_08: "#FCFCFC" # White
+
+color_09: "#141414" # Bright Black
+color_10: "#E75E78" # Bright Red
+color_11: "#55A583" # Bright Green
+color_12: "#C08532" # Bright Yellow
+color_13: "#6299C3" # Bright Blue
+color_14: "#D06BA6" # Bright Magenta
+color_15: "#6F9BA6" # Bright Cyan
+color_16: "#FFFFFF" # Bright White
+
+background: "#F3F3F3"
+foreground: "#141414"
+cursor: "#141414"
+cursor_text: "#F3F3F3"
+selection: "#141414"
+selection_text: "#F3F3F3"
