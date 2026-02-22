@@ -2,27 +2,27 @@
 name: "Cursor Dark"
 variant: "Dark"
 
-color_01: "#2A2A2A" # Black
-color_02: "#BF616A" # Red
-color_03: "#A3BE8C" # Green
-color_04: "#EBCB8B" # Yellow
+color_01: "#242424" # Black
+color_02: "#FC6B83" # Red
+color_03: "#3FA266" # Green
+color_04: "#D2943E" # Yellow
 color_05: "#81A1C1" # Blue
 color_06: "#B48EAD" # Magenta
 color_07: "#88C0D0" # Cyan
-color_08: "#D8DEE9" # White
+color_08: "#E4E4E4" # White
 
-color_09: "#505050" # Bright Black
-color_10: "#BF616A" # Bright Red
-color_11: "#A3BE8C" # Bright Green
-color_12: "#EBCB8B" # Bright Yellow
-color_13: "#81A1C1" # Bright Blue
+color_09: "#4A4A4A" # Bright Black
+color_10: "#FC6B83" # Bright Red
+color_11: "#70B489" # Bright Green
+color_12: "#F1B467" # Bright Yellow
+color_13: "#87A6C4" # Bright Blue
 color_14: "#B48EAD" # Bright Magenta
 color_15: "#88C0D0" # Bright Cyan
-color_16: "#FFFFFF" # Bright White
+color_16: "#E4E4E4" # Bright White
 
 background: "#141414"
-foreground: "#FFFFFF"
-cursor: "#FFFFFF"
+foreground: "#D4D4D4"
+cursor: "#D4D4D4"
 cursor_text: "#141414"
-selection: "#303030"
-selection_text: "#FFFFFF"
+selection: "#2C2C2C"
+selection_text: "#E4E4E4"
