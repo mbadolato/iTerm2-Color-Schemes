@@ -11,7 +11,7 @@ color_06: "#B48EAD" # Magenta
 color_07: "#88C0D0" # Cyan
 color_08: "#E4E4E4" # White
 
-color_09: "#E4E4E4" # Bright Black
+color_09: "#4A4A4A" # Bright Black
 color_10: "#FC6B83" # Bright Red
 color_11: "#70B489" # Bright Green
 color_12: "#F1B467" # Bright Yellow
@@ -21,8 +21,8 @@ color_15: "#88C0D0" # Bright Cyan
 color_16: "#E4E4E4" # Bright White
 
 background: "#141414"
-foreground: "#E4E4E4"
-cursor: "#E4E4E4"
+foreground: "#D4D4D4"
+cursor: "#D4D4D4"
 cursor_text: "#141414"
-selection: "#E4E4E4"
-selection_text: "#141414"
+selection: "#2C2C2C"
+selection_text: "#E4E4E4"
