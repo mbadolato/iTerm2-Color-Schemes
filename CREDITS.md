@@ -110,6 +110,8 @@ The Cyberpunk Scarlet Protocol theme was created by [garrettmroberts](https://gi
 
 The Dark Modern theme was created by [zasdaym](https://github.com/zasdaym). It is based on the default VS Code theme.
 
+The Delightful and Delightful Dark themes were created by [kylesnav](https://github.com/kylesnav) as part of the [Delightful Design System](https://github.com/kylesnav/delightful-design-system).
+
 The Deep theme was created by [ADoyle](https://github.com/adoyle-h)
 
 The Detuned theme was created by [akx](https://github.com/akx).

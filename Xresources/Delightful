@@ -1,0 +1,43 @@
+!
+! Delightful
+!
+*.foreground:  #1b150f
+*.background:  #fdf8f3
+*.cursorColor: #f600a3
+!
+! Black
+*.color0:      #16100c
+*.color8:      #615d58
+!
+! Red
+*.color1:      #ed324b
+*.color9:      #ff6e74
+!
+! Green
+*.color2:      #22a448
+*.color10:     #60c072
+!
+! Yellow
+*.color3:      #f1b200
+*.color11:     #e5b126
+!
+! Blue
+*.color4:      #00a6c0
+*.color12:     #6ec3d2
+!
+! Magenta
+*.color5:      #f600a3
+*.color13:     #ff5cb8
+!
+! Cyan
+*.color6:      #17c0d6
+*.color14:     #6ec3d2
+!
+! White
+*.color7:      #b6b1ab
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #1b150f
+!*.colorIT:
+!*.colorUL:

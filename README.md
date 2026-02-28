@@ -545,6 +545,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/deep.png)
 
+### Delightful Dark
+
+![Screenshot](/screenshots/delightful-dark.png)
+
 ### Desert
 
 ![Screenshot](/screenshots/desert.png)
@@ -1810,6 +1814,10 @@ The screenshots are categorized.
 ### Dayfox
 
 ![Screenshot](/screenshots/dayfox.png)
+
+### Delightful
+
+![Screenshot](/screenshots/delightful.png)
 
 ### Everforest Light Med
 

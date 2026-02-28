@@ -1,0 +1,33 @@
+# Colors (Delightful Dark)
+
+[colors.bright]
+black = '#615d58'
+blue = '#88ddec'
+cyan = '#88ddec'
+green = '#60c072'
+magenta = '#ff7cc6'
+red = '#ff6e74'
+white = '#ffffff'
+yellow = '#ffcb3f'
+
+[colors.cursor]
+cursor = '#ff4fa8'
+text = '#1e1a16'
+
+[colors.normal]
+black = '#1e1a16'
+blue = '#5cb8d6'
+cyan = '#5cb8d6'
+green = '#3aad5f'
+magenta = '#ff4fa8'
+red = '#e8554c'
+white = '#eee9e3'
+yellow = '#f5c526'
+
+[colors.primary]
+background = '#1e1a16'
+foreground = '#eee9e3'
+
+[colors.selection]
+background = '#3d2235'
+text = '#eee9e3'
