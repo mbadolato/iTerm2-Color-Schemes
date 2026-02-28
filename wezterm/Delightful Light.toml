@@ -1,0 +1,12 @@
+# Delightful Light
+[colors]
+foreground = "#1b150f"
+background = "#fdf8f3"
+cursor_bg = "#f600a3"
+cursor_border = "#f600a3"
+cursor_fg = "#fdf8f3"
+selection_bg = "#ffe6f4"
+selection_fg = "#1b150f"
+
+ansi = ["#16100c","#ed324b","#22a448","#f1b200","#00a6c0","#f600a3","#17c0d6","#b6b1ab"]
+brights = ["#615d58","#ff6e74","#60c072","#e5b126","#6ec3d2","#ff5cb8","#6ec3d2","#ffffff"]

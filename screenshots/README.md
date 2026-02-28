@@ -352,6 +352,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/deep.png)
 
+
+### Delightful Dark
+
+![Screenshot](/screenshots/delightful-dark.png)
+
+### Delightful Light
+
+![Screenshot](/screenshots/delightful-light.png)
 ### Desert
 
 ![Screenshot](/screenshots/desert.png)

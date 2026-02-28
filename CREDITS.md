@@ -112,6 +112,8 @@ The Dark Modern theme was created by [zasdaym](https://github.com/zasdaym). It i
 
 The Deep theme was created by [ADoyle](https://github.com/adoyle-h)
 
+
+The Delightful Light and Delightful Dark themes were created by [Kyle S](https://github.com/kylesnav/delightful-iterm2). They are part of the Delightful Design System and use OKLCH-derived colors.
 The Detuned theme was created by [akx](https://github.com/akx).
 
 The Dimidium theme was created by [dofuuz](https://github.com/dofuuz/dimidium)

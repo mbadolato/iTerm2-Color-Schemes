@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Delightful Light'
+cursor-color='#f600a3'
+foreground='#1b150f'
+background='rgba(253,248,243,.95)'
+palette='#16100c:#ed324b:#22a448:#f1b200:#00a6c0:#f600a3:#17c0d6:#b6b1ab:#615d58:#ff6e74:#60c072:#e5b126:#6ec3d2:#ff5cb8:#6ec3d2:#ffffff'
+COLORS

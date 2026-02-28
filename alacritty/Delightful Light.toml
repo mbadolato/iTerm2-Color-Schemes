@@ -1,0 +1,33 @@
+# Colors (Delightful Light)
+
+[colors.bright]
+black = '#615d58'
+blue = '#6ec3d2'
+cyan = '#6ec3d2'
+green = '#60c072'
+magenta = '#ff5cb8'
+red = '#ff6e74'
+white = '#ffffff'
+yellow = '#e5b126'
+
+[colors.cursor]
+cursor = '#f600a3'
+text = '#fdf8f3'
+
+[colors.normal]
+black = '#16100c'
+blue = '#00a6c0'
+cyan = '#17c0d6'
+green = '#22a448'
+magenta = '#f600a3'
+red = '#ed324b'
+white = '#b6b1ab'
+yellow = '#f1b200'
+
+[colors.primary]
+background = '#fdf8f3'
+foreground = '#1b150f'
+
+[colors.selection]
+background = '#ffe6f4'
+text = '#1b150f'
