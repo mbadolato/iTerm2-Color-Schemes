@@ -1,29 +1,29 @@
 !
 ! Cursor Dark
 !
-*.foreground:  #ffffff
+*.foreground:  #d4d4d4
 *.background:  #141414
-*.cursorColor: #ffffff
+*.cursorColor: #d4d4d4
 !
 ! Black
-*.color0:      #2a2a2a
-*.color8:      #505050
+*.color0:      #242424
+*.color8:      #4a4a4a
 !
 ! Red
-*.color1:      #bf616a
-*.color9:      #bf616a
+*.color1:      #fc6b83
+*.color9:      #fc6b83
 !
 ! Green
-*.color2:      #a3be8c
-*.color10:     #a3be8c
+*.color2:      #3fa266
+*.color10:     #70b489
 !
 ! Yellow
-*.color3:      #ebcb8b
-*.color11:     #ebcb8b
+*.color3:      #d2943e
+*.color11:     #f1b467
 !
 ! Blue
 *.color4:      #81a1c1
-*.color12:     #81a1c1
+*.color12:     #87a6c4
 !
 ! Magenta
 *.color5:      #b48ead
@@ -34,10 +34,10 @@
 *.color14:     #88c0d0
 !
 ! White
-*.color7:      #d8dee9
-*.color15:     #ffffff
+*.color7:      #e4e4e4
+*.color15:     #e4e4e4
 !
 ! Bold, Italic, Underline
-*.colorBD:     #ffffff
+*.colorBD:     #d4d4d4
 !*.colorIT:
 !*.colorUL:

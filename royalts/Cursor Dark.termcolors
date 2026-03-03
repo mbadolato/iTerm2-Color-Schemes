@@ -4,12 +4,12 @@
   "colors": [
     {
       "name": "Foreground",
-      "color": "#ffffff",
+      "color": "#d4d4d4",
       "terminalMapping": "foreground"
     },
     {
       "name": "BoldForeground",
-      "color": "#ffffff",
+      "color": "#d4d4d4",
       "terminalMapping": "boldforeground"
     },
     {
@@ -29,27 +29,27 @@
     },
     {
       "name": "CursorBackground",
-      "color": "#ffffff",
+      "color": "#d4d4d4",
       "terminalMapping": "cursorBackground"
     },
     {
       "name": "Black",
-      "color": "#2a2a2a",
+      "color": "#242424",
       "terminalMapping": "ansiBlack"
     },
     {
       "name": "Red",
-      "color": "#bf616a",
+      "color": "#fc6b83",
       "terminalMapping": "ansiRed"
     },
     {
       "name": "Green",
-      "color": "#a3be8c",
+      "color": "#3fa266",
       "terminalMapping": "ansiGreen"
     },
     {
       "name": "Yellow",
-      "color": "#ebcb8b",
+      "color": "#d2943e",
       "terminalMapping": "ansiYellow"
     },
     {
@@ -69,32 +69,32 @@
     },
     {
       "name": "White",
-      "color": "#d8dee9",
+      "color": "#e4e4e4",
       "terminalMapping": "ansiWhite"
     },
     {
       "name": "BrightBlack",
-      "color": "#505050",
+      "color": "#4a4a4a",
       "terminalMapping": "ansiBrightBlack"
     },
     {
       "name": "BrightRed",
-      "color": "#bf616a",
+      "color": "#fc6b83",
       "terminalMapping": "ansiBrightRed"
     },
     {
       "name": "BrightGreen",
-      "color": "#a3be8c",
+      "color": "#70b489",
       "terminalMapping": "ansiBrightGreen"
     },
     {
       "name": "BrightYellow",
-      "color": "#ebcb8b",
+      "color": "#f1b467",
       "terminalMapping": "ansiBrightYellow"
     },
     {
       "name": "BrightBlue",
-      "color": "#81a1c1",
+      "color": "#87a6c4",
       "terminalMapping": "ansiBrightBlue"
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "name": "BrightWhite",
-      "color": "#ffffff",
+      "color": "#e4e4e4",
       "terminalMapping": "ansiBrightWhite"
     }
   ],

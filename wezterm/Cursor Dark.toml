@@ -1,12 +1,12 @@
 # Cursor Dark
 [colors]
-foreground = "#ffffff"
+foreground = "#d4d4d4"
 background = "#141414"
-cursor_bg = "#ffffff"
-cursor_border = "#ffffff"
+cursor_bg = "#d4d4d4"
+cursor_border = "#d4d4d4"
 cursor_fg = "#141414"
-selection_bg = "#303030"
-selection_fg = "#ffffff"
+selection_bg = "#2c2c2c"
+selection_fg = "#e4e4e4"
 
-ansi = ["#2a2a2a","#bf616a","#a3be8c","#ebcb8b","#81a1c1","#b48ead","#88c0d0","#d8dee9"]
-brights = ["#505050","#bf616a","#a3be8c","#ebcb8b","#81a1c1","#b48ead","#88c0d0","#ffffff"]
+ansi = ["#242424","#fc6b83","#3fa266","#d2943e","#81a1c1","#b48ead","#88c0d0","#e4e4e4"]
+brights = ["#4a4a4a","#fc6b83","#70b489","#f1b467","#87a6c4","#b48ead","#88c0d0","#e4e4e4"]
