@@ -301,6 +301,8 @@ The theme Monokai Soda was found [here](https://github.com/deepsweet/Monokai-Sod
 
 The theme Monokai Vivid was created by [vitalymak](https://github.com/vitalymak/iTerm2-Color-Schemes).
 
+The Monospace Dark and Monospace Light themes were created and added by [conventoangelo](https://github.com/conventoangelo) based on Google's Project IDX theme of the same name.
+
 The theme moonfly was created by [bluz71](https://github.com/bluz71/vim-moonfly-colors)
 
 The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-Color-Schemes)
