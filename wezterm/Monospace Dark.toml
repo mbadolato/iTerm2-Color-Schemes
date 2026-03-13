@@ -1,0 +1,12 @@
+# Monospace Dark
+[colors]
+foreground = "#a4afbd"
+background = "#10151d"
+cursor_bg = "#c8aaff"
+cursor_border = "#c8aaff"
+cursor_fg = "#10151d"
+selection_bg = "#264dcb"
+selection_fg = "#d9dfe7"
+
+ansi = ["#738295","#f76769","#17b877","#ffa23e","#708fff","#a87ffb","#25a6e9","#a4afbd"]
+brights = ["#8b98a9","#fc8f8e","#66ce98","#ffc26e","#a2b6ff","#c8aaff","#71c2ee","#fafbfe"]

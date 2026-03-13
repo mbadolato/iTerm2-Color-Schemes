@@ -1,0 +1,12 @@
+# Monospace Light
+[colors]
+foreground = "#475365"
+background = "#f4f7fd"
+cursor_bg = "#6f4cde"
+cursor_border = "#6f4cde"
+cursor_fg = "#f4f7fd"
+selection_bg = "#c7d3ff"
+selection_fg = "#1f2939"
+
+ansi = ["#333e4f","#d03941","#007b49","#a65921","#3c60dd","#6f4cde","#0075a2","#5d6a7d"]
+brights = ["#000000","#a52430","#00522f","#904b1a","#002487","#4d21bb","#00607e","#475365"]

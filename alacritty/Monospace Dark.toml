@@ -1,0 +1,33 @@
+# Colors (Monospace Dark)
+
+[colors.bright]
+black = '#8b98a9'
+blue = '#a2b6ff'
+cyan = '#71c2ee'
+green = '#66ce98'
+magenta = '#c8aaff'
+red = '#fc8f8e'
+white = '#fafbfe'
+yellow = '#ffc26e'
+
+[colors.cursor]
+cursor = '#c8aaff'
+text = '#10151d'
+
+[colors.normal]
+black = '#738295'
+blue = '#708fff'
+cyan = '#25a6e9'
+green = '#17b877'
+magenta = '#a87ffb'
+red = '#f76769'
+white = '#a4afbd'
+yellow = '#ffa23e'
+
+[colors.primary]
+background = '#10151d'
+foreground = '#a4afbd'
+
+[colors.selection]
+background = '#264dcb'
+text = '#d9dfe7'

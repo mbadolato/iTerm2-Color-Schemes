@@ -1,0 +1,33 @@
+# Colors (Monospace Light)
+
+[colors.bright]
+black = '#000000'
+blue = '#002487'
+cyan = '#00607e'
+green = '#00522f'
+magenta = '#4d21bb'
+red = '#a52430'
+white = '#475365'
+yellow = '#904b1a'
+
+[colors.cursor]
+cursor = '#6f4cde'
+text = '#f4f7fd'
+
+[colors.normal]
+black = '#333e4f'
+blue = '#3c60dd'
+cyan = '#0075a2'
+green = '#007b49'
+magenta = '#6f4cde'
+red = '#d03941'
+white = '#5d6a7d'
+yellow = '#a65921'
+
+[colors.primary]
+background = '#f4f7fd'
+foreground = '#475365'
+
+[colors.selection]
+background = '#c7d3ff'
+text = '#1f2939'

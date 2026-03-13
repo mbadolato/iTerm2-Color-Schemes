@@ -1,0 +1,43 @@
+!
+! Monospace Dark
+!
+*.foreground:  #a4afbd
+*.background:  #10151d
+*.cursorColor: #c8aaff
+!
+! Black
+*.color0:      #738295
+*.color8:      #8b98a9
+!
+! Red
+*.color1:      #f76769
+*.color9:      #fc8f8e
+!
+! Green
+*.color2:      #17b877
+*.color10:     #66ce98
+!
+! Yellow
+*.color3:      #ffa23e
+*.color11:     #ffc26e
+!
+! Blue
+*.color4:      #708fff
+*.color12:     #a2b6ff
+!
+! Magenta
+*.color5:      #a87ffb
+*.color13:     #c8aaff
+!
+! Cyan
+*.color6:      #25a6e9
+*.color14:     #71c2ee
+!
+! White
+*.color7:      #a4afbd
+*.color15:     #fafbfe
+!
+! Bold, Italic, Underline
+*.colorBD:     #d9dfe7
+!*.colorIT:
+!*.colorUL:

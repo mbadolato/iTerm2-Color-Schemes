@@ -952,6 +952,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/monokai-vivid.png)
 
+### Monospace Dark
+
+![Screenshot](/screenshots/monospace-dark.png)
+
 ### Moonfly
 
 ![Screenshot](/screenshots/moonfly.png)
@@ -1729,6 +1733,10 @@ The screenshots are categorized.
 ### Monokai Pro Light
 
 ![Screenshot](/screenshots/monokai-pro-light.png)
+
+### Monospace Light
+
+![Screenshot](/screenshots/monospace-light.png)
 
 ### Neobones Light
 
