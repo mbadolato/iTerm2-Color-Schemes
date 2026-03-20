@@ -1,0 +1,7 @@
+#!/bin/sh
+# Karasu Night
+printf "\033]4;0;#0a0a0a;1;#e06c75;2;#8fbf7a;3;#d4b86a;4;#7aa2c8;5;#b4a1d8;6;#76b7b2;7;#f5f5f5;8;#44403c;9;#ff5c5c;10;#a6d189;11;#e8d07d;12;#8cb4e2;13;#c7b3ee;14;#8ad4ce;15;#e7e5e4\007"
+printf "\033]10;#e7e5e4;#0a0a0a;#f5f5f5\007"
+printf "\033]17;#262626\007"
+printf "\033]19;#e7e5e4\007"
+printf "\033]5;0;#e7e5e4\007"

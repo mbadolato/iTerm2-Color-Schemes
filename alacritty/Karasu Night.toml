@@ -1,0 +1,33 @@
+# Colors (Karasu Night)
+
+[colors.bright]
+black = '#44403c'
+blue = '#8cb4e2'
+cyan = '#8ad4ce'
+green = '#a6d189'
+magenta = '#c7b3ee'
+red = '#ff5c5c'
+white = '#e7e5e4'
+yellow = '#e8d07d'
+
+[colors.cursor]
+cursor = '#f5f5f5'
+text = '#0a0a0a'
+
+[colors.normal]
+black = '#0a0a0a'
+blue = '#7aa2c8'
+cyan = '#76b7b2'
+green = '#8fbf7a'
+magenta = '#b4a1d8'
+red = '#e06c75'
+white = '#f5f5f5'
+yellow = '#d4b86a'
+
+[colors.primary]
+background = '#0a0a0a'
+foreground = '#e7e5e4'
+
+[colors.selection]
+background = '#262626'
+text = '#e7e5e4'

@@ -1,0 +1,43 @@
+!
+! Karasu Night
+!
+*.foreground:  #e7e5e4
+*.background:  #0a0a0a
+*.cursorColor: #f5f5f5
+!
+! Black
+*.color0:      #0a0a0a
+*.color8:      #44403c
+!
+! Red
+*.color1:      #e06c75
+*.color9:      #ff5c5c
+!
+! Green
+*.color2:      #8fbf7a
+*.color10:     #a6d189
+!
+! Yellow
+*.color3:      #d4b86a
+*.color11:     #e8d07d
+!
+! Blue
+*.color4:      #7aa2c8
+*.color12:     #8cb4e2
+!
+! Magenta
+*.color5:      #b4a1d8
+*.color13:     #c7b3ee
+!
+! Cyan
+*.color6:      #76b7b2
+*.color14:     #8ad4ce
+!
+! White
+*.color7:      #f5f5f5
+*.color15:     #e7e5e4
+!
+! Bold, Italic, Underline
+*.colorBD:     #e7e5e4
+!*.colorIT:
+!*.colorUL:

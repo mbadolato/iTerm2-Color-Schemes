@@ -1,0 +1,33 @@
+# Colors (Karasu Snow)
+
+[colors.bright]
+black = '#404040'
+blue = '#2b72c7'
+cyan = '#1f968f'
+green = '#2f9150'
+magenta = '#7b59d6'
+red = '#d93c3c'
+white = '#ffffff'
+yellow = '#9a7a1d'
+
+[colors.cursor]
+cursor = '#0a0a0a'
+text = '#fafafa'
+
+[colors.normal]
+black = '#0a0a0a'
+blue = '#2e5e9b'
+cyan = '#2d7e7a'
+green = '#3f7e4a'
+magenta = '#6c4bb8'
+red = '#b84755'
+white = '#b5b5b5'
+yellow = '#8a6a1f'
+
+[colors.primary]
+background = '#fafafa'
+foreground = '#292524'
+
+[colors.selection]
+background = '#e5e5e5'
+text = '#292524'
