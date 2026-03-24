@@ -280,6 +280,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/citruszest.png)
 
+### Clear Dark
+
+![Screenshot](/screenshots/clear-dark.png)
+
 ### Cobalt Neon
 
 ![Screenshot](/screenshots/cobalt-neon.png)
@@ -1657,6 +1661,10 @@ The screenshots are categorized.
 ### Catppuccin Latte
 
 ![Screenshot](/screenshots/catppuccin-latte.png)
+
+### Clear Light
+
+![Screenshot](/screenshots/clear-light.png)
 
 ### CLRS
 

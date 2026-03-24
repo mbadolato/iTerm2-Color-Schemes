@@ -1,0 +1,12 @@
+# Clear Light
+[colors]
+foreground = "#3a4851"
+background = "#ffffff"
+cursor_bg = "#919191"
+cursor_border = "#919191"
+cursor_fg = "#ffffff"
+selection_bg = "#e5ecf1"
+selection_fg = "#b2b2b2"
+
+ansi = ["#2d3840","#b45648","#6caa71","#c4ac62","#5685a8","#ad64be","#69c6c9","#b4bbbf"]
+brights = ["#506573","#df6c5a","#79be7e","#d8bb65","#49a2e1","#d389e5","#5ec7cb","#d8e1e7"]

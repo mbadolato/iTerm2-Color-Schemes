@@ -1,0 +1,12 @@
+# Clear Dark
+[colors]
+foreground = "#e6e6e6"
+background = "#212734"
+cursor_bg = "#9d9d9d"
+cursor_border = "#9d9d9d"
+cursor_fg = "#212734"
+selection_bg = "#334e5e"
+selection_fg = "#6e7380"
+
+ansi = ["#35424c","#b45648","#6caa71","#c4ac62","#6d96b4","#bd7bcd","#7ccbcd","#dee5eb"]
+brights = ["#465c6d","#df6c5a","#79be7e","#e5c872","#67b5ed","#d389e5","#84dde0","#e5eff5"]

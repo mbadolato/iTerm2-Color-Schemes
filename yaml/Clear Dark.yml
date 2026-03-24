@@ -1,0 +1,29 @@
+name: "Clear Dark"
+variant: "Dark"
+
+color_01: "#35424C"
+color_02: "#B45648"
+color_03: "#6CAA71"
+color_04: "#C4AC62"
+color_05: "#6D96B4"
+color_06: "#BD7BCD"
+color_07: "#7CCBCD"
+color_08: "#DEE5EB"
+
+color_09: "#465C6D"
+color_10: "#DF6C5A"
+color_11: "#79BE7E"
+color_12: "#E5C872"
+color_13: "#67B5ED"
+color_14: "#D389E5"
+color_15: "#84DDE0"
+color_16: "#E5EFF5"
+
+background: "#212734"
+foreground: "#E6E6E6"
+cursor: "#9D9D9D"
+selection: "#334E5E"
+bold: "#F0F0F0"
+
+# cursor_text: 'cell-foreground'
+# selection_text: 'cell-foreground'

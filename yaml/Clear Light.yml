@@ -1,0 +1,29 @@
+name: "Clear Light"
+variant: "Light"
+
+color_01: "#2D3840"
+color_02: "#B45648"
+color_03: "#6CAA71"
+color_04: "#C4AC62"
+color_05: "#5685A8"
+color_06: "#AD64BE"
+color_07: "#69C6C9"
+color_08: "#C1C8CC"
+
+color_09: "#506573"
+color_10: "#DF6C5A"
+color_11: "#79BE7E"
+color_12: "#E5C872"
+color_13: "#49A2E1"
+color_14: "#D389E5"
+color_15: "#77E1E5"
+color_16: "#D8E1E7"
+
+background: "#FFFFFF"
+foreground: "#3A4851"
+cursor: "#919191"
+selection: "#E5ECF1"
+bold: "#313C44"
+
+# cursor_text: 'cell-foreground'
+# selection_text: 'cell-foreground'

@@ -1,0 +1,33 @@
+# Colors (Clear Dark)
+
+[colors.bright]
+black = '#465c6d'
+blue = '#67b5ed'
+cyan = '#84dde0'
+green = '#79be7e'
+magenta = '#d389e5'
+red = '#df6c5a'
+white = '#e5eff5'
+yellow = '#e5c872'
+
+[colors.cursor]
+cursor = '#9d9d9d'
+text = '#212734'
+
+[colors.normal]
+black = '#35424c'
+blue = '#6d96b4'
+cyan = '#7ccbcd'
+green = '#6caa71'
+magenta = '#bd7bcd'
+red = '#b45648'
+white = '#dee5eb'
+yellow = '#c4ac62'
+
+[colors.primary]
+background = '#212734'
+foreground = '#e6e6e6'
+
+[colors.selection]
+background = '#334e5e'
+text = '#6e7380'
