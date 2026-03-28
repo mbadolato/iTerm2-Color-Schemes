@@ -300,6 +300,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/cobalt2.png)
 
+### Cool Night
+
+![Screenshot](/screenshots/cool-night.png)
+
 ### Crayon Pony Fish
 
 ![Screenshot](/screenshots/crayon-pony-fish.png)
