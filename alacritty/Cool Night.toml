@@ -1,0 +1,33 @@
+# Colors (Cool Night)
+
+[colors.bright]
+black = '#63686d'
+blue = '#388eff'
+cyan = '#ff6ad7'
+green = '#74ffd8'
+magenta = '#ae81ff'
+red = '#ff54b0'
+white = '#60fbbf'
+yellow = '#fcf5ae'
+
+[colors.cursor]
+cursor = '#38ff9d'
+text = '#000000'
+
+[colors.normal]
+black = '#0b3b61'
+blue = '#1376f9'
+cyan = '#ff5ed4'
+green = '#52ffd0'
+magenta = '#c792ea'
+red = '#ff3a3a'
+white = '#16fda2'
+yellow = '#fff383'
+
+[colors.primary]
+background = '#010c18'
+foreground = '#ecdef4'
+
+[colors.selection]
+background = '#38ff9c'
+text = '#000000'

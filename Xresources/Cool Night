@@ -1,0 +1,43 @@
+!
+! Cool Night
+!
+*.foreground:  #ecdef4
+*.background:  #010c18
+*.cursorColor: #38ff9d
+!
+! Black
+*.color0:      #0b3b61
+*.color8:      #63686d
+!
+! Red
+*.color1:      #ff3a3a
+*.color9:      #ff54b0
+!
+! Green
+*.color2:      #52ffd0
+*.color10:     #74ffd8
+!
+! Yellow
+*.color3:      #fff383
+*.color11:     #fcf5ae
+!
+! Blue
+*.color4:      #1376f9
+*.color12:     #388eff
+!
+! Magenta
+*.color5:      #c792ea
+*.color13:     #ae81ff
+!
+! Cyan
+*.color6:      #ff5ed4
+*.color14:     #ff6ad7
+!
+! White
+*.color7:      #16fda2
+*.color15:     #60fbbf
+!
+! Bold, Italic, Underline
+*.colorBD:     #eeeeee
+!*.colorIT:
+!*.colorUL:
