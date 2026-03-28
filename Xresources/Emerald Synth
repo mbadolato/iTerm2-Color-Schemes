@@ -1,0 +1,43 @@
+!
+! Emerald Synth
+!
+*.foreground:  #00ffcc
+*.background:  #0d0221
+*.cursorColor: #ff79c6
+!
+! Black
+*.color0:      #0a0118
+*.color8:      #6a5585
+!
+! Red
+*.color1:      #ff2a6d
+*.color9:      #ff5c8a
+!
+! Green
+*.color2:      #00e67e
+*.color10:     #40ffdd
+!
+! Yellow
+*.color3:      #ffcc66
+*.color11:     #ffe099
+!
+! Blue
+*.color4:      #8b9cf7
+*.color12:     #b0b8fc
+!
+! Magenta
+*.color5:      #ff79c6
+*.color13:     #ff9ed0
+!
+! Cyan
+*.color6:      #4dd0e1
+*.color14:     #7ee0ec
+!
+! White
+*.color7:      #f0e6ff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #00ffcc
+!*.colorIT:
+!*.colorUL:

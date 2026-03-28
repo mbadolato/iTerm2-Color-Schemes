@@ -1,0 +1,33 @@
+# Colors (Emerald Synth)
+
+[colors.bright]
+black = '#6a5585'
+blue = '#b0b8fc'
+cyan = '#7ee0ec'
+green = '#40ffdd'
+magenta = '#ff9ed0'
+red = '#ff5c8a'
+white = '#ffffff'
+yellow = '#ffe099'
+
+[colors.cursor]
+cursor = '#ff79c6'
+text = '#0d0221'
+
+[colors.normal]
+black = '#0a0118'
+blue = '#8b9cf7'
+cyan = '#4dd0e1'
+green = '#00e67e'
+magenta = '#ff79c6'
+red = '#ff2a6d'
+white = '#f0e6ff'
+yellow = '#ffcc66'
+
+[colors.primary]
+background = '#0d0221'
+foreground = '#00ffcc'
+
+[colors.selection]
+background = '#2e6b5f'
+text = '#00ffcc'
