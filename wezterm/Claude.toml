@@ -1,0 +1,12 @@
+# Claude
+[colors]
+foreground = "#141413"
+background = "#faf9f5"
+cursor_bg = "#d97757"
+cursor_border = "#d97757"
+cursor_fg = "#faf9f5"
+selection_bg = "#e8e6dc"
+selection_fg = "#141413"
+
+ansi = ["#c15f3c","#788c5d","#b16803","#6a9bcc","#8b6cb0","#2e8b8b","#b5b3a9","#3d3d3c"]
+brights = ["#d97757","#8fa86b","#d4952b","#7bafd4","#a080c8","#4eaaaa","#bab9b5","#141413"]

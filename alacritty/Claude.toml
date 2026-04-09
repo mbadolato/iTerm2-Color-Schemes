@@ -1,0 +1,33 @@
+# Colors (Claude)
+
+[colors.bright]
+black = '#d97757'
+blue = '#a080c8'
+cyan = '#bab9b5'
+green = '#d4952b'
+magenta = '#4eaaaa'
+red = '#8fa86b'
+white = '#141413'
+yellow = '#7bafd4'
+
+[colors.cursor]
+cursor = '#d97757'
+text = '#faf9f5'
+
+[colors.normal]
+black = '#c15f3c'
+blue = '#8b6cb0'
+cyan = '#b5b3a9'
+green = '#b16803'
+magenta = '#2e8b8b'
+red = '#788c5d'
+white = '#3d3d3c'
+yellow = '#6a9bcc'
+
+[colors.primary]
+background = '#faf9f5'
+foreground = '#141413'
+
+[colors.selection]
+background = '#e8e6dc'
+text = '#141413'

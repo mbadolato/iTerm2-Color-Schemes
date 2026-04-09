@@ -1,0 +1,43 @@
+!
+! Claude
+!
+*.foreground:  #141413
+*.background:  #faf9f5
+*.cursorColor: #d97757
+!
+! Black
+*.color0:      #c15f3c
+*.color8:      #d97757
+!
+! Red
+*.color1:      #788c5d
+*.color9:      #8fa86b
+!
+! Green
+*.color2:      #b16803
+*.color10:     #d4952b
+!
+! Yellow
+*.color3:      #6a9bcc
+*.color11:     #7bafd4
+!
+! Blue
+*.color4:      #8b6cb0
+*.color12:     #a080c8
+!
+! Magenta
+*.color5:      #2e8b8b
+*.color13:     #4eaaaa
+!
+! Cyan
+*.color6:      #b5b3a9
+*.color14:     #bab9b5
+!
+! White
+*.color7:      #3d3d3c
+*.color15:     #141413
+!
+! Bold, Italic, Underline
+*.colorBD:     #141413
+!*.colorIT:
+!*.colorUL:
