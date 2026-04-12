@@ -1,0 +1,30 @@
+# Klein Void — APCA-verified terminal theme for long Claude Code sessions
+# https://github.com/robertnowell/klein-void
+#
+# Warm cream on near-black with International Klein Blue (#002FA7) selection
+# highlights and Claude brand orange (#D97757) accent. Designed for extended
+# prose reading in AI coding terminals.
+
+name:           "Klein Void"
+color_01:       "#1A1C24"             # black
+color_02:       "#F09890"             # red
+color_03:       "#A6C080"             # green
+color_04:       "#E8BC75"             # yellow
+color_05:       "#002FA7"             # blue        (International Klein Blue)
+color_06:       "#D49BB5"             # magenta
+color_07:       "#9FC0E5"             # cyan
+color_08:       "#CDC7B8"             # white
+color_09:       "#92907A"             # light black
+color_10:       "#D97757"             # light red   (Claude brand orange)
+color_11:       "#BCC89C"             # light green (warm sage)
+color_12:       "#F0C880"             # light yellow
+color_13:       "#A8BEF0"             # light blue  (lifted IKB)
+color_14:       "#C8B4D4"             # light magenta (dusty lavender)
+color_15:       "#B0D0ED"             # light cyan
+color_16:       "#F5EFDE"             # bright white
+cursor:         "#EDE6D3"
+cursor_text:    "#0B0D14"
+foreground:     "#EDE6D3"
+background:     "#0B0D14"
+selection:      "#002FA7"
+selection_text: "#EDE6D3"
