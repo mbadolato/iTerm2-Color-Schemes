@@ -1,0 +1,33 @@
+# Colors (Aura Dark)
+
+[colors.bright]
+black = '#464646'
+blue = '#a277ff'
+cyan = '#61ffca'
+green = '#a277ff'
+magenta = '#61ffca'
+red = '#ffca85'
+white = '#edecee'
+yellow = '#ffca85'
+
+[colors.cursor]
+cursor = '#a277ff'
+text = '#15141b'
+
+[colors.normal]
+black = '#15141b'
+blue = '#a277ff'
+cyan = '#a277ff'
+green = '#61ffca'
+magenta = '#61ffca'
+red = '#ff6767'
+white = '#cdccce'
+yellow = '#ffca85'
+
+[colors.primary]
+background = '#15141b'
+foreground = '#cdccce'
+
+[colors.selection]
+background = '#cdccce'
+text = '#15141b'

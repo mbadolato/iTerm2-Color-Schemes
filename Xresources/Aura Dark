@@ -1,0 +1,43 @@
+!
+! Aura Dark
+!
+*.foreground:  #cdccce
+*.background:  #15141b
+*.cursorColor: #a277ff
+!
+! Black
+*.color0:      #15141b
+*.color8:      #464646
+!
+! Red
+*.color1:      #ff6767
+*.color9:      #ffca85
+!
+! Green
+*.color2:      #61ffca
+*.color10:     #a277ff
+!
+! Yellow
+*.color3:      #ffca85
+*.color11:     #ffca85
+!
+! Blue
+*.color4:      #a277ff
+*.color12:     #a277ff
+!
+! Magenta
+*.color5:      #61ffca
+*.color13:     #61ffca
+!
+! Cyan
+*.color6:      #a277ff
+*.color14:     #61ffca
+!
+! White
+*.color7:      #cdccce
+*.color15:     #edecee
+!
+! Bold, Italic, Underline
+*.colorBD:     #cdccce
+!*.colorIT:
+!*.colorUL:

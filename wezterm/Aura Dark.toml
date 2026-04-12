@@ -1,0 +1,12 @@
+# Aura Dark
+[colors]
+foreground = "#cdccce"
+background = "#15141b"
+cursor_bg = "#a277ff"
+cursor_border = "#a277ff"
+cursor_fg = "#15141b"
+selection_bg = "#cdccce"
+selection_fg = "#15141b"
+
+ansi = ["#15141b","#ff6767","#61ffca","#ffca85","#a277ff","#61ffca","#a277ff","#cdccce"]
+brights = ["#464646","#ffca85","#a277ff","#ffca85","#a277ff","#61ffca","#61ffca","#edecee"]
