@@ -1,0 +1,33 @@
+# Colors (Moonwalk)
+
+[colors.bright]
+black = '#494440'
+blue = '#0d50c5'
+cyan = '#006092'
+green = '#4c6129'
+magenta = '#952197'
+red = '#af1608'
+white = '#ffffff'
+yellow = '#7a5000'
+
+[colors.cursor]
+cursor = '#061f4a'
+text = '#e4e2e0'
+
+[colors.normal]
+black = '#080808'
+blue = '#002fa7'
+cyan = '#00566b'
+green = '#145b0e'
+magenta = '#5400a8'
+red = '#7a0047'
+white = '#9c958d'
+yellow = '#733a11'
+
+[colors.primary]
+background = '#e4e2e0'
+foreground = '#061f4a'
+
+[colors.selection]
+background = '#b8d2e5'
+text = '#061f4a'

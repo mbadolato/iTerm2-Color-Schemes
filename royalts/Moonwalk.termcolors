@@ -1,0 +1,117 @@
+{
+  "userInterface": false,
+  "terminal": true,
+  "colors": [
+    {
+      "name": "Foreground",
+      "color": "#061f4a",
+      "terminalMapping": "foreground"
+    },
+    {
+      "name": "BoldForeground",
+      "color": "#061f4a",
+      "terminalMapping": "boldforeground"
+    },
+    {
+      "name": "Background",
+      "color": "#e4e2e0",
+      "terminalMapping": "background"
+    },
+    {
+      "name": "BoldBackground",
+      "color": "#e4e2e0",
+      "terminalMapping": "boldbackground"
+    },
+    {
+      "name": "CursorForeground",
+      "color": "#e4e2e0",
+      "terminalMapping": "cursorForeground"
+    },
+    {
+      "name": "CursorBackground",
+      "color": "#061f4a",
+      "terminalMapping": "cursorBackground"
+    },
+    {
+      "name": "Black",
+      "color": "#080808",
+      "terminalMapping": "ansiBlack"
+    },
+    {
+      "name": "Red",
+      "color": "#7a0047",
+      "terminalMapping": "ansiRed"
+    },
+    {
+      "name": "Green",
+      "color": "#145b0e",
+      "terminalMapping": "ansiGreen"
+    },
+    {
+      "name": "Yellow",
+      "color": "#733a11",
+      "terminalMapping": "ansiYellow"
+    },
+    {
+      "name": "Blue",
+      "color": "#002fa7",
+      "terminalMapping": "ansiBlue"
+    },
+    {
+      "name": "Magenta",
+      "color": "#5400a8",
+      "terminalMapping": "ansiMagenta"
+    },
+    {
+      "name": "Cyan",
+      "color": "#00566b",
+      "terminalMapping": "ansiCyan"
+    },
+    {
+      "name": "White",
+      "color": "#9c958d",
+      "terminalMapping": "ansiWhite"
+    },
+    {
+      "name": "BrightBlack",
+      "color": "#494440",
+      "terminalMapping": "ansiBrightBlack"
+    },
+    {
+      "name": "BrightRed",
+      "color": "#af1608",
+      "terminalMapping": "ansiBrightRed"
+    },
+    {
+      "name": "BrightGreen",
+      "color": "#4c6129",
+      "terminalMapping": "ansiBrightGreen"
+    },
+    {
+      "name": "BrightYellow",
+      "color": "#7a5000",
+      "terminalMapping": "ansiBrightYellow"
+    },
+    {
+      "name": "BrightBlue",
+      "color": "#0d50c5",
+      "terminalMapping": "ansiBrightBlue"
+    },
+    {
+      "name": "BrightMagenta",
+      "color": "#952197",
+      "terminalMapping": "ansiBrightMagenta"
+    },
+    {
+      "name": "BrightCyan",
+      "color": "#006092",
+      "terminalMapping": "ansiBrightCyan"
+    },
+    {
+      "name": "BrightWhite",
+      "color": "#ffffff",
+      "terminalMapping": "ansiBrightWhite"
+    }
+  ],
+  "paletteName": "Moonwalk"
+}

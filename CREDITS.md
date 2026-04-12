@@ -339,6 +339,8 @@ The OceanicMaterial theme was created by [rahulpatel](https://github.com/rahulpa
 
 The Oceanic Next theme was created by [mhartington](https://github.com/mhartington/oceanic-next-iterm)
 
+The Moonwalk theme was created by [Jian](https://github.com/thejian)
+
 The One Dark Two theme was created by [beatreichenbach](https://github.com/beatreichenbach/one-dark-two), based on Atom's One Dark with brighter text.
 
 The One Double Dark and One Double Light themes were created by [pamburus](https://github.com/pamburus/one-double), based on One Half and Atom's One, with a visibility fix for the bright black color in the dark variant and altered bright colors in both variants.

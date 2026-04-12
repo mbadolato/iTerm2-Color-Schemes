@@ -1,0 +1,43 @@
+!
+! Moonwalk
+!
+*.foreground:  #061f4a
+*.background:  #e4e2e0
+*.cursorColor: #061f4a
+!
+! Black
+*.color0:      #080808
+*.color8:      #494440
+!
+! Red
+*.color1:      #7a0047
+*.color9:      #af1608
+!
+! Green
+*.color2:      #145b0e
+*.color10:     #4c6129
+!
+! Yellow
+*.color3:      #733a11
+*.color11:     #7a5000
+!
+! Blue
+*.color4:      #002fa7
+*.color12:     #0d50c5
+!
+! Magenta
+*.color5:      #5400a8
+*.color13:     #952197
+!
+! Cyan
+*.color6:      #00566b
+*.color14:     #006092
+!
+! White
+*.color7:      #9c958d
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #061f4a
+!*.colorIT:
+!*.colorUL:
