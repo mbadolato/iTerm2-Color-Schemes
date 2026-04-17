@@ -1,0 +1,43 @@
+!
+! Gleam Classic
+!
+*.foreground:  #ffffff
+*.background:  #1e1e1e
+*.cursorColor: #ffffff
+!
+! Black
+*.color0:      #000000
+*.color8:      #808080
+!
+! Red
+*.color1:      #f44747
+*.color9:      #ff4a4a
+!
+! Green
+*.color2:      #aadd8b
+*.color10:     #c8ffa7
+!
+! Yellow
+*.color3:      #ffd596
+*.color11:     #fdffab
+!
+! Blue
+*.color4:      #6796e6
+*.color12:     #9ce7ff
+!
+! Magenta
+*.color5:      #fe7ab2
+*.color13:     #ffaff3
+!
+! Cyan
+*.color6:      #b181ec
+*.color14:     #d9baff
+!
+! White
+*.color7:      #f7f7f7
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

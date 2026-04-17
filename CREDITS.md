@@ -192,6 +192,8 @@ The GitHub Dark theme was created by [Al Duncanson](https://github.com/alDuncans
 
 The GitLab Dark, GitLab Dark Grey, and GitLab Light themes were added by [Antonio Camargo](https://github.com/apcamargo). These themes were converted from the theme created by [albertorestifo](https://github.com/albertorestifo/gitlab-webide-theme) using the [ditto](https://github.com/campvanilla/ditto) tool.
 
+The Gleam and Gleam Classic themes were created by [trag1c](https://github.com/trag1c). Originally designed by [aslilac](https://github.com/aslilac) and [lpil](https://github.com/lpil).
+
 The Gruber Darker theme was inspired by [Alexey Kutepov](https://github.com/rexim)
 
 The Gruvbox Dark theme was created by [morhetz](https://github.com/morhetz) and added by [saccarosium](https://github.com/mcchrish)

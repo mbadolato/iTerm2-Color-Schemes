@@ -1,0 +1,33 @@
+# Colors (Gleam)
+
+[colors.bright]
+black = '#808080'
+blue = '#9ce7ff'
+cyan = '#d9baff'
+green = '#c8ffa7'
+magenta = '#ffaff3'
+red = '#ff4a4a'
+white = '#ffffff'
+yellow = '#fdffab'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#2f2f2f'
+
+[colors.normal]
+black = '#000000'
+blue = '#6796e6'
+cyan = '#b181ec'
+green = '#aadd8b'
+magenta = '#fe7ab2'
+red = '#f44747'
+white = '#f7f7f7'
+yellow = '#ffd596'
+
+[colors.primary]
+background = '#292d3e'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#393f57'
+text = '#ffffff'
