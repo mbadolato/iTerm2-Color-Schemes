@@ -516,3 +516,5 @@ Poimandres theme was originally created by [drcmda](https://github.com/drcmda/po
 Onenord and Onenord Light theme was created by [Ryan Mehri](https://github.com/rmehri01/onenord.nvim)
 
 The Claude theme was created by [techfitmaster](https://github.com/techfitmaster/ghostty-claude-theme), inspired by the [Claude](https://claude.ai) AI interface color palette
+
+The JetCalm Light theme was created by [mtueih](https://github.com/mtueih) based on [Son A. Pham](https://github.com/sonph)'s [One Half Light](https://github.com/sonph/onehalf) theme, inspired by the [JetBrains](https://www.jetbrains.com) IDE interface color palette

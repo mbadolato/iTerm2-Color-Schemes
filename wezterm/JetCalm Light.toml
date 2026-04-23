@@ -1,0 +1,12 @@
+# JetCalm Light
+[colors]
+foreground = "#1c2410"
+background = "#ededed"
+cursor_bg = "#082108"
+cursor_border = "#082108"
+cursor_fg = "#ededed"
+selection_bg = "#3c444d"
+selection_fg = "#ededed"
+
+ansi = ["#383a42","#a52a2a","#556b2f","#5c3e00","#4682b4","#a626a4","#0997b3","#6b8e23"]
+brights = ["#4f525d","#df6c75","#2e8b57","#808000","#008080","#c577dd","#008080","#7b8d9e"]

@@ -1,0 +1,33 @@
+# Colors (JetCalm Light)
+
+[colors.bright]
+black = '#4f525d'
+blue = '#008080'
+cyan = '#008080'
+green = '#2e8b57'
+magenta = '#c577dd'
+red = '#df6c75'
+white = '#7b8d9e'
+yellow = '#808000'
+
+[colors.cursor]
+cursor = '#082108'
+text = '#ededed'
+
+[colors.normal]
+black = '#383a42'
+blue = '#4682b4'
+cyan = '#0997b3'
+green = '#556b2f'
+magenta = '#a626a4'
+red = '#a52a2a'
+white = '#6b8e23'
+yellow = '#5c3e00'
+
+[colors.primary]
+background = '#ededed'
+foreground = '#1c2410'
+
+[colors.selection]
+background = '#3c444d'
+text = '#ededed'

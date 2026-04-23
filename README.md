@@ -285,6 +285,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/atom.png)
 
+### Aura Dark
+
+![Screenshot](/screenshots/aura-dark.png)
+
 ### Aura
 
 ![Screenshot](/screenshots/aura.png)
@@ -781,6 +785,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/glacier.png)
 
+### Gleam Classic
+
+![Screenshot](/screenshots/gleam-classic.png)
+
+### Gleam
+
+![Screenshot](/screenshots/gleam.png)
+
 ### Grape
 
 ![Screenshot](/screenshots/grape.png)
@@ -1012,6 +1024,10 @@ The screenshots are categorized.
 ### Kitty Low Contrast
 
 ![Screenshot](/screenshots/kitty-low-contrast.png)
+
+### Klein Void
+
+![Screenshot](/screenshots/klein-void.png)
 
 ### Kolorit
 
@@ -1867,6 +1883,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/catppuccin-latte.png)
 
+### Claude
+
+![Screenshot](/screenshots/claude.png)
+
 ### Clear Light
 
 ![Screenshot](/screenshots/clear-light.png)
@@ -1962,6 +1982,10 @@ The screenshots are categorized.
 ### iTerm2 Tango Light
 
 ![Screenshot](/screenshots/iterm2-tango-light.png)
+
+### JetCalm Light
+
+![Screenshot](/screenshots/jetcalm-light.png)
 
 ### Kanagawa Lotus
 

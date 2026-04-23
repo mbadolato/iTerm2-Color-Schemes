@@ -1,0 +1,43 @@
+!
+! JetCalm Light
+!
+*.foreground:  #1c2410
+*.background:  #ededed
+*.cursorColor: #082108
+!
+! Black
+*.color0:      #383a42
+*.color8:      #4f525d
+!
+! Red
+*.color1:      #a52a2a
+*.color9:      #df6c75
+!
+! Green
+*.color2:      #556b2f
+*.color10:     #2e8b57
+!
+! Yellow
+*.color3:      #5c3e00
+*.color11:     #808000
+!
+! Blue
+*.color4:      #4682b4
+*.color12:     #008080
+!
+! Magenta
+*.color5:      #a626a4
+*.color13:     #c577dd
+!
+! Cyan
+*.color6:      #0997b3
+*.color14:     #008080
+!
+! White
+*.color7:      #6b8e23
+*.color15:     #7b8d9e
+!
+! Bold, Italic, Underline
+*.colorBD:     #1c2410
+!*.colorIT:
+!*.colorUL:
