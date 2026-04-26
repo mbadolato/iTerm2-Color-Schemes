@@ -284,6 +284,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/citruszest.png)
 
+### Claude Dark
+
+![Screenshot](/screenshots/claude-dark.png)
+
 ### Clear Dark
 
 ![Screenshot](/screenshots/clear-dark.png)
@@ -1689,6 +1693,10 @@ The screenshots are categorized.
 ### Catppuccin Latte
 
 ![Screenshot](/screenshots/catppuccin-latte.png)
+
+### Claude Light
+
+![Screenshot](/screenshots/claude-light.png)
 
 ### Claude
 

@@ -1,0 +1,43 @@
+!
+! Claude Dark
+!
+*.foreground:  #e5e4e1
+*.background:  #262624
+*.cursorColor: #d97757
+!
+! Black
+*.color0:      #888681
+*.color8:      #a6a59b
+!
+! Red
+*.color1:      #d47563
+*.color9:      #f4a9a9
+!
+! Green
+*.color2:      #9aca86
+*.color10:     #a8d166
+!
+! Yellow
+*.color3:      #e8c96b
+*.color11:     #fab319
+!
+! Blue
+*.color4:      #6a9bcc
+*.color12:     #9fc5f4
+!
+! Magenta
+*.color5:      #9b87f5
+*.color13:     #f3aac5
+!
+! Cyan
+*.color6:      #3cbe8c
+*.color14:     #79d7b3
+!
+! White
+*.color7:      #e2e1da
+*.color15:     #efeeeb
+!
+! Bold, Italic, Underline
+*.colorBD:     #e5e4e1
+!*.colorIT:
+!*.colorUL:

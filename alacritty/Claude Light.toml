@@ -1,0 +1,33 @@
+# Colors (Claude Light)
+
+[colors.bright]
+black = '#51504d'
+blue = '#3886e5'
+cyan = '#199f70'
+green = '#639900'
+magenta = '#d55382'
+red = '#e34a4a'
+white = '#e2e1da'
+yellow = '#b87700'
+
+[colors.cursor]
+cursor = '#d97757'
+text = '#faf9f5'
+
+[colors.normal]
+black = '#0a0a0a'
+blue = '#184e95'
+cyan = '#066049'
+green = '#2e7c4c'
+magenta = '#882b4d'
+red = '#a84b3a'
+white = '#b6b5aa'
+yellow = '#8a6220'
+
+[colors.primary]
+background = '#faf9f5'
+foreground = '#141413'
+
+[colors.selection]
+background = '#f0eee6'
+text = '#141413'

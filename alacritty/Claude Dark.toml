@@ -1,0 +1,33 @@
+# Colors (Claude Dark)
+
+[colors.bright]
+black = '#a6a59b'
+blue = '#9fc5f4'
+cyan = '#79d7b3'
+green = '#a8d166'
+magenta = '#f3aac5'
+red = '#f4a9a9'
+white = '#efeeeb'
+yellow = '#fab319'
+
+[colors.cursor]
+cursor = '#d97757'
+text = '#262624'
+
+[colors.normal]
+black = '#888681'
+blue = '#6a9bcc'
+cyan = '#3cbe8c'
+green = '#9aca86'
+magenta = '#9b87f5'
+red = '#d47563'
+white = '#e2e1da'
+yellow = '#e8c96b'
+
+[colors.primary]
+background = '#262624'
+foreground = '#e5e4e1'
+
+[colors.selection]
+background = '#363634'
+text = '#e5e4e1'

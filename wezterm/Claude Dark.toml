@@ -1,0 +1,12 @@
+# Claude Dark
+[colors]
+foreground = "#e5e4e1"
+background = "#262624"
+cursor_bg = "#d97757"
+cursor_border = "#d97757"
+cursor_fg = "#262624"
+selection_bg = "#363634"
+selection_fg = "#e5e4e1"
+
+ansi = ["#888681","#d47563","#9aca86","#e8c96b","#6a9bcc","#9b87f5","#3cbe8c","#e2e1da"]
+brights = ["#a6a59b","#f4a9a9","#a8d166","#fab319","#9fc5f4","#f3aac5","#79d7b3","#efeeeb"]

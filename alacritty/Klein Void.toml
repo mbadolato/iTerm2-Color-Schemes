@@ -1,0 +1,33 @@
+# Colors (Klein Void)
+
+[colors.bright]
+black = '#92907a'
+blue = '#a8bef0'
+cyan = '#b0d0ed'
+green = '#bcc89c'
+magenta = '#c8b4d4'
+red = '#d97757'
+white = '#f5efde'
+yellow = '#f0c880'
+
+[colors.cursor]
+cursor = '#ede6d3'
+text = '#0b0d14'
+
+[colors.normal]
+black = '#1a1c24'
+blue = '#002fa7'
+cyan = '#9fc0e5'
+green = '#a6c080'
+magenta = '#d49bb5'
+red = '#f09890'
+white = '#cdc7b8'
+yellow = '#e8bc75'
+
+[colors.primary]
+background = '#0b0d14'
+foreground = '#ede6d3'
+
+[colors.selection]
+background = '#002fa7'
+text = '#ede6d3'

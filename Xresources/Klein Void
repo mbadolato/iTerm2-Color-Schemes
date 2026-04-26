@@ -1,0 +1,43 @@
+!
+! Klein Void
+!
+*.foreground:  #ede6d3
+*.background:  #0b0d14
+*.cursorColor: #ede6d3
+!
+! Black
+*.color0:      #1a1c24
+*.color8:      #92907a
+!
+! Red
+*.color1:      #f09890
+*.color9:      #d97757
+!
+! Green
+*.color2:      #a6c080
+*.color10:     #bcc89c
+!
+! Yellow
+*.color3:      #e8bc75
+*.color11:     #f0c880
+!
+! Blue
+*.color4:      #002fa7
+*.color12:     #a8bef0
+!
+! Magenta
+*.color5:      #d49bb5
+*.color13:     #c8b4d4
+!
+! Cyan
+*.color6:      #9fc0e5
+*.color14:     #b0d0ed
+!
+! White
+*.color7:      #cdc7b8
+*.color15:     #f5efde
+!
+! Bold, Italic, Underline
+*.colorBD:     #ede6d3
+!*.colorIT:
+!*.colorUL:
