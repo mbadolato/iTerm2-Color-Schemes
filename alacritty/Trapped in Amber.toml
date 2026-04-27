@@ -1,0 +1,33 @@
+# Colors (Trapped in Amber)
+
+[colors.bright]
+black = '#5a4a3a'
+blue = '#6b9fff'
+cyan = '#a5c2cc'
+green = '#a8c46b'
+magenta = '#ff7fa8'
+red = '#ff7832'
+white = '#fff5e0'
+yellow = '#ffd700'
+
+[colors.cursor]
+cursor = '#ffc940'
+text = '#0a1017'
+
+[colors.normal]
+black = '#4a3220'
+blue = '#4a7ec9'
+cyan = '#7a9ea8'
+green = '#7a9c4a'
+magenta = '#c95a8c'
+red = '#e05c1c'
+white = '#ffd9a0'
+yellow = '#f0a020'
+
+[colors.primary]
+background = '#0a1017'
+foreground = '#f0a020'
+
+[colors.selection]
+background = '#4a3416'
+text = '#ffd9a0'

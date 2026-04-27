@@ -1524,6 +1524,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/traffic.png)
 
+### Trapped in Amber
+
+![Screenshot](/screenshots/trapped-in-amber.png)
+
 ### Treehouse
 
 ![Screenshot](/screenshots/treehouse.png)

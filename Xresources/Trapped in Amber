@@ -1,0 +1,43 @@
+!
+! Trapped in Amber
+!
+*.foreground:  #f0a020
+*.background:  #0a1017
+*.cursorColor: #ffc940
+!
+! Black
+*.color0:      #4a3220
+*.color8:      #5a4a3a
+!
+! Red
+*.color1:      #e05c1c
+*.color9:      #ff7832
+!
+! Green
+*.color2:      #7a9c4a
+*.color10:     #a8c46b
+!
+! Yellow
+*.color3:      #f0a020
+*.color11:     #ffd700
+!
+! Blue
+*.color4:      #4a7ec9
+*.color12:     #6b9fff
+!
+! Magenta
+*.color5:      #c95a8c
+*.color13:     #ff7fa8
+!
+! Cyan
+*.color6:      #7a9ea8
+*.color14:     #a5c2cc
+!
+! White
+*.color7:      #ffd9a0
+*.color15:     #fff5e0
+!
+! Bold, Italic, Underline
+*.colorBD:     #f0a020
+!*.colorIT:
+!*.colorUL:

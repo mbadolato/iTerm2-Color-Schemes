@@ -469,6 +469,8 @@ The Tomorrow themes were created by [chriskempson](https://github.com/chriskemps
 
 The Tomorrow Night Burns theme were created by [ashwinv11](https://github.com/ashwinv11/)
 
+The Trapped in Amber theme was created by [mattjoyce](https://github.com/mattjoyce/trapped-in-amber).
+
 The Twilight theme was created by [stefri](https://gist.github.com/stefri/1183140)
 
 The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
