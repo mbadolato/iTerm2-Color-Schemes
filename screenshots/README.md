@@ -992,6 +992,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/monokai-soda.png)
 
+### Monokai SublimeText
+
+![Screenshot](/screenshots/monokai-sublimetext.png)
+
 ### Monokai Vivid
 
 ![Screenshot](/screenshots/monokai-vivid.png)

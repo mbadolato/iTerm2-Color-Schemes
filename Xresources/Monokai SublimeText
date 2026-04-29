@@ -1,0 +1,43 @@
+!
+! Monokai SublimeText
+!
+*.foreground:  #f8f8f2
+*.background:  #272822
+*.cursorColor: #f8f8f0
+!
+! Black
+*.color0:      #333333
+*.color8:      #666666
+!
+! Red
+*.color1:      #c4265e
+*.color9:      #f92672
+!
+! Green
+*.color2:      #86b42b
+*.color10:     #a6e22e
+!
+! Yellow
+*.color3:      #b3b42b
+*.color11:     #e2e22e
+!
+! Blue
+*.color4:      #6a7ec8
+*.color12:     #819aff
+!
+! Magenta
+*.color5:      #8c6bc8
+*.color13:     #ae81ff
+!
+! Cyan
+*.color6:      #56adbc
+*.color14:     #66d9ef
+!
+! White
+*.color7:      #e3e3dd
+*.color15:     #f8f8f2
+!
+! Bold, Italic, Underline
+*.colorBD:     #f8f8f2
+!*.colorIT:
+!*.colorUL:

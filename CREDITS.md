@@ -305,6 +305,8 @@ The theme Monokai (Classic, Pro, Machine, Octagon, Ristretto, Spectrum, Light & 
 
 The theme Monokai Soda was found [here](https://github.com/deepsweet/Monokai-Soda-iTerm).
 
+The theme Monokai SublimeText was created by [Howar31](https://github.com/howar31/monokai-sublimetext).
+
 The theme Monokai Vivid was created by [vitalymak](https://github.com/vitalymak/iTerm2-Color-Schemes).
 
 The Monospace Dark and Monospace Light themes were created and added by [conventoangelo](https://github.com/conventoangelo) based on Google's Project IDX theme of the same name.

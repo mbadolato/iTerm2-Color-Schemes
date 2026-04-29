@@ -1,0 +1,33 @@
+# Colors (Monokai SublimeText)
+
+[colors.bright]
+black = '#666666'
+blue = '#819aff'
+cyan = '#66d9ef'
+green = '#a6e22e'
+magenta = '#ae81ff'
+red = '#f92672'
+white = '#f8f8f2'
+yellow = '#e2e22e'
+
+[colors.cursor]
+cursor = '#f8f8f0'
+text = '#272822'
+
+[colors.normal]
+black = '#333333'
+blue = '#6a7ec8'
+cyan = '#56adbc'
+green = '#86b42b'
+magenta = '#8c6bc8'
+red = '#c4265e'
+white = '#e3e3dd'
+yellow = '#b3b42b'
+
+[colors.primary]
+background = '#272822'
+foreground = '#f8f8f2'
+
+[colors.selection]
+background = '#49483e'
+text = '#f8f8f2'
