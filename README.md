@@ -1449,6 +1449,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/sakura.png)
 
+### Sauber
+
+![Screenshot](/screenshots/sauber.png)
+
 ### Scarlet Protocol
 
 ![Screenshot](/screenshots/scarlet-protocol.png)

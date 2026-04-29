@@ -1,0 +1,33 @@
+# Colors (Sauber)
+
+[colors.bright]
+black = '#686868'
+blue = '#a7abf2'
+cyan = '#048b8f'
+green = '#3fcd76'
+magenta = '#e17ee1'
+red = '#dd7975'
+white = '#a4801c'
+yellow = '#c6bb00'
+
+[colors.cursor]
+cursor = '#000000'
+text = '#ffffff'
+
+[colors.normal]
+black = '#14191e'
+blue = '#2744c7'
+cyan = '#00c5c7'
+green = '#00c200'
+magenta = '#c040be'
+red = '#b43c2a'
+white = '#bababa'
+yellow = '#c7c400'
+
+[colors.primary]
+background = '#ecffe5'
+foreground = '#1345f6'
+
+[colors.selection]
+background = '#b3d7ff'
+text = '#000000'

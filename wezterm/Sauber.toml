@@ -1,0 +1,12 @@
+# Sauber
+[colors]
+foreground = "#1345f6"
+background = "#ecffe5"
+cursor_bg = "#000000"
+cursor_border = "#000000"
+cursor_fg = "#ffffff"
+selection_bg = "#b3d7ff"
+selection_fg = "#000000"
+
+ansi = ["#14191e","#b43c2a","#00c200","#c7c400","#2744c7","#c040be","#00c5c7","#bababa"]
+brights = ["#686868","#dd7975","#3fcd76","#c6bb00","#a7abf2","#e17ee1","#048b8f","#a4801c"]

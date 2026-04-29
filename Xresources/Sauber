@@ -1,0 +1,43 @@
+!
+! Sauber
+!
+*.foreground:  #1345f6
+*.background:  #ecffe5
+*.cursorColor: #000000
+!
+! Black
+*.color0:      #14191e
+*.color8:      #686868
+!
+! Red
+*.color1:      #b43c2a
+*.color9:      #dd7975
+!
+! Green
+*.color2:      #00c200
+*.color10:     #3fcd76
+!
+! Yellow
+*.color3:      #c7c400
+*.color11:     #c6bb00
+!
+! Blue
+*.color4:      #2744c7
+*.color12:     #a7abf2
+!
+! Magenta
+*.color5:      #c040be
+*.color13:     #e17ee1
+!
+! Cyan
+*.color6:      #00c5c7
+*.color14:     #048b8f
+!
+! White
+*.color7:      #bababa
+*.color15:     #a4801c
+!
+! Bold, Italic, Underline
+*.colorBD:     #101010
+!*.colorIT:
+!*.colorUL:
