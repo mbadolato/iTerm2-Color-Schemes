@@ -1,0 +1,12 @@
+# Karma Light HC
+[colors]
+foreground = "#000000"
+background = "#ffffff"
+cursor_bg = "#4d2d9a"
+cursor_border = "#4d2d9a"
+cursor_fg = "#ffffff"
+selection_bg = "#cfcad8"
+selection_fg = "#000000"
+
+ansi = ["#000000","#c01650","#1a6e1c","#9c6800","#2f5e9e","#4d2d9a","#2f5e9e","#2e2c30"]
+brights = ["#999999","#c01650","#1a6e1c","#9c6800","#2f5e9e","#4d2d9a","#2f5e9e","#0a0e14"]

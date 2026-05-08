@@ -1,0 +1,43 @@
+!
+! Karma Dark Dimmed
+!
+*.foreground:  #e2def0
+*.background:  #14181f
+*.cursorColor: #ebd870
+!
+! Black
+*.color0:      #14181f
+*.color8:      #5c5a5f
+!
+! Red
+*.color1:      #e87691
+*.color9:      #e8869c
+!
+! Green
+*.color2:      #82c891
+*.color10:     #98cea4
+!
+! Yellow
+*.color3:      #ebd870
+*.color11:     #ebd870
+!
+! Blue
+*.color4:      #6cc4d2
+*.color12:     #80c8d2
+!
+! Magenta
+*.color5:      #a892d4
+*.color13:     #b6a4d6
+!
+! Cyan
+*.color6:      #6cc4d2
+*.color14:     #80c8d2
+!
+! White
+*.color7:      #a8a4ae
+*.color15:     #e2def0
+!
+! Bold, Italic, Underline
+*.colorBD:     #f0eafa
+!*.colorIT:
+!*.colorUL:

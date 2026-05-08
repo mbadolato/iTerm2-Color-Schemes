@@ -1,0 +1,33 @@
+# Colors (Karma Dark)
+
+[colors.bright]
+black = '#69676c'
+blue = '#7fe0ee'
+cyan = '#7fe0ee'
+green = '#9ce3ab'
+magenta = '#c3b0f0'
+red = '#ff7ba0'
+white = '#f7f1ff'
+yellow = '#fce566'
+
+[colors.cursor]
+cursor = '#fce566'
+text = '#0a0e14'
+
+[colors.normal]
+black = '#0a0e14'
+blue = '#5ad4e6'
+cyan = '#5ad4e6'
+green = '#7bd88f'
+magenta = '#af98e6'
+red = '#fc618d'
+white = '#bab6c0'
+yellow = '#fce566'
+
+[colors.primary]
+background = '#0a0e14'
+foreground = '#f7f1ff'
+
+[colors.selection]
+background = '#3a384a'
+text = '#f7f1ff'

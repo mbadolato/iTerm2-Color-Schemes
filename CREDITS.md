@@ -255,6 +255,8 @@ The Kanagawa themes (Kanagawa Wave, Kanagawa Dragon, and Kanagawa Lotus) were cr
 
 The Karasu Night and Karasu Snow themes were created by [scozu](https://github.com/scozu).
 
+The Karma themes (Karma Dark, Karma Light, Karma Dark HC, Karma Light HC, Karma Dark Dimmed, and Karma Light Dimmed) are based on the [Karma VS Code theme](https://sreetamdas.com/karma) by [Sreetam Das](https://github.com/sreetamdas) and were ported to iTerm2 by [Artur Spatari](https://github.com/aspatari/iterm2-karma).
+
 The Kanso Ink, Kanso Mist, Kanso Zen, and Kanso Pearl themes were created by [webhooked](https://github.com/webhooked) and added by [Antonio Camargo](https://github.com/apcamargo).
 
 The Kolorit theme was created by [thomaspaulmann](https://github.com/thomaspaulmann)

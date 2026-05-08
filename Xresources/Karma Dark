@@ -1,0 +1,43 @@
+!
+! Karma Dark
+!
+*.foreground:  #f7f1ff
+*.background:  #0a0e14
+*.cursorColor: #fce566
+!
+! Black
+*.color0:      #0a0e14
+*.color8:      #69676c
+!
+! Red
+*.color1:      #fc618d
+*.color9:      #ff7ba0
+!
+! Green
+*.color2:      #7bd88f
+*.color10:     #9ce3ab
+!
+! Yellow
+*.color3:      #fce566
+*.color11:     #fce566
+!
+! Blue
+*.color4:      #5ad4e6
+*.color12:     #7fe0ee
+!
+! Magenta
+*.color5:      #af98e6
+*.color13:     #c3b0f0
+!
+! Cyan
+*.color6:      #5ad4e6
+*.color14:     #7fe0ee
+!
+! White
+*.color7:      #bab6c0
+*.color15:     #f7f1ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

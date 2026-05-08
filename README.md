@@ -1017,6 +1017,18 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/karasu-night.png)
 
+### Karma Dark Dimmed
+
+![Screenshot](/screenshots/karma-dark-dimmed.png)
+
+### Karma Dark HC
+
+![Screenshot](/screenshots/karma-dark-hc.png)
+
+### Karma Dark
+
+![Screenshot](/screenshots/karma-dark.png)
+
 ### Kibble
 
 ![Screenshot](/screenshots/kibble.png)
@@ -2014,6 +2026,18 @@ The screenshots are categorized.
 ### Karasu Snow
 
 ![Screenshot](/screenshots/karasu-snow.png)
+
+### Karma Light Dimmed
+
+![Screenshot](/screenshots/karma-light-dimmed.png)
+
+### Karma Light HC
+
+![Screenshot](/screenshots/karma-light-hc.png)
+
+### Karma Light
+
+![Screenshot](/screenshots/karma-light.png)
 
 ### Light Owl
 
