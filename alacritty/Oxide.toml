@@ -1,0 +1,33 @@
+# Colors (Oxide)
+
+[colors.bright]
+black = '#8f8f8f'
+blue = '#6fc6ff'
+cyan = '#00dcca'
+green = '#7bd77f'
+magenta = '#b5b2ff'
+red = '#ff9890'
+white = '#dedede'
+yellow = '#e3b831'
+
+[colors.cursor]
+cursor = '#cecece'
+text = '#161616'
+
+[colors.normal]
+black = '#262626'
+blue = '#3ba6f5'
+cyan = '#00baaa'
+green = '#5bb661'
+magenta = '#968ff7'
+red = '#ed756e'
+white = '#cecece'
+yellow = '#c39900'
+
+[colors.primary]
+background = '#161616'
+foreground = '#cecece'
+
+[colors.selection]
+background = '#262626'
+text = '#cecece'

@@ -1,0 +1,43 @@
+!
+! Oxide
+!
+*.foreground:  #cecece
+*.background:  #161616
+*.cursorColor: #cecece
+!
+! Black
+*.color0:      #262626
+*.color8:      #8f8f8f
+!
+! Red
+*.color1:      #ed756e
+*.color9:      #ff9890
+!
+! Green
+*.color2:      #5bb661
+*.color10:     #7bd77f
+!
+! Yellow
+*.color3:      #c39900
+*.color11:     #e3b831
+!
+! Blue
+*.color4:      #3ba6f5
+*.color12:     #6fc6ff
+!
+! Magenta
+*.color5:      #968ff7
+*.color13:     #b5b2ff
+!
+! Cyan
+*.color6:      #00baaa
+*.color14:     #00dcca
+!
+! White
+*.color7:      #cecece
+*.color15:     #dedede
+!
+! Bold, Italic, Underline
+*.colorBD:     #cecece
+!*.colorIT:
+!*.colorUL:

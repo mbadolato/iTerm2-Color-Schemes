@@ -1,0 +1,7 @@
+#!/bin/sh
+# Oxide
+printf "\033]4;0;#262626;1;#ed756e;2;#5bb661;3;#c39900;4;#3ba6f5;5;#968ff7;6;#00baaa;7;#cecece;8;#8f8f8f;9;#ff9890;10;#7bd77f;11;#e3b831;12;#6fc6ff;13;#b5b2ff;14;#00dcca;15;#dedede\007"
+printf "\033]10;#cecece;#161616;#cecece\007"
+printf "\033]17;#262626\007"
+printf "\033]19;#cecece\007"
+printf "\033]5;0;#cecece\007"
