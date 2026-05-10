@@ -409,6 +409,8 @@ The Seti theme was created by [jesseweed](https://github.com/jesseweed/seti-synt
 
 The Shades Of Purple theme was found [here](https://github.com/ahmadawais/shades-of-purple-iterm2) and ported by [fr3fou](https://github.com/fr3fou)
 
+The Shokunin theme was created by [Maksim Burtsev](https://github.com/Maksim-Burtsev) and is based on the terminal palette from the [Shokunin VS Code theme](https://github.com/Maksim-Burtsev/shokunin-theme)
+
 The Slate theme was created by [deneshshan](https://github.com/deneshshan)
 
 The Smyck theme was found [here](https://github.com/hukl/Smyck-Color-Scheme)
