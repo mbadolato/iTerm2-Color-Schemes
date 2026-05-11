@@ -1,0 +1,43 @@
+!
+! Karma Dark HC
+!
+*.foreground:  #ffffff
+*.background:  #000000
+*.cursorColor: #fce566
+!
+! Black
+*.color0:      #000000
+*.color8:      #69676c
+!
+! Red
+*.color1:      #ff5c87
+*.color9:      #ff8aab
+!
+! Green
+*.color2:      #80e598
+*.color10:     #a3e9b1
+!
+! Yellow
+*.color3:      #fce566
+*.color11:     #fff080
+!
+! Blue
+*.color4:      #61dceb
+*.color12:     #87e5f1
+!
+! Magenta
+*.color5:      #b9a3ee
+*.color13:     #cab6f4
+!
+! Cyan
+*.color6:      #61dceb
+*.color14:     #87e5f1
+!
+! White
+*.color7:      #d6d2db
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

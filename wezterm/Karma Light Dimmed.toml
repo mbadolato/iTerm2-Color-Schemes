@@ -1,0 +1,12 @@
+# Karma Light Dimmed
+[colors]
+foreground = "#1c1f24"
+background = "#f5f3f7"
+cursor_bg = "#9676d0"
+cursor_border = "#9676d0"
+cursor_fg = "#f5f3f7"
+selection_bg = "#ddd8e2"
+selection_fg = "#1c1f24"
+
+ansi = ["#1c1f24","#e07a90","#4a9a4c","#d49a26","#6688b8","#7c5ab0","#6688b8","#5a5860"]
+brights = ["#999999","#e07a90","#4a9a4c","#e0a040","#6688b8","#9676d0","#6688b8","#1c1f24"]

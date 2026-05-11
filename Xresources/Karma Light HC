@@ -1,0 +1,43 @@
+!
+! Karma Light HC
+!
+*.foreground:  #000000
+*.background:  #ffffff
+*.cursorColor: #4d2d9a
+!
+! Black
+*.color0:      #000000
+*.color8:      #999999
+!
+! Red
+*.color1:      #c01650
+*.color9:      #c01650
+!
+! Green
+*.color2:      #1a6e1c
+*.color10:     #1a6e1c
+!
+! Yellow
+*.color3:      #9c6800
+*.color11:     #9c6800
+!
+! Blue
+*.color4:      #2f5e9e
+*.color12:     #2f5e9e
+!
+! Magenta
+*.color5:      #4d2d9a
+*.color13:     #4d2d9a
+!
+! Cyan
+*.color6:      #2f5e9e
+*.color14:     #2f5e9e
+!
+! White
+*.color7:      #2e2c30
+*.color15:     #0a0e14
+!
+! Bold, Italic, Underline
+*.colorBD:     #000000
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (Karma Light HC)
+
+[colors.bright]
+black = '#999999'
+blue = '#2f5e9e'
+cyan = '#2f5e9e'
+green = '#1a6e1c'
+magenta = '#4d2d9a'
+red = '#c01650'
+white = '#0a0e14'
+yellow = '#9c6800'
+
+[colors.cursor]
+cursor = '#4d2d9a'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#2f5e9e'
+cyan = '#2f5e9e'
+green = '#1a6e1c'
+magenta = '#4d2d9a'
+red = '#c01650'
+white = '#2e2c30'
+yellow = '#9c6800'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#000000'
+
+[colors.selection]
+background = '#cfcad8'
+text = '#000000'
