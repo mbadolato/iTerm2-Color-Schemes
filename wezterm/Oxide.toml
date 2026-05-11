@@ -1,0 +1,12 @@
+# Oxide
+[colors]
+foreground = "#cecece"
+background = "#161616"
+cursor_bg = "#cecece"
+cursor_border = "#cecece"
+cursor_fg = "#161616"
+selection_bg = "#262626"
+selection_fg = "#cecece"
+
+ansi = ["#262626","#ed756e","#5bb661","#c39900","#3ba6f5","#968ff7","#00baaa","#cecece"]
+brights = ["#8f8f8f","#ff9890","#7bd77f","#e3b831","#6fc6ff","#b5b2ff","#00dcca","#dedede"]

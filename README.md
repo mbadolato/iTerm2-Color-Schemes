@@ -1329,6 +1329,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/owl.png)
 
+### Oxide
+
+![Screenshot](/screenshots/oxide.png)
+
 ### Oxocarbon
 
 ![Screenshot](/screenshots/oxocarbon.png)
