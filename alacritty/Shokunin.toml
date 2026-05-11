@@ -1,0 +1,33 @@
+# Colors (Shokunin)
+
+[colors.bright]
+black = '#777269'
+blue = '#0084c7'
+cyan = '#008396'
+green = '#1b8e6a'
+magenta = '#a75b73'
+red = '#d95a66'
+white = '#ffffff'
+yellow = '#b67608'
+
+[colors.cursor]
+cursor = '#3a3e44'
+text = '#fcfaf2'
+
+[colors.normal]
+black = '#303841'
+blue = '#006fae'
+cyan = '#006c7f'
+green = '#157a5b'
+magenta = '#8f4155'
+red = '#c84053'
+white = '#c2beb4'
+yellow = '#9a6000'
+
+[colors.primary]
+background = '#fcfaf2'
+foreground = '#303841'
+
+[colors.selection]
+background = '#d7eaf2'
+text = '#303841'

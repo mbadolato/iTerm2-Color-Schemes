@@ -2179,6 +2179,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/seoulbones-light.png)
 
+### Shokunin
+
+![Screenshot](/screenshots/shokunin.png)
+
 ### Spring
 
 ![Screenshot](/screenshots/spring.png)

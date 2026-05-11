@@ -1,0 +1,12 @@
+# Shokunin
+[colors]
+foreground = "#303841"
+background = "#fcfaf2"
+cursor_bg = "#3a3e44"
+cursor_border = "#3a3e44"
+cursor_fg = "#fcfaf2"
+selection_bg = "#d7eaf2"
+selection_fg = "#303841"
+
+ansi = ["#303841","#c84053","#157a5b","#9a6000","#006fae","#8f4155","#006c7f","#c2beb4"]
+brights = ["#777269","#d95a66","#1b8e6a","#b67608","#0084c7","#a75b73","#008396","#ffffff"]

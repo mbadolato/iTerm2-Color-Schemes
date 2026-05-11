@@ -1,0 +1,43 @@
+!
+! Shokunin
+!
+*.foreground:  #303841
+*.background:  #fcfaf2
+*.cursorColor: #3a3e44
+!
+! Black
+*.color0:      #303841
+*.color8:      #777269
+!
+! Red
+*.color1:      #c84053
+*.color9:      #d95a66
+!
+! Green
+*.color2:      #157a5b
+*.color10:     #1b8e6a
+!
+! Yellow
+*.color3:      #9a6000
+*.color11:     #b67608
+!
+! Blue
+*.color4:      #006fae
+*.color12:     #0084c7
+!
+! Magenta
+*.color5:      #8f4155
+*.color13:     #a75b73
+!
+! Cyan
+*.color6:      #006c7f
+*.color14:     #008396
+!
+! White
+*.color7:      #c2beb4
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #303841
+!*.colorIT:
+!*.colorUL:
