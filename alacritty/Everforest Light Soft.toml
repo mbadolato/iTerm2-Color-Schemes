@@ -1,0 +1,33 @@
+# Colors (Everforest Light Soft)
+
+[colors.bright]
+black = '#99a393'
+blue = '#3a94c5'
+cyan = '#35a77c'
+green = '#8da101'
+magenta = '#df69ba'
+red = '#f85552'
+white = '#fffbef'
+yellow = '#d29300'
+
+[colors.cursor]
+cursor = '#f57d26'
+text = '#e1e4bd'
+
+[colors.normal]
+black = '#7a8478'
+blue = '#72aea6'
+cyan = '#76b385'
+green = '#8da666'
+magenta = '#c98ca9'
+red = '#e67e80'
+white = '#a5a292'
+yellow = '#c1a266'
+
+[colors.primary]
+background = '#e5dfc5'
+foreground = '#5c6a72'
+
+[colors.selection]
+background = '#e1e4bd'
+text = '#5c6a72'
