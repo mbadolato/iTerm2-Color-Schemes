@@ -1,0 +1,43 @@
+!
+! Everforest Light Soft
+!
+*.foreground:  #5c6a72
+*.background:  #e5dfc5
+*.cursorColor: #f57d26
+!
+! Black
+*.color0:      #7a8478
+*.color8:      #99a393
+!
+! Red
+*.color1:      #e67e80
+*.color9:      #f85552
+!
+! Green
+*.color2:      #8da666
+*.color10:     #8da101
+!
+! Yellow
+*.color3:      #c1a266
+*.color11:     #d29300
+!
+! Blue
+*.color4:      #72aea6
+*.color12:     #3a94c5
+!
+! Magenta
+*.color5:      #c98ca9
+*.color13:     #df69ba
+!
+! Cyan
+*.color6:      #76b385
+*.color14:     #35a77c
+!
+! White
+*.color7:      #a5a292
+*.color15:     #fffbef
+!
+! Bold, Italic, Underline
+*.colorBD:     #dfa000
+!*.colorIT:
+!*.colorUL:
