@@ -528,3 +528,5 @@ Onenord and Onenord Light theme was created by [Ryan Mehri](https://github.com/r
 The Claude theme was created by [techfitmaster](https://github.com/techfitmaster/ghostty-claude-theme), inspired by the [Claude](https://claude.ai) AI interface color palette
 
 The JetCalm Light theme was created by [mtueih](https://github.com/mtueih) based on [Son A. Pham](https://github.com/sonph)'s [One Half Light](https://github.com/sonph/onehalf) theme, inspired by the [JetBrains](https://www.jetbrains.com) IDE interface color palette
+
+The Atlas Ragnarok theme was created by [Atlas Kaisar](https://github.com/AyoubTadlaoui) — tech-blue thunder above, crimson fire below, pure black through the middle. Built on the syntactic structure of [Vesper](https://github.com/raunofreiberg/vesper) with the warm-accent family remapped to a Tailwind blue gradient. Ships across many editors at [atlas-ragnarok](https://github.com/AyoubTadlaoui/atlas-ragnarok)
