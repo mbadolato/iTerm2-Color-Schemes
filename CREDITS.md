@@ -150,7 +150,15 @@ The Everblush theme was created by [Mangeshrex](https://github.com/Mangeshrex)
 
 The Everforest Dark - Hard theme was found [here](https://github.com/icewind/everforest.iterm2) and ported by [NicolasGB](https://github.com/NicolasGB)
 
+The Everforest Dark - Med theme was found [here](https://github.com/icewind/everforest.iterm2) and ported by [eskultety](https://github.com/eskultety)
+
+The Everforest Dark - Soft theme was found [here](https://github.com/icewind/everforest.iterm2) and ported by [eskultety](https://github.com/eskultety)
+
+The Everforest Light - Hard theme was found [here](https://github.com/icewind/everforest.iterm2) and ported by [eskultety](https://github.com/eskultety)
+
 The Everforest Light - Med theme was found [here](https://github.com/icewind/everforest.iterm2) and ported by [robertjkeller](https://github.com/robertjkeller)
+
+The Everforest Light - Soft theme was found [here](https://github.com/icewind/everforest.iterm2) and ported by [eskultety](https://github.com/eskultety)
 
 The Fahrenheit theme was created by [jonascarpay](https://github.com/jonascarpay) based on [fcpg](https://github.com/fcpg)'s [vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) Vim theme.
 
