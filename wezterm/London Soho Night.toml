@@ -1,0 +1,12 @@
+# London Soho Night
+[colors]
+foreground = "#ebe0c8"
+background = "#1a1612"
+cursor_bg = "#ff5db1"
+cursor_border = "#ff5db1"
+cursor_fg = "#1a1612"
+selection_bg = "#3a2f24"
+selection_fg = "#ebe0c8"
+
+ansi = ["#2a221a","#d4574a","#8fae5e","#e8b04a","#6a8fb5","#d96aa5","#9ab8a8","#ebe0c8"]
+brights = ["#6b5a48","#e87765","#aac874","#f4c560","#88a8c8","#ed85b8","#b8cebd","#f8eed2"]

@@ -1,0 +1,43 @@
+!
+! London Embankment Dusk
+!
+*.foreground:  #e8eef2
+*.background:  #161f2c
+*.cursorColor: #f2c455
+!
+! Black
+*.color0:      #1c2533
+*.color8:      #4a566a
+!
+! Red
+*.color1:      #c5573f
+*.color9:      #e07050
+!
+! Green
+*.color2:      #6a8e85
+*.color10:     #88aaa3
+!
+! Yellow
+*.color3:      #e2bd5c
+*.color11:     #f0cd6c
+!
+! Blue
+*.color4:      #5e87b3
+*.color12:     #82a4cc
+!
+! Magenta
+*.color5:      #9b86a8
+*.color13:     #b09bc0
+!
+! Cyan
+*.color6:      #82a8b8
+*.color14:     #a0c2d0
+!
+! White
+*.color7:      #e8eef2
+*.color15:     #fafbfc
+!
+! Bold, Italic, Underline
+*.colorBD:     #e8eef2
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,12 @@
+# London Bonfire Night
+[colors]
+foreground = "#e8e0c8"
+background = "#0e0c0e"
+cursor_bg = "#e85aa8"
+cursor_border = "#e85aa8"
+cursor_fg = "#0e0c0e"
+selection_bg = "#2a2228"
+selection_fg = "#e8e0c8"
+
+ansi = ["#1a1418","#d65a3a","#6a8a4a","#e8b048","#5a7ab8","#d76aa8","#88a8c8","#e8e0c8"]
+brights = ["#44403c","#ec7654","#88a868","#f5c25c","#7a96d0","#ed85bc","#a0bcd6","#fdf6df"]
