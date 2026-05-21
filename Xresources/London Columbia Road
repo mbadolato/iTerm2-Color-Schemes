@@ -1,0 +1,43 @@
+!
+! London Columbia Road
+!
+*.foreground:  #1f3a2f
+*.background:  #f8f5ec
+*.cursorColor: #d4708e
+!
+! Black
+*.color0:      #2a2520
+*.color8:      #756a55
+!
+! Red
+*.color1:      #c14a4a
+*.color9:      #d96a6a
+!
+! Green
+*.color2:      #5a8a3a
+*.color10:     #6ea050
+!
+! Yellow
+*.color3:      #d4a82c
+*.color11:     #d8af33
+!
+! Blue
+*.color4:      #3a7a8a
+*.color12:     #5598ab
+!
+! Magenta
+*.color5:      #c45f8a
+*.color13:     #d97aa3
+!
+! Cyan
+*.color6:      #5fa89a
+*.color14:     #7ac0b0
+!
+! White
+*.color7:      #1f3a2f
+*.color15:     #142217
+!
+! Bold, Italic, Underline
+*.colorBD:     #1f3a2f
+!*.colorIT:
+!*.colorUL:

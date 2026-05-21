@@ -1,0 +1,12 @@
+# London Embankment Dusk
+[colors]
+foreground = "#e8eef2"
+background = "#161f2c"
+cursor_bg = "#f2c455"
+cursor_border = "#f2c455"
+cursor_fg = "#161f2c"
+selection_bg = "#2c3a52"
+selection_fg = "#e8eef2"
+
+ansi = ["#1c2533","#c5573f","#6a8e85","#e2bd5c","#5e87b3","#9b86a8","#82a8b8","#e8eef2"]
+brights = ["#4a566a","#e07050","#88aaa3","#f0cd6c","#82a4cc","#b09bc0","#a0c2d0","#fafbfc"]

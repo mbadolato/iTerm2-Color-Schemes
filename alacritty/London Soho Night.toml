@@ -1,0 +1,33 @@
+# Colors (London Soho Night)
+
+[colors.bright]
+black = '#6b5a48'
+blue = '#88a8c8'
+cyan = '#b8cebd'
+green = '#aac874'
+magenta = '#ed85b8'
+red = '#e87765'
+white = '#f8eed2'
+yellow = '#f4c560'
+
+[colors.cursor]
+cursor = '#ff5db1'
+text = '#1a1612'
+
+[colors.normal]
+black = '#2a221a'
+blue = '#6a8fb5'
+cyan = '#9ab8a8'
+green = '#8fae5e'
+magenta = '#d96aa5'
+red = '#d4574a'
+white = '#ebe0c8'
+yellow = '#e8b04a'
+
+[colors.primary]
+background = '#1a1612'
+foreground = '#ebe0c8'
+
+[colors.selection]
+background = '#3a2f24'
+text = '#ebe0c8'

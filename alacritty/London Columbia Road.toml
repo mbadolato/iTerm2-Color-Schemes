@@ -1,0 +1,33 @@
+# Colors (London Columbia Road)
+
+[colors.bright]
+black = '#756a55'
+blue = '#5598ab'
+cyan = '#7ac0b0'
+green = '#6ea050'
+magenta = '#d97aa3'
+red = '#d96a6a'
+white = '#142217'
+yellow = '#d8af33'
+
+[colors.cursor]
+cursor = '#d4708e'
+text = '#f8f5ec'
+
+[colors.normal]
+black = '#2a2520'
+blue = '#3a7a8a'
+cyan = '#5fa89a'
+green = '#5a8a3a'
+magenta = '#c45f8a'
+red = '#c14a4a'
+white = '#1f3a2f'
+yellow = '#d4a82c'
+
+[colors.primary]
+background = '#f8f5ec'
+foreground = '#1f3a2f'
+
+[colors.selection]
+background = '#ece5d0'
+text = '#1f3a2f'
