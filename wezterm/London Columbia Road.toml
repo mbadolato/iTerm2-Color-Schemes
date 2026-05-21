@@ -1,0 +1,12 @@
+# London Columbia Road
+[colors]
+foreground = "#1f3a2f"
+background = "#f8f5ec"
+cursor_bg = "#d4708e"
+cursor_border = "#d4708e"
+cursor_fg = "#f8f5ec"
+selection_bg = "#ece5d0"
+selection_fg = "#1f3a2f"
+
+ansi = ["#2a2520","#c14a4a","#5a8a3a","#d4a82c","#3a7a8a","#c45f8a","#5fa89a","#1f3a2f"]
+brights = ["#756a55","#d96a6a","#6ea050","#d8af33","#5598ab","#d97aa3","#7ac0b0","#142217"]

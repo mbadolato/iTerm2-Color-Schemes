@@ -1,0 +1,43 @@
+!
+! London Soho Night
+!
+*.foreground:  #ebe0c8
+*.background:  #1a1612
+*.cursorColor: #ff5db1
+!
+! Black
+*.color0:      #2a221a
+*.color8:      #6b5a48
+!
+! Red
+*.color1:      #d4574a
+*.color9:      #e87765
+!
+! Green
+*.color2:      #8fae5e
+*.color10:     #aac874
+!
+! Yellow
+*.color3:      #e8b04a
+*.color11:     #f4c560
+!
+! Blue
+*.color4:      #6a8fb5
+*.color12:     #88a8c8
+!
+! Magenta
+*.color5:      #d96aa5
+*.color13:     #ed85b8
+!
+! Cyan
+*.color6:      #9ab8a8
+*.color14:     #b8cebd
+!
+! White
+*.color7:      #ebe0c8
+*.color15:     #f8eed2
+!
+! Bold, Italic, Underline
+*.colorBD:     #ebe0c8
+!*.colorIT:
+!*.colorUL:

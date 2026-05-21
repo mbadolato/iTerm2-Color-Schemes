@@ -1,0 +1,7 @@
+#!/bin/sh
+# London Embankment Dusk
+printf "\033]4;0;#1c2533;1;#c5573f;2;#6a8e85;3;#e2bd5c;4;#5e87b3;5;#9b86a8;6;#82a8b8;7;#e8eef2;8;#4a566a;9;#e07050;10;#88aaa3;11;#f0cd6c;12;#82a4cc;13;#b09bc0;14;#a0c2d0;15;#fafbfc\007"
+printf "\033]10;#e8eef2;#161f2c;#f2c455\007"
+printf "\033]17;#2c3a52\007"
+printf "\033]19;#e8eef2\007"
+printf "\033]5;0;#e8eef2\007"
