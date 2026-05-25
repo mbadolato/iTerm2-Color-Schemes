@@ -84,6 +84,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/atelier-sulphurpool.png)
 
+### Atlas Ragnarok
+
+![Screenshot](/screenshots/atlas-ragnarok.png)
+
 ### Atom One Dark
 
 ![Screenshot](/screenshots/atom-one-dark.png)
@@ -888,6 +892,18 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/liquid-carbon.png)
 
+### London Bonfire Night
+
+![Screenshot](/screenshots/london-bonfire-night.png)
+
+### London Embankment Dusk
+
+![Screenshot](/screenshots/london-embankment-dusk.png)
+
+### London Soho Night
+
+![Screenshot](/screenshots/london-soho-night.png)
+
 ### Lovelace
 
 ![Screenshot](/screenshots/lovelace.png)
@@ -1339,6 +1355,26 @@ The screenshots are categorized.
 ### Seoulbones Dark
 
 ![Screenshot](/screenshots/seoulbones-dark.png)
+
+### Sequoia Monochrome Dark
+
+![Screenshot](/screenshots/sequoia-monochrome-dark.png)
+
+### Sequoia Moonlight Dark
+
+![Screenshot](/screenshots/sequoia-moonlight-dark.png)
+
+### Sequoia Retro Dark
+
+![Screenshot](/screenshots/sequoia-retro-dark.png)
+
+### Serendipity Midnight
+
+![Screenshot](/screenshots/serendipity-midnight.png)
+
+### Serendipity Sunset
+
+![Screenshot](/screenshots/serendipity-sunset.png)
 
 ### Seti
 
@@ -1854,6 +1890,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/light-owl.png)
 
+### London Columbia Road
+
+![Screenshot](/screenshots/london-columbia-road.png)
+
 ### Man Page
 
 ![Screenshot](/screenshots/man-page.png)
@@ -1989,6 +2029,22 @@ The screenshots are categorized.
 ### Seoulbones Light
 
 ![Screenshot](/screenshots/seoulbones-light.png)
+
+### Sequoia Monochrome Light
+
+![Screenshot](/screenshots/sequoia-monochrome-light.png)
+
+### Sequoia Moonlight Light
+
+![Screenshot](/screenshots/sequoia-moonlight-light.png)
+
+### Sequoia Retro Light
+
+![Screenshot](/screenshots/sequoia-retro-light.png)
+
+### Serendipity Morning
+
+![Screenshot](/screenshots/serendipity-morning.png)
 
 ### Shokunin
 
