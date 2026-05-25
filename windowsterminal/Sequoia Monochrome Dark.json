@@ -1,9 +1,5 @@
 {
   "name": "Sequoia Monochrome Dark",
-  "background": "#0f1014",
-  "foreground": "#868690",
-  "cursorColor": "#b6bac8",
-  "selectionBackground": "#0f1014",
   "black": "#131317",
   "red": "#999eb2",
   "green": "#626983",
@@ -19,5 +15,9 @@
   "brightBlue": "#7c829d",
   "brightPurple": "#e2e4ed",
   "brightCyan": "#b6bac8",
-  "brightWhite": "#868690"
+  "brightWhite": "#868690",
+  "background": "#0f1014",
+  "foreground": "#868690",
+  "cursorColor": "#43444d",
+  "selectionBackground": "#817c9c"
 }

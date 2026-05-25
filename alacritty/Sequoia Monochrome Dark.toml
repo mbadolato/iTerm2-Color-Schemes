@@ -1,0 +1,33 @@
+# Colors (Sequoia Monochrome Dark)
+
+[colors.bright]
+black = '#575861'
+blue = '#7c829d'
+cyan = '#b6bac8'
+green = '#626983'
+magenta = '#e2e4ed'
+red = '#999eb2'
+white = '#868690'
+yellow = '#d3d5de'
+
+[colors.cursor]
+cursor = '#43444d'
+text = '#868690'
+
+[colors.normal]
+black = '#131317'
+blue = '#7c829d'
+cyan = '#b6bac8'
+green = '#626983'
+magenta = '#e2e4ed'
+red = '#999eb2'
+white = '#868690'
+yellow = '#d3d5de'
+
+[colors.primary]
+background = '#0f1014'
+foreground = '#868690'
+
+[colors.selection]
+background = '#817c9c'
+text = '#acacb6'

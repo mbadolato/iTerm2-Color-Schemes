@@ -1,0 +1,12 @@
+# Serendipity Morning
+[colors]
+foreground = "#3f4363"
+background = "#f6f7fb"
+cursor_bg = "#6d7296"
+cursor_border = "#6d7296"
+cursor_fg = "#3f4363"
+selection_bg = "#5a5670"
+selection_fg = "#7f83a3"
+
+ansi = ["#ccd0dc","#c25a4d","#2f7aab","#785fd0","#6288d8","#629aa5","#e58678","#3f4363"]
+brights = ["#505575","#c25a4d","#2f7aab","#785fd0","#6288d8","#629aa5","#e58678","#3f4363"]

@@ -1,9 +1,5 @@
 {
   "name": "Sequoia Moonlight Dark",
-  "background": "#0f1014",
-  "foreground": "#868690",
-  "cursorColor": "#ffbb88",
-  "selectionBackground": "#0f1014",
   "black": "#131317",
   "red": "#f58ee0",
   "green": "#8eb6f5",
@@ -19,5 +15,9 @@
   "brightBlue": "#c58fff",
   "brightPurple": "#fdfdfe",
   "brightCyan": "#ffbb88",
-  "brightWhite": "#868690"
+  "brightWhite": "#868690",
+  "background": "#0f1014",
+  "foreground": "#868690",
+  "cursorColor": "#43444d",
+  "selectionBackground": "#817c9c"
 }

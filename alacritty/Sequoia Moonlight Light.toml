@@ -1,0 +1,33 @@
+# Colors (Sequoia Moonlight Light)
+
+[colors.bright]
+black = '#42434e'
+blue = '#9a5fd9'
+cyan = '#d9884a'
+green = '#4a85d4'
+magenta = '#282930'
+red = '#c94da8'
+white = '#282930'
+yellow = '#6a6a78'
+
+[colors.cursor]
+cursor = '#565760'
+text = '#282930'
+
+[colors.normal]
+black = '#d4d5dc'
+blue = '#9a5fd9'
+cyan = '#d9884a'
+green = '#4a85d4'
+magenta = '#282930'
+red = '#c94da8'
+white = '#282930'
+yellow = '#6a6a78'
+
+[colors.primary]
+background = '#edeef2'
+foreground = '#282930'
+
+[colors.selection]
+background = '#817c9c'
+text = '#282930'

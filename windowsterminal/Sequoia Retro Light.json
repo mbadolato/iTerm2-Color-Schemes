@@ -1,9 +1,5 @@
 {
   "name": "Sequoia Retro Light",
-  "background": "#edeef2",
-  "foreground": "#282930",
-  "cursorColor": "#8a6539",
-  "selectionBackground": "#edeef2",
   "black": "#d4d5dc",
   "red": "#5f7982",
   "green": "#4a704e",
@@ -19,5 +15,9 @@
   "brightBlue": "#456a82",
   "brightPurple": "#5f7982",
   "brightCyan": "#8a6539",
-  "brightWhite": "#282930"
+  "brightWhite": "#282930",
+  "background": "#edeef2",
+  "foreground": "#282930",
+  "cursorColor": "#565760",
+  "selectionBackground": "#817c9c"
 }

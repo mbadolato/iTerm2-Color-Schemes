@@ -1,0 +1,33 @@
+# Colors (Serendipity Midnight)
+
+[colors.bright]
+black = '#8d8f9e'
+blue = '#94b8ff'
+cyan = '#f8d2c9'
+green = '#5ba2d0'
+magenta = '#9ccfd8'
+red = '#ee8679'
+white = '#dee0ef'
+yellow = '#a78bfa'
+
+[colors.cursor]
+cursor = '#6b6d7c'
+text = '#dee0ef'
+
+[colors.normal]
+black = '#232534'
+blue = '#94b8ff'
+cyan = '#f8d2c9'
+green = '#5ba2d0'
+magenta = '#9ccfd8'
+red = '#ee8679'
+white = '#dee0ef'
+yellow = '#a78bfa'
+
+[colors.primary]
+background = '#151726'
+foreground = '#dee0ef'
+
+[colors.selection]
+background = '#6b6d7c'
+text = '#dee0ef'

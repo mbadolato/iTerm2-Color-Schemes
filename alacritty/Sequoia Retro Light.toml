@@ -1,0 +1,33 @@
+# Colors (Sequoia Retro Light)
+
+[colors.bright]
+black = '#42434e'
+blue = '#456a82'
+cyan = '#8a6539'
+green = '#4a704e'
+magenta = '#5f7982'
+red = '#c99730'
+white = '#282930'
+yellow = '#bf5238'
+
+[colors.cursor]
+cursor = '#565760'
+text = '#282930'
+
+[colors.normal]
+black = '#d4d5dc'
+blue = '#456a82'
+cyan = '#8a6539'
+green = '#4a704e'
+magenta = '#c99730'
+red = '#5f7982'
+white = '#282930'
+yellow = '#bf5238'
+
+[colors.primary]
+background = '#edeef2'
+foreground = '#282930'
+
+[colors.selection]
+background = '#817c9c'
+text = '#282930'

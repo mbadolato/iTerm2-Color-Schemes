@@ -1,9 +1,5 @@
 {
   "name": "Sequoia Moonlight Light",
-  "background": "#edeef2",
-  "foreground": "#282930",
-  "cursorColor": "#d9884a",
-  "selectionBackground": "#edeef2",
   "black": "#d4d5dc",
   "red": "#c94da8",
   "green": "#4a85d4",
@@ -19,5 +15,9 @@
   "brightBlue": "#9a5fd9",
   "brightPurple": "#282930",
   "brightCyan": "#d9884a",
-  "brightWhite": "#282930"
+  "brightWhite": "#282930",
+  "background": "#edeef2",
+  "foreground": "#282930",
+  "cursorColor": "#565760",
+  "selectionBackground": "#817c9c"
 }

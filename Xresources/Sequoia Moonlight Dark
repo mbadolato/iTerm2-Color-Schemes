@@ -1,0 +1,43 @@
+!
+! Sequoia Moonlight Dark
+!
+*.foreground:  #868690
+*.background:  #0f1014
+*.cursorColor: #43444d
+!
+! Black
+*.color0:      #131317
+*.color8:      #575861
+!
+! Red
+*.color1:      #f58ee0
+*.color9:      #f58ee0
+!
+! Green
+*.color2:      #8eb6f5
+*.color10:     #8eb6f5
+!
+! Yellow
+*.color3:      #9898a6
+*.color11:     #9898a6
+!
+! Blue
+*.color4:      #c58fff
+*.color12:     #c58fff
+!
+! Magenta
+*.color5:      #fdfdfe
+*.color13:     #fdfdfe
+!
+! Cyan
+*.color6:      #ffbb88
+*.color14:     #ffbb88
+!
+! White
+*.color7:      #868690
+*.color15:     #868690
+!
+! Bold, Italic, Underline
+*.colorBD:     #868690
+!*.colorIT:
+!*.colorUL:

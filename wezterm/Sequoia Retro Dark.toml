@@ -1,0 +1,12 @@
+# Sequoia Retro Dark
+[colors]
+foreground = "#868690"
+background = "#0f1014"
+cursor_bg = "#43444d"
+cursor_border = "#43444d"
+cursor_fg = "#868690"
+selection_bg = "#817c9c"
+selection_fg = "#acacb6"
+
+ansi = ["#131317","#829fa7","#648f68","#da674b","#5c87a4","#e8b246","#a27e57","#868690"]
+brights = ["#575861","#e8b246","#648f68","#da674b","#5c87a4","#829fa7","#a27e57","#868690"]

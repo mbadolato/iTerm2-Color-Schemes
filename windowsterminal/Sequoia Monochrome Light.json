@@ -1,9 +1,5 @@
 {
   "name": "Sequoia Monochrome Light",
-  "background": "#edeef2",
-  "foreground": "#282930",
-  "cursorColor": "#454752",
-  "selectionBackground": "#edeef2",
   "black": "#d4d5dc",
   "red": "#525666",
   "green": "#2e3038",
@@ -19,5 +15,9 @@
   "brightBlue": "#5f6370",
   "brightPurple": "#25262d",
   "brightCyan": "#454752",
-  "brightWhite": "#282930"
+  "brightWhite": "#282930",
+  "background": "#edeef2",
+  "foreground": "#282930",
+  "cursorColor": "#565760",
+  "selectionBackground": "#817c9c"
 }
