@@ -1,0 +1,29 @@
+# Charcoal — grayscale blackish theme
+# Matches bat Charcoal theme palette
+
+background = #0d0d0d
+foreground = #c4c4c4
+cursor-color = #d0d0d0
+cursor-text = #0d0d0d
+selection-background = #2e2e2e
+selection-foreground = #e0e0e0
+
+# --- ANSI palette (all grayscale) ---
+# Normals (0-7)
+palette = 0=#111111
+palette = 1=#888888
+palette = 2=#a8a8a8
+palette = 3=#b0b0b0
+palette = 4=#9a9a9a
+palette = 5=#8a8a8a
+palette = 6=#a0a0a0
+palette = 7=#c0c0c0
+# Brights (8-15)
+palette = 8=#3a3a3a
+palette = 9=#a0a0a0
+palette = 10=#c4c4c4
+palette = 11=#c8c8c8
+palette = 12=#d0d0d0
+palette = 13=#b8b8b8
+palette = 14=#cccccc
+palette = 15=#ececec

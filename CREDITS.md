@@ -532,3 +532,4 @@ The JetCalm Light theme was created by [mtueih](https://github.com/mtueih) based
 The Atlas Ragnarok theme was created by [Atlas Kaisar](https://github.com/AyoubTadlaoui) — tech-blue thunder above, crimson fire below, pure black through the middle. Built on the syntactic structure of [Vesper](https://github.com/raunofreiberg/vesper) with the warm-accent family remapped to a Tailwind blue gradient. Ships across many editors at [atlas-ragnarok](https://github.com/AyoubTadlaoui/atlas-ragnarok)
 
 The London Columbia Road, London Soho Night, London Bonfire Night, and London Embankment Dusk themes were created by [Scott Matthews](https://github.com/scottmatthews7) as a four-theme seasonal set, each anchored to a specific place and time in London: Columbia Road flower market in spring, a Soho side street in summer, Hampstead Heath on Bonfire Night in autumn, and the Embankment at dusk in winter.
+Charcoal theme by Vyom Jain (vyom.malo6904@gmail.com)
