@@ -277,6 +277,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/atelier-sulphurpool.png)
 
+### Atlas Ragnarok
+
+![Screenshot](/screenshots/atlas-ragnarok.png)
+
 ### Atom One Dark
 
 ![Screenshot](/screenshots/atom-one-dark.png)
@@ -2471,6 +2475,10 @@ Copy the theme content from `termux/` and paste the content to `~/.termux` direc
 ### Vim color schemes
 
 Copy the theme content from `vim/` and paste the content to `~/.vim/colors/` directory. In Vim, use `:colorscheme <scheme_name>` to apply the colorscheme.
+
+### Ptyxis color schemes
+
+Copy the theme file(s) you want from `ptyxis/` and paste into `~/.local/share/org.gnome.Ptyxis/palettes`, then restart Ptyxis. The new theme(s) should now be available in the global palette list in `Preferences > Appearance > Palette (may need to select 'Show All Palettes')` and `Preferences > Profiles > <profile_name> > Color > Palette`.
 
 ### Generic color schemes
 
