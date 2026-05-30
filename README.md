@@ -1237,6 +1237,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/neon.png)
 
+### Neon Purple
+
+![Screenshot](/screenshots/neon-purple.png)
+
 ### Neopolitan
 
 ![Screenshot](/screenshots/neopolitan.png)

@@ -319,6 +319,8 @@ The theme Neopolitan was created by [daytonn](https://github.com/daytonn/iTerm2-
 
 The theme Neon was created by [phosphorcube](https://github.com/phosphorcube/iTerm2-Color-Schemes)
 
+The Neon Purple theme was created by [imcarvalho](https://github.com/imcarvalho/neonpurple)
+
 The Neutron theme was created by [Ch4s3](https://github.com/Ch4s3/iTerm2-Neutron)
 
 The Nightfox, Dayfox and Terafox theme was created by [EdenEast](https://github.com/edeneast/nightfox.nvim)
