@@ -11,7 +11,7 @@ endif
 let g:colors_name = "Adwaita-Dark"
 
 " Normal colors
-hi Normal guifg=#ffffff guibg=#1d1d20
+hi Normal guifg=#ffffff guibg=#1c1c1f
 
 " Syntax highlighting groups
 hi Comment guifg=#5e5c64
@@ -22,8 +22,8 @@ hi PreProc guifg=#c061cb
 hi Type guifg=#57e389
 hi Special guifg=#4fd2fd
 hi Underlined guifg=#51a1ff gui=underline
-hi Error guifg=#c01c28 guibg=#1d1d20
-hi Todo guifg=#f8e45c guibg=#1d1d20
+hi Error guifg=#c01c28 guibg=#1c1c1f
+hi Todo guifg=#f8e45c guibg=#1c1c1f
 
 " Additional groups for better compatibility
 hi String guifg=#2ec27e
@@ -56,10 +56,10 @@ hi Delimiter guifg=#c0bfbc
 hi SpecialComment guifg=#5e5c64
 hi Debug guifg=#f8e45c
 
-hi Ignore guifg=#1d1d20
+hi Ignore guifg=#1c1c1f
 
 " Cursor and line highlighting
-hi Cursor guifg=#1d1d20 guibg=#ffffff
+hi Cursor guifg=#1c1c1f guibg=#ffffff
 hi CursorLine guibg=#ffffff
 hi CursorColumn guibg=#ffffff
 
@@ -67,8 +67,8 @@ hi CursorColumn guibg=#ffffff
 hi Visual guibg=#ffffff
 
 " Search highlighting
-hi Search guibg=#f8e45c guifg=#1d1d20
-hi IncSearch guibg=#f8e45c guifg=#1d1d20
+hi Search guibg=#f8e45c guifg=#1c1c1f
+hi IncSearch guibg=#f8e45c guifg=#1c1c1f
 
 " Line numbers
 hi LineNr guifg=#5e5c64
@@ -76,16 +76,16 @@ hi CursorLineNr guifg=#ffffff
 
 " Status line
 hi StatusLine guifg=#ffffff guibg=#5e5c64
-hi StatusLineNC guifg=#5e5c64 guibg=#1d1d20
+hi StatusLineNC guifg=#5e5c64 guibg=#1c1c1f
 
 " Tab line
-hi TabLine guifg=#5e5c64 guibg=#1d1d20
+hi TabLine guifg=#5e5c64 guibg=#1c1c1f
 hi TabLineSel guifg=#ffffff guibg=#ffffff
-hi TabLineFill guibg=#1d1d20
+hi TabLineFill guibg=#1c1c1f
 
 " Popup menu
 hi Pmenu guifg=#ffffff guibg=#5e5c64
-hi PmenuSel guifg=#1d1d20 guibg=#ffffff
+hi PmenuSel guifg=#1c1c1f guibg=#ffffff
 hi PmenuSbar guibg=#5e5c64
 hi PmenuThumb guibg=#ffffff
 
@@ -96,8 +96,8 @@ hi DiffDelete guibg=#c01c28
 hi DiffText guibg=#1e78e4
 
 " Fold highlighting
-hi Folded guifg=#5e5c64 guibg=#1d1d20
-hi FoldColumn guifg=#5e5c64 guibg=#1d1d20
+hi Folded guifg=#5e5c64 guibg=#1c1c1f
+hi FoldColumn guifg=#5e5c64 guibg=#1c1c1f
 
 " Spell checking
 hi SpellBad gui=undercurl guisp=#c01c28
@@ -124,4 +124,4 @@ hi Title guifg=#9841bb
 hi MatchParen guibg=#5e5c64
 
 " Sign column
-hi SignColumn guifg=#5e5c64 guibg=#1d1d20
+hi SignColumn guifg=#5e5c64 guibg=#1c1c1f

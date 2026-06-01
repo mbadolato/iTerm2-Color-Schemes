@@ -12,7 +12,7 @@ yellow = '#f8e45c'
 
 [colors.cursor]
 cursor = '#ffffff'
-text = '#1d1d20'
+text = '#1c1c1f'
 
 [colors.normal]
 black = '#241f31'
@@ -25,9 +25,9 @@ white = '#c0bfbc'
 yellow = '#f5c211'
 
 [colors.primary]
-background = '#1d1d20'
+background = '#1c1c1f'
 foreground = '#ffffff'
 
 [colors.selection]
 background = '#ffffff'
-text = '#5e5c64'
+text = '#1c1c1f'
