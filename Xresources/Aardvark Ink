@@ -1,0 +1,43 @@
+!
+! Aardvark Ink
+!
+*.foreground:  #b4bcca
+*.background:  #0f141f
+*.cursorColor: #b4bcca
+!
+! Black
+*.color0:      #222734
+*.color8:      #3a4152
+!
+! Red
+*.color1:      #c26265
+*.color9:      #e48383
+!
+! Green
+*.color2:      #52aa60
+*.color10:     #75cf84
+!
+! Yellow
+*.color3:      #ad9b49
+*.color11:     #c7b461
+!
+! Blue
+*.color4:      #487fd4
+*.color12:     #76a8f2
+!
+! Magenta
+*.color5:      #af5bd1
+*.color13:     #d58bf0
+!
+! Cyan
+*.color6:      #269d9a
+*.color14:     #52c4c0
+!
+! White
+*.color7:      #5a6377
+*.color15:     #dfe5ee
+!
+! Bold, Italic, Underline
+*.colorBD:     #b4bcca
+!*.colorIT:
+!*.colorUL:

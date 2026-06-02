@@ -1,0 +1,33 @@
+# Colors (Aardvark Ink)
+
+[colors.bright]
+black = '#3a4152'
+blue = '#76a8f2'
+cyan = '#52c4c0'
+green = '#75cf84'
+magenta = '#d58bf0'
+red = '#e48383'
+white = '#dfe5ee'
+yellow = '#c7b461'
+
+[colors.cursor]
+cursor = '#b4bcca'
+text = '#0f141f'
+
+[colors.normal]
+black = '#222734'
+blue = '#487fd4'
+cyan = '#269d9a'
+green = '#52aa60'
+magenta = '#af5bd1'
+red = '#c26265'
+white = '#5a6377'
+yellow = '#ad9b49'
+
+[colors.primary]
+background = '#0f141f'
+foreground = '#b4bcca'
+
+[colors.selection]
+background = '#2a3645'
+text = '#dfe5ee'
