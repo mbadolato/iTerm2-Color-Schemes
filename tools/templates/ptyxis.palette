@@ -1,0 +1,33 @@
+[Palette]
+Name={{ scheme_name }}
+
+{% if Dark_Theme %}
+[Dark]
+{% else %}
+[Light]
+{% endif %}
+Foreground={{ Foreground_Color.hex }}
+Background={{ Background_Color.hex }}
+Color0={{ Ansi_0_Color.hex }}
+Color1={{ Ansi_1_Color.hex }}
+Color2={{ Ansi_2_Color.hex }}
+Color3={{ Ansi_3_Color.hex }}
+Color4={{ Ansi_4_Color.hex }}
+Color5={{ Ansi_5_Color.hex }}
+Color6={{ Ansi_6_Color.hex }}
+Color7={{ Ansi_7_Color.hex }}
+Color8={{ Ansi_8_Color.hex }}
+Color9={{ Ansi_9_Color.hex }}
+Color10={{ Ansi_10_Color.hex }}
+Color11={{ Ansi_11_Color.hex }}
+Color12={{ Ansi_12_Color.hex }}
+Color13={{ Ansi_13_Color.hex }}
+Color14={{ Ansi_14_Color.hex }}
+Color15={{ Ansi_15_Color.hex }}
+
+BellForeground={{ Foreground_Color.hex }}
+BellBackground={{ Cursor_Color.hex }}
+RemoteForeground={{ Foreground_Color.hex }}
+RemoteBackground={{ Background_Color.hex }}
+SuperuserForeground={{ Foreground_Color.hex }}
+SuperuserBackground={{ Background_Color.hex }}

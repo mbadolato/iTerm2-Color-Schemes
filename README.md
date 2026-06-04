@@ -2520,6 +2520,10 @@ Copy the theme content from `termux/` and paste the content to `~/.termux` direc
 
 Copy the theme content from `vim/` and paste the content to `~/.vim/colors/` directory. In Vim, use `:colorscheme <scheme_name>` to apply the colorscheme.
 
+### Ptyxis color schemes
+
+Copy the theme file(s) you want from `ptyxis/` and paste into `~/.local/share/org.gnome.Ptyxis/palettes`, then restart Ptyxis. The new theme(s) should now be available in the global palette list in `Preferences > Appearance > Palette (may need to select 'Show All Palettes')` and `Preferences > Profiles > <profile_name> > Color > Palette`.
+
 ### Generic color schemes
 
 These schemes work with any terminal emulator with support for the OSC 4 escape code (including the Linux console, GNOME Terminal, and more).
