@@ -1,0 +1,12 @@
+# Neon Purple
+[colors]
+foreground = "#e5e5e5"
+background = "#291b47"
+cursor_bg = "#21f6bc"
+cursor_border = "#21f6bc"
+cursor_fg = "#999999"
+selection_bg = "#c1deff"
+selection_fg = "#000000"
+
+ansi = ["#000000","#cd0d76","#03eba5","#fffa6a","#00bfff","#ff00e0","#9aa5ed","#ffffff"]
+brights = ["#a8fcff","#ff0da5","#00ffb6","#fff787","#1bccfd","#ff00f8","#a6b6ff","#ffffff"]

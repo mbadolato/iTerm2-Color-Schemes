@@ -1,0 +1,33 @@
+# Colors (Neon Purple)
+
+[colors.bright]
+black = '#a8fcff'
+blue = '#1bccfd'
+cyan = '#a6b6ff'
+green = '#00ffb6'
+magenta = '#ff00f8'
+red = '#ff0da5'
+white = '#ffffff'
+yellow = '#fff787'
+
+[colors.cursor]
+cursor = '#21f6bc'
+text = '#999999'
+
+[colors.normal]
+black = '#000000'
+blue = '#00bfff'
+cyan = '#9aa5ed'
+green = '#03eba5'
+magenta = '#ff00e0'
+red = '#cd0d76'
+white = '#ffffff'
+yellow = '#fffa6a'
+
+[colors.primary]
+background = '#291b47'
+foreground = '#e5e5e5'
+
+[colors.selection]
+background = '#c1deff'
+text = '#000000'
