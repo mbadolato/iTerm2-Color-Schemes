@@ -1,0 +1,33 @@
+# Colors (Serendipity Sunset)
+
+[colors.bright]
+black = '#6b6d7c'
+blue = '#a0b6e8'
+cyan = '#d6b4b4'
+green = '#709bbd'
+magenta = '#aac9d4'
+red = '#d1918f'
+white = '#dee0ef'
+yellow = '#a392dc'
+
+[colors.cursor]
+cursor = '#8d8f9e'
+text = '#dee0ef'
+
+[colors.normal]
+black = '#363847'
+blue = '#a0b6e8'
+cyan = '#d6b4b4'
+green = '#709bbd'
+magenta = '#aac9d4'
+red = '#d1918f'
+white = '#dee0ef'
+yellow = '#a392dc'
+
+[colors.primary]
+background = '#202231'
+foreground = '#dee0ef'
+
+[colors.selection]
+background = '#6b6d7c'
+text = '#dee0ef'

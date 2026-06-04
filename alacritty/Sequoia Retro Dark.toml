@@ -1,0 +1,33 @@
+# Colors (Sequoia Retro Dark)
+
+[colors.bright]
+black = '#575861'
+blue = '#5c87a4'
+cyan = '#a27e57'
+green = '#648f68'
+magenta = '#829fa7'
+red = '#e8b246'
+white = '#868690'
+yellow = '#da674b'
+
+[colors.cursor]
+cursor = '#43444d'
+text = '#868690'
+
+[colors.normal]
+black = '#131317'
+blue = '#5c87a4'
+cyan = '#a27e57'
+green = '#648f68'
+magenta = '#e8b246'
+red = '#829fa7'
+white = '#868690'
+yellow = '#da674b'
+
+[colors.primary]
+background = '#0f1014'
+foreground = '#868690'
+
+[colors.selection]
+background = '#817c9c'
+text = '#acacb6'

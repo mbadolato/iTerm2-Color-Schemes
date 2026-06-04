@@ -1,0 +1,33 @@
+# Colors (Sequoia Moonlight Dark)
+
+[colors.bright]
+black = '#575861'
+blue = '#c58fff'
+cyan = '#ffbb88'
+green = '#8eb6f5'
+magenta = '#fdfdfe'
+red = '#f58ee0'
+white = '#868690'
+yellow = '#9898a6'
+
+[colors.cursor]
+cursor = '#43444d'
+text = '#868690'
+
+[colors.normal]
+black = '#131317'
+blue = '#c58fff'
+cyan = '#ffbb88'
+green = '#8eb6f5'
+magenta = '#fdfdfe'
+red = '#f58ee0'
+white = '#868690'
+yellow = '#9898a6'
+
+[colors.primary]
+background = '#0f1014'
+foreground = '#868690'
+
+[colors.selection]
+background = '#817c9c'
+text = '#acacb6'

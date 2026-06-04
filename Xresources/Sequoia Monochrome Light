@@ -1,0 +1,43 @@
+!
+! Sequoia Monochrome Light
+!
+*.foreground:  #282930
+*.background:  #edeef2
+*.cursorColor: #565760
+!
+! Black
+*.color0:      #d4d5dc
+*.color8:      #42434e
+!
+! Red
+*.color1:      #525666
+*.color9:      #525666
+!
+! Green
+*.color2:      #2e3038
+*.color10:     #2e3038
+!
+! Yellow
+*.color3:      #50535e
+*.color11:     #50535e
+!
+! Blue
+*.color4:      #5f6370
+*.color12:     #5f6370
+!
+! Magenta
+*.color5:      #25262d
+*.color13:     #25262d
+!
+! Cyan
+*.color6:      #454752
+*.color14:     #454752
+!
+! White
+*.color7:      #282930
+*.color15:     #282930
+!
+! Bold, Italic, Underline
+*.colorBD:     #282930
+!*.colorIT:
+!*.colorUL:

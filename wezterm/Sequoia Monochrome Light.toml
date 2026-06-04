@@ -1,0 +1,12 @@
+# Sequoia Monochrome Light
+[colors]
+foreground = "#282930"
+background = "#edeef2"
+cursor_bg = "#565760"
+cursor_border = "#565760"
+cursor_fg = "#282930"
+selection_bg = "#817c9c"
+selection_fg = "#282930"
+
+ansi = ["#d4d5dc","#525666","#2e3038","#50535e","#5f6370","#25262d","#454752","#282930"]
+brights = ["#42434e","#525666","#2e3038","#50535e","#5f6370","#25262d","#454752","#282930"]

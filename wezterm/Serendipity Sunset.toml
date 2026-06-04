@@ -1,0 +1,12 @@
+# Serendipity Sunset
+[colors]
+foreground = "#dee0ef"
+background = "#202231"
+cursor_bg = "#8d8f9e"
+cursor_border = "#8d8f9e"
+cursor_fg = "#dee0ef"
+selection_bg = "#6b6d7c"
+selection_fg = "#dee0ef"
+
+ansi = ["#363847","#d1918f","#709bbd","#a392dc","#a0b6e8","#aac9d4","#d6b4b4","#dee0ef"]
+brights = ["#6b6d7c","#d1918f","#709bbd","#a392dc","#a0b6e8","#aac9d4","#d6b4b4","#dee0ef"]

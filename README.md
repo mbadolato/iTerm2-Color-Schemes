@@ -281,6 +281,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/atelier-sulphurpool.png)
 
+### Atlas Ragnarok
+
+![Screenshot](/screenshots/atlas-ragnarok.png)
+
 ### Atom One Dark
 
 ![Screenshot](/screenshots/atom-one-dark.png)
@@ -1553,6 +1557,26 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/seoulbones-dark.png)
 
+### Sequoia Monochrome Dark
+
+![Screenshot](/screenshots/sequoia-monochrome-dark.png)
+
+### Sequoia Moonlight Dark
+
+![Screenshot](/screenshots/sequoia-moonlight-dark.png)
+
+### Sequoia Retro Dark
+
+![Screenshot](/screenshots/sequoia-retro-dark.png)
+
+### Serendipity Midnight
+
+![Screenshot](/screenshots/serendipity-midnight.png)
+
+### Serendipity Sunset
+
+![Screenshot](/screenshots/serendipity-sunset.png)
+
 ### Seti
 
 ![Screenshot](/screenshots/seti.png)
@@ -2206,6 +2230,22 @@ The screenshots are categorized.
 ### Seoulbones Light
 
 ![Screenshot](/screenshots/seoulbones-light.png)
+
+### Sequoia Monochrome Light
+
+![Screenshot](/screenshots/sequoia-monochrome-light.png)
+
+### Sequoia Moonlight Light
+
+![Screenshot](/screenshots/sequoia-moonlight-light.png)
+
+### Sequoia Retro Light
+
+![Screenshot](/screenshots/sequoia-retro-light.png)
+
+### Serendipity Morning
+
+![Screenshot](/screenshots/serendipity-morning.png)
 
 ### Shokunin
 

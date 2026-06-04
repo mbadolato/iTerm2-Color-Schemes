@@ -1,0 +1,12 @@
+# Sequoia Monochrome Dark
+[colors]
+foreground = "#868690"
+background = "#0f1014"
+cursor_bg = "#43444d"
+cursor_border = "#43444d"
+cursor_fg = "#868690"
+selection_bg = "#817c9c"
+selection_fg = "#acacb6"
+
+ansi = ["#131317","#999eb2","#626983","#d3d5de","#7c829d","#e2e4ed","#b6bac8","#868690"]
+brights = ["#575861","#999eb2","#626983","#d3d5de","#7c829d","#e2e4ed","#b6bac8","#868690"]

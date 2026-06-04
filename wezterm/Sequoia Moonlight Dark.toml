@@ -1,0 +1,12 @@
+# Sequoia Moonlight Dark
+[colors]
+foreground = "#868690"
+background = "#0f1014"
+cursor_bg = "#43444d"
+cursor_border = "#43444d"
+cursor_fg = "#868690"
+selection_bg = "#817c9c"
+selection_fg = "#acacb6"
+
+ansi = ["#131317","#f58ee0","#8eb6f5","#9898a6","#c58fff","#fdfdfe","#ffbb88","#868690"]
+brights = ["#575861","#f58ee0","#8eb6f5","#9898a6","#c58fff","#fdfdfe","#ffbb88","#868690"]

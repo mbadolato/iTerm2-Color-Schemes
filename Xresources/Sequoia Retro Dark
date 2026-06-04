@@ -1,0 +1,43 @@
+!
+! Sequoia Retro Dark
+!
+*.foreground:  #868690
+*.background:  #0f1014
+*.cursorColor: #43444d
+!
+! Black
+*.color0:      #131317
+*.color8:      #575861
+!
+! Red
+*.color1:      #829fa7
+*.color9:      #e8b246
+!
+! Green
+*.color2:      #648f68
+*.color10:     #648f68
+!
+! Yellow
+*.color3:      #da674b
+*.color11:     #da674b
+!
+! Blue
+*.color4:      #5c87a4
+*.color12:     #5c87a4
+!
+! Magenta
+*.color5:      #e8b246
+*.color13:     #829fa7
+!
+! Cyan
+*.color6:      #a27e57
+*.color14:     #a27e57
+!
+! White
+*.color7:      #868690
+*.color15:     #868690
+!
+! Bold, Italic, Underline
+*.colorBD:     #868690
+!*.colorIT:
+!*.colorUL:

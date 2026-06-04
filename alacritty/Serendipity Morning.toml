@@ -1,0 +1,33 @@
+# Colors (Serendipity Morning)
+
+[colors.bright]
+black = '#505575'
+blue = '#6288d8'
+cyan = '#e58678'
+green = '#2f7aab'
+magenta = '#629aa5'
+red = '#c25a4d'
+white = '#3f4363'
+yellow = '#785fd0'
+
+[colors.cursor]
+cursor = '#6d7296'
+text = '#3f4363'
+
+[colors.normal]
+black = '#ccd0dc'
+blue = '#6288d8'
+cyan = '#e58678'
+green = '#2f7aab'
+magenta = '#629aa5'
+red = '#c25a4d'
+white = '#3f4363'
+yellow = '#785fd0'
+
+[colors.primary]
+background = '#f6f7fb'
+foreground = '#3f4363'
+
+[colors.selection]
+background = '#5a5670'
+text = '#7f83a3'
