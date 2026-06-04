@@ -452,6 +452,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/electron-highlighter.png)
 
+### Electron Highlighter Day
+
+![Screenshot](/screenshots/electron-highlighter-day.png)
+
 ### Elegant
 
 ![Screenshot](/screenshots/elegant.png)

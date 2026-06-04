@@ -1,0 +1,33 @@
+# Colors (Electron Highlighter Day)
+
+[colors.bright]
+black = '#7b88a8'
+blue = '#366ff0'
+cyan = '#0a9fbf'
+green = '#10a877'
+magenta = '#8b4fe0'
+red = '#f52a65'
+white = '#2f3b54'
+yellow = '#d18a16'
+
+[colors.cursor]
+cursor = '#2f3b54'
+text = '#eef0f5'
+
+[colors.normal]
+black = '#c2c6d4'
+blue = '#366ff0'
+cyan = '#0a9fbf'
+green = '#10a877'
+magenta = '#8b4fe0'
+red = '#f52a65'
+white = '#59647e'
+yellow = '#d18a16'
+
+[colors.primary]
+background = '#eef0f5'
+foreground = '#2f3b54'
+
+[colors.selection]
+background = '#d6def5'
+text = '#2f3b54'
