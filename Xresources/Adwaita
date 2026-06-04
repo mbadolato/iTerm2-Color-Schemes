@@ -1,43 +1,43 @@
 !
 ! Adwaita
 !
-*.foreground:  #000000
+*.foreground:  #1d1d20
 *.background:  #ffffff
-*.cursorColor: #000000
+*.cursorColor: #1d1d20
 !
 ! Black
-*.color0:      #241f31
-*.color8:      #5e5c64
+*.color0:      #1d1d20
+*.color8:      #5d5d5d
 !
 ! Red
 *.color1:      #c01c28
-*.color9:      #ed333b
+*.color9:      #f66151
 !
 ! Green
-*.color2:      #2ec27e
-*.color10:     #4ad67c
+*.color2:      #26a269
+*.color10:     #33d17a
 !
 ! Yellow
-*.color3:      #e8b504
-*.color11:     #d2be36
+*.color3:      #a2734c
+*.color11:     #e9ad0c
 !
 ! Blue
-*.color4:      #1e78e4
-*.color12:     #51a1ff
+*.color4:      #12488b
+*.color12:     #2a7bde
 !
 ! Magenta
-*.color5:      #9841bb
+*.color5:      #a347ba
 *.color13:     #c061cb
 !
 ! Cyan
-*.color6:      #0ab9dc
-*.color14:     #4fd2fd
+*.color6:      #2aa1b3
+*.color14:     #33c7de
 !
 ! White
-*.color7:      #c0bfbc
-*.color15:     #f6f5f4
+*.color7:      #c2c2c2
+*.color15:     #ffffff
 !
 ! Bold, Italic, Underline
-*.colorBD:     #000000
+*.colorBD:     #1d1d20
 !*.colorIT:
 !*.colorUL:

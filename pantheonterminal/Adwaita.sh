@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Adwaita'
-cursor-color='#000000'
-foreground='#000000'
+cursor-color='#1d1d20'
+foreground='#1d1d20'
 background='rgba(255,255,255,.95)'
-palette='#241f31:#c01c28:#2ec27e:#e8b504:#1e78e4:#9841bb:#0ab9dc:#c0bfbc:#5e5c64:#ed333b:#4ad67c:#d2be36:#51a1ff:#c061cb:#4fd2fd:#f6f5f4'
+palette='#1d1d20:#c01c28:#26a269:#a2734c:#12488b:#a347ba:#2aa1b3:#c2c2c2:#5d5d5d:#f66151:#33d17a:#e9ad0c:#2a7bde:#c061cb:#33c7de:#ffffff'
 COLORS

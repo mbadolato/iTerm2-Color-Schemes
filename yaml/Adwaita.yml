@@ -1,30 +1,35 @@
+# Copied from Ptyxis: https://gitlab.gnome.org/chergert/ptyxis/-/blob/50.1/src/palettes/gnome.palette?ref_type=tags
 name: "Adwaita"
 
-color_01: "#241f31"
+color_01: "#1d1d20"
 color_02: "#c01c28"
-color_03: "#2ec27e"
-color_04: "#f5c211"
-color_05: "#1e78e4"
-color_06: "#9841bb"
-color_07: "#0ab9dc"
-color_08: "#c0bfbc"
+color_03: "#26a269"
+color_04: "#a2734c"
+color_05: "#12488b"
+color_06: "#a347ba"
+color_07: "#2aa1b3"
+color_08: "#cfcfcf"
 
-color_09: "#5e5c64"
-color_10: "#ed333b"
-color_11: "#57e389"
-color_12: "#f8e45c"
-color_13: "#51a1ff"
+color_09: "#5d5d5d"
+color_10: "#f66151"
+color_11: "#33d17a"
+color_12: "#e9ad0c"
+color_13: "#2a7bde"
 color_14: "#c061cb"
-color_15: "#4fd2fd"
-color_16: "#f6f5f4"
+color_15: "#33c7de"
+color_16: "#ffffff"
 
 background: "#ffffff"
-foreground: "#000000"
-cursor: "#000000"
+foreground: "#1d1d20"
+cursor: "#1d1d20"
 cursor_text: "#ffffff"
-selection: "#c0bfbc"
-selection_text: "#000000"
+# GNOME Terminal and Ptyxis handle selection by swapping each character's
+# foreground/background color, which we can't match with these settings.
+# We match what would happen on normal text.
+selection: "#1d1d20"
+selection_text: "#ffffff"
 
+# These concepts don't exist in GNOME Terminal and Ptyxis.
 badge: "#ff2600"
 cursor_guide: "#b3ecff"
 link: "#6699cc"

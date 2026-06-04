@@ -1,33 +1,33 @@
 # Colors (Adwaita)
 
 [colors.bright]
-black = '#5e5c64'
-blue = '#51a1ff'
-cyan = '#4fd2fd'
-green = '#4ad67c'
+black = '#5d5d5d'
+blue = '#2a7bde'
+cyan = '#33c7de'
+green = '#33d17a'
 magenta = '#c061cb'
-red = '#ed333b'
-white = '#f6f5f4'
-yellow = '#d2be36'
+red = '#f66151'
+white = '#ffffff'
+yellow = '#e9ad0c'
 
 [colors.cursor]
-cursor = '#000000'
+cursor = '#1d1d20'
 text = '#ffffff'
 
 [colors.normal]
-black = '#241f31'
-blue = '#1e78e4'
-cyan = '#0ab9dc'
-green = '#2ec27e'
-magenta = '#9841bb'
+black = '#1d1d20'
+blue = '#12488b'
+cyan = '#2aa1b3'
+green = '#26a269'
+magenta = '#a347ba'
 red = '#c01c28'
-white = '#c0bfbc'
-yellow = '#e8b504'
+white = '#c2c2c2'
+yellow = '#a2734c'
 
 [colors.primary]
 background = '#ffffff'
-foreground = '#000000'
+foreground = '#1d1d20'
 
 [colors.selection]
-background = '#c0bfbc'
-text = '#000000'
+background = '#1d1d20'
+text = '#ffffff'

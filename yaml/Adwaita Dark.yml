@@ -1,3 +1,4 @@
+# Copied from https://gitlab.gnome.org/chergert/ptyxis/-/blob/50.1/src/palettes/gnome.palette?ref_type=tags
 name: "Adwaita Dark"
 
 color_01: "#241f31"
@@ -18,13 +19,17 @@ color_14: "#c061cb"
 color_15: "#4fd2fd"
 color_16: "#f6f5f4"
 
-background: "#1d1d20"
+background: "#1c1c1f"
 foreground: "#ffffff"
 cursor: "#ffffff"
-cursor_text: "#1d1d20"
+cursor_text: "#1c1c1f"
+# GNOME Terminal and Ptyxis handle selection by swapping each character's
+# foreground/background color, which we can't match with these settings.
+# We match what would happen on normal text.
 selection: "#ffffff"
-selection_text: "#5e5c64"
+selection_text: "#1c1c1f"
 
+# These concepts don't exist in GNOME Terminal and Ptyxis.
 badge: "#ff2600"
 cursor_guide: "#b3ecff"
 link: "#6699cc"

@@ -11,34 +11,34 @@ endif
 let g:colors_name = "Adwaita"
 
 " Normal colors
-hi Normal guifg=#000000 guibg=#ffffff
+hi Normal guifg=#1d1d20 guibg=#ffffff
 
 " Syntax highlighting groups
-hi Comment guifg=#5e5c64
-hi Constant guifg=#e8b504
-hi Identifier guifg=#1e78e4
-hi Statement guifg=#ed333b
+hi Comment guifg=#5d5d5d
+hi Constant guifg=#a2734c
+hi Identifier guifg=#12488b
+hi Statement guifg=#f66151
 hi PreProc guifg=#c061cb
-hi Type guifg=#4ad67c
-hi Special guifg=#4fd2fd
-hi Underlined guifg=#51a1ff gui=underline
+hi Type guifg=#33d17a
+hi Special guifg=#33c7de
+hi Underlined guifg=#2a7bde gui=underline
 hi Error guifg=#c01c28 guibg=#ffffff
-hi Todo guifg=#d2be36 guibg=#ffffff
+hi Todo guifg=#e9ad0c guibg=#ffffff
 
 " Additional groups for better compatibility
-hi String guifg=#2ec27e
-hi Character guifg=#2ec27e
-hi Number guifg=#e8b504
-hi Boolean guifg=#e8b504
-hi Float guifg=#e8b504
+hi String guifg=#26a269
+hi Character guifg=#26a269
+hi Number guifg=#a2734c
+hi Boolean guifg=#a2734c
+hi Float guifg=#a2734c
 
-hi Function guifg=#1e78e4
+hi Function guifg=#12488b
 
-hi Conditional guifg=#ed333b
-hi Repeat guifg=#ed333b
-hi Label guifg=#ed333b
-hi Operator guifg=#c0bfbc
-hi Keyword guifg=#ed333b
+hi Conditional guifg=#f66151
+hi Repeat guifg=#f66151
+hi Label guifg=#f66151
+hi Operator guifg=#c2c2c2
+hi Keyword guifg=#f66151
 hi Exception guifg=#c01c28
 
 hi Include guifg=#c061cb
@@ -46,82 +46,82 @@ hi Define guifg=#c061cb
 hi Macro guifg=#c061cb
 hi PreCondit guifg=#c061cb
 
-hi StorageClass guifg=#4ad67c
-hi Structure guifg=#4ad67c
-hi Typedef guifg=#4ad67c
+hi StorageClass guifg=#33d17a
+hi Structure guifg=#33d17a
+hi Typedef guifg=#33d17a
 
-hi SpecialChar guifg=#4fd2fd
-hi Tag guifg=#4fd2fd
-hi Delimiter guifg=#c0bfbc
-hi SpecialComment guifg=#5e5c64
-hi Debug guifg=#d2be36
+hi SpecialChar guifg=#33c7de
+hi Tag guifg=#33c7de
+hi Delimiter guifg=#c2c2c2
+hi SpecialComment guifg=#5d5d5d
+hi Debug guifg=#e9ad0c
 
 hi Ignore guifg=#ffffff
 
 " Cursor and line highlighting
-hi Cursor guifg=#ffffff guibg=#000000
-hi CursorLine guibg=#c0bfbc
-hi CursorColumn guibg=#c0bfbc
+hi Cursor guifg=#ffffff guibg=#1d1d20
+hi CursorLine guibg=#1d1d20
+hi CursorColumn guibg=#1d1d20
 
 " Visual selection
-hi Visual guibg=#c0bfbc
+hi Visual guibg=#1d1d20
 
 " Search highlighting
-hi Search guibg=#d2be36 guifg=#ffffff
-hi IncSearch guibg=#d2be36 guifg=#ffffff
+hi Search guibg=#e9ad0c guifg=#ffffff
+hi IncSearch guibg=#e9ad0c guifg=#ffffff
 
 " Line numbers
-hi LineNr guifg=#5e5c64
-hi CursorLineNr guifg=#000000
+hi LineNr guifg=#5d5d5d
+hi CursorLineNr guifg=#1d1d20
 
 " Status line
-hi StatusLine guifg=#000000 guibg=#5e5c64
-hi StatusLineNC guifg=#5e5c64 guibg=#ffffff
+hi StatusLine guifg=#1d1d20 guibg=#5d5d5d
+hi StatusLineNC guifg=#5d5d5d guibg=#ffffff
 
 " Tab line
-hi TabLine guifg=#5e5c64 guibg=#ffffff
-hi TabLineSel guifg=#000000 guibg=#c0bfbc
+hi TabLine guifg=#5d5d5d guibg=#ffffff
+hi TabLineSel guifg=#1d1d20 guibg=#1d1d20
 hi TabLineFill guibg=#ffffff
 
 " Popup menu
-hi Pmenu guifg=#000000 guibg=#5e5c64
-hi PmenuSel guifg=#ffffff guibg=#c0bfbc
-hi PmenuSbar guibg=#5e5c64
-hi PmenuThumb guibg=#000000
+hi Pmenu guifg=#1d1d20 guibg=#5d5d5d
+hi PmenuSel guifg=#ffffff guibg=#1d1d20
+hi PmenuSbar guibg=#5d5d5d
+hi PmenuThumb guibg=#1d1d20
 
 " Diff highlighting
-hi DiffAdd guibg=#2ec27e
-hi DiffChange guibg=#e8b504
+hi DiffAdd guibg=#26a269
+hi DiffChange guibg=#a2734c
 hi DiffDelete guibg=#c01c28
-hi DiffText guibg=#1e78e4
+hi DiffText guibg=#12488b
 
 " Fold highlighting
-hi Folded guifg=#5e5c64 guibg=#ffffff
-hi FoldColumn guifg=#5e5c64 guibg=#ffffff
+hi Folded guifg=#5d5d5d guibg=#ffffff
+hi FoldColumn guifg=#5d5d5d guibg=#ffffff
 
 " Spell checking
 hi SpellBad gui=undercurl guisp=#c01c28
-hi SpellCap gui=undercurl guisp=#1e78e4
-hi SpellRare gui=undercurl guisp=#9841bb
-hi SpellLocal gui=undercurl guisp=#0ab9dc
+hi SpellCap gui=undercurl guisp=#12488b
+hi SpellRare gui=undercurl guisp=#a347ba
+hi SpellLocal gui=undercurl guisp=#2aa1b3
 
 " Error and warning messages
 hi ErrorMsg guifg=#c01c28
-hi WarningMsg guifg=#e8b504
-hi MoreMsg guifg=#1e78e4
-hi Question guifg=#2ec27e
+hi WarningMsg guifg=#a2734c
+hi MoreMsg guifg=#12488b
+hi Question guifg=#26a269
 
 " Mode message
-hi ModeMsg guifg=#2ec27e
+hi ModeMsg guifg=#26a269
 
 " Directory
-hi Directory guifg=#1e78e4
+hi Directory guifg=#12488b
 
 " Title
-hi Title guifg=#9841bb
+hi Title guifg=#a347ba
 
 " Match parenthesis
-hi MatchParen guibg=#5e5c64
+hi MatchParen guibg=#5d5d5d
 
 " Sign column
-hi SignColumn guifg=#5e5c64 guibg=#ffffff
+hi SignColumn guifg=#5d5d5d guibg=#ffffff
