@@ -1,0 +1,43 @@
+!
+! Electron Highlighter Day
+!
+*.foreground:  #2f3b54
+*.background:  #eef0f5
+*.cursorColor: #2f3b54
+!
+! Black
+*.color0:      #c2c6d4
+*.color8:      #7b88a8
+!
+! Red
+*.color1:      #f52a65
+*.color9:      #f52a65
+!
+! Green
+*.color2:      #10a877
+*.color10:     #10a877
+!
+! Yellow
+*.color3:      #d18a16
+*.color11:     #d18a16
+!
+! Blue
+*.color4:      #366ff0
+*.color12:     #366ff0
+!
+! Magenta
+*.color5:      #8b4fe0
+*.color13:     #8b4fe0
+!
+! Cyan
+*.color6:      #0a9fbf
+*.color14:     #0a9fbf
+!
+! White
+*.color7:      #59647e
+*.color15:     #2f3b54
+!
+! Bold, Italic, Underline
+*.colorBD:     #2f3b54
+!*.colorIT:
+!*.colorUL:
