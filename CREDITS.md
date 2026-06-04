@@ -6,7 +6,8 @@ The 12-bit Rainbow theme was adapted by [xxxserxxx](https://github.com/xxxserxxx
 
 The 3024 Day and 3024 Night themes were created by [0x3024](https://github.com/0x3024)
 
-The Aardvark Blue theme was created by [joshka](https://github.com/joshka)
+The Aardvark Blue and Aardvark Ink themes were created by
+[joshka](https://github.com/joshka)
 
 The Abernathy theme was created by [barish](https://instagram.com/barish)
 

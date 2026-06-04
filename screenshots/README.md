@@ -24,6 +24,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/aardvark-blue.png)
 
+### Aardvark Ink
+
+![Screenshot](/screenshots/aardvark-ink.png)
+
 ### Abernathy
 
 ![Screenshot](/screenshots/abernathy.png)
