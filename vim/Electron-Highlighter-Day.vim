@@ -15,7 +15,7 @@ hi Normal guifg=#2f3b54 guibg=#eef0f5
 
 " Syntax highlighting groups
 hi Comment guifg=#7b88a8
-hi Constant guifg=#d18a16
+hi Constant guifg=#df8e1d
 hi Identifier guifg=#366ff0
 hi Statement guifg=#f52a65
 hi PreProc guifg=#8b4fe0
@@ -23,14 +23,14 @@ hi Type guifg=#10a877
 hi Special guifg=#0a9fbf
 hi Underlined guifg=#366ff0 gui=underline
 hi Error guifg=#f52a65 guibg=#eef0f5
-hi Todo guifg=#d18a16 guibg=#eef0f5
+hi Todo guifg=#df8e1d guibg=#eef0f5
 
 " Additional groups for better compatibility
 hi String guifg=#10a877
 hi Character guifg=#10a877
-hi Number guifg=#d18a16
-hi Boolean guifg=#d18a16
-hi Float guifg=#d18a16
+hi Number guifg=#df8e1d
+hi Boolean guifg=#df8e1d
+hi Float guifg=#df8e1d
 
 hi Function guifg=#366ff0
 
@@ -54,7 +54,7 @@ hi SpecialChar guifg=#0a9fbf
 hi Tag guifg=#0a9fbf
 hi Delimiter guifg=#59647e
 hi SpecialComment guifg=#7b88a8
-hi Debug guifg=#d18a16
+hi Debug guifg=#df8e1d
 
 hi Ignore guifg=#eef0f5
 
@@ -67,8 +67,8 @@ hi CursorColumn guibg=#d6def5
 hi Visual guibg=#d6def5
 
 " Search highlighting
-hi Search guibg=#d18a16 guifg=#eef0f5
-hi IncSearch guibg=#d18a16 guifg=#eef0f5
+hi Search guibg=#df8e1d guifg=#eef0f5
+hi IncSearch guibg=#df8e1d guifg=#eef0f5
 
 " Line numbers
 hi LineNr guifg=#7b88a8
@@ -91,7 +91,7 @@ hi PmenuThumb guibg=#2f3b54
 
 " Diff highlighting
 hi DiffAdd guibg=#10a877
-hi DiffChange guibg=#d18a16
+hi DiffChange guibg=#df8e1d
 hi DiffDelete guibg=#f52a65
 hi DiffText guibg=#366ff0
 
@@ -107,7 +107,7 @@ hi SpellLocal gui=undercurl guisp=#0a9fbf
 
 " Error and warning messages
 hi ErrorMsg guifg=#f52a65
-hi WarningMsg guifg=#d18a16
+hi WarningMsg guifg=#df8e1d
 hi MoreMsg guifg=#366ff0
 hi Question guifg=#10a877
 

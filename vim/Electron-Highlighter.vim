@@ -14,30 +14,30 @@ let g:colors_name = "Electron-Highlighter"
 hi Normal guifg=#a5b6d4 guibg=#23283d
 
 " Syntax highlighting groups
-hi Comment guifg=#4a6789
-hi Constant guifg=#ffd7a9
+hi Comment guifg=#4b5b8c
+hi Constant guifg=#ffebb1
 hi Identifier guifg=#77abff
 hi Statement guifg=#ff6c8d
 hi PreProc guifg=#daa4f4
 hi Type guifg=#00ffc3
-hi Special guifg=#00fdff
+hi Special guifg=#00e5ff
 hi Underlined guifg=#77abff gui=underline
 hi Error guifg=#ff6c8d guibg=#23283d
-hi Todo guifg=#ffd7a9 guibg=#23283d
+hi Todo guifg=#ffebb1 guibg=#23283d
 
 " Additional groups for better compatibility
 hi String guifg=#00ffc3
 hi Character guifg=#00ffc3
-hi Number guifg=#ffd7a9
-hi Boolean guifg=#ffd7a9
-hi Float guifg=#ffd7a9
+hi Number guifg=#ffebb1
+hi Boolean guifg=#ffebb1
+hi Float guifg=#ffebb1
 
 hi Function guifg=#77abff
 
 hi Conditional guifg=#ff6c8d
 hi Repeat guifg=#ff6c8d
 hi Label guifg=#ff6c8d
-hi Operator guifg=#778faf
+hi Operator guifg=#7187b7
 hi Keyword guifg=#ff6c8d
 hi Exception guifg=#ff6c8d
 
@@ -50,64 +50,64 @@ hi StorageClass guifg=#00ffc3
 hi Structure guifg=#00ffc3
 hi Typedef guifg=#00ffc3
 
-hi SpecialChar guifg=#00fdff
-hi Tag guifg=#00fdff
-hi Delimiter guifg=#778faf
-hi SpecialComment guifg=#4a6789
-hi Debug guifg=#ffd7a9
+hi SpecialChar guifg=#00e5ff
+hi Tag guifg=#00e5ff
+hi Delimiter guifg=#7187b7
+hi SpecialComment guifg=#4b5b8c
+hi Debug guifg=#ffebb1
 
 hi Ignore guifg=#23283d
 
 " Cursor and line highlighting
-hi Cursor guifg=#1a1b27 guibg=#a5b6d4
-hi CursorLine guibg=#25345a
-hi CursorColumn guibg=#25345a
+hi Cursor guifg=#171b29 guibg=#a5b6d4
+hi CursorLine guibg=#293257
+hi CursorColumn guibg=#293257
 
 " Visual selection
-hi Visual guibg=#25345a
+hi Visual guibg=#293257
 
 " Search highlighting
-hi Search guibg=#ffd7a9 guifg=#23283d
-hi IncSearch guibg=#ffd7a9 guifg=#23283d
+hi Search guibg=#ffebb1 guifg=#23283d
+hi IncSearch guibg=#ffebb1 guifg=#23283d
 
 " Line numbers
-hi LineNr guifg=#4a6789
+hi LineNr guifg=#4b5b8c
 hi CursorLineNr guifg=#a5b6d4
 
 " Status line
-hi StatusLine guifg=#a5b6d4 guibg=#4a6789
-hi StatusLineNC guifg=#4a6789 guibg=#23283d
+hi StatusLine guifg=#a5b6d4 guibg=#4b5b8c
+hi StatusLineNC guifg=#4b5b8c guibg=#23283d
 
 " Tab line
-hi TabLine guifg=#4a6789 guibg=#23283d
-hi TabLineSel guifg=#a5b6d4 guibg=#25345a
+hi TabLine guifg=#4b5b8c guibg=#23283d
+hi TabLineSel guifg=#a5b6d4 guibg=#293257
 hi TabLineFill guibg=#23283d
 
 " Popup menu
-hi Pmenu guifg=#a5b6d4 guibg=#4a6789
-hi PmenuSel guifg=#23283d guibg=#25345a
-hi PmenuSbar guibg=#4a6789
+hi Pmenu guifg=#a5b6d4 guibg=#4b5b8c
+hi PmenuSel guifg=#23283d guibg=#293257
+hi PmenuSbar guibg=#4b5b8c
 hi PmenuThumb guibg=#a5b6d4
 
 " Diff highlighting
 hi DiffAdd guibg=#00ffc3
-hi DiffChange guibg=#ffd7a9
+hi DiffChange guibg=#ffebb1
 hi DiffDelete guibg=#ff6c8d
 hi DiffText guibg=#77abff
 
 " Fold highlighting
-hi Folded guifg=#4a6789 guibg=#23283d
-hi FoldColumn guifg=#4a6789 guibg=#23283d
+hi Folded guifg=#4b5b8c guibg=#23283d
+hi FoldColumn guifg=#4b5b8c guibg=#23283d
 
 " Spell checking
 hi SpellBad gui=undercurl guisp=#ff6c8d
 hi SpellCap gui=undercurl guisp=#77abff
 hi SpellRare gui=undercurl guisp=#daa4f4
-hi SpellLocal gui=undercurl guisp=#00fdff
+hi SpellLocal gui=undercurl guisp=#00e5ff
 
 " Error and warning messages
 hi ErrorMsg guifg=#ff6c8d
-hi WarningMsg guifg=#ffd7a9
+hi WarningMsg guifg=#ffebb1
 hi MoreMsg guifg=#77abff
 hi Question guifg=#00ffc3
 
@@ -121,7 +121,7 @@ hi Directory guifg=#77abff
 hi Title guifg=#daa4f4
 
 " Match parenthesis
-hi MatchParen guibg=#4a6789
+hi MatchParen guibg=#4b5b8c
 
 " Sign column
-hi SignColumn guifg=#4a6789 guibg=#23283d
+hi SignColumn guifg=#4b5b8c guibg=#23283d
