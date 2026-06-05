@@ -7,7 +7,7 @@
 !
 ! Black
 *.color0:      #15161f
-*.color8:      #4a6789
+*.color8:      #4b5b8c
 !
 ! Red
 *.color1:      #ff6c8d
@@ -18,8 +18,8 @@
 *.color10:     #00ffc3
 !
 ! Yellow
-*.color3:      #ffd7a9
-*.color11:     #ffd7a9
+*.color3:      #ffebb1
+*.color11:     #ffebb1
 !
 ! Blue
 *.color4:      #77abff
@@ -30,12 +30,12 @@
 *.color13:     #daa4f4
 !
 ! Cyan
-*.color6:      #00fdff
-*.color14:     #00fdff
+*.color6:      #00e5ff
+*.color14:     #00e5ff
 !
 ! White
-*.color7:      #778faf
-*.color15:     #c3cee2
+*.color7:      #7187b7
+*.color15:     #c3cde2
 !
 ! Bold, Italic, Underline
 *.colorBD:     #a8b5d1
