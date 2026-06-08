@@ -1,0 +1,117 @@
+{
+  "userInterface": false,
+  "terminal": true,
+  "colors": [
+    {
+      "name": "Foreground",
+      "color": "#ffffff",
+      "terminalMapping": "foreground"
+    },
+    {
+      "name": "BoldForeground",
+      "color": "#ffffff",
+      "terminalMapping": "boldforeground"
+    },
+    {
+      "name": "Background",
+      "color": "#000000",
+      "terminalMapping": "background"
+    },
+    {
+      "name": "BoldBackground",
+      "color": "#000000",
+      "terminalMapping": "boldbackground"
+    },
+    {
+      "name": "CursorForeground",
+      "color": "#ffffff",
+      "terminalMapping": "cursorForeground"
+    },
+    {
+      "name": "CursorBackground",
+      "color": "#3b82f6",
+      "terminalMapping": "cursorBackground"
+    },
+    {
+      "name": "Black",
+      "color": "#000000",
+      "terminalMapping": "ansiBlack"
+    },
+    {
+      "name": "Red",
+      "color": "#ff8080",
+      "terminalMapping": "ansiRed"
+    },
+    {
+      "name": "Green",
+      "color": "#99ffe4",
+      "terminalMapping": "ansiGreen"
+    },
+    {
+      "name": "Yellow",
+      "color": "#2563eb",
+      "terminalMapping": "ansiYellow"
+    },
+    {
+      "name": "Blue",
+      "color": "#a0a0a0",
+      "terminalMapping": "ansiBlue"
+    },
+    {
+      "name": "Magenta",
+      "color": "#3b82f6",
+      "terminalMapping": "ansiMagenta"
+    },
+    {
+      "name": "Cyan",
+      "color": "#99ffe4",
+      "terminalMapping": "ansiCyan"
+    },
+    {
+      "name": "White",
+      "color": "#ffffff",
+      "terminalMapping": "ansiWhite"
+    },
+    {
+      "name": "BrightBlack",
+      "color": "#505050",
+      "terminalMapping": "ansiBrightBlack"
+    },
+    {
+      "name": "BrightRed",
+      "color": "#ff9999",
+      "terminalMapping": "ansiBrightRed"
+    },
+    {
+      "name": "BrightGreen",
+      "color": "#b3ffe4",
+      "terminalMapping": "ansiBrightGreen"
+    },
+    {
+      "name": "BrightYellow",
+      "color": "#60a5fa",
+      "terminalMapping": "ansiBrightYellow"
+    },
+    {
+      "name": "BrightBlue",
+      "color": "#b0b0b0",
+      "terminalMapping": "ansiBrightBlue"
+    },
+    {
+      "name": "BrightMagenta",
+      "color": "#93c5fd",
+      "terminalMapping": "ansiBrightMagenta"
+    },
+    {
+      "name": "BrightCyan",
+      "color": "#99ffe4",
+      "terminalMapping": "ansiBrightCyan"
+    },
+    {
+      "name": "BrightWhite",
+      "color": "#ffffff",
+      "terminalMapping": "ansiBrightWhite"
+    }
+  ],
+  "paletteName": "Atlas Ragnarok"
+}

@@ -452,10 +452,6 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/electron-highlighter.png)
 
-### Electron Highlighter Day
-
-![Screenshot](/screenshots/electron-highlighter-day.png)
-
 ### Elegant
 
 ![Screenshot](/screenshots/elegant.png)
@@ -499,6 +495,14 @@ The screenshots are categorized.
 ### Everforest Dark Hard
 
 ![Screenshot](/screenshots/everforest-dark-hard.png)
+
+### Everforest Dark Med
+
+![Screenshot](/screenshots/everforest-dark-med.png)
+
+### Everforest Dark Soft
+
+![Screenshot](/screenshots/everforest-dark-soft.png)
 
 ### Fahrenheit
 
@@ -1051,6 +1055,10 @@ The screenshots are categorized.
 ### Neobones Dark
 
 ![Screenshot](/screenshots/neobones-dark.png)
+
+### Neon Purple
+
+![Screenshot](/screenshots/neon-purple.png)
 
 ### Neon
 
@@ -1794,9 +1802,21 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/dayfox.png)
 
+### Electron Highlighter Day
+
+![Screenshot](/screenshots/electron-highlighter-day.png)
+
+### Everforest Light Hard
+
+![Screenshot](/screenshots/everforest-light-hard.png)
+
 ### Everforest Light Med
 
 ![Screenshot](/screenshots/everforest-light-med.png)
+
+### Everforest Light Soft
+
+![Screenshot](/screenshots/everforest-light-soft.png)
 
 ### Farmhouse Light
 

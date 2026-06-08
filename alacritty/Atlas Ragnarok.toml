@@ -1,0 +1,33 @@
+# Colors (Atlas Ragnarok)
+
+[colors.bright]
+black = '#505050'
+blue = '#b0b0b0'
+cyan = '#99ffe4'
+green = '#b3ffe4'
+magenta = '#93c5fd'
+red = '#ff9999'
+white = '#ffffff'
+yellow = '#60a5fa'
+
+[colors.cursor]
+cursor = '#3b82f6'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#a0a0a0'
+cyan = '#99ffe4'
+green = '#99ffe4'
+magenta = '#3b82f6'
+red = '#ff8080'
+white = '#ffffff'
+yellow = '#2563eb'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#1e3a5f'
+text = '#ffffff'

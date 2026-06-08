@@ -645,10 +645,6 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/electron-highlighter.png)
 
-### Electron Highlighter Day
-
-![Screenshot](/screenshots/electron-highlighter-day.png)
-
 ### Elegant
 
 ![Screenshot](/screenshots/elegant.png)
@@ -1253,13 +1249,13 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/neobones-dark.png)
 
-### Neon
-
-![Screenshot](/screenshots/neon.png)
-
 ### Neon Purple
 
 ![Screenshot](/screenshots/neon-purple.png)
+
+### Neon
+
+![Screenshot](/screenshots/neon.png)
 
 ### Neopolitan
 
@@ -1998,6 +1994,10 @@ The screenshots are categorized.
 ### Dayfox
 
 ![Screenshot](/screenshots/dayfox.png)
+
+### Electron Highlighter Day
+
+![Screenshot](/screenshots/electron-highlighter-day.png)
 
 ### Everforest Light Hard
 
