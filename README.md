@@ -1161,6 +1161,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/mellow.png)
 
+### Mesila One
+
+![Screenshot](/screenshots/mesila-one.png)
+
 ### Miasma
 
 ![Screenshot](/screenshots/miasma.png)

@@ -1,0 +1,43 @@
+!
+! Mesila One
+!
+*.foreground:  #e9fae3
+*.background:  #1b1f23
+*.cursorColor: #5cc8ff
+!
+! Black
+*.color0:      #101418
+*.color8:      #7d70ba
+!
+! Red
+*.color1:      #93867f
+*.color9:      #93867f
+!
+! Green
+*.color2:      #5cc8ff
+*.color10:     #5cc8ff
+!
+! Yellow
+*.color3:      #ebb3a9
+*.color11:     #ebb3a9
+!
+! Blue
+*.color4:      #dec1ff
+*.color12:     #dec1ff
+!
+! Magenta
+*.color5:      #7d70ba
+*.color13:     #7d70ba
+!
+! Cyan
+*.color6:      #5cc8ff
+*.color14:     #5cc8ff
+!
+! White
+*.color7:      #e9fae3
+*.color15:     #e9fae3
+!
+! Bold, Italic, Underline
+*.colorBD:     #e9fae3
+!*.colorIT:
+!*.colorUL:

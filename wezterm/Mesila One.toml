@@ -1,0 +1,12 @@
+# Mesila One
+[colors]
+foreground = "#e9fae3"
+background = "#1b1f23"
+cursor_bg = "#5cc8ff"
+cursor_border = "#5cc8ff"
+cursor_fg = "#1b1f23"
+selection_bg = "#334155"
+selection_fg = "#676b6f"
+
+ansi = ["#101418","#93867f","#5cc8ff","#ebb3a9","#dec1ff","#7d70ba","#5cc8ff","#e9fae3"]
+brights = ["#7d70ba","#93867f","#5cc8ff","#ebb3a9","#dec1ff","#7d70ba","#5cc8ff","#e9fae3"]

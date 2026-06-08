@@ -1,0 +1,33 @@
+# Colors (Mesila One)
+
+[colors.bright]
+black = '#7d70ba'
+blue = '#dec1ff'
+cyan = '#5cc8ff'
+green = '#5cc8ff'
+magenta = '#7d70ba'
+red = '#93867f'
+white = '#e9fae3'
+yellow = '#ebb3a9'
+
+[colors.cursor]
+cursor = '#5cc8ff'
+text = '#1b1f23'
+
+[colors.normal]
+black = '#101418'
+blue = '#dec1ff'
+cyan = '#5cc8ff'
+green = '#5cc8ff'
+magenta = '#7d70ba'
+red = '#93867f'
+white = '#e9fae3'
+yellow = '#ebb3a9'
+
+[colors.primary]
+background = '#1b1f23'
+foreground = '#e9fae3'
+
+[colors.selection]
+background = '#334155'
+text = '#676b6f'
