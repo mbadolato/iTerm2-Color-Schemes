@@ -1,0 +1,12 @@
+# Sandstone Classic
+[colors]
+foreground = "#3d5259"
+background = "#fdf6e3"
+cursor_bg = "#3d5259"
+cursor_border = "#3d5259"
+cursor_fg = "#fdf6e3"
+selection_bg = "#e4dcc8"
+selection_fg = "#a49d8a"
+
+ansi = ["#073642","#cf2522","#5d7b00","#865e00","#0d6eb2","#c42a78","#037a71","#6e6855"]
+brights = ["#3d5259","#c04010","#5e7171","#5b7070","#5c6f6f","#5f64b7","#5f6e6e","#fdf6e3"]

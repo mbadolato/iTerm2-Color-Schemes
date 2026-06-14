@@ -1,0 +1,33 @@
+# Colors (Sandstone Warm)
+
+[colors.bright]
+black = '#5c4a2a'
+blue = '#5c6f6f'
+cyan = '#5f6e6e'
+green = '#7f6648'
+magenta = '#5f64b7'
+red = '#c04010'
+white = '#fdf6e3'
+yellow = '#7d6646'
+
+[colors.cursor]
+cursor = '#3e3220'
+text = '#fdf6e3'
+
+[colors.normal]
+black = '#2e2010'
+blue = '#0d6eb2'
+cyan = '#037a71'
+green = '#5d7b00'
+magenta = '#b52d6e'
+red = '#cf2522'
+white = '#756c51'
+yellow = '#865e00'
+
+[colors.primary]
+background = '#fdf6e3'
+foreground = '#3e3220'
+
+[colors.selection]
+background = '#e8dfc4'
+text = '#b0a996'

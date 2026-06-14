@@ -1,0 +1,12 @@
+# Sandstone Ink
+[colors]
+foreground = "#2b3d45"
+background = "#fdf6e3"
+cursor_bg = "#2b3d45"
+cursor_border = "#2b3d45"
+cursor_fg = "#fdf6e3"
+selection_bg = "#ddd8c0"
+selection_fg = "#a49d8a"
+
+ansi = ["#002b36","#cf2522","#4b7000","#906800","#0d6fa8","#b5006e","#00756d","#6e6855"]
+brights = ["#2b3d45","#b33000","#536868","#566c6c","#5c6f6f","#5f64b7","#5f6e6e","#fdf6e3"]

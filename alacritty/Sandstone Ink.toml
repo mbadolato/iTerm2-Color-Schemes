@@ -1,0 +1,33 @@
+# Colors (Sandstone Ink)
+
+[colors.bright]
+black = '#2b3d45'
+blue = '#5c6f6f'
+cyan = '#5f6e6e'
+green = '#536868'
+magenta = '#5f64b7'
+red = '#b33000'
+white = '#fdf6e3'
+yellow = '#566c6c'
+
+[colors.cursor]
+cursor = '#2b3d45'
+text = '#fdf6e3'
+
+[colors.normal]
+black = '#002b36'
+blue = '#0d6fa8'
+cyan = '#00756d'
+green = '#4b7000'
+magenta = '#b5006e'
+red = '#cf2522'
+white = '#6e6855'
+yellow = '#906800'
+
+[colors.primary]
+background = '#fdf6e3'
+foreground = '#2b3d45'
+
+[colors.selection]
+background = '#ddd8c0'
+text = '#a49d8a'
