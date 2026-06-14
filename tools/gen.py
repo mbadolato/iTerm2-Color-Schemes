@@ -373,6 +373,7 @@ def read_itermcolors_file(iterm_path: pathlib.Path) -> Theme:
     for color_name, color_data in plist.items():
         colors_dict[color_name] = Color.from_iterm_color_dict(color_data)
 
+    apply_fallback_colors(colors_dict)
     name = iterm_path.stem
     adjust_colors_for_wcag(colors_dict, name)
 
@@ -421,6 +422,12 @@ fallback_color_map = {
     "Selection Color": "Foreground Color",
     "Bold Color": "Foreground Color",
 }
+
+
+def apply_fallback_colors(colors_dict: dict[str, Color]) -> None:
+    for dest_key, src_key in fallback_color_map.items():
+        if dest_key not in colors_dict and src_key in colors_dict:
+            colors_dict[dest_key] = colors_dict[src_key]
 
 
 def read_yaml_file(yaml_file_path: pathlib.Path) -> Theme:
