@@ -380,6 +380,8 @@ The PaleNight theme was created by [Mattia Astorino](https://github.com/equinuso
 
 The Pandora theme was created by [milosmatic](https://github.com/milosmatic/Pandora-iterm)
 
+The Patina Dark, Dark Soft, Moss, Light, Lichen, and Stellar themes were created by [lmarkmann](https://github.com/lmarkmann)
+
 The PaulMillr theme was created by [paulmillr](https://github.com/paulmillr/dotfiles/tree/master/terminal) and ported to iTerm by me
 
 The Pencil Dark and Pencil Light themes were created by [mattly](https://github.com/mattly/iterm-colors-pencil)
