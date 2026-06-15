@@ -1,27 +1,27 @@
 # Colors (Catppuccin Latte)
 
 [colors.bright]
-black = '#6c6f85'
-blue = '#456eff'
-cyan = '#2d9fa8'
-green = '#49af3d'
-magenta = '#fe85d8'
-red = '#de293e'
-white = '#bcc0cc'
-yellow = '#eea02d'
+black = '#acb0be'
+blue = '#3878f6'
+cyan = '#19a1a8'
+green = '#46b02f'
+magenta = '#ef95d7'
+red = '#e7103f'
+white = '#6c6f85'
+yellow = '#e49931'
 
 [colors.cursor]
 cursor = '#dc8a78'
 text = '#eff1f5'
 
 [colors.normal]
-black = '#5c5f77'
+black = '#bcc0cc'
 blue = '#1e66f5'
 cyan = '#179299'
 green = '#40a02b'
 magenta = '#ea76cb'
 red = '#d20f39'
-white = '#acb0be'
+white = '#5c5f77'
 yellow = '#df8e1d'
 
 [colors.primary]
@@ -29,5 +29,5 @@ background = '#eff1f5'
 foreground = '#4c4f69'
 
 [colors.selection]
-background = '#acb0be'
-text = '#4c4f69'
+background = '#dc8a78'
+text = '#eff1f5'

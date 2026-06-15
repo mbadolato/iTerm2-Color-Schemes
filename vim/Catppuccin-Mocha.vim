@@ -17,13 +17,13 @@ hi Normal guifg=#cdd6f4 guibg=#1e1e2e
 hi Comment guifg=#585b70
 hi Constant guifg=#f9e2af
 hi Identifier guifg=#89b4fa
-hi Statement guifg=#f37799
-hi PreProc guifg=#f2aede
-hi Type guifg=#89d88b
-hi Special guifg=#6bd7ca
-hi Underlined guifg=#74a8fc gui=underline
+hi Statement guifg=#f7aec2
+hi PreProc guifg=#f398da
+hi Type guifg=#c2ecbf
+hi Special guifg=#b1eae1
+hi Underlined guifg=#aeccfc gui=underline
 hi Error guifg=#f38ba8 guibg=#1e1e2e
-hi Todo guifg=#ebd391 guibg=#1e1e2e
+hi Todo guifg=#fcd682 guibg=#1e1e2e
 
 " Additional groups for better compatibility
 hi String guifg=#a6e3a1
@@ -34,41 +34,41 @@ hi Float guifg=#f9e2af
 
 hi Function guifg=#89b4fa
 
-hi Conditional guifg=#f37799
-hi Repeat guifg=#f37799
-hi Label guifg=#f37799
-hi Operator guifg=#a6adc8
-hi Keyword guifg=#f37799
+hi Conditional guifg=#f7aec2
+hi Repeat guifg=#f7aec2
+hi Label guifg=#f7aec2
+hi Operator guifg=#bac2de
+hi Keyword guifg=#f7aec2
 hi Exception guifg=#f38ba8
 
-hi Include guifg=#f2aede
-hi Define guifg=#f2aede
-hi Macro guifg=#f2aede
-hi PreCondit guifg=#f2aede
+hi Include guifg=#f398da
+hi Define guifg=#f398da
+hi Macro guifg=#f398da
+hi PreCondit guifg=#f398da
 
-hi StorageClass guifg=#89d88b
-hi Structure guifg=#89d88b
-hi Typedef guifg=#89d88b
+hi StorageClass guifg=#c2ecbf
+hi Structure guifg=#c2ecbf
+hi Typedef guifg=#c2ecbf
 
-hi SpecialChar guifg=#6bd7ca
-hi Tag guifg=#6bd7ca
-hi Delimiter guifg=#a6adc8
+hi SpecialChar guifg=#b1eae1
+hi Tag guifg=#b1eae1
+hi Delimiter guifg=#bac2de
 hi SpecialComment guifg=#585b70
-hi Debug guifg=#ebd391
+hi Debug guifg=#fcd682
 
 hi Ignore guifg=#1e1e2e
 
 " Cursor and line highlighting
 hi Cursor guifg=#1e1e2e guibg=#f5e0dc
-hi CursorLine guibg=#585b70
-hi CursorColumn guibg=#585b70
+hi CursorLine guibg=#f5e0dc
+hi CursorColumn guibg=#f5e0dc
 
 " Visual selection
-hi Visual guibg=#585b70
+hi Visual guibg=#f5e0dc
 
 " Search highlighting
-hi Search guibg=#ebd391 guifg=#1e1e2e
-hi IncSearch guibg=#ebd391 guifg=#1e1e2e
+hi Search guibg=#fcd682 guifg=#1e1e2e
+hi IncSearch guibg=#fcd682 guifg=#1e1e2e
 
 " Line numbers
 hi LineNr guifg=#585b70
@@ -80,12 +80,12 @@ hi StatusLineNC guifg=#585b70 guibg=#1e1e2e
 
 " Tab line
 hi TabLine guifg=#585b70 guibg=#1e1e2e
-hi TabLineSel guifg=#cdd6f4 guibg=#585b70
+hi TabLineSel guifg=#cdd6f4 guibg=#f5e0dc
 hi TabLineFill guibg=#1e1e2e
 
 " Popup menu
 hi Pmenu guifg=#cdd6f4 guibg=#585b70
-hi PmenuSel guifg=#1e1e2e guibg=#585b70
+hi PmenuSel guifg=#1e1e2e guibg=#f5e0dc
 hi PmenuSbar guibg=#585b70
 hi PmenuThumb guibg=#cdd6f4
 
