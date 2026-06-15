@@ -1,10 +1,12 @@
-FROM python:latest
+FROM python:3.11-slim
 
-COPY .python-version requirements.txt /colors/
+# Install Python requirements at build time
+COPY requirements.txt .python-version /tmp/
 
-RUN cd /colors/ \
- && pip install --upgrade pip \
- && pip install -r requirements.txt \
-;
+RUN pip install --upgrade pip \
+ && pip install -r /tmp/requirements.txt \
+ && rm -rf /root/.cache/pip
 
- ENTRYPOINT [ "/bin/bash" ]
+WORKDIR /colors
+
+ENTRYPOINT ["/bin/bash", "-c", "cd /colors/tools && python -m gen && python -m screenshot_gen && python ./generate_screenshots_readme.py"]
