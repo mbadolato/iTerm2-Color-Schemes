@@ -2030,6 +2030,18 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/rose-pine-dawn.png)
 
+### Sandstone Classic
+
+![Screenshot](/screenshots/sandstone-classic.png)
+
+### Sandstone Ink
+
+![Screenshot](/screenshots/sandstone-ink.png)
+
+### Sandstone Warm
+
+![Screenshot](/screenshots/sandstone-warm.png)
+
 ### Sauber
 
 ![Screenshot](/screenshots/sauber.png)

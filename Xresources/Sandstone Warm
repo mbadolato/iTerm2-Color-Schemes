@@ -1,0 +1,43 @@
+!
+! Sandstone Warm
+!
+*.foreground:  #3e3220
+*.background:  #fdf6e3
+*.cursorColor: #3e3220
+!
+! Black
+*.color0:      #2e2010
+*.color8:      #5c4a2a
+!
+! Red
+*.color1:      #cf2522
+*.color9:      #c04010
+!
+! Green
+*.color2:      #5d7b00
+*.color10:     #7f6648
+!
+! Yellow
+*.color3:      #865e00
+*.color11:     #7d6646
+!
+! Blue
+*.color4:      #0d6eb2
+*.color12:     #5c6f6f
+!
+! Magenta
+*.color5:      #b52d6e
+*.color13:     #5f64b7
+!
+! Cyan
+*.color6:      #037a71
+*.color14:     #5f6e6e
+!
+! White
+*.color7:      #756c51
+*.color15:     #fdf6e3
+!
+! Bold, Italic, Underline
+*.colorBD:     #3e3220
+!*.colorIT:
+!*.colorUL:

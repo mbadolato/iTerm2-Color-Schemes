@@ -1,0 +1,43 @@
+!
+! Sandstone Classic
+!
+*.foreground:  #3d5259
+*.background:  #fdf6e3
+*.cursorColor: #3d5259
+!
+! Black
+*.color0:      #073642
+*.color8:      #3d5259
+!
+! Red
+*.color1:      #cf2522
+*.color9:      #c04010
+!
+! Green
+*.color2:      #5d7b00
+*.color10:     #5e7171
+!
+! Yellow
+*.color3:      #865e00
+*.color11:     #5b7070
+!
+! Blue
+*.color4:      #0d6eb2
+*.color12:     #5c6f6f
+!
+! Magenta
+*.color5:      #c42a78
+*.color13:     #5f64b7
+!
+! Cyan
+*.color6:      #037a71
+*.color14:     #5f6e6e
+!
+! White
+*.color7:      #6e6855
+*.color15:     #fdf6e3
+!
+! Bold, Italic, Underline
+*.colorBD:     #3d5259
+!*.colorIT:
+!*.colorUL:

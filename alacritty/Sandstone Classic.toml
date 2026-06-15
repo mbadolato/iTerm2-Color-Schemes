@@ -1,0 +1,33 @@
+# Colors (Sandstone Classic)
+
+[colors.bright]
+black = '#3d5259'
+blue = '#5c6f6f'
+cyan = '#5f6e6e'
+green = '#5e7171'
+magenta = '#5f64b7'
+red = '#c04010'
+white = '#fdf6e3'
+yellow = '#5b7070'
+
+[colors.cursor]
+cursor = '#3d5259'
+text = '#fdf6e3'
+
+[colors.normal]
+black = '#073642'
+blue = '#0d6eb2'
+cyan = '#037a71'
+green = '#5d7b00'
+magenta = '#c42a78'
+red = '#cf2522'
+white = '#6e6855'
+yellow = '#865e00'
+
+[colors.primary]
+background = '#fdf6e3'
+foreground = '#3d5259'
+
+[colors.selection]
+background = '#e4dcc8'
+text = '#a49d8a'

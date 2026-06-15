@@ -1,0 +1,12 @@
+# Sandstone Warm
+[colors]
+foreground = "#3e3220"
+background = "#fdf6e3"
+cursor_bg = "#3e3220"
+cursor_border = "#3e3220"
+cursor_fg = "#fdf6e3"
+selection_bg = "#e8dfc4"
+selection_fg = "#b0a996"
+
+ansi = ["#2e2010","#cf2522","#5d7b00","#865e00","#0d6eb2","#b52d6e","#037a71","#756c51"]
+brights = ["#5c4a2a","#c04010","#7f6648","#7d6646","#5c6f6f","#5f64b7","#5f6e6e","#fdf6e3"]

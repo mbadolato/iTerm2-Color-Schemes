@@ -1,0 +1,43 @@
+!
+! Sandstone Ink
+!
+*.foreground:  #2b3d45
+*.background:  #fdf6e3
+*.cursorColor: #2b3d45
+!
+! Black
+*.color0:      #002b36
+*.color8:      #2b3d45
+!
+! Red
+*.color1:      #cf2522
+*.color9:      #b33000
+!
+! Green
+*.color2:      #4b7000
+*.color10:     #536868
+!
+! Yellow
+*.color3:      #906800
+*.color11:     #566c6c
+!
+! Blue
+*.color4:      #0d6fa8
+*.color12:     #5c6f6f
+!
+! Magenta
+*.color5:      #b5006e
+*.color13:     #5f64b7
+!
+! Cyan
+*.color6:      #00756d
+*.color14:     #5f6e6e
+!
+! White
+*.color7:      #6e6855
+*.color15:     #fdf6e3
+!
+! Bold, Italic, Underline
+*.colorBD:     #2b3d45
+!*.colorIT:
+!*.colorUL:
