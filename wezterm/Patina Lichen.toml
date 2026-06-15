@@ -1,0 +1,12 @@
+# Patina Lichen
+[colors]
+foreground = "#393a34"
+background = "#cdd1c6"
+cursor_bg = "#393a34"
+cursor_border = "#393a34"
+cursor_fg = "#cdd1c6"
+selection_bg = "#aab0a3"
+selection_fg = "#393a34"
+
+ansi = ["#393a34","#8b4646","#33644d","#7f5031","#35616d","#854b3f","#2a6361","#5a5248"]
+brights = ["#5b5b54","#8b4646","#426338","#7f5031","#35616d","#854b3f","#2a6361","#393a34"]

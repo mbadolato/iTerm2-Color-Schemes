@@ -1,0 +1,12 @@
+# Patina Light
+[colors]
+foreground = "#2e2a24"
+background = "#ddd7c4"
+cursor_bg = "#2e2a24"
+cursor_border = "#2e2a24"
+cursor_fg = "#ddd7c4"
+selection_bg = "#bfb8a3"
+selection_fg = "#2e2a24"
+
+ansi = ["#2e2a24","#9b3b3b","#34644c","#6e5817","#2f626f","#7a4f47","#2e6260","#5a5248"]
+brights = ["#625a51","#833333","#2d5839","#634e14","#2c5660","#6d463e","#285654","#393a34"]

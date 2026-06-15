@@ -1,0 +1,33 @@
+# Colors (Patina Light)
+
+[colors.bright]
+black = '#625a51'
+blue = '#2c5660'
+cyan = '#285654'
+green = '#2d5839'
+magenta = '#6d463e'
+red = '#833333'
+white = '#393a34'
+yellow = '#634e14'
+
+[colors.cursor]
+cursor = '#2e2a24'
+text = '#ddd7c4'
+
+[colors.normal]
+black = '#2e2a24'
+blue = '#2f626f'
+cyan = '#2e6260'
+green = '#34644c'
+magenta = '#7a4f47'
+red = '#9b3b3b'
+white = '#5a5248'
+yellow = '#6e5817'
+
+[colors.primary]
+background = '#ddd7c4'
+foreground = '#2e2a24'
+
+[colors.selection]
+background = '#bfb8a3'
+text = '#2e2a24'

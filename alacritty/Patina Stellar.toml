@@ -1,0 +1,33 @@
+# Colors (Patina Stellar)
+
+[colors.bright]
+black = '#6a6258'
+blue = '#3f7381'
+cyan = '#337675'
+green = '#3e7a5e'
+magenta = '#9d594b'
+red = '#bf3c3c'
+white = '#393a34'
+yellow = '#826743'
+
+[colors.cursor]
+cursor = '#2e2a24'
+text = '#f5f2ed'
+
+[colors.normal]
+black = '#2e2a24'
+blue = '#2f626f'
+cyan = '#387775'
+green = '#3a7055'
+magenta = '#8a5a50'
+red = '#a84040'
+white = '#5a5248'
+yellow = '#6e5817'
+
+[colors.primary]
+background = '#f5f2ed'
+foreground = '#2e2a24'
+
+[colors.selection]
+background = '#dbd5c5'
+text = '#2e2a24'

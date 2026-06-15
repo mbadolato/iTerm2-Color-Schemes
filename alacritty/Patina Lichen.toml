@@ -1,0 +1,33 @@
+# Colors (Patina Lichen)
+
+[colors.bright]
+black = '#5b5b54'
+blue = '#35616d'
+cyan = '#2a6361'
+green = '#426338'
+magenta = '#854b3f'
+red = '#8b4646'
+white = '#393a34'
+yellow = '#7f5031'
+
+[colors.cursor]
+cursor = '#393a34'
+text = '#cdd1c6'
+
+[colors.normal]
+black = '#393a34'
+blue = '#35616d'
+cyan = '#2a6361'
+green = '#33644d'
+magenta = '#854b3f'
+red = '#8b4646'
+white = '#5a5248'
+yellow = '#7f5031'
+
+[colors.primary]
+background = '#cdd1c6'
+foreground = '#393a34'
+
+[colors.selection]
+background = '#aab0a3'
+text = '#393a34'

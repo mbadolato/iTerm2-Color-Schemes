@@ -1,0 +1,33 @@
+# Colors (Patina Dark Soft)
+
+[colors.bright]
+black = '#585858'
+blue = '#6db3c2'
+cyan = '#5da9a7'
+green = '#549c7d'
+magenta = '#c98a7d'
+red = '#cb7676'
+white = '#dbd7ca'
+yellow = '#e6cc77'
+
+[colors.cursor]
+cursor = '#dbd7ca'
+text = '#1a1a1a'
+
+[colors.normal]
+black = '#2e2e2e'
+blue = '#6db3c2'
+cyan = '#5da9a7'
+green = '#549c7d'
+magenta = '#c98a7d'
+red = '#cb7676'
+white = '#dbd7ca'
+yellow = '#e6cc77'
+
+[colors.primary]
+background = '#1a1a1a'
+foreground = '#dbd7ca'
+
+[colors.selection]
+background = '#3a3835'
+text = '#dbd7ca'

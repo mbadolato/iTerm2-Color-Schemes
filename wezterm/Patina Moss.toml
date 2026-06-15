@@ -1,0 +1,12 @@
+# Patina Moss
+[colors]
+foreground = "#dbd7ca"
+background = "#20231f"
+cursor_bg = "#dbd7ca"
+cursor_border = "#dbd7ca"
+cursor_fg = "#20231f"
+selection_bg = "#383b31"
+selection_fg = "#dbd7ca"
+
+ansi = ["#33362e","#c07878","#5ba886","#d4bf6e","#65a8b5","#c08a7d","#63a8a6","#dbd7ca"]
+brights = ["#585b51","#c07878","#5ba886","#d4bf6e","#65a8b5","#c08a7d","#63a8a6","#dbd7ca"]

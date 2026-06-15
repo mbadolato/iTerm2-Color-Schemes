@@ -1,0 +1,43 @@
+!
+! base16-icy
+!
+*.foreground:  #095b67
+*.background:  #021012
+*.cursorColor: #16c2d9
+!
+! Black
+*.color0:      #021012
+*.color8:      #1e484e
+!
+! Red
+*.color1:      #16c2d9
+*.color9:      #b3ebf2
+!
+! Green
+*.color2:      #4dd0e1
+*.color10:     #4dd0e1
+!
+! Yellow
+*.color3:      #80deea
+*.color11:     #80deea
+!
+! Blue
+*.color4:      #00bcd4
+*.color12:     #00bcd4
+!
+! Magenta
+*.color5:      #00adc1
+*.color13:     #00adc1
+!
+! Cyan
+*.color6:      #26c6d6
+*.color14:     #26c6d6
+!
+! White
+*.color7:      #095b67
+*.color15:     #0c7c7c
+!
+! Bold, Italic, Underline
+*.colorBD:     #095b67
+!*.colorIT:
+!*.colorUL:

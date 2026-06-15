@@ -1,0 +1,12 @@
+# base16-icy
+[colors]
+foreground = "#095b67"
+background = "#021012"
+cursor_bg = "#16c2d9"
+cursor_border = "#16c2d9"
+cursor_fg = "#021012"
+selection_bg = "#041f23"
+selection_fg = "#425052"
+
+ansi = ["#021012","#16c2d9","#4dd0e1","#80deea","#00bcd4","#00adc1","#26c6d6","#095b67"]
+brights = ["#1e484e","#b3ebf2","#4dd0e1","#80deea","#00bcd4","#00adc1","#26c6d6","#0c7c7c"]

@@ -1,0 +1,12 @@
+# Patina Dark Soft
+[colors]
+foreground = "#dbd7ca"
+background = "#1a1a1a"
+cursor_bg = "#dbd7ca"
+cursor_border = "#dbd7ca"
+cursor_fg = "#1a1a1a"
+selection_bg = "#3a3835"
+selection_fg = "#dbd7ca"
+
+ansi = ["#2e2e2e","#cb7676","#549c7d","#e6cc77","#6db3c2","#c98a7d","#5da9a7","#dbd7ca"]
+brights = ["#585858","#cb7676","#549c7d","#e6cc77","#6db3c2","#c98a7d","#5da9a7","#dbd7ca"]

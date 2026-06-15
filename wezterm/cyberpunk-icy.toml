@@ -1,0 +1,12 @@
+# cyberpunk-icy
+[colors]
+foreground = "#d4b3f7"
+background = "#0a0a0f"
+cursor_bg = "#00ffff"
+cursor_border = "#00ffff"
+cursor_fg = "#0a0a0f"
+selection_bg = "#004d4d"
+selection_fg = "#0a0a0f"
+
+ansi = ["#1a1a2e","#ff0055","#00ff9f","#fffc00","#7b2fff","#ff00ff","#00ffff","#d4b3f7"]
+brights = ["#444468","#ff3377","#33ffb2","#fffe33","#9955ff","#ff55ff","#55ffff","#ffffff"]

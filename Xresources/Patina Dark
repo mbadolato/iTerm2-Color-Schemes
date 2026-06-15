@@ -1,0 +1,43 @@
+!
+! Patina Dark
+!
+*.foreground:  #dbd7ca
+*.background:  #121212
+*.cursorColor: #dbd7ca
+!
+! Black
+*.color0:      #2e2e2e
+*.color8:      #585858
+!
+! Red
+*.color1:      #cb7676
+*.color9:      #cb7676
+!
+! Green
+*.color2:      #4d9375
+*.color10:     #4d9375
+!
+! Yellow
+*.color3:      #e6cc77
+*.color11:     #e6cc77
+!
+! Blue
+*.color4:      #6db3c2
+*.color12:     #6db3c2
+!
+! Magenta
+*.color5:      #c98a7d
+*.color13:     #c98a7d
+!
+! Cyan
+*.color6:      #5da9a7
+*.color14:     #5da9a7
+!
+! White
+*.color7:      #dbd7ca
+*.color15:     #dbd7ca
+!
+! Bold, Italic, Underline
+*.colorBD:     #dbd7ca
+!*.colorIT:
+!*.colorUL:

@@ -124,6 +124,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/banana-blueberry.png)
 
+### base16-icy
+
+![Screenshot](/screenshots/base16-icy.png)
+
 ### Batman
 
 ![Screenshot](/screenshots/batman.png)
@@ -343,6 +347,10 @@ The screenshots are categorized.
 ### Cyberpunk Scarlet Protocol
 
 ![Screenshot](/screenshots/cyberpunk-scarlet-protocol.png)
+
+### cyberpunk-icy
+
+![Screenshot](/screenshots/cyberpunk-icy.png)
 
 ### Cyberpunk
 
@@ -1192,6 +1200,18 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/paraiso-dark.png)
 
+### Patina Dark Soft
+
+![Screenshot](/screenshots/patina-dark-soft.png)
+
+### Patina Dark
+
+![Screenshot](/screenshots/patina-dark.png)
+
+### Patina Moss
+
+![Screenshot](/screenshots/patina-moss.png)
+
 ### Paul Millr
 
 ![Screenshot](/screenshots/paul-millr.png)
@@ -1997,6 +2017,18 @@ The screenshots are categorized.
 ### Onenord Light
 
 ![Screenshot](/screenshots/onenord-light.png)
+
+### Patina Lichen
+
+![Screenshot](/screenshots/patina-lichen.png)
+
+### Patina Light
+
+![Screenshot](/screenshots/patina-light.png)
+
+### Patina Stellar
+
+![Screenshot](/screenshots/patina-stellar.png)
 
 ### Pencil Light
 

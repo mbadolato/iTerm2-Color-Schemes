@@ -1,0 +1,33 @@
+# Colors (Patina Moss)
+
+[colors.bright]
+black = '#585b51'
+blue = '#65a8b5'
+cyan = '#63a8a6'
+green = '#5ba886'
+magenta = '#c08a7d'
+red = '#c07878'
+white = '#dbd7ca'
+yellow = '#d4bf6e'
+
+[colors.cursor]
+cursor = '#dbd7ca'
+text = '#20231f'
+
+[colors.normal]
+black = '#33362e'
+blue = '#65a8b5'
+cyan = '#63a8a6'
+green = '#5ba886'
+magenta = '#c08a7d'
+red = '#c07878'
+white = '#dbd7ca'
+yellow = '#d4bf6e'
+
+[colors.primary]
+background = '#20231f'
+foreground = '#dbd7ca'
+
+[colors.selection]
+background = '#383b31'
+text = '#dbd7ca'

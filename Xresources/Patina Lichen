@@ -1,0 +1,43 @@
+!
+! Patina Lichen
+!
+*.foreground:  #393a34
+*.background:  #cdd1c6
+*.cursorColor: #393a34
+!
+! Black
+*.color0:      #393a34
+*.color8:      #5b5b54
+!
+! Red
+*.color1:      #8b4646
+*.color9:      #8b4646
+!
+! Green
+*.color2:      #33644d
+*.color10:     #426338
+!
+! Yellow
+*.color3:      #7f5031
+*.color11:     #7f5031
+!
+! Blue
+*.color4:      #35616d
+*.color12:     #35616d
+!
+! Magenta
+*.color5:      #854b3f
+*.color13:     #854b3f
+!
+! Cyan
+*.color6:      #2a6361
+*.color14:     #2a6361
+!
+! White
+*.color7:      #5a5248
+*.color15:     #393a34
+!
+! Bold, Italic, Underline
+*.colorBD:     #393a34
+!*.colorIT:
+!*.colorUL:

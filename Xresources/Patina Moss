@@ -1,0 +1,43 @@
+!
+! Patina Moss
+!
+*.foreground:  #dbd7ca
+*.background:  #20231f
+*.cursorColor: #dbd7ca
+!
+! Black
+*.color0:      #33362e
+*.color8:      #585b51
+!
+! Red
+*.color1:      #c07878
+*.color9:      #c07878
+!
+! Green
+*.color2:      #5ba886
+*.color10:     #5ba886
+!
+! Yellow
+*.color3:      #d4bf6e
+*.color11:     #d4bf6e
+!
+! Blue
+*.color4:      #65a8b5
+*.color12:     #65a8b5
+!
+! Magenta
+*.color5:      #c08a7d
+*.color13:     #c08a7d
+!
+! Cyan
+*.color6:      #63a8a6
+*.color14:     #63a8a6
+!
+! White
+*.color7:      #dbd7ca
+*.color15:     #dbd7ca
+!
+! Bold, Italic, Underline
+*.colorBD:     #dbd7ca
+!*.colorIT:
+!*.colorUL:

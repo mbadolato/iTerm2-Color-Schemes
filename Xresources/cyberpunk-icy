@@ -1,0 +1,43 @@
+!
+! cyberpunk-icy
+!
+*.foreground:  #d4b3f7
+*.background:  #0a0a0f
+*.cursorColor: #00ffff
+!
+! Black
+*.color0:      #1a1a2e
+*.color8:      #444468
+!
+! Red
+*.color1:      #ff0055
+*.color9:      #ff3377
+!
+! Green
+*.color2:      #00ff9f
+*.color10:     #33ffb2
+!
+! Yellow
+*.color3:      #fffc00
+*.color11:     #fffe33
+!
+! Blue
+*.color4:      #7b2fff
+*.color12:     #9955ff
+!
+! Magenta
+*.color5:      #ff00ff
+*.color13:     #ff55ff
+!
+! Cyan
+*.color6:      #00ffff
+*.color14:     #55ffff
+!
+! White
+*.color7:      #d4b3f7
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #d4b3f7
+!*.colorIT:
+!*.colorUL:
