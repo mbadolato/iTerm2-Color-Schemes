@@ -1,0 +1,33 @@
+# Colors (Token Light)
+
+[colors.bright]
+black = '#6c675f'
+blue = '#486a88'
+cyan = '#286363'
+green = '#3a5e37'
+magenta = '#6f578c'
+red = '#9a4929'
+white = '#faf9f5'
+yellow = '#876032'
+
+[colors.cursor]
+cursor = '#2a2920'
+text = '#faf9f5'
+
+[colors.normal]
+black = '#2a2920'
+blue = '#527594'
+cyan = '#2d6c6c'
+green = '#3f643c'
+magenta = '#7c619a'
+red = '#b05555'
+white = '#b5b2ab'
+yellow = '#6e5c20'
+
+[colors.primary]
+background = '#faf9f5'
+foreground = '#2a2920'
+
+[colors.selection]
+background = '#dddcd6'
+text = '#2a2920'

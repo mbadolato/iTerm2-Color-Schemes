@@ -1,0 +1,12 @@
+# Token Light
+[colors]
+foreground = "#2a2920"
+background = "#faf9f5"
+cursor_bg = "#2a2920"
+cursor_border = "#2a2920"
+cursor_fg = "#faf9f5"
+selection_bg = "#dddcd6"
+selection_fg = "#2a2920"
+
+ansi = ["#2a2920","#b05555","#3f643c","#6e5c20","#527594","#7c619a","#2d6c6c","#b5b2ab"]
+brights = ["#6c675f","#9a4929","#3a5e37","#876032","#486a88","#6f578c","#286363","#faf9f5"]

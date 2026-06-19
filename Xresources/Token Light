@@ -1,0 +1,43 @@
+!
+! Token Light
+!
+*.foreground:  #2a2920
+*.background:  #faf9f5
+*.cursorColor: #2a2920
+!
+! Black
+*.color0:      #2a2920
+*.color8:      #6c675f
+!
+! Red
+*.color1:      #b05555
+*.color9:      #9a4929
+!
+! Green
+*.color2:      #3f643c
+*.color10:     #3a5e37
+!
+! Yellow
+*.color3:      #6e5c20
+*.color11:     #876032
+!
+! Blue
+*.color4:      #527594
+*.color12:     #486a88
+!
+! Magenta
+*.color5:      #7c619a
+*.color13:     #6f578c
+!
+! Cyan
+*.color6:      #2d6c6c
+*.color14:     #286363
+!
+! White
+*.color7:      #b5b2ab
+*.color15:     #faf9f5
+!
+! Bold, Italic, Underline
+*.colorBD:     #2a2920
+!*.colorIT:
+!*.colorUL:

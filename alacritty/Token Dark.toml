@@ -1,0 +1,33 @@
+# Colors (Token Dark)
+
+[colors.bright]
+black = '#5a5955'
+blue = '#96b8d3'
+cyan = '#88c0c0'
+green = '#98bf95'
+magenta = '#bea5d4'
+red = '#d97757'
+white = '#e8e4dc'
+yellow = '#c4956a'
+
+[colors.cursor]
+cursor = '#e8e4dc'
+text = '#262624'
+
+[colors.normal]
+black = '#1d1d1c'
+blue = '#7b9ebd'
+cyan = '#6ba8a8'
+green = '#7da47a'
+magenta = '#a68bbf'
+red = '#c67777'
+white = '#d4cfc6'
+yellow = '#c4a855'
+
+[colors.primary]
+background = '#262624'
+foreground = '#e8e4dc'
+
+[colors.selection]
+background = '#3a3a37'
+text = '#e8e4dc'
