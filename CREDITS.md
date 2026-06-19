@@ -486,6 +486,8 @@ The Thayer Bright theme was found [here](https://github.com/t3chnoboy/thayer-bri
 
 The theme Tinacious Design was created by [Tina Holly](https://tinaciousdesign.com)
 
+The Token Dark and Token Light themes were created by [Thorsten Rhau](https://github.com/ThorstenRhau) from the [Token](https://github.com/ThorstenRhau/token) colorscheme.
+
 The Tokyo Night themes were created by [folke](https://github.com/folke/tokyonight.nvim)
 
 The Tomorrow themes were created by [chriskempson](https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2)

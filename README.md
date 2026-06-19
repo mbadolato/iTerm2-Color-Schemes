@@ -1769,6 +1769,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/tinacious-design-dark.png)
 
+### Token Dark
+
+![Screenshot](/screenshots/token-dark.png)
+
 ### TokyoNight Moon
 
 ![Screenshot](/screenshots/tokyonight-moon.png)
@@ -2338,6 +2342,10 @@ The screenshots are categorized.
 ### Tinacious Design Light
 
 ![Screenshot](/screenshots/tinacious-design-light.png)
+
+### Token Light
+
+![Screenshot](/screenshots/token-light.png)
 
 ### TokyoNight Day
 
