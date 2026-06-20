@@ -108,6 +108,16 @@ an interactive terminal session inside the container.
 
 Have a great theme? Send it to me via a Pull Request!
 
+#### Theme naming
+
+Name source files exactly as the theme should be displayed. Use the human-readable
+name — no slugification, no replacing spaces with underscores.
+
+- iTerm2: `schemes/Your Theme Name.itermcolors`
+- YAML: `yaml/Your Theme Name.yml` (see [yaml/README.md](/yaml/README.md))
+
+Quote names with spaces in shell commands: `python3 tools/gen.py -s "Your Theme Name"`.
+
 #### Have an iTerm theme?
 
 1. Get your theme's`.itermcolors` file.
@@ -117,8 +127,8 @@ Have a great theme? Send it to me via a Pull Request!
    - Click on **Color Presets**
    - Click on **Export**
    - Save the .itermcolors file
-2. Put your theme file into `/schemes/`
-   - `mv <your-itermcolors-file> schemes/`
+2. Put your theme file into `/schemes/`, named as you want it displayed.
+   - `mv <your-itermcolors-file> schemes/"Your Theme Name.itermcolors"`
 
 #### Have a theme in another format?
 
@@ -126,13 +136,16 @@ Have a great theme? Send it to me via a Pull Request!
    This is an extension of the format supported by the [Gogh](https://github.com/Gogh-Co/Gogh/) project.
    - If it helps, you can use `tools/kitty_to_yaml.py` and `tools/ghostty_to_yaml.py`.
      These tools accept configuration file streamed into stdin, and output a YAML fragment to stdout.
-2. Put the YAML file in `yaml/`, with the `.yml` extension.
+2. Put the YAML file in `yaml/` as `Your Theme Name.yml`.
 
 #### Test your theme
 
 1. Generate other formats for your theme using the `gen.py` script.
-   - `python3 tools/gen.py -s <YourTheme>`
-2. Generate a screenshot of your theme using the `screenshot_gen` tool.
+   - `python3 tools/gen.py -s "Your Theme Name"`
+2. Optionally check WCAG contrast (`.itermcolors` only; YAML themes must be generated first).
+   - `python3 tools/wcag_check.py -s "Your Theme Name"`
+   - Failing checks are OK — `gen.py` may adjust colors during generation to meet the minimum contrast threshold (1.75:1).
+3. Generate a screenshot of your theme using the `screenshot_gen` tool.
    - `pushd tools && python3 -m screenshot_gen && popd`. This will generate new screenshots where they are missing.
    - If you have `oxipng` or `zopflipng` installed, the screenshot will be optimized for you.
 
