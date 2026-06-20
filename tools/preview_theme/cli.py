@@ -69,11 +69,12 @@ def main(argv: list[str] | None = None) -> int:
         help="Preview width in columns (default: terminal width)",
     )
     parser.add_argument(
-        "--no-clear",
+        "--clear",
         action="store_true",
-        help="Do not clear the screen before drawing",
+        help="Clear the screen before drawing (default: append to scrollback)",
     )
     args = parser.parse_args(argv)
+    no_clear = not args.clear
 
     try:
         themes = resolve_themes(args.scheme, list(args.paths))
@@ -84,7 +85,7 @@ def main(argv: list[str] | None = None) -> int:
     width = args.width or terminal_width()
 
     if is_tty() and len(themes) > 1:
-        return run_interactive(themes, width, args.no_clear)
+        return run_interactive(themes, width, no_clear)
 
     for index, theme in enumerate(themes):
         _write_preview(
@@ -92,15 +93,15 @@ def main(argv: list[str] | None = None) -> int:
             index=index,
             total=len(themes),
             width=width,
-            no_clear=args.no_clear or index > 0,
+            no_clear=no_clear,
         )
 
-    if len(themes) == 1 and is_tty() and not args.no_clear:
+    if len(themes) == 1 and is_tty() and not no_clear:
         print("Press q to quit.", file=sys.stderr)
         while True:
             action = parse_key(read_key())
             if action in {"quit", "redraw"}:
-                if action == "quit" and not args.no_clear:
+                if action == "quit" and not no_clear:
                     clear_screen()
                 break
 

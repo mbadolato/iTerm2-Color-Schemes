@@ -20,22 +20,28 @@ def run_preview(*args: str) -> subprocess.CompletedProcess[str]:
 
 class PreviewThemeTests(unittest.TestCase):
     def test_scheme_renders_hex_values(self) -> None:
-        result = run_preview("-s", "Molokai", "--no-clear")
+        result = run_preview("-s", "Molokai")
         self.assertEqual(result.returncode, 0, msg=result.stderr)
         self.assertIn("Molokai", result.stdout)
         self.assertIn("#", result.stdout)
         self.assertIn("Semantic samples", result.stdout)
         self.assertIn("Display-only preview", result.stdout)
+        self.assertNotIn("\033[2J", result.stdout)
+
+    def test_clear_flag_clears_screen(self) -> None:
+        result = run_preview("-s", "Molokai", "--clear")
+        self.assertEqual(result.returncode, 0, msg=result.stderr)
+        self.assertIn("\033[2J", result.stdout)
 
     def test_no_osc_palette_sequences(self) -> None:
-        result = run_preview("-s", "Molokai", "--no-clear")
+        result = run_preview("-s", "Molokai")
         self.assertEqual(result.returncode, 0, msg=result.stderr)
         self.assertNotIn("\033]4;", result.stdout)
         self.assertNotIn("\033]10;", result.stdout)
         self.assertNotIn("\033]11;", result.stdout)
 
     def test_yaml_source(self) -> None:
-        result = run_preview("yaml/Clear Dark.yml", "--no-clear")
+        result = run_preview("yaml/Clear Dark.yml")
         self.assertEqual(result.returncode, 0, msg=result.stderr)
         self.assertIn("Clear Dark", result.stdout)
 
@@ -45,7 +51,7 @@ class PreviewThemeTests(unittest.TestCase):
         self.assertIn("not found", result.stderr)
 
     def test_static_mode_uses_truecolor(self) -> None:
-        result = run_preview("-s", "Molokai", "--no-clear")
+        result = run_preview("-s", "Molokai")
         self.assertIn("38;2;", result.stdout)
         self.assertIn("48;2;", result.stdout)
 
