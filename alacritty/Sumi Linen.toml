@@ -1,0 +1,33 @@
+# Colors (Sumi Linen)
+
+[colors.bright]
+black = '#6a6458'
+blue = '#4080c0'
+cyan = '#28a090'
+green = '#3a9868'
+magenta = '#8858a8'
+red = '#c84840'
+white = '#14100c'
+yellow = '#c09030'
+
+[colors.cursor]
+cursor = '#18786c'
+text = '#e6dfd0'
+
+[colors.normal]
+black = '#3a342c'
+blue = '#3060a0'
+cyan = '#18786c'
+green = '#2e8050'
+magenta = '#704890'
+red = '#b83830'
+white = '#5a5448'
+yellow = '#a87820'
+
+[colors.primary]
+background = '#e6dfd0'
+foreground = '#1c1814'
+
+[colors.selection]
+background = '#9ec4ba'
+text = '#14100c'

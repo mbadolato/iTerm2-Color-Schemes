@@ -1,0 +1,12 @@
+# Sumi Linen
+[colors]
+foreground = "#1c1814"
+background = "#e6dfd0"
+cursor_bg = "#18786c"
+cursor_border = "#18786c"
+cursor_fg = "#e6dfd0"
+selection_bg = "#9ec4ba"
+selection_fg = "#14100c"
+
+ansi = ["#3a342c","#b83830","#2e8050","#a87820","#3060a0","#704890","#18786c","#5a5448"]
+brights = ["#6a6458","#c84840","#3a9868","#c09030","#4080c0","#8858a8","#28a090","#14100c"]

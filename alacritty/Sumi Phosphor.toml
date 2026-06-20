@@ -1,0 +1,33 @@
+# Colors (Sumi Phosphor)
+
+[colors.bright]
+black = '#474139'
+blue = '#70a0d8'
+cyan = '#48d8c8'
+green = '#72c078'
+magenta = '#b088c8'
+red = '#e87060'
+white = '#e0dcd4'
+yellow = '#e8b84c'
+
+[colors.cursor]
+cursor = '#2ec4b6'
+text = '#12100e'
+
+[colors.normal]
+black = '#1e1a16'
+blue = '#5a82b8'
+cyan = '#2ec4b6'
+green = '#5ca868'
+magenta = '#9870b0'
+red = '#d45848'
+white = '#8a8478'
+yellow = '#d4a03c'
+
+[colors.primary]
+background = '#12100e'
+foreground = '#bab4a8'
+
+[colors.selection]
+background = '#3a3834'
+text = '#e8e4dc'

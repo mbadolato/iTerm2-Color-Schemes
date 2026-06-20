@@ -13,6 +13,8 @@ The Abernathy theme was created by [barish](https://instagram.com/barish)
 
 The Adventure theme was created by [hongzimao](https://github.com/hongzimao/iTerm2-Color-Schemes)
 
+The Sumi Phosphor and Sumi Linen themes were created by Grok Build Composer 2.5 Fast as a complementary dark/light pair — sumi ink on espresso black with a phosphor-teal signal accent, and sumi typography on unbleached linen.
+
 The themes AdventureTime, AlienBlood, BirdsOfParadise, Ciapre, CrayonPonyFish, DimmedMonokai, Earthsong, Elemental, FishTank, FrontEndDelight, FunForrest, Grape, Highway, IC_Green_PPL, IC_Orange_PPL, Lavandula, Medallion, MonaLisa, Ollie, Royal, SeaShells, Shaman, SleepyHollow, SoftServer, Sundried, ToyChest, Treehouse, and Urple were created by [zdj](https://github.com/zdj/themes/tree/master/iterm2)
 
 The themes Adwaita and Adwaita Dark are based on the GNOME desktop environment's default Adwaita palette and were adapted for iTerm2 by [cnavajas](https://github.com/cnavajas), with inspiration from vixalien's palette.
