@@ -1,0 +1,32 @@
+# Palette grounded in Florida Keys sunset references:
+# jscarto Florida Keys gist (Stu Ostro photo), Moody Sunset (#003f5c–#ffa600),
+# and color-hex "sunset at florida" (#fc9077, #ffcb9a, #fff5be, #fdbfde, #a5b5d5).
+name: "Keys Ocean Sunset"
+author: "Grok Build Composer 2.5 Fast"
+variant: "dark"
+
+# AI theme generation test — Florida Keys ocean sunset dark theme.
+
+color_01: "#101927"
+color_02: "#E85A52"
+color_03: "#4A9A72"
+color_04: "#E89A2E"
+color_05: "#5288B8"
+color_06: "#BC5090"
+color_07: "#5EC8C8"
+color_08: "#A5B5D5"
+color_09: "#344658"
+color_10: "#FC9077"
+color_11: "#62C48E"
+color_12: "#FFCB9A"
+color_13: "#5A8FD4"
+color_14: "#FDBFDE"
+color_15: "#7ED4E0"
+color_16: "#FFF5BE"
+
+background: "#0A1018"
+foreground: "#B8C8DC"
+cursor: "#FC9077"
+cursor_text: "#0A1018"
+selection: "#1A2430"
+selection_text: "#FFF5BE"
