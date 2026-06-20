@@ -6,7 +6,16 @@ from typing import Iterable, List
 
 from gen import Color, Theme
 
-from preview_theme.colors import DIM, RESET, hex_display, label_color_for_bg, sgr_fg, styled
+from preview_theme.colors import (
+    DIM,
+    RESET,
+    fill_line,
+    fill_line_segments,
+    hex_display,
+    label_color_for_bg,
+    sgr_bg,
+    sgr_fg,
+)
 
 
 def _color(theme: Theme, name: str, fallback: str | None = None) -> Color:
@@ -22,33 +31,42 @@ def _ansi(theme: Theme, index: int) -> Color:
 
 
 def _hline(width: int, char: str = "─") -> str:
-    return char * max(width, 20)
-
-
-def _swatch_cell(index: int, color: Color, cell_width: int = 10) -> str:
-    label = label_color_for_bg(color)
-    inner = f" {index} "
-    pad = max(cell_width - len(inner), 0)
-    left = pad // 2
-    right = pad - left
-    block = " " * left + inner + " " * right
-    return styled(block[:cell_width].ljust(cell_width), label, color)
+    return char * width
 
 
 def _swatch_row(theme: Theme, indices: Iterable[int], width: int) -> List[str]:
+    fg = _color(theme, "Foreground Color")
+    bg = _color(theme, "Background Color")
     colors = [_ansi(theme, i) for i in indices]
     cell_width = 10
     count = len(colors)
-    row_width = count * (cell_width + 1)
+    row_width = count * (cell_width + 1) - 1
     if row_width > width:
-        cell_width = max(6, (width - count) // count)
+        cell_width = max(6, (width - max(count - 1, 0)) // count)
 
-    swatches = " ".join(_swatch_cell(i, c, cell_width) for i, c in zip(indices, colors))
-    hexes = " ".join(
-        f"{DIM}{sgr_fg(_color(theme, 'Foreground Color'))}{hex_display(c):<{cell_width}}{RESET}"
-        for c in colors
-    )
-    return [swatches, hexes]
+    swatch_out = sgr_bg(bg)
+    hex_out = sgr_bg(bg)
+    visible = 0
+
+    for index, (ansi_index, color) in enumerate(zip(indices, colors)):
+        if index:
+            swatch_out += sgr_fg(fg) + " "
+            hex_out += sgr_fg(fg) + " "
+            visible += 1
+
+        label = label_color_for_bg(color)
+        inner = f" {ansi_index} "
+        cell = inner.center(cell_width)[:cell_width]
+        swatch_out += sgr_fg(label) + sgr_bg(color) + cell
+        hex_out += f"{DIM}{sgr_fg(fg)}{hex_display(color):<{cell_width}}"
+        visible += cell_width
+
+    if visible < width:
+        pad = " " * (width - visible)
+        swatch_out += sgr_fg(fg) + pad
+        hex_out += sgr_fg(fg) + pad
+
+    return [swatch_out + RESET, hex_out + RESET]
 
 
 def render_preview(theme: Theme, width: int = 80, *, index: int = 0, total: int = 1) -> str:
@@ -63,7 +81,7 @@ def render_preview(theme: Theme, width: int = 80, *, index: int = 0, total: int 
     lines: List[str] = []
     border = _hline(width, "═")
 
-    lines.append(styled(border, fg, bg))
+    lines.append(fill_line(border, fg, bg, width))
     title = f" {theme.name} "
     if theme.variant:
         title += f"· {theme.variant} "
@@ -71,73 +89,135 @@ def render_preview(theme: Theme, width: int = 80, *, index: int = 0, total: int 
         title += f"· {theme.author} "
     if total > 1:
         title += f"· [{index + 1}/{total}] "
-    lines.append(styled(title[: width - 2], fg, bg, bold=True))
+    lines.append(fill_line(title, fg, bg, width, bold=True))
     if total > 1:
-        lines.append(styled(" ← → navigate   r redraw   q quit ", _ansi(theme, 6), bg))
-    lines.append(styled(border, fg, bg))
+        lines.append(fill_line(" ← → navigate   r redraw   q quit ", _ansi(theme, 6), bg, width))
+    lines.append(fill_line(border, fg, bg, width))
 
-    lines.append(styled(" ANSI (0–7)", bold, bg, bold=True))
-    lines.extend(styled(line, fg, bg) for line in _swatch_row(theme, range(8), width))
+    lines.append(fill_line(" ANSI (0–7)", bold, bg, width, bold=True))
+    lines.extend(_swatch_row(theme, range(8), width))
 
-    lines.append("")
-    lines.append(styled(" ANSI bright (8–15)", bold, bg, bold=True))
-    lines.extend(styled(line, fg, bg) for line in _swatch_row(theme, range(8, 16), width))
+    lines.append(fill_line("", fg, bg, width))
+    lines.append(fill_line(" ANSI bright (8–15)", bold, bg, width, bold=True))
+    lines.extend(_swatch_row(theme, range(8, 16), width))
 
-    lines.append("")
-    lines.append(styled(_hline(width), fg, bg))
-    lines.append(styled(" Surfaces", bold, bg, bold=True))
+    lines.append(fill_line("", fg, bg, width))
+    lines.append(fill_line(_hline(width), fg, bg, width))
+    lines.append(fill_line(" Surfaces", bold, bg, width, bold=True))
     lines.append(
-        styled(
-            f" {'The quick brown fox jumps over the lazy dog. 0123456789'} ",
+        fill_line(
+            " The quick brown fox jumps over the lazy dog. 0123456789 ",
             fg,
             bg,
+            width,
         )
     )
-    lines.append(styled(f" {'Bold body text and emphasis sample'} ", bold, bg, bold=True))
+    lines.append(fill_line(" Bold body text and emphasis sample ", bold, bg, width, bold=True))
     lines.append(
-        styled(
-            f" {'Selected text on selection background'} ",
+        fill_line(
+            " Selected text on selection background ",
             selection_text,
             selection,
+            width,
+        )
+    )
+    lines.append(fill_line(" ▌ cursor sample ", cursor_text, cursor, width))
+
+    lines.append(fill_line("", fg, bg, width))
+    lines.append(fill_line(_hline(width), fg, bg, width))
+    lines.append(fill_line(" Semantic samples", bold, bg, width, bold=True))
+    lines.append(fill_line(" ERROR: connection refused ", _ansi(theme, 1), bg, width))
+    lines.append(fill_line(" WARNING: disk space is running low ", _ansi(theme, 3), bg, width))
+    lines.append(fill_line(" INFO: background tasks completed ", _ansi(theme, 4), bg, width))
+    lines.append(fill_line(" SUCCESS: all tests passed ", _ansi(theme, 2), bg, width))
+
+    lines.append(fill_line("", fg, bg, width))
+    lines.append(
+        fill_line_segments(
+            width,
+            bg,
+            fg,
+            [
+                (" Directory listing ", _ansi(theme, 4), False),
+                ("drwxr-xr-x  ", _ansi(theme, 4), False),
+                ("src/", _ansi(theme, 12), False),
+            ],
         )
     )
     lines.append(
-        styled(
-            f" {'▌ cursor sample'} ",
-            cursor_text,
-            cursor,
+        fill_line_segments(
+            width,
+            bg,
+            fg,
+            [
+                ("-rw-r--r--  ", _ansi(theme, 2), False),
+                ("README.md", fg, False),
+            ],
+        )
+    )
+    lines.append(
+        fill_line_segments(
+            width,
+            bg,
+            fg,
+            [
+                ("-rwxr-xr-x  ", _ansi(theme, 2), False),
+                ("build.sh", _ansi(theme, 10), False),
+            ],
         )
     )
 
-    lines.append("")
-    lines.append(styled(_hline(width), fg, bg))
-    lines.append(styled(" Semantic samples", bold, bg, bold=True))
-    lines.append(styled(" ERROR: connection refused ", _ansi(theme, 1), bg))
-    lines.append(styled(" WARNING: disk space is running low ", _ansi(theme, 3), bg))
-    lines.append(styled(" INFO: background tasks completed ", _ansi(theme, 4), bg))
-    lines.append(styled(" SUCCESS: all tests passed ", _ansi(theme, 2), bg))
-
-    lines.append("")
-    lines.append(styled(" Directory listing ", _ansi(theme, 4), bg) + styled("drwxr-xr-x  ", _ansi(theme, 4), bg) + styled("src/", _ansi(theme, 12), bg))
-    lines.append(styled("-rw-r--r--  ", _ansi(theme, 2), bg) + styled("README.md", fg, bg))
-    lines.append(styled("-rwxr-xr-x  ", _ansi(theme, 2), bg) + styled("build.sh", _ansi(theme, 10), bg))
-
-    lines.append("")
-    lines.append(styled(" Git status ", _ansi(theme, 6), bg))
+    lines.append(fill_line("", fg, bg, width))
+    lines.append(fill_line(" Git status ", _ansi(theme, 6), bg, width))
     lines.append(
-        styled("On branch ", _ansi(theme, 6), bg)
-        + styled("main", _ansi(theme, 14), bg)
+        fill_line_segments(
+            width,
+            bg,
+            fg,
+            [
+                ("On branch ", _ansi(theme, 6), False),
+                ("main", _ansi(theme, 14), False),
+            ],
+        )
     )
-    lines.append(styled("Your branch is up to date with 'origin/main'", _ansi(theme, 2), bg))
-    lines.append(styled("modified:   ", _ansi(theme, 3), bg) + styled("tools/preview_theme.py", fg, bg))
-    lines.append(styled("deleted:    ", _ansi(theme, 1), bg) + styled("old/preview.rb", fg, bg))
-
-    lines.append(styled(border, fg, bg))
     lines.append(
-        styled(
-            f" Display-only preview (truecolor SGR) — terminal palette unchanged ",
+        fill_line(
+            "Your branch is up to date with 'origin/main'",
+            _ansi(theme, 2),
+            bg,
+            width,
+        )
+    )
+    lines.append(
+        fill_line_segments(
+            width,
+            bg,
+            fg,
+            [
+                ("modified:   ", _ansi(theme, 3), False),
+                ("tools/preview_theme.py", fg, False),
+            ],
+        )
+    )
+    lines.append(
+        fill_line_segments(
+            width,
+            bg,
+            fg,
+            [
+                ("deleted:    ", _ansi(theme, 1), False),
+                ("old/preview.rb", fg, False),
+            ],
+        )
+    )
+
+    lines.append(fill_line(border, fg, bg, width))
+    lines.append(
+        fill_line(
+            " Display-only preview (truecolor SGR) — terminal palette unchanged ",
             _ansi(theme, 8),
             bg,
+            width,
         )
     )
 
