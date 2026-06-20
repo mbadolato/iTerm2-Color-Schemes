@@ -1,0 +1,33 @@
+# Colors (Keys Ocean Sunset)
+
+[colors.bright]
+black = '#344658'
+blue = '#5a8fd4'
+cyan = '#7ed4e0'
+green = '#62c48e'
+magenta = '#fdbfde'
+red = '#fc9077'
+white = '#fff5be'
+yellow = '#ffcb9a'
+
+[colors.cursor]
+cursor = '#fc9077'
+text = '#0a1018'
+
+[colors.normal]
+black = '#101927'
+blue = '#5288b8'
+cyan = '#5ec8c8'
+green = '#4a9a72'
+magenta = '#bc5090'
+red = '#e85a52'
+white = '#a5b5d5'
+yellow = '#e89a2e'
+
+[colors.primary]
+background = '#0a1018'
+foreground = '#b8c8dc'
+
+[colors.selection]
+background = '#1a2430'
+text = '#fff5be'

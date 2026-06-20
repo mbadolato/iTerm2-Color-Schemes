@@ -1,0 +1,43 @@
+!
+! Keys Ocean Sunset HC
+!
+*.foreground:  #f0f4fa
+*.background:  #060910
+*.cursorColor: #ff8531
+!
+! Black
+*.color0:      #7a92a8
+*.color8:      #8aa0b8
+!
+! Red
+*.color1:      #ff6361
+*.color9:      #ff8578
+!
+! Green
+*.color2:      #4ad68a
+*.color10:     #72f0a8
+!
+! Yellow
+*.color3:      #ffa600
+*.color11:     #ffd380
+!
+! Blue
+*.color4:      #6aa8f0
+*.color12:     #88c4ff
+!
+! Magenta
+*.color5:      #de72b0
+*.color13:     #f0a8d8
+!
+! Cyan
+*.color6:      #5edee8
+*.color14:     #88f0f8
+!
+! White
+*.color7:      #c8d8ec
+*.color15:     #fff5be
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

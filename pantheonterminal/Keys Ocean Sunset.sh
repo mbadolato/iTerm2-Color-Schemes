@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Keys Ocean Sunset'
+cursor-color='#fc9077'
+foreground='#b8c8dc'
+background='rgba(10,16,24,.95)'
+palette='#101927:#e85a52:#4a9a72:#e89a2e:#5288b8:#bc5090:#5ec8c8:#a5b5d5:#344658:#fc9077:#62c48e:#ffcb9a:#5a8fd4:#fdbfde:#7ed4e0:#fff5be'
+COLORS

@@ -1,0 +1,33 @@
+# Colors (Keys Ocean Sunset HC)
+
+[colors.bright]
+black = '#8aa0b8'
+blue = '#88c4ff'
+cyan = '#88f0f8'
+green = '#72f0a8'
+magenta = '#f0a8d8'
+red = '#ff8578'
+white = '#fff5be'
+yellow = '#ffd380'
+
+[colors.cursor]
+cursor = '#ff8531'
+text = '#060910'
+
+[colors.normal]
+black = '#7a92a8'
+blue = '#6aa8f0'
+cyan = '#5edee8'
+green = '#4ad68a'
+magenta = '#de72b0'
+red = '#ff6361'
+white = '#c8d8ec'
+yellow = '#ffa600'
+
+[colors.primary]
+background = '#060910'
+foreground = '#f0f4fa'
+
+[colors.selection]
+background = '#2c4875'
+text = '#ffffff'

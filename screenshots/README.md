@@ -860,6 +860,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/karma-dark.png)
 
+### Keys Ocean Sunset HC
+
+![Screenshot](/screenshots/keys-ocean-sunset-hc.png)
+
+### Keys Ocean Sunset
+
+![Screenshot](/screenshots/keys-ocean-sunset.png)
+
 ### Kibble
 
 ![Screenshot](/screenshots/kibble.png)
