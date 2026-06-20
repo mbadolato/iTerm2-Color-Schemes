@@ -1,0 +1,32 @@
+# High-contrast companion using the same Florida Keys sunset references,
+# tuned toward WCAG enhanced contrast (7:1) on foreground and ANSI colors.
+name: "Keys Ocean Sunset HC"
+author: "Grok Build Composer 2.5 Fast"
+variant: "dark"
+
+# AI theme generation test — HC companion to Keys Ocean Sunset.
+
+color_01: "#7A92A8"
+color_02: "#FF6361"
+color_03: "#4AD68A"
+color_04: "#FFA600"
+color_05: "#6AA8F0"
+color_06: "#DE72B0"
+color_07: "#5EDEE8"
+color_08: "#C8D8EC"
+color_09: "#8AA0B8"
+color_10: "#FF8578"
+color_11: "#72F0A8"
+color_12: "#FFD380"
+color_13: "#88C4FF"
+color_14: "#F0A8D8"
+color_15: "#88F0F8"
+color_16: "#FFF5BE"
+
+background: "#060910"
+foreground: "#F0F4FA"
+cursor: "#FF8531"
+cursor_text: "#060910"
+selection: "#2C4875"
+selection_text: "#FFFFFF"
+bold: "#FFFFFF"
