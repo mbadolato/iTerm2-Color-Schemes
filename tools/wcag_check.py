@@ -9,6 +9,8 @@ import sys
 import datetime
 from typing import Tuple, Optional, List
 
+REPO_ROOT = Path(__file__).parent.parent
+
 def srgb_to_linear(c: float) -> float:
     """Convert sRGB gamma (0-1) to linear light."""
     if c <= 0.04045:
@@ -251,86 +253,225 @@ def generate_markdown(total_failing: int, total_schemes: int, failing_schemes: l
             md += "\n"
     return md
 
-def main():
-    parser = argparse.ArgumentParser(description="WCAG contrast checker for iTerm2 schemes.")
-    parser.add_argument('--schemes-dir', default='schemes', help="Directory containing .itermcolors files (default: 'schemes')")
-    parser.add_argument('--threshold', type=float, default=4.5, help="WCAG contrast threshold (default: 4.5)")
-    parser.add_argument('--output', choices=['console', 'html', 'markdown'], default='console', help="Output format (default: 'console')")
-    args = parser.parse_args()
 
-    output_mode = args.output
+def resolve_schemes_dir(schemes_dir: str) -> Path:
+    path = Path(schemes_dir)
+    if path.is_absolute():
+        return path
+    cwd_path = Path.cwd() / path
+    if cwd_path.exists():
+        return cwd_path
+    return REPO_ROOT / path
 
-    schemes_dir = Path(args.schemes_dir)
-    threshold = args.threshold
-    iterm_files = list(schemes_dir.glob('*.itermcolors'))
-    if not iterm_files:
-        print(f"No .itermcolors files found in {schemes_dir}.")
-        return
 
-    if output_mode == 'console':
-        print(f"Checking {len(iterm_files)} schemes for WCAG compliance ({threshold}:1 contrast)...\n", file=sys.stderr)
+def resolve_iterm_files(schemes_dir: Path, scheme_names: Optional[List[str]]) -> List[Path]:
+    if scheme_names:
+        files: List[Path] = []
+        missing: List[str] = []
+        for name in scheme_names:
+            file_path = schemes_dir / f"{name}.itermcolors"
+            if file_path.exists():
+                files.append(file_path)
+            else:
+                missing.append(name)
 
-    failing_schemes = []
-    for file_path in sorted(iterm_files):  # Sort for consistent output
+        if missing:
+            for name in missing:
+                yaml_path = REPO_ROOT / "yaml" / f"{name}.yml"
+                if yaml_path.exists():
+                    print(
+                        f'Scheme "{name}" not found in {schemes_dir}/. '
+                        f'YAML source exists; run `cd tools && python gen.py -s "{name}"` first.',
+                        file=sys.stderr,
+                    )
+                else:
+                    print(f'Scheme "{name}" not found in {schemes_dir}/.', file=sys.stderr)
+            sys.exit(1)
+
+        return files
+
+    return sorted(schemes_dir.glob("*.itermcolors"))
+
+
+def run_checks(
+    iterm_files: List[Path], threshold: float
+) -> tuple[List[tuple[str, list, bool]], List[tuple[str, list]]]:
+    results: List[tuple[str, list, bool]] = []
+    failing_schemes: List[tuple[str, list]] = []
+
+    for file_path in iterm_files:
         try:
-            with open(file_path, 'rb') as f:
+            with open(file_path, "rb") as f:
                 plist = plistlib.load(f)
             name = file_path.stem
             all_pass, checks = check_scheme(plist, name, threshold)
+            results.append((name, checks, all_pass))
             if not all_pass:
                 failing_schemes.append((name, checks))
         except Exception as e:
-            print(f"Error parsing {file_path.name}: {e}")
+            print(f"Error parsing {file_path.name}: {e}", file=sys.stderr)
 
+    return results, failing_schemes
+
+
+def _format_check_line(
+    check_name: str,
+    passed: bool,
+    ratio: float,
+    fg_rgb: Optional[tuple[float, float, float]],
+    bg_rgb: Optional[tuple[float, float, float]],
+    suggested_fg: Optional[tuple[float, float, float]],
+    threshold: float,
+) -> str:
+    reset = "\033[0m"
+    red = "\033[31m"
+    green = "\033[32m"
+
+    if passed:
+        status = f"PASS ({ratio:.2f}:1)"
+        color = green
+    elif ratio == 0.0:
+        status = "FAIL"
+        color = red
+    else:
+        status = f"FAIL ({ratio:.2f}:1)"
+        color = red
+
+    lines = []
+    if fg_rgb is None or bg_rgb is None:
+        lines.append(f"  - {check_name}: {color}{status}{reset} (needs >= {threshold}:1)")
+    else:
+        r_fg, g_fg, b_fg = [int(c * 255) for c in fg_rgb]
+        r_bg, g_bg, b_bg = [int(c * 255) for c in bg_rgb]
+        color_demo = (
+            f"\033[48;2;{r_bg};{g_bg};{b_bg}m\033[38;2;{r_fg};{g_fg};{b_fg}m{check_name}{reset}"
+        )
+        lines.append(f"  - {color_demo} {check_name}: {color}{status}{reset} (needs >= {threshold}:1)")
+        if suggested_fg and not passed:
+            r_s, g_s, b_s = [int(c * 255) for c in suggested_fg]
+            new_ratio = contrast_ratio(suggested_fg, bg_rgb)
+            suggest_demo = (
+                f"\033[48;2;{r_bg};{g_bg};{b_bg}m\033[38;2;{r_s};{g_s};{b_s}m"
+                f"Suggested RGB({r_s},{g_s},{b_s}){reset}"
+            )
+            lines.append(f"    Suggested: {suggest_demo} (new ratio: {new_ratio:.2f}:1)")
+
+    return "\n".join(lines)
+
+
+def print_single_scheme_results(
+    name: str, checks: list, all_pass: bool, threshold: float
+) -> None:
+    reset = "\033[0m"
+    green = "\033[32m"
+    red = "\033[31m"
+
+    print(f"\n{name}:")
+    for check in checks:
+        print(_format_check_line(*check, threshold=threshold))
+
+    if all_pass:
+        print(f"\n{green}PASS{reset}")
+    else:
+        print(f"\n{red}FAIL{reset}")
+
+
+def print_bulk_console_results(
+    failing_schemes: List[tuple[str, list]], total_schemes: int, threshold: float
+) -> None:
     total_failing = len(failing_schemes)
-    total_schemes = len(iterm_files)
-    if output_mode == 'console':
-        print(f"\nSummary: {total_failing}/{total_schemes} schemes fail WCAG checks.")
-        if total_failing == 0:
-            print("All schemes pass! 🎉")
+    print(f"\nSummary: {total_failing}/{total_schemes} schemes fail WCAG checks.")
+    if total_failing == 0:
+        print("All schemes pass! 🎉")
+        return
+
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print(f"Generated: {timestamp}")
+    print("\nFailing schemes:")
+    for name, checks in failing_schemes:
+        print(f"\n{name}:")
+        for check in checks:
+            check_name, passed, ratio, fg_rgb, bg_rgb, suggested_fg = check
+            if not passed:
+                print(
+                    _format_check_line(
+                        check_name,
+                        passed,
+                        ratio,
+                        fg_rgb,
+                        bg_rgb,
+                        suggested_fg,
+                        threshold,
+                    )
+                )
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="WCAG contrast checker for iTerm2 schemes.")
+    parser.add_argument(
+        "--schemes-dir",
+        default="schemes",
+        help="Directory containing .itermcolors files (default: 'schemes')",
+    )
+    parser.add_argument(
+        "-s",
+        "--scheme",
+        nargs="+",
+        dest="scheme",
+        metavar="NAME",
+        help="check only these scheme names (stem of .itermcolors file)",
+    )
+    parser.add_argument(
+        "--threshold",
+        type=float,
+        default=1.75,
+        help="WCAG contrast threshold (default: 1.75, matches gen.py)",
+    )
+    parser.add_argument(
+        "--output",
+        choices=["console", "html", "markdown"],
+        default="console",
+        help="Output format (default: 'console')",
+    )
+    args = parser.parse_args()
+
+    schemes_dir = resolve_schemes_dir(args.schemes_dir)
+    threshold = args.threshold
+    single_scheme = args.scheme is not None
+
+    iterm_files = resolve_iterm_files(schemes_dir, args.scheme)
+    if not iterm_files:
+        print(f"No .itermcolors files found in {schemes_dir}.", file=sys.stderr)
+        sys.exit(1)
+
+    if args.output == "console" and not single_scheme:
+        print(
+            f"Checking {len(iterm_files)} schemes for WCAG compliance ({threshold}:1 contrast)...\n",
+            file=sys.stderr,
+        )
+
+    results, failing_schemes = run_checks(iterm_files, threshold)
+    total_schemes = len(results)
+
+    if args.output == "console":
+        if single_scheme:
+            for name, checks, all_pass in results:
+                print_single_scheme_results(name, checks, all_pass, threshold)
+            if failing_schemes:
+                sys.exit(1)
             return
 
-        # ANSI codes
-        RESET = "\033[0m"
-        RED = "\033[31m"
-
-        print(f"\nSummary: {total_failing}/{total_schemes} schemes fail WCAG checks.")
-        timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        print(f"Generated: {timestamp}")
-        if total_failing == 0:
-            print("All schemes pass! 🎉")
-            return
-
-        # ANSI codes
-        RESET = "\033[0m"
-        RED = "\033[31m"
-
-        print("\nFailing schemes:")
-        for name, checks in failing_schemes:
-            print(f"\n{name}:")
-            for check_name, passed, ratio, fg_rgb, bg_rgb, suggested_fg in checks:
-                if not passed:
-                    status = "FAIL" if ratio == 0.0 else f"FAIL ({ratio:.2f}:1)"
-                    if fg_rgb is None or bg_rgb is None:
-                        # Missing colors: plain red FAIL
-                        print(f"  - {check_name}: {RED}{status}{RESET} (needs >= {threshold}:1)")
-                    else:
-                        # Visual demo with true color
-                        r_fg, g_fg, b_fg = [int(c * 255) for c in fg_rgb]
-                        r_bg, g_bg, b_bg = [int(c * 255) for c in bg_rgb]
-                        color_demo = f"\033[48;2;{r_bg};{g_bg};{b_bg}m\033[38;2;{r_fg};{g_fg};{b_fg}m{check_name}{RESET}"
-                        print(f"  - {color_demo} {check_name}: {status} (needs >= {threshold}:1)")
-                        if suggested_fg:
-                            r_s, g_s, b_s = [int(c * 255) for c in suggested_fg]
-                            new_ratio = contrast_ratio(suggested_fg, bg_rgb)
-                            suggest_demo = f"\033[48;2;{r_bg};{g_bg};{b_bg}m\033[38;2;{r_s};{g_s};{b_s}mSuggested RGB({r_s},{g_s},{b_s}){RESET}"
-                            print(f"    Suggested: {suggest_demo} (new ratio: {new_ratio:.2f}:1)")
-    elif output_mode == 'markdown':
-        md = generate_markdown(total_failing, total_schemes, failing_schemes, threshold)
+        print_bulk_console_results(failing_schemes, total_schemes, threshold)
+    elif args.output == "markdown":
+        md = generate_markdown(len(failing_schemes), total_schemes, failing_schemes, threshold)
         print(md)
     else:
-        html = generate_html(total_failing, total_schemes, failing_schemes, threshold)
+        html = generate_html(len(failing_schemes), total_schemes, failing_schemes, threshold)
         print(html)
+
+    if single_scheme and failing_schemes:
+        sys.exit(1)
+
 
 if __name__ == "__main__":
     main()
