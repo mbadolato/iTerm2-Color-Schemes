@@ -1730,6 +1730,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/sugarplum.png)
 
+### Sumi Phosphor
+
+![Screenshot](/screenshots/sumi-phosphor.png)
+
 ### Sundried
 
 ![Screenshot](/screenshots/sundried.png)
@@ -2339,6 +2343,10 @@ The screenshots are categorized.
 ### Spring
 
 ![Screenshot](/screenshots/spring.png)
+
+### Sumi Linen
+
+![Screenshot](/screenshots/sumi-linen.png)
 
 ### Tango Adapted
 
