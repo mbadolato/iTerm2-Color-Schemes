@@ -1,0 +1,12 @@
+# Sumi Phosphor
+[colors]
+foreground = "#bab4a8"
+background = "#12100e"
+cursor_bg = "#2ec4b6"
+cursor_border = "#2ec4b6"
+cursor_fg = "#12100e"
+selection_bg = "#3a3834"
+selection_fg = "#e8e4dc"
+
+ansi = ["#1e1a16","#d45848","#5ca868","#d4a03c","#5a82b8","#9870b0","#2ec4b6","#8a8478"]
+brights = ["#474139","#e87060","#72c078","#e8b84c","#70a0d8","#b088c8","#48d8c8","#e0dcd4"]
