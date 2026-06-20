@@ -50,6 +50,9 @@ python tools/wcag_check.py --schemes-dir schemes   # all schemes
 # YAML themes: generate .itermcolors first, then check
 cd tools && python gen.py -s "Your Theme Name"
 python tools/wcag_check.py -s "Your Theme Name"
+
+# Visual preview (display-only truecolor; does not change terminal palette)
+python tools/preview_theme.py -s "Your Theme Name"
 ```
 
 ## Adding a new theme

@@ -2622,36 +2622,39 @@ Then add `bash ~/bin/set-colors.sh` to your shell's config file (`~/.bashrc`, `~
 
 ### Previewing color schemes
 
-[preview.rb](tools/preview.rb) is a simple script that allows you to preview
-the color schemes without having to import them. It parses .itermcolors files
-and applies the colors to the current session using [iTerm's proprietary
-escape codes](https://iterm2.com/documentation-escape-codes.html). As noted in
-the linked page, it doesn't run on tmux or screen.
+[preview_theme.py](tools/preview_theme.py) renders a full visual preview in the
+terminal using inline truecolor escape codes. It does **not** modify your
+terminal palette — safe to run in any truecolor-capable terminal (iTerm2, Kitty,
+WezTerm, Ghostty, Cursor, etc.).
 
 ```sh
-# Apply AdventureTime scheme to the current session
-tools/preview.rb schemes/AdventureTime.itermcolors
+# Preview by scheme name
+python3 tools/preview_theme.py -s "Your Theme Name"
 
-# Apply the schemes in turn.
-# - Press (almost) any key to advance; hit CTRL-C or ESC to stop
-# - Press the delete key to go back
-tools/preview.rb schemes/*
+# Preview from source files
+python3 tools/preview_theme.py schemes/Molokai.itermcolors
+python3 tools/preview_theme.py yaml/Clear Dark.yml
+
+# Browse multiple themes: ← → navigate, q quit
+python3 tools/preview_theme.py -s "Molokai" "Dracula"
 ```
 
-#### Previewing color schemes in other terminal emulators
+The preview shows the ANSI palette, surface colors (foreground, background,
+selection, cursor), and semantic samples (errors, git status, directory listing).
 
-[preview-generic.sh](tools/preview-generic.sh) is a script which can preview
-the themes in any terminal emulator which has support for the OSC 4 escape
-codes. It works by running the shell scripts from the `generic/` directory.
+#### Live palette preview (mutates terminal colors)
+
+[preview-generic.sh](tools/preview-generic.sh) applies OSC 4 palette changes by
+sourcing shell scripts from `generic/`. Use this only when you want the current
+session recolored.
 
 ```sh
-# Apply AdventureTime scheme to the current session
-bash generic/AdventureTime.sh
-
-# Apply the schemes in turn
-# - Press left/right arrow keys to navigate, press `q` to stop
-./tools/preview-generic.sh generic/*
+bash generic/Molokai.sh
+./tools/preview-generic.sh generic/Molokai.sh generic/Dracula.sh
 ```
+
+[preview.rb](tools/preview.rb) is deprecated (broken on current `.itermcolors`
+files). Prefer `preview_theme.py`.
 
 ---
 
