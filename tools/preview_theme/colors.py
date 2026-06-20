@@ -36,3 +36,27 @@ def styled(text: str, fg: Color, bg: Color | None = None, *, bold: bool = False)
         prefix = (BOLD if bold else "") + sgr_fg(fg)
         return f"{prefix}{text}{RESET}"
     return f"{sgr_fg_bg(fg, bg, bold=bold)}{text}{RESET}"
+
+
+def fill_line(text: str, fg: Color, bg: Color, width: int, *, bold: bool = False) -> str:
+    """Render text on bg, padded with spaces to full terminal width."""
+    truncated = text[:width]
+    padding = " " * max(width - len(truncated), 0)
+    return f"{sgr_fg_bg(fg, bg, bold=bold)}{truncated}{padding}{RESET}"
+
+
+def fill_line_segments(
+    width: int,
+    bg: Color,
+    pad_fg: Color,
+    segments: list[tuple[str, Color, bool]],
+) -> str:
+    """Render colored segments on a shared bg, padded to full terminal width."""
+    out = sgr_bg(bg)
+    visible = 0
+    for text, fg, is_bold in segments:
+        out += (BOLD if is_bold else "") + sgr_fg(fg) + text
+        visible += len(text)
+    if visible < width:
+        out += sgr_fg(pad_fg) + (" " * (width - visible))
+    return out + RESET
