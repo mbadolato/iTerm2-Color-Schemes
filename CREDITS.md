@@ -472,6 +472,8 @@ The scheme Symfonic was inspired by the color scheme used in the [documentation]
 
 The [starlight](https://github.com/CosmicToast/starlight) theme was created by [toast](https://github.com/CosmicToast).
 
+The Squintless theme was created by [Sameer Zahir](https://github.com/sameerzahir97-cloud).
+
 The [Squirrelsong Dark](https://github.com/sapegin/squirrelsong) theme was created by [sapegin](https://github.com/sapegin).
 
 The [Srcery](https://github.com/srcery-colors) theme was created by [Roosta](https://github.com/roosta).

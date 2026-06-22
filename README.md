@@ -2352,6 +2352,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/spring.png)
 
+### Squintless
+
+![Screenshot](/screenshots/squintless.png)
+
 ### Sumi Linen
 
 ![Screenshot](/screenshots/sumi-linen.png)
