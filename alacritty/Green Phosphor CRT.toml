@@ -1,0 +1,33 @@
+# Colors (Green Phosphor CRT)
+
+[colors.bright]
+black = '#0a5a0a'
+blue = '#33ff77'
+cyan = '#99ffcc'
+green = '#66ff66'
+magenta = '#66ffaa'
+red = '#19cc19'
+white = '#e6ffe6'
+yellow = '#99ff99'
+
+[colors.cursor]
+cursor = '#33ff33'
+text = '#0b0f0b'
+
+[colors.normal]
+black = '#002200'
+blue = '#00cc44'
+cyan = '#66ffaa'
+green = '#33ff33'
+magenta = '#00ff88'
+red = '#00aa00'
+white = '#b6ffb6'
+yellow = '#66ff66'
+
+[colors.primary]
+background = '#0b0f0b'
+foreground = '#33ff33'
+
+[colors.selection]
+background = '#0a3a0a'
+text = '#575b57'

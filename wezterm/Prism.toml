@@ -1,0 +1,12 @@
+# Prism
+[colors]
+foreground = "#d7e3f4"
+background = "#0b1326"
+cursor_bg = "#56d5ff"
+cursor_border = "#56d5ff"
+cursor_fg = "#0b1326"
+selection_bg = "#1e2c49"
+selection_fg = "#4b5366"
+
+ansi = ["#060c18","#ff7192","#71e0b0","#fad77c","#47b3ff","#9da9ff","#31dcf2","#b6c4dc"]
+brights = ["#5e6f90","#ff96ad","#93ecc7","#fca76d","#77caff","#b8c1ff","#6ceafb","#eaf1fb"]

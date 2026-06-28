@@ -1,0 +1,12 @@
+# Velvet Court
+[colors]
+foreground = "#f2dcea"
+background = "#1f0e1c"
+cursor_bg = "#f0c44e"
+cursor_border = "#f0c44e"
+cursor_fg = "#1f0e1c"
+selection_bg = "#3e2138"
+selection_fg = "#5f4e5c"
+
+ansi = ["#2f1629","#ee5c82","#9ad08a","#f0c44e","#b392e8","#d087e0","#6fd0c8","#e2c8d8"]
+brights = ["#836075","#ee5c82","#9ad08a","#e8964f","#b392e8","#d087e0","#6fd0c8","#f2dcea"]

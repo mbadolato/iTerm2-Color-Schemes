@@ -1,0 +1,12 @@
+# Verdigris
+[colors]
+foreground = "#e8dcc6"
+background = "#14110b"
+cursor_bg = "#ce8b45"
+cursor_border = "#ce8b45"
+cursor_fg = "#14110b"
+selection_bg = "#2a2417"
+selection_fg = "#54514b"
+
+ansi = ["#221c12","#d9604f","#a8b86a","#d9a441","#5fbfb0","#b98fb0","#8fd6b0","#bfb29a"]
+brights = ["#6e6450","#d9604f","#a8b86a","#c97a45","#5fbfb0","#b98fb0","#8fd6b0","#e8dcc6"]

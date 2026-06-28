@@ -1,0 +1,33 @@
+# Colors (Letterpress)
+
+[colors.bright]
+black = '#8e886f'
+blue = '#2a5c8a'
+cyan = '#176b5f'
+green = '#506b24'
+magenta = '#176b5f'
+red = '#b0202a'
+white = '#3a352c'
+yellow = '#8a4fa0'
+
+[colors.cursor]
+cursor = '#2a5c8a'
+text = '#f3ecdf'
+
+[colors.normal]
+black = '#3a352c'
+blue = '#2a5c8a'
+cyan = '#176b5f'
+green = '#506b24'
+magenta = '#6e4b2e'
+red = '#b0202a'
+white = '#aeaba4'
+yellow = '#8a5e0a'
+
+[colors.primary]
+background = '#f3ecdf'
+foreground = '#3a352c'
+
+[colors.selection]
+background = '#e3d8c4'
+text = '#a69f92'

@@ -1,0 +1,12 @@
+# Oxblood
+[colors]
+foreground = "#e8d2d4"
+background = "#140b0d"
+cursor_bg = "#e0483a"
+cursor_border = "#e0483a"
+cursor_fg = "#140b0d"
+selection_bg = "#3a2227"
+selection_fg = "#60575a"
+
+ansi = ["#231417","#ff4d54","#c9a24a","#e0b24a","#d9743f","#e0556b","#e0a36a","#e8d2d4"]
+brights = ["#7a5458","#ff686e","#cfad60","#d9743f","#e86b72","#c8324b","#e4ae7c","#ffffff"]

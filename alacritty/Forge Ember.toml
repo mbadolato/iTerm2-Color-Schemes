@@ -1,0 +1,33 @@
+# Colors (Forge Ember)
+
+[colors.bright]
+black = '#7a6248'
+blue = '#f0a24f'
+cyan = '#ffd27a'
+green = '#c4c24a'
+magenta = '#ff6a4d'
+red = '#ff4733'
+white = '#f4e2c8'
+yellow = '#ff7a2d'
+
+[colors.cursor]
+cursor = '#ff6a1f'
+text = '#140c07'
+
+[colors.normal]
+black = '#241810'
+blue = '#f0a24f'
+cyan = '#ffd27a'
+green = '#c4c24a'
+magenta = '#ff6a4d'
+red = '#ff4733'
+white = '#e6d2b6'
+yellow = '#ffb347'
+
+[colors.primary]
+background = '#140c07'
+foreground = '#f4e2c8'
+
+[colors.selection]
+background = '#33220f'
+text = '#544c47'

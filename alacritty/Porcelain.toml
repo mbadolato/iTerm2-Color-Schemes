@@ -1,0 +1,33 @@
+# Colors (Porcelain)
+
+[colors.bright]
+black = '#828896'
+blue = '#005bdb'
+cyan = '#007f8f'
+green = '#1b842d'
+magenta = '#862ad2'
+red = '#d60027'
+white = '#1b1e25'
+yellow = '#af2700'
+
+[colors.cursor]
+cursor = '#0054d1'
+text = '#fbfbfd'
+
+[colors.normal]
+black = '#2a2e37'
+blue = '#004cc8'
+cyan = '#006873'
+green = '#157424'
+magenta = '#761bc3'
+red = '#c60018'
+white = '#5a6170'
+yellow = '#855700'
+
+[colors.primary]
+background = '#fbfbfd'
+foreground = '#2a2e37'
+
+[colors.selection]
+background = '#dce6f7'
+text = '#aeaeb0'

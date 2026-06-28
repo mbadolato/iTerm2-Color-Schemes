@@ -1,0 +1,33 @@
+# Colors (Daybreak)
+
+[colors.bright]
+black = '#8c8579'
+blue = '#207887'
+cyan = '#087a71'
+green = '#538625'
+magenta = '#8552a3'
+red = '#c03a27'
+white = '#2e2c27'
+yellow = '#9a4c1f'
+
+[colors.cursor]
+cursor = '#a25327'
+text = '#f3efe8'
+
+[colors.normal]
+black = '#44413b'
+blue = '#186875'
+cyan = '#006a62'
+green = '#3c6a12'
+magenta = '#754193'
+red = '#af2817'
+white = '#6e6b62'
+yellow = '#795900'
+
+[colors.primary]
+background = '#f3efe8'
+foreground = '#44413b'
+
+[colors.selection]
+background = '#e2daca'
+text = '#a6a29b'

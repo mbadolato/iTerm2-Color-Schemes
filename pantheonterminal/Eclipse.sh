@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Eclipse'
+cursor-color='#f6c45f'
+foreground='#dce3ed'
+background='rgba(14,17,22,.95)'
+palette='#0a0d12:#ff6366:#85df5e:#f1c655:#5fb9ff:#cea5ff:#3addc4:#b7c0ce:#5c6675:#ff8688:#a0ec7e:#fad77c:#84ccff:#ddbfff:#68ead3:#f4f8fd'
+COLORS

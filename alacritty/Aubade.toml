@@ -1,0 +1,33 @@
+# Colors (Aubade)
+
+[colors.bright]
+black = '#9a8fa8'
+blue = '#4a3cc0'
+cyan = '#ae3f84'
+green = '#2e7d6e'
+magenta = '#d8b670'
+red = '#c0303a'
+white = '#3a3340'
+yellow = '#ae3f84'
+
+[colors.cursor]
+cursor = '#ae3f84'
+text = '#fbf6fb'
+
+[colors.normal]
+black = '#33293f'
+blue = '#4a3cc0'
+cyan = '#ae3f84'
+green = '#2e7d6e'
+magenta = '#8a4bc0'
+red = '#c0303a'
+white = '#b2b2b2'
+yellow = '#8c610c'
+
+[colors.primary]
+background = '#fbf6fb'
+foreground = '#3a3340'
+
+[colors.selection]
+background = '#ebe2ee'
+text = '#aea9ae'

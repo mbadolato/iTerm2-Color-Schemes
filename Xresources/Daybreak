@@ -1,0 +1,43 @@
+!
+! Daybreak
+!
+*.foreground:  #44413b
+*.background:  #f3efe8
+*.cursorColor: #a25327
+!
+! Black
+*.color0:      #44413b
+*.color8:      #8c8579
+!
+! Red
+*.color1:      #af2817
+*.color9:      #c03a27
+!
+! Green
+*.color2:      #3c6a12
+*.color10:     #538625
+!
+! Yellow
+*.color3:      #795900
+*.color11:     #9a4c1f
+!
+! Blue
+*.color4:      #186875
+*.color12:     #207887
+!
+! Magenta
+*.color5:      #754193
+*.color13:     #8552a3
+!
+! Cyan
+*.color6:      #006a62
+*.color14:     #087a71
+!
+! White
+*.color7:      #6e6b62
+*.color15:     #2e2c27
+!
+! Bold, Italic, Underline
+*.colorBD:     #44413b
+!*.colorIT:
+!*.colorUL:

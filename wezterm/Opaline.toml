@@ -1,0 +1,12 @@
+# Opaline
+[colors]
+foreground = "#ece9f7"
+background = "#131121"
+cursor_bg = "#ffb3d6"
+cursor_border = "#ffb3d6"
+cursor_fg = "#131121"
+selection_bg = "#2c2748"
+selection_fg = "#535161"
+
+ansi = ["#201b33","#ff6b92","#86e6b4","#ffc2ae","#8fb4ff","#be9bff","#5fe3d8","#ece9f7"]
+brights = ["#6b678f","#ff81a2","#95e9bd","#f4d27e","#b79bff","#ff9ed2","#72e6dd","#ffffff"]

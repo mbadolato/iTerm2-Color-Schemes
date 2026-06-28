@@ -1,0 +1,33 @@
+# Colors (Driftwood)
+
+[colors.bright]
+black = '#9a8e7c'
+blue = '#92c6c7'
+cyan = '#bbd6c3'
+green = '#becc8a'
+magenta = '#dab6d1'
+red = '#f38f7e'
+white = '#f2eadb'
+yellow = '#e39962'
+
+[colors.cursor]
+cursor = '#dfb666'
+text = '#2a2622'
+
+[colors.normal]
+black = '#211d19'
+blue = '#78b3b5'
+cyan = '#a5c4b1'
+green = '#aab971'
+magenta = '#c9a0bd'
+red = '#e77467'
+white = '#c2b7a6'
+yellow = '#e1b869'
+
+[colors.primary]
+background = '#2a2622'
+foreground = '#e6ddd0'
+
+[colors.selection]
+background = '#39332b'
+text = '#5d5955'

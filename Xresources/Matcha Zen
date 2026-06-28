@@ -1,0 +1,43 @@
+!
+! Matcha Zen
+!
+*.foreground:  #354029
+*.background:  #f5f7ea
+*.cursorColor: #4e8c2e
+!
+! Black
+*.color0:      #354029
+*.color8:      #97a887
+!
+! Red
+*.color1:      #c2452a
+*.color9:      #c2452a
+!
+! Green
+*.color2:      #4e8c2e
+*.color10:     #4e8c2e
+!
+! Yellow
+*.color3:      #927000
+*.color11:     #b05a1e
+!
+! Blue
+*.color4:      #2e7c78
+*.color12:     #2e7c78
+!
+! Magenta
+*.color5:      #7e5ba6
+*.color13:     #7e5ba6
+!
+! Cyan
+*.color6:      #2a8585
+*.color14:     #2a8585
+!
+! White
+*.color7:      #56664a
+*.color15:     #354029
+!
+! Bold, Italic, Underline
+*.colorBD:     #354029
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,43 @@
+!
+! Forge Ember
+!
+*.foreground:  #f4e2c8
+*.background:  #140c07
+*.cursorColor: #ff6a1f
+!
+! Black
+*.color0:      #241810
+*.color8:      #7a6248
+!
+! Red
+*.color1:      #ff4733
+*.color9:      #ff4733
+!
+! Green
+*.color2:      #c4c24a
+*.color10:     #c4c24a
+!
+! Yellow
+*.color3:      #ffb347
+*.color11:     #ff7a2d
+!
+! Blue
+*.color4:      #f0a24f
+*.color12:     #f0a24f
+!
+! Magenta
+*.color5:      #ff6a4d
+*.color13:     #ff6a4d
+!
+! Cyan
+*.color6:      #ffd27a
+*.color14:     #ffd27a
+!
+! White
+*.color7:      #e6d2b6
+*.color15:     #f4e2c8
+!
+! Bold, Italic, Underline
+*.colorBD:     #f4e2c8
+!*.colorIT:
+!*.colorUL:

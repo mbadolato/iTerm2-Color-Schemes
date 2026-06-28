@@ -1,0 +1,12 @@
+# Amber CRT Retro
+[colors]
+foreground = "#ffb000"
+background = "#1a1200"
+cursor_bg = "#ffb000"
+cursor_border = "#ffb000"
+cursor_fg = "#1a1200"
+selection_bg = "#3a2a00"
+selection_fg = "#5a5240"
+
+ansi = ["#2a1e00","#ff6a00","#ffb000","#ffc742","#ff8c00","#ffa033","#ffd27f","#ffd9a0"]
+brights = ["#6a4e00","#ff8a1e","#ffc742","#ffe08a","#ffab3d","#ffc266","#ffe3b0","#fff0d6"]

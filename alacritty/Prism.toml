@@ -1,0 +1,33 @@
+# Colors (Prism)
+
+[colors.bright]
+black = '#5e6f90'
+blue = '#77caff'
+cyan = '#6ceafb'
+green = '#93ecc7'
+magenta = '#b8c1ff'
+red = '#ff96ad'
+white = '#eaf1fb'
+yellow = '#fca76d'
+
+[colors.cursor]
+cursor = '#56d5ff'
+text = '#0b1326'
+
+[colors.normal]
+black = '#060c18'
+blue = '#47b3ff'
+cyan = '#31dcf2'
+green = '#71e0b0'
+magenta = '#9da9ff'
+red = '#ff7192'
+white = '#b6c4dc'
+yellow = '#fad77c'
+
+[colors.primary]
+background = '#0b1326'
+foreground = '#d7e3f4'
+
+[colors.selection]
+background = '#1e2c49'
+text = '#4b5366'

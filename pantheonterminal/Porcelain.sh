@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Porcelain'
+cursor-color='#0054d1'
+foreground='#2a2e37'
+background='rgba(251,251,253,.95)'
+palette='#2a2e37:#c60018:#157424:#855700:#004cc8:#761bc3:#006873:#5a6170:#828896:#d60027:#1b842d:#af2700:#005bdb:#862ad2:#007f8f:#1b1e25'
+COLORS

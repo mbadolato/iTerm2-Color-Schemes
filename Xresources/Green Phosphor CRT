@@ -1,0 +1,43 @@
+!
+! Green Phosphor CRT
+!
+*.foreground:  #33ff33
+*.background:  #0b0f0b
+*.cursorColor: #33ff33
+!
+! Black
+*.color0:      #002200
+*.color8:      #0a5a0a
+!
+! Red
+*.color1:      #00aa00
+*.color9:      #19cc19
+!
+! Green
+*.color2:      #33ff33
+*.color10:     #66ff66
+!
+! Yellow
+*.color3:      #66ff66
+*.color11:     #99ff99
+!
+! Blue
+*.color4:      #00cc44
+*.color12:     #33ff77
+!
+! Magenta
+*.color5:      #00ff88
+*.color13:     #66ffaa
+!
+! Cyan
+*.color6:      #66ffaa
+*.color14:     #99ffcc
+!
+! White
+*.color7:      #b6ffb6
+*.color15:     #e6ffe6
+!
+! Bold, Italic, Underline
+*.colorBD:     #33ff33
+!*.colorIT:
+!*.colorUL:

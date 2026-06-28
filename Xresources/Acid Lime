@@ -1,0 +1,43 @@
+!
+! Acid Lime
+!
+*.foreground:  #d4efbc
+*.background:  #080c05
+*.cursorColor: #c2ff33
+!
+! Black
+*.color0:      #131d0c
+*.color8:      #4a6b36
+!
+! Red
+*.color1:      #ff3344
+*.color9:      #ff3344
+!
+! Green
+*.color2:      #97e63c
+*.color10:     #97e63c
+!
+! Yellow
+*.color3:      #eeff5c
+*.color11:     #dbff45
+!
+! Blue
+*.color4:      #4deca0
+*.color12:     #4deca0
+!
+! Magenta
+*.color5:      #a6ff6b
+*.color13:     #a6ff6b
+!
+! Cyan
+*.color6:      #50ffb4
+*.color14:     #50ffb4
+!
+! White
+*.color7:      #bfe0a4
+*.color15:     #d4efbc
+!
+! Bold, Italic, Underline
+*.colorBD:     #d4efbc
+!*.colorIT:
+!*.colorUL:

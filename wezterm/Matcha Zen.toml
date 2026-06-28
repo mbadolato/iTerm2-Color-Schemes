@@ -1,0 +1,12 @@
+# Matcha Zen
+[colors]
+foreground = "#354029"
+background = "#f5f7ea"
+cursor_bg = "#4e8c2e"
+cursor_border = "#4e8c2e"
+cursor_fg = "#f5f7ea"
+selection_bg = "#dde7cc"
+selection_fg = "#a8aa9d"
+
+ansi = ["#354029","#c2452a","#4e8c2e","#927000","#2e7c78","#7e5ba6","#2a8585","#56664a"]
+brights = ["#97a887","#c2452a","#4e8c2e","#b05a1e","#2e7c78","#7e5ba6","#2a8585","#354029"]

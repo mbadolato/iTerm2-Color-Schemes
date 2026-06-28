@@ -1,0 +1,43 @@
+!
+! Aubade
+!
+*.foreground:  #3a3340
+*.background:  #fbf6fb
+*.cursorColor: #ae3f84
+!
+! Black
+*.color0:      #33293f
+*.color8:      #9a8fa8
+!
+! Red
+*.color1:      #c0303a
+*.color9:      #c0303a
+!
+! Green
+*.color2:      #2e7d6e
+*.color10:     #2e7d6e
+!
+! Yellow
+*.color3:      #8c610c
+*.color11:     #ae3f84
+!
+! Blue
+*.color4:      #4a3cc0
+*.color12:     #4a3cc0
+!
+! Magenta
+*.color5:      #8a4bc0
+*.color13:     #d8b670
+!
+! Cyan
+*.color6:      #ae3f84
+*.color14:     #ae3f84
+!
+! White
+*.color7:      #b2b2b2
+*.color15:     #3a3340
+!
+! Bold, Italic, Underline
+*.colorBD:     #3a3340
+!*.colorIT:
+!*.colorUL:

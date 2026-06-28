@@ -1,0 +1,33 @@
+# Colors (Graphite)
+
+[colors.bright]
+black = '#7e8590'
+blue = '#a5c6de'
+cyan = '#bcd6e2'
+green = '#b9d5b1'
+magenta = '#ccbedd'
+red = '#f19f9f'
+white = '#eceff3'
+yellow = '#cfba97'
+
+[colors.cursor]
+cursor = '#c4cedb'
+text = '#1c1e22'
+
+[colors.normal]
+black = '#15171a'
+blue = '#8db4d0'
+cyan = '#a8c6d4'
+green = '#a7c59f'
+magenta = '#baabcb'
+red = '#e58888'
+white = '#b4b9c0'
+yellow = '#cec59d'
+
+[colors.primary]
+background = '#1c1e22'
+foreground = '#d2d6dc'
+
+[colors.selection]
+background = '#2e333b'
+text = '#5c5e62'

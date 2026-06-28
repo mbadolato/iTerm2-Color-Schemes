@@ -1,0 +1,12 @@
+# Driftwood
+[colors]
+foreground = "#e6ddd0"
+background = "#2a2622"
+cursor_bg = "#dfb666"
+cursor_border = "#dfb666"
+cursor_fg = "#2a2622"
+selection_bg = "#39332b"
+selection_fg = "#5d5955"
+
+ansi = ["#211d19","#e77467","#aab971","#e1b869","#78b3b5","#c9a0bd","#a5c4b1","#c2b7a6"]
+brights = ["#9a8e7c","#f38f7e","#becc8a","#e39962","#92c6c7","#dab6d1","#bbd6c3","#f2eadb"]

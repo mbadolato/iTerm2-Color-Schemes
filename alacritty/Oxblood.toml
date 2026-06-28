@@ -1,0 +1,33 @@
+# Colors (Oxblood)
+
+[colors.bright]
+black = '#7a5458'
+blue = '#e86b72'
+cyan = '#e4ae7c'
+green = '#cfad60'
+magenta = '#c8324b'
+red = '#ff686e'
+white = '#ffffff'
+yellow = '#d9743f'
+
+[colors.cursor]
+cursor = '#e0483a'
+text = '#140b0d'
+
+[colors.normal]
+black = '#231417'
+blue = '#d9743f'
+cyan = '#e0a36a'
+green = '#c9a24a'
+magenta = '#e0556b'
+red = '#ff4d54'
+white = '#e8d2d4'
+yellow = '#e0b24a'
+
+[colors.primary]
+background = '#140b0d'
+foreground = '#e8d2d4'
+
+[colors.selection]
+background = '#3a2227'
+text = '#60575a'

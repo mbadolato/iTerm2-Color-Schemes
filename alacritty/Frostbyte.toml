@@ -1,0 +1,33 @@
+# Colors (Frostbyte)
+
+[colors.bright]
+black = '#93a4b6'
+blue = '#1a66be'
+cyan = '#1a7e9e'
+green = '#2e7a56'
+magenta = '#5552cc'
+red = '#c2384f'
+white = '#283645'
+yellow = '#9a5220'
+
+[colors.cursor]
+cursor = '#1f73cc'
+text = '#eef5fc'
+
+[colors.normal]
+black = '#283645'
+blue = '#1a66be'
+cyan = '#1a7e9e'
+green = '#2e7a56'
+magenta = '#5552cc'
+red = '#c2384f'
+white = '#586878'
+yellow = '#876010'
+
+[colors.primary]
+background = '#eef5fc'
+foreground = '#283645'
+
+[colors.selection]
+background = '#d2e4f4'
+text = '#a1a8af'

@@ -1,0 +1,43 @@
+!
+! Eclipse
+!
+*.foreground:  #dce3ed
+*.background:  #0e1116
+*.cursorColor: #f6c45f
+!
+! Black
+*.color0:      #0a0d12
+*.color8:      #5c6675
+!
+! Red
+*.color1:      #ff6366
+*.color9:      #ff8688
+!
+! Green
+*.color2:      #85df5e
+*.color10:     #a0ec7e
+!
+! Yellow
+*.color3:      #f1c655
+*.color11:     #fad77c
+!
+! Blue
+*.color4:      #5fb9ff
+*.color12:     #84ccff
+!
+! Magenta
+*.color5:      #cea5ff
+*.color13:     #ddbfff
+!
+! Cyan
+*.color6:      #3addc4
+*.color14:     #68ead3
+!
+! White
+*.color7:      #b7c0ce
+*.color15:     #f4f8fd
+!
+! Bold, Italic, Underline
+*.colorBD:     #dce3ed
+!*.colorIT:
+!*.colorUL:

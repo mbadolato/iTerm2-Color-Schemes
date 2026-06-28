@@ -1,0 +1,33 @@
+# Colors (Eclipse)
+
+[colors.bright]
+black = '#5c6675'
+blue = '#84ccff'
+cyan = '#68ead3'
+green = '#a0ec7e'
+magenta = '#ddbfff'
+red = '#ff8688'
+white = '#f4f8fd'
+yellow = '#fad77c'
+
+[colors.cursor]
+cursor = '#f6c45f'
+text = '#0e1116'
+
+[colors.normal]
+black = '#0a0d12'
+blue = '#5fb9ff'
+cyan = '#3addc4'
+green = '#85df5e'
+magenta = '#cea5ff'
+red = '#ff6366'
+white = '#b7c0ce'
+yellow = '#f1c655'
+
+[colors.primary]
+background = '#0e1116'
+foreground = '#dce3ed'
+
+[colors.selection]
+background = '#25324a'
+text = '#5a5e62'

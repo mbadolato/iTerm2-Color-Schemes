@@ -1,0 +1,33 @@
+# Colors (Opaline)
+
+[colors.bright]
+black = '#6b678f'
+blue = '#b79bff'
+cyan = '#72e6dd'
+green = '#95e9bd'
+magenta = '#ff9ed2'
+red = '#ff81a2'
+white = '#ffffff'
+yellow = '#f4d27e'
+
+[colors.cursor]
+cursor = '#ffb3d6'
+text = '#131121'
+
+[colors.normal]
+black = '#201b33'
+blue = '#8fb4ff'
+cyan = '#5fe3d8'
+green = '#86e6b4'
+magenta = '#be9bff'
+red = '#ff6b92'
+white = '#ece9f7'
+yellow = '#ffc2ae'
+
+[colors.primary]
+background = '#131121'
+foreground = '#ece9f7'
+
+[colors.selection]
+background = '#2c2748'
+text = '#535161'

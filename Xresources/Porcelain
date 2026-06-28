@@ -1,0 +1,43 @@
+!
+! Porcelain
+!
+*.foreground:  #2a2e37
+*.background:  #fbfbfd
+*.cursorColor: #0054d1
+!
+! Black
+*.color0:      #2a2e37
+*.color8:      #828896
+!
+! Red
+*.color1:      #c60018
+*.color9:      #d60027
+!
+! Green
+*.color2:      #157424
+*.color10:     #1b842d
+!
+! Yellow
+*.color3:      #855700
+*.color11:     #af2700
+!
+! Blue
+*.color4:      #004cc8
+*.color12:     #005bdb
+!
+! Magenta
+*.color5:      #761bc3
+*.color13:     #862ad2
+!
+! Cyan
+*.color6:      #006873
+*.color14:     #007f8f
+!
+! White
+*.color7:      #5a6170
+*.color15:     #1b1e25
+!
+! Bold, Italic, Underline
+*.colorBD:     #2a2e37
+!*.colorIT:
+!*.colorUL:

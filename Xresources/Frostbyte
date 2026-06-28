@@ -1,0 +1,43 @@
+!
+! Frostbyte
+!
+*.foreground:  #283645
+*.background:  #eef5fc
+*.cursorColor: #1f73cc
+!
+! Black
+*.color0:      #283645
+*.color8:      #93a4b6
+!
+! Red
+*.color1:      #c2384f
+*.color9:      #c2384f
+!
+! Green
+*.color2:      #2e7a56
+*.color10:     #2e7a56
+!
+! Yellow
+*.color3:      #876010
+*.color11:     #9a5220
+!
+! Blue
+*.color4:      #1a66be
+*.color12:     #1a66be
+!
+! Magenta
+*.color5:      #5552cc
+*.color13:     #5552cc
+!
+! Cyan
+*.color6:      #1a7e9e
+*.color14:     #1a7e9e
+!
+! White
+*.color7:      #586878
+*.color15:     #283645
+!
+! Bold, Italic, Underline
+*.colorBD:     #283645
+!*.colorIT:
+!*.colorUL:

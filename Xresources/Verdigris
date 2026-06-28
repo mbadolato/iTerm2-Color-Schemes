@@ -1,0 +1,43 @@
+!
+! Verdigris
+!
+*.foreground:  #e8dcc6
+*.background:  #14110b
+*.cursorColor: #ce8b45
+!
+! Black
+*.color0:      #221c12
+*.color8:      #6e6450
+!
+! Red
+*.color1:      #d9604f
+*.color9:      #d9604f
+!
+! Green
+*.color2:      #a8b86a
+*.color10:     #a8b86a
+!
+! Yellow
+*.color3:      #d9a441
+*.color11:     #c97a45
+!
+! Blue
+*.color4:      #5fbfb0
+*.color12:     #5fbfb0
+!
+! Magenta
+*.color5:      #b98fb0
+*.color13:     #b98fb0
+!
+! Cyan
+*.color6:      #8fd6b0
+*.color14:     #8fd6b0
+!
+! White
+*.color7:      #bfb29a
+*.color15:     #e8dcc6
+!
+! Bold, Italic, Underline
+*.colorBD:     #e8dcc6
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,43 @@
+!
+! Driftwood
+!
+*.foreground:  #e6ddd0
+*.background:  #2a2622
+*.cursorColor: #dfb666
+!
+! Black
+*.color0:      #211d19
+*.color8:      #9a8e7c
+!
+! Red
+*.color1:      #e77467
+*.color9:      #f38f7e
+!
+! Green
+*.color2:      #aab971
+*.color10:     #becc8a
+!
+! Yellow
+*.color3:      #e1b869
+*.color11:     #e39962
+!
+! Blue
+*.color4:      #78b3b5
+*.color12:     #92c6c7
+!
+! Magenta
+*.color5:      #c9a0bd
+*.color13:     #dab6d1
+!
+! Cyan
+*.color6:      #a5c4b1
+*.color14:     #bbd6c3
+!
+! White
+*.color7:      #c2b7a6
+*.color15:     #f2eadb
+!
+! Bold, Italic, Underline
+*.colorBD:     #e6ddd0
+!*.colorIT:
+!*.colorUL:

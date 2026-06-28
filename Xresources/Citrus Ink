@@ -1,0 +1,43 @@
+!
+! Citrus Ink
+!
+*.foreground:  #eaf0e2
+*.background:  #0b1413
+*.cursorColor: #b8e62e
+!
+! Black
+*.color0:      #14201e
+*.color8:      #4f6b5e
+!
+! Red
+*.color1:      #ff6b5b
+*.color9:      #ff8174
+!
+! Green
+*.color2:      #5fd3a0
+*.color10:     #72d8ab
+!
+! Yellow
+*.color3:      #e6c84a
+*.color11:     #f2a23e
+!
+! Blue
+*.color4:      #c2ef45
+*.color12:     #b8e62e
+!
+! Magenta
+*.color5:      #f2b441
+*.color13:     #b8e62e
+!
+! Cyan
+*.color6:      #cfe89a
+*.color14:     #d5eba6
+!
+! White
+*.color7:      #eaf0e2
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #eaf0e2
+!*.colorIT:
+!*.colorUL:

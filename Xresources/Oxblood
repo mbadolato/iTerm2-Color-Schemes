@@ -1,0 +1,43 @@
+!
+! Oxblood
+!
+*.foreground:  #e8d2d4
+*.background:  #140b0d
+*.cursorColor: #e0483a
+!
+! Black
+*.color0:      #231417
+*.color8:      #7a5458
+!
+! Red
+*.color1:      #ff4d54
+*.color9:      #ff686e
+!
+! Green
+*.color2:      #c9a24a
+*.color10:     #cfad60
+!
+! Yellow
+*.color3:      #e0b24a
+*.color11:     #d9743f
+!
+! Blue
+*.color4:      #d9743f
+*.color12:     #e86b72
+!
+! Magenta
+*.color5:      #e0556b
+*.color13:     #c8324b
+!
+! Cyan
+*.color6:      #e0a36a
+*.color14:     #e4ae7c
+!
+! White
+*.color7:      #e8d2d4
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #e8d2d4
+!*.colorIT:
+!*.colorUL:

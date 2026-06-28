@@ -32,6 +32,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/abernathy.png)
 
+### Acid Lime
+
+![Screenshot](/screenshots/acid-lime.png)
+
 ### Adventure Time
 
 ![Screenshot](/screenshots/adventure-time.png)
@@ -55,6 +59,10 @@ The screenshots are categorized.
 ### Alien Blood
 
 ![Screenshot](/screenshots/alien-blood.png)
+
+### Amber CRT Retro
+
+![Screenshot](/screenshots/amber-crt-retro.png)
 
 ### Andromeda
 
@@ -292,6 +300,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/ciapre.png)
 
+### Citrus Ink
+
+![Screenshot](/screenshots/citrus-ink.png)
+
 ### Citruszest
 
 ![Screenshot](/screenshots/citruszest.png)
@@ -440,6 +452,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/dracula.png)
 
+### Driftwood
+
+![Screenshot](/screenshots/driftwood.png)
+
 ### Duckbones
 
 ![Screenshot](/screenshots/duckbones.png)
@@ -455,6 +471,10 @@ The screenshots are categorized.
 ### Earthsong
 
 ![Screenshot](/screenshots/earthsong.png)
+
+### Eclipse
+
+![Screenshot](/screenshots/eclipse.png)
 
 ### Electron Highlighter
 
@@ -564,6 +584,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/forest-blue.png)
 
+### Forge Ember
+
+![Screenshot](/screenshots/forge-ember.png)
+
 ### Framer
 
 ![Screenshot](/screenshots/framer.png)
@@ -632,9 +656,17 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/grape.png)
 
+### Graphite
+
+![Screenshot](/screenshots/graphite.png)
+
 ### Grass
 
 ![Screenshot](/screenshots/grass.png)
+
+### Green Phosphor CRT
+
+![Screenshot](/screenshots/green-phosphor-crt.png)
 
 ### Grey Green
 
@@ -988,6 +1020,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/mesila-one.png)
 
+### Miami Heat
+
+![Screenshot](/screenshots/miami-heat.png)
+
 ### Miasma
 
 ![Screenshot](/screenshots/miasma.png)
@@ -1071,6 +1107,10 @@ The screenshots are categorized.
 ### N0Tch2K
 
 ![Screenshot](/screenshots/n0tch2k.png)
+
+### Nebula Drift
+
+![Screenshot](/screenshots/nebula-drift.png)
 
 ### Neobones Dark
 
@@ -1176,6 +1216,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/onenord.png)
 
+### Opaline
+
+![Screenshot](/screenshots/opaline.png)
+
 ### Operator Mono Dark
 
 ![Screenshot](/screenshots/operator-mono-dark.png)
@@ -1187,6 +1231,10 @@ The screenshots are categorized.
 ### owl
 
 ![Screenshot](/screenshots/owl.png)
+
+### Oxblood
+
+![Screenshot](/screenshots/oxblood.png)
 
 ### Oxide
 
@@ -1219,6 +1267,10 @@ The screenshots are categorized.
 ### Patina Moss
 
 ![Screenshot](/screenshots/patina-moss.png)
+
+### Patina
+
+![Screenshot](/screenshots/patina.png)
 
 ### Paul Millr
 
@@ -1263,6 +1315,10 @@ The screenshots are categorized.
 ### Powershell
 
 ![Screenshot](/screenshots/powershell.png)
+
+### Prism
+
+![Screenshot](/screenshots/prism.png)
 
 ### Pro
 
@@ -1680,9 +1736,17 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/vaughn.png)
 
+### Velvet Court
+
+![Screenshot](/screenshots/velvet-court.png)
+
 ### Vercel
 
 ![Screenshot](/screenshots/vercel.png)
+
+### Verdigris
+
+![Screenshot](/screenshots/verdigris.png)
 
 ### Vesper
 
@@ -1782,6 +1846,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/atom-one-light.png)
 
+### Aubade
+
+![Screenshot](/screenshots/aubade.png)
+
 ### Ayu Light
 
 ![Screenshot](/screenshots/ayu-light.png)
@@ -1838,6 +1906,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/dawnfox.png)
 
+### Daybreak
+
+![Screenshot](/screenshots/daybreak.png)
+
 ### Dayfox
 
 ![Screenshot](/screenshots/dayfox.png)
@@ -1865,6 +1937,10 @@ The screenshots are categorized.
 ### Flexoki Light
 
 ![Screenshot](/screenshots/flexoki-light.png)
+
+### Frostbyte
+
+![Screenshot](/screenshots/frostbyte.png)
 
 ### GitHub Light Colorblind
 
@@ -1954,6 +2030,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/karma-light.png)
 
+### Letterpress
+
+![Screenshot](/screenshots/letterpress.png)
+
 ### Light Owl
 
 ![Screenshot](/screenshots/light-owl.png)
@@ -1965,6 +2045,10 @@ The screenshots are categorized.
 ### Man Page
 
 ![Screenshot](/screenshots/man-page.png)
+
+### Matcha Zen
+
+![Screenshot](/screenshots/matcha-zen.png)
 
 ### Material
 
@@ -2061,6 +2145,10 @@ The screenshots are categorized.
 ### Poimandres White
 
 ![Screenshot](/screenshots/poimandres-white.png)
+
+### Porcelain
+
+![Screenshot](/screenshots/porcelain.png)
 
 ### Primary
 

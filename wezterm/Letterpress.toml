@@ -1,0 +1,12 @@
+# Letterpress
+[colors]
+foreground = "#3a352c"
+background = "#f3ecdf"
+cursor_bg = "#2a5c8a"
+cursor_border = "#2a5c8a"
+cursor_fg = "#f3ecdf"
+selection_bg = "#e3d8c4"
+selection_fg = "#a69f92"
+
+ansi = ["#3a352c","#b0202a","#506b24","#8a5e0a","#2a5c8a","#6e4b2e","#176b5f","#aeaba4"]
+brights = ["#8e886f","#b0202a","#506b24","#8a4fa0","#2a5c8a","#176b5f","#176b5f","#3a352c"]

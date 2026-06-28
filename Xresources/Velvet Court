@@ -1,0 +1,43 @@
+!
+! Velvet Court
+!
+*.foreground:  #f2dcea
+*.background:  #1f0e1c
+*.cursorColor: #f0c44e
+!
+! Black
+*.color0:      #2f1629
+*.color8:      #836075
+!
+! Red
+*.color1:      #ee5c82
+*.color9:      #ee5c82
+!
+! Green
+*.color2:      #9ad08a
+*.color10:     #9ad08a
+!
+! Yellow
+*.color3:      #f0c44e
+*.color11:     #e8964f
+!
+! Blue
+*.color4:      #b392e8
+*.color12:     #b392e8
+!
+! Magenta
+*.color5:      #d087e0
+*.color13:     #d087e0
+!
+! Cyan
+*.color6:      #6fd0c8
+*.color14:     #6fd0c8
+!
+! White
+*.color7:      #e2c8d8
+*.color15:     #f2dcea
+!
+! Bold, Italic, Underline
+*.colorBD:     #f2dcea
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,12 @@
+# Frostbyte
+[colors]
+foreground = "#283645"
+background = "#eef5fc"
+cursor_bg = "#1f73cc"
+cursor_border = "#1f73cc"
+cursor_fg = "#eef5fc"
+selection_bg = "#d2e4f4"
+selection_fg = "#a1a8af"
+
+ansi = ["#283645","#c2384f","#2e7a56","#876010","#1a66be","#5552cc","#1a7e9e","#586878"]
+brights = ["#93a4b6","#c2384f","#2e7a56","#9a5220","#1a66be","#5552cc","#1a7e9e","#283645"]

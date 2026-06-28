@@ -1,0 +1,43 @@
+!
+! Letterpress
+!
+*.foreground:  #3a352c
+*.background:  #f3ecdf
+*.cursorColor: #2a5c8a
+!
+! Black
+*.color0:      #3a352c
+*.color8:      #8e886f
+!
+! Red
+*.color1:      #b0202a
+*.color9:      #b0202a
+!
+! Green
+*.color2:      #506b24
+*.color10:     #506b24
+!
+! Yellow
+*.color3:      #8a5e0a
+*.color11:     #8a4fa0
+!
+! Blue
+*.color4:      #2a5c8a
+*.color12:     #2a5c8a
+!
+! Magenta
+*.color5:      #6e4b2e
+*.color13:     #176b5f
+!
+! Cyan
+*.color6:      #176b5f
+*.color14:     #176b5f
+!
+! White
+*.color7:      #aeaba4
+*.color15:     #3a352c
+!
+! Bold, Italic, Underline
+*.colorBD:     #3a352c
+!*.colorIT:
+!*.colorUL:

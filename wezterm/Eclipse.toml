@@ -1,0 +1,12 @@
+# Eclipse
+[colors]
+foreground = "#dce3ed"
+background = "#0e1116"
+cursor_bg = "#f6c45f"
+cursor_border = "#f6c45f"
+cursor_fg = "#0e1116"
+selection_bg = "#25324a"
+selection_fg = "#5a5e62"
+
+ansi = ["#0a0d12","#ff6366","#85df5e","#f1c655","#5fb9ff","#cea5ff","#3addc4","#b7c0ce"]
+brights = ["#5c6675","#ff8688","#a0ec7e","#fad77c","#84ccff","#ddbfff","#68ead3","#f4f8fd"]

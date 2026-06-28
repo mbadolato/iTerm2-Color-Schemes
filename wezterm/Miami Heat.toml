@@ -1,0 +1,12 @@
+# Miami Heat
+[colors]
+foreground = "#fce7ff"
+background = "#120b2e"
+cursor_bg = "#ff2e97"
+cursor_border = "#ff2e97"
+cursor_fg = "#120b2e"
+selection_bg = "#34215c"
+selection_fg = "#5e577a"
+
+ansi = ["#2a1a4a","#ff3d7f","#2ee6b6","#ffcb52","#29b6ff","#b86bff","#18e0ff","#e6d4ff"]
+brights = ["#5e5388","#ff2e97","#2ee6b6","#ff7847","#29b6ff","#b86bff","#18e0ff","#fce7ff"]

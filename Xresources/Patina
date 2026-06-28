@@ -1,0 +1,43 @@
+!
+! Patina
+!
+*.foreground:  #dce5de
+*.background:  #0e1613
+*.cursorColor: #e0c36a
+!
+! Black
+*.color0:      #16201c
+*.color8:      #5c7068
+!
+! Red
+*.color1:      #d9603f
+*.color9:      #df785c
+!
+! Green
+*.color2:      #9fc08c
+*.color10:     #abc89a
+!
+! Yellow
+*.color3:      #c8a24a
+*.color11:     #d98e5a
+!
+! Blue
+*.color4:      #5fc9b0
+*.color12:     #5fc9b0
+!
+! Magenta
+*.color5:      #d7b45a
+*.color13:     #e0c36a
+!
+! Cyan
+*.color6:      #7fd0c0
+*.color14:     #8ed6c8
+!
+! White
+*.color7:      #dce5de
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #dce5de
+!*.colorIT:
+!*.colorUL:

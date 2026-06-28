@@ -1,0 +1,12 @@
+# Aubade
+[colors]
+foreground = "#3a3340"
+background = "#fbf6fb"
+cursor_bg = "#ae3f84"
+cursor_border = "#ae3f84"
+cursor_fg = "#fbf6fb"
+selection_bg = "#ebe2ee"
+selection_fg = "#aea9ae"
+
+ansi = ["#33293f","#c0303a","#2e7d6e","#8c610c","#4a3cc0","#8a4bc0","#ae3f84","#b2b2b2"]
+brights = ["#9a8fa8","#c0303a","#2e7d6e","#ae3f84","#4a3cc0","#d8b670","#ae3f84","#3a3340"]

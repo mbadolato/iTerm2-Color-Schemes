@@ -1,0 +1,43 @@
+!
+! Amber CRT Retro
+!
+*.foreground:  #ffb000
+*.background:  #1a1200
+*.cursorColor: #ffb000
+!
+! Black
+*.color0:      #2a1e00
+*.color8:      #6a4e00
+!
+! Red
+*.color1:      #ff6a00
+*.color9:      #ff8a1e
+!
+! Green
+*.color2:      #ffb000
+*.color10:     #ffc742
+!
+! Yellow
+*.color3:      #ffc742
+*.color11:     #ffe08a
+!
+! Blue
+*.color4:      #ff8c00
+*.color12:     #ffab3d
+!
+! Magenta
+*.color5:      #ffa033
+*.color13:     #ffc266
+!
+! Cyan
+*.color6:      #ffd27f
+*.color14:     #ffe3b0
+!
+! White
+*.color7:      #ffd9a0
+*.color15:     #fff0d6
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffb000
+!*.colorIT:
+!*.colorUL:

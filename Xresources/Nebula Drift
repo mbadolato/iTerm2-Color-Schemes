@@ -1,0 +1,43 @@
+!
+! Nebula Drift
+!
+*.foreground:  #e2e0fa
+*.background:  #0a0420
+*.cursorColor: #d58bff
+!
+! Black
+*.color0:      #1a0e38
+*.color8:      #5c5a88
+!
+! Red
+*.color1:      #ff5c8d
+*.color9:      #ff5c8d
+!
+! Green
+*.color2:      #66e6a8
+*.color10:     #66e6a8
+!
+! Yellow
+*.color3:      #ffcb6b
+*.color11:     #ff9e64
+!
+! Blue
+*.color4:      #7c9bff
+*.color12:     #7c9bff
+!
+! Magenta
+*.color5:      #c77dff
+*.color13:     #c77dff
+!
+! Cyan
+*.color6:      #57e6f0
+*.color14:     #57e6f0
+!
+! White
+*.color7:      #c8c6e8
+*.color15:     #e2e0fa
+!
+! Bold, Italic, Underline
+*.colorBD:     #e2e0fa
+!*.colorIT:
+!*.colorUL:

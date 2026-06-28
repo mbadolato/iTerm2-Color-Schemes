@@ -1,0 +1,33 @@
+# Colors (Verdigris)
+
+[colors.bright]
+black = '#6e6450'
+blue = '#5fbfb0'
+cyan = '#8fd6b0'
+green = '#a8b86a'
+magenta = '#b98fb0'
+red = '#d9604f'
+white = '#e8dcc6'
+yellow = '#c97a45'
+
+[colors.cursor]
+cursor = '#ce8b45'
+text = '#14110b'
+
+[colors.normal]
+black = '#221c12'
+blue = '#5fbfb0'
+cyan = '#8fd6b0'
+green = '#a8b86a'
+magenta = '#b98fb0'
+red = '#d9604f'
+white = '#bfb29a'
+yellow = '#d9a441'
+
+[colors.primary]
+background = '#14110b'
+foreground = '#e8dcc6'
+
+[colors.selection]
+background = '#2a2417'
+text = '#54514b'

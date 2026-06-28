@@ -1,0 +1,43 @@
+!
+! Prism
+!
+*.foreground:  #d7e3f4
+*.background:  #0b1326
+*.cursorColor: #56d5ff
+!
+! Black
+*.color0:      #060c18
+*.color8:      #5e6f90
+!
+! Red
+*.color1:      #ff7192
+*.color9:      #ff96ad
+!
+! Green
+*.color2:      #71e0b0
+*.color10:     #93ecc7
+!
+! Yellow
+*.color3:      #fad77c
+*.color11:     #fca76d
+!
+! Blue
+*.color4:      #47b3ff
+*.color12:     #77caff
+!
+! Magenta
+*.color5:      #9da9ff
+*.color13:     #b8c1ff
+!
+! Cyan
+*.color6:      #31dcf2
+*.color14:     #6ceafb
+!
+! White
+*.color7:      #b6c4dc
+*.color15:     #eaf1fb
+!
+! Bold, Italic, Underline
+*.colorBD:     #d7e3f4
+!*.colorIT:
+!*.colorUL:

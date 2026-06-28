@@ -1,0 +1,33 @@
+# Colors (Citrus Ink)
+
+[colors.bright]
+black = '#4f6b5e'
+blue = '#b8e62e'
+cyan = '#d5eba6'
+green = '#72d8ab'
+magenta = '#b8e62e'
+red = '#ff8174'
+white = '#ffffff'
+yellow = '#f2a23e'
+
+[colors.cursor]
+cursor = '#b8e62e'
+text = '#0b1413'
+
+[colors.normal]
+black = '#14201e'
+blue = '#c2ef45'
+cyan = '#cfe89a'
+green = '#5fd3a0'
+magenta = '#f2b441'
+red = '#ff6b5b'
+white = '#eaf0e2'
+yellow = '#e6c84a'
+
+[colors.primary]
+background = '#0b1413'
+foreground = '#eaf0e2'
+
+[colors.selection]
+background = '#1f302d'
+text = '#4b5453'

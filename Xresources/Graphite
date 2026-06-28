@@ -1,0 +1,43 @@
+!
+! Graphite
+!
+*.foreground:  #d2d6dc
+*.background:  #1c1e22
+*.cursorColor: #c4cedb
+!
+! Black
+*.color0:      #15171a
+*.color8:      #7e8590
+!
+! Red
+*.color1:      #e58888
+*.color9:      #f19f9f
+!
+! Green
+*.color2:      #a7c59f
+*.color10:     #b9d5b1
+!
+! Yellow
+*.color3:      #cec59d
+*.color11:     #cfba97
+!
+! Blue
+*.color4:      #8db4d0
+*.color12:     #a5c6de
+!
+! Magenta
+*.color5:      #baabcb
+*.color13:     #ccbedd
+!
+! Cyan
+*.color6:      #a8c6d4
+*.color14:     #bcd6e2
+!
+! White
+*.color7:      #b4b9c0
+*.color15:     #eceff3
+!
+! Bold, Italic, Underline
+*.colorBD:     #d2d6dc
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (Matcha Zen)
+
+[colors.bright]
+black = '#97a887'
+blue = '#2e7c78'
+cyan = '#2a8585'
+green = '#4e8c2e'
+magenta = '#7e5ba6'
+red = '#c2452a'
+white = '#354029'
+yellow = '#b05a1e'
+
+[colors.cursor]
+cursor = '#4e8c2e'
+text = '#f5f7ea'
+
+[colors.normal]
+black = '#354029'
+blue = '#2e7c78'
+cyan = '#2a8585'
+green = '#4e8c2e'
+magenta = '#7e5ba6'
+red = '#c2452a'
+white = '#56664a'
+yellow = '#927000'
+
+[colors.primary]
+background = '#f5f7ea'
+foreground = '#354029'
+
+[colors.selection]
+background = '#dde7cc'
+text = '#a8aa9d'

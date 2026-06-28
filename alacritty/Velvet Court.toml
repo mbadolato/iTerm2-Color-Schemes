@@ -1,0 +1,33 @@
+# Colors (Velvet Court)
+
+[colors.bright]
+black = '#836075'
+blue = '#b392e8'
+cyan = '#6fd0c8'
+green = '#9ad08a'
+magenta = '#d087e0'
+red = '#ee5c82'
+white = '#f2dcea'
+yellow = '#e8964f'
+
+[colors.cursor]
+cursor = '#f0c44e'
+text = '#1f0e1c'
+
+[colors.normal]
+black = '#2f1629'
+blue = '#b392e8'
+cyan = '#6fd0c8'
+green = '#9ad08a'
+magenta = '#d087e0'
+red = '#ee5c82'
+white = '#e2c8d8'
+yellow = '#f0c44e'
+
+[colors.primary]
+background = '#1f0e1c'
+foreground = '#f2dcea'
+
+[colors.selection]
+background = '#3e2138'
+text = '#5f4e5c'

@@ -1,0 +1,12 @@
+# Patina
+[colors]
+foreground = "#dce5de"
+background = "#0e1613"
+cursor_bg = "#e0c36a"
+cursor_border = "#e0c36a"
+cursor_fg = "#0e1613"
+selection_bg = "#23302b"
+selection_fg = "#4e5653"
+
+ansi = ["#16201c","#d9603f","#9fc08c","#c8a24a","#5fc9b0","#d7b45a","#7fd0c0","#dce5de"]
+brights = ["#5c7068","#df785c","#abc89a","#d98e5a","#5fc9b0","#e0c36a","#8ed6c8","#ffffff"]

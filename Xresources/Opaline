@@ -1,0 +1,43 @@
+!
+! Opaline
+!
+*.foreground:  #ece9f7
+*.background:  #131121
+*.cursorColor: #ffb3d6
+!
+! Black
+*.color0:      #201b33
+*.color8:      #6b678f
+!
+! Red
+*.color1:      #ff6b92
+*.color9:      #ff81a2
+!
+! Green
+*.color2:      #86e6b4
+*.color10:     #95e9bd
+!
+! Yellow
+*.color3:      #ffc2ae
+*.color11:     #f4d27e
+!
+! Blue
+*.color4:      #8fb4ff
+*.color12:     #b79bff
+!
+! Magenta
+*.color5:      #be9bff
+*.color13:     #ff9ed2
+!
+! Cyan
+*.color6:      #5fe3d8
+*.color14:     #72e6dd
+!
+! White
+*.color7:      #ece9f7
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ece9f7
+!*.colorIT:
+!*.colorUL:

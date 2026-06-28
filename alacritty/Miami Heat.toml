@@ -1,0 +1,33 @@
+# Colors (Miami Heat)
+
+[colors.bright]
+black = '#5e5388'
+blue = '#29b6ff'
+cyan = '#18e0ff'
+green = '#2ee6b6'
+magenta = '#b86bff'
+red = '#ff2e97'
+white = '#fce7ff'
+yellow = '#ff7847'
+
+[colors.cursor]
+cursor = '#ff2e97'
+text = '#120b2e'
+
+[colors.normal]
+black = '#2a1a4a'
+blue = '#29b6ff'
+cyan = '#18e0ff'
+green = '#2ee6b6'
+magenta = '#b86bff'
+red = '#ff3d7f'
+white = '#e6d4ff'
+yellow = '#ffcb52'
+
+[colors.primary]
+background = '#120b2e'
+foreground = '#fce7ff'
+
+[colors.selection]
+background = '#34215c'
+text = '#5e577a'

@@ -1,0 +1,33 @@
+# Colors (Amber CRT Retro)
+
+[colors.bright]
+black = '#6a4e00'
+blue = '#ffab3d'
+cyan = '#ffe3b0'
+green = '#ffc742'
+magenta = '#ffc266'
+red = '#ff8a1e'
+white = '#fff0d6'
+yellow = '#ffe08a'
+
+[colors.cursor]
+cursor = '#ffb000'
+text = '#1a1200'
+
+[colors.normal]
+black = '#2a1e00'
+blue = '#ff8c00'
+cyan = '#ffd27f'
+green = '#ffb000'
+magenta = '#ffa033'
+red = '#ff6a00'
+white = '#ffd9a0'
+yellow = '#ffc742'
+
+[colors.primary]
+background = '#1a1200'
+foreground = '#ffb000'
+
+[colors.selection]
+background = '#3a2a00'
+text = '#5a5240'

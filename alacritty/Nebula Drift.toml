@@ -1,0 +1,33 @@
+# Colors (Nebula Drift)
+
+[colors.bright]
+black = '#5c5a88'
+blue = '#7c9bff'
+cyan = '#57e6f0'
+green = '#66e6a8'
+magenta = '#c77dff'
+red = '#ff5c8d'
+white = '#e2e0fa'
+yellow = '#ff9e64'
+
+[colors.cursor]
+cursor = '#d58bff'
+text = '#0a0420'
+
+[colors.normal]
+black = '#1a0e38'
+blue = '#7c9bff'
+cyan = '#57e6f0'
+green = '#66e6a8'
+magenta = '#c77dff'
+red = '#ff5c8d'
+white = '#c8c6e8'
+yellow = '#ffcb6b'
+
+[colors.primary]
+background = '#0a0420'
+foreground = '#e2e0fa'
+
+[colors.selection]
+background = '#221645'
+text = '#4a4460'

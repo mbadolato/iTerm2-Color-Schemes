@@ -1,0 +1,33 @@
+# Colors (Acid Lime)
+
+[colors.bright]
+black = '#4a6b36'
+blue = '#4deca0'
+cyan = '#50ffb4'
+green = '#97e63c'
+magenta = '#a6ff6b'
+red = '#ff3344'
+white = '#d4efbc'
+yellow = '#dbff45'
+
+[colors.cursor]
+cursor = '#c2ff33'
+text = '#080c05'
+
+[colors.normal]
+black = '#131d0c'
+blue = '#4deca0'
+cyan = '#50ffb4'
+green = '#97e63c'
+magenta = '#a6ff6b'
+red = '#ff3344'
+white = '#bfe0a4'
+yellow = '#eeff5c'
+
+[colors.primary]
+background = '#080c05'
+foreground = '#d4efbc'
+
+[colors.selection]
+background = '#1b2a10'
+text = '#545852'
