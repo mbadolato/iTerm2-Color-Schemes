@@ -1254,6 +1254,18 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/modus-vivendi.png)
 
+### Modus Vivendi Deuteranopia
+
+Optimized for deuteranopia (red-green color blindness), the most common form.
+
+![Screenshot](/screenshots/modus-vivendi-deuteranopia.png)
+
+### Modus Vivendi Tritanopia
+
+Optimized for tritanopia (blue-yellow color blindness).
+
+![Screenshot](/screenshots/modus-vivendi-tritanopia.png)
+
 ### Molokai
 
 ![Screenshot](/screenshots/molokai.png)
@@ -2271,6 +2283,18 @@ The screenshots are categorized.
 ### Modus Operandi
 
 ![Screenshot](/screenshots/modus-operandi.png)
+
+### Modus Operandi Deuteranopia
+
+Optimized for deuteranopia (red-green color blindness), the most common form.
+
+![Screenshot](/screenshots/modus-operandi-deuteranopia.png)
+
+### Modus Operandi Tritanopia
+
+Optimized for tritanopia (blue-yellow color blindness).
+
+![Screenshot](/screenshots/modus-operandi-tritanopia.png)
 
 ### Monokai Pro Light Sun
 
