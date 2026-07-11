@@ -264,6 +264,8 @@ The Jellybeans theme was created by [qtpi](https://github.com/qtpi/Jellybeans.it
 
 The JetBrains Darcula theme was created by [vitstr](https://github.com/vitstr)
 
+The JetBrains Islands Dark theme was created by [ch1re](https://github.com/bbeny123)
+
 The Jubi theme was created by [Julia Tretel](https://github.com/jutretel)
 
 The Kanagawa themes (Kanagawa Wave, Kanagawa Dragon, and Kanagawa Lotus) were created by [rebelot](https://github.com/rebelot) and added by [Jeremy Seago](https://github.com/seagoj) and [Antonio Camargo](https://github.com/apcamargo).
