@@ -1,0 +1,43 @@
+!
+! Pyrokai
+!
+*.foreground:  #faf6f5
+*.background:  #151312
+*.cursorColor: #ea7332
+!
+! Black
+*.color0:      #242120
+*.color8:      #807c7a
+!
+! Red
+*.color1:      #ec6785
+*.color9:      #fa8099
+!
+! Green
+*.color2:      #75ad2f
+*.color10:     #8bbf53
+!
+! Yellow
+*.color3:      #bb9500
+*.color11:     #d0a70e
+!
+! Blue
+*.color4:      #2aa0f9
+*.color12:     #5bb3ff
+!
+! Magenta
+*.color5:      #e76899
+*.color13:     #f681ac
+!
+! Cyan
+*.color6:      #00aebd
+*.color14:     #00c3d3
+!
+! White
+*.color7:      #b4afad
+*.color15:     #faf6f5
+!
+! Bold, Italic, Underline
+*.colorBD:     #faf6f5
+!*.colorIT:
+*.colorUL:     #ea7332

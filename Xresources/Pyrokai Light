@@ -1,0 +1,43 @@
+!
+! Pyrokai Light
+!
+*.foreground:  #242120
+*.background:  #faf6f5
+*.cursorColor: #b65318
+!
+! Black
+*.color0:      #242120
+*.color8:      #807c7a
+!
+! Red
+*.color1:      #b84963
+*.color9:      #943c50
+!
+! Green
+*.color2:      #568413
+*.color10:     #456a13
+!
+! Yellow
+*.color3:      #8e7100
+*.color11:     #735a00
+!
+! Blue
+*.color4:      #0979c4
+*.color12:     #0f619d
+!
+! Magenta
+*.color5:      #b44a74
+*.color13:     #913c5d
+!
+! Cyan
+*.color6:      #008490
+*.color14:     #006a74
+!
+! White
+*.color7:      #b4afad
+*.color15:     #faf6f5
+!
+! Bold, Italic, Underline
+*.colorBD:     #242120
+!*.colorIT:
+*.colorUL:     #b65318

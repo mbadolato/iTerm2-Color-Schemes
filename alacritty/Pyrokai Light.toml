@@ -1,0 +1,33 @@
+# Colors (Pyrokai Light)
+
+[colors.bright]
+black = '#807c7a'
+blue = '#0f619d'
+cyan = '#006a74'
+green = '#456a13'
+magenta = '#913c5d'
+red = '#943c50'
+white = '#faf6f5'
+yellow = '#735a00'
+
+[colors.cursor]
+cursor = '#b65318'
+text = '#faf6f5'
+
+[colors.normal]
+black = '#242120'
+blue = '#0979c4'
+cyan = '#008490'
+green = '#568413'
+magenta = '#b44a74'
+red = '#b84963'
+white = '#b4afad'
+yellow = '#8e7100'
+
+[colors.primary]
+background = '#faf6f5'
+foreground = '#242120'
+
+[colors.selection]
+background = '#e4e0de'
+text = '#242120'

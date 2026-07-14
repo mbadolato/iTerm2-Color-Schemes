@@ -1,0 +1,33 @@
+# Colors (Pyrokai)
+
+[colors.bright]
+black = '#807c7a'
+blue = '#5bb3ff'
+cyan = '#00c3d3'
+green = '#8bbf53'
+magenta = '#f681ac'
+red = '#fa8099'
+white = '#faf6f5'
+yellow = '#d0a70e'
+
+[colors.cursor]
+cursor = '#ea7332'
+text = '#151312'
+
+[colors.normal]
+black = '#242120'
+blue = '#2aa0f9'
+cyan = '#00aebd'
+green = '#75ad2f'
+magenta = '#e76899'
+red = '#ec6785'
+white = '#b4afad'
+yellow = '#bb9500'
+
+[colors.primary]
+background = '#151312'
+foreground = '#faf6f5'
+
+[colors.selection]
+background = '#312d2b'
+text = '#faf6f5'

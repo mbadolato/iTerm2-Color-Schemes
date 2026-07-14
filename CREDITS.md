@@ -404,6 +404,8 @@ The Primary theme was created by [jayanthkoushik](https://github.com/jayanthkous
 
 The Pro Light theme was adapted from the Pro theme by [crowsonkb](https://github.com/crowsonkb) using her [iterm_schemer](https://github.com/crowsonkb/iterm_schemer) tool.
 
+The Pyrokai and Pyrokai Light themes were created by [Patrick Serrano](https://patrickserrano.com) — Monokai's accent family, warm-shifted, expanded into a Flexoki-shaped tonal system, generated in OKLCH and gamut-mapped to sRGB. Full palette and other app themes at [patrickserrano.github.io/pyrokai](https://patrickserrano.github.io/pyrokai/).
+
 The Purple Peter theme was created by [DeChamp](https://github.com/dechamp)
 
 The Purple Rain theme was created by [msorre2](https://github.com/msorre2)

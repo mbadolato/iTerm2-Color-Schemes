@@ -1,0 +1,12 @@
+# Pyrokai
+[colors]
+foreground = "#faf6f5"
+background = "#151312"
+cursor_bg = "#ea7332"
+cursor_border = "#ea7332"
+cursor_fg = "#151312"
+selection_bg = "#312d2b"
+selection_fg = "#faf6f5"
+
+ansi = ["#242120","#ec6785","#75ad2f","#bb9500","#2aa0f9","#e76899","#00aebd","#b4afad"]
+brights = ["#807c7a","#fa8099","#8bbf53","#d0a70e","#5bb3ff","#f681ac","#00c3d3","#faf6f5"]
