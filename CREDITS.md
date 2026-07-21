@@ -17,7 +17,7 @@ The Keys Ocean Sunset and Keys Ocean Sunset HC themes were created by Grok Build
 
 The Sumi Phosphor and Sumi Linen themes were created by Grok Build Composer 2.5 Fast as a complementary dark/light pair — sumi ink on espresso black with a phosphor-teal signal accent, and sumi typography on unbleached linen.
 
-The Midnight Arcade, Terminal Green 1999, Vaporwave Sunset, CRT Amber, Purple Portal, Y2K Chrome, and Cassette Tape themes were created by [theebest.com](https://www.theebest.com), from its open-source developer theme collection ([TriumphInteractive/theebest-themes](https://github.com/TriumphInteractive/theebest-themes)). Generated with AI assistance.
+The Midnight Arcade, Terminal Green 1999, Vaporwave Sunset, CRT Amber, Purple Portal, Y2K Chrome, and Cassette Tape themes were created by [theebest.com](https://www.theebest.com), from its open-source developer theme collection ([TriumphInteractive/theebest-themes](https://github.com/TriumphInteractive/theebest-themes)). The palettes are human-designed; the YAML source files were produced from them with AI assistance.
 
 The themes AdventureTime, AlienBlood, BirdsOfParadise, Ciapre, CrayonPonyFish, DimmedMonokai, Earthsong, Elemental, FishTank, FrontEndDelight, FunForrest, Grape, Highway, IC_Green_PPL, IC_Orange_PPL, Lavandula, Medallion, MonaLisa, Ollie, Royal, SeaShells, Shaman, SleepyHollow, SoftServer, Sundried, ToyChest, Treehouse, and Urple were created by [zdj](https://github.com/zdj/themes/tree/master/iterm2)
 
