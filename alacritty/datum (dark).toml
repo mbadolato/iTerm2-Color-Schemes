@@ -1,0 +1,33 @@
+# Colors (datum (dark))
+
+[colors.bright]
+black = '#8f98a3'
+blue = '#b2dafb'
+cyan = '#a5f5f9'
+green = '#51daa7'
+magenta = '#f5b9d9'
+red = '#e6ac4c'
+white = '#eef2f7'
+yellow = '#fcdcad'
+
+[colors.cursor]
+cursor = '#db78b1'
+text = '#0f1318'
+
+[colors.normal]
+black = '#2b2f35'
+blue = '#66b6f4'
+cyan = '#5ddae0'
+green = '#51daa7'
+magenta = '#db78b1'
+red = '#ef844a'
+white = '#dbe0e8'
+yellow = '#d8cf58'
+
+[colors.primary]
+background = '#0f1318'
+foreground = '#dbe0e8'
+
+[colors.selection]
+background = '#2b2f35'
+text = '#dbe0e8'
