@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='datum (dark)'
-cursor-color='#db78b1'
+cursor-color='#fa94cd'
 foreground='#dbe0e8'
 background='rgba(15,19,24,.95)'
-palette='#2b2f35:#ef844a:#51daa7:#d8cf58:#66b6f4:#db78b1:#5ddae0:#dbe0e8:#8f98a3:#e6ac4c:#51daa7:#fcdcad:#b2dafb:#f5b9d9:#a5f5f9:#eef2f7'
+palette='#2b2f35:#fe9864:#54dcaa:#e8df69:#69b9f7:#fa94cd:#6ae5ec:#dbe0e8:#8f98a3:#f8bd5f:#54dcaa:#fcdcad:#b2dafb:#f5b9d9:#a5f5f9:#eef2f7'
 COLORS

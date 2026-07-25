@@ -4,25 +4,25 @@
 black = '#616a76'
 blue = '#2f516c'
 cyan = '#154b4e'
-green = '#107c5a'
+green = '#007553'
 magenta = '#633750'
 red = '#976700'
 white = '#e7ecf2'
 yellow = '#4d3919'
 
 [colors.cursor]
-cursor = '#983472'
+cursor = '#973070'
 text = '#f1f6fd'
 
 [colors.normal]
 black = '#292e35'
-blue = '#0068a4'
-cyan = '#0b7b80'
-green = '#107c5a'
-magenta = '#983472'
-red = '#a44602'
+blue = '#0176b8'
+cyan = '#0d7a7f'
+green = '#007553'
+magenta = '#973070'
+red = '#a24500'
 white = '#b4b9bf'
-yellow = '#756f1d'
+yellow = '#656023'
 
 [colors.primary]
 background = '#f1f6fd'

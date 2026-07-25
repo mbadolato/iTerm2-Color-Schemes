@@ -26,16 +26,16 @@ fi
 
 # 16 color space
 put_template 0  "29/2e/35"
-put_template 1  "a4/46/02"
-put_template 2  "10/7c/5a"
-put_template 3  "75/6f/1d"
-put_template 4  "00/68/a4"
-put_template 5  "98/34/72"
-put_template 6  "0b/7b/80"
+put_template 1  "a2/45/00"
+put_template 2  "00/75/53"
+put_template 3  "65/60/23"
+put_template 4  "01/76/b8"
+put_template 5  "97/30/70"
+put_template 6  "0d/7a/7f"
 put_template 7  "b4/b9/bf"
 put_template 8  "61/6a/76"
 put_template 9  "97/67/00"
-put_template 10 "10/7c/5a"
+put_template 10 "00/75/53"
 put_template 11 "4d/39/19"
 put_template 12 "2f/51/6c"
 put_template 13 "63/37/50"
@@ -52,7 +52,7 @@ if [ -n "$ITERM_SESSION_ID" ]; then
   put_template_custom Pi "292e35"
   put_template_custom Pj "ced3d9"
   put_template_custom Pk "292e35"
-  put_template_custom Pl "983472"
+  put_template_custom Pl "973070"
   put_template_custom Pm "f1f6fd"
 else
   put_template_var 10 $color_foreground
