@@ -1,0 +1,12 @@
+# Outrun Electric
+[colors]
+foreground = "#f2f3f7"
+background = "#0c0a20"
+cursor_bg = "#ff2afc"
+cursor_border = "#ff2afc"
+cursor_fg = "#0c0a20"
+selection_bg = "#ba45a3"
+selection_fg = "#f2f3f7"
+
+ansi = ["#131033","#e61f44","#a7da1e","#ffd400","#1ea8fc","#ff2afc","#42c6ff","#f2f3f7"]
+brights = ["#546a90","#ef6d85","#c6e76d","#ffe359","#6dc6fd","#df85ff","#84daff","#ffffff"]

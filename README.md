@@ -1474,6 +1474,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/operator-mono-dark.png)
 
+### Outrun Electric
+
+![Screenshot](/screenshots/outrun-electric.png)
+
 ### Overnight Slumber
 
 ![Screenshot](/screenshots/overnight-slumber.png)

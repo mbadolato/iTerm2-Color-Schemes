@@ -376,6 +376,8 @@ The One Half themes were created by [sonph](https://github.com/sonph), based on 
 
 The Operator Mono Dark was ported from [vharadkou](https://github.com/vharadkou/OperatorMonoDarkTheme) by [dreamyguy](https://github.com/dreamyguy/iterm-theme-operator-mono-dark)
 
+The Outrun Electric theme was created by [samrap](https://github.com/samrap/outrun-theme-vscode) for VS Code, with the palette values following [ema2159](https://github.com/doomemacs/themes/blob/master/themes/doom-outrun-electric-theme.el)'s Doom Emacs port, and was contributed here by [sawtdakhili](https://github.com/sawtdakhili).
+
 The Overnight Slumber theme was created by [Cristian Velasquez Ramos](https://github.com/cevr/overnight) and ported to iTerm2 by [Gomah](https://github.com/Gomah/overnight-slumber-iterm).
 
 The Oxide theme was created by [jakmaz](https://github.com/jakmaz)

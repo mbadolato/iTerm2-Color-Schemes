@@ -1,0 +1,35 @@
+# Outrun Electric
+#
+# A high-contrast neon synthwave palette. Originally created by samrap as the
+# "Outrun Electric" variant of the Outrun theme for VS Code (MIT):
+#   https://github.com/samrap/outrun-theme-vscode
+# The exact values here follow ema2159's Doom Emacs port, which established the
+# named palette this scheme is drawn from (MIT):
+#   https://github.com/doomemacs/themes/blob/master/themes/doom-outrun-electric-theme.el
+#
+# The bright variants of red, green, yellow, blue and cyan are lightened
+# derivations, as neither upstream defines a distinct bright set.
+
+name:           "Outrun Electric"
+color_01:       "#131033"             # black
+color_02:       "#e61f44"             # red
+color_03:       "#a7da1e"             # green
+color_04:       "#ffd400"             # yellow
+color_05:       "#1ea8fc"             # blue
+color_06:       "#ff2afc"             # magenta
+color_07:       "#42c6ff"             # cyan
+color_08:       "#f2f3f7"             # white
+color_09:       "#546a90"             # bright black
+color_10:       "#ef6d85"             # bright red
+color_11:       "#c6e76d"             # bright green
+color_12:       "#ffe359"             # bright yellow
+color_13:       "#6dc6fd"             # bright blue
+color_14:       "#df85ff"             # bright magenta
+color_15:       "#84daff"             # bright cyan
+color_16:       "#ffffff"             # bright white
+background:     "#0c0a20"
+foreground:     "#f2f3f7"
+cursor:         "#ff2afc"             # (magenta)
+cursor_text:    "#0c0a20"             # (background)
+selection:      "#ba45a3"
+selection_text: "#f2f3f7"             # (foreground)

@@ -1,0 +1,43 @@
+!
+! Outrun Electric
+!
+*.foreground:  #f2f3f7
+*.background:  #0c0a20
+*.cursorColor: #ff2afc
+!
+! Black
+*.color0:      #131033
+*.color8:      #546a90
+!
+! Red
+*.color1:      #e61f44
+*.color9:      #ef6d85
+!
+! Green
+*.color2:      #a7da1e
+*.color10:     #c6e76d
+!
+! Yellow
+*.color3:      #ffd400
+*.color11:     #ffe359
+!
+! Blue
+*.color4:      #1ea8fc
+*.color12:     #6dc6fd
+!
+! Magenta
+*.color5:      #ff2afc
+*.color13:     #df85ff
+!
+! Cyan
+*.color6:      #42c6ff
+*.color14:     #84daff
+!
+! White
+*.color7:      #f2f3f7
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f2f3f7
+!*.colorIT:
+!*.colorUL:

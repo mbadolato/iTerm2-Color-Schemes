@@ -1,0 +1,33 @@
+# Colors (Outrun Electric)
+
+[colors.bright]
+black = '#546a90'
+blue = '#6dc6fd'
+cyan = '#84daff'
+green = '#c6e76d'
+magenta = '#df85ff'
+red = '#ef6d85'
+white = '#ffffff'
+yellow = '#ffe359'
+
+[colors.cursor]
+cursor = '#ff2afc'
+text = '#0c0a20'
+
+[colors.normal]
+black = '#131033'
+blue = '#1ea8fc'
+cyan = '#42c6ff'
+green = '#a7da1e'
+magenta = '#ff2afc'
+red = '#e61f44'
+white = '#f2f3f7'
+yellow = '#ffd400'
+
+[colors.primary]
+background = '#0c0a20'
+foreground = '#f2f3f7'
+
+[colors.selection]
+background = '#ba45a3'
+text = '#f2f3f7'
