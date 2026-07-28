@@ -1,0 +1,43 @@
+!
+! datum (dark)
+!
+*.foreground:  #dbe0e8
+*.background:  #0f1318
+*.cursorColor: #fa94cd
+!
+! Black
+*.color0:      #2b2f35
+*.color8:      #8f98a3
+!
+! Red
+*.color1:      #fe9864
+*.color9:      #f8bd5f
+!
+! Green
+*.color2:      #54dcaa
+*.color10:     #54dcaa
+!
+! Yellow
+*.color3:      #e8df69
+*.color11:     #fcdcad
+!
+! Blue
+*.color4:      #69b9f7
+*.color12:     #b2dafb
+!
+! Magenta
+*.color5:      #fa94cd
+*.color13:     #f5b9d9
+!
+! Cyan
+*.color6:      #6ae5ec
+*.color14:     #a5f5f9
+!
+! White
+*.color7:      #dbe0e8
+*.color15:     #eef2f7
+!
+! Bold, Italic, Underline
+*.colorBD:     #dbe0e8
+!*.colorIT:
+!*.colorUL:

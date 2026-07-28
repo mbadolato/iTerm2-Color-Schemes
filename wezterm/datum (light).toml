@@ -1,0 +1,12 @@
+# datum (light)
+[colors]
+foreground = "#292e35"
+background = "#f1f6fd"
+cursor_bg = "#973070"
+cursor_border = "#973070"
+cursor_fg = "#f1f6fd"
+selection_bg = "#ced3d9"
+selection_fg = "#292e35"
+
+ansi = ["#292e35","#a24500","#007553","#656023","#0176b8","#973070","#0d7a7f","#b4b9bf"]
+brights = ["#616a76","#976700","#007553","#4d3919","#2f516c","#633750","#154b4e","#e7ecf2"]
