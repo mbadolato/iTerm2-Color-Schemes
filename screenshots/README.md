@@ -344,6 +344,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/crayon-pony-fish.png)
 
+### CRT Amber
+
+![Screenshot](/screenshots/crt-amber.png)
+
 ### Cursor Dark
 
 ![Screenshot](/screenshots/cursor-dark.png)
@@ -395,6 +399,10 @@ The screenshots are categorized.
 ### Darkside
 
 ![Screenshot](/screenshots/darkside.png)
+
+### datum (dark)
+
+![Screenshot](/screenshots/datum-dark.png)
 
 ### Deep
 
@@ -1032,6 +1040,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/miasma.png)
 
+### Midnight Arcade
+
+![Screenshot](/screenshots/midnight-arcade.png)
+
 ### Midnight In Mojave
 
 ![Screenshot](/screenshots/midnight-in-mojave.png)
@@ -1268,6 +1280,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/operator-mono-dark.png)
 
+### Outrun Electric
+
+![Screenshot](/screenshots/outrun-electric.png)
+
 ### Overnight Slumber
 
 ![Screenshot](/screenshots/overnight-slumber.png)
@@ -1367,6 +1383,10 @@ The screenshots are categorized.
 ### Pro
 
 ![Screenshot](/screenshots/pro.png)
+
+### Purple Portal
+
+![Screenshot](/screenshots/purple-portal.png)
 
 ### Purple Rain
 
@@ -1680,6 +1700,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/terminal-basic-dark.png)
 
+### Terminal Green 1999
+
+![Screenshot](/screenshots/terminal-green-1999.png)
+
 ### Thayer Bright
 
 ![Screenshot](/screenshots/thayer-bright.png)
@@ -1779,6 +1803,10 @@ The screenshots are categorized.
 ### Vague
 
 ![Screenshot](/screenshots/vague.png)
+
+### Vaporwave Sunset
+
+![Screenshot](/screenshots/vaporwave-sunset.png)
 
 ### Vaughn
 
@@ -1922,6 +1950,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/builtin-tango-light.png)
 
+### Cassette Tape
+
+![Screenshot](/screenshots/cassette-tape.png)
+
 ### Catppuccin Latte
 
 ![Screenshot](/screenshots/catppuccin-latte.png)
@@ -1949,6 +1981,10 @@ The screenshots are categorized.
 ### Cursor Light
 
 ![Screenshot](/screenshots/cursor-light.png)
+
+### datum (light)
+
+![Screenshot](/screenshots/datum-light.png)
 
 ### Dawnfox
 
@@ -2361,6 +2397,10 @@ The screenshots are categorized.
 ### Xcode Light
 
 ![Screenshot](/screenshots/xcode-light.png)
+
+### Y2K Chrome
+
+![Screenshot](/screenshots/y2k-chrome.png)
 
 ### Zenbones Light
 

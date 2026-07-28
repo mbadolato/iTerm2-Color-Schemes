@@ -1,0 +1,33 @@
+# Colors (Cassette Tape)
+
+[colors.bright]
+black = '#c4b39a'
+blue = '#63240e'
+cyan = '#904207'
+green = '#324e0e'
+magenta = '#0c5e58'
+red = '#941616'
+white = '#2b1b12'
+yellow = '#9c0f31'
+
+[colors.cursor]
+cursor = '#2b1b12'
+text = '#fff7ed'
+
+[colors.normal]
+black = '#514339'
+blue = '#7c2d12'
+cyan = '#b45309'
+green = '#3f6212'
+magenta = '#0f766e'
+red = '#b91c1c'
+white = '#6b4f3f'
+yellow = '#be123c'
+
+[colors.primary]
+background = '#fff7ed'
+foreground = '#2b1b12'
+
+[colors.selection]
+background = '#2b1b12'
+text = '#fff7ed'

@@ -1,0 +1,43 @@
+!
+! Midnight Arcade
+!
+*.foreground:  #f8fafc
+*.background:  #0b1220
+*.cursorColor: #f8fafc
+!
+! Black
+*.color0:      #3f4550
+*.color8:      #3d4452
+!
+! Red
+*.color1:      #fb7185
+*.color9:      #fc8d9d
+!
+! Green
+*.color2:      #22c55e
+*.color10:     #4ed17e
+!
+! Yellow
+*.color3:      #fbbf24
+*.color11:     #fccb4b
+!
+! Blue
+*.color4:      #60a5fa
+*.color12:     #80b7fb
+!
+! Magenta
+*.color5:      #e879f9
+*.color13:     #ed94fa
+!
+! Cyan
+*.color6:      #22d3ee
+*.color14:     #4edcf1
+!
+! White
+*.color7:      #b6c2d5
+*.color15:     #f8fafc
+!
+! Bold, Italic, Underline
+*.colorBD:     #f8fafc
+!*.colorIT:
+!*.colorUL:

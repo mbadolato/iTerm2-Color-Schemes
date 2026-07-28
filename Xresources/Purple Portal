@@ -1,0 +1,43 @@
+!
+! Purple Portal
+!
+*.foreground:  #faf5ff
+*.background:  #160528
+*.cursorColor: #faf5ff
+!
+! Black
+*.color0:      #483a57
+*.color8:      #503872
+!
+! Red
+*.color1:      #fb7185
+*.color9:      #fc8d9d
+!
+! Green
+*.color2:      #34d399
+*.color10:     #5ddcad
+!
+! Yellow
+*.color3:      #f472b6
+*.color11:     #f68bc3
+!
+! Blue
+*.color4:      #facc15
+*.color12:     #fbd644
+!
+! Magenta
+*.color5:      #38bdf8
+*.color13:     #60caf9
+!
+! Cyan
+*.color6:      #580ff0
+*.color14:     #793ff3
+!
+! White
+*.color7:      #d8b4fe
+*.color15:     #faf5ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #faf5ff
+!*.colorIT:
+!*.colorUL:

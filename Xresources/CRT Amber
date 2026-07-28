@@ -1,0 +1,43 @@
+!
+! CRT Amber
+!
+*.foreground:  #fff3c4
+*.background:  #1a1005
+*.cursorColor: #fff3c4
+!
+! Black
+*.color0:      #4c422f
+*.color8:      #544435
+!
+! Red
+*.color1:      #ef4444
+*.color9:      #f26969
+!
+! Green
+*.color2:      #84cc16
+*.color10:     #9dd645
+!
+! Yellow
+*.color3:      #fde68a
+*.color11:     #fdeb9f
+!
+! Blue
+*.color4:      #c084fc
+*.color12:     #cd9dfd
+!
+! Magenta
+*.color5:      #f97316
+*.color13:     #fa8f45
+!
+! Cyan
+*.color6:      #f59e0b
+*.color14:     #f7b13c
+!
+! White
+*.color7:      #d8a657
+*.color15:     #fff3c4
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff3c4
+!*.colorIT:
+!*.colorUL:

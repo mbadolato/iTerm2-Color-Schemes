@@ -1,0 +1,33 @@
+# Colors (Vaporwave Sunset)
+
+[colors.bright]
+black = '#563f6e'
+blue = '#b9a2fb'
+cyan = '#ff72e0'
+green = '#57ddcc'
+magenta = '#4edcf1'
+red = '#fc8d9d'
+white = '#fff7ed'
+yellow = '#fca65f'
+
+[colors.cursor]
+cursor = '#fff7ed'
+text = '#180827'
+
+[colors.normal]
+black = '#4b3d53'
+blue = '#a78bfa'
+cyan = '#ff4fd8'
+green = '#2dd4bf'
+magenta = '#22d3ee'
+red = '#fb7185'
+white = '#f0abfc'
+yellow = '#fb923c'
+
+[colors.primary]
+background = '#180827'
+foreground = '#fff7ed'
+
+[colors.selection]
+background = '#fff7ed'
+text = '#180827'

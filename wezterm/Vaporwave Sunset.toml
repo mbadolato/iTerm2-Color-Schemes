@@ -1,0 +1,12 @@
+# Vaporwave Sunset
+[colors]
+foreground = "#fff7ed"
+background = "#180827"
+cursor_bg = "#fff7ed"
+cursor_border = "#fff7ed"
+cursor_fg = "#180827"
+selection_bg = "#fff7ed"
+selection_fg = "#180827"
+
+ansi = ["#4b3d53","#fb7185","#2dd4bf","#fb923c","#a78bfa","#22d3ee","#ff4fd8","#f0abfc"]
+brights = ["#563f6e","#fc8d9d","#57ddcc","#fca65f","#b9a2fb","#4edcf1","#ff72e0","#fff7ed"]

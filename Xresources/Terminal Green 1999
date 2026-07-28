@@ -1,0 +1,43 @@
+!
+! Terminal Green 1999
+!
+*.foreground:  #d8ffe6
+*.background:  #03120a
+*.cursorColor: #d8ffe6
+!
+! Black
+*.color0:      #32463a
+*.color8:      #274335
+!
+! Red
+*.color1:      #ff5c7a
+*.color9:      #ff7d95
+!
+! Green
+*.color2:      #22c55e
+*.color10:     #4ed17e
+!
+! Yellow
+*.color3:      #00d26a
+*.color11:     #2eda85
+!
+! Blue
+*.color4:      #7dd3fc
+*.color12:     #97dcfd
+!
+! Magenta
+*.color5:      #9dff57
+*.color13:     #b1ff79
+!
+! Cyan
+*.color6:      #39ff88
+*.color14:     #61ffa0
+!
+! White
+*.color7:      #8fd6a9
+*.color15:     #d8ffe6
+!
+! Bold, Italic, Underline
+*.colorBD:     #d8ffe6
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (Purple Portal)
+
+[colors.bright]
+black = '#503872'
+blue = '#fbd644'
+cyan = '#793ff3'
+green = '#5ddcad'
+magenta = '#60caf9'
+red = '#fc8d9d'
+white = '#faf5ff'
+yellow = '#f68bc3'
+
+[colors.cursor]
+cursor = '#faf5ff'
+text = '#160528'
+
+[colors.normal]
+black = '#483a57'
+blue = '#facc15'
+cyan = '#580ff0'
+green = '#34d399'
+magenta = '#38bdf8'
+red = '#fb7185'
+white = '#d8b4fe'
+yellow = '#f472b6'
+
+[colors.primary]
+background = '#160528'
+foreground = '#faf5ff'
+
+[colors.selection]
+background = '#faf5ff'
+text = '#160528'

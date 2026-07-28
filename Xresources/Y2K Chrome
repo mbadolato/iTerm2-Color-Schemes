@@ -1,0 +1,43 @@
+!
+! Y2K Chrome
+!
+*.foreground:  #0f172a
+*.background:  #f1f5f9
+*.cursorColor: #0f172a
+!
+! Black
+*.color0:      #383f4f
+*.color8:      #a3b1c4
+!
+! Red
+*.color1:      #dc2626
+*.color9:      #b01e1e
+!
+! Green
+*.color2:      #15803d
+*.color10:     #116631
+!
+! Yellow
+*.color3:      #0891b2
+*.color11:     #077792
+!
+! Blue
+*.color4:      #f97316
+*.color12:     #c75c12
+!
+! Magenta
+*.color5:      #7c3aed
+*.color13:     #632ebe
+!
+! Cyan
+*.color6:      #2563eb
+*.color14:     #1e4fbc
+!
+! White
+*.color7:      #475569
+*.color15:     #0f172a
+!
+! Bold, Italic, Underline
+*.colorBD:     #0f172a
+!*.colorIT:
+!*.colorUL:

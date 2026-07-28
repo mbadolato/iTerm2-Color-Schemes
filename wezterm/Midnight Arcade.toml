@@ -1,0 +1,12 @@
+# Midnight Arcade
+[colors]
+foreground = "#f8fafc"
+background = "#0b1220"
+cursor_bg = "#f8fafc"
+cursor_border = "#f8fafc"
+cursor_fg = "#0b1220"
+selection_bg = "#f8fafc"
+selection_fg = "#0b1220"
+
+ansi = ["#3f4550","#fb7185","#22c55e","#fbbf24","#60a5fa","#e879f9","#22d3ee","#b6c2d5"]
+brights = ["#3d4452","#fc8d9d","#4ed17e","#fccb4b","#80b7fb","#ed94fa","#4edcf1","#f8fafc"]

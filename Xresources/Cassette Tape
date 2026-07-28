@@ -1,0 +1,43 @@
+!
+! Cassette Tape
+!
+*.foreground:  #2b1b12
+*.background:  #fff7ed
+*.cursorColor: #2b1b12
+!
+! Black
+*.color0:      #514339
+*.color8:      #c4b39a
+!
+! Red
+*.color1:      #b91c1c
+*.color9:      #941616
+!
+! Green
+*.color2:      #3f6212
+*.color10:     #324e0e
+!
+! Yellow
+*.color3:      #be123c
+*.color11:     #9c0f31
+!
+! Blue
+*.color4:      #7c2d12
+*.color12:     #63240e
+!
+! Magenta
+*.color5:      #0f766e
+*.color13:     #0c5e58
+!
+! Cyan
+*.color6:      #b45309
+*.color14:     #904207
+!
+! White
+*.color7:      #6b4f3f
+*.color15:     #2b1b12
+!
+! Bold, Italic, Underline
+*.colorBD:     #2b1b12
+!*.colorIT:
+!*.colorUL:

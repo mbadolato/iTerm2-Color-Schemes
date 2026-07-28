@@ -1,0 +1,12 @@
+# CRT Amber
+[colors]
+foreground = "#fff3c4"
+background = "#1a1005"
+cursor_bg = "#fff3c4"
+cursor_border = "#fff3c4"
+cursor_fg = "#1a1005"
+selection_bg = "#fff3c4"
+selection_fg = "#1a1005"
+
+ansi = ["#4c422f","#ef4444","#84cc16","#fde68a","#c084fc","#f97316","#f59e0b","#d8a657"]
+brights = ["#544435","#f26969","#9dd645","#fdeb9f","#cd9dfd","#fa8f45","#f7b13c","#fff3c4"]

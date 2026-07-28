@@ -1,0 +1,33 @@
+# Colors (Y2K Chrome)
+
+[colors.bright]
+black = '#a3b1c4'
+blue = '#c75c12'
+cyan = '#1e4fbc'
+green = '#116631'
+magenta = '#632ebe'
+red = '#b01e1e'
+white = '#0f172a'
+yellow = '#077792'
+
+[colors.cursor]
+cursor = '#0f172a'
+text = '#f1f5f9'
+
+[colors.normal]
+black = '#383f4f'
+blue = '#f97316'
+cyan = '#2563eb'
+green = '#15803d'
+magenta = '#7c3aed'
+red = '#dc2626'
+white = '#475569'
+yellow = '#0891b2'
+
+[colors.primary]
+background = '#f1f5f9'
+foreground = '#0f172a'
+
+[colors.selection]
+background = '#0f172a'
+text = '#f1f5f9'

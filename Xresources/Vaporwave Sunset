@@ -1,0 +1,43 @@
+!
+! Vaporwave Sunset
+!
+*.foreground:  #fff7ed
+*.background:  #180827
+*.cursorColor: #fff7ed
+!
+! Black
+*.color0:      #4b3d53
+*.color8:      #563f6e
+!
+! Red
+*.color1:      #fb7185
+*.color9:      #fc8d9d
+!
+! Green
+*.color2:      #2dd4bf
+*.color10:     #57ddcc
+!
+! Yellow
+*.color3:      #fb923c
+*.color11:     #fca65f
+!
+! Blue
+*.color4:      #a78bfa
+*.color12:     #b9a2fb
+!
+! Magenta
+*.color5:      #22d3ee
+*.color13:     #4edcf1
+!
+! Cyan
+*.color6:      #ff4fd8
+*.color14:     #ff72e0
+!
+! White
+*.color7:      #f0abfc
+*.color15:     #fff7ed
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff7ed
+!*.colorIT:
+!*.colorUL:

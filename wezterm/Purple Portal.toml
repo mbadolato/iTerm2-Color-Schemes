@@ -1,0 +1,12 @@
+# Purple Portal
+[colors]
+foreground = "#faf5ff"
+background = "#160528"
+cursor_bg = "#faf5ff"
+cursor_border = "#faf5ff"
+cursor_fg = "#160528"
+selection_bg = "#faf5ff"
+selection_fg = "#160528"
+
+ansi = ["#483a57","#fb7185","#34d399","#f472b6","#facc15","#38bdf8","#580ff0","#d8b4fe"]
+brights = ["#503872","#fc8d9d","#5ddcad","#f68bc3","#fbd644","#60caf9","#793ff3","#faf5ff"]

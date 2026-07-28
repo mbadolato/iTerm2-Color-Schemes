@@ -1,0 +1,33 @@
+# Colors (Terminal Green 1999)
+
+[colors.bright]
+black = '#274335'
+blue = '#97dcfd'
+cyan = '#61ffa0'
+green = '#4ed17e'
+magenta = '#b1ff79'
+red = '#ff7d95'
+white = '#d8ffe6'
+yellow = '#2eda85'
+
+[colors.cursor]
+cursor = '#d8ffe6'
+text = '#03120a'
+
+[colors.normal]
+black = '#32463a'
+blue = '#7dd3fc'
+cyan = '#39ff88'
+green = '#22c55e'
+magenta = '#9dff57'
+red = '#ff5c7a'
+white = '#8fd6a9'
+yellow = '#00d26a'
+
+[colors.primary]
+background = '#03120a'
+foreground = '#d8ffe6'
+
+[colors.selection]
+background = '#d8ffe6'
+text = '#03120a'

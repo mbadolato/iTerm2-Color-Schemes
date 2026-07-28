@@ -1,0 +1,33 @@
+# Colors (CRT Amber)
+
+[colors.bright]
+black = '#544435'
+blue = '#cd9dfd'
+cyan = '#f7b13c'
+green = '#9dd645'
+magenta = '#fa8f45'
+red = '#f26969'
+white = '#fff3c4'
+yellow = '#fdeb9f'
+
+[colors.cursor]
+cursor = '#fff3c4'
+text = '#1a1005'
+
+[colors.normal]
+black = '#4c422f'
+blue = '#c084fc'
+cyan = '#f59e0b'
+green = '#84cc16'
+magenta = '#f97316'
+red = '#ef4444'
+white = '#d8a657'
+yellow = '#fde68a'
+
+[colors.primary]
+background = '#1a1005'
+foreground = '#fff3c4'
+
+[colors.selection]
+background = '#fff3c4'
+text = '#1a1005'

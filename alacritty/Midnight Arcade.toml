@@ -1,0 +1,33 @@
+# Colors (Midnight Arcade)
+
+[colors.bright]
+black = '#3d4452'
+blue = '#80b7fb'
+cyan = '#4edcf1'
+green = '#4ed17e'
+magenta = '#ed94fa'
+red = '#fc8d9d'
+white = '#f8fafc'
+yellow = '#fccb4b'
+
+[colors.cursor]
+cursor = '#f8fafc'
+text = '#0b1220'
+
+[colors.normal]
+black = '#3f4550'
+blue = '#60a5fa'
+cyan = '#22d3ee'
+green = '#22c55e'
+magenta = '#e879f9'
+red = '#fb7185'
+white = '#b6c2d5'
+yellow = '#fbbf24'
+
+[colors.primary]
+background = '#0b1220'
+foreground = '#f8fafc'
+
+[colors.selection]
+background = '#f8fafc'
+text = '#0b1220'
