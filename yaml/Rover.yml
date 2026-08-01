@@ -1,0 +1,30 @@
+# Rover — contributed from TermDeck (https://github.com/iCosiSenpai/termdeck).
+# Contrast-audited: every colour used as text clears WCAG AA (4.5:1) against
+# this background. ANSI 0 is the structural 'black' slot and is exempt.
+name: "Rover"
+
+color_01: "#141a26"
+color_02: "#e2707a"
+color_03: "#93c9a2"
+color_04: "#d9b56b"
+color_05: "#6a9fd0"
+color_06: "#b49ad8"
+color_07: "#5fd0e0"
+color_08: "#dee5ef"
+
+color_09: "#9dabbd"
+color_10: "#ef8b93"
+color_11: "#aedcba"
+color_12: "#e8c98a"
+color_13: "#8fbce8"
+color_14: "#cbb4e6"
+color_15: "#8fe4f0"
+color_16: "#f4f7fb"
+
+background: "#0a0d14"
+foreground: "#f5f8fd"
+cursor: "#7fdcea"
+cursor_text: "#0a0d14"
+selection: "#223047"
+selection_text: "#f4f7fb"
+link: "#6a9fd0"

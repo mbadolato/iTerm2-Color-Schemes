@@ -573,3 +573,6 @@ The Modus Operandi Deuteranopia, Modus Operandi Tritanopia, Modus Vivendi Deuter
 The Noctis theme family (Noctis, Noctis Azureus, Noctis Bordo, Noctis Hibernus, Noctis Lilac, Noctis Lux, Noctis Minimus, Noctis Obscuro, Noctis Sereno, Noctis Uva, and Noctis Viola) was created by [Liviu Schera](https://github.com/liviuschera) as a [VS Code theme family](https://github.com/liviuschera/noctis). Terminal ANSI values are pulled directly from each variant's `themes/*.json` file in the upstream repo. Ported to iTerm2 format by [Abel Dantas](https://github.com/abeldantas).
 
 The datum (dark) and datum (light) themes were created by [w0zro](https://github.com/w0zro) as [datum](https://github.com/w0zro/datum), a colorscheme derived in OKLCH from the colorblind-safe Okabe-Ito hues and verified against WCAG 2.2 and APCA contrast.
+
+
+The Moonwire and Rover themes were created by [iCosiSenpai](https://github.com/iCosiSenpai) for [TermDeck](https://github.com/iCosiSenpai/termdeck), a terminal theme launcher. Moonwire is lunar-cyberpunk — signal yellow and ice cyan over near-black navy; Rover is silver, black-and-gold and cyan resonance. Both palettes are contrast-audited: every colour used as text clears WCAG AA (4.5:1) against its own background, ANSI 0 aside, since that slot is a background rather than a text colour.

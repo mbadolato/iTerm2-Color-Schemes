@@ -1,0 +1,43 @@
+!
+! Rover
+!
+*.foreground:  #f5f8fd
+*.background:  #0a0d14
+*.cursorColor: #7fdcea
+!
+! Black
+*.color0:      #141a26
+*.color8:      #9dabbd
+!
+! Red
+*.color1:      #e2707a
+*.color9:      #ef8b93
+!
+! Green
+*.color2:      #93c9a2
+*.color10:     #aedcba
+!
+! Yellow
+*.color3:      #d9b56b
+*.color11:     #e8c98a
+!
+! Blue
+*.color4:      #6a9fd0
+*.color12:     #8fbce8
+!
+! Magenta
+*.color5:      #b49ad8
+*.color13:     #cbb4e6
+!
+! Cyan
+*.color6:      #5fd0e0
+*.color14:     #8fe4f0
+!
+! White
+*.color7:      #dee5ef
+*.color15:     #f4f7fb
+!
+! Bold, Italic, Underline
+*.colorBD:     #f5f8fd
+!*.colorIT:
+!*.colorUL:

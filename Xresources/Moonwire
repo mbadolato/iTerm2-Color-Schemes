@@ -1,0 +1,43 @@
+!
+! Moonwire
+!
+*.foreground:  #f6fbff
+*.background:  #040812
+*.cursorColor: #dfff3f
+!
+! Black
+*.color0:      #07101f
+*.color8:      #a3b8ce
+!
+! Red
+*.color1:      #ff5470
+*.color9:      #ff7b91
+!
+! Green
+*.color2:      #62e6a7
+*.color10:     #8af0c1
+!
+! Yellow
+*.color3:      #dfff3f
+*.color11:     #edff7a
+!
+! Blue
+*.color4:      #4e9dff
+*.color12:     #78b8ff
+!
+! Magenta
+*.color5:      #b68cff
+*.color13:     #d2b1ff
+!
+! Cyan
+*.color6:      #42d9f5
+*.color14:     #79ecff
+!
+! White
+*.color7:      #e8f2fc
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f6fbff
+!*.colorIT:
+!*.colorUL:

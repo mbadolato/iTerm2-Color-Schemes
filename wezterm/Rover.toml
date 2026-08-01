@@ -1,0 +1,12 @@
+# Rover
+[colors]
+foreground = "#f5f8fd"
+background = "#0a0d14"
+cursor_bg = "#7fdcea"
+cursor_border = "#7fdcea"
+cursor_fg = "#0a0d14"
+selection_bg = "#223047"
+selection_fg = "#f4f7fb"
+
+ansi = ["#141a26","#e2707a","#93c9a2","#d9b56b","#6a9fd0","#b49ad8","#5fd0e0","#dee5ef"]
+brights = ["#9dabbd","#ef8b93","#aedcba","#e8c98a","#8fbce8","#cbb4e6","#8fe4f0","#f4f7fb"]

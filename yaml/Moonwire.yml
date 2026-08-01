@@ -1,0 +1,30 @@
+# Moonwire — contributed from TermDeck (https://github.com/iCosiSenpai/termdeck).
+# Contrast-audited: every colour used as text clears WCAG AA (4.5:1) against
+# this background. ANSI 0 is the structural 'black' slot and is exempt.
+name: "Moonwire"
+
+color_01: "#07101f"
+color_02: "#ff5470"
+color_03: "#62e6a7"
+color_04: "#dfff3f"
+color_05: "#4e9dff"
+color_06: "#b68cff"
+color_07: "#42d9f5"
+color_08: "#e8f2fc"
+
+color_09: "#a3b8ce"
+color_10: "#ff7b91"
+color_11: "#8af0c1"
+color_12: "#edff7a"
+color_13: "#78b8ff"
+color_14: "#d2b1ff"
+color_15: "#79ecff"
+color_16: "#ffffff"
+
+background: "#040812"
+foreground: "#f6fbff"
+cursor: "#dfff3f"
+cursor_text: "#071018"
+selection: "#17375d"
+selection_text: "#ffffff"
+link: "#4e9dff"

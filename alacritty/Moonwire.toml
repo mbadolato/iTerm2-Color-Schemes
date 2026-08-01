@@ -1,0 +1,33 @@
+# Colors (Moonwire)
+
+[colors.bright]
+black = '#a3b8ce'
+blue = '#78b8ff'
+cyan = '#79ecff'
+green = '#8af0c1'
+magenta = '#d2b1ff'
+red = '#ff7b91'
+white = '#ffffff'
+yellow = '#edff7a'
+
+[colors.cursor]
+cursor = '#dfff3f'
+text = '#071018'
+
+[colors.normal]
+black = '#07101f'
+blue = '#4e9dff'
+cyan = '#42d9f5'
+green = '#62e6a7'
+magenta = '#b68cff'
+red = '#ff5470'
+white = '#e8f2fc'
+yellow = '#dfff3f'
+
+[colors.primary]
+background = '#040812'
+foreground = '#f6fbff'
+
+[colors.selection]
+background = '#17375d'
+text = '#ffffff'

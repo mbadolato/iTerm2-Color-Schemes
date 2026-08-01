@@ -1334,6 +1334,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/moonfly.png)
 
+### Moonwire
+
+![Screenshot](/screenshots/moonwire.png)
+
 ### N0Tch2K
 
 ![Screenshot](/screenshots/n0tch2k.png)
@@ -1657,6 +1661,10 @@ The screenshots are categorized.
 ### Rouge 2
 
 ![Screenshot](/screenshots/rouge-2.png)
+
+### Rover
+
+![Screenshot](/screenshots/rover.png)
 
 ### Royal
 
