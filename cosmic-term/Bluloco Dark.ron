@@ -3,35 +3,38 @@
     foreground: "#b9c0cb",
     cursor: "#ffcc00",
     bright_foreground: "#b9c0cb",
-    dim_foreground: "#8f9aae",
+    dim_foreground: "#41444d",
+
     normal: (
-        black: "#cdd4e0",
+        black: "#41444d",
         red: "#fc2f52",
         green: "#25a45c",
         yellow: "#ff936a",
         blue: "#3476ff",
         magenta: "#7a82da",
         cyan: "#4483aa",
-        white: "#8f9aae"
+        white: "#cdd4e0"
     ),
+
     bright: (
-        black: "#ffffff",
-        red: "#fc2f52",
-        green: "#25a45c",
-        yellow: "#ff936a",
-        blue: "#3476ff",
-        magenta: "#7a82da",
-        cyan: "#4483aa",
-        white: "#8f9aae"
+        black: "#8f9aae",
+        red: "#ff6480",
+        green: "#3fc56b",
+        yellow: "#f9c859",
+        blue: "#10b1fe",
+        magenta: "#ff78f8",
+        cyan: "#5fb9bc",
+        white: "#ffffff"
     ),
+
     dim: (
-        black: "#cdd4e0",
+        black: "#41444d",
         red: "#fc2f52",
         green: "#25a45c",
         yellow: "#ff936a",
         blue: "#3476ff",
         magenta: "#7a82da",
         cyan: "#4483aa",
-        white: "#8f9aae"
+        white: "#cdd4e0"
     ),
 )

@@ -3,18 +3,9 @@
     foreground: "#1c1f24",
     cursor: "#9676d0",
     bright_foreground: "#1c1f24",
-    dim_foreground: "#999999",
+    dim_foreground: "#1c1f24",
+
     normal: (
-        black: "#5a5860",
-        red: "#e07a90",
-        green: "#4a9a4c",
-        yellow: "#d49a26",
-        blue: "#6688b8",
-        magenta: "#7c5ab0",
-        cyan: "#6688b8",
-        white: "#999999"
-    ),
-    bright: (
         black: "#1c1f24",
         red: "#e07a90",
         green: "#4a9a4c",
@@ -22,16 +13,28 @@
         blue: "#6688b8",
         magenta: "#7c5ab0",
         cyan: "#6688b8",
-        white: "#999999"
+        white: "#5a5860"
     ),
+
+    bright: (
+        black: "#999999",
+        red: "#e07a90",
+        green: "#4a9a4c",
+        yellow: "#e0a040",
+        blue: "#6688b8",
+        magenta: "#9676d0",
+        cyan: "#6688b8",
+        white: "#1c1f24"
+    ),
+
     dim: (
-        black: "#5a5860",
+        black: "#1c1f24",
         red: "#e07a90",
         green: "#4a9a4c",
         yellow: "#d49a26",
         blue: "#6688b8",
         magenta: "#7c5ab0",
         cyan: "#6688b8",
-        white: "#999999"
+        white: "#5a5860"
     ),
 )

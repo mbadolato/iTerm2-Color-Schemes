@@ -3,35 +3,38 @@
     foreground: "#000000",
     cursor: "#4d2d9a",
     bright_foreground: "#000000",
-    dim_foreground: "#999999",
+    dim_foreground: "#000000",
+
     normal: (
-        black: "#2e2c30",
+        black: "#000000",
         red: "#c01650",
         green: "#1a6e1c",
         yellow: "#9c6800",
         blue: "#2f5e9e",
         magenta: "#4d2d9a",
         cyan: "#2f5e9e",
-        white: "#999999"
+        white: "#2e2c30"
     ),
+
     bright: (
-        black: "#0a0e14",
+        black: "#999999",
         red: "#c01650",
         green: "#1a6e1c",
         yellow: "#9c6800",
         blue: "#2f5e9e",
         magenta: "#4d2d9a",
         cyan: "#2f5e9e",
-        white: "#999999"
+        white: "#0a0e14"
     ),
+
     dim: (
-        black: "#2e2c30",
+        black: "#000000",
         red: "#c01650",
         green: "#1a6e1c",
         yellow: "#9c6800",
         blue: "#2f5e9e",
         magenta: "#4d2d9a",
         cyan: "#2f5e9e",
-        white: "#999999"
+        white: "#2e2c30"
     ),
 )

@@ -4,6 +4,7 @@
     cursor: "#303030",
     bright_foreground: "#303030",
     dim_foreground: "#303030",
+
     normal: (
         black: "#303030",
         red: "#a31700",
@@ -14,6 +15,7 @@
         cyan: "#00798a",
         white: "#303030"
     ),
+
     bright: (
         black: "#303030",
         red: "#a31700",
@@ -24,6 +26,7 @@
         cyan: "#00798a",
         white: "#303030"
     ),
+
     dim: (
         black: "#303030",
         red: "#a31700",
