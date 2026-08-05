@@ -1,1 +1,37 @@
-(name:"Paraiso Dark",foreground:"#a39e9b",cursor:"#a39e9b",bright_foreground:"#a39e9b",dim_foreground:"#FF0000",normal:(black:"#2f1e2e",red:"#ef6155",green:"#48b685",yellow:"#fec418",blue:"#06b6ef",magenta:"#815ba4",cyan:"#5bc4bf",white:"#a39e9b"),bright:(black:"#776e71",red:"#ef6155",green:"#48b685",yellow:"#fec418",blue:"#06b6ef",magenta:"#815ba4",cyan:"#5bc4bf",white:"#e7e9db"),dim:(black:"#2f1e2e",red:"#ef6155",green:"#48b685",yellow:"#fec418",blue:"#06b6ef",magenta:"#815ba4",cyan:"#5bc4bf",white:"#a39e9b"))
+(
+    name: "Paraiso Dark",
+    foreground: "#a39e9b",
+    cursor: "#a39e9b",
+    bright_foreground: "#a39e9b",
+    dim_foreground: "#776e71",
+    normal: (
+        black: "#a39e9b",
+        red: "#ef6155",
+        green: "#48b685",
+        yellow: "#fec418",
+        blue: "#06b6ef",
+        magenta: "#815ba4",
+        cyan: "#5bc4bf",
+        white: "#776e71"
+    ),
+    bright: (
+        black: "#e7e9db",
+        red: "#ef6155",
+        green: "#48b685",
+        yellow: "#fec418",
+        blue: "#06b6ef",
+        magenta: "#815ba4",
+        cyan: "#5bc4bf",
+        white: "#776e71"
+    ),
+    dim: (
+        black: "#a39e9b",
+        red: "#ef6155",
+        green: "#48b685",
+        yellow: "#fec418",
+        blue: "#06b6ef",
+        magenta: "#815ba4",
+        cyan: "#5bc4bf",
+        white: "#776e71"
+    ),
+)

@@ -1,1 +1,37 @@
-(name:"Green Phosphor CRT",foreground:"#33ff33",cursor:"#33ff33",bright_foreground:"#33ff33",dim_foreground:"#FF0000",normal:(black:"#002200",red:"#00aa00",green:"#33ff33",yellow:"#66ff66",blue:"#00cc44",magenta:"#00ff88",cyan:"#66ffaa",white:"#b6ffb6"),bright:(black:"#0a5a0a",red:"#19cc19",green:"#66ff66",yellow:"#99ff99",blue:"#33ff77",magenta:"#66ffaa",cyan:"#99ffcc",white:"#e6ffe6"),dim:(black:"#002200",red:"#00aa00",green:"#33ff33",yellow:"#66ff66",blue:"#00cc44",magenta:"#00ff88",cyan:"#66ffaa",white:"#b6ffb6"))
+(
+    name: "Green Phosphor CRT",
+    foreground: "#33ff33",
+    cursor: "#33ff33",
+    bright_foreground: "#33ff33",
+    dim_foreground: "#0a5a0a",
+    normal: (
+        black: "#b6ffb6",
+        red: "#00aa00",
+        green: "#33ff33",
+        yellow: "#66ff66",
+        blue: "#00cc44",
+        magenta: "#00ff88",
+        cyan: "#66ffaa",
+        white: "#0a5a0a"
+    ),
+    bright: (
+        black: "#e6ffe6",
+        red: "#00aa00",
+        green: "#33ff33",
+        yellow: "#66ff66",
+        blue: "#00cc44",
+        magenta: "#00ff88",
+        cyan: "#66ffaa",
+        white: "#0a5a0a"
+    ),
+    dim: (
+        black: "#b6ffb6",
+        red: "#00aa00",
+        green: "#33ff33",
+        yellow: "#66ff66",
+        blue: "#00cc44",
+        magenta: "#00ff88",
+        cyan: "#66ffaa",
+        white: "#0a5a0a"
+    ),
+)

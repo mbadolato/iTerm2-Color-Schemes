@@ -1,1 +1,37 @@
-(name:"Tango Adapted",foreground:"#000000",cursor:"#000000",bright_foreground:"#000000",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#ff0000",green:"#59d600",yellow:"#e3be00",blue:"#00a2ff",magenta:"#c17ecc",cyan:"#00d0d6",white:"#c0c5bb"),bright:(black:"#8f928b",red:"#ff0013",green:"#6dd900",yellow:"#ccbe00",blue:"#88c9ff",magenta:"#e9a7e1",cyan:"#00d8d9",white:"#f6f6f4"),dim:(black:"#000000",red:"#ff0000",green:"#59d600",yellow:"#e3be00",blue:"#00a2ff",magenta:"#c17ecc",cyan:"#00d0d6",white:"#c0c5bb"))
+(
+    name: "Tango Adapted",
+    foreground: "#000000",
+    cursor: "#000000",
+    bright_foreground: "#000000",
+    dim_foreground: "#8f928b",
+    normal: (
+        black: "#c0c5bb",
+        red: "#ff0000",
+        green: "#59d600",
+        yellow: "#e3be00",
+        blue: "#00a2ff",
+        magenta: "#c17ecc",
+        cyan: "#00d0d6",
+        white: "#8f928b"
+    ),
+    bright: (
+        black: "#f6f6f4",
+        red: "#ff0000",
+        green: "#59d600",
+        yellow: "#e3be00",
+        blue: "#00a2ff",
+        magenta: "#c17ecc",
+        cyan: "#00d0d6",
+        white: "#8f928b"
+    ),
+    dim: (
+        black: "#c0c5bb",
+        red: "#ff0000",
+        green: "#59d600",
+        yellow: "#e3be00",
+        blue: "#00a2ff",
+        magenta: "#c17ecc",
+        cyan: "#00d0d6",
+        white: "#8f928b"
+    ),
+)

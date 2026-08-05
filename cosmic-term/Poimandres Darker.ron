@@ -1,1 +1,37 @@
-(name:"Poimandres Darker",foreground:"#a6accd",cursor:"#ffffff",bright_foreground:"#a6accd",dim_foreground:"#FF0000",normal:(black:"#16161e",red:"#d0679d",green:"#5de4c7",yellow:"#fffac2",blue:"#89ddff",magenta:"#fcc5e9",cyan:"#add7ff",white:"#ffffff"),bright:(black:"#a6accd",red:"#d0679d",green:"#5de4c7",yellow:"#fffac2",blue:"#add7ff",magenta:"#fae4fc",cyan:"#89ddff",white:"#ffffff"),dim:(black:"#16161e",red:"#d0679d",green:"#5de4c7",yellow:"#fffac2",blue:"#89ddff",magenta:"#fcc5e9",cyan:"#add7ff",white:"#ffffff"))
+(
+    name: "Poimandres Darker",
+    foreground: "#a6accd",
+    cursor: "#ffffff",
+    bright_foreground: "#a6accd",
+    dim_foreground: "#a6accd",
+    normal: (
+        black: "#ffffff",
+        red: "#d0679d",
+        green: "#5de4c7",
+        yellow: "#fffac2",
+        blue: "#89ddff",
+        magenta: "#fcc5e9",
+        cyan: "#add7ff",
+        white: "#a6accd"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#d0679d",
+        green: "#5de4c7",
+        yellow: "#fffac2",
+        blue: "#89ddff",
+        magenta: "#fcc5e9",
+        cyan: "#add7ff",
+        white: "#a6accd"
+    ),
+    dim: (
+        black: "#ffffff",
+        red: "#d0679d",
+        green: "#5de4c7",
+        yellow: "#fffac2",
+        blue: "#89ddff",
+        magenta: "#fcc5e9",
+        cyan: "#add7ff",
+        white: "#a6accd"
+    ),
+)

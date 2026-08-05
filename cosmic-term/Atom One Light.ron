@@ -1,1 +1,37 @@
-(name:"Atom One Light",foreground:"#2a2c33",cursor:"#bbbbbb",bright_foreground:"#2a2c33",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#de3e35",green:"#3f953a",yellow:"#d2b67c",blue:"#2f5af3",magenta:"#950095",cyan:"#3f953a",white:"#bbbbbb"),bright:(black:"#000000",red:"#de3e35",green:"#3f953a",yellow:"#d2b67c",blue:"#2f5af3",magenta:"#a00095",cyan:"#3f953a",white:"#ffffff"),dim:(black:"#000000",red:"#de3e35",green:"#3f953a",yellow:"#d2b67c",blue:"#2f5af3",magenta:"#950095",cyan:"#3f953a",white:"#bbbbbb"))
+(
+    name: "Atom One Light",
+    foreground: "#2a2c33",
+    cursor: "#bbbbbb",
+    bright_foreground: "#2a2c33",
+    dim_foreground: "#000000",
+    normal: (
+        black: "#bbbbbb",
+        red: "#de3e35",
+        green: "#3f953a",
+        yellow: "#d2b67c",
+        blue: "#2f5af3",
+        magenta: "#950095",
+        cyan: "#3f953a",
+        white: "#000000"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#de3e35",
+        green: "#3f953a",
+        yellow: "#d2b67c",
+        blue: "#2f5af3",
+        magenta: "#950095",
+        cyan: "#3f953a",
+        white: "#000000"
+    ),
+    dim: (
+        black: "#bbbbbb",
+        red: "#de3e35",
+        green: "#3f953a",
+        yellow: "#d2b67c",
+        blue: "#2f5af3",
+        magenta: "#950095",
+        cyan: "#3f953a",
+        white: "#000000"
+    ),
+)

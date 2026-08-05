@@ -1,1 +1,37 @@
-(name:"Popping And Locking",foreground:"#ebdbb2",cursor:"#c7c7c7",bright_foreground:"#ebdbb2",dim_foreground:"#FF0000",normal:(black:"#1d2021",red:"#cc241d",green:"#98971a",yellow:"#d79921",blue:"#458588",magenta:"#b16286",cyan:"#689d6a",white:"#a89984"),bright:(black:"#928374",red:"#f42c3e",green:"#b8bb26",yellow:"#fabd2f",blue:"#99c6ca",magenta:"#d3869b",cyan:"#7ec16e",white:"#ebdbb2"),dim:(black:"#1d2021",red:"#cc241d",green:"#98971a",yellow:"#d79921",blue:"#458588",magenta:"#b16286",cyan:"#689d6a",white:"#a89984"))
+(
+    name: "Popping And Locking",
+    foreground: "#ebdbb2",
+    cursor: "#c7c7c7",
+    bright_foreground: "#ebdbb2",
+    dim_foreground: "#928374",
+    normal: (
+        black: "#a89984",
+        red: "#cc241d",
+        green: "#98971a",
+        yellow: "#d79921",
+        blue: "#458588",
+        magenta: "#b16286",
+        cyan: "#689d6a",
+        white: "#928374"
+    ),
+    bright: (
+        black: "#ebdbb2",
+        red: "#cc241d",
+        green: "#98971a",
+        yellow: "#d79921",
+        blue: "#458588",
+        magenta: "#b16286",
+        cyan: "#689d6a",
+        white: "#928374"
+    ),
+    dim: (
+        black: "#a89984",
+        red: "#cc241d",
+        green: "#98971a",
+        yellow: "#d79921",
+        blue: "#458588",
+        magenta: "#b16286",
+        cyan: "#689d6a",
+        white: "#928374"
+    ),
+)

@@ -1,1 +1,37 @@
-(name:"Wilmersdorf",foreground:"#c6c6c6",cursor:"#7ebebd",bright_foreground:"#c6c6c6",dim_foreground:"#FF0000",normal:(black:"#34373e",red:"#e06383",green:"#7ebebd",yellow:"#cccccc",blue:"#a6c1e0",magenta:"#e1c1ee",cyan:"#5b94ab",white:"#ababab"),bright:(black:"#50545d",red:"#fa7193",green:"#8fd7d6",yellow:"#d1dfff",blue:"#b2cff0",magenta:"#efccfd",cyan:"#69abc5",white:"#d3d3d3"),dim:(black:"#34373e",red:"#e06383",green:"#7ebebd",yellow:"#cccccc",blue:"#a6c1e0",magenta:"#e1c1ee",cyan:"#5b94ab",white:"#ababab"))
+(
+    name: "Wilmersdorf",
+    foreground: "#c6c6c6",
+    cursor: "#7ebebd",
+    bright_foreground: "#c6c6c6",
+    dim_foreground: "#50545d",
+    normal: (
+        black: "#ababab",
+        red: "#e06383",
+        green: "#7ebebd",
+        yellow: "#cccccc",
+        blue: "#a6c1e0",
+        magenta: "#e1c1ee",
+        cyan: "#5b94ab",
+        white: "#50545d"
+    ),
+    bright: (
+        black: "#d3d3d3",
+        red: "#e06383",
+        green: "#7ebebd",
+        yellow: "#cccccc",
+        blue: "#a6c1e0",
+        magenta: "#e1c1ee",
+        cyan: "#5b94ab",
+        white: "#50545d"
+    ),
+    dim: (
+        black: "#ababab",
+        red: "#e06383",
+        green: "#7ebebd",
+        yellow: "#cccccc",
+        blue: "#a6c1e0",
+        magenta: "#e1c1ee",
+        cyan: "#5b94ab",
+        white: "#50545d"
+    ),
+)

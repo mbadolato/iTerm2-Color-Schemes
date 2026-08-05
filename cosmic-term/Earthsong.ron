@@ -1,1 +1,37 @@
-(name:"Earthsong",foreground:"#e5c7a9",cursor:"#f6f7ec",bright_foreground:"#e5c7a9",dim_foreground:"#FF0000",normal:(black:"#121418",red:"#c94234",green:"#85c54c",yellow:"#f5ae2e",blue:"#1398b9",magenta:"#d0633d",cyan:"#509552",white:"#e5c6aa"),bright:(black:"#675f54",red:"#ff645a",green:"#98e036",yellow:"#e0d561",blue:"#5fdaff",magenta:"#ff9269",cyan:"#84f088",white:"#f6f7ec"),dim:(black:"#121418",red:"#c94234",green:"#85c54c",yellow:"#f5ae2e",blue:"#1398b9",magenta:"#d0633d",cyan:"#509552",white:"#e5c6aa"))
+(
+    name: "Earthsong",
+    foreground: "#e5c7a9",
+    cursor: "#f6f7ec",
+    bright_foreground: "#e5c7a9",
+    dim_foreground: "#675f54",
+    normal: (
+        black: "#e5c6aa",
+        red: "#c94234",
+        green: "#85c54c",
+        yellow: "#f5ae2e",
+        blue: "#1398b9",
+        magenta: "#d0633d",
+        cyan: "#509552",
+        white: "#675f54"
+    ),
+    bright: (
+        black: "#f6f7ec",
+        red: "#c94234",
+        green: "#85c54c",
+        yellow: "#f5ae2e",
+        blue: "#1398b9",
+        magenta: "#d0633d",
+        cyan: "#509552",
+        white: "#675f54"
+    ),
+    dim: (
+        black: "#e5c6aa",
+        red: "#c94234",
+        green: "#85c54c",
+        yellow: "#f5ae2e",
+        blue: "#1398b9",
+        magenta: "#d0633d",
+        cyan: "#509552",
+        white: "#675f54"
+    ),
+)

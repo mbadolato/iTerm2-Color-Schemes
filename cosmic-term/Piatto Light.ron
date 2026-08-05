@@ -1,1 +1,37 @@
-(name:"Piatto Light",foreground:"#414141",cursor:"#5e77c8",bright_foreground:"#414141",dim_foreground:"#FF0000",normal:(black:"#414141",red:"#b23771",green:"#66781e",yellow:"#cd6f34",blue:"#3c5ea8",magenta:"#a454b2",cyan:"#66781e",white:"#bfbfbf"),bright:(black:"#3f3f3f",red:"#db3365",green:"#829429",yellow:"#cd6f34",blue:"#3c5ea8",magenta:"#a454b2",cyan:"#829429",white:"#f2f2f2"),dim:(black:"#414141",red:"#b23771",green:"#66781e",yellow:"#cd6f34",blue:"#3c5ea8",magenta:"#a454b2",cyan:"#66781e",white:"#bfbfbf"))
+(
+    name: "Piatto Light",
+    foreground: "#414141",
+    cursor: "#5e77c8",
+    bright_foreground: "#414141",
+    dim_foreground: "#3f3f3f",
+    normal: (
+        black: "#bfbfbf",
+        red: "#b23771",
+        green: "#66781e",
+        yellow: "#cd6f34",
+        blue: "#3c5ea8",
+        magenta: "#a454b2",
+        cyan: "#66781e",
+        white: "#3f3f3f"
+    ),
+    bright: (
+        black: "#f2f2f2",
+        red: "#b23771",
+        green: "#66781e",
+        yellow: "#cd6f34",
+        blue: "#3c5ea8",
+        magenta: "#a454b2",
+        cyan: "#66781e",
+        white: "#3f3f3f"
+    ),
+    dim: (
+        black: "#bfbfbf",
+        red: "#b23771",
+        green: "#66781e",
+        yellow: "#cd6f34",
+        blue: "#3c5ea8",
+        magenta: "#a454b2",
+        cyan: "#66781e",
+        white: "#3f3f3f"
+    ),
+)

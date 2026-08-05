@@ -1,1 +1,37 @@
-(name:"Sugarplum",foreground:"#db7ddd",cursor:"#53b397",bright_foreground:"#db7ddd",dim_foreground:"#FF0000",normal:(black:"#111147",red:"#5ca8dc",green:"#53b397",yellow:"#249a84",blue:"#db7ddd",magenta:"#d0beee",cyan:"#f9f3f9",white:"#a175d4"),bright:(black:"#44447a",red:"#5cb5dc",green:"#52deb5",yellow:"#01f5c7",blue:"#fa5dfd",magenta:"#c6a5fd",cyan:"#ffffff",white:"#b577fd"),dim:(black:"#111147",red:"#5ca8dc",green:"#53b397",yellow:"#249a84",blue:"#db7ddd",magenta:"#d0beee",cyan:"#f9f3f9",white:"#a175d4"))
+(
+    name: "Sugarplum",
+    foreground: "#db7ddd",
+    cursor: "#53b397",
+    bright_foreground: "#db7ddd",
+    dim_foreground: "#44447a",
+    normal: (
+        black: "#a175d4",
+        red: "#5ca8dc",
+        green: "#53b397",
+        yellow: "#249a84",
+        blue: "#db7ddd",
+        magenta: "#d0beee",
+        cyan: "#f9f3f9",
+        white: "#44447a"
+    ),
+    bright: (
+        black: "#b577fd",
+        red: "#5ca8dc",
+        green: "#53b397",
+        yellow: "#249a84",
+        blue: "#db7ddd",
+        magenta: "#d0beee",
+        cyan: "#f9f3f9",
+        white: "#44447a"
+    ),
+    dim: (
+        black: "#a175d4",
+        red: "#5ca8dc",
+        green: "#53b397",
+        yellow: "#249a84",
+        blue: "#db7ddd",
+        magenta: "#d0beee",
+        cyan: "#f9f3f9",
+        white: "#44447a"
+    ),
+)

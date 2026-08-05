@@ -1,1 +1,37 @@
-(name:"Black Metal (Gorgoroth)",foreground:"#c1c1c1",cursor:"#c1c1c1",bright_foreground:"#c1c1c1",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#5f8787",green:"#9b8d7f",yellow:"#8c7f70",blue:"#888888",magenta:"#999999",cyan:"#aaaaaa",white:"#c1c1c1"),bright:(black:"#404040",red:"#5f8787",green:"#9b8d7f",yellow:"#8c7f70",blue:"#888888",magenta:"#999999",cyan:"#aaaaaa",white:"#c1c1c1"),dim:(black:"#000000",red:"#5f8787",green:"#9b8d7f",yellow:"#8c7f70",blue:"#888888",magenta:"#999999",cyan:"#aaaaaa",white:"#c1c1c1"))
+(
+    name: "Black Metal (Gorgoroth)",
+    foreground: "#c1c1c1",
+    cursor: "#c1c1c1",
+    bright_foreground: "#c1c1c1",
+    dim_foreground: "#404040",
+    normal: (
+        black: "#c1c1c1",
+        red: "#5f8787",
+        green: "#9b8d7f",
+        yellow: "#8c7f70",
+        blue: "#888888",
+        magenta: "#999999",
+        cyan: "#aaaaaa",
+        white: "#404040"
+    ),
+    bright: (
+        black: "#c1c1c1",
+        red: "#5f8787",
+        green: "#9b8d7f",
+        yellow: "#8c7f70",
+        blue: "#888888",
+        magenta: "#999999",
+        cyan: "#aaaaaa",
+        white: "#404040"
+    ),
+    dim: (
+        black: "#c1c1c1",
+        red: "#5f8787",
+        green: "#9b8d7f",
+        yellow: "#8c7f70",
+        blue: "#888888",
+        magenta: "#999999",
+        cyan: "#aaaaaa",
+        white: "#404040"
+    ),
+)

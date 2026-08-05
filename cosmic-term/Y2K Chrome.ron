@@ -1,1 +1,37 @@
-(name:"Y2K Chrome",foreground:"#0f172a",cursor:"#0f172a",bright_foreground:"#0f172a",dim_foreground:"#FF0000",normal:(black:"#383f4f",red:"#dc2626",green:"#15803d",yellow:"#0891b2",blue:"#f97316",magenta:"#7c3aed",cyan:"#2563eb",white:"#475569"),bright:(black:"#a3b1c4",red:"#b01e1e",green:"#116631",yellow:"#077792",blue:"#c75c12",magenta:"#632ebe",cyan:"#1e4fbc",white:"#0f172a"),dim:(black:"#383f4f",red:"#dc2626",green:"#15803d",yellow:"#0891b2",blue:"#f97316",magenta:"#7c3aed",cyan:"#2563eb",white:"#475569"))
+(
+    name: "Y2K Chrome",
+    foreground: "#0f172a",
+    cursor: "#0f172a",
+    bright_foreground: "#0f172a",
+    dim_foreground: "#a3b1c4",
+    normal: (
+        black: "#475569",
+        red: "#dc2626",
+        green: "#15803d",
+        yellow: "#0891b2",
+        blue: "#f97316",
+        magenta: "#7c3aed",
+        cyan: "#2563eb",
+        white: "#a3b1c4"
+    ),
+    bright: (
+        black: "#0f172a",
+        red: "#dc2626",
+        green: "#15803d",
+        yellow: "#0891b2",
+        blue: "#f97316",
+        magenta: "#7c3aed",
+        cyan: "#2563eb",
+        white: "#a3b1c4"
+    ),
+    dim: (
+        black: "#475569",
+        red: "#dc2626",
+        green: "#15803d",
+        yellow: "#0891b2",
+        blue: "#f97316",
+        magenta: "#7c3aed",
+        cyan: "#2563eb",
+        white: "#a3b1c4"
+    ),
+)

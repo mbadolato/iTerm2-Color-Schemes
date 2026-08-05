@@ -1,1 +1,37 @@
-(name:"Sandstone Ink",foreground:"#2b3d45",cursor:"#2b3d45",bright_foreground:"#2b3d45",dim_foreground:"#FF0000",normal:(black:"#002b36",red:"#cf2522",green:"#4b7000",yellow:"#906800",blue:"#0d6fa8",magenta:"#b5006e",cyan:"#00756d",white:"#6e6855"),bright:(black:"#2b3d45",red:"#b33000",green:"#536868",yellow:"#566c6c",blue:"#5c6f6f",magenta:"#5f64b7",cyan:"#5f6e6e",white:"#fdf6e3"),dim:(black:"#002b36",red:"#cf2522",green:"#4b7000",yellow:"#906800",blue:"#0d6fa8",magenta:"#b5006e",cyan:"#00756d",white:"#6e6855"))
+(
+    name: "Sandstone Ink",
+    foreground: "#2b3d45",
+    cursor: "#2b3d45",
+    bright_foreground: "#2b3d45",
+    dim_foreground: "#2b3d45",
+    normal: (
+        black: "#6e6855",
+        red: "#cf2522",
+        green: "#4b7000",
+        yellow: "#906800",
+        blue: "#0d6fa8",
+        magenta: "#b5006e",
+        cyan: "#00756d",
+        white: "#2b3d45"
+    ),
+    bright: (
+        black: "#fdf6e3",
+        red: "#cf2522",
+        green: "#4b7000",
+        yellow: "#906800",
+        blue: "#0d6fa8",
+        magenta: "#b5006e",
+        cyan: "#00756d",
+        white: "#2b3d45"
+    ),
+    dim: (
+        black: "#6e6855",
+        red: "#cf2522",
+        green: "#4b7000",
+        yellow: "#906800",
+        blue: "#0d6fa8",
+        magenta: "#b5006e",
+        cyan: "#00756d",
+        white: "#2b3d45"
+    ),
+)

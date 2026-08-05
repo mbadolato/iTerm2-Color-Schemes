@@ -1,1 +1,37 @@
-(name:"Sequoia Retro Dark",foreground:"#868690",cursor:"#43444d",bright_foreground:"#868690",dim_foreground:"#FF0000",normal:(black:"#131317",red:"#829fa7",green:"#648f68",yellow:"#da674b",blue:"#5c87a4",magenta:"#e8b246",cyan:"#a27e57",white:"#868690"),bright:(black:"#575861",red:"#e8b246",green:"#648f68",yellow:"#da674b",blue:"#5c87a4",magenta:"#829fa7",cyan:"#a27e57",white:"#868690"),dim:(black:"#131317",red:"#829fa7",green:"#648f68",yellow:"#da674b",blue:"#5c87a4",magenta:"#e8b246",cyan:"#a27e57",white:"#868690"))
+(
+    name: "Sequoia Retro Dark",
+    foreground: "#868690",
+    cursor: "#43444d",
+    bright_foreground: "#868690",
+    dim_foreground: "#575861",
+    normal: (
+        black: "#868690",
+        red: "#829fa7",
+        green: "#648f68",
+        yellow: "#da674b",
+        blue: "#5c87a4",
+        magenta: "#e8b246",
+        cyan: "#a27e57",
+        white: "#575861"
+    ),
+    bright: (
+        black: "#868690",
+        red: "#829fa7",
+        green: "#648f68",
+        yellow: "#da674b",
+        blue: "#5c87a4",
+        magenta: "#e8b246",
+        cyan: "#a27e57",
+        white: "#575861"
+    ),
+    dim: (
+        black: "#868690",
+        red: "#829fa7",
+        green: "#648f68",
+        yellow: "#da674b",
+        blue: "#5c87a4",
+        magenta: "#e8b246",
+        cyan: "#a27e57",
+        white: "#575861"
+    ),
+)

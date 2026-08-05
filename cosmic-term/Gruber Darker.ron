@@ -1,1 +1,37 @@
-(name:"Gruber Darker",foreground:"#e4e4e4",cursor:"#ffdb00",bright_foreground:"#e4e4e4",dim_foreground:"#FF0000",normal:(black:"#181818",red:"#ff0a36",green:"#42dc00",yellow:"#ffdb00",blue:"#92a7cb",magenta:"#a095cb",cyan:"#90aa9e",white:"#e4e4e4"),bright:(black:"#54494e",red:"#ff3851",green:"#42dc00",yellow:"#ffdb00",blue:"#92a7cb",magenta:"#afafda",cyan:"#90aa9e",white:"#f5f5f5"),dim:(black:"#181818",red:"#ff0a36",green:"#42dc00",yellow:"#ffdb00",blue:"#92a7cb",magenta:"#a095cb",cyan:"#90aa9e",white:"#e4e4e4"))
+(
+    name: "Gruber Darker",
+    foreground: "#e4e4e4",
+    cursor: "#ffdb00",
+    bright_foreground: "#e4e4e4",
+    dim_foreground: "#54494e",
+    normal: (
+        black: "#e4e4e4",
+        red: "#ff0a36",
+        green: "#42dc00",
+        yellow: "#ffdb00",
+        blue: "#92a7cb",
+        magenta: "#a095cb",
+        cyan: "#90aa9e",
+        white: "#54494e"
+    ),
+    bright: (
+        black: "#f5f5f5",
+        red: "#ff0a36",
+        green: "#42dc00",
+        yellow: "#ffdb00",
+        blue: "#92a7cb",
+        magenta: "#a095cb",
+        cyan: "#90aa9e",
+        white: "#54494e"
+    ),
+    dim: (
+        black: "#e4e4e4",
+        red: "#ff0a36",
+        green: "#42dc00",
+        yellow: "#ffdb00",
+        blue: "#92a7cb",
+        magenta: "#a095cb",
+        cyan: "#90aa9e",
+        white: "#54494e"
+    ),
+)

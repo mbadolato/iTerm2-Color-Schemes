@@ -1,1 +1,37 @@
-(name:"Nebula Drift",foreground:"#e2e0fa",cursor:"#d58bff",bright_foreground:"#e2e0fa",dim_foreground:"#FF0000",normal:(black:"#1a0e38",red:"#ff5c8d",green:"#66e6a8",yellow:"#ffcb6b",blue:"#7c9bff",magenta:"#c77dff",cyan:"#57e6f0",white:"#c8c6e8"),bright:(black:"#5c5a88",red:"#ff5c8d",green:"#66e6a8",yellow:"#ff9e64",blue:"#7c9bff",magenta:"#c77dff",cyan:"#57e6f0",white:"#e2e0fa"),dim:(black:"#1a0e38",red:"#ff5c8d",green:"#66e6a8",yellow:"#ffcb6b",blue:"#7c9bff",magenta:"#c77dff",cyan:"#57e6f0",white:"#c8c6e8"))
+(
+    name: "Nebula Drift",
+    foreground: "#e2e0fa",
+    cursor: "#d58bff",
+    bright_foreground: "#e2e0fa",
+    dim_foreground: "#5c5a88",
+    normal: (
+        black: "#c8c6e8",
+        red: "#ff5c8d",
+        green: "#66e6a8",
+        yellow: "#ffcb6b",
+        blue: "#7c9bff",
+        magenta: "#c77dff",
+        cyan: "#57e6f0",
+        white: "#5c5a88"
+    ),
+    bright: (
+        black: "#e2e0fa",
+        red: "#ff5c8d",
+        green: "#66e6a8",
+        yellow: "#ffcb6b",
+        blue: "#7c9bff",
+        magenta: "#c77dff",
+        cyan: "#57e6f0",
+        white: "#5c5a88"
+    ),
+    dim: (
+        black: "#c8c6e8",
+        red: "#ff5c8d",
+        green: "#66e6a8",
+        yellow: "#ffcb6b",
+        blue: "#7c9bff",
+        magenta: "#c77dff",
+        cyan: "#57e6f0",
+        white: "#5c5a88"
+    ),
+)

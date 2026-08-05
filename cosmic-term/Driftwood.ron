@@ -1,1 +1,37 @@
-(name:"Driftwood",foreground:"#e6ddd0",cursor:"#dfb666",bright_foreground:"#e6ddd0",dim_foreground:"#FF0000",normal:(black:"#211d19",red:"#e77467",green:"#aab971",yellow:"#e1b869",blue:"#78b3b5",magenta:"#c9a0bd",cyan:"#a5c4b1",white:"#c2b7a6"),bright:(black:"#9a8e7c",red:"#f38f7e",green:"#becc8a",yellow:"#e39962",blue:"#92c6c7",magenta:"#dab6d1",cyan:"#bbd6c3",white:"#f2eadb"),dim:(black:"#211d19",red:"#e77467",green:"#aab971",yellow:"#e1b869",blue:"#78b3b5",magenta:"#c9a0bd",cyan:"#a5c4b1",white:"#c2b7a6"))
+(
+    name: "Driftwood",
+    foreground: "#e6ddd0",
+    cursor: "#dfb666",
+    bright_foreground: "#e6ddd0",
+    dim_foreground: "#9a8e7c",
+    normal: (
+        black: "#c2b7a6",
+        red: "#e77467",
+        green: "#aab971",
+        yellow: "#e1b869",
+        blue: "#78b3b5",
+        magenta: "#c9a0bd",
+        cyan: "#a5c4b1",
+        white: "#9a8e7c"
+    ),
+    bright: (
+        black: "#f2eadb",
+        red: "#e77467",
+        green: "#aab971",
+        yellow: "#e1b869",
+        blue: "#78b3b5",
+        magenta: "#c9a0bd",
+        cyan: "#a5c4b1",
+        white: "#9a8e7c"
+    ),
+    dim: (
+        black: "#c2b7a6",
+        red: "#e77467",
+        green: "#aab971",
+        yellow: "#e1b869",
+        blue: "#78b3b5",
+        magenta: "#c9a0bd",
+        cyan: "#a5c4b1",
+        white: "#9a8e7c"
+    ),
+)

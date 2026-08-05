@@ -1,1 +1,37 @@
-(name:"Catppuccin Mocha",foreground:"#cdd6f4",cursor:"#f5e0dc",bright_foreground:"#cdd6f4",dim_foreground:"#FF0000",normal:(black:"#45475a",red:"#f38ba8",green:"#a6e3a1",yellow:"#f9e2af",blue:"#89b4fa",magenta:"#f5c2e7",cyan:"#94e2d5",white:"#bac2de"),bright:(black:"#585b70",red:"#f7aec2",green:"#c2ecbf",yellow:"#fcd682",blue:"#aeccfc",magenta:"#f398da",cyan:"#b1eae1",white:"#a6adc8"),dim:(black:"#45475a",red:"#f38ba8",green:"#a6e3a1",yellow:"#f9e2af",blue:"#89b4fa",magenta:"#f5c2e7",cyan:"#94e2d5",white:"#bac2de"))
+(
+    name: "Catppuccin Mocha",
+    foreground: "#cdd6f4",
+    cursor: "#f5e0dc",
+    bright_foreground: "#cdd6f4",
+    dim_foreground: "#585b70",
+    normal: (
+        black: "#bac2de",
+        red: "#f38ba8",
+        green: "#a6e3a1",
+        yellow: "#f9e2af",
+        blue: "#89b4fa",
+        magenta: "#f5c2e7",
+        cyan: "#94e2d5",
+        white: "#585b70"
+    ),
+    bright: (
+        black: "#a6adc8",
+        red: "#f38ba8",
+        green: "#a6e3a1",
+        yellow: "#f9e2af",
+        blue: "#89b4fa",
+        magenta: "#f5c2e7",
+        cyan: "#94e2d5",
+        white: "#585b70"
+    ),
+    dim: (
+        black: "#bac2de",
+        red: "#f38ba8",
+        green: "#a6e3a1",
+        yellow: "#f9e2af",
+        blue: "#89b4fa",
+        magenta: "#f5c2e7",
+        cyan: "#94e2d5",
+        white: "#585b70"
+    ),
+)

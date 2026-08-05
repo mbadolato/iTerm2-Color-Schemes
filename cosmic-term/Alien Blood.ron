@@ -1,1 +1,37 @@
-(name:"Alien Blood",foreground:"#637d75",cursor:"#73fa91",bright_foreground:"#637d75",dim_foreground:"#FF0000",normal:(black:"#112616",red:"#7f2b27",green:"#2f7e25",yellow:"#717f24",blue:"#2f6a7f",magenta:"#47587f",cyan:"#327f77",white:"#647d75"),bright:(black:"#3c4812",red:"#e08009",green:"#18e000",yellow:"#bde000",blue:"#00aae0",magenta:"#0058e0",cyan:"#00e0c4",white:"#73fa91"),dim:(black:"#112616",red:"#7f2b27",green:"#2f7e25",yellow:"#717f24",blue:"#2f6a7f",magenta:"#47587f",cyan:"#327f77",white:"#647d75"))
+(
+    name: "Alien Blood",
+    foreground: "#637d75",
+    cursor: "#73fa91",
+    bright_foreground: "#637d75",
+    dim_foreground: "#3c4812",
+    normal: (
+        black: "#647d75",
+        red: "#7f2b27",
+        green: "#2f7e25",
+        yellow: "#717f24",
+        blue: "#2f6a7f",
+        magenta: "#47587f",
+        cyan: "#327f77",
+        white: "#3c4812"
+    ),
+    bright: (
+        black: "#73fa91",
+        red: "#7f2b27",
+        green: "#2f7e25",
+        yellow: "#717f24",
+        blue: "#2f6a7f",
+        magenta: "#47587f",
+        cyan: "#327f77",
+        white: "#3c4812"
+    ),
+    dim: (
+        black: "#647d75",
+        red: "#7f2b27",
+        green: "#2f7e25",
+        yellow: "#717f24",
+        blue: "#2f6a7f",
+        magenta: "#47587f",
+        cyan: "#327f77",
+        white: "#3c4812"
+    ),
+)

@@ -1,1 +1,37 @@
-(name:"Doom Peacock",foreground:"#ede0ce",cursor:"#9c9c9d",bright_foreground:"#ede0ce",dim_foreground:"#FF0000",normal:(black:"#1c1f24",red:"#cb4b16",green:"#26a6a6",yellow:"#bcd42a",blue:"#2a6cc6",magenta:"#a9a1e1",cyan:"#5699af",white:"#ede0ce"),bright:(black:"#51504d",red:"#ff5d38",green:"#98be65",yellow:"#e6f972",blue:"#51afef",magenta:"#c678dd",cyan:"#46d9ff",white:"#dfdfdf"),dim:(black:"#1c1f24",red:"#cb4b16",green:"#26a6a6",yellow:"#bcd42a",blue:"#2a6cc6",magenta:"#a9a1e1",cyan:"#5699af",white:"#ede0ce"))
+(
+    name: "Doom Peacock",
+    foreground: "#ede0ce",
+    cursor: "#9c9c9d",
+    bright_foreground: "#ede0ce",
+    dim_foreground: "#51504d",
+    normal: (
+        black: "#ede0ce",
+        red: "#cb4b16",
+        green: "#26a6a6",
+        yellow: "#bcd42a",
+        blue: "#2a6cc6",
+        magenta: "#a9a1e1",
+        cyan: "#5699af",
+        white: "#51504d"
+    ),
+    bright: (
+        black: "#dfdfdf",
+        red: "#cb4b16",
+        green: "#26a6a6",
+        yellow: "#bcd42a",
+        blue: "#2a6cc6",
+        magenta: "#a9a1e1",
+        cyan: "#5699af",
+        white: "#51504d"
+    ),
+    dim: (
+        black: "#ede0ce",
+        red: "#cb4b16",
+        green: "#26a6a6",
+        yellow: "#bcd42a",
+        blue: "#2a6cc6",
+        magenta: "#a9a1e1",
+        cyan: "#5699af",
+        white: "#51504d"
+    ),
+)

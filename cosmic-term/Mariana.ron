@@ -1,1 +1,37 @@
-(name:"Mariana",foreground:"#d8dee9",cursor:"#fcbb6a",bright_foreground:"#d8dee9",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#ec5f66",green:"#99c794",yellow:"#f9ae58",blue:"#6699cc",magenta:"#c695c6",cyan:"#5fb4b4",white:"#f7f7f7"),bright:(black:"#666666",red:"#f97b58",green:"#acd1a8",yellow:"#fac761",blue:"#85add6",magenta:"#d8b6d8",cyan:"#82c4c4",white:"#ffffff"),dim:(black:"#000000",red:"#ec5f66",green:"#99c794",yellow:"#f9ae58",blue:"#6699cc",magenta:"#c695c6",cyan:"#5fb4b4",white:"#f7f7f7"))
+(
+    name: "Mariana",
+    foreground: "#d8dee9",
+    cursor: "#fcbb6a",
+    bright_foreground: "#d8dee9",
+    dim_foreground: "#666666",
+    normal: (
+        black: "#f7f7f7",
+        red: "#ec5f66",
+        green: "#99c794",
+        yellow: "#f9ae58",
+        blue: "#6699cc",
+        magenta: "#c695c6",
+        cyan: "#5fb4b4",
+        white: "#666666"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#ec5f66",
+        green: "#99c794",
+        yellow: "#f9ae58",
+        blue: "#6699cc",
+        magenta: "#c695c6",
+        cyan: "#5fb4b4",
+        white: "#666666"
+    ),
+    dim: (
+        black: "#f7f7f7",
+        red: "#ec5f66",
+        green: "#99c794",
+        yellow: "#f9ae58",
+        blue: "#6699cc",
+        magenta: "#c695c6",
+        cyan: "#5fb4b4",
+        white: "#666666"
+    ),
+)

@@ -1,1 +1,37 @@
-(name:"Belafonte Day",foreground:"#45373c",cursor:"#45373c",bright_foreground:"#45373c",dim_foreground:"#FF0000",normal:(black:"#20111b",red:"#be100e",green:"#858162",yellow:"#d08b30",blue:"#426a79",magenta:"#97522c",cyan:"#989a9c",white:"#968c83"),bright:(black:"#5e5252",red:"#be100e",green:"#858162",yellow:"#d08b30",blue:"#426a79",magenta:"#97522c",cyan:"#989a9c",white:"#d5ccba"),dim:(black:"#20111b",red:"#be100e",green:"#858162",yellow:"#d08b30",blue:"#426a79",magenta:"#97522c",cyan:"#989a9c",white:"#968c83"))
+(
+    name: "Belafonte Day",
+    foreground: "#45373c",
+    cursor: "#45373c",
+    bright_foreground: "#45373c",
+    dim_foreground: "#5e5252",
+    normal: (
+        black: "#968c83",
+        red: "#be100e",
+        green: "#858162",
+        yellow: "#d08b30",
+        blue: "#426a79",
+        magenta: "#97522c",
+        cyan: "#989a9c",
+        white: "#5e5252"
+    ),
+    bright: (
+        black: "#d5ccba",
+        red: "#be100e",
+        green: "#858162",
+        yellow: "#d08b30",
+        blue: "#426a79",
+        magenta: "#97522c",
+        cyan: "#989a9c",
+        white: "#5e5252"
+    ),
+    dim: (
+        black: "#968c83",
+        red: "#be100e",
+        green: "#858162",
+        yellow: "#d08b30",
+        blue: "#426a79",
+        magenta: "#97522c",
+        cyan: "#989a9c",
+        white: "#5e5252"
+    ),
+)

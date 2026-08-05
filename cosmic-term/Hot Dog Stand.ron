@@ -1,1 +1,37 @@
-(name:"Hot Dog Stand",foreground:"#ffffff",cursor:"#ffff54",bright_foreground:"#ffffff",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#ffff54",green:"#ffff54",yellow:"#ffff54",blue:"#000000",magenta:"#ffff54",cyan:"#ffffff",white:"#c6c6c6"),bright:(black:"#000000",red:"#ffff54",green:"#ffff54",yellow:"#ffff54",blue:"#000000",magenta:"#ffff54",cyan:"#ffffff",white:"#c6c6c6"),dim:(black:"#000000",red:"#ffff54",green:"#ffff54",yellow:"#ffff54",blue:"#000000",magenta:"#ffff54",cyan:"#ffffff",white:"#c6c6c6"))
+(
+    name: "Hot Dog Stand",
+    foreground: "#ffffff",
+    cursor: "#ffff54",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#000000",
+    normal: (
+        black: "#c6c6c6",
+        red: "#ffff54",
+        green: "#ffff54",
+        yellow: "#ffff54",
+        blue: "#000000",
+        magenta: "#ffff54",
+        cyan: "#ffffff",
+        white: "#000000"
+    ),
+    bright: (
+        black: "#c6c6c6",
+        red: "#ffff54",
+        green: "#ffff54",
+        yellow: "#ffff54",
+        blue: "#000000",
+        magenta: "#ffff54",
+        cyan: "#ffffff",
+        white: "#000000"
+    ),
+    dim: (
+        black: "#c6c6c6",
+        red: "#ffff54",
+        green: "#ffff54",
+        yellow: "#ffff54",
+        blue: "#000000",
+        magenta: "#ffff54",
+        cyan: "#ffffff",
+        white: "#000000"
+    ),
+)

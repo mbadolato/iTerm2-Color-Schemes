@@ -1,1 +1,37 @@
-(name:"Moonwalk",foreground:"#061f4a",cursor:"#061f4a",bright_foreground:"#061f4a",dim_foreground:"#FF0000",normal:(black:"#080808",red:"#7a0047",green:"#145b0e",yellow:"#733a11",blue:"#002fa7",magenta:"#5400a8",cyan:"#00566b",white:"#9c958d"),bright:(black:"#494440",red:"#af1608",green:"#4c6129",yellow:"#7a5000",blue:"#0d50c5",magenta:"#952197",cyan:"#006092",white:"#ffffff"),dim:(black:"#080808",red:"#7a0047",green:"#145b0e",yellow:"#733a11",blue:"#002fa7",magenta:"#5400a8",cyan:"#00566b",white:"#9c958d"))
+(
+    name: "Moonwalk",
+    foreground: "#061f4a",
+    cursor: "#061f4a",
+    bright_foreground: "#061f4a",
+    dim_foreground: "#494440",
+    normal: (
+        black: "#9c958d",
+        red: "#7a0047",
+        green: "#145b0e",
+        yellow: "#733a11",
+        blue: "#002fa7",
+        magenta: "#5400a8",
+        cyan: "#00566b",
+        white: "#494440"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#7a0047",
+        green: "#145b0e",
+        yellow: "#733a11",
+        blue: "#002fa7",
+        magenta: "#5400a8",
+        cyan: "#00566b",
+        white: "#494440"
+    ),
+    dim: (
+        black: "#9c958d",
+        red: "#7a0047",
+        green: "#145b0e",
+        yellow: "#733a11",
+        blue: "#002fa7",
+        magenta: "#5400a8",
+        cyan: "#00566b",
+        white: "#494440"
+    ),
+)

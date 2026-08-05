@@ -1,1 +1,37 @@
-(name:"SeedFlip Amethyst",foreground:"#1a0a2e",cursor:"#635bff",bright_foreground:"#1a0a2e",dim_foreground:"#FF0000",normal:(black:"#d7d1cb",red:"#bd0f0f",green:"#0fbd49",yellow:"#bda00f",blue:"#0f58bd",magenta:"#bd0fbd",cyan:"#0fbdbd",white:"#0e0519"),bright:(black:"#b5aba0",red:"#ee2b2b",green:"#12d452",yellow:"#d4b312",blue:"#2b7cee",magenta:"#ee2bee",cyan:"#05c8c8",white:"#1a0a2e"),dim:(black:"#d7d1cb",red:"#bd0f0f",green:"#0fbd49",yellow:"#bda00f",blue:"#0f58bd",magenta:"#bd0fbd",cyan:"#0fbdbd",white:"#0e0519"))
+(
+    name: "SeedFlip Amethyst",
+    foreground: "#1a0a2e",
+    cursor: "#635bff",
+    bright_foreground: "#1a0a2e",
+    dim_foreground: "#b5aba0",
+    normal: (
+        black: "#0e0519",
+        red: "#bd0f0f",
+        green: "#0fbd49",
+        yellow: "#bda00f",
+        blue: "#0f58bd",
+        magenta: "#bd0fbd",
+        cyan: "#0fbdbd",
+        white: "#b5aba0"
+    ),
+    bright: (
+        black: "#1a0a2e",
+        red: "#bd0f0f",
+        green: "#0fbd49",
+        yellow: "#bda00f",
+        blue: "#0f58bd",
+        magenta: "#bd0fbd",
+        cyan: "#0fbdbd",
+        white: "#b5aba0"
+    ),
+    dim: (
+        black: "#0e0519",
+        red: "#bd0f0f",
+        green: "#0fbd49",
+        yellow: "#bda00f",
+        blue: "#0f58bd",
+        magenta: "#bd0fbd",
+        cyan: "#0fbdbd",
+        white: "#b5aba0"
+    ),
+)

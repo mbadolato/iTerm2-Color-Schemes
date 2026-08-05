@@ -1,1 +1,37 @@
-(name:"Nord Wave",foreground:"#d8dee9",cursor:"#ebcb8b",bright_foreground:"#d8dee9",dim_foreground:"#FF0000",normal:(black:"#3b4252",red:"#bf616a",green:"#a3be8c",yellow:"#ebcb8b",blue:"#81a1c1",magenta:"#b48ead",cyan:"#88c0d0",white:"#e5e9f0"),bright:(black:"#4c566a",red:"#bf616a",green:"#a3be8c",yellow:"#ebcb8b",blue:"#81a1c1",magenta:"#b48ead",cyan:"#8fbcbb",white:"#eceff4"),dim:(black:"#3b4252",red:"#bf616a",green:"#a3be8c",yellow:"#ebcb8b",blue:"#81a1c1",magenta:"#b48ead",cyan:"#88c0d0",white:"#e5e9f0"))
+(
+    name: "Nord Wave",
+    foreground: "#d8dee9",
+    cursor: "#ebcb8b",
+    bright_foreground: "#d8dee9",
+    dim_foreground: "#4c566a",
+    normal: (
+        black: "#e5e9f0",
+        red: "#bf616a",
+        green: "#a3be8c",
+        yellow: "#ebcb8b",
+        blue: "#81a1c1",
+        magenta: "#b48ead",
+        cyan: "#88c0d0",
+        white: "#4c566a"
+    ),
+    bright: (
+        black: "#eceff4",
+        red: "#bf616a",
+        green: "#a3be8c",
+        yellow: "#ebcb8b",
+        blue: "#81a1c1",
+        magenta: "#b48ead",
+        cyan: "#88c0d0",
+        white: "#4c566a"
+    ),
+    dim: (
+        black: "#e5e9f0",
+        red: "#bf616a",
+        green: "#a3be8c",
+        yellow: "#ebcb8b",
+        blue: "#81a1c1",
+        magenta: "#b48ead",
+        cyan: "#88c0d0",
+        white: "#4c566a"
+    ),
+)

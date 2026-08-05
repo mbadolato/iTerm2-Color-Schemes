@@ -1,1 +1,37 @@
-(name:"Patina Moss",foreground:"#dbd7ca",cursor:"#dbd7ca",bright_foreground:"#dbd7ca",dim_foreground:"#FF0000",normal:(black:"#33362e",red:"#c07878",green:"#5ba886",yellow:"#d4bf6e",blue:"#65a8b5",magenta:"#c08a7d",cyan:"#63a8a6",white:"#dbd7ca"),bright:(black:"#585b51",red:"#c07878",green:"#5ba886",yellow:"#d4bf6e",blue:"#65a8b5",magenta:"#c08a7d",cyan:"#63a8a6",white:"#dbd7ca"),dim:(black:"#33362e",red:"#c07878",green:"#5ba886",yellow:"#d4bf6e",blue:"#65a8b5",magenta:"#c08a7d",cyan:"#63a8a6",white:"#dbd7ca"))
+(
+    name: "Patina Moss",
+    foreground: "#dbd7ca",
+    cursor: "#dbd7ca",
+    bright_foreground: "#dbd7ca",
+    dim_foreground: "#585b51",
+    normal: (
+        black: "#dbd7ca",
+        red: "#c07878",
+        green: "#5ba886",
+        yellow: "#d4bf6e",
+        blue: "#65a8b5",
+        magenta: "#c08a7d",
+        cyan: "#63a8a6",
+        white: "#585b51"
+    ),
+    bright: (
+        black: "#dbd7ca",
+        red: "#c07878",
+        green: "#5ba886",
+        yellow: "#d4bf6e",
+        blue: "#65a8b5",
+        magenta: "#c08a7d",
+        cyan: "#63a8a6",
+        white: "#585b51"
+    ),
+    dim: (
+        black: "#dbd7ca",
+        red: "#c07878",
+        green: "#5ba886",
+        yellow: "#d4bf6e",
+        blue: "#65a8b5",
+        magenta: "#c08a7d",
+        cyan: "#63a8a6",
+        white: "#585b51"
+    ),
+)

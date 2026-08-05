@@ -1,1 +1,37 @@
-(name:"Kanagawa Dragon",foreground:"#c5c9c5",cursor:"#c8c093",bright_foreground:"#c5c9c5",dim_foreground:"#FF0000",normal:(black:"#0d0c0c",red:"#c4746e",green:"#8a9a7b",yellow:"#c4b28a",blue:"#8ba4b0",magenta:"#a292a3",cyan:"#8ea4a2",white:"#c8c093"),bright:(black:"#a6a69c",red:"#e46876",green:"#87a987",yellow:"#e6c384",blue:"#7fb4ca",magenta:"#938aa9",cyan:"#7aa89f",white:"#c5c9c5"),dim:(black:"#0d0c0c",red:"#c4746e",green:"#8a9a7b",yellow:"#c4b28a",blue:"#8ba4b0",magenta:"#a292a3",cyan:"#8ea4a2",white:"#c8c093"))
+(
+    name: "Kanagawa Dragon",
+    foreground: "#c5c9c5",
+    cursor: "#c8c093",
+    bright_foreground: "#c5c9c5",
+    dim_foreground: "#a6a69c",
+    normal: (
+        black: "#c8c093",
+        red: "#c4746e",
+        green: "#8a9a7b",
+        yellow: "#c4b28a",
+        blue: "#8ba4b0",
+        magenta: "#a292a3",
+        cyan: "#8ea4a2",
+        white: "#a6a69c"
+    ),
+    bright: (
+        black: "#c5c9c5",
+        red: "#c4746e",
+        green: "#8a9a7b",
+        yellow: "#c4b28a",
+        blue: "#8ba4b0",
+        magenta: "#a292a3",
+        cyan: "#8ea4a2",
+        white: "#a6a69c"
+    ),
+    dim: (
+        black: "#c8c093",
+        red: "#c4746e",
+        green: "#8a9a7b",
+        yellow: "#c4b28a",
+        blue: "#8ba4b0",
+        magenta: "#a292a3",
+        cyan: "#8ea4a2",
+        white: "#a6a69c"
+    ),
+)

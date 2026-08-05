@@ -1,1 +1,37 @@
-(name:"Kurokula",foreground:"#e0cfc2",cursor:"#7a1c1c",bright_foreground:"#e0cfc2",dim_foreground:"#FF0000",normal:(black:"#333333",red:"#c35a52",green:"#78b3a9",yellow:"#e1b917",blue:"#5c91dd",magenta:"#8b79a6",cyan:"#867268",white:"#e0cfc2"),bright:(black:"#515151",red:"#ffc34c",green:"#afffa5",yellow:"#fff700",blue:"#90dbff",magenta:"#ad93ff",cyan:"#ffcdb6",white:"#ffffff"),dim:(black:"#333333",red:"#c35a52",green:"#78b3a9",yellow:"#e1b917",blue:"#5c91dd",magenta:"#8b79a6",cyan:"#867268",white:"#e0cfc2"))
+(
+    name: "Kurokula",
+    foreground: "#e0cfc2",
+    cursor: "#7a1c1c",
+    bright_foreground: "#e0cfc2",
+    dim_foreground: "#515151",
+    normal: (
+        black: "#e0cfc2",
+        red: "#c35a52",
+        green: "#78b3a9",
+        yellow: "#e1b917",
+        blue: "#5c91dd",
+        magenta: "#8b79a6",
+        cyan: "#867268",
+        white: "#515151"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#c35a52",
+        green: "#78b3a9",
+        yellow: "#e1b917",
+        blue: "#5c91dd",
+        magenta: "#8b79a6",
+        cyan: "#867268",
+        white: "#515151"
+    ),
+    dim: (
+        black: "#e0cfc2",
+        red: "#c35a52",
+        green: "#78b3a9",
+        yellow: "#e1b917",
+        blue: "#5c91dd",
+        magenta: "#8b79a6",
+        cyan: "#867268",
+        white: "#515151"
+    ),
+)

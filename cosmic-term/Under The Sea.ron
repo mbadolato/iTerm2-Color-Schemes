@@ -1,1 +1,37 @@
-(name:"Under The Sea",foreground:"#ffffff",cursor:"#4afcd6",bright_foreground:"#ffffff",dim_foreground:"#FF0000",normal:(black:"#022026",red:"#b2302d",green:"#00a941",yellow:"#59819c",blue:"#459a86",magenta:"#00599d",cyan:"#5d7e19",white:"#405555"),bright:(black:"#384451",red:"#ff4242",green:"#2aea5e",yellow:"#8ed4fd",blue:"#61d5ba",magenta:"#1298ff",cyan:"#98d028",white:"#58fbd6"),dim:(black:"#022026",red:"#b2302d",green:"#00a941",yellow:"#59819c",blue:"#459a86",magenta:"#00599d",cyan:"#5d7e19",white:"#405555"))
+(
+    name: "Under The Sea",
+    foreground: "#ffffff",
+    cursor: "#4afcd6",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#384451",
+    normal: (
+        black: "#405555",
+        red: "#b2302d",
+        green: "#00a941",
+        yellow: "#59819c",
+        blue: "#459a86",
+        magenta: "#00599d",
+        cyan: "#5d7e19",
+        white: "#384451"
+    ),
+    bright: (
+        black: "#58fbd6",
+        red: "#b2302d",
+        green: "#00a941",
+        yellow: "#59819c",
+        blue: "#459a86",
+        magenta: "#00599d",
+        cyan: "#5d7e19",
+        white: "#384451"
+    ),
+    dim: (
+        black: "#405555",
+        red: "#b2302d",
+        green: "#00a941",
+        yellow: "#59819c",
+        blue: "#459a86",
+        magenta: "#00599d",
+        cyan: "#5d7e19",
+        white: "#384451"
+    ),
+)

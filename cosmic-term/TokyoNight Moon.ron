@@ -1,1 +1,37 @@
-(name:"TokyoNight Moon",foreground:"#c8d3f5",cursor:"#c8d3f5",bright_foreground:"#c8d3f5",dim_foreground:"#FF0000",normal:(black:"#1b1d2b",red:"#ff757f",green:"#c3e88d",yellow:"#ffc777",blue:"#82aaff",magenta:"#c099ff",cyan:"#86e1fc",white:"#828bb8"),bright:(black:"#444a73",red:"#ff757f",green:"#c3e88d",yellow:"#ffc777",blue:"#82aaff",magenta:"#c099ff",cyan:"#86e1fc",white:"#c8d3f5"),dim:(black:"#1b1d2b",red:"#ff757f",green:"#c3e88d",yellow:"#ffc777",blue:"#82aaff",magenta:"#c099ff",cyan:"#86e1fc",white:"#828bb8"))
+(
+    name: "TokyoNight Moon",
+    foreground: "#c8d3f5",
+    cursor: "#c8d3f5",
+    bright_foreground: "#c8d3f5",
+    dim_foreground: "#444a73",
+    normal: (
+        black: "#828bb8",
+        red: "#ff757f",
+        green: "#c3e88d",
+        yellow: "#ffc777",
+        blue: "#82aaff",
+        magenta: "#c099ff",
+        cyan: "#86e1fc",
+        white: "#444a73"
+    ),
+    bright: (
+        black: "#c8d3f5",
+        red: "#ff757f",
+        green: "#c3e88d",
+        yellow: "#ffc777",
+        blue: "#82aaff",
+        magenta: "#c099ff",
+        cyan: "#86e1fc",
+        white: "#444a73"
+    ),
+    dim: (
+        black: "#828bb8",
+        red: "#ff757f",
+        green: "#c3e88d",
+        yellow: "#ffc777",
+        blue: "#82aaff",
+        magenta: "#c099ff",
+        cyan: "#86e1fc",
+        white: "#444a73"
+    ),
+)

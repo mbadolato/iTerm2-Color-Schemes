@@ -1,1 +1,37 @@
-(name:"Noctis Lilac",foreground:"#0c006b",cursor:"#0c006b",bright_foreground:"#0c006b",dim_foreground:"#FF0000",normal:(black:"#0c006b",red:"#e34e1c",green:"#00b368",yellow:"#f49725",blue:"#0094f0",magenta:"#ff5792",cyan:"#00bdd6",white:"#8ca6a6"),bright:(black:"#0f0080",red:"#ff4000",green:"#00d17a",yellow:"#ff8c00",blue:"#0fa3ff",magenta:"#ff6b9f",cyan:"#00cbe6",white:"#bbc3c4"),dim:(black:"#0c006b",red:"#e34e1c",green:"#00b368",yellow:"#f49725",blue:"#0094f0",magenta:"#ff5792",cyan:"#00bdd6",white:"#8ca6a6"))
+(
+    name: "Noctis Lilac",
+    foreground: "#0c006b",
+    cursor: "#0c006b",
+    bright_foreground: "#0c006b",
+    dim_foreground: "#0f0080",
+    normal: (
+        black: "#8ca6a6",
+        red: "#e34e1c",
+        green: "#00b368",
+        yellow: "#f49725",
+        blue: "#0094f0",
+        magenta: "#ff5792",
+        cyan: "#00bdd6",
+        white: "#0f0080"
+    ),
+    bright: (
+        black: "#bbc3c4",
+        red: "#e34e1c",
+        green: "#00b368",
+        yellow: "#f49725",
+        blue: "#0094f0",
+        magenta: "#ff5792",
+        cyan: "#00bdd6",
+        white: "#0f0080"
+    ),
+    dim: (
+        black: "#8ca6a6",
+        red: "#e34e1c",
+        green: "#00b368",
+        yellow: "#f49725",
+        blue: "#0094f0",
+        magenta: "#ff5792",
+        cyan: "#00bdd6",
+        white: "#0f0080"
+    ),
+)

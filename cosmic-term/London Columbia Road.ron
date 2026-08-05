@@ -1,1 +1,37 @@
-(name:"London Columbia Road",foreground:"#1f3a2f",cursor:"#d4708e",bright_foreground:"#1f3a2f",dim_foreground:"#FF0000",normal:(black:"#2a2520",red:"#c14a4a",green:"#5a8a3a",yellow:"#d4a82c",blue:"#3a7a8a",magenta:"#c45f8a",cyan:"#5fa89a",white:"#1f3a2f"),bright:(black:"#756a55",red:"#d96a6a",green:"#6ea050",yellow:"#d8af33",blue:"#5598ab",magenta:"#d97aa3",cyan:"#7ac0b0",white:"#142217"),dim:(black:"#2a2520",red:"#c14a4a",green:"#5a8a3a",yellow:"#d4a82c",blue:"#3a7a8a",magenta:"#c45f8a",cyan:"#5fa89a",white:"#1f3a2f"))
+(
+    name: "London Columbia Road",
+    foreground: "#1f3a2f",
+    cursor: "#d4708e",
+    bright_foreground: "#1f3a2f",
+    dim_foreground: "#756a55",
+    normal: (
+        black: "#1f3a2f",
+        red: "#c14a4a",
+        green: "#5a8a3a",
+        yellow: "#d4a82c",
+        blue: "#3a7a8a",
+        magenta: "#c45f8a",
+        cyan: "#5fa89a",
+        white: "#756a55"
+    ),
+    bright: (
+        black: "#142217",
+        red: "#c14a4a",
+        green: "#5a8a3a",
+        yellow: "#d4a82c",
+        blue: "#3a7a8a",
+        magenta: "#c45f8a",
+        cyan: "#5fa89a",
+        white: "#756a55"
+    ),
+    dim: (
+        black: "#1f3a2f",
+        red: "#c14a4a",
+        green: "#5a8a3a",
+        yellow: "#d4a82c",
+        blue: "#3a7a8a",
+        magenta: "#c45f8a",
+        cyan: "#5fa89a",
+        white: "#756a55"
+    ),
+)

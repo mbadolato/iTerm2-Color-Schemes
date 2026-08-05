@@ -1,1 +1,37 @@
-(name:"Gruvbox Material",foreground:"#d4be98",cursor:"#ffffff",bright_foreground:"#d4be98",dim_foreground:"#FF0000",normal:(black:"#141617",red:"#ea6926",green:"#c1d041",yellow:"#eecf75",blue:"#6da3ec",magenta:"#fd9bc1",cyan:"#fe9d6e",white:"#ffffff"),bright:(black:"#4c4c4c",red:"#d3573b",green:"#c1d041",yellow:"#eecf75",blue:"#2c86ff",magenta:"#fd9bc1",cyan:"#92a5df",white:"#ffffff"),dim:(black:"#141617",red:"#ea6926",green:"#c1d041",yellow:"#eecf75",blue:"#6da3ec",magenta:"#fd9bc1",cyan:"#fe9d6e",white:"#ffffff"))
+(
+    name: "Gruvbox Material",
+    foreground: "#d4be98",
+    cursor: "#ffffff",
+    bright_foreground: "#d4be98",
+    dim_foreground: "#4c4c4c",
+    normal: (
+        black: "#ffffff",
+        red: "#ea6926",
+        green: "#c1d041",
+        yellow: "#eecf75",
+        blue: "#6da3ec",
+        magenta: "#fd9bc1",
+        cyan: "#fe9d6e",
+        white: "#4c4c4c"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#ea6926",
+        green: "#c1d041",
+        yellow: "#eecf75",
+        blue: "#6da3ec",
+        magenta: "#fd9bc1",
+        cyan: "#fe9d6e",
+        white: "#4c4c4c"
+    ),
+    dim: (
+        black: "#ffffff",
+        red: "#ea6926",
+        green: "#c1d041",
+        yellow: "#eecf75",
+        blue: "#6da3ec",
+        magenta: "#fd9bc1",
+        cyan: "#fe9d6e",
+        white: "#4c4c4c"
+    ),
+)

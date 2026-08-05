@@ -1,1 +1,37 @@
-(name:"Smyck",foreground:"#f7f7f7",cursor:"#bbbbbb",bright_foreground:"#f7f7f7",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#b84131",green:"#7da900",yellow:"#c4a500",blue:"#62a3c4",magenta:"#ba8acc",cyan:"#207383",white:"#a1a1a1"),bright:(black:"#7a7a7a",red:"#d6837c",green:"#c4f137",yellow:"#fee14d",blue:"#8dcff0",magenta:"#f79aff",cyan:"#6ad9cf",white:"#f7f7f7"),dim:(black:"#000000",red:"#b84131",green:"#7da900",yellow:"#c4a500",blue:"#62a3c4",magenta:"#ba8acc",cyan:"#207383",white:"#a1a1a1"))
+(
+    name: "Smyck",
+    foreground: "#f7f7f7",
+    cursor: "#bbbbbb",
+    bright_foreground: "#f7f7f7",
+    dim_foreground: "#7a7a7a",
+    normal: (
+        black: "#a1a1a1",
+        red: "#b84131",
+        green: "#7da900",
+        yellow: "#c4a500",
+        blue: "#62a3c4",
+        magenta: "#ba8acc",
+        cyan: "#207383",
+        white: "#7a7a7a"
+    ),
+    bright: (
+        black: "#f7f7f7",
+        red: "#b84131",
+        green: "#7da900",
+        yellow: "#c4a500",
+        blue: "#62a3c4",
+        magenta: "#ba8acc",
+        cyan: "#207383",
+        white: "#7a7a7a"
+    ),
+    dim: (
+        black: "#a1a1a1",
+        red: "#b84131",
+        green: "#7da900",
+        yellow: "#c4a500",
+        blue: "#62a3c4",
+        magenta: "#ba8acc",
+        cyan: "#207383",
+        white: "#7a7a7a"
+    ),
+)

@@ -1,1 +1,37 @@
-(name:"Serendipity Sunset",foreground:"#dee0ef",cursor:"#8d8f9e",bright_foreground:"#dee0ef",dim_foreground:"#FF0000",normal:(black:"#363847",red:"#d1918f",green:"#709bbd",yellow:"#a392dc",blue:"#a0b6e8",magenta:"#aac9d4",cyan:"#d6b4b4",white:"#dee0ef"),bright:(black:"#6b6d7c",red:"#d1918f",green:"#709bbd",yellow:"#a392dc",blue:"#a0b6e8",magenta:"#aac9d4",cyan:"#d6b4b4",white:"#dee0ef"),dim:(black:"#363847",red:"#d1918f",green:"#709bbd",yellow:"#a392dc",blue:"#a0b6e8",magenta:"#aac9d4",cyan:"#d6b4b4",white:"#dee0ef"))
+(
+    name: "Serendipity Sunset",
+    foreground: "#dee0ef",
+    cursor: "#8d8f9e",
+    bright_foreground: "#dee0ef",
+    dim_foreground: "#6b6d7c",
+    normal: (
+        black: "#dee0ef",
+        red: "#d1918f",
+        green: "#709bbd",
+        yellow: "#a392dc",
+        blue: "#a0b6e8",
+        magenta: "#aac9d4",
+        cyan: "#d6b4b4",
+        white: "#6b6d7c"
+    ),
+    bright: (
+        black: "#dee0ef",
+        red: "#d1918f",
+        green: "#709bbd",
+        yellow: "#a392dc",
+        blue: "#a0b6e8",
+        magenta: "#aac9d4",
+        cyan: "#d6b4b4",
+        white: "#6b6d7c"
+    ),
+    dim: (
+        black: "#dee0ef",
+        red: "#d1918f",
+        green: "#709bbd",
+        yellow: "#a392dc",
+        blue: "#a0b6e8",
+        magenta: "#aac9d4",
+        cyan: "#d6b4b4",
+        white: "#6b6d7c"
+    ),
+)

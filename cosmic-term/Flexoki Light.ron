@@ -1,1 +1,37 @@
-(name:"Flexoki Light",foreground:"#100f0f",cursor:"#100f0f",bright_foreground:"#100f0f",dim_foreground:"#FF0000",normal:(black:"#100f0f",red:"#af3029",green:"#66800b",yellow:"#ad8301",blue:"#205ea6",magenta:"#a02f6f",cyan:"#24837b",white:"#6f6e69"),bright:(black:"#b7b5ac",red:"#d14d41",green:"#879a39",yellow:"#d0a215",blue:"#4385be",magenta:"#ce5d97",cyan:"#3aa99f",white:"#cecdc3"),dim:(black:"#100f0f",red:"#af3029",green:"#66800b",yellow:"#ad8301",blue:"#205ea6",magenta:"#a02f6f",cyan:"#24837b",white:"#6f6e69"))
+(
+    name: "Flexoki Light",
+    foreground: "#100f0f",
+    cursor: "#100f0f",
+    bright_foreground: "#100f0f",
+    dim_foreground: "#b7b5ac",
+    normal: (
+        black: "#6f6e69",
+        red: "#af3029",
+        green: "#66800b",
+        yellow: "#ad8301",
+        blue: "#205ea6",
+        magenta: "#a02f6f",
+        cyan: "#24837b",
+        white: "#b7b5ac"
+    ),
+    bright: (
+        black: "#cecdc3",
+        red: "#af3029",
+        green: "#66800b",
+        yellow: "#ad8301",
+        blue: "#205ea6",
+        magenta: "#a02f6f",
+        cyan: "#24837b",
+        white: "#b7b5ac"
+    ),
+    dim: (
+        black: "#6f6e69",
+        red: "#af3029",
+        green: "#66800b",
+        yellow: "#ad8301",
+        blue: "#205ea6",
+        magenta: "#a02f6f",
+        cyan: "#24837b",
+        white: "#b7b5ac"
+    ),
+)

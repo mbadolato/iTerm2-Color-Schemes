@@ -1,1 +1,37 @@
-(name:"Kanso Ink",foreground:"#c5c9c7",cursor:"#c5c9c7",bright_foreground:"#c5c9c7",dim_foreground:"#FF0000",normal:(black:"#14171d",red:"#c4746e",green:"#8a9a7b",yellow:"#c4b28a",blue:"#8ba4b0",magenta:"#a292a3",cyan:"#8ea4a2",white:"#c8c093"),bright:(black:"#a4a7a4",red:"#e46876",green:"#87a987",yellow:"#e6c384",blue:"#7fb4ca",magenta:"#938aa9",cyan:"#7aa89f",white:"#c5c9c7"),dim:(black:"#14171d",red:"#c4746e",green:"#8a9a7b",yellow:"#c4b28a",blue:"#8ba4b0",magenta:"#a292a3",cyan:"#8ea4a2",white:"#c8c093"))
+(
+    name: "Kanso Ink",
+    foreground: "#c5c9c7",
+    cursor: "#c5c9c7",
+    bright_foreground: "#c5c9c7",
+    dim_foreground: "#a4a7a4",
+    normal: (
+        black: "#c8c093",
+        red: "#c4746e",
+        green: "#8a9a7b",
+        yellow: "#c4b28a",
+        blue: "#8ba4b0",
+        magenta: "#a292a3",
+        cyan: "#8ea4a2",
+        white: "#a4a7a4"
+    ),
+    bright: (
+        black: "#c5c9c7",
+        red: "#c4746e",
+        green: "#8a9a7b",
+        yellow: "#c4b28a",
+        blue: "#8ba4b0",
+        magenta: "#a292a3",
+        cyan: "#8ea4a2",
+        white: "#a4a7a4"
+    ),
+    dim: (
+        black: "#c8c093",
+        red: "#c4746e",
+        green: "#8a9a7b",
+        yellow: "#c4b28a",
+        blue: "#8ba4b0",
+        magenta: "#a292a3",
+        cyan: "#8ea4a2",
+        white: "#a4a7a4"
+    ),
+)

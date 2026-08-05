@@ -1,1 +1,37 @@
-(name:"Konsolas",foreground:"#c8c1c1",cursor:"#c8c1c1",bright_foreground:"#c8c1c1",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#aa1717",green:"#18b218",yellow:"#ebae1f",blue:"#2323a5",magenta:"#ad1edc",cyan:"#42b0c8",white:"#c8c1c1"),bright:(black:"#7b716e",red:"#ff4141",green:"#5fff5f",yellow:"#ffff55",blue:"#4b4bff",magenta:"#ff54ff",cyan:"#69ffff",white:"#ffffff"),dim:(black:"#000000",red:"#aa1717",green:"#18b218",yellow:"#ebae1f",blue:"#2323a5",magenta:"#ad1edc",cyan:"#42b0c8",white:"#c8c1c1"))
+(
+    name: "Konsolas",
+    foreground: "#c8c1c1",
+    cursor: "#c8c1c1",
+    bright_foreground: "#c8c1c1",
+    dim_foreground: "#7b716e",
+    normal: (
+        black: "#c8c1c1",
+        red: "#aa1717",
+        green: "#18b218",
+        yellow: "#ebae1f",
+        blue: "#2323a5",
+        magenta: "#ad1edc",
+        cyan: "#42b0c8",
+        white: "#7b716e"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#aa1717",
+        green: "#18b218",
+        yellow: "#ebae1f",
+        blue: "#2323a5",
+        magenta: "#ad1edc",
+        cyan: "#42b0c8",
+        white: "#7b716e"
+    ),
+    dim: (
+        black: "#c8c1c1",
+        red: "#aa1717",
+        green: "#18b218",
+        yellow: "#ebae1f",
+        blue: "#2323a5",
+        magenta: "#ad1edc",
+        cyan: "#42b0c8",
+        white: "#7b716e"
+    ),
+)

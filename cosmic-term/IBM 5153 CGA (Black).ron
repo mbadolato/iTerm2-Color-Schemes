@@ -1,1 +1,37 @@
-(name:"IBM 5153 CGA (Black)",foreground:"#c4c4c4",cursor:"#c4c4c4",bright_foreground:"#c4c4c4",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#c40000",green:"#00c400",yellow:"#c47e00",blue:"#0000c4",magenta:"#c400c4",cyan:"#00c4c4",white:"#c4c4c4"),bright:(black:"#4e4e4e",red:"#dc4e4e",green:"#4edc4e",yellow:"#f3f34e",blue:"#4e4edc",magenta:"#f34ef3",cyan:"#4ef3f3",white:"#ffffff"),dim:(black:"#000000",red:"#c40000",green:"#00c400",yellow:"#c47e00",blue:"#0000c4",magenta:"#c400c4",cyan:"#00c4c4",white:"#c4c4c4"))
+(
+    name: "IBM 5153 CGA (Black)",
+    foreground: "#c4c4c4",
+    cursor: "#c4c4c4",
+    bright_foreground: "#c4c4c4",
+    dim_foreground: "#4e4e4e",
+    normal: (
+        black: "#c4c4c4",
+        red: "#c40000",
+        green: "#00c400",
+        yellow: "#c47e00",
+        blue: "#0000c4",
+        magenta: "#c400c4",
+        cyan: "#00c4c4",
+        white: "#4e4e4e"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#c40000",
+        green: "#00c400",
+        yellow: "#c47e00",
+        blue: "#0000c4",
+        magenta: "#c400c4",
+        cyan: "#00c4c4",
+        white: "#4e4e4e"
+    ),
+    dim: (
+        black: "#c4c4c4",
+        red: "#c40000",
+        green: "#00c400",
+        yellow: "#c47e00",
+        blue: "#0000c4",
+        magenta: "#c400c4",
+        cyan: "#00c4c4",
+        white: "#4e4e4e"
+    ),
+)

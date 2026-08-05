@@ -1,1 +1,37 @@
-(name:"Everforest Dark Hard",foreground:"#d3c6aa",cursor:"#e69875",bright_foreground:"#d3c6aa",dim_foreground:"#FF0000",normal:(black:"#7a8478",red:"#e67e80",green:"#a7c080",yellow:"#dbbc7f",blue:"#7fbbb3",magenta:"#d699b6",cyan:"#83c092",white:"#f2efdf"),bright:(black:"#a6b0a0",red:"#f85552",green:"#8da101",yellow:"#dfa000",blue:"#3a94c5",magenta:"#df69ba",cyan:"#35a77c",white:"#fffbef"),dim:(black:"#7a8478",red:"#e67e80",green:"#a7c080",yellow:"#dbbc7f",blue:"#7fbbb3",magenta:"#d699b6",cyan:"#83c092",white:"#f2efdf"))
+(
+    name: "Everforest Dark Hard",
+    foreground: "#d3c6aa",
+    cursor: "#e69875",
+    bright_foreground: "#d3c6aa",
+    dim_foreground: "#a6b0a0",
+    normal: (
+        black: "#f2efdf",
+        red: "#e67e80",
+        green: "#a7c080",
+        yellow: "#dbbc7f",
+        blue: "#7fbbb3",
+        magenta: "#d699b6",
+        cyan: "#83c092",
+        white: "#a6b0a0"
+    ),
+    bright: (
+        black: "#fffbef",
+        red: "#e67e80",
+        green: "#a7c080",
+        yellow: "#dbbc7f",
+        blue: "#7fbbb3",
+        magenta: "#d699b6",
+        cyan: "#83c092",
+        white: "#a6b0a0"
+    ),
+    dim: (
+        black: "#f2efdf",
+        red: "#e67e80",
+        green: "#a7c080",
+        yellow: "#dbbc7f",
+        blue: "#7fbbb3",
+        magenta: "#d699b6",
+        cyan: "#83c092",
+        white: "#a6b0a0"
+    ),
+)

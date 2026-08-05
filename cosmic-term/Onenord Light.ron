@@ -1,1 +1,37 @@
-(name:"Onenord Light",foreground:"#2e3440",cursor:"#3879c5",bright_foreground:"#2e3440",dim_foreground:"#FF0000",normal:(black:"#2e3440",red:"#cb4f53",green:"#48a53d",yellow:"#ee5e25",blue:"#3879c5",magenta:"#9f4aca",cyan:"#3ea1ad",white:"#b2b6bd"),bright:(black:"#646a76",red:"#d16366",green:"#5f9e9d",yellow:"#ba793e",blue:"#1b40a6",magenta:"#9665af",cyan:"#8fbcbb",white:"#eceff4"),dim:(black:"#2e3440",red:"#cb4f53",green:"#48a53d",yellow:"#ee5e25",blue:"#3879c5",magenta:"#9f4aca",cyan:"#3ea1ad",white:"#b2b6bd"))
+(
+    name: "Onenord Light",
+    foreground: "#2e3440",
+    cursor: "#3879c5",
+    bright_foreground: "#2e3440",
+    dim_foreground: "#646a76",
+    normal: (
+        black: "#b2b6bd",
+        red: "#cb4f53",
+        green: "#48a53d",
+        yellow: "#ee5e25",
+        blue: "#3879c5",
+        magenta: "#9f4aca",
+        cyan: "#3ea1ad",
+        white: "#646a76"
+    ),
+    bright: (
+        black: "#eceff4",
+        red: "#cb4f53",
+        green: "#48a53d",
+        yellow: "#ee5e25",
+        blue: "#3879c5",
+        magenta: "#9f4aca",
+        cyan: "#3ea1ad",
+        white: "#646a76"
+    ),
+    dim: (
+        black: "#b2b6bd",
+        red: "#cb4f53",
+        green: "#48a53d",
+        yellow: "#ee5e25",
+        blue: "#3879c5",
+        magenta: "#9f4aca",
+        cyan: "#3ea1ad",
+        white: "#646a76"
+    ),
+)

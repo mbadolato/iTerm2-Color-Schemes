@@ -1,1 +1,37 @@
-(name:"Ayu Light",foreground:"#5c6166",cursor:"#ffaa33",bright_foreground:"#5c6166",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#ea6c6d",green:"#6cbf43",yellow:"#eca944",blue:"#3199e1",magenta:"#9e75c7",cyan:"#46ba94",white:"#bababa"),bright:(black:"#686868",red:"#f07171",green:"#86b300",yellow:"#f2ae49",blue:"#399ee6",magenta:"#a37acc",cyan:"#4cbf99",white:"#d1d1d1"),dim:(black:"#000000",red:"#ea6c6d",green:"#6cbf43",yellow:"#eca944",blue:"#3199e1",magenta:"#9e75c7",cyan:"#46ba94",white:"#bababa"))
+(
+    name: "Ayu Light",
+    foreground: "#5c6166",
+    cursor: "#ffaa33",
+    bright_foreground: "#5c6166",
+    dim_foreground: "#686868",
+    normal: (
+        black: "#bababa",
+        red: "#ea6c6d",
+        green: "#6cbf43",
+        yellow: "#eca944",
+        blue: "#3199e1",
+        magenta: "#9e75c7",
+        cyan: "#46ba94",
+        white: "#686868"
+    ),
+    bright: (
+        black: "#d1d1d1",
+        red: "#ea6c6d",
+        green: "#6cbf43",
+        yellow: "#eca944",
+        blue: "#3199e1",
+        magenta: "#9e75c7",
+        cyan: "#46ba94",
+        white: "#686868"
+    ),
+    dim: (
+        black: "#bababa",
+        red: "#ea6c6d",
+        green: "#6cbf43",
+        yellow: "#eca944",
+        blue: "#3199e1",
+        magenta: "#9e75c7",
+        cyan: "#46ba94",
+        white: "#686868"
+    ),
+)

@@ -1,1 +1,37 @@
-(name:"Molokai",foreground:"#bbbbbb",cursor:"#bbbbbb",bright_foreground:"#bbbbbb",dim_foreground:"#FF0000",normal:(black:"#121212",red:"#fa2573",green:"#98e123",yellow:"#dfd460",blue:"#1080d0",magenta:"#8700ff",cyan:"#43a8d0",white:"#bbbbbb"),bright:(black:"#555555",red:"#f6669d",green:"#b1e05f",yellow:"#fff26d",blue:"#00afff",magenta:"#af87ff",cyan:"#51ceff",white:"#ffffff"),dim:(black:"#121212",red:"#fa2573",green:"#98e123",yellow:"#dfd460",blue:"#1080d0",magenta:"#8700ff",cyan:"#43a8d0",white:"#bbbbbb"))
+(
+    name: "Molokai",
+    foreground: "#bbbbbb",
+    cursor: "#bbbbbb",
+    bright_foreground: "#bbbbbb",
+    dim_foreground: "#555555",
+    normal: (
+        black: "#bbbbbb",
+        red: "#fa2573",
+        green: "#98e123",
+        yellow: "#dfd460",
+        blue: "#1080d0",
+        magenta: "#8700ff",
+        cyan: "#43a8d0",
+        white: "#555555"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#fa2573",
+        green: "#98e123",
+        yellow: "#dfd460",
+        blue: "#1080d0",
+        magenta: "#8700ff",
+        cyan: "#43a8d0",
+        white: "#555555"
+    ),
+    dim: (
+        black: "#bbbbbb",
+        red: "#fa2573",
+        green: "#98e123",
+        yellow: "#dfd460",
+        blue: "#1080d0",
+        magenta: "#8700ff",
+        cyan: "#43a8d0",
+        white: "#555555"
+    ),
+)

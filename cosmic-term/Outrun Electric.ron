@@ -1,1 +1,37 @@
-(name:"Outrun Electric",foreground:"#f2f3f7",cursor:"#ff2afc",bright_foreground:"#f2f3f7",dim_foreground:"#FF0000",normal:(black:"#131033",red:"#e61f44",green:"#a7da1e",yellow:"#ffd400",blue:"#1ea8fc",magenta:"#ff2afc",cyan:"#42c6ff",white:"#f2f3f7"),bright:(black:"#546a90",red:"#ef6d85",green:"#c6e76d",yellow:"#ffe359",blue:"#6dc6fd",magenta:"#df85ff",cyan:"#84daff",white:"#ffffff"),dim:(black:"#131033",red:"#e61f44",green:"#a7da1e",yellow:"#ffd400",blue:"#1ea8fc",magenta:"#ff2afc",cyan:"#42c6ff",white:"#f2f3f7"))
+(
+    name: "Outrun Electric",
+    foreground: "#f2f3f7",
+    cursor: "#ff2afc",
+    bright_foreground: "#f2f3f7",
+    dim_foreground: "#546a90",
+    normal: (
+        black: "#f2f3f7",
+        red: "#e61f44",
+        green: "#a7da1e",
+        yellow: "#ffd400",
+        blue: "#1ea8fc",
+        magenta: "#ff2afc",
+        cyan: "#42c6ff",
+        white: "#546a90"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#e61f44",
+        green: "#a7da1e",
+        yellow: "#ffd400",
+        blue: "#1ea8fc",
+        magenta: "#ff2afc",
+        cyan: "#42c6ff",
+        white: "#546a90"
+    ),
+    dim: (
+        black: "#f2f3f7",
+        red: "#e61f44",
+        green: "#a7da1e",
+        yellow: "#ffd400",
+        blue: "#1ea8fc",
+        magenta: "#ff2afc",
+        cyan: "#42c6ff",
+        white: "#546a90"
+    ),
+)

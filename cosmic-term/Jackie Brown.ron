@@ -1,1 +1,37 @@
-(name:"Jackie Brown",foreground:"#ffcc2f",cursor:"#23ff18",bright_foreground:"#ffcc2f",dim_foreground:"#FF0000",normal:(black:"#2c1d16",red:"#ef5734",green:"#2baf2b",yellow:"#bebf00",blue:"#246eb2",magenta:"#d05ec1",cyan:"#00acee",white:"#bfbfbf"),bright:(black:"#666666",red:"#e50000",green:"#86a93e",yellow:"#e5e500",blue:"#0000ff",magenta:"#e500e5",cyan:"#00e5e5",white:"#e5e5e5"),dim:(black:"#2c1d16",red:"#ef5734",green:"#2baf2b",yellow:"#bebf00",blue:"#246eb2",magenta:"#d05ec1",cyan:"#00acee",white:"#bfbfbf"))
+(
+    name: "Jackie Brown",
+    foreground: "#ffcc2f",
+    cursor: "#23ff18",
+    bright_foreground: "#ffcc2f",
+    dim_foreground: "#666666",
+    normal: (
+        black: "#bfbfbf",
+        red: "#ef5734",
+        green: "#2baf2b",
+        yellow: "#bebf00",
+        blue: "#246eb2",
+        magenta: "#d05ec1",
+        cyan: "#00acee",
+        white: "#666666"
+    ),
+    bright: (
+        black: "#e5e5e5",
+        red: "#ef5734",
+        green: "#2baf2b",
+        yellow: "#bebf00",
+        blue: "#246eb2",
+        magenta: "#d05ec1",
+        cyan: "#00acee",
+        white: "#666666"
+    ),
+    dim: (
+        black: "#bfbfbf",
+        red: "#ef5734",
+        green: "#2baf2b",
+        yellow: "#bebf00",
+        blue: "#246eb2",
+        magenta: "#d05ec1",
+        cyan: "#00acee",
+        white: "#666666"
+    ),
+)

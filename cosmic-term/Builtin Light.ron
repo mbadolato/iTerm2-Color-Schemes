@@ -1,1 +1,37 @@
-(name:"Builtin Light",foreground:"#000000",cursor:"#000000",bright_foreground:"#000000",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#bb0000",green:"#00bb00",yellow:"#bbbb00",blue:"#0000bb",magenta:"#bb00bb",cyan:"#00bbbb",white:"#bbbbbb"),bright:(black:"#555555",red:"#ff5555",green:"#2fd92f",yellow:"#bfbf15",blue:"#5555ff",magenta:"#ff55ff",cyan:"#22cccc",white:"#ffffff"),dim:(black:"#000000",red:"#bb0000",green:"#00bb00",yellow:"#bbbb00",blue:"#0000bb",magenta:"#bb00bb",cyan:"#00bbbb",white:"#bbbbbb"))
+(
+    name: "Builtin Light",
+    foreground: "#000000",
+    cursor: "#000000",
+    bright_foreground: "#000000",
+    dim_foreground: "#555555",
+    normal: (
+        black: "#bbbbbb",
+        red: "#bb0000",
+        green: "#00bb00",
+        yellow: "#bbbb00",
+        blue: "#0000bb",
+        magenta: "#bb00bb",
+        cyan: "#00bbbb",
+        white: "#555555"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#bb0000",
+        green: "#00bb00",
+        yellow: "#bbbb00",
+        blue: "#0000bb",
+        magenta: "#bb00bb",
+        cyan: "#00bbbb",
+        white: "#555555"
+    ),
+    dim: (
+        black: "#bbbbbb",
+        red: "#bb0000",
+        green: "#00bb00",
+        yellow: "#bbbb00",
+        blue: "#0000bb",
+        magenta: "#bb00bb",
+        cyan: "#00bbbb",
+        white: "#555555"
+    ),
+)

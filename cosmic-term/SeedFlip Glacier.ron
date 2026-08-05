@@ -1,1 +1,37 @@
-(name:"SeedFlip Glacier",foreground:"#0f172a",cursor:"#0ea5e9",bright_foreground:"#0f172a",dim_foreground:"#FF0000",normal:(black:"#c2d4e5",red:"#bd0f0f",green:"#0fbd49",yellow:"#bda00f",blue:"#0f58bd",magenta:"#bd0fbd",cyan:"#0fbdbd",white:"#080d17"),bright:(black:"#8dadce",red:"#ee2b2b",green:"#12d452",yellow:"#d4b312",blue:"#2b7cee",magenta:"#ee2bee",cyan:"#12d4d4",white:"#0f172a"),dim:(black:"#c2d4e5",red:"#bd0f0f",green:"#0fbd49",yellow:"#bda00f",blue:"#0f58bd",magenta:"#bd0fbd",cyan:"#0fbdbd",white:"#080d17"))
+(
+    name: "SeedFlip Glacier",
+    foreground: "#0f172a",
+    cursor: "#0ea5e9",
+    bright_foreground: "#0f172a",
+    dim_foreground: "#8dadce",
+    normal: (
+        black: "#080d17",
+        red: "#bd0f0f",
+        green: "#0fbd49",
+        yellow: "#bda00f",
+        blue: "#0f58bd",
+        magenta: "#bd0fbd",
+        cyan: "#0fbdbd",
+        white: "#8dadce"
+    ),
+    bright: (
+        black: "#0f172a",
+        red: "#bd0f0f",
+        green: "#0fbd49",
+        yellow: "#bda00f",
+        blue: "#0f58bd",
+        magenta: "#bd0fbd",
+        cyan: "#0fbdbd",
+        white: "#8dadce"
+    ),
+    dim: (
+        black: "#080d17",
+        red: "#bd0f0f",
+        green: "#0fbd49",
+        yellow: "#bda00f",
+        blue: "#0f58bd",
+        magenta: "#bd0fbd",
+        cyan: "#0fbdbd",
+        white: "#8dadce"
+    ),
+)

@@ -1,1 +1,37 @@
-(name:"GitLab Light",foreground:"#303030",cursor:"#303030",bright_foreground:"#303030",dim_foreground:"#FF0000",normal:(black:"#303030",red:"#a31700",green:"#0a7f3d",yellow:"#af551d",blue:"#006cd8",magenta:"#583cac",cyan:"#00798a",white:"#303030"),bright:(black:"#303030",red:"#a31700",green:"#0a7f3d",yellow:"#af551d",blue:"#006cd8",magenta:"#583cac",cyan:"#00798a",white:"#303030"),dim:(black:"#303030",red:"#a31700",green:"#0a7f3d",yellow:"#af551d",blue:"#006cd8",magenta:"#583cac",cyan:"#00798a",white:"#303030"))
+(
+    name: "GitLab Light",
+    foreground: "#303030",
+    cursor: "#303030",
+    bright_foreground: "#303030",
+    dim_foreground: "#303030",
+    normal: (
+        black: "#303030",
+        red: "#a31700",
+        green: "#0a7f3d",
+        yellow: "#af551d",
+        blue: "#006cd8",
+        magenta: "#583cac",
+        cyan: "#00798a",
+        white: "#303030"
+    ),
+    bright: (
+        black: "#303030",
+        red: "#a31700",
+        green: "#0a7f3d",
+        yellow: "#af551d",
+        blue: "#006cd8",
+        magenta: "#583cac",
+        cyan: "#00798a",
+        white: "#303030"
+    ),
+    dim: (
+        black: "#303030",
+        red: "#a31700",
+        green: "#0a7f3d",
+        yellow: "#af551d",
+        blue: "#006cd8",
+        magenta: "#583cac",
+        cyan: "#00798a",
+        white: "#303030"
+    ),
+)

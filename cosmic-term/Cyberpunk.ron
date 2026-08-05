@@ -1,1 +1,37 @@
-(name:"Cyberpunk",foreground:"#e5e5e5",cursor:"#21f6bc",bright_foreground:"#e5e5e5",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#ff7092",green:"#00fbac",yellow:"#fffa6a",blue:"#00bfff",magenta:"#df95ff",cyan:"#86cbfe",white:"#ffffff"),bright:(black:"#595959",red:"#ff8aa4",green:"#21f6bc",yellow:"#fff787",blue:"#1bccfd",magenta:"#e6aefe",cyan:"#99d6fc",white:"#ffffff"),dim:(black:"#000000",red:"#ff7092",green:"#00fbac",yellow:"#fffa6a",blue:"#00bfff",magenta:"#df95ff",cyan:"#86cbfe",white:"#ffffff"))
+(
+    name: "Cyberpunk",
+    foreground: "#e5e5e5",
+    cursor: "#21f6bc",
+    bright_foreground: "#e5e5e5",
+    dim_foreground: "#595959",
+    normal: (
+        black: "#ffffff",
+        red: "#ff7092",
+        green: "#00fbac",
+        yellow: "#fffa6a",
+        blue: "#00bfff",
+        magenta: "#df95ff",
+        cyan: "#86cbfe",
+        white: "#595959"
+    ),
+    bright: (
+        black: "#ffffff",
+        red: "#ff7092",
+        green: "#00fbac",
+        yellow: "#fffa6a",
+        blue: "#00bfff",
+        magenta: "#df95ff",
+        cyan: "#86cbfe",
+        white: "#595959"
+    ),
+    dim: (
+        black: "#ffffff",
+        red: "#ff7092",
+        green: "#00fbac",
+        yellow: "#fffa6a",
+        blue: "#00bfff",
+        magenta: "#df95ff",
+        cyan: "#86cbfe",
+        white: "#595959"
+    ),
+)

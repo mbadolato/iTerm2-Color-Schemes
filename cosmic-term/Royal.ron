@@ -1,1 +1,37 @@
-(name:"Royal",foreground:"#514968",cursor:"#524966",bright_foreground:"#514968",dim_foreground:"#FF0000",normal:(black:"#241f2b",red:"#91284c",green:"#23801c",yellow:"#b49d27",blue:"#6580b0",magenta:"#674d96",cyan:"#8aaabe",white:"#524966"),bright:(black:"#3e3a4a",red:"#d5356c",green:"#2cd946",yellow:"#fde83b",blue:"#90baf9",magenta:"#a479e3",cyan:"#acd4eb",white:"#9e8cbd"),dim:(black:"#241f2b",red:"#91284c",green:"#23801c",yellow:"#b49d27",blue:"#6580b0",magenta:"#674d96",cyan:"#8aaabe",white:"#524966"))
+(
+    name: "Royal",
+    foreground: "#514968",
+    cursor: "#524966",
+    bright_foreground: "#514968",
+    dim_foreground: "#3e3a4a",
+    normal: (
+        black: "#524966",
+        red: "#91284c",
+        green: "#23801c",
+        yellow: "#b49d27",
+        blue: "#6580b0",
+        magenta: "#674d96",
+        cyan: "#8aaabe",
+        white: "#3e3a4a"
+    ),
+    bright: (
+        black: "#9e8cbd",
+        red: "#91284c",
+        green: "#23801c",
+        yellow: "#b49d27",
+        blue: "#6580b0",
+        magenta: "#674d96",
+        cyan: "#8aaabe",
+        white: "#3e3a4a"
+    ),
+    dim: (
+        black: "#524966",
+        red: "#91284c",
+        green: "#23801c",
+        yellow: "#b49d27",
+        blue: "#6580b0",
+        magenta: "#674d96",
+        cyan: "#8aaabe",
+        white: "#3e3a4a"
+    ),
+)

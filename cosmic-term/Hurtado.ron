@@ -1,1 +1,37 @@
-(name:"Hurtado",foreground:"#dbdbdb",cursor:"#bbbbbb",bright_foreground:"#dbdbdb",dim_foreground:"#FF0000",normal:(black:"#575757",red:"#ff1b00",green:"#a5e055",yellow:"#fbe74a",blue:"#496487",magenta:"#fd5ff1",cyan:"#86e9fe",white:"#cbcccb"),bright:(black:"#404040",red:"#d51d00",green:"#a5df55",yellow:"#fbe84a",blue:"#89beff",magenta:"#c001c1",cyan:"#86eafe",white:"#dbdbdb"),dim:(black:"#575757",red:"#ff1b00",green:"#a5e055",yellow:"#fbe74a",blue:"#496487",magenta:"#fd5ff1",cyan:"#86e9fe",white:"#cbcccb"))
+(
+    name: "Hurtado",
+    foreground: "#dbdbdb",
+    cursor: "#bbbbbb",
+    bright_foreground: "#dbdbdb",
+    dim_foreground: "#404040",
+    normal: (
+        black: "#cbcccb",
+        red: "#ff1b00",
+        green: "#a5e055",
+        yellow: "#fbe74a",
+        blue: "#496487",
+        magenta: "#fd5ff1",
+        cyan: "#86e9fe",
+        white: "#404040"
+    ),
+    bright: (
+        black: "#dbdbdb",
+        red: "#ff1b00",
+        green: "#a5e055",
+        yellow: "#fbe74a",
+        blue: "#496487",
+        magenta: "#fd5ff1",
+        cyan: "#86e9fe",
+        white: "#404040"
+    ),
+    dim: (
+        black: "#cbcccb",
+        red: "#ff1b00",
+        green: "#a5e055",
+        yellow: "#fbe74a",
+        blue: "#496487",
+        magenta: "#fd5ff1",
+        cyan: "#86e9fe",
+        white: "#404040"
+    ),
+)
