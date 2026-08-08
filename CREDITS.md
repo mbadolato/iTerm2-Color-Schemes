@@ -530,6 +530,8 @@ The scheme Violet was created by [ashfinal](https://github.com/ashfinal/vim-colo
 
 The WarmNeon theme was ported from [PyCharm](http://www.jetbrains.com/pycharm/) by [firewut](https://github.com/firewut)
 
+The Warm Burnout Dark and Warm Burnout Light themes were created by [Felipe Lima](https://github.com/felipefdl) as part of the [Warm Burnout](https://github.com/felipefdl/warm-burnout) multi-platform theme suite.
+
 The Wez theme was created by [wez](https://gist.github.com/wez/850268/)
 
 The Whimsy theme was created by [Rod](https://github.com/rod)

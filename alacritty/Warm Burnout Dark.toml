@@ -1,0 +1,33 @@
+# Colors (Warm Burnout Dark)
+
+[colors.bright]
+black = '#686868'
+blue = '#59c2ff'
+cyan = '#95e6cb'
+green = '#aad94c'
+magenta = '#d2a6ff'
+red = '#f07178'
+white = '#ffffff'
+yellow = '#ffb454'
+
+[colors.cursor]
+cursor = '#f5c56e'
+text = '#1a1510'
+
+[colors.normal]
+black = '#23211b'
+blue = '#4fbfff'
+cyan = '#93e2c8'
+green = '#70bf56'
+magenta = '#d0a1ff'
+red = '#f06b73'
+white = '#c7c7c7'
+yellow = '#fdb04c'
+
+[colors.primary]
+background = '#1a1510'
+foreground = '#bfbdb6'
+
+[colors.selection]
+background = '#33393a'
+text = '#bfbdb6'
