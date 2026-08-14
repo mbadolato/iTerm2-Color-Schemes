@@ -1,0 +1,31 @@
+# Ported from https://github.com/promptegrity/grok-themes
+# Palettes adapted from https://github.com/xai-org/grok-build
+
+name: "Grok Night"
+variant: "Dark"
+
+color_01: "#0a0a0a"
+color_02: "#f7768e"
+color_03: "#9ece6a"
+color_04: "#e0af68"
+color_05: "#7aa2f7"
+color_06: "#bb9af7"
+color_07: "#7dcfff"
+color_08: "#c8c8c8"
+
+color_09: "#6c6c6c"
+color_10: "#f7768e"
+color_11: "#9ece6a"
+color_12: "#e0af68"
+color_13: "#7aa2f7"
+color_14: "#bb9af7"
+color_15: "#7dcfff"
+color_16: "#e1e1e1"
+
+background: "#141414"
+foreground: "#e1e1e1"
+cursor: "#e0af68"
+cursor_text: "#141414"
+selection: "#242424"
+selection_text: "#e1e1e1"
+link: "#7aa6da"

@@ -1,0 +1,43 @@
+!
+! Grok Night
+!
+*.foreground:  #e1e1e1
+*.background:  #141414
+*.cursorColor: #e0af68
+!
+! Black
+*.color0:      #0a0a0a
+*.color8:      #6c6c6c
+!
+! Red
+*.color1:      #f7768e
+*.color9:      #f7768e
+!
+! Green
+*.color2:      #9ece6a
+*.color10:     #9ece6a
+!
+! Yellow
+*.color3:      #e0af68
+*.color11:     #e0af68
+!
+! Blue
+*.color4:      #7aa2f7
+*.color12:     #7aa2f7
+!
+! Magenta
+*.color5:      #bb9af7
+*.color13:     #bb9af7
+!
+! Cyan
+*.color6:      #7dcfff
+*.color14:     #7dcfff
+!
+! White
+*.color7:      #c8c8c8
+*.color15:     #e1e1e1
+!
+! Bold, Italic, Underline
+*.colorBD:     #e1e1e1
+!*.colorIT:
+!*.colorUL:

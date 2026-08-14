@@ -1,0 +1,12 @@
+# Grok Day
+[colors]
+foreground = "#262626"
+background = "#f5f5f5"
+cursor_bg = "#7d4bc6"
+cursor_border = "#7d4bc6"
+cursor_fg = "#f5f5f5"
+selection_bg = "#dedede"
+selection_fg = "#262626"
+
+ansi = ["#262626","#cd3048","#378e23","#a27612","#2f64d2","#7d4bc6","#0082aa","#bbbbbb"]
+brights = ["#767676","#cd3048","#378e23","#a27612","#2f64d2","#7d4bc6","#0082aa","#444444"]

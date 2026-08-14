@@ -211,6 +211,8 @@ The GitLab Dark, GitLab Dark Grey, and GitLab Light themes were added by [Antoni
 
 The Gleam and Gleam Classic themes were created by [trag1c](https://github.com/trag1c). Originally designed by [aslilac](https://github.com/aslilac) and [lpil](https://github.com/lpil).
 
+The Grok Day and Grok Night themes come from [promptegrity/grok-themes](https://github.com/promptegrity/grok-themes). The palettes are adapted from [xai-org/grok-build](https://github.com/xai-org/grok-build). [zasdaym](https://github.com/zasdaym) added these themes.
+
 The Gruber Darker theme was inspired by [Alexey Kutepov](https://github.com/rexim)
 
 The Gruvbox Dark theme was created by [morhetz](https://github.com/morhetz) and added by [saccarosium](https://github.com/mcchrish)

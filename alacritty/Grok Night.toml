@@ -1,0 +1,33 @@
+# Colors (Grok Night)
+
+[colors.bright]
+black = '#6c6c6c'
+blue = '#7aa2f7'
+cyan = '#7dcfff'
+green = '#9ece6a'
+magenta = '#bb9af7'
+red = '#f7768e'
+white = '#e1e1e1'
+yellow = '#e0af68'
+
+[colors.cursor]
+cursor = '#e0af68'
+text = '#141414'
+
+[colors.normal]
+black = '#0a0a0a'
+blue = '#7aa2f7'
+cyan = '#7dcfff'
+green = '#9ece6a'
+magenta = '#bb9af7'
+red = '#f7768e'
+white = '#c8c8c8'
+yellow = '#e0af68'
+
+[colors.primary]
+background = '#141414'
+foreground = '#e1e1e1'
+
+[colors.selection]
+background = '#242424'
+text = '#e1e1e1'

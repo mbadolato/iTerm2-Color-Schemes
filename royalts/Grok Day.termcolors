@@ -1,0 +1,117 @@
+{
+  "userInterface": false,
+  "terminal": true,
+  "colors": [
+    {
+      "name": "Foreground",
+      "color": "#262626",
+      "terminalMapping": "foreground"
+    },
+    {
+      "name": "BoldForeground",
+      "color": "#262626",
+      "terminalMapping": "boldforeground"
+    },
+    {
+      "name": "Background",
+      "color": "#f5f5f5",
+      "terminalMapping": "background"
+    },
+    {
+      "name": "BoldBackground",
+      "color": "#f5f5f5",
+      "terminalMapping": "boldbackground"
+    },
+    {
+      "name": "CursorForeground",
+      "color": "#f5f5f5",
+      "terminalMapping": "cursorForeground"
+    },
+    {
+      "name": "CursorBackground",
+      "color": "#7d4bc6",
+      "terminalMapping": "cursorBackground"
+    },
+    {
+      "name": "Black",
+      "color": "#262626",
+      "terminalMapping": "ansiBlack"
+    },
+    {
+      "name": "Red",
+      "color": "#cd3048",
+      "terminalMapping": "ansiRed"
+    },
+    {
+      "name": "Green",
+      "color": "#378e23",
+      "terminalMapping": "ansiGreen"
+    },
+    {
+      "name": "Yellow",
+      "color": "#a27612",
+      "terminalMapping": "ansiYellow"
+    },
+    {
+      "name": "Blue",
+      "color": "#2f64d2",
+      "terminalMapping": "ansiBlue"
+    },
+    {
+      "name": "Magenta",
+      "color": "#7d4bc6",
+      "terminalMapping": "ansiMagenta"
+    },
+    {
+      "name": "Cyan",
+      "color": "#0082aa",
+      "terminalMapping": "ansiCyan"
+    },
+    {
+      "name": "White",
+      "color": "#bbbbbb",
+      "terminalMapping": "ansiWhite"
+    },
+    {
+      "name": "BrightBlack",
+      "color": "#767676",
+      "terminalMapping": "ansiBrightBlack"
+    },
+    {
+      "name": "BrightRed",
+      "color": "#cd3048",
+      "terminalMapping": "ansiBrightRed"
+    },
+    {
+      "name": "BrightGreen",
+      "color": "#378e23",
+      "terminalMapping": "ansiBrightGreen"
+    },
+    {
+      "name": "BrightYellow",
+      "color": "#a27612",
+      "terminalMapping": "ansiBrightYellow"
+    },
+    {
+      "name": "BrightBlue",
+      "color": "#2f64d2",
+      "terminalMapping": "ansiBrightBlue"
+    },
+    {
+      "name": "BrightMagenta",
+      "color": "#7d4bc6",
+      "terminalMapping": "ansiBrightMagenta"
+    },
+    {
+      "name": "BrightCyan",
+      "color": "#0082aa",
+      "terminalMapping": "ansiBrightCyan"
+    },
+    {
+      "name": "BrightWhite",
+      "color": "#444444",
+      "terminalMapping": "ansiBrightWhite"
+    }
+  ],
+  "paletteName": "Grok Day"
+}
