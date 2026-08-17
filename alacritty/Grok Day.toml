@@ -1,0 +1,33 @@
+# Colors (Grok Day)
+
+[colors.bright]
+black = '#767676'
+blue = '#2f64d2'
+cyan = '#0082aa'
+green = '#378e23'
+magenta = '#7d4bc6'
+red = '#cd3048'
+white = '#444444'
+yellow = '#a27612'
+
+[colors.cursor]
+cursor = '#7d4bc6'
+text = '#f5f5f5'
+
+[colors.normal]
+black = '#262626'
+blue = '#2f64d2'
+cyan = '#0082aa'
+green = '#378e23'
+magenta = '#7d4bc6'
+red = '#cd3048'
+white = '#bbbbbb'
+yellow = '#a27612'
+
+[colors.primary]
+background = '#f5f5f5'
+foreground = '#262626'
+
+[colors.selection]
+background = '#dedede'
+text = '#262626'

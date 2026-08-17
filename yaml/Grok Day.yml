@@ -1,0 +1,31 @@
+# Ported from https://github.com/promptegrity/grok-themes
+# Palettes adapted from https://github.com/xai-org/grok-build
+
+name: "Grok Day"
+variant: "Light"
+
+color_01: "#262626"
+color_02: "#cd3048"
+color_03: "#378e23"
+color_04: "#a27612"
+color_05: "#2f64d2"
+color_06: "#7d4bc6"
+color_07: "#0082aa"
+color_08: "#eeeeee"
+
+color_09: "#767676"
+color_10: "#cd3048"
+color_11: "#378e23"
+color_12: "#a27612"
+color_13: "#2f64d2"
+color_14: "#7d4bc6"
+color_15: "#0082aa"
+color_16: "#444444"
+
+background: "#f5f5f5"
+foreground: "#262626"
+cursor: "#7d4bc6"
+cursor_text: "#f5f5f5"
+selection: "#dedede"
+selection_text: "#262626"
+link: "#2f64d2"
