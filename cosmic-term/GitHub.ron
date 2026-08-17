@@ -1,1 +1,40 @@
-(name:"GitHub",foreground:"#3e3e3e",cursor:"#3f3f3f",bright_foreground:"#3e3e3e",dim_foreground:"#FF0000",normal:(black:"#3e3e3e",red:"#970b16",green:"#07962a",yellow:"#c5bb94",blue:"#003e8a",magenta:"#e94691",cyan:"#7cc4df",white:"#b2b2b2"),bright:(black:"#666666",red:"#de0000",green:"#7ac895",yellow:"#d7b600",blue:"#2e6cba",magenta:"#f29592",cyan:"#00c7cb",white:"#ffffff"),dim:(black:"#3e3e3e",red:"#970b16",green:"#07962a",yellow:"#c5bb94",blue:"#003e8a",magenta:"#e94691",cyan:"#7cc4df",white:"#b2b2b2"))
+(
+    name: "GitHub",
+    foreground: "#3e3e3e",
+    cursor: "#3f3f3f",
+    bright_foreground: "#3e3e3e",
+    dim_foreground: "#3e3e3e",
+
+    normal: (
+        black: "#3e3e3e",
+        red: "#970b16",
+        green: "#07962a",
+        yellow: "#c5bb94",
+        blue: "#003e8a",
+        magenta: "#e94691",
+        cyan: "#7cc4df",
+        white: "#b2b2b2"
+    ),
+
+    bright: (
+        black: "#666666",
+        red: "#de0000",
+        green: "#7ac895",
+        yellow: "#d7b600",
+        blue: "#2e6cba",
+        magenta: "#f29592",
+        cyan: "#00c7cb",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#3e3e3e",
+        red: "#970b16",
+        green: "#07962a",
+        yellow: "#c5bb94",
+        blue: "#003e8a",
+        magenta: "#e94691",
+        cyan: "#7cc4df",
+        white: "#b2b2b2"
+    ),
+)

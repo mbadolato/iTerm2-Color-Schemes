@@ -1,1 +1,40 @@
-(name:"Sumi Phosphor",foreground:"#bab4a8",cursor:"#2ec4b6",bright_foreground:"#bab4a8",dim_foreground:"#FF0000",normal:(black:"#1e1a16",red:"#d45848",green:"#5ca868",yellow:"#d4a03c",blue:"#5a82b8",magenta:"#9870b0",cyan:"#2ec4b6",white:"#8a8478"),bright:(black:"#474139",red:"#e87060",green:"#72c078",yellow:"#e8b84c",blue:"#70a0d8",magenta:"#b088c8",cyan:"#48d8c8",white:"#e0dcd4"),dim:(black:"#1e1a16",red:"#d45848",green:"#5ca868",yellow:"#d4a03c",blue:"#5a82b8",magenta:"#9870b0",cyan:"#2ec4b6",white:"#8a8478"))
+(
+    name: "Sumi Phosphor",
+    foreground: "#bab4a8",
+    cursor: "#2ec4b6",
+    bright_foreground: "#bab4a8",
+    dim_foreground: "#1e1a16",
+
+    normal: (
+        black: "#1e1a16",
+        red: "#d45848",
+        green: "#5ca868",
+        yellow: "#d4a03c",
+        blue: "#5a82b8",
+        magenta: "#9870b0",
+        cyan: "#2ec4b6",
+        white: "#8a8478"
+    ),
+
+    bright: (
+        black: "#474139",
+        red: "#e87060",
+        green: "#72c078",
+        yellow: "#e8b84c",
+        blue: "#70a0d8",
+        magenta: "#b088c8",
+        cyan: "#48d8c8",
+        white: "#e0dcd4"
+    ),
+
+    dim: (
+        black: "#1e1a16",
+        red: "#d45848",
+        green: "#5ca868",
+        yellow: "#d4a03c",
+        blue: "#5a82b8",
+        magenta: "#9870b0",
+        cyan: "#2ec4b6",
+        white: "#8a8478"
+    ),
+)

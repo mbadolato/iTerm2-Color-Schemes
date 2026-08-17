@@ -1,1 +1,40 @@
-(name:"Night Owlish Light",foreground:"#403f53",cursor:"#403f53",bright_foreground:"#403f53",dim_foreground:"#FF0000",normal:(black:"#011627",red:"#d3423e",green:"#2aa298",yellow:"#daaa01",blue:"#4876d6",magenta:"#403f53",cyan:"#08916a",white:"#7a8181"),bright:(black:"#7a8181",red:"#f76e6e",green:"#49d0c5",yellow:"#dac26b",blue:"#5ca7e4",magenta:"#697098",cyan:"#00c990",white:"#989fb1"),dim:(black:"#011627",red:"#d3423e",green:"#2aa298",yellow:"#daaa01",blue:"#4876d6",magenta:"#403f53",cyan:"#08916a",white:"#7a8181"))
+(
+    name: "Night Owlish Light",
+    foreground: "#403f53",
+    cursor: "#403f53",
+    bright_foreground: "#403f53",
+    dim_foreground: "#011627",
+
+    normal: (
+        black: "#011627",
+        red: "#d3423e",
+        green: "#2aa298",
+        yellow: "#daaa01",
+        blue: "#4876d6",
+        magenta: "#403f53",
+        cyan: "#08916a",
+        white: "#7a8181"
+    ),
+
+    bright: (
+        black: "#7a8181",
+        red: "#f76e6e",
+        green: "#49d0c5",
+        yellow: "#dac26b",
+        blue: "#5ca7e4",
+        magenta: "#697098",
+        cyan: "#00c990",
+        white: "#989fb1"
+    ),
+
+    dim: (
+        black: "#011627",
+        red: "#d3423e",
+        green: "#2aa298",
+        yellow: "#daaa01",
+        blue: "#4876d6",
+        magenta: "#403f53",
+        cyan: "#08916a",
+        white: "#7a8181"
+    ),
+)

@@ -1,1 +1,40 @@
-(name:"Powershell",foreground:"#f6f6f7",cursor:"#f6f6f7",bright_foreground:"#f6f6f7",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#981a22",green:"#098003",yellow:"#c4a000",blue:"#4140c3",magenta:"#d33682",cyan:"#0e807f",white:"#7f7c7f"),bright:(black:"#808080",red:"#ef2929",green:"#1cfe3c",yellow:"#fefe45",blue:"#268ad2",magenta:"#fe13fa",cyan:"#29fffe",white:"#c2c1c3"),dim:(black:"#000000",red:"#981a22",green:"#098003",yellow:"#c4a000",blue:"#4140c3",magenta:"#d33682",cyan:"#0e807f",white:"#7f7c7f"))
+(
+    name: "Powershell",
+    foreground: "#f6f6f7",
+    cursor: "#f6f6f7",
+    bright_foreground: "#f6f6f7",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#981a22",
+        green: "#098003",
+        yellow: "#c4a000",
+        blue: "#4140c3",
+        magenta: "#d33682",
+        cyan: "#0e807f",
+        white: "#7f7c7f"
+    ),
+
+    bright: (
+        black: "#808080",
+        red: "#ef2929",
+        green: "#1cfe3c",
+        yellow: "#fefe45",
+        blue: "#268ad2",
+        magenta: "#fe13fa",
+        cyan: "#29fffe",
+        white: "#c2c1c3"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#981a22",
+        green: "#098003",
+        yellow: "#c4a000",
+        blue: "#4140c3",
+        magenta: "#d33682",
+        cyan: "#0e807f",
+        white: "#7f7c7f"
+    ),
+)

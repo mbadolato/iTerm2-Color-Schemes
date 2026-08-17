@@ -1,1 +1,40 @@
-(name:"Citrus Ink",foreground:"#eaf0e2",cursor:"#b8e62e",bright_foreground:"#eaf0e2",dim_foreground:"#FF0000",normal:(black:"#14201e",red:"#ff6b5b",green:"#5fd3a0",yellow:"#e6c84a",blue:"#c2ef45",magenta:"#f2b441",cyan:"#cfe89a",white:"#eaf0e2"),bright:(black:"#4f6b5e",red:"#ff8174",green:"#72d8ab",yellow:"#f2a23e",blue:"#b8e62e",magenta:"#b8e62e",cyan:"#d5eba6",white:"#ffffff"),dim:(black:"#14201e",red:"#ff6b5b",green:"#5fd3a0",yellow:"#e6c84a",blue:"#c2ef45",magenta:"#f2b441",cyan:"#cfe89a",white:"#eaf0e2"))
+(
+    name: "Citrus Ink",
+    foreground: "#eaf0e2",
+    cursor: "#b8e62e",
+    bright_foreground: "#eaf0e2",
+    dim_foreground: "#14201e",
+
+    normal: (
+        black: "#14201e",
+        red: "#ff6b5b",
+        green: "#5fd3a0",
+        yellow: "#e6c84a",
+        blue: "#c2ef45",
+        magenta: "#f2b441",
+        cyan: "#cfe89a",
+        white: "#eaf0e2"
+    ),
+
+    bright: (
+        black: "#4f6b5e",
+        red: "#ff8174",
+        green: "#72d8ab",
+        yellow: "#f2a23e",
+        blue: "#b8e62e",
+        magenta: "#b8e62e",
+        cyan: "#d5eba6",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#14201e",
+        red: "#ff6b5b",
+        green: "#5fd3a0",
+        yellow: "#e6c84a",
+        blue: "#c2ef45",
+        magenta: "#f2b441",
+        cyan: "#cfe89a",
+        white: "#eaf0e2"
+    ),
+)

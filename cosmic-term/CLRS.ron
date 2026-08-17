@@ -1,1 +1,40 @@
-(name:"CLRS",foreground:"#262626",cursor:"#62c6ef",bright_foreground:"#262626",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#f8282a",green:"#328a5d",yellow:"#fa701d",blue:"#135cd0",magenta:"#9f00bd",cyan:"#33c3c1",white:"#b3b3b3"),bright:(black:"#555753",red:"#fb0416",green:"#2cc631",yellow:"#e3bd0e",blue:"#1670ff",magenta:"#e900b0",cyan:"#3ad5ce",white:"#eeeeec"),dim:(black:"#000000",red:"#f8282a",green:"#328a5d",yellow:"#fa701d",blue:"#135cd0",magenta:"#9f00bd",cyan:"#33c3c1",white:"#b3b3b3"))
+(
+    name: "CLRS",
+    foreground: "#262626",
+    cursor: "#62c6ef",
+    bright_foreground: "#262626",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#f8282a",
+        green: "#328a5d",
+        yellow: "#fa701d",
+        blue: "#135cd0",
+        magenta: "#9f00bd",
+        cyan: "#33c3c1",
+        white: "#b3b3b3"
+    ),
+
+    bright: (
+        black: "#555753",
+        red: "#fb0416",
+        green: "#2cc631",
+        yellow: "#e3bd0e",
+        blue: "#1670ff",
+        magenta: "#e900b0",
+        cyan: "#3ad5ce",
+        white: "#eeeeec"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#f8282a",
+        green: "#328a5d",
+        yellow: "#fa701d",
+        blue: "#135cd0",
+        magenta: "#9f00bd",
+        cyan: "#33c3c1",
+        white: "#b3b3b3"
+    ),
+)

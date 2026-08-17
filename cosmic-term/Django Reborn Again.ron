@@ -1,1 +1,40 @@
-(name:"Django Reborn Again",foreground:"#dadedc",cursor:"#ffcc00",bright_foreground:"#dadedc",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#fd6209",green:"#41a83e",yellow:"#ffe862",blue:"#245032",magenta:"#f8f8f8",cyan:"#9df39f",white:"#ffffff"),bright:(black:"#4c4c4c",red:"#ff943b",green:"#73da70",yellow:"#ffff94",blue:"#568264",magenta:"#ffffff",cyan:"#cfffd1",white:"#ffffff"),dim:(black:"#000000",red:"#fd6209",green:"#41a83e",yellow:"#ffe862",blue:"#245032",magenta:"#f8f8f8",cyan:"#9df39f",white:"#ffffff"))
+(
+    name: "Django Reborn Again",
+    foreground: "#dadedc",
+    cursor: "#ffcc00",
+    bright_foreground: "#dadedc",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#fd6209",
+        green: "#41a83e",
+        yellow: "#ffe862",
+        blue: "#245032",
+        magenta: "#f8f8f8",
+        cyan: "#9df39f",
+        white: "#ffffff"
+    ),
+
+    bright: (
+        black: "#4c4c4c",
+        red: "#ff943b",
+        green: "#73da70",
+        yellow: "#ffff94",
+        blue: "#568264",
+        magenta: "#ffffff",
+        cyan: "#cfffd1",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#fd6209",
+        green: "#41a83e",
+        yellow: "#ffe862",
+        blue: "#245032",
+        magenta: "#f8f8f8",
+        cyan: "#9df39f",
+        white: "#ffffff"
+    ),
+)

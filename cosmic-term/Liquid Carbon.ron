@@ -1,1 +1,40 @@
-(name:"Liquid Carbon",foreground:"#afc2c2",cursor:"#ffffff",bright_foreground:"#afc2c2",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#ff3030",green:"#559a70",yellow:"#ccac00",blue:"#0099cc",magenta:"#cc69c8",cyan:"#7ac4cc",white:"#bccccc"),bright:(black:"#595959",red:"#ff3030",green:"#559a70",yellow:"#ccac00",blue:"#0099cc",magenta:"#cc69c8",cyan:"#7ac4cc",white:"#bccccc"),dim:(black:"#000000",red:"#ff3030",green:"#559a70",yellow:"#ccac00",blue:"#0099cc",magenta:"#cc69c8",cyan:"#7ac4cc",white:"#bccccc"))
+(
+    name: "Liquid Carbon",
+    foreground: "#afc2c2",
+    cursor: "#ffffff",
+    bright_foreground: "#afc2c2",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#ff3030",
+        green: "#559a70",
+        yellow: "#ccac00",
+        blue: "#0099cc",
+        magenta: "#cc69c8",
+        cyan: "#7ac4cc",
+        white: "#bccccc"
+    ),
+
+    bright: (
+        black: "#595959",
+        red: "#ff3030",
+        green: "#559a70",
+        yellow: "#ccac00",
+        blue: "#0099cc",
+        magenta: "#cc69c8",
+        cyan: "#7ac4cc",
+        white: "#bccccc"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#ff3030",
+        green: "#559a70",
+        yellow: "#ccac00",
+        blue: "#0099cc",
+        magenta: "#cc69c8",
+        cyan: "#7ac4cc",
+        white: "#bccccc"
+    ),
+)

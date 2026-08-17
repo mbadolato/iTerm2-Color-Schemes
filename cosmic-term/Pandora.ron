@@ -1,1 +1,40 @@
-(name:"Pandora",foreground:"#e1e1e1",cursor:"#43d58e",bright_foreground:"#e1e1e1",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#ff4242",green:"#74af68",yellow:"#ffad29",blue:"#338f86",magenta:"#9414e6",cyan:"#23d7d7",white:"#e2e2e2"),bright:(black:"#3f5648",red:"#ff3242",green:"#74cd68",yellow:"#ffb929",blue:"#23d7d7",magenta:"#ff37ff",cyan:"#00ede1",white:"#ffffff"),dim:(black:"#000000",red:"#ff4242",green:"#74af68",yellow:"#ffad29",blue:"#338f86",magenta:"#9414e6",cyan:"#23d7d7",white:"#e2e2e2"))
+(
+    name: "Pandora",
+    foreground: "#e1e1e1",
+    cursor: "#43d58e",
+    bright_foreground: "#e1e1e1",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#ff4242",
+        green: "#74af68",
+        yellow: "#ffad29",
+        blue: "#338f86",
+        magenta: "#9414e6",
+        cyan: "#23d7d7",
+        white: "#e2e2e2"
+    ),
+
+    bright: (
+        black: "#3f5648",
+        red: "#ff3242",
+        green: "#74cd68",
+        yellow: "#ffb929",
+        blue: "#23d7d7",
+        magenta: "#ff37ff",
+        cyan: "#00ede1",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#ff4242",
+        green: "#74af68",
+        yellow: "#ffad29",
+        blue: "#338f86",
+        magenta: "#9414e6",
+        cyan: "#23d7d7",
+        white: "#e2e2e2"
+    ),
+)

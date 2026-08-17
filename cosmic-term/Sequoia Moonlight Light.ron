@@ -1,1 +1,40 @@
-(name:"Sequoia Moonlight Light",foreground:"#282930",cursor:"#565760",bright_foreground:"#282930",dim_foreground:"#FF0000",normal:(black:"#d4d5dc",red:"#c94da8",green:"#4a85d4",yellow:"#6a6a78",blue:"#9a5fd9",magenta:"#282930",cyan:"#d9884a",white:"#282930"),bright:(black:"#42434e",red:"#c94da8",green:"#4a85d4",yellow:"#6a6a78",blue:"#9a5fd9",magenta:"#282930",cyan:"#d9884a",white:"#282930"),dim:(black:"#d4d5dc",red:"#c94da8",green:"#4a85d4",yellow:"#6a6a78",blue:"#9a5fd9",magenta:"#282930",cyan:"#d9884a",white:"#282930"))
+(
+    name: "Sequoia Moonlight Light",
+    foreground: "#282930",
+    cursor: "#565760",
+    bright_foreground: "#282930",
+    dim_foreground: "#d4d5dc",
+
+    normal: (
+        black: "#d4d5dc",
+        red: "#c94da8",
+        green: "#4a85d4",
+        yellow: "#6a6a78",
+        blue: "#9a5fd9",
+        magenta: "#282930",
+        cyan: "#d9884a",
+        white: "#282930"
+    ),
+
+    bright: (
+        black: "#42434e",
+        red: "#c94da8",
+        green: "#4a85d4",
+        yellow: "#6a6a78",
+        blue: "#9a5fd9",
+        magenta: "#282930",
+        cyan: "#d9884a",
+        white: "#282930"
+    ),
+
+    dim: (
+        black: "#d4d5dc",
+        red: "#c94da8",
+        green: "#4a85d4",
+        yellow: "#6a6a78",
+        blue: "#9a5fd9",
+        magenta: "#282930",
+        cyan: "#d9884a",
+        white: "#282930"
+    ),
+)

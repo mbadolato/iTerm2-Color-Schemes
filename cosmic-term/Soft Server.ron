@@ -1,1 +1,40 @@
-(name:"Soft Server",foreground:"#99a3a2",cursor:"#d2e0de",bright_foreground:"#99a3a2",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#a2686a",green:"#9aa56a",yellow:"#a3906a",blue:"#6b8fa3",magenta:"#6a71a3",cyan:"#6ba58f",white:"#99a3a2"),bright:(black:"#666c6c",red:"#dd5c60",green:"#bfdf55",yellow:"#deb360",blue:"#62b1df",magenta:"#606edf",cyan:"#64e39c",white:"#d2e0de"),dim:(black:"#000000",red:"#a2686a",green:"#9aa56a",yellow:"#a3906a",blue:"#6b8fa3",magenta:"#6a71a3",cyan:"#6ba58f",white:"#99a3a2"))
+(
+    name: "Soft Server",
+    foreground: "#99a3a2",
+    cursor: "#d2e0de",
+    bright_foreground: "#99a3a2",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#a2686a",
+        green: "#9aa56a",
+        yellow: "#a3906a",
+        blue: "#6b8fa3",
+        magenta: "#6a71a3",
+        cyan: "#6ba58f",
+        white: "#99a3a2"
+    ),
+
+    bright: (
+        black: "#666c6c",
+        red: "#dd5c60",
+        green: "#bfdf55",
+        yellow: "#deb360",
+        blue: "#62b1df",
+        magenta: "#606edf",
+        cyan: "#64e39c",
+        white: "#d2e0de"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#a2686a",
+        green: "#9aa56a",
+        yellow: "#a3906a",
+        blue: "#6b8fa3",
+        magenta: "#6a71a3",
+        cyan: "#6ba58f",
+        white: "#99a3a2"
+    ),
+)

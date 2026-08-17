@@ -1,1 +1,40 @@
-(name:"Pierre Light",foreground:"#070707",cursor:"#009fff",bright_foreground:"#070707",dim_foreground:"#FF0000",normal:(black:"#1f1f21",red:"#d52c36",green:"#1d8138",yellow:"#ac8816",blue:"#216cab",magenta:"#a631be",cyan:"#2182a1",white:"#79797f"),bright:(black:"#8e8e95",red:"#ff2e3f",green:"#0dbe4e",yellow:"#d5a910",blue:"#009fff",magenta:"#c635e4",cyan:"#08c0ef",white:"#dbdbdd"),dim:(black:"#1f1f21",red:"#d52c36",green:"#1d8138",yellow:"#ac8816",blue:"#216cab",magenta:"#a631be",cyan:"#2182a1",white:"#79797f"))
+(
+    name: "Pierre Light",
+    foreground: "#070707",
+    cursor: "#009fff",
+    bright_foreground: "#070707",
+    dim_foreground: "#1f1f21",
+
+    normal: (
+        black: "#1f1f21",
+        red: "#d52c36",
+        green: "#1d8138",
+        yellow: "#ac8816",
+        blue: "#216cab",
+        magenta: "#a631be",
+        cyan: "#2182a1",
+        white: "#79797f"
+    ),
+
+    bright: (
+        black: "#8e8e95",
+        red: "#ff2e3f",
+        green: "#0dbe4e",
+        yellow: "#d5a910",
+        blue: "#009fff",
+        magenta: "#c635e4",
+        cyan: "#08c0ef",
+        white: "#dbdbdd"
+    ),
+
+    dim: (
+        black: "#1f1f21",
+        red: "#d52c36",
+        green: "#1d8138",
+        yellow: "#ac8816",
+        blue: "#216cab",
+        magenta: "#a631be",
+        cyan: "#2182a1",
+        white: "#79797f"
+    ),
+)

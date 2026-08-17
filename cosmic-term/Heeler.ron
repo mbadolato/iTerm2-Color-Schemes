@@ -1,1 +1,40 @@
-(name:"Heeler",foreground:"#fdfdfd",cursor:"#ffffff",bright_foreground:"#fdfdfd",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#e44c2e",green:"#bdd100",yellow:"#f4ce65",blue:"#5ba5f2",magenta:"#ff95c2",cyan:"#ff9763",white:"#ffffff"),bright:(black:"#4c4c4c",red:"#e44c2e",green:"#bdd100",yellow:"#f4ce65",blue:"#0088ff",magenta:"#ff95c2",cyan:"#8da6e4",white:"#ffffff"),dim:(black:"#000000",red:"#e44c2e",green:"#bdd100",yellow:"#f4ce65",blue:"#5ba5f2",magenta:"#ff95c2",cyan:"#ff9763",white:"#ffffff"))
+(
+    name: "Heeler",
+    foreground: "#fdfdfd",
+    cursor: "#ffffff",
+    bright_foreground: "#fdfdfd",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#e44c2e",
+        green: "#bdd100",
+        yellow: "#f4ce65",
+        blue: "#5ba5f2",
+        magenta: "#ff95c2",
+        cyan: "#ff9763",
+        white: "#ffffff"
+    ),
+
+    bright: (
+        black: "#4c4c4c",
+        red: "#e44c2e",
+        green: "#bdd100",
+        yellow: "#f4ce65",
+        blue: "#0088ff",
+        magenta: "#ff95c2",
+        cyan: "#8da6e4",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#e44c2e",
+        green: "#bdd100",
+        yellow: "#f4ce65",
+        blue: "#5ba5f2",
+        magenta: "#ff95c2",
+        cyan: "#ff9763",
+        white: "#ffffff"
+    ),
+)

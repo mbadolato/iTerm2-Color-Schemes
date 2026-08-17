@@ -1,1 +1,40 @@
-(name:"Seoulbones Dark",foreground:"#dddddd",cursor:"#e2e2e2",bright_foreground:"#dddddd",dim_foreground:"#FF0000",normal:(black:"#4b4b4b",red:"#e388a3",green:"#98bd99",yellow:"#ffdf9b",blue:"#97bdde",magenta:"#a5a6c5",cyan:"#6fbdbe",white:"#dddddd"),bright:(black:"#797172",red:"#eb99b1",green:"#8fcd92",yellow:"#ffe5b3",blue:"#a2c8e9",magenta:"#b2b3da",cyan:"#6bcacb",white:"#a8a8a8"),dim:(black:"#4b4b4b",red:"#e388a3",green:"#98bd99",yellow:"#ffdf9b",blue:"#97bdde",magenta:"#a5a6c5",cyan:"#6fbdbe",white:"#dddddd"))
+(
+    name: "Seoulbones Dark",
+    foreground: "#dddddd",
+    cursor: "#e2e2e2",
+    bright_foreground: "#dddddd",
+    dim_foreground: "#4b4b4b",
+
+    normal: (
+        black: "#4b4b4b",
+        red: "#e388a3",
+        green: "#98bd99",
+        yellow: "#ffdf9b",
+        blue: "#97bdde",
+        magenta: "#a5a6c5",
+        cyan: "#6fbdbe",
+        white: "#dddddd"
+    ),
+
+    bright: (
+        black: "#797172",
+        red: "#eb99b1",
+        green: "#8fcd92",
+        yellow: "#ffe5b3",
+        blue: "#a2c8e9",
+        magenta: "#b2b3da",
+        cyan: "#6bcacb",
+        white: "#a8a8a8"
+    ),
+
+    dim: (
+        black: "#4b4b4b",
+        red: "#e388a3",
+        green: "#98bd99",
+        yellow: "#ffdf9b",
+        blue: "#97bdde",
+        magenta: "#a5a6c5",
+        cyan: "#6fbdbe",
+        white: "#dddddd"
+    ),
+)

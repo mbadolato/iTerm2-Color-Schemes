@@ -1,1 +1,40 @@
-(name:"SeedFlip Nightfall",foreground:"#e4e4e7",cursor:"#818cf8",bright_foreground:"#e4e4e7",dim_foreground:"#FF0000",normal:(black:"#060609",red:"#f04242",green:"#42f07c",yellow:"#f0d342",blue:"#428bf0",magenta:"#f042f0",cyan:"#42f0f0",white:"#f2f2f3"),bright:(black:"#424256",red:"#f58989",green:"#89f5ad",yellow:"#f5e389",blue:"#89b6f5",magenta:"#f589f5",cyan:"#89f5f5",white:"#ffffff"),dim:(black:"#060609",red:"#f04242",green:"#42f07c",yellow:"#f0d342",blue:"#428bf0",magenta:"#f042f0",cyan:"#42f0f0",white:"#f2f2f3"))
+(
+    name: "SeedFlip Nightfall",
+    foreground: "#e4e4e7",
+    cursor: "#818cf8",
+    bright_foreground: "#e4e4e7",
+    dim_foreground: "#060609",
+
+    normal: (
+        black: "#060609",
+        red: "#f04242",
+        green: "#42f07c",
+        yellow: "#f0d342",
+        blue: "#428bf0",
+        magenta: "#f042f0",
+        cyan: "#42f0f0",
+        white: "#f2f2f3"
+    ),
+
+    bright: (
+        black: "#424256",
+        red: "#f58989",
+        green: "#89f5ad",
+        yellow: "#f5e389",
+        blue: "#89b6f5",
+        magenta: "#f589f5",
+        cyan: "#89f5f5",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#060609",
+        red: "#f04242",
+        green: "#42f07c",
+        yellow: "#f0d342",
+        blue: "#428bf0",
+        magenta: "#f042f0",
+        cyan: "#42f0f0",
+        white: "#f2f2f3"
+    ),
+)

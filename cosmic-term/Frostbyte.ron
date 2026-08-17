@@ -1,1 +1,40 @@
-(name:"Frostbyte",foreground:"#283645",cursor:"#1f73cc",bright_foreground:"#283645",dim_foreground:"#FF0000",normal:(black:"#283645",red:"#c2384f",green:"#2e7a56",yellow:"#876010",blue:"#1a66be",magenta:"#5552cc",cyan:"#1a7e9e",white:"#586878"),bright:(black:"#93a4b6",red:"#c2384f",green:"#2e7a56",yellow:"#9a5220",blue:"#1a66be",magenta:"#5552cc",cyan:"#1a7e9e",white:"#283645"),dim:(black:"#283645",red:"#c2384f",green:"#2e7a56",yellow:"#876010",blue:"#1a66be",magenta:"#5552cc",cyan:"#1a7e9e",white:"#586878"))
+(
+    name: "Frostbyte",
+    foreground: "#283645",
+    cursor: "#1f73cc",
+    bright_foreground: "#283645",
+    dim_foreground: "#283645",
+
+    normal: (
+        black: "#283645",
+        red: "#c2384f",
+        green: "#2e7a56",
+        yellow: "#876010",
+        blue: "#1a66be",
+        magenta: "#5552cc",
+        cyan: "#1a7e9e",
+        white: "#586878"
+    ),
+
+    bright: (
+        black: "#93a4b6",
+        red: "#c2384f",
+        green: "#2e7a56",
+        yellow: "#9a5220",
+        blue: "#1a66be",
+        magenta: "#5552cc",
+        cyan: "#1a7e9e",
+        white: "#283645"
+    ),
+
+    dim: (
+        black: "#283645",
+        red: "#c2384f",
+        green: "#2e7a56",
+        yellow: "#876010",
+        blue: "#1a66be",
+        magenta: "#5552cc",
+        cyan: "#1a7e9e",
+        white: "#586878"
+    ),
+)

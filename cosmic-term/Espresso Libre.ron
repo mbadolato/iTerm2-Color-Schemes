@@ -1,1 +1,40 @@
-(name:"Espresso Libre",foreground:"#b8a898",cursor:"#ffffff",bright_foreground:"#b8a898",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#cc0000",green:"#1a921c",yellow:"#f0e53a",blue:"#0066ff",magenta:"#c5656b",cyan:"#06989a",white:"#d3d7cf"),bright:(black:"#555753",red:"#ef2929",green:"#9aff87",yellow:"#fffb5c",blue:"#43a8ed",magenta:"#ff818a",cyan:"#34e2e2",white:"#eeeeec"),dim:(black:"#000000",red:"#cc0000",green:"#1a921c",yellow:"#f0e53a",blue:"#0066ff",magenta:"#c5656b",cyan:"#06989a",white:"#d3d7cf"))
+(
+    name: "Espresso Libre",
+    foreground: "#b8a898",
+    cursor: "#ffffff",
+    bright_foreground: "#b8a898",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#cc0000",
+        green: "#1a921c",
+        yellow: "#f0e53a",
+        blue: "#0066ff",
+        magenta: "#c5656b",
+        cyan: "#06989a",
+        white: "#d3d7cf"
+    ),
+
+    bright: (
+        black: "#555753",
+        red: "#ef2929",
+        green: "#9aff87",
+        yellow: "#fffb5c",
+        blue: "#43a8ed",
+        magenta: "#ff818a",
+        cyan: "#34e2e2",
+        white: "#eeeeec"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#cc0000",
+        green: "#1a921c",
+        yellow: "#f0e53a",
+        blue: "#0066ff",
+        magenta: "#c5656b",
+        cyan: "#06989a",
+        white: "#d3d7cf"
+    ),
+)

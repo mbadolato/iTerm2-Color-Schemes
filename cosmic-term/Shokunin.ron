@@ -1,1 +1,40 @@
-(name:"Shokunin",foreground:"#303841",cursor:"#3a3e44",bright_foreground:"#303841",dim_foreground:"#FF0000",normal:(black:"#303841",red:"#c84053",green:"#157a5b",yellow:"#9a6000",blue:"#006fae",magenta:"#8f4155",cyan:"#006c7f",white:"#c2beb4"),bright:(black:"#777269",red:"#d95a66",green:"#1b8e6a",yellow:"#b67608",blue:"#0084c7",magenta:"#a75b73",cyan:"#008396",white:"#ffffff"),dim:(black:"#303841",red:"#c84053",green:"#157a5b",yellow:"#9a6000",blue:"#006fae",magenta:"#8f4155",cyan:"#006c7f",white:"#c2beb4"))
+(
+    name: "Shokunin",
+    foreground: "#303841",
+    cursor: "#3a3e44",
+    bright_foreground: "#303841",
+    dim_foreground: "#303841",
+
+    normal: (
+        black: "#303841",
+        red: "#c84053",
+        green: "#157a5b",
+        yellow: "#9a6000",
+        blue: "#006fae",
+        magenta: "#8f4155",
+        cyan: "#006c7f",
+        white: "#c2beb4"
+    ),
+
+    bright: (
+        black: "#777269",
+        red: "#d95a66",
+        green: "#1b8e6a",
+        yellow: "#b67608",
+        blue: "#0084c7",
+        magenta: "#a75b73",
+        cyan: "#008396",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#303841",
+        red: "#c84053",
+        green: "#157a5b",
+        yellow: "#9a6000",
+        blue: "#006fae",
+        magenta: "#8f4155",
+        cyan: "#006c7f",
+        white: "#c2beb4"
+    ),
+)

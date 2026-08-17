@@ -1,1 +1,40 @@
-(name:"London Soho Night",foreground:"#ebe0c8",cursor:"#ff5db1",bright_foreground:"#ebe0c8",dim_foreground:"#FF0000",normal:(black:"#2a221a",red:"#d4574a",green:"#8fae5e",yellow:"#e8b04a",blue:"#6a8fb5",magenta:"#d96aa5",cyan:"#9ab8a8",white:"#ebe0c8"),bright:(black:"#6b5a48",red:"#e87765",green:"#aac874",yellow:"#f4c560",blue:"#88a8c8",magenta:"#ed85b8",cyan:"#b8cebd",white:"#f8eed2"),dim:(black:"#2a221a",red:"#d4574a",green:"#8fae5e",yellow:"#e8b04a",blue:"#6a8fb5",magenta:"#d96aa5",cyan:"#9ab8a8",white:"#ebe0c8"))
+(
+    name: "London Soho Night",
+    foreground: "#ebe0c8",
+    cursor: "#ff5db1",
+    bright_foreground: "#ebe0c8",
+    dim_foreground: "#2a221a",
+
+    normal: (
+        black: "#2a221a",
+        red: "#d4574a",
+        green: "#8fae5e",
+        yellow: "#e8b04a",
+        blue: "#6a8fb5",
+        magenta: "#d96aa5",
+        cyan: "#9ab8a8",
+        white: "#ebe0c8"
+    ),
+
+    bright: (
+        black: "#6b5a48",
+        red: "#e87765",
+        green: "#aac874",
+        yellow: "#f4c560",
+        blue: "#88a8c8",
+        magenta: "#ed85b8",
+        cyan: "#b8cebd",
+        white: "#f8eed2"
+    ),
+
+    dim: (
+        black: "#2a221a",
+        red: "#d4574a",
+        green: "#8fae5e",
+        yellow: "#e8b04a",
+        blue: "#6a8fb5",
+        magenta: "#d96aa5",
+        cyan: "#9ab8a8",
+        white: "#ebe0c8"
+    ),
+)

@@ -1,1 +1,40 @@
-(name:"Xcode WWDC",foreground:"#e7e8eb",cursor:"#e7e8eb",bright_foreground:"#e7e8eb",dim_foreground:"#FF0000",normal:(black:"#494d5c",red:"#bb383a",green:"#94c66e",yellow:"#d28e5d",blue:"#8884c5",magenta:"#b73999",cyan:"#00aba4",white:"#e7e8eb"),bright:(black:"#7f869e",red:"#bb383a",green:"#94c66e",yellow:"#d28e5d",blue:"#8884c5",magenta:"#b73999",cyan:"#00aba4",white:"#e7e8eb"),dim:(black:"#494d5c",red:"#bb383a",green:"#94c66e",yellow:"#d28e5d",blue:"#8884c5",magenta:"#b73999",cyan:"#00aba4",white:"#e7e8eb"))
+(
+    name: "Xcode WWDC",
+    foreground: "#e7e8eb",
+    cursor: "#e7e8eb",
+    bright_foreground: "#e7e8eb",
+    dim_foreground: "#494d5c",
+
+    normal: (
+        black: "#494d5c",
+        red: "#bb383a",
+        green: "#94c66e",
+        yellow: "#d28e5d",
+        blue: "#8884c5",
+        magenta: "#b73999",
+        cyan: "#00aba4",
+        white: "#e7e8eb"
+    ),
+
+    bright: (
+        black: "#7f869e",
+        red: "#bb383a",
+        green: "#94c66e",
+        yellow: "#d28e5d",
+        blue: "#8884c5",
+        magenta: "#b73999",
+        cyan: "#00aba4",
+        white: "#e7e8eb"
+    ),
+
+    dim: (
+        black: "#494d5c",
+        red: "#bb383a",
+        green: "#94c66e",
+        yellow: "#d28e5d",
+        blue: "#8884c5",
+        magenta: "#b73999",
+        cyan: "#00aba4",
+        white: "#e7e8eb"
+    ),
+)

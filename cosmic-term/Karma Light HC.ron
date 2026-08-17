@@ -1,1 +1,40 @@
-(name:"Karma Light HC",foreground:"#000000",cursor:"#4d2d9a",bright_foreground:"#000000",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#c01650",green:"#1a6e1c",yellow:"#9c6800",blue:"#2f5e9e",magenta:"#4d2d9a",cyan:"#2f5e9e",white:"#2e2c30"),bright:(black:"#999999",red:"#c01650",green:"#1a6e1c",yellow:"#9c6800",blue:"#2f5e9e",magenta:"#4d2d9a",cyan:"#2f5e9e",white:"#0a0e14"),dim:(black:"#000000",red:"#c01650",green:"#1a6e1c",yellow:"#9c6800",blue:"#2f5e9e",magenta:"#4d2d9a",cyan:"#2f5e9e",white:"#2e2c30"))
+(
+    name: "Karma Light HC",
+    foreground: "#000000",
+    cursor: "#4d2d9a",
+    bright_foreground: "#000000",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#c01650",
+        green: "#1a6e1c",
+        yellow: "#9c6800",
+        blue: "#2f5e9e",
+        magenta: "#4d2d9a",
+        cyan: "#2f5e9e",
+        white: "#2e2c30"
+    ),
+
+    bright: (
+        black: "#999999",
+        red: "#c01650",
+        green: "#1a6e1c",
+        yellow: "#9c6800",
+        blue: "#2f5e9e",
+        magenta: "#4d2d9a",
+        cyan: "#2f5e9e",
+        white: "#0a0e14"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#c01650",
+        green: "#1a6e1c",
+        yellow: "#9c6800",
+        blue: "#2f5e9e",
+        magenta: "#4d2d9a",
+        cyan: "#2f5e9e",
+        white: "#2e2c30"
+    ),
+)

@@ -1,1 +1,40 @@
-(name:"Material Dark",foreground:"#e5e5e5",cursor:"#16afca",bright_foreground:"#e5e5e5",dim_foreground:"#FF0000",normal:(black:"#212121",red:"#b7141f",green:"#457b24",yellow:"#f6981e",blue:"#134eb2",magenta:"#701aa2",cyan:"#0e717c",white:"#efefef"),bright:(black:"#4f4f4f",red:"#e83b3f",green:"#7aba3a",yellow:"#ffea2e",blue:"#54a4f3",magenta:"#aa4dbc",cyan:"#26bbd1",white:"#d9d9d9"),dim:(black:"#212121",red:"#b7141f",green:"#457b24",yellow:"#f6981e",blue:"#134eb2",magenta:"#701aa2",cyan:"#0e717c",white:"#efefef"))
+(
+    name: "Material Dark",
+    foreground: "#e5e5e5",
+    cursor: "#16afca",
+    bright_foreground: "#e5e5e5",
+    dim_foreground: "#212121",
+
+    normal: (
+        black: "#212121",
+        red: "#b7141f",
+        green: "#457b24",
+        yellow: "#f6981e",
+        blue: "#134eb2",
+        magenta: "#701aa2",
+        cyan: "#0e717c",
+        white: "#efefef"
+    ),
+
+    bright: (
+        black: "#4f4f4f",
+        red: "#e83b3f",
+        green: "#7aba3a",
+        yellow: "#ffea2e",
+        blue: "#54a4f3",
+        magenta: "#aa4dbc",
+        cyan: "#26bbd1",
+        white: "#d9d9d9"
+    ),
+
+    dim: (
+        black: "#212121",
+        red: "#b7141f",
+        green: "#457b24",
+        yellow: "#f6981e",
+        blue: "#134eb2",
+        magenta: "#701aa2",
+        cyan: "#0e717c",
+        white: "#efefef"
+    ),
+)

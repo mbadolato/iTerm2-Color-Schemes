@@ -1,1 +1,40 @@
-(name:"Dimmed Monokai",foreground:"#b9bcba",cursor:"#f83e19",bright_foreground:"#b9bcba",dim_foreground:"#FF0000",normal:(black:"#3a3d43",red:"#be3f48",green:"#879a3b",yellow:"#c5a635",blue:"#4f76a1",magenta:"#855c8d",cyan:"#578fa4",white:"#b9bcba"),bright:(black:"#888987",red:"#fb001f",green:"#0f722f",yellow:"#c47033",blue:"#186de3",magenta:"#fb0067",cyan:"#2e706d",white:"#fdffb9"),dim:(black:"#3a3d43",red:"#be3f48",green:"#879a3b",yellow:"#c5a635",blue:"#4f76a1",magenta:"#855c8d",cyan:"#578fa4",white:"#b9bcba"))
+(
+    name: "Dimmed Monokai",
+    foreground: "#b9bcba",
+    cursor: "#f83e19",
+    bright_foreground: "#b9bcba",
+    dim_foreground: "#3a3d43",
+
+    normal: (
+        black: "#3a3d43",
+        red: "#be3f48",
+        green: "#879a3b",
+        yellow: "#c5a635",
+        blue: "#4f76a1",
+        magenta: "#855c8d",
+        cyan: "#578fa4",
+        white: "#b9bcba"
+    ),
+
+    bright: (
+        black: "#888987",
+        red: "#fb001f",
+        green: "#0f722f",
+        yellow: "#c47033",
+        blue: "#186de3",
+        magenta: "#fb0067",
+        cyan: "#2e706d",
+        white: "#fdffb9"
+    ),
+
+    dim: (
+        black: "#3a3d43",
+        red: "#be3f48",
+        green: "#879a3b",
+        yellow: "#c5a635",
+        blue: "#4f76a1",
+        magenta: "#855c8d",
+        cyan: "#578fa4",
+        white: "#b9bcba"
+    ),
+)

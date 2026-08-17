@@ -1,1 +1,40 @@
-(name:"IC Orange PPL",foreground:"#ffcb83",cursor:"#fc531d",bright_foreground:"#ffcb83",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#c13900",green:"#a4a900",yellow:"#caaf00",blue:"#bd6d00",magenta:"#fc5e00",cyan:"#f79500",white:"#ffc88a"),bright:(black:"#6a4f2a",red:"#ff8c68",green:"#f6ff40",yellow:"#ffe36e",blue:"#ffbe55",magenta:"#fc874f",cyan:"#c69752",white:"#fafaff"),dim:(black:"#000000",red:"#c13900",green:"#a4a900",yellow:"#caaf00",blue:"#bd6d00",magenta:"#fc5e00",cyan:"#f79500",white:"#ffc88a"))
+(
+    name: "IC Orange PPL",
+    foreground: "#ffcb83",
+    cursor: "#fc531d",
+    bright_foreground: "#ffcb83",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#c13900",
+        green: "#a4a900",
+        yellow: "#caaf00",
+        blue: "#bd6d00",
+        magenta: "#fc5e00",
+        cyan: "#f79500",
+        white: "#ffc88a"
+    ),
+
+    bright: (
+        black: "#6a4f2a",
+        red: "#ff8c68",
+        green: "#f6ff40",
+        yellow: "#ffe36e",
+        blue: "#ffbe55",
+        magenta: "#fc874f",
+        cyan: "#c69752",
+        white: "#fafaff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#c13900",
+        green: "#a4a900",
+        yellow: "#caaf00",
+        blue: "#bd6d00",
+        magenta: "#fc5e00",
+        cyan: "#f79500",
+        white: "#ffc88a"
+    ),
+)

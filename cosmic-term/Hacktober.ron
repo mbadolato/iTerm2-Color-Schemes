@@ -1,1 +1,40 @@
-(name:"Hacktober",foreground:"#c9c9c9",cursor:"#c9c9c9",bright_foreground:"#c9c9c9",dim_foreground:"#FF0000",normal:(black:"#191918",red:"#b34538",green:"#587744",yellow:"#d08949",blue:"#206ec5",magenta:"#864651",cyan:"#ac9166",white:"#f1eee7"),bright:(black:"#464444",red:"#b33323",green:"#42824a",yellow:"#c75a22",blue:"#5389c5",magenta:"#e795a5",cyan:"#ebc587",white:"#ffffff"),dim:(black:"#191918",red:"#b34538",green:"#587744",yellow:"#d08949",blue:"#206ec5",magenta:"#864651",cyan:"#ac9166",white:"#f1eee7"))
+(
+    name: "Hacktober",
+    foreground: "#c9c9c9",
+    cursor: "#c9c9c9",
+    bright_foreground: "#c9c9c9",
+    dim_foreground: "#191918",
+
+    normal: (
+        black: "#191918",
+        red: "#b34538",
+        green: "#587744",
+        yellow: "#d08949",
+        blue: "#206ec5",
+        magenta: "#864651",
+        cyan: "#ac9166",
+        white: "#f1eee7"
+    ),
+
+    bright: (
+        black: "#464444",
+        red: "#b33323",
+        green: "#42824a",
+        yellow: "#c75a22",
+        blue: "#5389c5",
+        magenta: "#e795a5",
+        cyan: "#ebc587",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#191918",
+        red: "#b34538",
+        green: "#587744",
+        yellow: "#d08949",
+        blue: "#206ec5",
+        magenta: "#864651",
+        cyan: "#ac9166",
+        white: "#f1eee7"
+    ),
+)

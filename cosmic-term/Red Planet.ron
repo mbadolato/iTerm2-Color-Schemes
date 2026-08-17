@@ -1,1 +1,40 @@
-(name:"Red Planet",foreground:"#c2b790",cursor:"#c2b790",bright_foreground:"#c2b790",dim_foreground:"#FF0000",normal:(black:"#202020",red:"#8c3432",green:"#728271",yellow:"#e8bf6a",blue:"#69819e",magenta:"#896492",cyan:"#5b8390",white:"#b9aa99"),bright:(black:"#676767",red:"#b55242",green:"#869985",yellow:"#ebeb91",blue:"#60827e",magenta:"#de4974",cyan:"#38add8",white:"#d6bfb8"),dim:(black:"#202020",red:"#8c3432",green:"#728271",yellow:"#e8bf6a",blue:"#69819e",magenta:"#896492",cyan:"#5b8390",white:"#b9aa99"))
+(
+    name: "Red Planet",
+    foreground: "#c2b790",
+    cursor: "#c2b790",
+    bright_foreground: "#c2b790",
+    dim_foreground: "#202020",
+
+    normal: (
+        black: "#202020",
+        red: "#8c3432",
+        green: "#728271",
+        yellow: "#e8bf6a",
+        blue: "#69819e",
+        magenta: "#896492",
+        cyan: "#5b8390",
+        white: "#b9aa99"
+    ),
+
+    bright: (
+        black: "#676767",
+        red: "#b55242",
+        green: "#869985",
+        yellow: "#ebeb91",
+        blue: "#60827e",
+        magenta: "#de4974",
+        cyan: "#38add8",
+        white: "#d6bfb8"
+    ),
+
+    dim: (
+        black: "#202020",
+        red: "#8c3432",
+        green: "#728271",
+        yellow: "#e8bf6a",
+        blue: "#69819e",
+        magenta: "#896492",
+        cyan: "#5b8390",
+        white: "#b9aa99"
+    ),
+)

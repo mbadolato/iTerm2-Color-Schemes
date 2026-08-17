@@ -1,1 +1,40 @@
-(name:"Xcode Light",foreground:"#262626",cursor:"#262626",bright_foreground:"#262626",dim_foreground:"#FF0000",normal:(black:"#b4d8fd",red:"#d12f1b",green:"#3e8087",yellow:"#78492a",blue:"#0f68a0",magenta:"#ad3da4",cyan:"#804fb8",white:"#262626"),bright:(black:"#8a99a6",red:"#d12f1b",green:"#23575c",yellow:"#78492a",blue:"#0b4f79",magenta:"#ad3da4",cyan:"#4b21b0",white:"#262626"),dim:(black:"#b4d8fd",red:"#d12f1b",green:"#3e8087",yellow:"#78492a",blue:"#0f68a0",magenta:"#ad3da4",cyan:"#804fb8",white:"#262626"))
+(
+    name: "Xcode Light",
+    foreground: "#262626",
+    cursor: "#262626",
+    bright_foreground: "#262626",
+    dim_foreground: "#b4d8fd",
+
+    normal: (
+        black: "#b4d8fd",
+        red: "#d12f1b",
+        green: "#3e8087",
+        yellow: "#78492a",
+        blue: "#0f68a0",
+        magenta: "#ad3da4",
+        cyan: "#804fb8",
+        white: "#262626"
+    ),
+
+    bright: (
+        black: "#8a99a6",
+        red: "#d12f1b",
+        green: "#23575c",
+        yellow: "#78492a",
+        blue: "#0b4f79",
+        magenta: "#ad3da4",
+        cyan: "#4b21b0",
+        white: "#262626"
+    ),
+
+    dim: (
+        black: "#b4d8fd",
+        red: "#d12f1b",
+        green: "#3e8087",
+        yellow: "#78492a",
+        blue: "#0f68a0",
+        magenta: "#ad3da4",
+        cyan: "#804fb8",
+        white: "#262626"
+    ),
+)

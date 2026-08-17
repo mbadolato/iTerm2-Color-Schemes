@@ -1,1 +1,40 @@
-(name:"Vesper",foreground:"#ffffff",cursor:"#acb1ab",bright_foreground:"#ffffff",dim_foreground:"#FF0000",normal:(black:"#101010",red:"#f5a191",green:"#90b99f",yellow:"#e6b99d",blue:"#aca1cf",magenta:"#e29eca",cyan:"#ea83a5",white:"#a0a0a0"),bright:(black:"#7e7e7e",red:"#ff8080",green:"#99ffe4",yellow:"#ffc799",blue:"#b9aeda",magenta:"#ecaad6",cyan:"#f591b2",white:"#ffffff"),dim:(black:"#101010",red:"#f5a191",green:"#90b99f",yellow:"#e6b99d",blue:"#aca1cf",magenta:"#e29eca",cyan:"#ea83a5",white:"#a0a0a0"))
+(
+    name: "Vesper",
+    foreground: "#ffffff",
+    cursor: "#acb1ab",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#101010",
+
+    normal: (
+        black: "#101010",
+        red: "#f5a191",
+        green: "#90b99f",
+        yellow: "#e6b99d",
+        blue: "#aca1cf",
+        magenta: "#e29eca",
+        cyan: "#ea83a5",
+        white: "#a0a0a0"
+    ),
+
+    bright: (
+        black: "#7e7e7e",
+        red: "#ff8080",
+        green: "#99ffe4",
+        yellow: "#ffc799",
+        blue: "#b9aeda",
+        magenta: "#ecaad6",
+        cyan: "#f591b2",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#101010",
+        red: "#f5a191",
+        green: "#90b99f",
+        yellow: "#e6b99d",
+        blue: "#aca1cf",
+        magenta: "#e29eca",
+        cyan: "#ea83a5",
+        white: "#a0a0a0"
+    ),
+)

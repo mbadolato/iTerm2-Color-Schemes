@@ -1,1 +1,40 @@
-(name:"Crayon Pony Fish",foreground:"#68525a",cursor:"#68525a",bright_foreground:"#68525a",dim_foreground:"#FF0000",normal:(black:"#2b1b1d",red:"#91002b",green:"#579524",yellow:"#ab311b",blue:"#8c87b0",magenta:"#692f50",cyan:"#e8a866",white:"#68525a"),bright:(black:"#4a383b",red:"#c5255d",green:"#8dff57",yellow:"#c8381d",blue:"#cfc9ff",magenta:"#fc6cba",cyan:"#ffceaf",white:"#b0949d"),dim:(black:"#2b1b1d",red:"#91002b",green:"#579524",yellow:"#ab311b",blue:"#8c87b0",magenta:"#692f50",cyan:"#e8a866",white:"#68525a"))
+(
+    name: "Crayon Pony Fish",
+    foreground: "#68525a",
+    cursor: "#68525a",
+    bright_foreground: "#68525a",
+    dim_foreground: "#2b1b1d",
+
+    normal: (
+        black: "#2b1b1d",
+        red: "#91002b",
+        green: "#579524",
+        yellow: "#ab311b",
+        blue: "#8c87b0",
+        magenta: "#692f50",
+        cyan: "#e8a866",
+        white: "#68525a"
+    ),
+
+    bright: (
+        black: "#4a383b",
+        red: "#c5255d",
+        green: "#8dff57",
+        yellow: "#c8381d",
+        blue: "#cfc9ff",
+        magenta: "#fc6cba",
+        cyan: "#ffceaf",
+        white: "#b0949d"
+    ),
+
+    dim: (
+        black: "#2b1b1d",
+        red: "#91002b",
+        green: "#579524",
+        yellow: "#ab311b",
+        blue: "#8c87b0",
+        magenta: "#692f50",
+        cyan: "#e8a866",
+        white: "#68525a"
+    ),
+)

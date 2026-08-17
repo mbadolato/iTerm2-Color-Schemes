@@ -1,1 +1,40 @@
-(name:"No Clown Fiesta Light",foreground:"#151515",cursor:"#151515",bright_foreground:"#151515",dim_foreground:"#FF0000",normal:(black:"#d6d6d6",red:"#874e42",green:"#677940",yellow:"#b89058",blue:"#8ba1bf",magenta:"#aa759f",cyan:"#3e5f66",white:"#151515"),bright:(black:"#2b2b2b",red:"#637786",green:"#677940",yellow:"#b89058",blue:"#93a2ab",magenta:"#aa759f",cyan:"#99ab93",white:"#373737"),dim:(black:"#d6d6d6",red:"#874e42",green:"#677940",yellow:"#b89058",blue:"#8ba1bf",magenta:"#aa759f",cyan:"#3e5f66",white:"#151515"))
+(
+    name: "No Clown Fiesta Light",
+    foreground: "#151515",
+    cursor: "#151515",
+    bright_foreground: "#151515",
+    dim_foreground: "#d6d6d6",
+
+    normal: (
+        black: "#d6d6d6",
+        red: "#874e42",
+        green: "#677940",
+        yellow: "#b89058",
+        blue: "#8ba1bf",
+        magenta: "#aa759f",
+        cyan: "#3e5f66",
+        white: "#151515"
+    ),
+
+    bright: (
+        black: "#2b2b2b",
+        red: "#637786",
+        green: "#677940",
+        yellow: "#b89058",
+        blue: "#93a2ab",
+        magenta: "#aa759f",
+        cyan: "#99ab93",
+        white: "#373737"
+    ),
+
+    dim: (
+        black: "#d6d6d6",
+        red: "#874e42",
+        green: "#677940",
+        yellow: "#b89058",
+        blue: "#8ba1bf",
+        magenta: "#aa759f",
+        cyan: "#3e5f66",
+        white: "#151515"
+    ),
+)

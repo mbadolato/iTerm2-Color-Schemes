@@ -1,1 +1,40 @@
-(name:"Ryuuko",foreground:"#ececec",cursor:"#ececec",bright_foreground:"#ececec",dim_foreground:"#FF0000",normal:(black:"#2c3941",red:"#865f5b",green:"#66907d",yellow:"#b1a990",blue:"#6a8e95",magenta:"#b18a73",cyan:"#88b2ac",white:"#ececec"),bright:(black:"#5d7079",red:"#865f5b",green:"#66907d",yellow:"#b1a990",blue:"#6a8e95",magenta:"#b18a73",cyan:"#88b2ac",white:"#ececec"),dim:(black:"#2c3941",red:"#865f5b",green:"#66907d",yellow:"#b1a990",blue:"#6a8e95",magenta:"#b18a73",cyan:"#88b2ac",white:"#ececec"))
+(
+    name: "Ryuuko",
+    foreground: "#ececec",
+    cursor: "#ececec",
+    bright_foreground: "#ececec",
+    dim_foreground: "#2c3941",
+
+    normal: (
+        black: "#2c3941",
+        red: "#865f5b",
+        green: "#66907d",
+        yellow: "#b1a990",
+        blue: "#6a8e95",
+        magenta: "#b18a73",
+        cyan: "#88b2ac",
+        white: "#ececec"
+    ),
+
+    bright: (
+        black: "#5d7079",
+        red: "#865f5b",
+        green: "#66907d",
+        yellow: "#b1a990",
+        blue: "#6a8e95",
+        magenta: "#b18a73",
+        cyan: "#88b2ac",
+        white: "#ececec"
+    ),
+
+    dim: (
+        black: "#2c3941",
+        red: "#865f5b",
+        green: "#66907d",
+        yellow: "#b1a990",
+        blue: "#6a8e95",
+        magenta: "#b18a73",
+        cyan: "#88b2ac",
+        white: "#ececec"
+    ),
+)

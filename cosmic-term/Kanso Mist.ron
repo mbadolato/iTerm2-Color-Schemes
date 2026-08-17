@@ -1,1 +1,40 @@
-(name:"Kanso Mist",foreground:"#c5c9c7",cursor:"#c5c9c7",bright_foreground:"#c5c9c7",dim_foreground:"#FF0000",normal:(black:"#22262d",red:"#c4746e",green:"#8a9a7b",yellow:"#c4b28a",blue:"#8ba4b0",magenta:"#a292a3",cyan:"#8ea4a2",white:"#a4a7a4"),bright:(black:"#5c6066",red:"#e46876",green:"#87a987",yellow:"#e6c384",blue:"#7fb4ca",magenta:"#938aa9",cyan:"#7aa89f",white:"#c5c9c7"),dim:(black:"#22262d",red:"#c4746e",green:"#8a9a7b",yellow:"#c4b28a",blue:"#8ba4b0",magenta:"#a292a3",cyan:"#8ea4a2",white:"#a4a7a4"))
+(
+    name: "Kanso Mist",
+    foreground: "#c5c9c7",
+    cursor: "#c5c9c7",
+    bright_foreground: "#c5c9c7",
+    dim_foreground: "#22262d",
+
+    normal: (
+        black: "#22262d",
+        red: "#c4746e",
+        green: "#8a9a7b",
+        yellow: "#c4b28a",
+        blue: "#8ba4b0",
+        magenta: "#a292a3",
+        cyan: "#8ea4a2",
+        white: "#a4a7a4"
+    ),
+
+    bright: (
+        black: "#5c6066",
+        red: "#e46876",
+        green: "#87a987",
+        yellow: "#e6c384",
+        blue: "#7fb4ca",
+        magenta: "#938aa9",
+        cyan: "#7aa89f",
+        white: "#c5c9c7"
+    ),
+
+    dim: (
+        black: "#22262d",
+        red: "#c4746e",
+        green: "#8a9a7b",
+        yellow: "#c4b28a",
+        blue: "#8ba4b0",
+        magenta: "#a292a3",
+        cyan: "#8ea4a2",
+        white: "#a4a7a4"
+    ),
+)

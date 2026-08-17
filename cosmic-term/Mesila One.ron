@@ -1,1 +1,40 @@
-(name:"Mesila One",foreground:"#e9fae3",cursor:"#5cc8ff",bright_foreground:"#e9fae3",dim_foreground:"#FF0000",normal:(black:"#101418",red:"#93867f",green:"#5cc8ff",yellow:"#ebb3a9",blue:"#dec1ff",magenta:"#7d70ba",cyan:"#5cc8ff",white:"#e9fae3"),bright:(black:"#7d70ba",red:"#93867f",green:"#5cc8ff",yellow:"#ebb3a9",blue:"#dec1ff",magenta:"#7d70ba",cyan:"#5cc8ff",white:"#e9fae3"),dim:(black:"#101418",red:"#93867f",green:"#5cc8ff",yellow:"#ebb3a9",blue:"#dec1ff",magenta:"#7d70ba",cyan:"#5cc8ff",white:"#e9fae3"))
+(
+    name: "Mesila One",
+    foreground: "#e9fae3",
+    cursor: "#5cc8ff",
+    bright_foreground: "#e9fae3",
+    dim_foreground: "#101418",
+
+    normal: (
+        black: "#101418",
+        red: "#93867f",
+        green: "#5cc8ff",
+        yellow: "#ebb3a9",
+        blue: "#dec1ff",
+        magenta: "#7d70ba",
+        cyan: "#5cc8ff",
+        white: "#e9fae3"
+    ),
+
+    bright: (
+        black: "#7d70ba",
+        red: "#93867f",
+        green: "#5cc8ff",
+        yellow: "#ebb3a9",
+        blue: "#dec1ff",
+        magenta: "#7d70ba",
+        cyan: "#5cc8ff",
+        white: "#e9fae3"
+    ),
+
+    dim: (
+        black: "#101418",
+        red: "#93867f",
+        green: "#5cc8ff",
+        yellow: "#ebb3a9",
+        blue: "#dec1ff",
+        magenta: "#7d70ba",
+        cyan: "#5cc8ff",
+        white: "#e9fae3"
+    ),
+)

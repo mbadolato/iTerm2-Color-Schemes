@@ -1,1 +1,40 @@
-(name:"Purple Portal",foreground:"#faf5ff",cursor:"#faf5ff",bright_foreground:"#faf5ff",dim_foreground:"#FF0000",normal:(black:"#483a57",red:"#fb7185",green:"#34d399",yellow:"#f472b6",blue:"#facc15",magenta:"#38bdf8",cyan:"#580ff0",white:"#d8b4fe"),bright:(black:"#503872",red:"#fc8d9d",green:"#5ddcad",yellow:"#f68bc3",blue:"#fbd644",magenta:"#60caf9",cyan:"#793ff3",white:"#faf5ff"),dim:(black:"#483a57",red:"#fb7185",green:"#34d399",yellow:"#f472b6",blue:"#facc15",magenta:"#38bdf8",cyan:"#580ff0",white:"#d8b4fe"))
+(
+    name: "Purple Portal",
+    foreground: "#faf5ff",
+    cursor: "#faf5ff",
+    bright_foreground: "#faf5ff",
+    dim_foreground: "#483a57",
+
+    normal: (
+        black: "#483a57",
+        red: "#fb7185",
+        green: "#34d399",
+        yellow: "#f472b6",
+        blue: "#facc15",
+        magenta: "#38bdf8",
+        cyan: "#580ff0",
+        white: "#d8b4fe"
+    ),
+
+    bright: (
+        black: "#503872",
+        red: "#fc8d9d",
+        green: "#5ddcad",
+        yellow: "#f68bc3",
+        blue: "#fbd644",
+        magenta: "#60caf9",
+        cyan: "#793ff3",
+        white: "#faf5ff"
+    ),
+
+    dim: (
+        black: "#483a57",
+        red: "#fb7185",
+        green: "#34d399",
+        yellow: "#f472b6",
+        blue: "#facc15",
+        magenta: "#38bdf8",
+        cyan: "#580ff0",
+        white: "#d8b4fe"
+    ),
+)

@@ -1,0 +1,40 @@
+(
+    name: "Hopscotch.256",
+    foreground: "#b9b5b8",
+    cursor: "#b9b5b8",
+    bright_foreground: "#b9b5b8",
+    dim_foreground: "#322931",
+
+    normal: (
+        black: "#322931",
+        red: "#dd464c",
+        green: "#8fc13e",
+        yellow: "#fdcc59",
+        blue: "#1290bf",
+        magenta: "#c85e7c",
+        cyan: "#149b93",
+        white: "#b9b5b8"
+    ),
+
+    bright: (
+        black: "#797379",
+        red: "#dd464c",
+        green: "#8fc13e",
+        yellow: "#fdcc59",
+        blue: "#1290bf",
+        magenta: "#c85e7c",
+        cyan: "#149b93",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#322931",
+        red: "#dd464c",
+        green: "#8fc13e",
+        yellow: "#fdcc59",
+        blue: "#1290bf",
+        magenta: "#c85e7c",
+        cyan: "#149b93",
+        white: "#b9b5b8"
+    ),
+)

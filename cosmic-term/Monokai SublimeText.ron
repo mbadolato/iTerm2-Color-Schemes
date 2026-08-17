@@ -1,1 +1,40 @@
-(name:"Monokai SublimeText",foreground:"#f8f8f2",cursor:"#f8f8f0",bright_foreground:"#f8f8f2",dim_foreground:"#FF0000",normal:(black:"#333333",red:"#c4265e",green:"#86b42b",yellow:"#b3b42b",blue:"#6a7ec8",magenta:"#8c6bc8",cyan:"#56adbc",white:"#e3e3dd"),bright:(black:"#666666",red:"#f92672",green:"#a6e22e",yellow:"#e2e22e",blue:"#819aff",magenta:"#ae81ff",cyan:"#66d9ef",white:"#f8f8f2"),dim:(black:"#333333",red:"#c4265e",green:"#86b42b",yellow:"#b3b42b",blue:"#6a7ec8",magenta:"#8c6bc8",cyan:"#56adbc",white:"#e3e3dd"))
+(
+    name: "Monokai SublimeText",
+    foreground: "#f8f8f2",
+    cursor: "#f8f8f0",
+    bright_foreground: "#f8f8f2",
+    dim_foreground: "#333333",
+
+    normal: (
+        black: "#333333",
+        red: "#c4265e",
+        green: "#86b42b",
+        yellow: "#b3b42b",
+        blue: "#6a7ec8",
+        magenta: "#8c6bc8",
+        cyan: "#56adbc",
+        white: "#e3e3dd"
+    ),
+
+    bright: (
+        black: "#666666",
+        red: "#f92672",
+        green: "#a6e22e",
+        yellow: "#e2e22e",
+        blue: "#819aff",
+        magenta: "#ae81ff",
+        cyan: "#66d9ef",
+        white: "#f8f8f2"
+    ),
+
+    dim: (
+        black: "#333333",
+        red: "#c4265e",
+        green: "#86b42b",
+        yellow: "#b3b42b",
+        blue: "#6a7ec8",
+        magenta: "#8c6bc8",
+        cyan: "#56adbc",
+        white: "#e3e3dd"
+    ),
+)

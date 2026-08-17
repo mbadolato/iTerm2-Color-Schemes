@@ -1,1 +1,40 @@
-(name:"Amber CRT Retro",foreground:"#ffb000",cursor:"#ffb000",bright_foreground:"#ffb000",dim_foreground:"#FF0000",normal:(black:"#2a1e00",red:"#ff6a00",green:"#ffb000",yellow:"#ffc742",blue:"#ff8c00",magenta:"#ffa033",cyan:"#ffd27f",white:"#ffd9a0"),bright:(black:"#6a4e00",red:"#ff8a1e",green:"#ffc742",yellow:"#ffe08a",blue:"#ffab3d",magenta:"#ffc266",cyan:"#ffe3b0",white:"#fff0d6"),dim:(black:"#2a1e00",red:"#ff6a00",green:"#ffb000",yellow:"#ffc742",blue:"#ff8c00",magenta:"#ffa033",cyan:"#ffd27f",white:"#ffd9a0"))
+(
+    name: "Amber CRT Retro",
+    foreground: "#ffb000",
+    cursor: "#ffb000",
+    bright_foreground: "#ffb000",
+    dim_foreground: "#2a1e00",
+
+    normal: (
+        black: "#2a1e00",
+        red: "#ff6a00",
+        green: "#ffb000",
+        yellow: "#ffc742",
+        blue: "#ff8c00",
+        magenta: "#ffa033",
+        cyan: "#ffd27f",
+        white: "#ffd9a0"
+    ),
+
+    bright: (
+        black: "#6a4e00",
+        red: "#ff8a1e",
+        green: "#ffc742",
+        yellow: "#ffe08a",
+        blue: "#ffab3d",
+        magenta: "#ffc266",
+        cyan: "#ffe3b0",
+        white: "#fff0d6"
+    ),
+
+    dim: (
+        black: "#2a1e00",
+        red: "#ff6a00",
+        green: "#ffb000",
+        yellow: "#ffc742",
+        blue: "#ff8c00",
+        magenta: "#ffa033",
+        cyan: "#ffd27f",
+        white: "#ffd9a0"
+    ),
+)

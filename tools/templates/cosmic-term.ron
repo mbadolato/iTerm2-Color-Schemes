@@ -1,0 +1,40 @@
+(
+    name: "{{ scheme_name }}",
+    foreground: "#{{ Foreground_Color.hex }}",
+    cursor: "#{{ Cursor_Color.hex }}",
+    bright_foreground: "#{{ Foreground_Color.hex }}",
+    dim_foreground: "#{{ Ansi_0_Color.hex }}",
+
+    normal: (
+        black: "#{{ Ansi_0_Color.hex }}",
+        red: "#{{ Ansi_1_Color.hex }}",
+        green: "#{{ Ansi_2_Color.hex }}",
+        yellow: "#{{ Ansi_3_Color.hex }}",
+        blue: "#{{ Ansi_4_Color.hex }}",
+        magenta: "#{{ Ansi_5_Color.hex }}",
+        cyan: "#{{ Ansi_6_Color.hex }}",
+        white: "#{{ Ansi_7_Color.hex }}"
+    ),
+
+    bright: (
+        black: "#{{ Ansi_8_Color.hex }}",
+        red: "#{{ Ansi_9_Color.hex }}",
+        green: "#{{ Ansi_10_Color.hex }}",
+        yellow: "#{{ Ansi_11_Color.hex }}",
+        blue: "#{{ Ansi_12_Color.hex }}",
+        magenta: "#{{ Ansi_13_Color.hex }}",
+        cyan: "#{{ Ansi_14_Color.hex }}",
+        white: "#{{ Ansi_15_Color.hex }}"
+    ),
+
+    dim: (
+        black: "#{{ Ansi_0_Color.hex }}",
+        red: "#{{ Ansi_1_Color.hex }}",
+        green: "#{{ Ansi_2_Color.hex }}",
+        yellow: "#{{ Ansi_3_Color.hex }}",
+        blue: "#{{ Ansi_4_Color.hex }}",
+        magenta: "#{{ Ansi_5_Color.hex }}",
+        cyan: "#{{ Ansi_6_Color.hex }}",
+        white: "#{{ Ansi_7_Color.hex }}"
+    ),
+)

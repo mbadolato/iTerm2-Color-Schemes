@@ -1,1 +1,40 @@
-(name:"Dot Gov",foreground:"#ebebeb",cursor:"#d9002f",bright_foreground:"#ebebeb",dim_foreground:"#FF0000",normal:(black:"#191919",red:"#bf091d",green:"#3d9751",yellow:"#f6bb34",blue:"#17b2e0",magenta:"#7830b0",cyan:"#8bd2ed",white:"#ffffff"),bright:(black:"#595959",red:"#bf091d",green:"#3d9751",yellow:"#f6bb34",blue:"#17b2e0",magenta:"#7830b0",cyan:"#8bd2ed",white:"#ffffff"),dim:(black:"#191919",red:"#bf091d",green:"#3d9751",yellow:"#f6bb34",blue:"#17b2e0",magenta:"#7830b0",cyan:"#8bd2ed",white:"#ffffff"))
+(
+    name: "Dot Gov",
+    foreground: "#ebebeb",
+    cursor: "#d9002f",
+    bright_foreground: "#ebebeb",
+    dim_foreground: "#191919",
+
+    normal: (
+        black: "#191919",
+        red: "#bf091d",
+        green: "#3d9751",
+        yellow: "#f6bb34",
+        blue: "#17b2e0",
+        magenta: "#7830b0",
+        cyan: "#8bd2ed",
+        white: "#ffffff"
+    ),
+
+    bright: (
+        black: "#595959",
+        red: "#bf091d",
+        green: "#3d9751",
+        yellow: "#f6bb34",
+        blue: "#17b2e0",
+        magenta: "#7830b0",
+        cyan: "#8bd2ed",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#191919",
+        red: "#bf091d",
+        green: "#3d9751",
+        yellow: "#f6bb34",
+        blue: "#17b2e0",
+        magenta: "#7830b0",
+        cyan: "#8bd2ed",
+        white: "#ffffff"
+    ),
+)

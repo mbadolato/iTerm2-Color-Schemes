@@ -1,1 +1,40 @@
-(name:"Monokai Pro Light",foreground:"#29242a",cursor:"#706b6e",bright_foreground:"#29242a",dim_foreground:"#FF0000",normal:(black:"#faf4f2",red:"#e14775",green:"#269d69",yellow:"#cc7a0a",blue:"#e16032",magenta:"#7058be",cyan:"#1c8ca8",white:"#29242a"),bright:(black:"#a59fa0",red:"#e14775",green:"#269d69",yellow:"#cc7a0a",blue:"#e16032",magenta:"#7058be",cyan:"#1c8ca8",white:"#29242a"),dim:(black:"#faf4f2",red:"#e14775",green:"#269d69",yellow:"#cc7a0a",blue:"#e16032",magenta:"#7058be",cyan:"#1c8ca8",white:"#29242a"))
+(
+    name: "Monokai Pro Light",
+    foreground: "#29242a",
+    cursor: "#706b6e",
+    bright_foreground: "#29242a",
+    dim_foreground: "#faf4f2",
+
+    normal: (
+        black: "#faf4f2",
+        red: "#e14775",
+        green: "#269d69",
+        yellow: "#cc7a0a",
+        blue: "#e16032",
+        magenta: "#7058be",
+        cyan: "#1c8ca8",
+        white: "#29242a"
+    ),
+
+    bright: (
+        black: "#a59fa0",
+        red: "#e14775",
+        green: "#269d69",
+        yellow: "#cc7a0a",
+        blue: "#e16032",
+        magenta: "#7058be",
+        cyan: "#1c8ca8",
+        white: "#29242a"
+    ),
+
+    dim: (
+        black: "#faf4f2",
+        red: "#e14775",
+        green: "#269d69",
+        yellow: "#cc7a0a",
+        blue: "#e16032",
+        magenta: "#7058be",
+        cyan: "#1c8ca8",
+        white: "#29242a"
+    ),
+)

@@ -1,1 +1,40 @@
-(name:"Miami Heat",foreground:"#fce7ff",cursor:"#ff2e97",bright_foreground:"#fce7ff",dim_foreground:"#FF0000",normal:(black:"#2a1a4a",red:"#ff3d7f",green:"#2ee6b6",yellow:"#ffcb52",blue:"#29b6ff",magenta:"#b86bff",cyan:"#18e0ff",white:"#e6d4ff"),bright:(black:"#5e5388",red:"#ff2e97",green:"#2ee6b6",yellow:"#ff7847",blue:"#29b6ff",magenta:"#b86bff",cyan:"#18e0ff",white:"#fce7ff"),dim:(black:"#2a1a4a",red:"#ff3d7f",green:"#2ee6b6",yellow:"#ffcb52",blue:"#29b6ff",magenta:"#b86bff",cyan:"#18e0ff",white:"#e6d4ff"))
+(
+    name: "Miami Heat",
+    foreground: "#fce7ff",
+    cursor: "#ff2e97",
+    bright_foreground: "#fce7ff",
+    dim_foreground: "#2a1a4a",
+
+    normal: (
+        black: "#2a1a4a",
+        red: "#ff3d7f",
+        green: "#2ee6b6",
+        yellow: "#ffcb52",
+        blue: "#29b6ff",
+        magenta: "#b86bff",
+        cyan: "#18e0ff",
+        white: "#e6d4ff"
+    ),
+
+    bright: (
+        black: "#5e5388",
+        red: "#ff2e97",
+        green: "#2ee6b6",
+        yellow: "#ff7847",
+        blue: "#29b6ff",
+        magenta: "#b86bff",
+        cyan: "#18e0ff",
+        white: "#fce7ff"
+    ),
+
+    dim: (
+        black: "#2a1a4a",
+        red: "#ff3d7f",
+        green: "#2ee6b6",
+        yellow: "#ffcb52",
+        blue: "#29b6ff",
+        magenta: "#b86bff",
+        cyan: "#18e0ff",
+        white: "#e6d4ff"
+    ),
+)

@@ -1,1 +1,40 @@
-(name:"Noctis Hibernus",foreground:"#005661",cursor:"#005661",bright_foreground:"#005661",dim_foreground:"#FF0000",normal:(black:"#003b42",red:"#e34e1c",green:"#00b368",yellow:"#f49725",blue:"#0094f0",magenta:"#ff5792",cyan:"#00bdd6",white:"#8ca6a6"),bright:(black:"#004d57",red:"#ff4000",green:"#00d17a",yellow:"#ff8c00",blue:"#0fa3ff",magenta:"#ff6b9f",cyan:"#00cbe6",white:"#bbc3c4"),dim:(black:"#003b42",red:"#e34e1c",green:"#00b368",yellow:"#f49725",blue:"#0094f0",magenta:"#ff5792",cyan:"#00bdd6",white:"#8ca6a6"))
+(
+    name: "Noctis Hibernus",
+    foreground: "#005661",
+    cursor: "#005661",
+    bright_foreground: "#005661",
+    dim_foreground: "#003b42",
+
+    normal: (
+        black: "#003b42",
+        red: "#e34e1c",
+        green: "#00b368",
+        yellow: "#f49725",
+        blue: "#0094f0",
+        magenta: "#ff5792",
+        cyan: "#00bdd6",
+        white: "#8ca6a6"
+    ),
+
+    bright: (
+        black: "#004d57",
+        red: "#ff4000",
+        green: "#00d17a",
+        yellow: "#ff8c00",
+        blue: "#0fa3ff",
+        magenta: "#ff6b9f",
+        cyan: "#00cbe6",
+        white: "#bbc3c4"
+    ),
+
+    dim: (
+        black: "#003b42",
+        red: "#e34e1c",
+        green: "#00b368",
+        yellow: "#f49725",
+        blue: "#0094f0",
+        magenta: "#ff5792",
+        cyan: "#00bdd6",
+        white: "#8ca6a6"
+    ),
+)

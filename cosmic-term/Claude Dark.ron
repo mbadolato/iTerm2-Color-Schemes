@@ -1,1 +1,40 @@
-(name:"Claude Dark",foreground:"#e5e4e1",cursor:"#d97757",bright_foreground:"#e5e4e1",dim_foreground:"#FF0000",normal:(black:"#888681",red:"#d47563",green:"#9aca86",yellow:"#e8c96b",blue:"#6a9bcc",magenta:"#9b87f5",cyan:"#3cbe8c",white:"#e2e1da"),bright:(black:"#a6a59b",red:"#f4a9a9",green:"#a8d166",yellow:"#fab319",blue:"#9fc5f4",magenta:"#f3aac5",cyan:"#79d7b3",white:"#efeeeb"),dim:(black:"#888681",red:"#d47563",green:"#9aca86",yellow:"#e8c96b",blue:"#6a9bcc",magenta:"#9b87f5",cyan:"#3cbe8c",white:"#e2e1da"))
+(
+    name: "Claude Dark",
+    foreground: "#e5e4e1",
+    cursor: "#d97757",
+    bright_foreground: "#e5e4e1",
+    dim_foreground: "#888681",
+
+    normal: (
+        black: "#888681",
+        red: "#d47563",
+        green: "#9aca86",
+        yellow: "#e8c96b",
+        blue: "#6a9bcc",
+        magenta: "#9b87f5",
+        cyan: "#3cbe8c",
+        white: "#e2e1da"
+    ),
+
+    bright: (
+        black: "#a6a59b",
+        red: "#f4a9a9",
+        green: "#a8d166",
+        yellow: "#fab319",
+        blue: "#9fc5f4",
+        magenta: "#f3aac5",
+        cyan: "#79d7b3",
+        white: "#efeeeb"
+    ),
+
+    dim: (
+        black: "#888681",
+        red: "#d47563",
+        green: "#9aca86",
+        yellow: "#e8c96b",
+        blue: "#6a9bcc",
+        magenta: "#9b87f5",
+        cyan: "#3cbe8c",
+        white: "#e2e1da"
+    ),
+)

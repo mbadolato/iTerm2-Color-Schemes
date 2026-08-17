@@ -1,1 +1,40 @@
-(name:"Token Dark",foreground:"#e8e4dc",cursor:"#e8e4dc",bright_foreground:"#e8e4dc",dim_foreground:"#FF0000",normal:(black:"#1d1d1c",red:"#c67777",green:"#7da47a",yellow:"#c4a855",blue:"#7b9ebd",magenta:"#a68bbf",cyan:"#6ba8a8",white:"#d4cfc6"),bright:(black:"#5a5955",red:"#d97757",green:"#98bf95",yellow:"#c4956a",blue:"#96b8d3",magenta:"#bea5d4",cyan:"#88c0c0",white:"#e8e4dc"),dim:(black:"#1d1d1c",red:"#c67777",green:"#7da47a",yellow:"#c4a855",blue:"#7b9ebd",magenta:"#a68bbf",cyan:"#6ba8a8",white:"#d4cfc6"))
+(
+    name: "Token Dark",
+    foreground: "#e8e4dc",
+    cursor: "#e8e4dc",
+    bright_foreground: "#e8e4dc",
+    dim_foreground: "#1d1d1c",
+
+    normal: (
+        black: "#1d1d1c",
+        red: "#c67777",
+        green: "#7da47a",
+        yellow: "#c4a855",
+        blue: "#7b9ebd",
+        magenta: "#a68bbf",
+        cyan: "#6ba8a8",
+        white: "#d4cfc6"
+    ),
+
+    bright: (
+        black: "#5a5955",
+        red: "#d97757",
+        green: "#98bf95",
+        yellow: "#c4956a",
+        blue: "#96b8d3",
+        magenta: "#bea5d4",
+        cyan: "#88c0c0",
+        white: "#e8e4dc"
+    ),
+
+    dim: (
+        black: "#1d1d1c",
+        red: "#c67777",
+        green: "#7da47a",
+        yellow: "#c4a855",
+        blue: "#7b9ebd",
+        magenta: "#a68bbf",
+        cyan: "#6ba8a8",
+        white: "#d4cfc6"
+    ),
+)

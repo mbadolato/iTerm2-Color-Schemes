@@ -1,1 +1,40 @@
-(name:"Sea Shells",foreground:"#deb88d",cursor:"#fca02f",bright_foreground:"#deb88d",dim_foreground:"#FF0000",normal:(black:"#17384c",red:"#d15123",green:"#027c9b",yellow:"#fca02f",blue:"#1e4950",magenta:"#68d4f1",cyan:"#50a3b5",white:"#deb88d"),bright:(black:"#434b53",red:"#d48678",green:"#628d98",yellow:"#fdd39f",blue:"#1bbcdd",magenta:"#bbe3ee",cyan:"#87acb4",white:"#fee4ce"),dim:(black:"#17384c",red:"#d15123",green:"#027c9b",yellow:"#fca02f",blue:"#1e4950",magenta:"#68d4f1",cyan:"#50a3b5",white:"#deb88d"))
+(
+    name: "Sea Shells",
+    foreground: "#deb88d",
+    cursor: "#fca02f",
+    bright_foreground: "#deb88d",
+    dim_foreground: "#17384c",
+
+    normal: (
+        black: "#17384c",
+        red: "#d15123",
+        green: "#027c9b",
+        yellow: "#fca02f",
+        blue: "#1e4950",
+        magenta: "#68d4f1",
+        cyan: "#50a3b5",
+        white: "#deb88d"
+    ),
+
+    bright: (
+        black: "#434b53",
+        red: "#d48678",
+        green: "#628d98",
+        yellow: "#fdd39f",
+        blue: "#1bbcdd",
+        magenta: "#bbe3ee",
+        cyan: "#87acb4",
+        white: "#fee4ce"
+    ),
+
+    dim: (
+        black: "#17384c",
+        red: "#d15123",
+        green: "#027c9b",
+        yellow: "#fca02f",
+        blue: "#1e4950",
+        magenta: "#68d4f1",
+        cyan: "#50a3b5",
+        white: "#deb88d"
+    ),
+)

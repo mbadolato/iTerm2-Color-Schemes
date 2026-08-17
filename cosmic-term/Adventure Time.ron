@@ -1,1 +1,40 @@
-(name:"Adventure Time",foreground:"#f8dcc0",cursor:"#efbf38",bright_foreground:"#f8dcc0",dim_foreground:"#FF0000",normal:(black:"#050404",red:"#bd0013",green:"#4ab118",yellow:"#e7741e",blue:"#0f4ac6",magenta:"#665993",cyan:"#70a598",white:"#f8dcc0"),bright:(black:"#4e7cbf",red:"#fc5f5a",green:"#9eff6e",yellow:"#efc11a",blue:"#1997c6",magenta:"#9b5953",cyan:"#c8faf4",white:"#f6f5fb"),dim:(black:"#050404",red:"#bd0013",green:"#4ab118",yellow:"#e7741e",blue:"#0f4ac6",magenta:"#665993",cyan:"#70a598",white:"#f8dcc0"))
+(
+    name: "Adventure Time",
+    foreground: "#f8dcc0",
+    cursor: "#efbf38",
+    bright_foreground: "#f8dcc0",
+    dim_foreground: "#050404",
+
+    normal: (
+        black: "#050404",
+        red: "#bd0013",
+        green: "#4ab118",
+        yellow: "#e7741e",
+        blue: "#0f4ac6",
+        magenta: "#665993",
+        cyan: "#70a598",
+        white: "#f8dcc0"
+    ),
+
+    bright: (
+        black: "#4e7cbf",
+        red: "#fc5f5a",
+        green: "#9eff6e",
+        yellow: "#efc11a",
+        blue: "#1997c6",
+        magenta: "#9b5953",
+        cyan: "#c8faf4",
+        white: "#f6f5fb"
+    ),
+
+    dim: (
+        black: "#050404",
+        red: "#bd0013",
+        green: "#4ab118",
+        yellow: "#e7741e",
+        blue: "#0f4ac6",
+        magenta: "#665993",
+        cyan: "#70a598",
+        white: "#f8dcc0"
+    ),
+)

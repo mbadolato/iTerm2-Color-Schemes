@@ -1,1 +1,40 @@
-(name:"Black Metal (Dark Funeral)",foreground:"#c1c1c1",cursor:"#c1c1c1",bright_foreground:"#c1c1c1",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#5f8787",green:"#d0dfee",yellow:"#5f81a5",blue:"#888888",magenta:"#999999",cyan:"#aaaaaa",white:"#c1c1c1"),bright:(black:"#404040",red:"#5f8787",green:"#d0dfee",yellow:"#5f81a5",blue:"#888888",magenta:"#999999",cyan:"#aaaaaa",white:"#c1c1c1"),dim:(black:"#000000",red:"#5f8787",green:"#d0dfee",yellow:"#5f81a5",blue:"#888888",magenta:"#999999",cyan:"#aaaaaa",white:"#c1c1c1"))
+(
+    name: "Black Metal (Dark Funeral)",
+    foreground: "#c1c1c1",
+    cursor: "#c1c1c1",
+    bright_foreground: "#c1c1c1",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#5f8787",
+        green: "#d0dfee",
+        yellow: "#5f81a5",
+        blue: "#888888",
+        magenta: "#999999",
+        cyan: "#aaaaaa",
+        white: "#c1c1c1"
+    ),
+
+    bright: (
+        black: "#404040",
+        red: "#5f8787",
+        green: "#d0dfee",
+        yellow: "#5f81a5",
+        blue: "#888888",
+        magenta: "#999999",
+        cyan: "#aaaaaa",
+        white: "#c1c1c1"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#5f8787",
+        green: "#d0dfee",
+        yellow: "#5f81a5",
+        blue: "#888888",
+        magenta: "#999999",
+        cyan: "#aaaaaa",
+        white: "#c1c1c1"
+    ),
+)

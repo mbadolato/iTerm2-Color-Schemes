@@ -1,1 +1,40 @@
-(name:"Monospace Light",foreground:"#475365",cursor:"#6f4cde",bright_foreground:"#475365",dim_foreground:"#FF0000",normal:(black:"#333e4f",red:"#d03941",green:"#007b49",yellow:"#a65921",blue:"#3c60dd",magenta:"#6f4cde",cyan:"#0075a2",white:"#5d6a7d"),bright:(black:"#000000",red:"#a52430",green:"#00522f",yellow:"#904b1a",blue:"#002487",magenta:"#4d21bb",cyan:"#00607e",white:"#475365"),dim:(black:"#333e4f",red:"#d03941",green:"#007b49",yellow:"#a65921",blue:"#3c60dd",magenta:"#6f4cde",cyan:"#0075a2",white:"#5d6a7d"))
+(
+    name: "Monospace Light",
+    foreground: "#475365",
+    cursor: "#6f4cde",
+    bright_foreground: "#475365",
+    dim_foreground: "#333e4f",
+
+    normal: (
+        black: "#333e4f",
+        red: "#d03941",
+        green: "#007b49",
+        yellow: "#a65921",
+        blue: "#3c60dd",
+        magenta: "#6f4cde",
+        cyan: "#0075a2",
+        white: "#5d6a7d"
+    ),
+
+    bright: (
+        black: "#000000",
+        red: "#a52430",
+        green: "#00522f",
+        yellow: "#904b1a",
+        blue: "#002487",
+        magenta: "#4d21bb",
+        cyan: "#00607e",
+        white: "#475365"
+    ),
+
+    dim: (
+        black: "#333e4f",
+        red: "#d03941",
+        green: "#007b49",
+        yellow: "#a65921",
+        blue: "#3c60dd",
+        magenta: "#6f4cde",
+        cyan: "#0075a2",
+        white: "#5d6a7d"
+    ),
+)

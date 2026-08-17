@@ -1,1 +1,40 @@
-(name:"Kanso Pearl",foreground:"#22262d",cursor:"#22262d",bright_foreground:"#22262d",dim_foreground:"#FF0000",normal:(black:"#22262d",red:"#c84053",green:"#6f894e",yellow:"#77713f",blue:"#4d699b",magenta:"#b35b79",cyan:"#597b75",white:"#545464"),bright:(black:"#6d6f6e",red:"#d7474b",green:"#6e915f",yellow:"#836f4a",blue:"#6693bf",magenta:"#624c83",cyan:"#5e857a",white:"#43436c"),dim:(black:"#22262d",red:"#c84053",green:"#6f894e",yellow:"#77713f",blue:"#4d699b",magenta:"#b35b79",cyan:"#597b75",white:"#545464"))
+(
+    name: "Kanso Pearl",
+    foreground: "#22262d",
+    cursor: "#22262d",
+    bright_foreground: "#22262d",
+    dim_foreground: "#22262d",
+
+    normal: (
+        black: "#22262d",
+        red: "#c84053",
+        green: "#6f894e",
+        yellow: "#77713f",
+        blue: "#4d699b",
+        magenta: "#b35b79",
+        cyan: "#597b75",
+        white: "#545464"
+    ),
+
+    bright: (
+        black: "#6d6f6e",
+        red: "#d7474b",
+        green: "#6e915f",
+        yellow: "#836f4a",
+        blue: "#6693bf",
+        magenta: "#624c83",
+        cyan: "#5e857a",
+        white: "#43436c"
+    ),
+
+    dim: (
+        black: "#22262d",
+        red: "#c84053",
+        green: "#6f894e",
+        yellow: "#77713f",
+        blue: "#4d699b",
+        magenta: "#b35b79",
+        cyan: "#597b75",
+        white: "#545464"
+    ),
+)

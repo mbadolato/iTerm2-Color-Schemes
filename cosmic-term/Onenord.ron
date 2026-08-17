@@ -1,1 +1,40 @@
-(name:"Onenord",foreground:"#e5e9f0",cursor:"#81a1c1",bright_foreground:"#e5e9f0",dim_foreground:"#FF0000",normal:(black:"#3b4252",red:"#e06c75",green:"#9ec183",yellow:"#ebcb8b",blue:"#81a1c1",magenta:"#b988b0",cyan:"#88c0d0",white:"#e5e9f0"),bright:(black:"#596377",red:"#e06c75",green:"#9ec183",yellow:"#ebcb8b",blue:"#81a1c1",magenta:"#b988b0",cyan:"#8fbcbb",white:"#eceff4"),dim:(black:"#3b4252",red:"#e06c75",green:"#9ec183",yellow:"#ebcb8b",blue:"#81a1c1",magenta:"#b988b0",cyan:"#88c0d0",white:"#e5e9f0"))
+(
+    name: "Onenord",
+    foreground: "#e5e9f0",
+    cursor: "#81a1c1",
+    bright_foreground: "#e5e9f0",
+    dim_foreground: "#3b4252",
+
+    normal: (
+        black: "#3b4252",
+        red: "#e06c75",
+        green: "#9ec183",
+        yellow: "#ebcb8b",
+        blue: "#81a1c1",
+        magenta: "#b988b0",
+        cyan: "#88c0d0",
+        white: "#e5e9f0"
+    ),
+
+    bright: (
+        black: "#596377",
+        red: "#e06c75",
+        green: "#9ec183",
+        yellow: "#ebcb8b",
+        blue: "#81a1c1",
+        magenta: "#b988b0",
+        cyan: "#8fbcbb",
+        white: "#eceff4"
+    ),
+
+    dim: (
+        black: "#3b4252",
+        red: "#e06c75",
+        green: "#9ec183",
+        yellow: "#ebcb8b",
+        blue: "#81a1c1",
+        magenta: "#b988b0",
+        cyan: "#88c0d0",
+        white: "#e5e9f0"
+    ),
+)

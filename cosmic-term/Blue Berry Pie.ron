@@ -1,1 +1,40 @@
-(name:"Blue Berry Pie",foreground:"#babab9",cursor:"#fcfad6",bright_foreground:"#babab9",dim_foreground:"#FF0000",normal:(black:"#0a4c62",red:"#99246e",green:"#5cb1b3",yellow:"#eab9a8",blue:"#90a5bd",magenta:"#9d54a7",cyan:"#7e83cc",white:"#f0e8d6"),bright:(black:"#463c5d",red:"#c87272",green:"#0a6c7e",yellow:"#7a3188",blue:"#5f3d63",magenta:"#bc94b7",cyan:"#5e6071",white:"#0a6c7e"),dim:(black:"#0a4c62",red:"#99246e",green:"#5cb1b3",yellow:"#eab9a8",blue:"#90a5bd",magenta:"#9d54a7",cyan:"#7e83cc",white:"#f0e8d6"))
+(
+    name: "Blue Berry Pie",
+    foreground: "#babab9",
+    cursor: "#fcfad6",
+    bright_foreground: "#babab9",
+    dim_foreground: "#0a4c62",
+
+    normal: (
+        black: "#0a4c62",
+        red: "#99246e",
+        green: "#5cb1b3",
+        yellow: "#eab9a8",
+        blue: "#90a5bd",
+        magenta: "#9d54a7",
+        cyan: "#7e83cc",
+        white: "#f0e8d6"
+    ),
+
+    bright: (
+        black: "#463c5d",
+        red: "#c87272",
+        green: "#0a6c7e",
+        yellow: "#7a3188",
+        blue: "#5f3d63",
+        magenta: "#bc94b7",
+        cyan: "#5e6071",
+        white: "#0a6c7e"
+    ),
+
+    dim: (
+        black: "#0a4c62",
+        red: "#99246e",
+        green: "#5cb1b3",
+        yellow: "#eab9a8",
+        blue: "#90a5bd",
+        magenta: "#9d54a7",
+        cyan: "#7e83cc",
+        white: "#f0e8d6"
+    ),
+)

@@ -1,1 +1,40 @@
-(name:"Fun Forrest",foreground:"#dec165",cursor:"#e5591c",bright_foreground:"#dec165",dim_foreground:"#FF0000",normal:(black:"#000000",red:"#d6262b",green:"#919c00",yellow:"#be8a13",blue:"#4699a3",magenta:"#8d4331",cyan:"#da8213",white:"#ddc265"),bright:(black:"#7f6a55",red:"#e55a1c",green:"#bfc65a",yellow:"#ffcb1b",blue:"#7cc9cf",magenta:"#d26349",cyan:"#e6a96b",white:"#ffeaa3"),dim:(black:"#000000",red:"#d6262b",green:"#919c00",yellow:"#be8a13",blue:"#4699a3",magenta:"#8d4331",cyan:"#da8213",white:"#ddc265"))
+(
+    name: "Fun Forrest",
+    foreground: "#dec165",
+    cursor: "#e5591c",
+    bright_foreground: "#dec165",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#d6262b",
+        green: "#919c00",
+        yellow: "#be8a13",
+        blue: "#4699a3",
+        magenta: "#8d4331",
+        cyan: "#da8213",
+        white: "#ddc265"
+    ),
+
+    bright: (
+        black: "#7f6a55",
+        red: "#e55a1c",
+        green: "#bfc65a",
+        yellow: "#ffcb1b",
+        blue: "#7cc9cf",
+        magenta: "#d26349",
+        cyan: "#e6a96b",
+        white: "#ffeaa3"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#d6262b",
+        green: "#919c00",
+        yellow: "#be8a13",
+        blue: "#4699a3",
+        magenta: "#8d4331",
+        cyan: "#da8213",
+        white: "#ddc265"
+    ),
+)

@@ -1,1 +1,40 @@
-(name:"Patina Dark",foreground:"#dbd7ca",cursor:"#dbd7ca",bright_foreground:"#dbd7ca",dim_foreground:"#FF0000",normal:(black:"#2e2e2e",red:"#cb7676",green:"#4d9375",yellow:"#e6cc77",blue:"#6db3c2",magenta:"#c98a7d",cyan:"#5da9a7",white:"#dbd7ca"),bright:(black:"#585858",red:"#cb7676",green:"#4d9375",yellow:"#e6cc77",blue:"#6db3c2",magenta:"#c98a7d",cyan:"#5da9a7",white:"#dbd7ca"),dim:(black:"#2e2e2e",red:"#cb7676",green:"#4d9375",yellow:"#e6cc77",blue:"#6db3c2",magenta:"#c98a7d",cyan:"#5da9a7",white:"#dbd7ca"))
+(
+    name: "Patina Dark",
+    foreground: "#dbd7ca",
+    cursor: "#dbd7ca",
+    bright_foreground: "#dbd7ca",
+    dim_foreground: "#2e2e2e",
+
+    normal: (
+        black: "#2e2e2e",
+        red: "#cb7676",
+        green: "#4d9375",
+        yellow: "#e6cc77",
+        blue: "#6db3c2",
+        magenta: "#c98a7d",
+        cyan: "#5da9a7",
+        white: "#dbd7ca"
+    ),
+
+    bright: (
+        black: "#585858",
+        red: "#cb7676",
+        green: "#4d9375",
+        yellow: "#e6cc77",
+        blue: "#6db3c2",
+        magenta: "#c98a7d",
+        cyan: "#5da9a7",
+        white: "#dbd7ca"
+    ),
+
+    dim: (
+        black: "#2e2e2e",
+        red: "#cb7676",
+        green: "#4d9375",
+        yellow: "#e6cc77",
+        blue: "#6db3c2",
+        magenta: "#c98a7d",
+        cyan: "#5da9a7",
+        white: "#dbd7ca"
+    ),
+)

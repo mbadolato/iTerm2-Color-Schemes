@@ -1,1 +1,40 @@
-(name:"Forge Ember",foreground:"#f4e2c8",cursor:"#ff6a1f",bright_foreground:"#f4e2c8",dim_foreground:"#FF0000",normal:(black:"#241810",red:"#ff4733",green:"#c4c24a",yellow:"#ffb347",blue:"#f0a24f",magenta:"#ff6a4d",cyan:"#ffd27a",white:"#e6d2b6"),bright:(black:"#7a6248",red:"#ff4733",green:"#c4c24a",yellow:"#ff7a2d",blue:"#f0a24f",magenta:"#ff6a4d",cyan:"#ffd27a",white:"#f4e2c8"),dim:(black:"#241810",red:"#ff4733",green:"#c4c24a",yellow:"#ffb347",blue:"#f0a24f",magenta:"#ff6a4d",cyan:"#ffd27a",white:"#e6d2b6"))
+(
+    name: "Forge Ember",
+    foreground: "#f4e2c8",
+    cursor: "#ff6a1f",
+    bright_foreground: "#f4e2c8",
+    dim_foreground: "#241810",
+
+    normal: (
+        black: "#241810",
+        red: "#ff4733",
+        green: "#c4c24a",
+        yellow: "#ffb347",
+        blue: "#f0a24f",
+        magenta: "#ff6a4d",
+        cyan: "#ffd27a",
+        white: "#e6d2b6"
+    ),
+
+    bright: (
+        black: "#7a6248",
+        red: "#ff4733",
+        green: "#c4c24a",
+        yellow: "#ff7a2d",
+        blue: "#f0a24f",
+        magenta: "#ff6a4d",
+        cyan: "#ffd27a",
+        white: "#f4e2c8"
+    ),
+
+    dim: (
+        black: "#241810",
+        red: "#ff4733",
+        green: "#c4c24a",
+        yellow: "#ffb347",
+        blue: "#f0a24f",
+        magenta: "#ff6a4d",
+        cyan: "#ffd27a",
+        white: "#e6d2b6"
+    ),
+)

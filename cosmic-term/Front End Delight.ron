@@ -1,1 +1,40 @@
-(name:"Front End Delight",foreground:"#adadad",cursor:"#cdcdcd",bright_foreground:"#adadad",dim_foreground:"#FF0000",normal:(black:"#242526",red:"#f8511b",green:"#565747",yellow:"#fa771d",blue:"#2c70b7",magenta:"#f02e4f",cyan:"#3ca1a6",white:"#adadad"),bright:(black:"#5fac6d",red:"#f74319",green:"#74ec4c",yellow:"#fdc325",blue:"#3393ca",magenta:"#e75e4f",cyan:"#4fbce6",white:"#8c735b"),dim:(black:"#242526",red:"#f8511b",green:"#565747",yellow:"#fa771d",blue:"#2c70b7",magenta:"#f02e4f",cyan:"#3ca1a6",white:"#adadad"))
+(
+    name: "Front End Delight",
+    foreground: "#adadad",
+    cursor: "#cdcdcd",
+    bright_foreground: "#adadad",
+    dim_foreground: "#242526",
+
+    normal: (
+        black: "#242526",
+        red: "#f8511b",
+        green: "#565747",
+        yellow: "#fa771d",
+        blue: "#2c70b7",
+        magenta: "#f02e4f",
+        cyan: "#3ca1a6",
+        white: "#adadad"
+    ),
+
+    bright: (
+        black: "#5fac6d",
+        red: "#f74319",
+        green: "#74ec4c",
+        yellow: "#fdc325",
+        blue: "#3393ca",
+        magenta: "#e75e4f",
+        cyan: "#4fbce6",
+        white: "#8c735b"
+    ),
+
+    dim: (
+        black: "#242526",
+        red: "#f8511b",
+        green: "#565747",
+        yellow: "#fa771d",
+        blue: "#2c70b7",
+        magenta: "#f02e4f",
+        cyan: "#3ca1a6",
+        white: "#adadad"
+    ),
+)

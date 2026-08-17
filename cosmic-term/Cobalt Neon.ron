@@ -1,1 +1,40 @@
-(name:"Cobalt Neon",foreground:"#8ff586",cursor:"#c4206f",bright_foreground:"#8ff586",dim_foreground:"#FF0000",normal:(black:"#142631",red:"#ff2320",green:"#3ba5ff",yellow:"#e9e75c",blue:"#8ff586",magenta:"#781aa0",cyan:"#8ff586",white:"#ba46b2"),bright:(black:"#fff688",red:"#d4312e",green:"#8ff586",yellow:"#e9f06d",blue:"#3c7dd2",magenta:"#8230a7",cyan:"#6cbc67",white:"#8ff586"),dim:(black:"#142631",red:"#ff2320",green:"#3ba5ff",yellow:"#e9e75c",blue:"#8ff586",magenta:"#781aa0",cyan:"#8ff586",white:"#ba46b2"))
+(
+    name: "Cobalt Neon",
+    foreground: "#8ff586",
+    cursor: "#c4206f",
+    bright_foreground: "#8ff586",
+    dim_foreground: "#142631",
+
+    normal: (
+        black: "#142631",
+        red: "#ff2320",
+        green: "#3ba5ff",
+        yellow: "#e9e75c",
+        blue: "#8ff586",
+        magenta: "#781aa0",
+        cyan: "#8ff586",
+        white: "#ba46b2"
+    ),
+
+    bright: (
+        black: "#fff688",
+        red: "#d4312e",
+        green: "#8ff586",
+        yellow: "#e9f06d",
+        blue: "#3c7dd2",
+        magenta: "#8230a7",
+        cyan: "#6cbc67",
+        white: "#8ff586"
+    ),
+
+    dim: (
+        black: "#142631",
+        red: "#ff2320",
+        green: "#3ba5ff",
+        yellow: "#e9e75c",
+        blue: "#8ff586",
+        magenta: "#781aa0",
+        cyan: "#8ff586",
+        white: "#ba46b2"
+    ),
+)

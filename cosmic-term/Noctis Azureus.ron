@@ -1,1 +1,40 @@
-(name:"Noctis Azureus",foreground:"#becfda",cursor:"#becfda",bright_foreground:"#becfda",dim_foreground:"#FF0000",normal:(black:"#28353e",red:"#e66533",green:"#49e9a6",yellow:"#e4b781",blue:"#49ace9",magenta:"#df769b",cyan:"#49d6e9",white:"#aec3d0"),bright:(black:"#475e6c",red:"#e97749",green:"#60ebb1",yellow:"#e69533",blue:"#60b6eb",magenta:"#e798b3",cyan:"#60dbeb",white:"#becfda"),dim:(black:"#28353e",red:"#e66533",green:"#49e9a6",yellow:"#e4b781",blue:"#49ace9",magenta:"#df769b",cyan:"#49d6e9",white:"#aec3d0"))
+(
+    name: "Noctis Azureus",
+    foreground: "#becfda",
+    cursor: "#becfda",
+    bright_foreground: "#becfda",
+    dim_foreground: "#28353e",
+
+    normal: (
+        black: "#28353e",
+        red: "#e66533",
+        green: "#49e9a6",
+        yellow: "#e4b781",
+        blue: "#49ace9",
+        magenta: "#df769b",
+        cyan: "#49d6e9",
+        white: "#aec3d0"
+    ),
+
+    bright: (
+        black: "#475e6c",
+        red: "#e97749",
+        green: "#60ebb1",
+        yellow: "#e69533",
+        blue: "#60b6eb",
+        magenta: "#e798b3",
+        cyan: "#60dbeb",
+        white: "#becfda"
+    ),
+
+    dim: (
+        black: "#28353e",
+        red: "#e66533",
+        green: "#49e9a6",
+        yellow: "#e4b781",
+        blue: "#49ace9",
+        magenta: "#df769b",
+        cyan: "#49d6e9",
+        white: "#aec3d0"
+    ),
+)

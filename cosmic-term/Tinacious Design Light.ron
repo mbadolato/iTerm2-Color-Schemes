@@ -1,1 +1,40 @@
-(name:"Tinacious Design Light",foreground:"#1d1d26",cursor:"#b1b1d6",bright_foreground:"#1d1d26",dim_foreground:"#FF0000",normal:(black:"#1d1d26",red:"#ff3399",green:"#00d364",yellow:"#e5b24d",blue:"#00cbff",magenta:"#cc66ff",cyan:"#00ceca",white:"#b1b1d6"),bright:(black:"#636667",red:"#ff2f92",green:"#00d364",yellow:"#d9ae53",blue:"#00cbff",magenta:"#d783ff",cyan:"#00c8c7",white:"#d5d6f3"),dim:(black:"#1d1d26",red:"#ff3399",green:"#00d364",yellow:"#e5b24d",blue:"#00cbff",magenta:"#cc66ff",cyan:"#00ceca",white:"#b1b1d6"))
+(
+    name: "Tinacious Design Light",
+    foreground: "#1d1d26",
+    cursor: "#b1b1d6",
+    bright_foreground: "#1d1d26",
+    dim_foreground: "#1d1d26",
+
+    normal: (
+        black: "#1d1d26",
+        red: "#ff3399",
+        green: "#00d364",
+        yellow: "#e5b24d",
+        blue: "#00cbff",
+        magenta: "#cc66ff",
+        cyan: "#00ceca",
+        white: "#b1b1d6"
+    ),
+
+    bright: (
+        black: "#636667",
+        red: "#ff2f92",
+        green: "#00d364",
+        yellow: "#d9ae53",
+        blue: "#00cbff",
+        magenta: "#d783ff",
+        cyan: "#00c8c7",
+        white: "#d5d6f3"
+    ),
+
+    dim: (
+        black: "#1d1d26",
+        red: "#ff3399",
+        green: "#00d364",
+        yellow: "#e5b24d",
+        blue: "#00cbff",
+        magenta: "#cc66ff",
+        cyan: "#00ceca",
+        white: "#b1b1d6"
+    ),
+)
