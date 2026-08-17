@@ -1,0 +1,33 @@
+# Colors (Warm Burnout Light)
+
+[colors.bright]
+black = '#686868'
+blue = '#2870b0'
+cyan = '#208870'
+green = '#3a7a20'
+magenta = '#9a38a0'
+red = '#c83028'
+white = '#faf6f0'
+yellow = '#9a7008'
+
+[colors.cursor]
+cursor = '#8a6600'
+text = '#f5ede0'
+
+[colors.normal]
+black = '#3a3630'
+blue = '#2060a0'
+cyan = '#146858'
+green = '#2d6a14'
+magenta = '#8a3090'
+red = '#b82820'
+white = '#b3ab9d'
+yellow = '#8a6000'
+
+[colors.primary]
+background = '#f5ede0'
+foreground = '#3a3630'
+
+[colors.selection]
+background = '#e5e8e2'
+text = '#3a3630'
