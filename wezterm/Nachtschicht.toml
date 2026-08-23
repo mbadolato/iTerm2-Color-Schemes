@@ -1,0 +1,12 @@
+# Nachtschicht
+[colors]
+foreground = "#e8eaed"
+background = "#17191d"
+cursor_bg = "#e3b341"
+cursor_border = "#e3b341"
+cursor_fg = "#17191d"
+selection_bg = "#36393c"
+selection_fg = "#e8eaed"
+
+ansi = ["#0e1012","#e5484d","#33d17a","#e3b341","#4d7cfe","#c86ad8","#3fc8b0","#c9cfd6"]
+brights = ["#9da4af","#ef8f92","#76e0a5","#edcf88","#9eb8fe","#e0abe9","#7edaca","#e8eaed"]

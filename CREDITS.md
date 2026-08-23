@@ -577,3 +577,5 @@ The Modus Operandi Deuteranopia, Modus Operandi Tritanopia, Modus Vivendi Deuter
 The Noctis theme family (Noctis, Noctis Azureus, Noctis Bordo, Noctis Hibernus, Noctis Lilac, Noctis Lux, Noctis Minimus, Noctis Obscuro, Noctis Sereno, Noctis Uva, and Noctis Viola) was created by [Liviu Schera](https://github.com/liviuschera) as a [VS Code theme family](https://github.com/liviuschera/noctis). Terminal ANSI values are pulled directly from each variant's `themes/*.json` file in the upstream repo. Ported to iTerm2 format by [Abel Dantas](https://github.com/abeldantas).
 
 The datum (dark) and datum (light) themes were created by [w0zro](https://github.com/w0zro) as [datum](https://github.com/w0zro/datum), a colorscheme derived in OKLCH from the colorblind-safe Okabe-Ito hues and verified against WCAG 2.2 and APCA contrast.
+
+The Nachtschicht theme was created by [notgabriels-sys](https://github.com/notgabriels-sys) as part of [50 dark themes for Claude Code](https://github.com/notgabriels-sys/claude-code-50-dark-themes), a set of terminal themes each built around a single accent, with WCAG contrast floors enforced at build time.

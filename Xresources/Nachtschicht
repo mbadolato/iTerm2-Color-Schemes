@@ -1,0 +1,43 @@
+!
+! Nachtschicht
+!
+*.foreground:  #e8eaed
+*.background:  #17191d
+*.cursorColor: #e3b341
+!
+! Black
+*.color0:      #0e1012
+*.color8:      #9da4af
+!
+! Red
+*.color1:      #e5484d
+*.color9:      #ef8f92
+!
+! Green
+*.color2:      #33d17a
+*.color10:     #76e0a5
+!
+! Yellow
+*.color3:      #e3b341
+*.color11:     #edcf88
+!
+! Blue
+*.color4:      #4d7cfe
+*.color12:     #9eb8fe
+!
+! Magenta
+*.color5:      #c86ad8
+*.color13:     #e0abe9
+!
+! Cyan
+*.color6:      #3fc8b0
+*.color14:     #7edaca
+!
+! White
+*.color7:      #c9cfd6
+*.color15:     #e8eaed
+!
+! Bold, Italic, Underline
+*.colorBD:     #e8eaed
+!*.colorIT:
+!*.colorUL:

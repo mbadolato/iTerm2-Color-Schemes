@@ -1,0 +1,33 @@
+# Colors (Nachtschicht)
+
+[colors.bright]
+black = '#9da4af'
+blue = '#9eb8fe'
+cyan = '#7edaca'
+green = '#76e0a5'
+magenta = '#e0abe9'
+red = '#ef8f92'
+white = '#e8eaed'
+yellow = '#edcf88'
+
+[colors.cursor]
+cursor = '#e3b341'
+text = '#17191d'
+
+[colors.normal]
+black = '#0e1012'
+blue = '#4d7cfe'
+cyan = '#3fc8b0'
+green = '#33d17a'
+magenta = '#c86ad8'
+red = '#e5484d'
+white = '#c9cfd6'
+yellow = '#e3b341'
+
+[colors.primary]
+background = '#17191d'
+foreground = '#e8eaed'
+
+[colors.selection]
+background = '#36393c'
+text = '#e8eaed'
