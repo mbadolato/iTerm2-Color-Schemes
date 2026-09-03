@@ -1,0 +1,33 @@
+# Colors (Isocon Light)
+
+[colors.bright]
+black = '#8c8c8c'
+blue = '#1a67e1'
+cyan = '#1c7175'
+green = '#1f7d3f'
+magenta = '#982ae9'
+red = '#d0272f'
+white = '#6e6e6e'
+yellow = '#896a1c'
+
+[colors.cursor]
+cursor = '#6e6e6e'
+text = '#eef3ea'
+
+[colors.normal]
+black = '#eef3ea'
+blue = '#2f6bcf'
+cyan = '#306f72'
+green = '#347b47'
+magenta = '#9242d6'
+red = '#c33f3d'
+white = '#6e6e6e'
+yellow = '#856b31'
+
+[colors.primary]
+background = '#eef3ea'
+foreground = '#6e6e6e'
+
+[colors.selection]
+background = '#6e6e6e'
+text = '#eef3ea'

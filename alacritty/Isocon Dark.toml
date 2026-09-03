@@ -1,0 +1,33 @@
+# Colors (Isocon Dark)
+
+[colors.bright]
+black = '#565656'
+blue = '#0f8dcd'
+cyan = '#0f907f'
+green = '#109b48'
+magenta = '#9c61fc'
+red = '#f81486'
+white = '#868686'
+yellow = '#c7700e'
+
+[colors.cursor]
+cursor = '#868686'
+text = '#062329'
+
+[colors.normal]
+black = '#062329'
+blue = '#408cbd'
+cyan = '#3e8c7e'
+green = '#419658'
+magenta = '#976fe3'
+red = '#e34b87'
+white = '#868686'
+yellow = '#ba783e'
+
+[colors.primary]
+background = '#062329'
+foreground = '#868686'
+
+[colors.selection]
+background = '#868686'
+text = '#062329'

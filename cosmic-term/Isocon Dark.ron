@@ -1,0 +1,40 @@
+(
+    name: "Isocon Dark",
+    foreground: "#868686",
+    cursor: "#868686",
+    bright_foreground: "#868686",
+    dim_foreground: "#062329",
+
+    normal: (
+        black: "#062329",
+        red: "#e34b87",
+        green: "#419658",
+        yellow: "#ba783e",
+        blue: "#408cbd",
+        magenta: "#976fe3",
+        cyan: "#3e8c7e",
+        white: "#868686"
+    ),
+
+    bright: (
+        black: "#565656",
+        red: "#f81486",
+        green: "#109b48",
+        yellow: "#c7700e",
+        blue: "#0f8dcd",
+        magenta: "#9c61fc",
+        cyan: "#0f907f",
+        white: "#868686"
+    ),
+
+    dim: (
+        black: "#062329",
+        red: "#e34b87",
+        green: "#419658",
+        yellow: "#ba783e",
+        blue: "#408cbd",
+        magenta: "#976fe3",
+        cyan: "#3e8c7e",
+        white: "#868686"
+    ),
+)

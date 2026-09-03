@@ -1,0 +1,43 @@
+!
+! Isocon Light
+!
+*.foreground:  #6e6e6e
+*.background:  #eef3ea
+*.cursorColor: #6e6e6e
+!
+! Black
+*.color0:      #eef3ea
+*.color8:      #8c8c8c
+!
+! Red
+*.color1:      #c33f3d
+*.color9:      #d0272f
+!
+! Green
+*.color2:      #347b47
+*.color10:     #1f7d3f
+!
+! Yellow
+*.color3:      #856b31
+*.color11:     #896a1c
+!
+! Blue
+*.color4:      #2f6bcf
+*.color12:     #1a67e1
+!
+! Magenta
+*.color5:      #9242d6
+*.color13:     #982ae9
+!
+! Cyan
+*.color6:      #306f72
+*.color14:     #1c7175
+!
+! White
+*.color7:      #6e6e6e
+*.color15:     #6e6e6e
+!
+! Bold, Italic, Underline
+*.colorBD:     #6e6e6e
+!*.colorIT:
+!*.colorUL:
