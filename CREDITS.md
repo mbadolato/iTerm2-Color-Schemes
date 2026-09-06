@@ -87,6 +87,8 @@ The Calamity and Rapture themes were created by [Pustur](https://github.com/Pust
 
 The Catppuccin themes were created by the [Catppuccin](https://github.com/orgs/catppuccin/people) team
 
+The Catthode theme was created by the [Catthode](https://github.com/catthode) project.
+
 The CGA theme was created by [jdhmtl](https://github.com/jdhmtl).
 
 The Chalk theme was created by [achalv](https://github.com/achalv/chalk)
