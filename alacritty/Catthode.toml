@@ -1,0 +1,33 @@
+# Colors (Catthode)
+
+[colors.bright]
+black = '#636363'
+blue = '#9cd9e6'
+cyan = '#aee6d6'
+green = '#b9d665'
+magenta = '#eba4be'
+red = '#ff6b6b'
+white = '#ffffff'
+yellow = '#fae2c8'
+
+[colors.cursor]
+cursor = '#ff9e3b'
+text = '#000000'
+
+[colors.normal]
+black = '#141414'
+blue = '#9cd9e6'
+cyan = '#aee6d6'
+green = '#b9d665'
+magenta = '#eba4be'
+red = '#ff6b6b'
+white = '#b3b3b3'
+yellow = '#ffb86c'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#2d2d2d'
+text = '#ffffff'

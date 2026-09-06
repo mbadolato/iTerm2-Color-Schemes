@@ -1,0 +1,43 @@
+!
+! Catthode
+!
+*.foreground:  #ffffff
+*.background:  #000000
+*.cursorColor: #ff9e3b
+!
+! Black
+*.color0:      #141414
+*.color8:      #636363
+!
+! Red
+*.color1:      #ff6b6b
+*.color9:      #ff6b6b
+!
+! Green
+*.color2:      #b9d665
+*.color10:     #b9d665
+!
+! Yellow
+*.color3:      #ffb86c
+*.color11:     #fae2c8
+!
+! Blue
+*.color4:      #9cd9e6
+*.color12:     #9cd9e6
+!
+! Magenta
+*.color5:      #eba4be
+*.color13:     #eba4be
+!
+! Cyan
+*.color6:      #aee6d6
+*.color14:     #aee6d6
+!
+! White
+*.color7:      #b3b3b3
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #fae2c8
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,12 @@
+# Catthode
+[colors]
+foreground = "#ffffff"
+background = "#000000"
+cursor_bg = "#ff9e3b"
+cursor_border = "#ff9e3b"
+cursor_fg = "#000000"
+selection_bg = "#2d2d2d"
+selection_fg = "#ffffff"
+
+ansi = ["#141414","#ff6b6b","#b9d665","#ffb86c","#9cd9e6","#eba4be","#aee6d6","#b3b3b3"]
+brights = ["#636363","#ff6b6b","#b9d665","#fae2c8","#9cd9e6","#eba4be","#aee6d6","#ffffff"]
