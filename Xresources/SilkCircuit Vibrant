@@ -1,0 +1,43 @@
+!
+! SilkCircuit Vibrant
+!
+*.foreground:  #f8f8f2
+*.background:  #0f0c1a
+*.cursorColor: #00ffcc
+!
+! Black
+*.color0:      #0f0c1a
+*.color8:      #728989
+!
+! Red
+*.color1:      #ff3366
+*.color9:      #ff6677
+!
+! Green
+*.color2:      #00ff66
+*.color10:     #66ff99
+!
+! Yellow
+*.color3:      #ffcc00
+*.color11:     #ffff66
+!
+! Blue
+*.color4:      #6699ff
+*.color12:     #88aaff
+!
+! Magenta
+*.color5:      #ff00cc
+*.color13:     #ff66ff
+!
+! Cyan
+*.color6:      #00ffcc
+*.color14:     #00ffff
+!
+! White
+*.color7:      #f8f8f2
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f8f8f2
+!*.colorIT:
+!*.colorUL:

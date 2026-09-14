@@ -1,0 +1,40 @@
+(
+    name: "SilkCircuit Dawn",
+    foreground: "#2b2540",
+    cursor: "#006e72",
+    bright_foreground: "#2b2540",
+    dim_foreground: "#2b2540",
+
+    normal: (
+        black: "#2b2540",
+        red: "#c1272d",
+        green: "#1d6e46",
+        yellow: "#796100",
+        blue: "#1454dc",
+        magenta: "#b40077",
+        cyan: "#006e72",
+        white: "#bab8bf"
+    ),
+
+    bright: (
+        black: "#5a4d6e",
+        red: "#dc2626",
+        green: "#288855",
+        yellow: "#7f5f00",
+        blue: "#2572ef",
+        magenta: "#d92a99",
+        cyan: "#048397",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#2b2540",
+        red: "#c1272d",
+        green: "#1d6e46",
+        yellow: "#796100",
+        blue: "#1454dc",
+        magenta: "#b40077",
+        cyan: "#006e72",
+        white: "#bab8bf"
+    ),
+)

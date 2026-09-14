@@ -1,0 +1,40 @@
+(
+    name: "SilkCircuit Neon",
+    foreground: "#f8f8f2",
+    cursor: "#80ffea",
+    bright_foreground: "#f8f8f2",
+    dim_foreground: "#12101a",
+
+    normal: (
+        black: "#12101a",
+        red: "#ff6363",
+        green: "#50fa7b",
+        yellow: "#f1fa8c",
+        blue: "#82aaff",
+        magenta: "#ff00ff",
+        cyan: "#80ffea",
+        white: "#f8f8f2"
+    ),
+
+    bright: (
+        black: "#768d8d",
+        red: "#ff8787",
+        green: "#86fba8",
+        yellow: "#ffffa5",
+        blue: "#82b1ff",
+        magenta: "#ff69ff",
+        cyan: "#5fffff",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#12101a",
+        red: "#ff6363",
+        green: "#50fa7b",
+        yellow: "#f1fa8c",
+        blue: "#82aaff",
+        magenta: "#ff00ff",
+        cyan: "#80ffea",
+        white: "#f8f8f2"
+    ),
+)

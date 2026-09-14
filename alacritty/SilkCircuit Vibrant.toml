@@ -1,0 +1,33 @@
+# Colors (SilkCircuit Vibrant)
+
+[colors.bright]
+black = '#728989'
+blue = '#88aaff'
+cyan = '#00ffff'
+green = '#66ff99'
+magenta = '#ff66ff'
+red = '#ff6677'
+white = '#ffffff'
+yellow = '#ffff66'
+
+[colors.cursor]
+cursor = '#00ffcc'
+text = '#0f0c1a'
+
+[colors.normal]
+black = '#0f0c1a'
+blue = '#6699ff'
+cyan = '#00ffcc'
+green = '#00ff66'
+magenta = '#ff00cc'
+red = '#ff3366'
+white = '#f8f8f2'
+yellow = '#ffcc00'
+
+[colors.primary]
+background = '#0f0c1a'
+foreground = '#f8f8f2'
+
+[colors.selection]
+background = '#3a2e5a'
+text = '#f8f8f2'

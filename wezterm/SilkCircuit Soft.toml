@@ -1,0 +1,12 @@
+# SilkCircuit Soft
+[colors]
+foreground = "#f8f8f2"
+background = "#1a1626"
+cursor_bg = "#99ffee"
+cursor_border = "#99ffee"
+cursor_fg = "#1a1626"
+selection_bg = "#44475a"
+selection_fg = "#f8f8f2"
+
+ansi = ["#141220","#ff6677","#66ff99","#ffe699","#92aaff","#ff99ff","#99ffee","#f8f8f2"]
+brights = ["#6272a4","#ff7788","#80ffb3","#ffffa5","#a2bbff","#ffb3ff","#b3ffea","#ffffff"]

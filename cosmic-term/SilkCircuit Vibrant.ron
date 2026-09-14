@@ -1,0 +1,40 @@
+(
+    name: "SilkCircuit Vibrant",
+    foreground: "#f8f8f2",
+    cursor: "#00ffcc",
+    bright_foreground: "#f8f8f2",
+    dim_foreground: "#0f0c1a",
+
+    normal: (
+        black: "#0f0c1a",
+        red: "#ff3366",
+        green: "#00ff66",
+        yellow: "#ffcc00",
+        blue: "#6699ff",
+        magenta: "#ff00cc",
+        cyan: "#00ffcc",
+        white: "#f8f8f2"
+    ),
+
+    bright: (
+        black: "#728989",
+        red: "#ff6677",
+        green: "#66ff99",
+        yellow: "#ffff66",
+        blue: "#88aaff",
+        magenta: "#ff66ff",
+        cyan: "#00ffff",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#0f0c1a",
+        red: "#ff3366",
+        green: "#00ff66",
+        yellow: "#ffcc00",
+        blue: "#6699ff",
+        magenta: "#ff00cc",
+        cyan: "#00ffcc",
+        white: "#f8f8f2"
+    ),
+)

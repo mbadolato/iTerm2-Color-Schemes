@@ -1782,6 +1782,22 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/shaman.png)
 
+### SilkCircuit Glow
+
+![Screenshot](/screenshots/silkcircuit-glow.png)
+
+### SilkCircuit Neon
+
+![Screenshot](/screenshots/silkcircuit-neon.png)
+
+### SilkCircuit Soft
+
+![Screenshot](/screenshots/silkcircuit-soft.png)
+
+### SilkCircuit Vibrant
+
+![Screenshot](/screenshots/silkcircuit-vibrant.png)
+
 ### Slate
 
 ![Screenshot](/screenshots/slate.png)
@@ -2571,6 +2587,10 @@ The screenshots are categorized.
 ### Shokunin
 
 ![Screenshot](/screenshots/shokunin.png)
+
+### SilkCircuit Dawn
+
+![Screenshot](/screenshots/silkcircuit-dawn.png)
 
 ### Spring
 

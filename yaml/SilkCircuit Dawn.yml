@@ -1,0 +1,33 @@
+---
+name: 'SilkCircuit Dawn'
+author: 'Stefanie Jane (https://github.com/hyperb1iss/silkcircuit)'
+author_name: 'Stefanie Jane'
+author_url: 'https://github.com/hyperb1iss/silkcircuit'
+variant: 'light'            # dark or light
+
+color_01: '#2B2540'    # Black (Host)
+color_02: '#C1272D'    # Red (Syntax string)
+color_03: '#1D6E46'    # Green (Command)
+color_04: '#796100'    # Yellow (Command second)
+color_05: '#1454DC'    # Blue (Path)
+color_06: '#B40077'    # Magenta (Syntax var)
+color_07: '#006E72'    # Cyan (Prompt)
+color_08: '#FAF8FF'    # White
+
+color_09: '#5A4D6E'    # Bright Black
+color_10: '#DC2626'    # Bright Red (Command error)
+color_11: '#288855'    # Bright Green (Exec)
+color_12: '#7F5F00'    # Bright Yellow
+color_13: '#2572EF'    # Bright Blue (Folder)
+color_14: '#D92A99'    # Bright Magenta
+color_15: '#048397'    # Bright Cyan
+color_16: '#FFFFFF'    # Bright White
+
+background: '#FAF8FF'  # Background
+foreground: '#2B2540'  # Foreground (Text)
+
+cursor: '#006E72'      # Cursor
+
+cursor_text: '#FAF8FF'
+selection: '#D4C8F0'
+selection_text: '#2B2540'

@@ -1,0 +1,33 @@
+# Colors (SilkCircuit Dawn)
+
+[colors.bright]
+black = '#5a4d6e'
+blue = '#2572ef'
+cyan = '#048397'
+green = '#288855'
+magenta = '#d92a99'
+red = '#dc2626'
+white = '#ffffff'
+yellow = '#7f5f00'
+
+[colors.cursor]
+cursor = '#006e72'
+text = '#faf8ff'
+
+[colors.normal]
+black = '#2b2540'
+blue = '#1454dc'
+cyan = '#006e72'
+green = '#1d6e46'
+magenta = '#b40077'
+red = '#c1272d'
+white = '#bab8bf'
+yellow = '#796100'
+
+[colors.primary]
+background = '#faf8ff'
+foreground = '#2b2540'
+
+[colors.selection]
+background = '#d4c8f0'
+text = '#2b2540'

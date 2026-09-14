@@ -1,0 +1,43 @@
+!
+! SilkCircuit Glow
+!
+*.foreground:  #ffffff
+*.background:  #0a0816
+*.cursorColor: #00ffff
+!
+! Black
+*.color0:      #000000
+*.color8:      #818181
+!
+! Red
+*.color1:      #ff2244
+*.color9:      #ff6666
+!
+! Green
+*.color2:      #00ff00
+*.color10:     #66ff66
+!
+! Yellow
+*.color3:      #ffff00
+*.color11:     #ffff66
+!
+! Blue
+*.color4:      #0099ff
+*.color12:     #66ccff
+!
+! Magenta
+*.color5:      #ff00ff
+*.color13:     #ff66ff
+!
+! Cyan
+*.color6:      #00ffff
+*.color14:     #66ffff
+!
+! White
+*.color7:      #ffffff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

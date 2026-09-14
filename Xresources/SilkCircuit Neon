@@ -1,0 +1,43 @@
+!
+! SilkCircuit Neon
+!
+*.foreground:  #f8f8f2
+*.background:  #12101a
+*.cursorColor: #80ffea
+!
+! Black
+*.color0:      #12101a
+*.color8:      #768d8d
+!
+! Red
+*.color1:      #ff6363
+*.color9:      #ff8787
+!
+! Green
+*.color2:      #50fa7b
+*.color10:     #86fba8
+!
+! Yellow
+*.color3:      #f1fa8c
+*.color11:     #ffffa5
+!
+! Blue
+*.color4:      #82aaff
+*.color12:     #82b1ff
+!
+! Magenta
+*.color5:      #ff00ff
+*.color13:     #ff69ff
+!
+! Cyan
+*.color6:      #80ffea
+*.color14:     #5fffff
+!
+! White
+*.color7:      #f8f8f2
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f8f8f2
+!*.colorIT:
+!*.colorUL:

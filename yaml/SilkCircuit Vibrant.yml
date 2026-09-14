@@ -1,0 +1,33 @@
+---
+name: 'SilkCircuit Vibrant'
+author: 'Stefanie Jane (https://github.com/hyperb1iss/silkcircuit)'
+author_name: 'Stefanie Jane'
+author_url: 'https://github.com/hyperb1iss/silkcircuit'
+variant: 'dark'            # dark or light
+
+color_01: '#0F0C1A'    # Black (Host)
+color_02: '#FF3366'    # Red (Syntax string)
+color_03: '#00FF66'    # Green (Command)
+color_04: '#FFCC00'    # Yellow (Command second)
+color_05: '#6699FF'    # Blue (Path)
+color_06: '#FF00CC'    # Magenta (Syntax var)
+color_07: '#00FFCC'    # Cyan (Prompt)
+color_08: '#F8F8F2'    # White
+
+color_09: '#728989'    # Bright Black
+color_10: '#FF6677'    # Bright Red (Command error)
+color_11: '#66FF99'    # Bright Green (Exec)
+color_12: '#FFFF66'    # Bright Yellow
+color_13: '#88AAFF'    # Bright Blue (Folder)
+color_14: '#FF66FF'    # Bright Magenta
+color_15: '#00FFFF'    # Bright Cyan
+color_16: '#FFFFFF'    # Bright White
+
+background: '#0F0C1A'  # Background
+foreground: '#F8F8F2'  # Foreground (Text)
+
+cursor: '#00FFCC'      # Cursor
+
+cursor_text: '#0F0C1A'
+selection: '#3A2E5A'
+selection_text: '#F8F8F2'

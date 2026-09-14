@@ -1,0 +1,12 @@
+# SilkCircuit Vibrant
+[colors]
+foreground = "#f8f8f2"
+background = "#0f0c1a"
+cursor_bg = "#00ffcc"
+cursor_border = "#00ffcc"
+cursor_fg = "#0f0c1a"
+selection_bg = "#3a2e5a"
+selection_fg = "#f8f8f2"
+
+ansi = ["#0f0c1a","#ff3366","#00ff66","#ffcc00","#6699ff","#ff00cc","#00ffcc","#f8f8f2"]
+brights = ["#728989","#ff6677","#66ff99","#ffff66","#88aaff","#ff66ff","#00ffff","#ffffff"]

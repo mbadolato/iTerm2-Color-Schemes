@@ -1,0 +1,40 @@
+(
+    name: "SilkCircuit Soft",
+    foreground: "#f8f8f2",
+    cursor: "#99ffee",
+    bright_foreground: "#f8f8f2",
+    dim_foreground: "#141220",
+
+    normal: (
+        black: "#141220",
+        red: "#ff6677",
+        green: "#66ff99",
+        yellow: "#ffe699",
+        blue: "#92aaff",
+        magenta: "#ff99ff",
+        cyan: "#99ffee",
+        white: "#f8f8f2"
+    ),
+
+    bright: (
+        black: "#6272a4",
+        red: "#ff7788",
+        green: "#80ffb3",
+        yellow: "#ffffa5",
+        blue: "#a2bbff",
+        magenta: "#ffb3ff",
+        cyan: "#b3ffea",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#141220",
+        red: "#ff6677",
+        green: "#66ff99",
+        yellow: "#ffe699",
+        blue: "#92aaff",
+        magenta: "#ff99ff",
+        cyan: "#99ffee",
+        white: "#f8f8f2"
+    ),
+)

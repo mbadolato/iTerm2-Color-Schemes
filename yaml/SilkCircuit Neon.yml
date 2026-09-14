@@ -1,0 +1,33 @@
+---
+name: 'SilkCircuit Neon'
+author: 'Stefanie Jane (https://github.com/hyperb1iss/silkcircuit)'
+author_name: 'Stefanie Jane'
+author_url: 'https://github.com/hyperb1iss/silkcircuit'
+variant: 'dark'            # dark or light
+
+color_01: '#12101A'    # Black (Host)
+color_02: '#FF6363'    # Red (Syntax string)
+color_03: '#50FA7B'    # Green (Command)
+color_04: '#F1FA8C'    # Yellow (Command second)
+color_05: '#82AAFF'    # Blue (Path)
+color_06: '#FF00FF'    # Magenta (Syntax var)
+color_07: '#80FFEA'    # Cyan (Prompt)
+color_08: '#F8F8F2'    # White
+
+color_09: '#768D8D'    # Bright Black
+color_10: '#FF8787'    # Bright Red (Command error)
+color_11: '#86FBA8'    # Bright Green (Exec)
+color_12: '#FFFFA5'    # Bright Yellow
+color_13: '#82B1FF'    # Bright Blue (Folder)
+color_14: '#FF69FF'    # Bright Magenta
+color_15: '#5FFFFF'    # Bright Cyan
+color_16: '#FFFFFF'    # Bright White
+
+background: '#12101A'  # Background
+foreground: '#F8F8F2'  # Foreground (Text)
+
+cursor: '#80FFEA'      # Cursor
+
+cursor_text: '#12101A'
+selection: '#44475A'
+selection_text: '#F8F8F2'

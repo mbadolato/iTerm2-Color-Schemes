@@ -1,0 +1,43 @@
+!
+! SilkCircuit Dawn
+!
+*.foreground:  #2b2540
+*.background:  #faf8ff
+*.cursorColor: #006e72
+!
+! Black
+*.color0:      #2b2540
+*.color8:      #5a4d6e
+!
+! Red
+*.color1:      #c1272d
+*.color9:      #dc2626
+!
+! Green
+*.color2:      #1d6e46
+*.color10:     #288855
+!
+! Yellow
+*.color3:      #796100
+*.color11:     #7f5f00
+!
+! Blue
+*.color4:      #1454dc
+*.color12:     #2572ef
+!
+! Magenta
+*.color5:      #b40077
+*.color13:     #d92a99
+!
+! Cyan
+*.color6:      #006e72
+*.color14:     #048397
+!
+! White
+*.color7:      #bab8bf
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #2b2540
+!*.colorIT:
+!*.colorUL:

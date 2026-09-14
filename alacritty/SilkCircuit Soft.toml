@@ -1,0 +1,33 @@
+# Colors (SilkCircuit Soft)
+
+[colors.bright]
+black = '#6272a4'
+blue = '#a2bbff'
+cyan = '#b3ffea'
+green = '#80ffb3'
+magenta = '#ffb3ff'
+red = '#ff7788'
+white = '#ffffff'
+yellow = '#ffffa5'
+
+[colors.cursor]
+cursor = '#99ffee'
+text = '#1a1626'
+
+[colors.normal]
+black = '#141220'
+blue = '#92aaff'
+cyan = '#99ffee'
+green = '#66ff99'
+magenta = '#ff99ff'
+red = '#ff6677'
+white = '#f8f8f2'
+yellow = '#ffe699'
+
+[colors.primary]
+background = '#1a1626'
+foreground = '#f8f8f2'
+
+[colors.selection]
+background = '#44475a'
+text = '#f8f8f2'

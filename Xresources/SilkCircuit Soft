@@ -1,0 +1,43 @@
+!
+! SilkCircuit Soft
+!
+*.foreground:  #f8f8f2
+*.background:  #1a1626
+*.cursorColor: #99ffee
+!
+! Black
+*.color0:      #141220
+*.color8:      #6272a4
+!
+! Red
+*.color1:      #ff6677
+*.color9:      #ff7788
+!
+! Green
+*.color2:      #66ff99
+*.color10:     #80ffb3
+!
+! Yellow
+*.color3:      #ffe699
+*.color11:     #ffffa5
+!
+! Blue
+*.color4:      #92aaff
+*.color12:     #a2bbff
+!
+! Magenta
+*.color5:      #ff99ff
+*.color13:     #ffb3ff
+!
+! Cyan
+*.color6:      #99ffee
+*.color14:     #b3ffea
+!
+! White
+*.color7:      #f8f8f2
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f8f8f2
+!*.colorIT:
+!*.colorUL:
