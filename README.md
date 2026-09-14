@@ -1026,6 +1026,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/irix-terminal.png)
 
+### Isocon Dark
+
+![Screenshot](/screenshots/isocon-dark.png)
+
 ### iTerm2 Dark Background
 
 ![Screenshot](/screenshots/iterm2-dark-background.png)
@@ -2295,6 +2299,10 @@ The screenshots are categorized.
 ### Iceberg Light
 
 ![Screenshot](/screenshots/iceberg-light.png)
+
+### Isocon Light
+
+![Screenshot](/screenshots/isocon-light.png)
 
 ### iTerm2 Light Background
 

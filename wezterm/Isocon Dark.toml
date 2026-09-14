@@ -1,0 +1,12 @@
+# Isocon Dark
+[colors]
+foreground = "#868686"
+background = "#062329"
+cursor_bg = "#868686"
+cursor_border = "#868686"
+cursor_fg = "#062329"
+selection_bg = "#868686"
+selection_fg = "#062329"
+
+ansi = ["#062329","#e34b87","#419658","#ba783e","#408cbd","#976fe3","#3e8c7e","#868686"]
+brights = ["#565656","#f81486","#109b48","#c7700e","#0f8dcd","#9c61fc","#0f907f","#868686"]

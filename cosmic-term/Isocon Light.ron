@@ -1,0 +1,40 @@
+(
+    name: "Isocon Light",
+    foreground: "#6e6e6e",
+    cursor: "#6e6e6e",
+    bright_foreground: "#6e6e6e",
+    dim_foreground: "#eef3ea",
+
+    normal: (
+        black: "#eef3ea",
+        red: "#c33f3d",
+        green: "#347b47",
+        yellow: "#856b31",
+        blue: "#2f6bcf",
+        magenta: "#9242d6",
+        cyan: "#306f72",
+        white: "#6e6e6e"
+    ),
+
+    bright: (
+        black: "#8c8c8c",
+        red: "#d0272f",
+        green: "#1f7d3f",
+        yellow: "#896a1c",
+        blue: "#1a67e1",
+        magenta: "#982ae9",
+        cyan: "#1c7175",
+        white: "#6e6e6e"
+    ),
+
+    dim: (
+        black: "#eef3ea",
+        red: "#c33f3d",
+        green: "#347b47",
+        yellow: "#856b31",
+        blue: "#2f6bcf",
+        magenta: "#9242d6",
+        cyan: "#306f72",
+        white: "#6e6e6e"
+    ),
+)

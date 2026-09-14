@@ -1,0 +1,12 @@
+# Isocon Light
+[colors]
+foreground = "#6e6e6e"
+background = "#eef3ea"
+cursor_bg = "#6e6e6e"
+cursor_border = "#6e6e6e"
+cursor_fg = "#eef3ea"
+selection_bg = "#6e6e6e"
+selection_fg = "#eef3ea"
+
+ansi = ["#eef3ea","#c33f3d","#347b47","#856b31","#2f6bcf","#9242d6","#306f72","#6e6e6e"]
+brights = ["#8c8c8c","#d0272f","#1f7d3f","#896a1c","#1a67e1","#982ae9","#1c7175","#6e6e6e"]

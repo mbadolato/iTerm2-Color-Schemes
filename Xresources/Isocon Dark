@@ -1,0 +1,43 @@
+!
+! Isocon Dark
+!
+*.foreground:  #868686
+*.background:  #062329
+*.cursorColor: #868686
+!
+! Black
+*.color0:      #062329
+*.color8:      #565656
+!
+! Red
+*.color1:      #e34b87
+*.color9:      #f81486
+!
+! Green
+*.color2:      #419658
+*.color10:     #109b48
+!
+! Yellow
+*.color3:      #ba783e
+*.color11:     #c7700e
+!
+! Blue
+*.color4:      #408cbd
+*.color12:     #0f8dcd
+!
+! Magenta
+*.color5:      #976fe3
+*.color13:     #9c61fc
+!
+! Cyan
+*.color6:      #3e8c7e
+*.color14:     #0f907f
+!
+! White
+*.color7:      #868686
+*.color15:     #868686
+!
+! Bold, Italic, Underline
+*.colorBD:     #868686
+!*.colorIT:
+!*.colorUL:
