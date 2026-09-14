@@ -1,0 +1,12 @@
+# SilkCircuit Neon
+[colors]
+foreground = "#f8f8f2"
+background = "#12101a"
+cursor_bg = "#80ffea"
+cursor_border = "#80ffea"
+cursor_fg = "#12101a"
+selection_bg = "#44475a"
+selection_fg = "#f8f8f2"
+
+ansi = ["#12101a","#ff6363","#50fa7b","#f1fa8c","#82aaff","#ff00ff","#80ffea","#f8f8f2"]
+brights = ["#768d8d","#ff8787","#86fba8","#ffffa5","#82b1ff","#ff69ff","#5fffff","#ffffff"]

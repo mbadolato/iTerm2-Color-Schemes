@@ -1,0 +1,12 @@
+# SilkCircuit Glow
+[colors]
+foreground = "#ffffff"
+background = "#0a0816"
+cursor_bg = "#00ffff"
+cursor_border = "#00ffff"
+cursor_fg = "#0a0816"
+selection_bg = "#4b0654"
+selection_fg = "#ffffff"
+
+ansi = ["#000000","#ff2244","#00ff00","#ffff00","#0099ff","#ff00ff","#00ffff","#ffffff"]
+brights = ["#818181","#ff6666","#66ff66","#ffff66","#66ccff","#ff66ff","#66ffff","#ffffff"]

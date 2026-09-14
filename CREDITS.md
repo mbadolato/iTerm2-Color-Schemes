@@ -448,6 +448,8 @@ The Shades Of Purple theme was found [here](https://github.com/ahmadawais/shades
 
 The Shokunin theme was created by [Maksim Burtsev](https://github.com/Maksim-Burtsev) and is based on the terminal palette from the [Shokunin VS Code theme](https://github.com/Maksim-Burtsev/shokunin-theme)
 
+The SilkCircuit themes (SilkCircuit Neon, SilkCircuit Vibrant, SilkCircuit Soft, SilkCircuit Glow, and SilkCircuit Dawn) were created by [Stefanie Jane](https://github.com/hyperb1iss) as the terminal side of the [SilkCircuit](https://github.com/hyperb1iss/silkcircuit) design system, a single palette shared across Neovim, VS Code, Chrome, and terminals.
+
 The Slate theme was created by [deneshshan](https://github.com/deneshshan)
 
 The Smyck theme was found [here](https://github.com/hukl/Smyck-Color-Scheme)

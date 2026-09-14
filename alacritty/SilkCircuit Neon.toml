@@ -1,0 +1,33 @@
+# Colors (SilkCircuit Neon)
+
+[colors.bright]
+black = '#768d8d'
+blue = '#82b1ff'
+cyan = '#5fffff'
+green = '#86fba8'
+magenta = '#ff69ff'
+red = '#ff8787'
+white = '#ffffff'
+yellow = '#ffffa5'
+
+[colors.cursor]
+cursor = '#80ffea'
+text = '#12101a'
+
+[colors.normal]
+black = '#12101a'
+blue = '#82aaff'
+cyan = '#80ffea'
+green = '#50fa7b'
+magenta = '#ff00ff'
+red = '#ff6363'
+white = '#f8f8f2'
+yellow = '#f1fa8c'
+
+[colors.primary]
+background = '#12101a'
+foreground = '#f8f8f2'
+
+[colors.selection]
+background = '#44475a'
+text = '#f8f8f2'

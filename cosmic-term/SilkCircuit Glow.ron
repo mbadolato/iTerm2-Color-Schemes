@@ -1,0 +1,40 @@
+(
+    name: "SilkCircuit Glow",
+    foreground: "#ffffff",
+    cursor: "#00ffff",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#ff2244",
+        green: "#00ff00",
+        yellow: "#ffff00",
+        blue: "#0099ff",
+        magenta: "#ff00ff",
+        cyan: "#00ffff",
+        white: "#ffffff"
+    ),
+
+    bright: (
+        black: "#818181",
+        red: "#ff6666",
+        green: "#66ff66",
+        yellow: "#ffff66",
+        blue: "#66ccff",
+        magenta: "#ff66ff",
+        cyan: "#66ffff",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#ff2244",
+        green: "#00ff00",
+        yellow: "#ffff00",
+        blue: "#0099ff",
+        magenta: "#ff00ff",
+        cyan: "#00ffff",
+        white: "#ffffff"
+    ),
+)

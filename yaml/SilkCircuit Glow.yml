@@ -1,0 +1,33 @@
+---
+name: 'SilkCircuit Glow'
+author: 'Stefanie Jane (https://github.com/hyperb1iss/silkcircuit)'
+author_name: 'Stefanie Jane'
+author_url: 'https://github.com/hyperb1iss/silkcircuit'
+variant: 'dark'            # dark or light
+
+color_01: '#000000'    # Black (Host)
+color_02: '#FF2244'    # Red (Syntax string)
+color_03: '#00FF00'    # Green (Command)
+color_04: '#FFFF00'    # Yellow (Command second)
+color_05: '#0099FF'    # Blue (Path)
+color_06: '#FF00FF'    # Magenta (Syntax var)
+color_07: '#00FFFF'    # Cyan (Prompt)
+color_08: '#FFFFFF'    # White
+
+color_09: '#818181'    # Bright Black
+color_10: '#FF6666'    # Bright Red (Command error)
+color_11: '#66FF66'    # Bright Green (Exec)
+color_12: '#FFFF66'    # Bright Yellow
+color_13: '#66CCFF'    # Bright Blue (Folder)
+color_14: '#FF66FF'    # Bright Magenta
+color_15: '#66FFFF'    # Bright Cyan
+color_16: '#FFFFFF'    # Bright White
+
+background: '#0A0816'  # Background
+foreground: '#FFFFFF'  # Foreground (Text)
+
+cursor: '#00FFFF'      # Cursor
+
+cursor_text: '#0A0816'
+selection: '#4B0654'
+selection_text: '#FFFFFF'
