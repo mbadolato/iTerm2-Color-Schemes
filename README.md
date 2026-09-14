@@ -482,6 +482,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/catppuccin-mocha.png)
 
+### Catthode
+
+![Screenshot](/screenshots/catthode.png)
+
 ### CGA
 
 ![Screenshot](/screenshots/cga.png)
