@@ -1,0 +1,43 @@
+!
+! Earl Grey
+!
+*.foreground:  #605a52
+*.background:  #fcfbf9
+*.cursorColor: #605a52
+!
+! Black
+*.color0:      #605a52
+*.color8:      #a8a094
+!
+! Red
+*.color1:      #8f5652
+*.color9:      #82403c
+!
+! Green
+*.color2:      #747b4d
+*.color10:     #656d37
+!
+! Yellow
+*.color3:      #897d43
+*.color11:     #796d2f
+!
+! Blue
+*.color4:      #556995
+*.color12:     #3e5588
+!
+! Magenta
+*.color5:      #83577d
+*.color13:     #77406f
+!
+! Cyan
+*.color6:      #477a7b
+*.color14:     #326b6c
+!
+! White
+*.color7:      #c2beb8
+*.color15:     #c2beb8
+!
+! Bold, Italic, Underline
+*.colorBD:     #605a52
+!*.colorIT:
+!*.colorUL:

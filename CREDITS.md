@@ -143,6 +143,8 @@ The DuoTone Dark theme was created by [chibicode](http://chibicode.com) based on
 
 The Dracula theme was created by [zenorocha](https://github.com/zenorocha/dracula-theme)
 
+The Earl Grey theme is based on the [Earl Grey](https://earl-grey.halt.wtf/) color scheme by the [earl-grey-theme](https://github.com/earl-grey-theme/earl-grey) project. That project publishes only a background/foreground/accent palette (no terminal ANSI set), so the 16-color ANSI palette was derived from its published colors for this port.
+
 The Electron Highlighter theme was created by [mikemcbride](https://github.com/mikemcbride)
 
 The Electron Highlighter Day theme was created by [mikemcbride](https://github.com/mikemcbride)

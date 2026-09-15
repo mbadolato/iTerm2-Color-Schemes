@@ -1,0 +1,40 @@
+(
+    name: "Earl Grey",
+    foreground: "#605a52",
+    cursor: "#605a52",
+    bright_foreground: "#605a52",
+    dim_foreground: "#605a52",
+
+    normal: (
+        black: "#605a52",
+        red: "#8f5652",
+        green: "#747b4d",
+        yellow: "#897d43",
+        blue: "#556995",
+        magenta: "#83577d",
+        cyan: "#477a7b",
+        white: "#c2beb8"
+    ),
+
+    bright: (
+        black: "#a8a094",
+        red: "#82403c",
+        green: "#656d37",
+        yellow: "#796d2f",
+        blue: "#3e5588",
+        magenta: "#77406f",
+        cyan: "#326b6c",
+        white: "#c2beb8"
+    ),
+
+    dim: (
+        black: "#605a52",
+        red: "#8f5652",
+        green: "#747b4d",
+        yellow: "#897d43",
+        blue: "#556995",
+        magenta: "#83577d",
+        cyan: "#477a7b",
+        white: "#c2beb8"
+    ),
+)
