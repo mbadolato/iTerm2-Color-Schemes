@@ -2034,6 +2034,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/dayfox.png)
 
+### Earl Grey
+
+![Screenshot](/screenshots/earl-grey.png)
+
 ### Electron Highlighter Day
 
 ![Screenshot](/screenshots/electron-highlighter-day.png)
