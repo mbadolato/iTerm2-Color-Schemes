@@ -1,0 +1,33 @@
+# Colors (Earl Grey)
+
+[colors.bright]
+black = '#a8a094'
+blue = '#3e5588'
+cyan = '#326b6c'
+green = '#656d37'
+magenta = '#77406f'
+red = '#82403c'
+white = '#c2beb8'
+yellow = '#796d2f'
+
+[colors.cursor]
+cursor = '#605a52'
+text = '#fcfbf9'
+
+[colors.normal]
+black = '#605a52'
+blue = '#556995'
+cyan = '#477a7b'
+green = '#747b4d'
+magenta = '#83577d'
+red = '#8f5652'
+white = '#c2beb8'
+yellow = '#897d43'
+
+[colors.primary]
+background = '#fcfbf9'
+foreground = '#605a52'
+
+[colors.selection]
+background = '#e1ddd6'
+text = '#605a52'
