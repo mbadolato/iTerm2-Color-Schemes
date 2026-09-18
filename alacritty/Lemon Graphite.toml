@@ -1,0 +1,33 @@
+# Colors (Lemon Graphite)
+
+[colors.bright]
+black = '#59636e'
+blue = '#8ad8ff'
+cyan = '#86e6de'
+green = '#a7e8b5'
+magenta = '#dab1f4'
+red = '#ff8a80'
+white = '#f7fafc'
+yellow = '#ffd978'
+
+[colors.cursor]
+cursor = '#f2c14e'
+text = '#0b0f14'
+
+[colors.normal]
+black = '#0b0f14'
+blue = '#5cc8ff'
+cyan = '#57d3c8'
+green = '#7bd88f'
+magenta = '#c792ea'
+red = '#ff6b6b'
+white = '#dce3ea'
+yellow = '#f2c14e'
+
+[colors.primary]
+background = '#0b0f14'
+foreground = '#dce3ea'
+
+[colors.selection]
+background = '#dce3ea'
+text = '#0b0f14'

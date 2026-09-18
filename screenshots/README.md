@@ -968,6 +968,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/lavandula.png)
 
+### Lemon Graphite
+
+![Screenshot](/screenshots/lemon-graphite.png)
+
 ### Liquid Carbon Transparent
 
 ![Screenshot](/screenshots/liquid-carbon-transparent.png)

@@ -1,0 +1,40 @@
+(
+    name: "Lemon Graphite",
+    foreground: "#dce3ea",
+    cursor: "#f2c14e",
+    bright_foreground: "#dce3ea",
+    dim_foreground: "#0b0f14",
+
+    normal: (
+        black: "#0b0f14",
+        red: "#ff6b6b",
+        green: "#7bd88f",
+        yellow: "#f2c14e",
+        blue: "#5cc8ff",
+        magenta: "#c792ea",
+        cyan: "#57d3c8",
+        white: "#dce3ea"
+    ),
+
+    bright: (
+        black: "#59636e",
+        red: "#ff8a80",
+        green: "#a7e8b5",
+        yellow: "#ffd978",
+        blue: "#8ad8ff",
+        magenta: "#dab1f4",
+        cyan: "#86e6de",
+        white: "#f7fafc"
+    ),
+
+    dim: (
+        black: "#0b0f14",
+        red: "#ff6b6b",
+        green: "#7bd88f",
+        yellow: "#f2c14e",
+        blue: "#5cc8ff",
+        magenta: "#c792ea",
+        cyan: "#57d3c8",
+        white: "#dce3ea"
+    ),
+)

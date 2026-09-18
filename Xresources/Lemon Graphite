@@ -1,0 +1,43 @@
+!
+! Lemon Graphite
+!
+*.foreground:  #dce3ea
+*.background:  #0b0f14
+*.cursorColor: #f2c14e
+!
+! Black
+*.color0:      #0b0f14
+*.color8:      #59636e
+!
+! Red
+*.color1:      #ff6b6b
+*.color9:      #ff8a80
+!
+! Green
+*.color2:      #7bd88f
+*.color10:     #a7e8b5
+!
+! Yellow
+*.color3:      #f2c14e
+*.color11:     #ffd978
+!
+! Blue
+*.color4:      #5cc8ff
+*.color12:     #8ad8ff
+!
+! Magenta
+*.color5:      #c792ea
+*.color13:     #dab1f4
+!
+! Cyan
+*.color6:      #57d3c8
+*.color14:     #86e6de
+!
+! White
+*.color7:      #dce3ea
+*.color15:     #f7fafc
+!
+! Bold, Italic, Underline
+*.colorBD:     #dce3ea
+!*.colorIT:
+!*.colorUL:

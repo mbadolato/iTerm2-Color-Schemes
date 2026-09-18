@@ -1,0 +1,12 @@
+# Lemon Graphite
+[colors]
+foreground = "#dce3ea"
+background = "#0b0f14"
+cursor_bg = "#f2c14e"
+cursor_border = "#f2c14e"
+cursor_fg = "#0b0f14"
+selection_bg = "#dce3ea"
+selection_fg = "#0b0f14"
+
+ansi = ["#0b0f14","#ff6b6b","#7bd88f","#f2c14e","#5cc8ff","#c792ea","#57d3c8","#dce3ea"]
+brights = ["#59636e","#ff8a80","#a7e8b5","#ffd978","#8ad8ff","#dab1f4","#86e6de","#f7fafc"]
