@@ -294,6 +294,8 @@ The Lab Fox theme was created by [theatlasroom](https://github.com/theatlasroom)
 
 The Later This Evening theme was created by [vilhalmer](https://github.com/vilhalmer/System/tree/master/terminal-themes)
 
+The Lemon Graphite theme was created by [ZioFester90](https://github.com/ZioFester90) with AI assistance.
+
 The LightOwl theme was created by [zasdaym](https://github.com/zasdaym)
 
 The LiquidCarbon themes were created by [markcho](https://github.com/markcho/iTerm2_LiquidCarbon)
