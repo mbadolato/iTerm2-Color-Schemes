@@ -1,0 +1,43 @@
+!
+! Hyper
+!
+*.foreground:  #ffffff
+*.background:  #000000
+*.cursorColor: #f81ce5
+!
+! Black
+*.color0:      #000000
+*.color8:      #686868
+!
+! Red
+*.color1:      #c51e14
+*.color9:      #fd6f6b
+!
+! Green
+*.color2:      #1dc121
+*.color10:     #67f86f
+!
+! Yellow
+*.color3:      #c7c329
+*.color11:     #fffa72
+!
+! Blue
+*.color4:      #0a2fc4
+*.color12:     #6a76fb
+!
+! Magenta
+*.color5:      #c839c5
+*.color13:     #fd7cfc
+!
+! Cyan
+*.color6:      #20c5c6
+*.color14:     #68fdfe
+!
+! White
+*.color7:      #c7c7c7
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

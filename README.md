@@ -990,6 +990,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/hybrid.png)
 
+### Hyper
+
+![Screenshot](/screenshots/hyper.png)
+
 ### IBM 5153 CGA (Black)
 
 ![Screenshot](/screenshots/ibm-5153-cga-black.png)

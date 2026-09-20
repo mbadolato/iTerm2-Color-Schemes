@@ -1,0 +1,12 @@
+# Hyper
+[colors]
+foreground = "#ffffff"
+background = "#000000"
+cursor_bg = "#f81ce5"
+cursor_border = "#f81ce5"
+cursor_fg = "#000000"
+selection_bg = "#4a0845"
+selection_fg = "#ffffff"
+
+ansi = ["#000000","#c51e14","#1dc121","#c7c329","#0a2fc4","#c839c5","#20c5c6","#c7c7c7"]
+brights = ["#686868","#fd6f6b","#67f86f","#fffa72","#6a76fb","#fd7cfc","#68fdfe","#ffffff"]

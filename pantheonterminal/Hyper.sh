@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Hyper'
+cursor-color='#f81ce5'
+foreground='#ffffff'
+background='rgba(0,0,0,.95)'
+palette='#000000:#c51e14:#1dc121:#c7c329:#0a2fc4:#c839c5:#20c5c6:#c7c7c7:#686868:#fd6f6b:#67f86f:#fffa72:#6a76fb:#fd7cfc:#68fdfe:#ffffff'
+COLORS
