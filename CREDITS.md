@@ -589,3 +589,5 @@ The Noctis theme family (Noctis, Noctis Azureus, Noctis Bordo, Noctis Hibernus, 
 The datum (dark) and datum (light) themes were created by [w0zro](https://github.com/w0zro) as [datum](https://github.com/w0zro/datum), a colorscheme derived in OKLCH from the colorblind-safe Okabe-Ito hues and verified against WCAG 2.2 and APCA contrast.
 
 The Nachtschicht theme was created by [notgabriels-sys](https://github.com/notgabriels-sys) as part of [50 dark themes for Claude Code](https://github.com/notgabriels-sys/claude-code-50-dark-themes), a set of terminal themes each built around a single accent, with WCAG contrast floors enforced at build time.
+
+The X theme family (X, X Madrid, X Lahabana, X Miami, X Paris, X Tokio, X Oslo, X Helsinki, X Berlin, X London, X Praha, and X Bogota) was created by [Xscriptor](https://github.com/xscriptor). Palette source: [xscriptor-colors/assets](https://github.com/xscriptor-colors/assets).
