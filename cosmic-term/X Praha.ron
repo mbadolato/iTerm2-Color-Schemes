@@ -1,0 +1,40 @@
+(
+    name: "X Praha",
+    foreground: "#ffffff",
+    cursor: "#ffffff",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#1a1a1a",
+
+    normal: (
+        black: "#1a1a1a",
+        red: "#ff5555",
+        green: "#b8e6a0",
+        yellow: "#ffe4a3",
+        blue: "#bd93f9",
+        magenta: "#ff9aa2",
+        cyan: "#8be9fd",
+        white: "#ffffff"
+    ),
+
+    bright: (
+        black: "#6272a4",
+        red: "#ff6e6e",
+        green: "#b8e6a0",
+        yellow: "#ffe4a3",
+        blue: "#d6acff",
+        magenta: "#ff9aa2",
+        cyan: "#a4ffff",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#1a1a1a",
+        red: "#ff5555",
+        green: "#b8e6a0",
+        yellow: "#ffe4a3",
+        blue: "#bd93f9",
+        magenta: "#ff9aa2",
+        cyan: "#8be9fd",
+        white: "#ffffff"
+    ),
+)

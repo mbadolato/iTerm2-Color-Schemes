@@ -1,0 +1,40 @@
+(
+    name: "X London",
+    foreground: "#333333",
+    cursor: "#333333",
+    bright_foreground: "#333333",
+    dim_foreground: "#ffffff",
+
+    normal: (
+        black: "#ffffff",
+        red: "#333333",
+        green: "#444444",
+        yellow: "#555555",
+        blue: "#666666",
+        magenta: "#777777",
+        cyan: "#888888",
+        white: "#333333"
+    ),
+
+    bright: (
+        black: "#333333",
+        red: "#444444",
+        green: "#555555",
+        yellow: "#666666",
+        blue: "#777777",
+        magenta: "#888888",
+        cyan: "#999999",
+        white: "#aaaaaa"
+    ),
+
+    dim: (
+        black: "#ffffff",
+        red: "#333333",
+        green: "#444444",
+        yellow: "#555555",
+        blue: "#666666",
+        magenta: "#777777",
+        cyan: "#888888",
+        white: "#333333"
+    ),
+)

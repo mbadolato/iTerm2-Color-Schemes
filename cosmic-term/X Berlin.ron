@@ -1,0 +1,40 @@
+(
+    name: "X Berlin",
+    foreground: "#cccccc",
+    cursor: "#cccccc",
+    bright_foreground: "#cccccc",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#999999",
+        green: "#bbbbbb",
+        yellow: "#dddddd",
+        blue: "#888888",
+        magenta: "#aaaaaa",
+        cyan: "#cccccc",
+        white: "#ffffff"
+    ),
+
+    bright: (
+        black: "#404040",
+        red: "#bbbbbb",
+        green: "#dddddd",
+        yellow: "#ffffff",
+        blue: "#aaaaaa",
+        magenta: "#cccccc",
+        cyan: "#eeeeee",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#999999",
+        green: "#bbbbbb",
+        yellow: "#dddddd",
+        blue: "#888888",
+        magenta: "#aaaaaa",
+        cyan: "#cccccc",
+        white: "#ffffff"
+    ),
+)

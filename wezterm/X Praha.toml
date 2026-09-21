@@ -1,0 +1,12 @@
+# X Praha
+[colors]
+foreground = "#ffffff"
+background = "#1a1a1a"
+cursor_bg = "#ffffff"
+cursor_border = "#ffffff"
+cursor_fg = "#1a1a1a"
+selection_bg = "#ffffff"
+selection_fg = "#1a1a1a"
+
+ansi = ["#1a1a1a","#ff5555","#b8e6a0","#ffe4a3","#bd93f9","#ff9aa2","#8be9fd","#ffffff"]
+brights = ["#6272a4","#ff6e6e","#b8e6a0","#ffe4a3","#d6acff","#ff9aa2","#a4ffff","#ffffff"]

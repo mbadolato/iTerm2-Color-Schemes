@@ -1,0 +1,43 @@
+!
+! X Oslo
+!
+*.foreground:  #abb2bf
+*.background:  #3f4451
+*.cursorColor: #abb2bf
+!
+! Black
+*.color0:      #3f4451
+*.color8:      #687080
+!
+! Red
+*.color1:      #e05561
+*.color9:      #ff616e
+!
+! Green
+*.color2:      #8cc265
+*.color10:     #a5e075
+!
+! Yellow
+*.color3:      #d18f52
+*.color11:     #f0a45d
+!
+! Blue
+*.color4:      #4aa5f0
+*.color12:     #4dc4ff
+!
+! Magenta
+*.color5:      #c162de
+*.color13:     #de73ff
+!
+! Cyan
+*.color6:      #42b3c2
+*.color14:     #4cd1e0
+!
+! White
+*.color7:      #e6e6e6
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #abb2bf
+!*.colorIT:
+!*.colorUL:

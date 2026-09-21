@@ -1,0 +1,40 @@
+(
+    name: "X Miami",
+    foreground: "#f7f1ff",
+    cursor: "#f7f1ff",
+    bright_foreground: "#f7f1ff",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#ff4c8b",
+        green: "#7fffd4",
+        yellow: "#ffd84c",
+        blue: "#00ffa8",
+        magenta: "#d36cff",
+        cyan: "#47cfff",
+        white: "#f7f1ff"
+    ),
+
+    bright: (
+        black: "#69676c",
+        red: "#ff4c8b",
+        green: "#7fffd4",
+        yellow: "#ffd84c",
+        blue: "#00ffa8",
+        magenta: "#d36cff",
+        cyan: "#47cfff",
+        white: "#f7f1ff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#ff4c8b",
+        green: "#7fffd4",
+        yellow: "#ffd84c",
+        blue: "#00ffa8",
+        magenta: "#d36cff",
+        cyan: "#47cfff",
+        white: "#f7f1ff"
+    ),
+)

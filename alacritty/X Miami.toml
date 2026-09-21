@@ -1,0 +1,33 @@
+# Colors (X Miami)
+
+[colors.bright]
+black = '#69676c'
+blue = '#00ffa8'
+cyan = '#47cfff'
+green = '#7fffd4'
+magenta = '#d36cff'
+red = '#ff4c8b'
+white = '#f7f1ff'
+yellow = '#ffd84c'
+
+[colors.cursor]
+cursor = '#f7f1ff'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#00ffa8'
+cyan = '#47cfff'
+green = '#7fffd4'
+magenta = '#d36cff'
+red = '#ff4c8b'
+white = '#f7f1ff'
+yellow = '#ffd84c'
+
+[colors.primary]
+background = '#000000'
+foreground = '#f7f1ff'
+
+[colors.selection]
+background = '#f7f1ff'
+text = '#000000'

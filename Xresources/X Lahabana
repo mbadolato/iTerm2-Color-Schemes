@@ -1,0 +1,43 @@
+!
+! X Lahabana
+!
+*.foreground:  #f7f1ff
+*.background:  #19191a
+*.cursorColor: #f7f1ff
+!
+! Black
+*.color0:      #19191a
+*.color8:      #4c4c4d
+!
+! Red
+*.color1:      #fc618d
+*.color9:      #fc618d
+!
+! Green
+*.color2:      #7bd88f
+*.color10:     #7bd88f
+!
+! Yellow
+*.color3:      #e5ff9d
+*.color11:     #e5ff9d
+!
+! Blue
+*.color4:      #fd9353
+*.color12:     #fd9353
+!
+! Magenta
+*.color5:      #948ae3
+*.color13:     #948ae3
+!
+! Cyan
+*.color6:      #5ad4e6
+*.color14:     #5ad4e6
+!
+! White
+*.color7:      #f7f1ff
+*.color15:     #f7f1ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f7f1ff
+!*.colorIT:
+!*.colorUL:

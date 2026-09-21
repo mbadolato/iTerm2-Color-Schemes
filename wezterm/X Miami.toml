@@ -1,0 +1,12 @@
+# X Miami
+[colors]
+foreground = "#f7f1ff"
+background = "#000000"
+cursor_bg = "#f7f1ff"
+cursor_border = "#f7f1ff"
+cursor_fg = "#000000"
+selection_bg = "#f7f1ff"
+selection_fg = "#000000"
+
+ansi = ["#000000","#ff4c8b","#7fffd4","#ffd84c","#00ffa8","#d36cff","#47cfff","#f7f1ff"]
+brights = ["#69676c","#ff4c8b","#7fffd4","#ffd84c","#00ffa8","#d36cff","#47cfff","#f7f1ff"]

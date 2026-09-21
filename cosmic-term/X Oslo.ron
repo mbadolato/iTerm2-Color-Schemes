@@ -1,0 +1,40 @@
+(
+    name: "X Oslo",
+    foreground: "#abb2bf",
+    cursor: "#abb2bf",
+    bright_foreground: "#abb2bf",
+    dim_foreground: "#3f4451",
+
+    normal: (
+        black: "#3f4451",
+        red: "#e05561",
+        green: "#8cc265",
+        yellow: "#d18f52",
+        blue: "#4aa5f0",
+        magenta: "#c162de",
+        cyan: "#42b3c2",
+        white: "#e6e6e6"
+    ),
+
+    bright: (
+        black: "#687080",
+        red: "#ff616e",
+        green: "#a5e075",
+        yellow: "#f0a45d",
+        blue: "#4dc4ff",
+        magenta: "#de73ff",
+        cyan: "#4cd1e0",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#3f4451",
+        red: "#e05561",
+        green: "#8cc265",
+        yellow: "#d18f52",
+        blue: "#4aa5f0",
+        magenta: "#c162de",
+        cyan: "#42b3c2",
+        white: "#e6e6e6"
+    ),
+)

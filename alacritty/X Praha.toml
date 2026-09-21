@@ -1,0 +1,33 @@
+# Colors (X Praha)
+
+[colors.bright]
+black = '#6272a4'
+blue = '#d6acff'
+cyan = '#a4ffff'
+green = '#b8e6a0'
+magenta = '#ff9aa2'
+red = '#ff6e6e'
+white = '#ffffff'
+yellow = '#ffe4a3'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#1a1a1a'
+
+[colors.normal]
+black = '#1a1a1a'
+blue = '#bd93f9'
+cyan = '#8be9fd'
+green = '#b8e6a0'
+magenta = '#ff9aa2'
+red = '#ff5555'
+white = '#ffffff'
+yellow = '#ffe4a3'
+
+[colors.primary]
+background = '#1a1a1a'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#ffffff'
+text = '#1a1a1a'

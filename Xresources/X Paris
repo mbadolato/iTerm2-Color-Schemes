@@ -1,0 +1,43 @@
+!
+! X Paris
+!
+*.foreground:  #f7f1ff
+*.background:  #1a0a30
+*.cursorColor: #f7f1ff
+!
+! Black
+*.color0:      #1a0a30
+*.color8:      #c4bdff
+!
+! Red
+*.color1:      #fc618d
+*.color9:      #fc618d
+!
+! Green
+*.color2:      #7bd88f
+*.color10:     #7bd88f
+!
+! Yellow
+*.color3:      #fce566
+*.color11:     #fce566
+!
+! Blue
+*.color4:      #a3f3ff
+*.color12:     #a3f3ff
+!
+! Magenta
+*.color5:      #c4bdff
+*.color13:     #c4bdff
+!
+! Cyan
+*.color6:      #a3f3ff
+*.color14:     #a3f3ff
+!
+! White
+*.color7:      #4d3d63
+*.color15:     #f7f1ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f7f1ff
+!*.colorIT:
+!*.colorUL:

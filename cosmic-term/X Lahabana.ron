@@ -1,0 +1,40 @@
+(
+    name: "X Lahabana",
+    foreground: "#f7f1ff",
+    cursor: "#f7f1ff",
+    bright_foreground: "#f7f1ff",
+    dim_foreground: "#19191a",
+
+    normal: (
+        black: "#19191a",
+        red: "#fc618d",
+        green: "#7bd88f",
+        yellow: "#e5ff9d",
+        blue: "#fd9353",
+        magenta: "#948ae3",
+        cyan: "#5ad4e6",
+        white: "#f7f1ff"
+    ),
+
+    bright: (
+        black: "#4c4c4d",
+        red: "#fc618d",
+        green: "#7bd88f",
+        yellow: "#e5ff9d",
+        blue: "#fd9353",
+        magenta: "#948ae3",
+        cyan: "#5ad4e6",
+        white: "#f7f1ff"
+    ),
+
+    dim: (
+        black: "#19191a",
+        red: "#fc618d",
+        green: "#7bd88f",
+        yellow: "#e5ff9d",
+        blue: "#fd9353",
+        magenta: "#948ae3",
+        cyan: "#5ad4e6",
+        white: "#f7f1ff"
+    ),
+)

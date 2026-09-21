@@ -1912,6 +1912,42 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/wryan.png)
 
+### X Berlin
+
+![Screenshot](/screenshots/x-berlin.png)
+
+### X Bogota
+
+![Screenshot](/screenshots/x-bogota.png)
+
+### X Lahabana
+
+![Screenshot](/screenshots/x-lahabana.png)
+
+### X Miami
+
+![Screenshot](/screenshots/x-miami.png)
+
+### X Oslo
+
+![Screenshot](/screenshots/x-oslo.png)
+
+### X Paris
+
+![Screenshot](/screenshots/x-paris.png)
+
+### X Praha
+
+![Screenshot](/screenshots/x-praha.png)
+
+### X Tokio
+
+![Screenshot](/screenshots/x-tokio.png)
+
+### X
+
+![Screenshot](/screenshots/x.png)
+
 ### Xcode Dark hc
 
 ![Screenshot](/screenshots/xcode-dark-hc.png)
@@ -2453,6 +2489,18 @@ The screenshots are categorized.
 ### Warm Burnout Light
 
 ![Screenshot](/screenshots/warm-burnout-light.png)
+
+### X Helsinki
+
+![Screenshot](/screenshots/x-helsinki.png)
+
+### X London
+
+![Screenshot](/screenshots/x-london.png)
+
+### X Madrid
+
+![Screenshot](/screenshots/x-madrid.png)
 
 ### Xcode Light hc
 

@@ -1,0 +1,40 @@
+(
+    name: "X Tokio",
+    foreground: "#f7f1ff",
+    cursor: "#f7f1ff",
+    bright_foreground: "#f7f1ff",
+    dim_foreground: "#1c1c1d",
+
+    normal: (
+        black: "#1c1c1d",
+        red: "#fc618d",
+        green: "#7bd88f",
+        yellow: "#fce566",
+        blue: "#fd9353",
+        magenta: "#948ae3",
+        cyan: "#5ad4e6",
+        white: "#f7f1ff"
+    ),
+
+    bright: (
+        black: "#4f4f50",
+        red: "#fc618d",
+        green: "#7bd88f",
+        yellow: "#fce566",
+        blue: "#fd9353",
+        magenta: "#948ae3",
+        cyan: "#5ad4e6",
+        white: "#f7f1ff"
+    ),
+
+    dim: (
+        black: "#1c1c1d",
+        red: "#fc618d",
+        green: "#7bd88f",
+        yellow: "#fce566",
+        blue: "#fd9353",
+        magenta: "#948ae3",
+        cyan: "#5ad4e6",
+        white: "#f7f1ff"
+    ),
+)

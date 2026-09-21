@@ -1,0 +1,43 @@
+!
+! X Helsinki
+!
+*.foreground:  #544d40
+*.background:  #f8fafe
+*.cursorColor: #544d40
+!
+! Black
+*.color0:      #f8fafe
+*.color8:      #b0a999
+!
+! Red
+*.color1:      #1faa9e
+*.color9:      #009e91
+!
+! Green
+*.color2:      #733d9a
+*.color10:     #5a1f8a
+!
+! Yellow
+*.color3:      #2e70ad
+*.color11:     #0f5ba2
+!
+! Blue
+*.color4:      #b55a0f
+*.color12:     #b23b00
+!
+! Magenta
+*.color5:      #3e9d21
+*.color13:     #218c00
+!
+! Cyan
+*.color6:      #bd4c3d
+*.color14:     #b32e1f
+!
+! White
+*.color7:      #544d40
+*.color15:     #000000
+!
+! Bold, Italic, Underline
+*.colorBD:     #544d40
+!*.colorIT:
+!*.colorUL:

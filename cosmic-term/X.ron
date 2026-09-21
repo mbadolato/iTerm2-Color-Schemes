@@ -1,0 +1,40 @@
+(
+    name: "X",
+    foreground: "#f7f1ff",
+    cursor: "#f7f1ff",
+    bright_foreground: "#f7f1ff",
+    dim_foreground: "#0a0a0a",
+
+    normal: (
+        black: "#0a0a0a",
+        red: "#fc618d",
+        green: "#7bd88f",
+        yellow: "#fce566",
+        blue: "#fd9353",
+        magenta: "#948ae3",
+        cyan: "#5ad4e6",
+        white: "#f7f1ff"
+    ),
+
+    bright: (
+        black: "#424242",
+        red: "#fc618d",
+        green: "#7bd88f",
+        yellow: "#fce566",
+        blue: "#fd9353",
+        magenta: "#948ae3",
+        cyan: "#5ad4e6",
+        white: "#f7f1ff"
+    ),
+
+    dim: (
+        black: "#0a0a0a",
+        red: "#fc618d",
+        green: "#7bd88f",
+        yellow: "#fce566",
+        blue: "#fd9353",
+        magenta: "#948ae3",
+        cyan: "#5ad4e6",
+        white: "#f7f1ff"
+    ),
+)

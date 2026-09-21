@@ -1,0 +1,40 @@
+(
+    name: "X Madrid",
+    foreground: "#1a1a1a",
+    cursor: "#1a1a1a",
+    bright_foreground: "#1a1a1a",
+    dim_foreground: "#fafafa",
+
+    normal: (
+        black: "#fafafa",
+        red: "#990026",
+        green: "#007a28",
+        yellow: "#8a6408",
+        blue: "#007a9e",
+        magenta: "#4d2699",
+        cyan: "#007a9e",
+        white: "#1a1a1a"
+    ),
+
+    bright: (
+        black: "#4d4d4d",
+        red: "#990026",
+        green: "#007a28",
+        yellow: "#8a6408",
+        blue: "#007a9e",
+        magenta: "#4d2699",
+        cyan: "#007a9e",
+        white: "#1a1a1a"
+    ),
+
+    dim: (
+        black: "#fafafa",
+        red: "#990026",
+        green: "#007a28",
+        yellow: "#8a6408",
+        blue: "#007a9e",
+        magenta: "#4d2699",
+        cyan: "#007a9e",
+        white: "#1a1a1a"
+    ),
+)

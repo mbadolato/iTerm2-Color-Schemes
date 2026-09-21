@@ -1,0 +1,12 @@
+# X Lahabana
+[colors]
+foreground = "#f7f1ff"
+background = "#19191a"
+cursor_bg = "#f7f1ff"
+cursor_border = "#f7f1ff"
+cursor_fg = "#19191a"
+selection_bg = "#f7f1ff"
+selection_fg = "#19191a"
+
+ansi = ["#19191a","#fc618d","#7bd88f","#e5ff9d","#fd9353","#948ae3","#5ad4e6","#f7f1ff"]
+brights = ["#4c4c4d","#fc618d","#7bd88f","#e5ff9d","#fd9353","#948ae3","#5ad4e6","#f7f1ff"]

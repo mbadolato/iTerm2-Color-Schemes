@@ -1,0 +1,33 @@
+# Colors (X Berlin)
+
+[colors.bright]
+black = '#404040'
+blue = '#aaaaaa'
+cyan = '#eeeeee'
+green = '#dddddd'
+magenta = '#cccccc'
+red = '#bbbbbb'
+white = '#ffffff'
+yellow = '#ffffff'
+
+[colors.cursor]
+cursor = '#cccccc'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#888888'
+cyan = '#cccccc'
+green = '#bbbbbb'
+magenta = '#aaaaaa'
+red = '#999999'
+white = '#ffffff'
+yellow = '#dddddd'
+
+[colors.primary]
+background = '#000000'
+foreground = '#cccccc'
+
+[colors.selection]
+background = '#cccccc'
+text = '#000000'

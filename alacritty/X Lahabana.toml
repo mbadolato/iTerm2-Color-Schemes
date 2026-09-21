@@ -1,0 +1,33 @@
+# Colors (X Lahabana)
+
+[colors.bright]
+black = '#4c4c4d'
+blue = '#fd9353'
+cyan = '#5ad4e6'
+green = '#7bd88f'
+magenta = '#948ae3'
+red = '#fc618d'
+white = '#f7f1ff'
+yellow = '#e5ff9d'
+
+[colors.cursor]
+cursor = '#f7f1ff'
+text = '#19191a'
+
+[colors.normal]
+black = '#19191a'
+blue = '#fd9353'
+cyan = '#5ad4e6'
+green = '#7bd88f'
+magenta = '#948ae3'
+red = '#fc618d'
+white = '#f7f1ff'
+yellow = '#e5ff9d'
+
+[colors.primary]
+background = '#19191a'
+foreground = '#f7f1ff'
+
+[colors.selection]
+background = '#f7f1ff'
+text = '#19191a'

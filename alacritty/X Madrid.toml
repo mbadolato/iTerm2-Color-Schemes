@@ -1,0 +1,33 @@
+# Colors (X Madrid)
+
+[colors.bright]
+black = '#4d4d4d'
+blue = '#007a9e'
+cyan = '#007a9e'
+green = '#007a28'
+magenta = '#4d2699'
+red = '#990026'
+white = '#1a1a1a'
+yellow = '#8a6408'
+
+[colors.cursor]
+cursor = '#1a1a1a'
+text = '#fafafa'
+
+[colors.normal]
+black = '#fafafa'
+blue = '#007a9e'
+cyan = '#007a9e'
+green = '#007a28'
+magenta = '#4d2699'
+red = '#990026'
+white = '#1a1a1a'
+yellow = '#8a6408'
+
+[colors.primary]
+background = '#fafafa'
+foreground = '#1a1a1a'
+
+[colors.selection]
+background = '#1a1a1a'
+text = '#fafafa'

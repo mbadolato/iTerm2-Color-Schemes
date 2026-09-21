@@ -1,0 +1,12 @@
+# X Paris
+[colors]
+foreground = "#f7f1ff"
+background = "#1a0a30"
+cursor_bg = "#f7f1ff"
+cursor_border = "#f7f1ff"
+cursor_fg = "#1a0a30"
+selection_bg = "#f7f1ff"
+selection_fg = "#1a0a30"
+
+ansi = ["#1a0a30","#fc618d","#7bd88f","#fce566","#a3f3ff","#c4bdff","#a3f3ff","#4d3d63"]
+brights = ["#c4bdff","#fc618d","#7bd88f","#fce566","#a3f3ff","#c4bdff","#a3f3ff","#f7f1ff"]

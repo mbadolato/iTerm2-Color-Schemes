@@ -1,0 +1,33 @@
+# Colors (X Oslo)
+
+[colors.bright]
+black = '#687080'
+blue = '#4dc4ff'
+cyan = '#4cd1e0'
+green = '#a5e075'
+magenta = '#de73ff'
+red = '#ff616e'
+white = '#ffffff'
+yellow = '#f0a45d'
+
+[colors.cursor]
+cursor = '#abb2bf'
+text = '#3f4451'
+
+[colors.normal]
+black = '#3f4451'
+blue = '#4aa5f0'
+cyan = '#42b3c2'
+green = '#8cc265'
+magenta = '#c162de'
+red = '#e05561'
+white = '#e6e6e6'
+yellow = '#d18f52'
+
+[colors.primary]
+background = '#3f4451'
+foreground = '#abb2bf'
+
+[colors.selection]
+background = '#abb2bf'
+text = '#3f4451'

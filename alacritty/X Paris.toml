@@ -1,0 +1,33 @@
+# Colors (X Paris)
+
+[colors.bright]
+black = '#c4bdff'
+blue = '#a3f3ff'
+cyan = '#a3f3ff'
+green = '#7bd88f'
+magenta = '#c4bdff'
+red = '#fc618d'
+white = '#f7f1ff'
+yellow = '#fce566'
+
+[colors.cursor]
+cursor = '#f7f1ff'
+text = '#1a0a30'
+
+[colors.normal]
+black = '#1a0a30'
+blue = '#a3f3ff'
+cyan = '#a3f3ff'
+green = '#7bd88f'
+magenta = '#c4bdff'
+red = '#fc618d'
+white = '#4d3d63'
+yellow = '#fce566'
+
+[colors.primary]
+background = '#1a0a30'
+foreground = '#f7f1ff'
+
+[colors.selection]
+background = '#f7f1ff'
+text = '#1a0a30'

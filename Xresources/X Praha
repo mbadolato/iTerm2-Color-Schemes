@@ -1,0 +1,43 @@
+!
+! X Praha
+!
+*.foreground:  #ffffff
+*.background:  #1a1a1a
+*.cursorColor: #ffffff
+!
+! Black
+*.color0:      #1a1a1a
+*.color8:      #6272a4
+!
+! Red
+*.color1:      #ff5555
+*.color9:      #ff6e6e
+!
+! Green
+*.color2:      #b8e6a0
+*.color10:     #b8e6a0
+!
+! Yellow
+*.color3:      #ffe4a3
+*.color11:     #ffe4a3
+!
+! Blue
+*.color4:      #bd93f9
+*.color12:     #d6acff
+!
+! Magenta
+*.color5:      #ff9aa2
+*.color13:     #ff9aa2
+!
+! Cyan
+*.color6:      #8be9fd
+*.color14:     #a4ffff
+!
+! White
+*.color7:      #ffffff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

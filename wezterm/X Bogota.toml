@@ -1,0 +1,12 @@
+# X Bogota
+[colors]
+foreground = "#f7f1ff"
+background = "#200b0a"
+cursor_bg = "#f7f1ff"
+cursor_border = "#f7f1ff"
+cursor_fg = "#200b0a"
+selection_bg = "#f7f1ff"
+selection_fg = "#200b0a"
+
+ansi = ["#200b0a","#fc618d","#7bd88f","#ffed89","#47e6ff","#ff9999","#47e6ff","#f7f1ff"]
+brights = ["#525053","#fc618d","#7bd88f","#ffed89","#47e6ff","#ff9999","#47e6ff","#f7f1ff"]

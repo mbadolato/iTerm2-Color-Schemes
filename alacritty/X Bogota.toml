@@ -1,0 +1,33 @@
+# Colors (X Bogota)
+
+[colors.bright]
+black = '#525053'
+blue = '#47e6ff'
+cyan = '#47e6ff'
+green = '#7bd88f'
+magenta = '#ff9999'
+red = '#fc618d'
+white = '#f7f1ff'
+yellow = '#ffed89'
+
+[colors.cursor]
+cursor = '#f7f1ff'
+text = '#200b0a'
+
+[colors.normal]
+black = '#200b0a'
+blue = '#47e6ff'
+cyan = '#47e6ff'
+green = '#7bd88f'
+magenta = '#ff9999'
+red = '#fc618d'
+white = '#f7f1ff'
+yellow = '#ffed89'
+
+[colors.primary]
+background = '#200b0a'
+foreground = '#f7f1ff'
+
+[colors.selection]
+background = '#f7f1ff'
+text = '#200b0a'

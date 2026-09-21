@@ -1,0 +1,43 @@
+!
+! X Bogota
+!
+*.foreground:  #f7f1ff
+*.background:  #200b0a
+*.cursorColor: #f7f1ff
+!
+! Black
+*.color0:      #200b0a
+*.color8:      #525053
+!
+! Red
+*.color1:      #fc618d
+*.color9:      #fc618d
+!
+! Green
+*.color2:      #7bd88f
+*.color10:     #7bd88f
+!
+! Yellow
+*.color3:      #ffed89
+*.color11:     #ffed89
+!
+! Blue
+*.color4:      #47e6ff
+*.color12:     #47e6ff
+!
+! Magenta
+*.color5:      #ff9999
+*.color13:     #ff9999
+!
+! Cyan
+*.color6:      #47e6ff
+*.color14:     #47e6ff
+!
+! White
+*.color7:      #f7f1ff
+*.color15:     #f7f1ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f7f1ff
+!*.colorIT:
+!*.colorUL:

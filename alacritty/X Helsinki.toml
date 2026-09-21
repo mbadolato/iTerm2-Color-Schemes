@@ -1,0 +1,33 @@
+# Colors (X Helsinki)
+
+[colors.bright]
+black = '#b0a999'
+blue = '#b23b00'
+cyan = '#b32e1f'
+green = '#5a1f8a'
+magenta = '#218c00'
+red = '#009e91'
+white = '#000000'
+yellow = '#0f5ba2'
+
+[colors.cursor]
+cursor = '#544d40'
+text = '#f8fafe'
+
+[colors.normal]
+black = '#f8fafe'
+blue = '#b55a0f'
+cyan = '#bd4c3d'
+green = '#733d9a'
+magenta = '#3e9d21'
+red = '#1faa9e'
+white = '#544d40'
+yellow = '#2e70ad'
+
+[colors.primary]
+background = '#f8fafe'
+foreground = '#544d40'
+
+[colors.selection]
+background = '#544d40'
+text = '#f8fafe'

@@ -1,0 +1,43 @@
+!
+! X Berlin
+!
+*.foreground:  #cccccc
+*.background:  #000000
+*.cursorColor: #cccccc
+!
+! Black
+*.color0:      #000000
+*.color8:      #404040
+!
+! Red
+*.color1:      #999999
+*.color9:      #bbbbbb
+!
+! Green
+*.color2:      #bbbbbb
+*.color10:     #dddddd
+!
+! Yellow
+*.color3:      #dddddd
+*.color11:     #ffffff
+!
+! Blue
+*.color4:      #888888
+*.color12:     #aaaaaa
+!
+! Magenta
+*.color5:      #aaaaaa
+*.color13:     #cccccc
+!
+! Cyan
+*.color6:      #cccccc
+*.color14:     #eeeeee
+!
+! White
+*.color7:      #ffffff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #cccccc
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,12 @@
+# X Berlin
+[colors]
+foreground = "#cccccc"
+background = "#000000"
+cursor_bg = "#cccccc"
+cursor_border = "#cccccc"
+cursor_fg = "#000000"
+selection_bg = "#cccccc"
+selection_fg = "#000000"
+
+ansi = ["#000000","#999999","#bbbbbb","#dddddd","#888888","#aaaaaa","#cccccc","#ffffff"]
+brights = ["#404040","#bbbbbb","#dddddd","#ffffff","#aaaaaa","#cccccc","#eeeeee","#ffffff"]

@@ -1,0 +1,33 @@
+# Colors (X London)
+
+[colors.bright]
+black = '#333333'
+blue = '#777777'
+cyan = '#999999'
+green = '#555555'
+magenta = '#888888'
+red = '#444444'
+white = '#aaaaaa'
+yellow = '#666666'
+
+[colors.cursor]
+cursor = '#333333'
+text = '#ffffff'
+
+[colors.normal]
+black = '#ffffff'
+blue = '#666666'
+cyan = '#888888'
+green = '#444444'
+magenta = '#777777'
+red = '#333333'
+white = '#333333'
+yellow = '#555555'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#333333'
+
+[colors.selection]
+background = '#333333'
+text = '#ffffff'

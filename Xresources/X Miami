@@ -1,0 +1,43 @@
+!
+! X Miami
+!
+*.foreground:  #f7f1ff
+*.background:  #000000
+*.cursorColor: #f7f1ff
+!
+! Black
+*.color0:      #000000
+*.color8:      #69676c
+!
+! Red
+*.color1:      #ff4c8b
+*.color9:      #ff4c8b
+!
+! Green
+*.color2:      #7fffd4
+*.color10:     #7fffd4
+!
+! Yellow
+*.color3:      #ffd84c
+*.color11:     #ffd84c
+!
+! Blue
+*.color4:      #00ffa8
+*.color12:     #00ffa8
+!
+! Magenta
+*.color5:      #d36cff
+*.color13:     #d36cff
+!
+! Cyan
+*.color6:      #47cfff
+*.color14:     #47cfff
+!
+! White
+*.color7:      #f7f1ff
+*.color15:     #f7f1ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f7f1ff
+!*.colorIT:
+!*.colorUL:

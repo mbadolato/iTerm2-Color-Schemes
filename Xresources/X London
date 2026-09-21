@@ -1,0 +1,43 @@
+!
+! X London
+!
+*.foreground:  #333333
+*.background:  #ffffff
+*.cursorColor: #333333
+!
+! Black
+*.color0:      #ffffff
+*.color8:      #333333
+!
+! Red
+*.color1:      #333333
+*.color9:      #444444
+!
+! Green
+*.color2:      #444444
+*.color10:     #555555
+!
+! Yellow
+*.color3:      #555555
+*.color11:     #666666
+!
+! Blue
+*.color4:      #666666
+*.color12:     #777777
+!
+! Magenta
+*.color5:      #777777
+*.color13:     #888888
+!
+! Cyan
+*.color6:      #888888
+*.color14:     #999999
+!
+! White
+*.color7:      #333333
+*.color15:     #aaaaaa
+!
+! Bold, Italic, Underline
+*.colorBD:     #333333
+!*.colorIT:
+!*.colorUL:
