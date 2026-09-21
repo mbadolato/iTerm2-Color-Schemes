@@ -1,0 +1,33 @@
+# Colors (Hyper)
+
+[colors.bright]
+black = '#686868'
+blue = '#6a76fb'
+cyan = '#68fdfe'
+green = '#67f86f'
+magenta = '#fd7cfc'
+red = '#fd6f6b'
+white = '#ffffff'
+yellow = '#fffa72'
+
+[colors.cursor]
+cursor = '#f81ce5'
+text = '#000000'
+
+[colors.normal]
+black = '#000000'
+blue = '#0a2fc4'
+cyan = '#20c5c6'
+green = '#1dc121'
+magenta = '#c839c5'
+red = '#c51e14'
+white = '#c7c7c7'
+yellow = '#c7c329'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#4a0845'
+text = '#ffffff'

@@ -1,0 +1,40 @@
+(
+    name: "Hyper",
+    foreground: "#ffffff",
+    cursor: "#f81ce5",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#c51e14",
+        green: "#1dc121",
+        yellow: "#c7c329",
+        blue: "#0a2fc4",
+        magenta: "#c839c5",
+        cyan: "#20c5c6",
+        white: "#c7c7c7"
+    ),
+
+    bright: (
+        black: "#686868",
+        red: "#fd6f6b",
+        green: "#67f86f",
+        yellow: "#fffa72",
+        blue: "#6a76fb",
+        magenta: "#fd7cfc",
+        cyan: "#68fdfe",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#c51e14",
+        green: "#1dc121",
+        yellow: "#c7c329",
+        blue: "#0a2fc4",
+        magenta: "#c839c5",
+        cyan: "#20c5c6",
+        white: "#c7c7c7"
+    ),
+)
