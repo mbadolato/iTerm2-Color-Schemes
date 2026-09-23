@@ -1,12 +1,12 @@
 # Colors (Dark Modern)
 
 [colors.bright]
-black = '#5d5d5d'
+black = '#666666'
 blue = '#3b8eea'
 cyan = '#29b8db'
 green = '#23d18b'
 magenta = '#d670d6'
-red = '#dc5452'
+red = '#f14c4c'
 white = '#e5e5e5'
 yellow = '#f5f543'
 
@@ -15,14 +15,14 @@ cursor = '#ffffff'
 text = '#000000'
 
 [colors.normal]
-black = '#272727'
-blue = '#0078d4'
-cyan = '#1db4d6'
-green = '#2ea043'
-magenta = '#d01273'
-red = '#f74949'
-white = '#cccccc'
-yellow = '#9e6a03'
+black = '#000000'
+blue = '#2472c8'
+cyan = '#11a8cd'
+green = '#0dbc79'
+magenta = '#bc3fbc'
+red = '#cd3131'
+white = '#e5e5e5'
+yellow = '#e5e510'
 
 [colors.primary]
 background = '#1f1f1f'
