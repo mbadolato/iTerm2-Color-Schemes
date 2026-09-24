@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="84" viewBox="0 0 1080 84" role="img">
+  <title>Public beta. Our next-generation, interactive app is currently in beta! Come try it out at terminalthemes.com!</title>
+  <rect x="1" y="1" width="1078" height="82" rx="8" fill="#ddf4ff" stroke="#0969da" stroke-width="2"/>
+  <circle cx="28" cy="28" r="8" fill="none" stroke="#0969da" stroke-width="1.6"/>
+  <circle cx="28" cy="24.2" r="1.1" fill="#0969da"/>
+  <rect x="26.9" y="26.6" width="2.2" height="6.2" rx="1" fill="#0969da"/>
+  <text x="44" y="33" fill="#0969da" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="650">Note</text>
+  <text x="20" y="58" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16">
+    <tspan font-weight="700">Public beta.</tspan>
+    <tspan> Our next-generation, interactive app is currently in beta! Come try it out at </tspan>
+    <tspan fill="#0969da" text-decoration="underline">terminalthemes.com</tspan>
+    <tspan>!</tspan>
+  </text>
+</svg>

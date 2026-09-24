@@ -1,5 +1,4 @@
-> [!NOTE]
-> **Public beta.** Our next-generation, interactive app is currently in beta! Come try it out at [terminalthemes.com](https://terminalthemes.com)!
+[![Public beta. Our next-generation, interactive app is currently in beta! Come try it out at terminalthemes.com!](images/beta-banner.svg)](https://terminalthemes.com)
 
 # iTerm Color Schemes
 
