@@ -1,0 +1,12 @@
+# Light 2026
+[colors]
+foreground = "#3b3b3b"
+background = "#ffffff"
+cursor_bg = "#202020"
+cursor_border = "#202020"
+cursor_fg = "#ffffff"
+selection_bg = "#d9e9f7"
+selection_fg = "#3b3b3b"
+
+ansi = ["#000000","#cd3131","#107c10","#949800","#0451a5","#bc05bc","#0598bc","#555555"]
+brights = ["#666666","#f14c4c","#14ce14","#b5ba00","#3b8eea","#d670d6","#29b8db","#a5a5a5"]

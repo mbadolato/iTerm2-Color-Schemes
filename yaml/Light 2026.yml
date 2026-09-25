@@ -1,0 +1,33 @@
+# VS Code's "Light 2026" theme (extensions/theme-defaults/themes/2026-light.json)
+# as its integrated terminal draws it. The theme defines no terminal.ansi*
+# colors, so the 16 palette entries are VS Code's light terminal defaults from
+# src/vs/workbench/contrib/terminal/common/terminalColorRegistry.ts. The
+# background is the editor's, since the theme sets no terminal.background.
+# VS Code's selection is #0069cc at 15% alpha over the background; `selection`
+# holds that composite.
+
+name:           "Light 2026"
+author:         "Microsoft (https://github.com/microsoft/vscode)"
+variant:        "light"
+color_01:       "#000000"
+color_02:       "#cd3131"
+color_03:       "#107c10"
+color_04:       "#949800"
+color_05:       "#0451a5"
+color_06:       "#bc05bc"
+color_07:       "#0598bc"
+color_08:       "#555555"
+color_09:       "#666666"
+color_10:       "#f14c4c"
+color_11:       "#14ce14"
+color_12:       "#b5ba00"
+color_13:       "#3b8eea"
+color_14:       "#d670d6"
+color_15:       "#29b8db"
+color_16:       "#a5a5a5"
+background:     "#ffffff"
+foreground:     "#3b3b3b"
+cursor:         "#202020"
+cursor_text:    "#ffffff"
+selection:      "#d9e9f7"
+selection_text: "#3b3b3b"
