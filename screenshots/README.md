@@ -380,6 +380,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/dalton-dark.png)
 
+### Dark 2026
+
+![Screenshot](/screenshots/dark-2026.png)
+
 ### Dark Modern
 
 ![Screenshot](/screenshots/dark-modern.png)

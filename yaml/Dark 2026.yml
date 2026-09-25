@@ -1,0 +1,32 @@
+# VS Code's "Dark 2026" theme (extensions/theme-defaults/themes/2026-dark.json)
+# as its integrated terminal draws it. The theme defines no terminal.ansi*
+# colors, so the 16 palette entries are VS Code's terminal defaults from
+# src/vs/workbench/contrib/terminal/common/terminalColorRegistry.ts, the same
+# palette as Dark+. VS Code's selection is #3994bc at 20% alpha over the
+# background; `selection` holds that composite.
+
+name:           "Dark 2026"
+author:         "Microsoft (https://github.com/microsoft/vscode)"
+variant:        "dark"
+color_01:       "#000000"
+color_02:       "#cd3131"
+color_03:       "#0dbc79"
+color_04:       "#e5e510"
+color_05:       "#2472c8"
+color_06:       "#bc3fbc"
+color_07:       "#11a8cd"
+color_08:       "#e5e5e5"
+color_09:       "#666666"
+color_10:       "#f14c4c"
+color_11:       "#23d18b"
+color_12:       "#f5f543"
+color_13:       "#3b8eea"
+color_14:       "#d670d6"
+color_15:       "#29b8db"
+color_16:       "#e5e5e5"
+background:     "#191a1b"
+foreground:     "#cccccc"
+cursor:         "#bfbfbf"
+cursor_text:    "#191a1b"
+selection:      "#1f323b"
+selection_text: "#cccccc"
