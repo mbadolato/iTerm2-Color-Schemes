@@ -1,0 +1,12 @@
+# Syncopation
+[colors]
+foreground = "#d6dad4"
+background = "#0e1317"
+cursor_bg = "#ffb23d"
+cursor_border = "#ffb23d"
+cursor_fg = "#0e1317"
+selection_bg = "#23384a"
+selection_fg = "#f0f2ec"
+
+ansi = ["#222b34","#e8705e","#94c27e","#e9ad4e","#6fa3d8","#d08aa3","#4dbaae","#b4bbb6"]
+brights = ["#76828d","#ff7b5e","#b3dd9d","#ffc03d","#98c4f2","#f2afc2","#86ddd2","#f0f2ec"]

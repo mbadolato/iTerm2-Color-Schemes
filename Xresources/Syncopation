@@ -1,0 +1,43 @@
+!
+! Syncopation
+!
+*.foreground:  #d6dad4
+*.background:  #0e1317
+*.cursorColor: #ffb23d
+!
+! Black
+*.color0:      #222b34
+*.color8:      #76828d
+!
+! Red
+*.color1:      #e8705e
+*.color9:      #ff7b5e
+!
+! Green
+*.color2:      #94c27e
+*.color10:     #b3dd9d
+!
+! Yellow
+*.color3:      #e9ad4e
+*.color11:     #ffc03d
+!
+! Blue
+*.color4:      #6fa3d8
+*.color12:     #98c4f2
+!
+! Magenta
+*.color5:      #d08aa3
+*.color13:     #f2afc2
+!
+! Cyan
+*.color6:      #4dbaae
+*.color14:     #86ddd2
+!
+! White
+*.color7:      #b4bbb6
+*.color15:     #f0f2ec
+!
+! Bold, Italic, Underline
+*.colorBD:     #f0f2ec
+!*.colorIT:
+!*.colorUL:

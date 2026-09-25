@@ -1,0 +1,40 @@
+(
+    name: "Syncopation",
+    foreground: "#d6dad4",
+    cursor: "#ffb23d",
+    bright_foreground: "#d6dad4",
+    dim_foreground: "#222b34",
+
+    normal: (
+        black: "#222b34",
+        red: "#e8705e",
+        green: "#94c27e",
+        yellow: "#e9ad4e",
+        blue: "#6fa3d8",
+        magenta: "#d08aa3",
+        cyan: "#4dbaae",
+        white: "#b4bbb6"
+    ),
+
+    bright: (
+        black: "#76828d",
+        red: "#ff7b5e",
+        green: "#b3dd9d",
+        yellow: "#ffc03d",
+        blue: "#98c4f2",
+        magenta: "#f2afc2",
+        cyan: "#86ddd2",
+        white: "#f0f2ec"
+    ),
+
+    dim: (
+        black: "#222b34",
+        red: "#e8705e",
+        green: "#94c27e",
+        yellow: "#e9ad4e",
+        blue: "#6fa3d8",
+        magenta: "#d08aa3",
+        cyan: "#4dbaae",
+        white: "#b4bbb6"
+    ),
+)

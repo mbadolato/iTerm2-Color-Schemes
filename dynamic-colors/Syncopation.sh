@@ -1,0 +1,7 @@
+#!/bin/sh
+# Syncopation
+printf "\033]4;0;#222b34;1;#e8705e;2;#94c27e;3;#e9ad4e;4;#6fa3d8;5;#d08aa3;6;#4dbaae;7;#b4bbb6;8;#76828d;9;#ff7b5e;10;#b3dd9d;11;#ffc03d;12;#98c4f2;13;#f2afc2;14;#86ddd2;15;#f0f2ec\007"
+printf "\033]10;#d6dad4;#0e1317;#ffb23d\007"
+printf "\033]17;#23384a\007"
+printf "\033]19;#f0f2ec\007"
+printf "\033]5;0;#f0f2ec\007"

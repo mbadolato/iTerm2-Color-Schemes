@@ -1716,6 +1716,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/symfonic.png)
 
+### Syncopation
+
+![Screenshot](/screenshots/syncopation.png)
+
 ### Synthwave Alpha
 
 ![Screenshot](/screenshots/synthwave-alpha.png)

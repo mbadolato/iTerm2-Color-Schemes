@@ -1,0 +1,33 @@
+# Colors (Syncopation)
+
+[colors.bright]
+black = '#76828d'
+blue = '#98c4f2'
+cyan = '#86ddd2'
+green = '#b3dd9d'
+magenta = '#f2afc2'
+red = '#ff7b5e'
+white = '#f0f2ec'
+yellow = '#ffc03d'
+
+[colors.cursor]
+cursor = '#ffb23d'
+text = '#0e1317'
+
+[colors.normal]
+black = '#222b34'
+blue = '#6fa3d8'
+cyan = '#4dbaae'
+green = '#94c27e'
+magenta = '#d08aa3'
+red = '#e8705e'
+white = '#b4bbb6'
+yellow = '#e9ad4e'
+
+[colors.primary]
+background = '#0e1317'
+foreground = '#d6dad4'
+
+[colors.selection]
+background = '#23384a'
+text = '#f0f2ec'
