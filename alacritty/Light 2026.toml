@@ -1,0 +1,33 @@
+# Colors (Light 2026)
+
+[colors.bright]
+black = '#666666'
+blue = '#3b8eea'
+cyan = '#29b8db'
+green = '#14ce14'
+magenta = '#d670d6'
+red = '#f14c4c'
+white = '#a5a5a5'
+yellow = '#b5ba00'
+
+[colors.cursor]
+cursor = '#202020'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#0451a5'
+cyan = '#0598bc'
+green = '#107c10'
+magenta = '#bc05bc'
+red = '#cd3131'
+white = '#555555'
+yellow = '#949800'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#3b3b3b'
+
+[colors.selection]
+background = '#d9e9f7'
+text = '#3b3b3b'

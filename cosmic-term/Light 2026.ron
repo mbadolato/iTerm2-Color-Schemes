@@ -1,0 +1,40 @@
+(
+    name: "Light 2026",
+    foreground: "#3b3b3b",
+    cursor: "#202020",
+    bright_foreground: "#3b3b3b",
+    dim_foreground: "#000000",
+
+    normal: (
+        black: "#000000",
+        red: "#cd3131",
+        green: "#107c10",
+        yellow: "#949800",
+        blue: "#0451a5",
+        magenta: "#bc05bc",
+        cyan: "#0598bc",
+        white: "#555555"
+    ),
+
+    bright: (
+        black: "#666666",
+        red: "#f14c4c",
+        green: "#14ce14",
+        yellow: "#b5ba00",
+        blue: "#3b8eea",
+        magenta: "#d670d6",
+        cyan: "#29b8db",
+        white: "#a5a5a5"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#cd3131",
+        green: "#107c10",
+        yellow: "#949800",
+        blue: "#0451a5",
+        magenta: "#bc05bc",
+        cyan: "#0598bc",
+        white: "#555555"
+    ),
+)

@@ -2418,6 +2418,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/letterpress.png)
 
+### Light 2026
+
+![Screenshot](/screenshots/light-2026.png)
+
 ### Light Owl
 
 ![Screenshot](/screenshots/light-owl.png)

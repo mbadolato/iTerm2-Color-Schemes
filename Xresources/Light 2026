@@ -1,0 +1,43 @@
+!
+! Light 2026
+!
+*.foreground:  #3b3b3b
+*.background:  #ffffff
+*.cursorColor: #202020
+!
+! Black
+*.color0:      #000000
+*.color8:      #666666
+!
+! Red
+*.color1:      #cd3131
+*.color9:      #f14c4c
+!
+! Green
+*.color2:      #107c10
+*.color10:     #14ce14
+!
+! Yellow
+*.color3:      #949800
+*.color11:     #b5ba00
+!
+! Blue
+*.color4:      #0451a5
+*.color12:     #3b8eea
+!
+! Magenta
+*.color5:      #bc05bc
+*.color13:     #d670d6
+!
+! Cyan
+*.color6:      #0598bc
+*.color14:     #29b8db
+!
+! White
+*.color7:      #555555
+*.color15:     #a5a5a5
+!
+! Bold, Italic, Underline
+*.colorBD:     #3b3b3b
+!*.colorIT:
+!*.colorUL:

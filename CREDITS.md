@@ -298,6 +298,8 @@ The Later This Evening theme was created by [vilhalmer](https://github.com/vilha
 
 The Lemon Graphite theme was created by [ZioFester90](https://github.com/ZioFester90) with AI assistance.
 
+The Light 2026 theme is VS Code's default light theme, as its integrated terminal draws it. It was added by [Philip Lindberg](https://github.com/philiplindberg).
+
 The LightOwl theme was created by [zasdaym](https://github.com/zasdaym)
 
 The LiquidCarbon themes were created by [markcho](https://github.com/markcho/iTerm2_LiquidCarbon)
