@@ -296,6 +296,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/challenger-deep.png)
 
+### Charcoal
+
+![Screenshot](/screenshots/charcoal.png)
+
 ### Chester
 
 ![Screenshot](/screenshots/chester.png)

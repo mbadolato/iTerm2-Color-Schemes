@@ -1,0 +1,40 @@
+(
+    name: "Charcoal",
+    foreground: "#c4c4c4",
+    cursor: "#d0d0d0",
+    bright_foreground: "#c4c4c4",
+    dim_foreground: "#111111",
+
+    normal: (
+        black: "#111111",
+        red: "#888888",
+        green: "#a8a8a8",
+        yellow: "#b0b0b0",
+        blue: "#9a9a9a",
+        magenta: "#8a8a8a",
+        cyan: "#a0a0a0",
+        white: "#c0c0c0"
+    ),
+
+    bright: (
+        black: "#474747",
+        red: "#a0a0a0",
+        green: "#c4c4c4",
+        yellow: "#c8c8c8",
+        blue: "#d0d0d0",
+        magenta: "#b8b8b8",
+        cyan: "#cccccc",
+        white: "#ececec"
+    ),
+
+    dim: (
+        black: "#111111",
+        red: "#888888",
+        green: "#a8a8a8",
+        yellow: "#b0b0b0",
+        blue: "#9a9a9a",
+        magenta: "#8a8a8a",
+        cyan: "#a0a0a0",
+        white: "#c0c0c0"
+    ),
+)

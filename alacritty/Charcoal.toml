@@ -1,0 +1,33 @@
+# Colors (Charcoal)
+
+[colors.bright]
+black = '#474747'
+blue = '#d0d0d0'
+cyan = '#cccccc'
+green = '#c4c4c4'
+magenta = '#b8b8b8'
+red = '#a0a0a0'
+white = '#ececec'
+yellow = '#c8c8c8'
+
+[colors.cursor]
+cursor = '#d0d0d0'
+text = '#0d0d0d'
+
+[colors.normal]
+black = '#111111'
+blue = '#9a9a9a'
+cyan = '#a0a0a0'
+green = '#a8a8a8'
+magenta = '#8a8a8a'
+red = '#888888'
+white = '#c0c0c0'
+yellow = '#b0b0b0'
+
+[colors.primary]
+background = '#0d0d0d'
+foreground = '#c4c4c4'
+
+[colors.selection]
+background = '#2e2e2e'
+text = '#e0e0e0'

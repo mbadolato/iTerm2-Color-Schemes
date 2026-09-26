@@ -1,0 +1,43 @@
+!
+! Charcoal
+!
+*.foreground:  #c4c4c4
+*.background:  #0d0d0d
+*.cursorColor: #d0d0d0
+!
+! Black
+*.color0:      #111111
+*.color8:      #474747
+!
+! Red
+*.color1:      #888888
+*.color9:      #a0a0a0
+!
+! Green
+*.color2:      #a8a8a8
+*.color10:     #c4c4c4
+!
+! Yellow
+*.color3:      #b0b0b0
+*.color11:     #c8c8c8
+!
+! Blue
+*.color4:      #9a9a9a
+*.color12:     #d0d0d0
+!
+! Magenta
+*.color5:      #8a8a8a
+*.color13:     #b8b8b8
+!
+! Cyan
+*.color6:      #a0a0a0
+*.color14:     #cccccc
+!
+! White
+*.color7:      #c0c0c0
+*.color15:     #ececec
+!
+! Bold, Italic, Underline
+*.colorBD:     #c4c4c4
+!*.colorIT:
+!*.colorUL:
