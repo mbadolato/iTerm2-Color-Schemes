@@ -603,3 +603,5 @@ The Syncopation theme was created by [mbadolato](mbadolato).
 The RadicalReborn theme was created by [AquaOctet](https://github.com/AquaOctet/radical-reborn).
 
 The Charcoal theme was created by [Vyom Jain](https://github.com/VyomJain6904). A deep-black grayscale theme (also available for bat and OpenCode at [charcoal-theme](https://github.com/VyomJain6904/charcoal-theme)).
+
+The Golden Retriever Red theme was created by Mark Badolato.
