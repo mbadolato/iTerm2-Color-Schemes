@@ -620,3 +620,4 @@ The Prince of Darkness theme was created by Mark Badolato.
 The Madman's Diary theme was created by Mark Badolato.
 The Ozz's Blizzard theme was created by Mark Badolato.
 The EVH FrankenTone theme was created by Mark Badolato.
+The Rhoads Legacy theme was created by Mark Badolato.
