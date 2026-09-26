@@ -599,3 +599,5 @@ The Nachtschicht theme was created by [notgabriels-sys](https://github.com/notga
 The X theme family (X, X Madrid, X Lahabana, X Miami, X Paris, X Tokio, X Oslo, X Helsinki, X Berlin, X London, X Praha, and X Bogota) was created by [Xscriptor](https://github.com/xscriptor). Palette source: [xscriptor-colors/assets](https://github.com/xscriptor-colors/assets).
 
 The Syncopation theme was created by [mbadolato](mbadolato).
+
+The RadicalReborn theme was created by [AquaOctet](https://github.com/AquaOctet/radical-reborn).
