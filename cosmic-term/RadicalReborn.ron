@@ -1,0 +1,40 @@
+(
+    name: "RadicalReborn",
+    foreground: "#defff7",
+    cursor: "#ff428e",
+    bright_foreground: "#defff7",
+    dim_foreground: "#30317d",
+
+    normal: (
+        black: "#30317d",
+        red: "#ff5395",
+        green: "#d8ff4e",
+        yellow: "#fffc7e",
+        blue: "#7dd9e4",
+        magenta: "#fa61b8",
+        cyan: "#a8ffef",
+        white: "#cff0e8"
+    ),
+
+    bright: (
+        black: "#4627c2",
+        red: "#ff427b",
+        green: "#c8ff00",
+        yellow: "#f8d846",
+        blue: "#84f9fe",
+        magenta: "#d5358f",
+        cyan: "#83fee8",
+        white: "#cbfff2"
+    ),
+
+    dim: (
+        black: "#30317d",
+        red: "#ff5395",
+        green: "#d8ff4e",
+        yellow: "#fffc7e",
+        blue: "#7dd9e4",
+        magenta: "#fa61b8",
+        cyan: "#a8ffef",
+        white: "#cff0e8"
+    ),
+)

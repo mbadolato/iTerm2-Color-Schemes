@@ -1636,6 +1636,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/pyrokai.png)
 
+### RadicalReborn
+
+![Screenshot](/screenshots/radicalreborn.png)
+
 ### Rapture
 
 ![Screenshot](/screenshots/rapture.png)

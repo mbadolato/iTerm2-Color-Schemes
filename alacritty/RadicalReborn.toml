@@ -1,0 +1,33 @@
+# Colors (RadicalReborn)
+
+[colors.bright]
+black = '#4627c2'
+blue = '#84f9fe'
+cyan = '#83fee8'
+green = '#c8ff00'
+magenta = '#d5358f'
+red = '#ff427b'
+white = '#cbfff2'
+yellow = '#f8d846'
+
+[colors.cursor]
+cursor = '#ff428e'
+text = '#defff7'
+
+[colors.normal]
+black = '#30317d'
+blue = '#7dd9e4'
+cyan = '#a8ffef'
+green = '#d8ff4e'
+magenta = '#fa61b8'
+red = '#ff5395'
+white = '#cff0e8'
+yellow = '#fffc7e'
+
+[colors.primary]
+background = '#141322'
+foreground = '#defff7'
+
+[colors.selection]
+background = '#3c2e61'
+text = '#eec1c1'
