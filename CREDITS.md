@@ -606,3 +606,4 @@ The Charcoal theme was created by [Vyom Jain](https://github.com/VyomJain6904). 
 
 The Sonoran Dusk theme was created by Mark Badolato.
 The Arizona Monsoon theme was created by Mark Badolato.
+The After Hours theme was created by Mark Badolato.
