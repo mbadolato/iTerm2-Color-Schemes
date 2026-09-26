@@ -611,3 +611,4 @@ The Blueprint theme was created by Mark Badolato.
 The CRT Afterglow theme was created by Mark Badolato.
 The Deep Current theme was created by Mark Badolato.
 The Emberglass theme was created by Mark Badolato.
+The High Desert Snow theme was created by Mark Badolato.
