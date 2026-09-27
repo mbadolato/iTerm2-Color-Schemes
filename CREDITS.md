@@ -614,3 +614,4 @@ The Emberglass theme was created by Mark Badolato.
 The High Desert Snow theme was created by Mark Badolato.
 The Golden Retriever Cream theme was created by Mark Badolato.
 The Golden Retriever Honey theme was created by Mark Badolato.
+The Golden Retriever Red theme was created by Mark Badolato.
