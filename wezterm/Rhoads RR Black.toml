@@ -1,0 +1,12 @@
+# Rhoads RR Black
+[colors]
+foreground = "#f4ecd7"
+background = "#0a0907"
+cursor_bg = "#d4af37"
+cursor_border = "#d4af37"
+cursor_fg = "#1f1b12"
+selection_bg = "#5a4512"
+selection_fg = "#e6d7a5"
+
+ansi = ["#1c1a16","#c81e1e","#2e7d32","#d4af37","#3b82f6","#a855f7","#06b6d4","#e5e1cc"]
+brights = ["#5a5750","#ef6b6b","#8fdc82","#f5df8a","#73a7f2","#c49af2","#77d9e5","#fffaf0"]

@@ -1,0 +1,12 @@
+# Blueprint
+[colors]
+foreground = "#0f172a"
+background = "#f8fafc"
+cursor_bg = "#ff5a1f"
+cursor_border = "#ff5a1f"
+cursor_fg = "#f1f5f9"
+selection_bg = "#cbd5e1"
+selection_fg = "#0f172a"
+
+ansi = ["#0f172a","#dc2626","#16a34a","#d97706","#2563eb","#7c3aed","#0891b2","#94a3b8"]
+brights = ["#475569","#ef4444","#22c55e","#f59e0b","#3b82f6","#a855f7","#06b6d4","#1e293b"]

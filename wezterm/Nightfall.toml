@@ -1,0 +1,12 @@
+# Nightfall
+[colors]
+foreground = "#f6e8d0"
+background = "#1a140e"
+cursor_bg = "#d4a85c"
+cursor_border = "#d4a85c"
+cursor_fg = "#1a140e"
+selection_bg = "#3b2a1a"
+selection_fg = "#f6e8d0"
+
+ansi = ["#3a2f24","#e87555","#83b96f","#e8ad3f","#5f9ed8","#bd6fae","#4dbeb1","#d9c09a"]
+brights = ["#5b4a3a","#f28b6b","#a8d07d","#ffd166","#79b5e8","#eba1d9","#66d0c4","#fff2d6"]

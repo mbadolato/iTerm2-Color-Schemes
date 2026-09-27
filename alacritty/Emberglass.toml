@@ -1,0 +1,33 @@
+# Colors (Emberglass)
+
+[colors.bright]
+black = '#64748b'
+blue = '#7dd3fc'
+cyan = '#67e8f9'
+green = '#86efac'
+magenta = '#c084fc'
+red = '#fb923c'
+white = '#f1f5f9'
+yellow = '#facc15'
+
+[colors.cursor]
+cursor = '#f59e0b'
+text = '#0b0e11'
+
+[colors.normal]
+black = '#2a2f36'
+blue = '#38bdf8'
+cyan = '#14b8a6'
+green = '#22c55e'
+magenta = '#a855f7'
+red = '#f97316'
+white = '#cbd5e1'
+yellow = '#eab308'
+
+[colors.primary]
+background = '#0b0e11'
+foreground = '#e6e7eb'
+
+[colors.selection]
+background = '#4b5563'
+text = '#e8e7e3'

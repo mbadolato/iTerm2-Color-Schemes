@@ -1,0 +1,33 @@
+# Colors (After Hours)
+
+[colors.bright]
+black = '#6b5b4f'
+blue = '#93c5fd'
+cyan = '#5eead4'
+green = '#86efac'
+magenta = '#d8b4fe'
+red = '#ff8b8b'
+white = '#fdfaf6'
+yellow = '#fbbf24'
+
+[colors.cursor]
+cursor = '#d4af37'
+text = '#0f0b0a'
+
+[colors.normal]
+black = '#2a1f1a'
+blue = '#60a5fa'
+cyan = '#2dd4bf'
+green = '#4ade80'
+magenta = '#c084fc'
+red = '#ff6b6b'
+white = '#cbb89f'
+yellow = '#f59e0b'
+
+[colors.primary]
+background = '#0f0b0a'
+foreground = '#e6e1d9'
+
+[colors.selection]
+background = '#3d2f27'
+text = '#e6e1d9'

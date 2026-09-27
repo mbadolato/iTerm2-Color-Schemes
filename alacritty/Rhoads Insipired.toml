@@ -1,0 +1,33 @@
+# Colors (Rhoads Insipired)
+
+[colors.bright]
+black = '#555555'
+blue = '#85c7f2'
+cyan = '#7be0dc'
+green = '#d4ef91'
+magenta = '#d69bf4'
+red = '#ff7474'
+white = '#ffffff'
+yellow = '#ffd166'
+
+[colors.cursor]
+cursor = '#a855f7'
+text = '#f5f5f0'
+
+[colors.normal]
+black = '#161616'
+blue = '#5aa9e6'
+cyan = '#50c8c6'
+green = '#b7d96c'
+magenta = '#b66de8'
+red = '#e85d5d'
+white = '#e8e8e3'
+yellow = '#f5a623'
+
+[colors.primary]
+background = '#0a0a0a'
+foreground = '#f5f5f0'
+
+[colors.selection]
+background = '#f4b942'
+text = '#111111'

@@ -1,0 +1,43 @@
+!
+! Sonoran Dusk
+!
+*.foreground:  #e8e1d9
+*.background:  #1a0f24
+*.cursorColor: #f4a261
+!
+! Black
+*.color0:      #2d2433
+*.color8:      #6b7280
+!
+! Red
+*.color1:      #e76f51
+*.color9:      #ff8a65
+!
+! Green
+*.color2:      #8abf7f
+*.color10:     #a6e3a1
+!
+! Yellow
+*.color3:      #e9c46a
+*.color11:     #ffd166
+!
+! Blue
+*.color4:      #5dade2
+*.color12:     #7ec8f8
+!
+! Magenta
+*.color5:      #c678dd
+*.color13:     #d48cff
+!
+! Cyan
+*.color6:      #2dd4bf
+*.color14:     #52e6d6
+!
+! White
+*.color7:      #e8e2d1
+*.color15:     #fff1d6
+!
+! Bold, Italic, Underline
+*.colorBD:     #c9b6a4
+!*.colorIT:
+!*.colorUL:

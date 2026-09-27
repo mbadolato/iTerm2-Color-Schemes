@@ -1,0 +1,40 @@
+(
+    name: "Sonoran Dusk",
+    foreground: "#e8e1d9",
+    cursor: "#f4a261",
+    bright_foreground: "#e8e1d9",
+    dim_foreground: "#2d2433",
+
+    normal: (
+        black: "#2d2433",
+        red: "#e76f51",
+        green: "#8abf7f",
+        yellow: "#e9c46a",
+        blue: "#5dade2",
+        magenta: "#c678dd",
+        cyan: "#2dd4bf",
+        white: "#e8e2d1"
+    ),
+
+    bright: (
+        black: "#6b7280",
+        red: "#ff8a65",
+        green: "#a6e3a1",
+        yellow: "#ffd166",
+        blue: "#7ec8f8",
+        magenta: "#d48cff",
+        cyan: "#52e6d6",
+        white: "#fff1d6"
+    ),
+
+    dim: (
+        black: "#2d2433",
+        red: "#e76f51",
+        green: "#8abf7f",
+        yellow: "#e9c46a",
+        blue: "#5dade2",
+        magenta: "#c678dd",
+        cyan: "#2dd4bf",
+        white: "#e8e2d1"
+    ),
+)

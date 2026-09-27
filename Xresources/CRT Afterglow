@@ -1,0 +1,43 @@
+!
+! CRT Afterglow
+!
+*.foreground:  #d0d8c8
+*.background:  #0b0f0b
+*.cursorColor: #f4d35e
+!
+! Black
+*.color0:      #203020
+*.color8:      #4a5d4a
+!
+! Red
+*.color1:      #ff5f56
+*.color9:      #ff8a80
+!
+! Green
+*.color2:      #50fa7b
+*.color10:     #8aff9d
+!
+! Yellow
+*.color3:      #f1fa8c
+*.color11:     #fff59d
+!
+! Blue
+*.color4:      #8be9fd
+*.color12:     #b3f1ff
+!
+! Magenta
+*.color5:      #bd93f9
+*.color13:     #dda0ff
+!
+! Cyan
+*.color6:      #5af78e
+*.color14:     #8affd8
+!
+! White
+*.color7:      #95a99b
+*.color15:     #f5f7ef
+!
+! Bold, Italic, Underline
+*.colorBD:     #1e2d1e
+!*.colorIT:
+!*.colorUL:

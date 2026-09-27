@@ -1,0 +1,43 @@
+!
+! Rhoads Insipired
+!
+*.foreground:  #f5f5f0
+*.background:  #0a0a0a
+*.cursorColor: #a855f7
+!
+! Black
+*.color0:      #161616
+*.color8:      #555555
+!
+! Red
+*.color1:      #e85d5d
+*.color9:      #ff7474
+!
+! Green
+*.color2:      #b7d96c
+*.color10:     #d4ef91
+!
+! Yellow
+*.color3:      #f5a623
+*.color11:     #ffd166
+!
+! Blue
+*.color4:      #5aa9e6
+*.color12:     #85c7f2
+!
+! Magenta
+*.color5:      #b66de8
+*.color13:     #d69bf4
+!
+! Cyan
+*.color6:      #50c8c6
+*.color14:     #7be0dc
+!
+! White
+*.color7:      #e8e8e3
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

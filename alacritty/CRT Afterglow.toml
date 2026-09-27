@@ -1,0 +1,33 @@
+# Colors (CRT Afterglow)
+
+[colors.bright]
+black = '#4a5d4a'
+blue = '#b3f1ff'
+cyan = '#8affd8'
+green = '#8aff9d'
+magenta = '#dda0ff'
+red = '#ff8a80'
+white = '#f5f7ef'
+yellow = '#fff59d'
+
+[colors.cursor]
+cursor = '#f4d35e'
+text = '#0b0f0b'
+
+[colors.normal]
+black = '#203020'
+blue = '#8be9fd'
+cyan = '#5af78e'
+green = '#50fa7b'
+magenta = '#bd93f9'
+red = '#ff5f56'
+white = '#95a99b'
+yellow = '#f1fa8c'
+
+[colors.primary]
+background = '#0b0f0b'
+foreground = '#d0d8c8'
+
+[colors.selection]
+background = '#2a3a2a'
+text = '#d0d8c8'

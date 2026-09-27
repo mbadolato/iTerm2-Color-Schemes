@@ -1,0 +1,40 @@
+(
+    name: "After Hours",
+    foreground: "#e6e1d9",
+    cursor: "#d4af37",
+    bright_foreground: "#e6e1d9",
+    dim_foreground: "#2a1f1a",
+
+    normal: (
+        black: "#2a1f1a",
+        red: "#ff6b6b",
+        green: "#4ade80",
+        yellow: "#f59e0b",
+        blue: "#60a5fa",
+        magenta: "#c084fc",
+        cyan: "#2dd4bf",
+        white: "#cbb89f"
+    ),
+
+    bright: (
+        black: "#6b5b4f",
+        red: "#ff8b8b",
+        green: "#86efac",
+        yellow: "#fbbf24",
+        blue: "#93c5fd",
+        magenta: "#d8b4fe",
+        cyan: "#5eead4",
+        white: "#fdfaf6"
+    ),
+
+    dim: (
+        black: "#2a1f1a",
+        red: "#ff6b6b",
+        green: "#4ade80",
+        yellow: "#f59e0b",
+        blue: "#60a5fa",
+        magenta: "#c084fc",
+        cyan: "#2dd4bf",
+        white: "#cbb89f"
+    ),
+)

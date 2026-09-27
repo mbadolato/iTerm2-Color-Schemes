@@ -48,6 +48,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/adwaita-dark.png)
 
+### After Hours
+
+![Screenshot](/screenshots/after-hours.png)
+
 ### Afterglow
 
 ![Screenshot](/screenshots/afterglow.png)
@@ -356,6 +360,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/crayon-pony-fish.png)
 
+### CRT Afterglow
+
+![Screenshot](/screenshots/crt-afterglow.png)
+
 ### CRT Amber
 
 ![Screenshot](/screenshots/crt-amber.png)
@@ -419,6 +427,10 @@ The screenshots are categorized.
 ### datum (dark)
 
 ![Screenshot](/screenshots/datum-dark.png)
+
+### Deep Current
+
+![Screenshot](/screenshots/deep-current.png)
 
 ### Deep
 
@@ -520,6 +532,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/embark.png)
 
+### Ember
+
+![Screenshot](/screenshots/ember.png)
+
+### Emberglass
+
+![Screenshot](/screenshots/emberglass.png)
+
 ### Embers Dark
 
 ![Screenshot](/screenshots/embers-dark.png)
@@ -555,6 +575,10 @@ The screenshots are categorized.
 ### Everforest Dark Soft
 
 ![Screenshot](/screenshots/everforest-dark-soft.png)
+
+### EVH FrankenTone
+
+![Screenshot](/screenshots/evh-frankentone.png)
 
 ### Fahrenheit
 
@@ -1012,6 +1036,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/lovelace.png)
 
+### Madman's Diary
+
+![Screenshot](/screenshots/madmans-diary.png)
+
 ### Mariana
 
 ![Screenshot](/screenshots/mariana.png)
@@ -1204,6 +1232,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/night-owl.png)
 
+### Nightfall
+
+![Screenshot](/screenshots/nightfall.png)
+
 ### Nightfox
 
 ![Screenshot](/screenshots/nightfox.png)
@@ -1340,6 +1372,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/oxocarbon.png)
 
+### Ozz's Blizzard
+
+![Screenshot](/screenshots/ozzs-blizzard.png)
+
 ### Pale Night Hc
 
 ![Screenshot](/screenshots/pale-night-hc.png)
@@ -1412,6 +1448,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/powershell.png)
 
+### Prince of Darkness
+
+![Screenshot](/screenshots/prince-of-darkness.png)
+
 ### Prism
 
 ![Screenshot](/screenshots/prism.png)
@@ -1475,6 +1515,18 @@ The screenshots are categorized.
 ### Retro
 
 ![Screenshot](/screenshots/retro.png)
+
+### Rhoads Insipired
+
+![Screenshot](/screenshots/rhoads-insipired.png)
+
+### Rhoads Legacy
+
+![Screenshot](/screenshots/rhoads-legacy.png)
+
+### Rhoads RR Black
+
+![Screenshot](/screenshots/rhoads-rr-black.png)
 
 ### Rippedcasts
 
@@ -1659,6 +1711,10 @@ The screenshots are categorized.
 ### Sonokai
 
 ![Screenshot](/screenshots/sonokai.png)
+
+### Sonoran Dusk
+
+![Screenshot](/screenshots/sonoran-dusk.png)
 
 ### Spacedust
 
@@ -2034,6 +2090,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/belafonte-day.png)
 
+### Blueprint
+
+![Screenshot](/screenshots/blueprint.png)
+
 ### Bluloco Light
 
 ![Screenshot](/screenshots/bluloco-light.png)
@@ -2150,6 +2210,18 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/gitlab-light.png)
 
+### Golden Retriever Cream
+
+![Screenshot](/screenshots/golden-retriever-cream.png)
+
+### Golden Retriever Honey
+
+![Screenshot](/screenshots/golden-retriever-honey.png)
+
+### Golden Retriever Red
+
+![Screenshot](/screenshots/golden-retriever-red.png)
+
 ### Grok Day
 
 ![Screenshot](/screenshots/grok-day.png)
@@ -2169,6 +2241,10 @@ The screenshots are categorized.
 ### Havn Daggry
 
 ![Screenshot](/screenshots/havn-daggry.png)
+
+### High Desert Snow
+
+![Screenshot](/screenshots/high-desert-snow.png)
 
 ### Horizon Bright
 
@@ -2385,6 +2461,14 @@ The screenshots are categorized.
 ### Raycast Light
 
 ![Screenshot](/screenshots/raycast-light.png)
+
+### Rhoads Concord
+
+![Screenshot](/screenshots/rhoads-concord.png)
+
+### Rhoads LP
+
+![Screenshot](/screenshots/rhoads-lp.png)
 
 ### Rose Pine Dawn
 

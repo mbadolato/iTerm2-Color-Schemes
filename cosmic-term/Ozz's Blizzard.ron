@@ -1,0 +1,40 @@
+(
+    name: "Ozz's Blizzard",
+    foreground: "#3f6289",
+    cursor: "#8b8b4c",
+    bright_foreground: "#3f6289",
+    dim_foreground: "#263244",
+
+    normal: (
+        black: "#263244",
+        red: "#e76f6f",
+        green: "#2a9d8f",
+        yellow: "#8b8b4c",
+        blue: "#4cc9f0",
+        magenta: "#7b51ff",
+        cyan: "#ff7ab6",
+        white: "#f7f7fa"
+    ),
+
+    bright: (
+        black: "#5c6b7f",
+        red: "#f87171",
+        green: "#34d399",
+        yellow: "#ffcf24",
+        blue: "#38bdff",
+        magenta: "#a78bfa",
+        cyan: "#22d3ee",
+        white: "#f7f7fa"
+    ),
+
+    dim: (
+        black: "#263244",
+        red: "#e76f6f",
+        green: "#2a9d8f",
+        yellow: "#8b8b4c",
+        blue: "#4cc9f0",
+        magenta: "#7b51ff",
+        cyan: "#ff7ab6",
+        white: "#f7f7fa"
+    ),
+)

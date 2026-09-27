@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Rhoads Insipired'
+cursor-color='#a855f7'
+foreground='#f5f5f0'
+background='rgba(10,10,10,.95)'
+palette='#161616:#e85d5d:#b7d96c:#f5a623:#5aa9e6:#b66de8:#50c8c6:#e8e8e3:#555555:#ff7474:#d4ef91:#ffd166:#85c7f2:#d69bf4:#7be0dc:#ffffff'
+COLORS

@@ -1,0 +1,33 @@
+# Colors (Ozz's Blizzard)
+
+[colors.bright]
+black = '#5c6b7f'
+blue = '#38bdff'
+cyan = '#22d3ee'
+green = '#34d399'
+magenta = '#a78bfa'
+red = '#f87171'
+white = '#f7f7fa'
+yellow = '#ffcf24'
+
+[colors.cursor]
+cursor = '#8b8b4c'
+text = '#4cc9f0'
+
+[colors.normal]
+black = '#263244'
+blue = '#4cc9f0'
+cyan = '#ff7ab6'
+green = '#2a9d8f'
+magenta = '#7b51ff'
+red = '#e76f6f'
+white = '#f7f7fa'
+yellow = '#8b8b4c'
+
+[colors.primary]
+background = '#0a0f1a'
+foreground = '#3f6289'
+
+[colors.selection]
+background = '#e76f6f'
+text = '#6addcf'

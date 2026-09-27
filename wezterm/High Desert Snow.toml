@@ -1,0 +1,12 @@
+# High Desert Snow
+[colors]
+foreground = "#1f2937"
+background = "#f9fafb"
+cursor_bg = "#d97706"
+cursor_border = "#d97706"
+cursor_fg = "#f3f4f6"
+selection_bg = "#cbd5e1"
+selection_fg = "#1f2937"
+
+ansi = ["#1f2937","#dc2626","#16a34a","#ca8a04","#2563eb","#9333ea","#0891b2","#475569"]
+brights = ["#64748b","#ef4444","#22c55e","#eab308","#3b82f6","#c084fc","#06b6d4","#1f2937"]

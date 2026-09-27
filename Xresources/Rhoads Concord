@@ -1,0 +1,43 @@
+!
+! Rhoads Concord
+!
+*.foreground:  #1a1a1a
+*.background:  #fdfcf4
+*.cursorColor: #000000
+!
+! Black
+*.color0:      #2b2b2b
+*.color8:      #6b6b6b
+!
+! Red
+*.color1:      #c81e1e
+*.color9:      #ef6b6b
+!
+! Green
+*.color2:      #2e7d32
+*.color10:     #82cf75
+!
+! Yellow
+*.color3:      #d4af37
+*.color11:     #cfb964
+!
+! Blue
+*.color4:      #2563eb
+*.color12:     #7daaf2
+!
+! Magenta
+*.color5:      #a855f7
+*.color13:     #c59af2
+!
+! Cyan
+*.color6:      #06b6d4
+*.color14:     #76ced8
+!
+! White
+*.color7:      #bfc1c5
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #d4af37
+!*.colorIT:
+!*.colorUL:

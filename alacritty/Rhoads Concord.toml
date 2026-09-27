@@ -1,0 +1,33 @@
+# Colors (Rhoads Concord)
+
+[colors.bright]
+black = '#6b6b6b'
+blue = '#7daaf2'
+cyan = '#76ced8'
+green = '#82cf75'
+magenta = '#c59af2'
+red = '#ef6b6b'
+white = '#ffffff'
+yellow = '#cfb964'
+
+[colors.cursor]
+cursor = '#000000'
+text = '#4b4b4b'
+
+[colors.normal]
+black = '#2b2b2b'
+blue = '#2563eb'
+cyan = '#06b6d4'
+green = '#2e7d32'
+magenta = '#a855f7'
+red = '#c81e1e'
+white = '#bfc1c5'
+yellow = '#d4af37'
+
+[colors.primary]
+background = '#fdfcf4'
+foreground = '#1a1a1a'
+
+[colors.selection]
+background = '#b8860b'
+text = '#e3c384'

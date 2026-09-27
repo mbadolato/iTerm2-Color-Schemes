@@ -1,0 +1,40 @@
+(
+    name: "Nightfall",
+    foreground: "#f6e8d0",
+    cursor: "#d4a85c",
+    bright_foreground: "#f6e8d0",
+    dim_foreground: "#3a2f24",
+
+    normal: (
+        black: "#3a2f24",
+        red: "#e87555",
+        green: "#83b96f",
+        yellow: "#e8ad3f",
+        blue: "#5f9ed8",
+        magenta: "#bd6fae",
+        cyan: "#4dbeb1",
+        white: "#d9c09a"
+    ),
+
+    bright: (
+        black: "#5b4a3a",
+        red: "#f28b6b",
+        green: "#a8d07d",
+        yellow: "#ffd166",
+        blue: "#79b5e8",
+        magenta: "#eba1d9",
+        cyan: "#66d0c4",
+        white: "#fff2d6"
+    ),
+
+    dim: (
+        black: "#3a2f24",
+        red: "#e87555",
+        green: "#83b96f",
+        yellow: "#e8ad3f",
+        blue: "#5f9ed8",
+        magenta: "#bd6fae",
+        cyan: "#4dbeb1",
+        white: "#d9c09a"
+    ),
+)

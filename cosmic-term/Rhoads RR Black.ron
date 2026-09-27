@@ -1,0 +1,40 @@
+(
+    name: "Rhoads RR Black",
+    foreground: "#f4ecd7",
+    cursor: "#d4af37",
+    bright_foreground: "#f4ecd7",
+    dim_foreground: "#1c1a16",
+
+    normal: (
+        black: "#1c1a16",
+        red: "#c81e1e",
+        green: "#2e7d32",
+        yellow: "#d4af37",
+        blue: "#3b82f6",
+        magenta: "#a855f7",
+        cyan: "#06b6d4",
+        white: "#e5e1cc"
+    ),
+
+    bright: (
+        black: "#5a5750",
+        red: "#ef6b6b",
+        green: "#8fdc82",
+        yellow: "#f5df8a",
+        blue: "#73a7f2",
+        magenta: "#c49af2",
+        cyan: "#77d9e5",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#1c1a16",
+        red: "#c81e1e",
+        green: "#2e7d32",
+        yellow: "#d4af37",
+        blue: "#3b82f6",
+        magenta: "#a855f7",
+        cyan: "#06b6d4",
+        white: "#e5e1cc"
+    ),
+)

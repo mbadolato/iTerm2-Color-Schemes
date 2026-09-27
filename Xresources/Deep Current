@@ -1,0 +1,43 @@
+!
+! Deep Current
+!
+*.foreground:  #e2e8f0
+*.background:  #08121f
+*.cursorColor: #00c5ff
+!
+! Black
+*.color0:      #1f2a44
+*.color8:      #475569
+!
+! Red
+*.color1:      #ff4d6d
+*.color9:      #ff7b9c
+!
+! Green
+*.color2:      #22c55e
+*.color10:     #86efac
+!
+! Yellow
+*.color3:      #f59e0b
+*.color11:     #fcd34d
+!
+! Blue
+*.color4:      #3b82f6
+*.color12:     #60a5fa
+!
+! Magenta
+*.color5:      #d946ef
+*.color13:     #e879f9
+!
+! Cyan
+*.color6:      #06d6a0
+*.color14:     #2dd4bf
+!
+! White
+*.color7:      #94a3b8
+*.color15:     #f8fafc
+!
+! Bold, Italic, Underline
+*.colorBD:     #1e293b
+!*.colorIT:
+!*.colorUL:

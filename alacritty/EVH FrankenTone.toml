@@ -1,0 +1,33 @@
+# Colors (EVH FrankenTone)
+
+[colors.bright]
+black = '#474747'
+blue = '#66b3ff'
+cyan = '#22d3ee'
+green = '#b8e986'
+magenta = '#ff8fb1'
+red = '#ff5555'
+white = '#f7f7f7'
+yellow = '#ffe066'
+
+[colors.cursor]
+cursor = '#ffd400'
+text = '#2b82ff'
+
+[colors.normal]
+black = '#151515'
+blue = '#2b82ff'
+cyan = '#20bde5'
+green = '#8fbd32'
+magenta = '#ff2d6d'
+red = '#e10600'
+white = '#f4f4f4'
+yellow = '#ffd400'
+
+[colors.primary]
+background = '#0a0a0a'
+foreground = '#e10600'
+
+[colors.selection]
+background = '#ff3b30'
+text = '#a6e22e'

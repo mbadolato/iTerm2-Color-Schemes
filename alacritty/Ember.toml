@@ -1,0 +1,33 @@
+# Colors (Ember)
+
+[colors.bright]
+black = '#6a4a38'
+blue = '#8bb8f2'
+cyan = '#66d9c4'
+green = '#a8c976'
+magenta = '#e59ad6'
+red = '#ff7b5e'
+white = '#ffe8c7'
+yellow = '#ffc15a'
+
+[colors.cursor]
+cursor = '#d17a3c'
+text = '#1b0f0b'
+
+[colors.normal]
+black = '#40261b'
+blue = '#6196e6'
+cyan = '#4ac3b1'
+green = '#79ad58'
+magenta = '#d077b3'
+red = '#e4573f'
+white = '#d7b995'
+yellow = '#d99a33'
+
+[colors.primary]
+background = '#1b0f0b'
+foreground = '#f3e3d1'
+
+[colors.selection]
+background = '#4a2a1e'
+text = '#f3e3d1'

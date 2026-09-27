@@ -1,0 +1,12 @@
+# Rhoads Concord
+[colors]
+foreground = "#1a1a1a"
+background = "#fdfcf4"
+cursor_bg = "#000000"
+cursor_border = "#000000"
+cursor_fg = "#4b4b4b"
+selection_bg = "#b8860b"
+selection_fg = "#e3c384"
+
+ansi = ["#2b2b2b","#c81e1e","#2e7d32","#d4af37","#2563eb","#a855f7","#06b6d4","#bfc1c5"]
+brights = ["#6b6b6b","#ef6b6b","#82cf75","#cfb964","#7daaf2","#c59af2","#76ced8","#ffffff"]

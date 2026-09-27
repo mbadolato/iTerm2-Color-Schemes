@@ -1,0 +1,43 @@
+!
+! Ember
+!
+*.foreground:  #f3e3d1
+*.background:  #1b0f0b
+*.cursorColor: #d17a3c
+!
+! Black
+*.color0:      #40261b
+*.color8:      #6a4a38
+!
+! Red
+*.color1:      #e4573f
+*.color9:      #ff7b5e
+!
+! Green
+*.color2:      #79ad58
+*.color10:     #a8c976
+!
+! Yellow
+*.color3:      #d99a33
+*.color11:     #ffc15a
+!
+! Blue
+*.color4:      #6196e6
+*.color12:     #8bb8f2
+!
+! Magenta
+*.color5:      #d077b3
+*.color13:     #e59ad6
+!
+! Cyan
+*.color6:      #4ac3b1
+*.color14:     #66d9c4
+!
+! White
+*.color7:      #d7b995
+*.color15:     #ffe8c7
+!
+! Bold, Italic, Underline
+*.colorBD:     #ceb892
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (Rhoads Legacy)
+
+[colors.bright]
+black = '#4b3f72'
+blue = '#7c9cff'
+cyan = '#cbd5e1'
+green = '#f472b6'
+magenta = '#e9d5ff'
+red = '#d946ef'
+white = '#ffffff'
+yellow = '#fde68a'
+
+[colors.cursor]
+cursor = '#f4d03f'
+text = '#0a0614'
+
+[colors.normal]
+black = '#18111f'
+blue = '#6366f1'
+cyan = '#c4b5fd'
+green = '#d946ef'
+magenta = '#a78bfa'
+red = '#7c3aed'
+white = '#f8f6ed'
+yellow = '#f4d03f'
+
+[colors.primary]
+background = '#0a0614'
+foreground = '#c4b5fd'
+
+[colors.selection]
+background = '#4c1d95'
+text = '#fff7d6'

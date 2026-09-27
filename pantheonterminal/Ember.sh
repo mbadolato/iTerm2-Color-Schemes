@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Ember'
+cursor-color='#d17a3c'
+foreground='#f3e3d1'
+background='rgba(27,15,11,.95)'
+palette='#40261b:#e4573f:#79ad58:#d99a33:#6196e6:#d077b3:#4ac3b1:#d7b995:#6a4a38:#ff7b5e:#a8c976:#ffc15a:#8bb8f2:#e59ad6:#66d9c4:#ffe8c7'
+COLORS

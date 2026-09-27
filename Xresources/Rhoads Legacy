@@ -1,0 +1,43 @@
+!
+! Rhoads Legacy
+!
+*.foreground:  #c4b5fd
+*.background:  #0a0614
+*.cursorColor: #f4d03f
+!
+! Black
+*.color0:      #18111f
+*.color8:      #4b3f72
+!
+! Red
+*.color1:      #7c3aed
+*.color9:      #d946ef
+!
+! Green
+*.color2:      #d946ef
+*.color10:     #f472b6
+!
+! Yellow
+*.color3:      #f4d03f
+*.color11:     #fde68a
+!
+! Blue
+*.color4:      #6366f1
+*.color12:     #7c9cff
+!
+! Magenta
+*.color5:      #a78bfa
+*.color13:     #e9d5ff
+!
+! Cyan
+*.color6:      #c4b5fd
+*.color14:     #cbd5e1
+!
+! White
+*.color7:      #f8f6ed
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #a855f7
+!*.colorIT:
+!*.colorUL:

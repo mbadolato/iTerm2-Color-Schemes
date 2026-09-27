@@ -1,0 +1,40 @@
+(
+    name: "Blueprint",
+    foreground: "#0f172a",
+    cursor: "#ff5a1f",
+    bright_foreground: "#0f172a",
+    dim_foreground: "#0f172a",
+
+    normal: (
+        black: "#0f172a",
+        red: "#dc2626",
+        green: "#16a34a",
+        yellow: "#d97706",
+        blue: "#2563eb",
+        magenta: "#7c3aed",
+        cyan: "#0891b2",
+        white: "#94a3b8"
+    ),
+
+    bright: (
+        black: "#475569",
+        red: "#ef4444",
+        green: "#22c55e",
+        yellow: "#f59e0b",
+        blue: "#3b82f6",
+        magenta: "#a855f7",
+        cyan: "#06b6d4",
+        white: "#1e293b"
+    ),
+
+    dim: (
+        black: "#0f172a",
+        red: "#dc2626",
+        green: "#16a34a",
+        yellow: "#d97706",
+        blue: "#2563eb",
+        magenta: "#7c3aed",
+        cyan: "#0891b2",
+        white: "#94a3b8"
+    ),
+)

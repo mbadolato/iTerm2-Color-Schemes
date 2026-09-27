@@ -1,0 +1,43 @@
+!
+! Prince of Darkness
+!
+*.foreground:  #dcd3ff
+*.background:  #0a0714
+*.cursorColor: #b47dff
+!
+! Black
+*.color0:      #2d1b4e
+*.color8:      #676175
+!
+! Red
+*.color1:      #6a2bbd
+*.color9:      #a139e6
+!
+! Green
+*.color2:      #c43dff
+*.color10:     #ff6bd6
+!
+! Yellow
+*.color3:      #3ec7ff
+*.color11:     #7ae6ff
+!
+! Blue
+*.color4:      #7a63ff
+*.color12:     #9bb4ff
+!
+! Magenta
+*.color5:      #ff4edb
+*.color13:     #e384ff
+!
+! Cyan
+*.color6:      #5cc8ff
+*.color14:     #7ae6ff
+!
+! White
+*.color7:      #c5a7ff
+*.color15:     #f2e6ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #8b5cf6
+!*.colorIT:
+!*.colorUL:

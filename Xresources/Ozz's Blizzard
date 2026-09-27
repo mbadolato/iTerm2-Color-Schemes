@@ -1,0 +1,43 @@
+!
+! Ozz's Blizzard
+!
+*.foreground:  #3f6289
+*.background:  #0a0f1a
+*.cursorColor: #8b8b4c
+!
+! Black
+*.color0:      #263244
+*.color8:      #5c6b7f
+!
+! Red
+*.color1:      #e76f6f
+*.color9:      #f87171
+!
+! Green
+*.color2:      #2a9d8f
+*.color10:     #34d399
+!
+! Yellow
+*.color3:      #8b8b4c
+*.color11:     #ffcf24
+!
+! Blue
+*.color4:      #4cc9f0
+*.color12:     #38bdff
+!
+! Magenta
+*.color5:      #7b51ff
+*.color13:     #a78bfa
+!
+! Cyan
+*.color6:      #ff7ab6
+*.color14:     #22d3ee
+!
+! White
+*.color7:      #f7f7fa
+*.color15:     #f7f7fa
+!
+! Bold, Italic, Underline
+*.colorBD:     #6f8fd9
+!*.colorIT:
+!*.colorUL:

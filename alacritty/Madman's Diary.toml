@@ -1,0 +1,33 @@
+# Colors (Madman's Diary)
+
+[colors.bright]
+black = '#5a3a2e'
+blue = '#60a5fa'
+cyan = '#22d3ee'
+green = '#34d399'
+magenta = '#c084fc'
+red = '#fb7185'
+white = '#fff7e6'
+yellow = '#fde047'
+
+[colors.cursor]
+cursor = '#ff3e3e'
+text = '#3a1b15'
+
+[colors.normal]
+black = '#3b1919'
+blue = '#fbbf24'
+cyan = '#ef4444'
+green = '#d25944'
+magenta = '#a855f7'
+red = '#8b1e3e'
+white = '#f472b6'
+yellow = '#59ae08'
+
+[colors.primary]
+background = '#1a0e17'
+foreground = '#f4e7d7'
+
+[colors.selection]
+background = '#ff6633'
+text = '#ffeb83'

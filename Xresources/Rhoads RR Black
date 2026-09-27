@@ -1,0 +1,43 @@
+!
+! Rhoads RR Black
+!
+*.foreground:  #f4ecd7
+*.background:  #0a0907
+*.cursorColor: #d4af37
+!
+! Black
+*.color0:      #1c1a16
+*.color8:      #5a5750
+!
+! Red
+*.color1:      #c81e1e
+*.color9:      #ef6b6b
+!
+! Green
+*.color2:      #2e7d32
+*.color10:     #8fdc82
+!
+! Yellow
+*.color3:      #d4af37
+*.color11:     #f5df8a
+!
+! Blue
+*.color4:      #3b82f6
+*.color12:     #73a7f2
+!
+! Magenta
+*.color5:      #a855f7
+*.color13:     #c49af2
+!
+! Cyan
+*.color6:      #06b6d4
+*.color14:     #77d9e5
+!
+! White
+*.color7:      #e5e1cc
+*.color15:     #fffaf0
+!
+! Bold, Italic, Underline
+*.colorBD:     #d4af37
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,43 @@
+!
+! Emberglass
+!
+*.foreground:  #e6e7eb
+*.background:  #0b0e11
+*.cursorColor: #f59e0b
+!
+! Black
+*.color0:      #2a2f36
+*.color8:      #64748b
+!
+! Red
+*.color1:      #f97316
+*.color9:      #fb923c
+!
+! Green
+*.color2:      #22c55e
+*.color10:     #86efac
+!
+! Yellow
+*.color3:      #eab308
+*.color11:     #facc15
+!
+! Blue
+*.color4:      #38bdf8
+*.color12:     #7dd3fc
+!
+! Magenta
+*.color5:      #a855f7
+*.color13:     #c084fc
+!
+! Cyan
+*.color6:      #14b8a6
+*.color14:     #67e8f9
+!
+! White
+*.color7:      #cbd5e1
+*.color15:     #f1f5f9
+!
+! Bold, Italic, Underline
+*.colorBD:     #a3a4a6
+!*.colorIT:
+!*.colorUL:

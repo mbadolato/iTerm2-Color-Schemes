@@ -1,0 +1,40 @@
+(
+    name: "Deep Current",
+    foreground: "#e2e8f0",
+    cursor: "#00c5ff",
+    bright_foreground: "#e2e8f0",
+    dim_foreground: "#1f2a44",
+
+    normal: (
+        black: "#1f2a44",
+        red: "#ff4d6d",
+        green: "#22c55e",
+        yellow: "#f59e0b",
+        blue: "#3b82f6",
+        magenta: "#d946ef",
+        cyan: "#06d6a0",
+        white: "#94a3b8"
+    ),
+
+    bright: (
+        black: "#475569",
+        red: "#ff7b9c",
+        green: "#86efac",
+        yellow: "#fcd34d",
+        blue: "#60a5fa",
+        magenta: "#e879f9",
+        cyan: "#2dd4bf",
+        white: "#f8fafc"
+    ),
+
+    dim: (
+        black: "#1f2a44",
+        red: "#ff4d6d",
+        green: "#22c55e",
+        yellow: "#f59e0b",
+        blue: "#3b82f6",
+        magenta: "#d946ef",
+        cyan: "#06d6a0",
+        white: "#94a3b8"
+    ),
+)

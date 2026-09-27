@@ -1,0 +1,33 @@
+# Colors (Rhoads RR Black)
+
+[colors.bright]
+black = '#5a5750'
+blue = '#73a7f2'
+cyan = '#77d9e5'
+green = '#8fdc82'
+magenta = '#c49af2'
+red = '#ef6b6b'
+white = '#fffaf0'
+yellow = '#f5df8a'
+
+[colors.cursor]
+cursor = '#d4af37'
+text = '#1f1b12'
+
+[colors.normal]
+black = '#1c1a16'
+blue = '#3b82f6'
+cyan = '#06b6d4'
+green = '#2e7d32'
+magenta = '#a855f7'
+red = '#c81e1e'
+white = '#e5e1cc'
+yellow = '#d4af37'
+
+[colors.primary]
+background = '#0a0907'
+foreground = '#f4ecd7'
+
+[colors.selection]
+background = '#5a4512'
+text = '#e6d7a5'

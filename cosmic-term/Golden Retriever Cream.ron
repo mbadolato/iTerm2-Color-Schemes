@@ -1,0 +1,40 @@
+(
+    name: "Golden Retriever Cream",
+    foreground: "#3a2f24",
+    cursor: "#c1945a",
+    bright_foreground: "#3a2f24",
+    dim_foreground: "#6f5b47",
+
+    normal: (
+        black: "#6f5b47",
+        red: "#df6a5b",
+        green: "#70ad72",
+        yellow: "#d79b32",
+        blue: "#5b8fd9",
+        magenta: "#c77dbb",
+        cyan: "#4fbfb3",
+        white: "#a89b8c"
+    ),
+
+    bright: (
+        black: "#c3b6a6",
+        red: "#e86f7a",
+        green: "#78c98a",
+        yellow: "#e2ac42",
+        blue: "#69a8ea",
+        magenta: "#e2a8d9",
+        cyan: "#61cabb",
+        white: "#ede3d4"
+    ),
+
+    dim: (
+        black: "#6f5b47",
+        red: "#df6a5b",
+        green: "#70ad72",
+        yellow: "#d79b32",
+        blue: "#5b8fd9",
+        magenta: "#c77dbb",
+        cyan: "#4fbfb3",
+        white: "#a89b8c"
+    ),
+)

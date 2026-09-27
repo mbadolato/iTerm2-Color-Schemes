@@ -1,0 +1,43 @@
+!
+! EVH FrankenTone
+!
+*.foreground:  #e10600
+*.background:  #0a0a0a
+*.cursorColor: #ffd400
+!
+! Black
+*.color0:      #151515
+*.color8:      #474747
+!
+! Red
+*.color1:      #e10600
+*.color9:      #ff5555
+!
+! Green
+*.color2:      #8fbd32
+*.color10:     #b8e986
+!
+! Yellow
+*.color3:      #ffd400
+*.color11:     #ffe066
+!
+! Blue
+*.color4:      #2b82ff
+*.color12:     #66b3ff
+!
+! Magenta
+*.color5:      #ff2d6d
+*.color13:     #ff8fb1
+!
+! Cyan
+*.color6:      #20bde5
+*.color14:     #22d3ee
+!
+! White
+*.color7:      #f4f4f4
+*.color15:     #f7f7f7
+!
+! Bold, Italic, Underline
+*.colorBD:     #f4f4f4
+!*.colorIT:
+!*.colorUL:

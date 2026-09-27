@@ -1,0 +1,43 @@
+!
+! Nightfall
+!
+*.foreground:  #f6e8d0
+*.background:  #1a140e
+*.cursorColor: #d4a85c
+!
+! Black
+*.color0:      #3a2f24
+*.color8:      #5b4a3a
+!
+! Red
+*.color1:      #e87555
+*.color9:      #f28b6b
+!
+! Green
+*.color2:      #83b96f
+*.color10:     #a8d07d
+!
+! Yellow
+*.color3:      #e8ad3f
+*.color11:     #ffd166
+!
+! Blue
+*.color4:      #5f9ed8
+*.color12:     #79b5e8
+!
+! Magenta
+*.color5:      #bd6fae
+*.color13:     #eba1d9
+!
+! Cyan
+*.color6:      #4dbeb1
+*.color14:     #66d0c4
+!
+! White
+*.color7:      #d9c09a
+*.color15:     #fff2d6
+!
+! Bold, Italic, Underline
+*.colorBD:     #d8ad7a
+!*.colorIT:
+!*.colorUL:

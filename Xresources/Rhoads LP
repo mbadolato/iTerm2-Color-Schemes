@@ -1,0 +1,43 @@
+!
+! Rhoads LP
+!
+*.foreground:  #2b2618
+*.background:  #fdf7e8
+*.cursorColor: #d4b34f
+!
+! Black
+*.color0:      #3b3525
+*.color8:      #8a8474
+!
+! Red
+*.color1:      #c5423a
+*.color9:      #e66f67
+!
+! Green
+*.color2:      #5f8f4f
+*.color10:     #91bd79
+!
+! Yellow
+*.color3:      #d6b852
+*.color11:     #ceb352
+!
+! Blue
+*.color4:      #5b7fd6
+*.color12:     #86a5e8
+!
+! Magenta
+*.color5:      #a678d6
+*.color13:     #c39be8
+!
+! Cyan
+*.color6:      #46c5c3
+*.color14:     #68bfbb
+!
+! White
+*.color7:      #c2bcb0
+*.color15:     #fffef9
+!
+! Bold, Italic, Underline
+*.colorBD:     #c9a646
+!*.colorIT:
+!*.colorUL:

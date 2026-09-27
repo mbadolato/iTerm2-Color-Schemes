@@ -1,0 +1,12 @@
+# CRT Afterglow
+[colors]
+foreground = "#d0d8c8"
+background = "#0b0f0b"
+cursor_bg = "#f4d35e"
+cursor_border = "#f4d35e"
+cursor_fg = "#0b0f0b"
+selection_bg = "#2a3a2a"
+selection_fg = "#d0d8c8"
+
+ansi = ["#203020","#ff5f56","#50fa7b","#f1fa8c","#8be9fd","#bd93f9","#5af78e","#95a99b"]
+brights = ["#4a5d4a","#ff8a80","#8aff9d","#fff59d","#b3f1ff","#dda0ff","#8affd8","#f5f7ef"]

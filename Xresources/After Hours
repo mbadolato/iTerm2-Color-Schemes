@@ -1,0 +1,43 @@
+!
+! After Hours
+!
+*.foreground:  #e6e1d9
+*.background:  #0f0b0a
+*.cursorColor: #d4af37
+!
+! Black
+*.color0:      #2a1f1a
+*.color8:      #6b5b4f
+!
+! Red
+*.color1:      #ff6b6b
+*.color9:      #ff8b8b
+!
+! Green
+*.color2:      #4ade80
+*.color10:     #86efac
+!
+! Yellow
+*.color3:      #f59e0b
+*.color11:     #fbbf24
+!
+! Blue
+*.color4:      #60a5fa
+*.color12:     #93c5fd
+!
+! Magenta
+*.color5:      #c084fc
+*.color13:     #d8b4fe
+!
+! Cyan
+*.color6:      #2dd4bf
+*.color14:     #5eead4
+!
+! White
+*.color7:      #cbb89f
+*.color15:     #fdfaf6
+!
+! Bold, Italic, Underline
+*.colorBD:     #2c2522
+!*.colorIT:
+!*.colorUL:

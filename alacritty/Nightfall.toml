@@ -1,0 +1,33 @@
+# Colors (Nightfall)
+
+[colors.bright]
+black = '#5b4a3a'
+blue = '#79b5e8'
+cyan = '#66d0c4'
+green = '#a8d07d'
+magenta = '#eba1d9'
+red = '#f28b6b'
+white = '#fff2d6'
+yellow = '#ffd166'
+
+[colors.cursor]
+cursor = '#d4a85c'
+text = '#1a140e'
+
+[colors.normal]
+black = '#3a2f24'
+blue = '#5f9ed8'
+cyan = '#4dbeb1'
+green = '#83b96f'
+magenta = '#bd6fae'
+red = '#e87555'
+white = '#d9c09a'
+yellow = '#e8ad3f'
+
+[colors.primary]
+background = '#1a140e'
+foreground = '#f6e8d0'
+
+[colors.selection]
+background = '#3b2a1a'
+text = '#f6e8d0'

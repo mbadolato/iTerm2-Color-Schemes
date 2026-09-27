@@ -1,0 +1,12 @@
+# Emberglass
+[colors]
+foreground = "#e6e7eb"
+background = "#0b0e11"
+cursor_bg = "#f59e0b"
+cursor_border = "#f59e0b"
+cursor_fg = "#0b0e11"
+selection_bg = "#4b5563"
+selection_fg = "#e8e7e3"
+
+ansi = ["#2a2f36","#f97316","#22c55e","#eab308","#38bdf8","#a855f7","#14b8a6","#cbd5e1"]
+brights = ["#64748b","#fb923c","#86efac","#facc15","#7dd3fc","#c084fc","#67e8f9","#f1f5f9"]

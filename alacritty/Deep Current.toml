@@ -1,0 +1,33 @@
+# Colors (Deep Current)
+
+[colors.bright]
+black = '#475569'
+blue = '#60a5fa'
+cyan = '#2dd4bf'
+green = '#86efac'
+magenta = '#e879f9'
+red = '#ff7b9c'
+white = '#f8fafc'
+yellow = '#fcd34d'
+
+[colors.cursor]
+cursor = '#00c5ff'
+text = '#08121f'
+
+[colors.normal]
+black = '#1f2a44'
+blue = '#3b82f6'
+cyan = '#06d6a0'
+green = '#22c55e'
+magenta = '#d946ef'
+red = '#ff4d6d'
+white = '#94a3b8'
+yellow = '#f59e0b'
+
+[colors.primary]
+background = '#08121f'
+foreground = '#e2e8f0'
+
+[colors.selection]
+background = '#334155'
+text = '#e2e8f0'

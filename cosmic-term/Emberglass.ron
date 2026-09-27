@@ -1,0 +1,40 @@
+(
+    name: "Emberglass",
+    foreground: "#e6e7eb",
+    cursor: "#f59e0b",
+    bright_foreground: "#e6e7eb",
+    dim_foreground: "#2a2f36",
+
+    normal: (
+        black: "#2a2f36",
+        red: "#f97316",
+        green: "#22c55e",
+        yellow: "#eab308",
+        blue: "#38bdf8",
+        magenta: "#a855f7",
+        cyan: "#14b8a6",
+        white: "#cbd5e1"
+    ),
+
+    bright: (
+        black: "#64748b",
+        red: "#fb923c",
+        green: "#86efac",
+        yellow: "#facc15",
+        blue: "#7dd3fc",
+        magenta: "#c084fc",
+        cyan: "#67e8f9",
+        white: "#f1f5f9"
+    ),
+
+    dim: (
+        black: "#2a2f36",
+        red: "#f97316",
+        green: "#22c55e",
+        yellow: "#eab308",
+        blue: "#38bdf8",
+        magenta: "#a855f7",
+        cyan: "#14b8a6",
+        white: "#cbd5e1"
+    ),
+)

@@ -1,0 +1,40 @@
+(
+    name: "Rhoads LP",
+    foreground: "#2b2618",
+    cursor: "#d4b34f",
+    bright_foreground: "#2b2618",
+    dim_foreground: "#3b3525",
+
+    normal: (
+        black: "#3b3525",
+        red: "#c5423a",
+        green: "#5f8f4f",
+        yellow: "#d6b852",
+        blue: "#5b7fd6",
+        magenta: "#a678d6",
+        cyan: "#46c5c3",
+        white: "#c2bcb0"
+    ),
+
+    bright: (
+        black: "#8a8474",
+        red: "#e66f67",
+        green: "#91bd79",
+        yellow: "#ceb352",
+        blue: "#86a5e8",
+        magenta: "#c39be8",
+        cyan: "#68bfbb",
+        white: "#fffef9"
+    ),
+
+    dim: (
+        black: "#3b3525",
+        red: "#c5423a",
+        green: "#5f8f4f",
+        yellow: "#d6b852",
+        blue: "#5b7fd6",
+        magenta: "#a678d6",
+        cyan: "#46c5c3",
+        white: "#c2bcb0"
+    ),
+)

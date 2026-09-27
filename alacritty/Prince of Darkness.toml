@@ -1,0 +1,33 @@
+# Colors (Prince of Darkness)
+
+[colors.bright]
+black = '#676175'
+blue = '#9bb4ff'
+cyan = '#7ae6ff'
+green = '#ff6bd6'
+magenta = '#e384ff'
+red = '#a139e6'
+white = '#f2e6ff'
+yellow = '#7ae6ff'
+
+[colors.cursor]
+cursor = '#b47dff'
+text = '#0a0714'
+
+[colors.normal]
+black = '#2d1b4e'
+blue = '#7a63ff'
+cyan = '#5cc8ff'
+green = '#c43dff'
+magenta = '#ff4edb'
+red = '#6a2bbd'
+white = '#c5a7ff'
+yellow = '#3ec7ff'
+
+[colors.primary]
+background = '#0a0714'
+foreground = '#dcd3ff'
+
+[colors.selection]
+background = '#43206b'
+text = '#f2e6ff'

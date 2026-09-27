@@ -1,0 +1,40 @@
+(
+    name: "Ember",
+    foreground: "#f3e3d1",
+    cursor: "#d17a3c",
+    bright_foreground: "#f3e3d1",
+    dim_foreground: "#40261b",
+
+    normal: (
+        black: "#40261b",
+        red: "#e4573f",
+        green: "#79ad58",
+        yellow: "#d99a33",
+        blue: "#6196e6",
+        magenta: "#d077b3",
+        cyan: "#4ac3b1",
+        white: "#d7b995"
+    ),
+
+    bright: (
+        black: "#6a4a38",
+        red: "#ff7b5e",
+        green: "#a8c976",
+        yellow: "#ffc15a",
+        blue: "#8bb8f2",
+        magenta: "#e59ad6",
+        cyan: "#66d9c4",
+        white: "#ffe8c7"
+    ),
+
+    dim: (
+        black: "#40261b",
+        red: "#e4573f",
+        green: "#79ad58",
+        yellow: "#d99a33",
+        blue: "#6196e6",
+        magenta: "#d077b3",
+        cyan: "#4ac3b1",
+        white: "#d7b995"
+    ),
+)

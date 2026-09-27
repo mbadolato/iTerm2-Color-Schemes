@@ -1,0 +1,40 @@
+(
+    name: "Madman's Diary",
+    foreground: "#f4e7d7",
+    cursor: "#ff3e3e",
+    bright_foreground: "#f4e7d7",
+    dim_foreground: "#3b1919",
+
+    normal: (
+        black: "#3b1919",
+        red: "#8b1e3e",
+        green: "#d25944",
+        yellow: "#59ae08",
+        blue: "#fbbf24",
+        magenta: "#a855f7",
+        cyan: "#ef4444",
+        white: "#f472b6"
+    ),
+
+    bright: (
+        black: "#5a3a2e",
+        red: "#fb7185",
+        green: "#34d399",
+        yellow: "#fde047",
+        blue: "#60a5fa",
+        magenta: "#c084fc",
+        cyan: "#22d3ee",
+        white: "#fff7e6"
+    ),
+
+    dim: (
+        black: "#3b1919",
+        red: "#8b1e3e",
+        green: "#d25944",
+        yellow: "#59ae08",
+        blue: "#fbbf24",
+        magenta: "#a855f7",
+        cyan: "#ef4444",
+        white: "#f472b6"
+    ),
+)

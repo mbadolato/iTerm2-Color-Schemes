@@ -1,0 +1,12 @@
+# Prince of Darkness
+[colors]
+foreground = "#dcd3ff"
+background = "#0a0714"
+cursor_bg = "#b47dff"
+cursor_border = "#b47dff"
+cursor_fg = "#0a0714"
+selection_bg = "#43206b"
+selection_fg = "#f2e6ff"
+
+ansi = ["#2d1b4e","#6a2bbd","#c43dff","#3ec7ff","#7a63ff","#ff4edb","#5cc8ff","#c5a7ff"]
+brights = ["#676175","#a139e6","#ff6bd6","#7ae6ff","#9bb4ff","#e384ff","#7ae6ff","#f2e6ff"]

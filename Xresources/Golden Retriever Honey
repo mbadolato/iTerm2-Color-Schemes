@@ -1,0 +1,43 @@
+!
+! Golden Retriever Honey
+!
+*.foreground:  #5b4630
+*.background:  #fdf6e7
+*.cursorColor: #d4a24c
+!
+! Black
+*.color0:      #6b4a2f
+*.color8:      #805e3b
+!
+! Red
+*.color1:      #d35400
+*.color9:      #f1734f
+!
+! Green
+*.color2:      #8ba83e
+*.color10:     #9abc5d
+!
+! Yellow
+*.color3:      #d4b24c
+*.color11:     #d9ba4f
+!
+! Blue
+*.color4:      #4a8fbd
+*.color12:     #6eb9f5
+!
+! Magenta
+*.color5:      #a86bd8
+*.color13:     #c28ae6
+!
+! Cyan
+*.color6:      #5fb7a7
+*.color14:     #56c9b5
+!
+! White
+*.color7:      #c2baac
+*.color15:     #f4e4c9
+!
+! Bold, Italic, Underline
+*.colorBD:     #9a7140
+!*.colorIT:
+!*.colorUL:

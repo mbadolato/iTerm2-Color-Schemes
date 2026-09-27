@@ -1,0 +1,43 @@
+!
+! Golden Retriever Cream
+!
+*.foreground:  #3a2f24
+*.background:  #faf7f2
+*.cursorColor: #c1945a
+!
+! Black
+*.color0:      #6f5b47
+*.color8:      #c3b6a6
+!
+! Red
+*.color1:      #df6a5b
+*.color9:      #e86f7a
+!
+! Green
+*.color2:      #70ad72
+*.color10:     #78c98a
+!
+! Yellow
+*.color3:      #d79b32
+*.color11:     #e2ac42
+!
+! Blue
+*.color4:      #5b8fd9
+*.color12:     #69a8ea
+!
+! Magenta
+*.color5:      #c77dbb
+*.color13:     #e2a8d9
+!
+! Cyan
+*.color6:      #4fbfb3
+*.color14:     #61cabb
+!
+! White
+*.color7:      #a89b8c
+*.color15:     #ede3d4
+!
+! Bold, Italic, Underline
+*.colorBD:     #8a735d
+!*.colorIT:
+!*.colorUL:

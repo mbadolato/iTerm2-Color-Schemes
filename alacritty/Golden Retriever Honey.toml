@@ -1,0 +1,33 @@
+# Colors (Golden Retriever Honey)
+
+[colors.bright]
+black = '#805e3b'
+blue = '#6eb9f5'
+cyan = '#56c9b5'
+green = '#9abc5d'
+magenta = '#c28ae6'
+red = '#f1734f'
+white = '#f4e4c9'
+yellow = '#d9ba4f'
+
+[colors.cursor]
+cursor = '#d4a24c'
+text = '#5b4630'
+
+[colors.normal]
+black = '#6b4a2f'
+blue = '#4a8fbd'
+cyan = '#5fb7a7'
+green = '#8ba83e'
+magenta = '#a86bd8'
+red = '#d35400'
+white = '#c2baac'
+yellow = '#d4b24c'
+
+[colors.primary]
+background = '#fdf6e7'
+foreground = '#5b4630'
+
+[colors.selection]
+background = '#c6a477'
+text = '#4b3826'

@@ -1,0 +1,43 @@
+!
+! High Desert Snow
+!
+*.foreground:  #1f2937
+*.background:  #f9fafb
+*.cursorColor: #d97706
+!
+! Black
+*.color0:      #1f2937
+*.color8:      #64748b
+!
+! Red
+*.color1:      #dc2626
+*.color9:      #ef4444
+!
+! Green
+*.color2:      #16a34a
+*.color10:     #22c55e
+!
+! Yellow
+*.color3:      #ca8a04
+*.color11:     #eab308
+!
+! Blue
+*.color4:      #2563eb
+*.color12:     #3b82f6
+!
+! Magenta
+*.color5:      #9333ea
+*.color13:     #c084fc
+!
+! Cyan
+*.color6:      #0891b2
+*.color14:     #06b6d4
+!
+! White
+*.color7:      #475569
+*.color15:     #1f2937
+!
+! Bold, Italic, Underline
+*.colorBD:     #e5e7eb
+!*.colorIT:
+!*.colorUL:

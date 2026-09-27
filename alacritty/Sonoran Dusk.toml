@@ -1,0 +1,33 @@
+# Colors (Sonoran Dusk)
+
+[colors.bright]
+black = '#6b7280'
+blue = '#7ec8f8'
+cyan = '#52e6d6'
+green = '#a6e3a1'
+magenta = '#d48cff'
+red = '#ff8a65'
+white = '#fff1d6'
+yellow = '#ffd166'
+
+[colors.cursor]
+cursor = '#f4a261'
+text = '#1a0f24'
+
+[colors.normal]
+black = '#2d2433'
+blue = '#5dade2'
+cyan = '#2dd4bf'
+green = '#8abf7f'
+magenta = '#c678dd'
+red = '#e76f51'
+white = '#e8e2d1'
+yellow = '#e9c46a'
+
+[colors.primary]
+background = '#1a0f24'
+foreground = '#e8e1d9'
+
+[colors.selection]
+background = '#3a2a45'
+text = '#e8e1d9'

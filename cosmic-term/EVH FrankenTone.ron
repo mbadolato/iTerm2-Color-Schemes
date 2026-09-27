@@ -1,0 +1,40 @@
+(
+    name: "EVH FrankenTone",
+    foreground: "#e10600",
+    cursor: "#ffd400",
+    bright_foreground: "#e10600",
+    dim_foreground: "#151515",
+
+    normal: (
+        black: "#151515",
+        red: "#e10600",
+        green: "#8fbd32",
+        yellow: "#ffd400",
+        blue: "#2b82ff",
+        magenta: "#ff2d6d",
+        cyan: "#20bde5",
+        white: "#f4f4f4"
+    ),
+
+    bright: (
+        black: "#474747",
+        red: "#ff5555",
+        green: "#b8e986",
+        yellow: "#ffe066",
+        blue: "#66b3ff",
+        magenta: "#ff8fb1",
+        cyan: "#22d3ee",
+        white: "#f7f7f7"
+    ),
+
+    dim: (
+        black: "#151515",
+        red: "#e10600",
+        green: "#8fbd32",
+        yellow: "#ffd400",
+        blue: "#2b82ff",
+        magenta: "#ff2d6d",
+        cyan: "#20bde5",
+        white: "#f4f4f4"
+    ),
+)

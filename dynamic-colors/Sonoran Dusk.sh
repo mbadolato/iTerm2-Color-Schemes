@@ -1,0 +1,7 @@
+#!/bin/sh
+# Sonoran Dusk
+printf "\033]4;0;#2d2433;1;#e76f51;2;#8abf7f;3;#e9c46a;4;#5dade2;5;#c678dd;6;#2dd4bf;7;#e8e2d1;8;#6b7280;9;#ff8a65;10;#a6e3a1;11;#ffd166;12;#7ec8f8;13;#d48cff;14;#52e6d6;15;#fff1d6\007"
+printf "\033]10;#e8e1d9;#1a0f24;#f4a261\007"
+printf "\033]17;#3a2a45\007"
+printf "\033]19;#e8e1d9\007"
+printf "\033]5;0;#c9b6a4\007"

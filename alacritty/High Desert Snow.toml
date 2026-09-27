@@ -1,0 +1,33 @@
+# Colors (High Desert Snow)
+
+[colors.bright]
+black = '#64748b'
+blue = '#3b82f6'
+cyan = '#06b6d4'
+green = '#22c55e'
+magenta = '#c084fc'
+red = '#ef4444'
+white = '#1f2937'
+yellow = '#eab308'
+
+[colors.cursor]
+cursor = '#d97706'
+text = '#f3f4f6'
+
+[colors.normal]
+black = '#1f2937'
+blue = '#2563eb'
+cyan = '#0891b2'
+green = '#16a34a'
+magenta = '#9333ea'
+red = '#dc2626'
+white = '#475569'
+yellow = '#ca8a04'
+
+[colors.primary]
+background = '#f9fafb'
+foreground = '#1f2937'
+
+[colors.selection]
+background = '#cbd5e1'
+text = '#1f2937'

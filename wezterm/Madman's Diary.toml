@@ -1,0 +1,12 @@
+# Madman's Diary
+[colors]
+foreground = "#f4e7d7"
+background = "#1a0e17"
+cursor_bg = "#ff3e3e"
+cursor_border = "#ff3e3e"
+cursor_fg = "#3a1b15"
+selection_bg = "#ff6633"
+selection_fg = "#ffeb83"
+
+ansi = ["#3b1919","#8b1e3e","#d25944","#59ae08","#fbbf24","#a855f7","#ef4444","#f472b6"]
+brights = ["#5a3a2e","#fb7185","#34d399","#fde047","#60a5fa","#c084fc","#22d3ee","#fff7e6"]

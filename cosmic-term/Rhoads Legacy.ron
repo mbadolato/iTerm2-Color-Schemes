@@ -1,0 +1,40 @@
+(
+    name: "Rhoads Legacy",
+    foreground: "#c4b5fd",
+    cursor: "#f4d03f",
+    bright_foreground: "#c4b5fd",
+    dim_foreground: "#18111f",
+
+    normal: (
+        black: "#18111f",
+        red: "#7c3aed",
+        green: "#d946ef",
+        yellow: "#f4d03f",
+        blue: "#6366f1",
+        magenta: "#a78bfa",
+        cyan: "#c4b5fd",
+        white: "#f8f6ed"
+    ),
+
+    bright: (
+        black: "#4b3f72",
+        red: "#d946ef",
+        green: "#f472b6",
+        yellow: "#fde68a",
+        blue: "#7c9cff",
+        magenta: "#e9d5ff",
+        cyan: "#cbd5e1",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#18111f",
+        red: "#7c3aed",
+        green: "#d946ef",
+        yellow: "#f4d03f",
+        blue: "#6366f1",
+        magenta: "#a78bfa",
+        cyan: "#c4b5fd",
+        white: "#f8f6ed"
+    ),
+)

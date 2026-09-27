@@ -1,0 +1,33 @@
+# Colors (Blueprint)
+
+[colors.bright]
+black = '#475569'
+blue = '#3b82f6'
+cyan = '#06b6d4'
+green = '#22c55e'
+magenta = '#a855f7'
+red = '#ef4444'
+white = '#1e293b'
+yellow = '#f59e0b'
+
+[colors.cursor]
+cursor = '#ff5a1f'
+text = '#f1f5f9'
+
+[colors.normal]
+black = '#0f172a'
+blue = '#2563eb'
+cyan = '#0891b2'
+green = '#16a34a'
+magenta = '#7c3aed'
+red = '#dc2626'
+white = '#94a3b8'
+yellow = '#d97706'
+
+[colors.primary]
+background = '#f8fafc'
+foreground = '#0f172a'
+
+[colors.selection]
+background = '#cbd5e1'
+text = '#0f172a'

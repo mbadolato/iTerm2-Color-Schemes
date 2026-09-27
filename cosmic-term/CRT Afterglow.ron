@@ -1,0 +1,40 @@
+(
+    name: "CRT Afterglow",
+    foreground: "#d0d8c8",
+    cursor: "#f4d35e",
+    bright_foreground: "#d0d8c8",
+    dim_foreground: "#203020",
+
+    normal: (
+        black: "#203020",
+        red: "#ff5f56",
+        green: "#50fa7b",
+        yellow: "#f1fa8c",
+        blue: "#8be9fd",
+        magenta: "#bd93f9",
+        cyan: "#5af78e",
+        white: "#95a99b"
+    ),
+
+    bright: (
+        black: "#4a5d4a",
+        red: "#ff8a80",
+        green: "#8aff9d",
+        yellow: "#fff59d",
+        blue: "#b3f1ff",
+        magenta: "#dda0ff",
+        cyan: "#8affd8",
+        white: "#f5f7ef"
+    ),
+
+    dim: (
+        black: "#203020",
+        red: "#ff5f56",
+        green: "#50fa7b",
+        yellow: "#f1fa8c",
+        blue: "#8be9fd",
+        magenta: "#bd93f9",
+        cyan: "#5af78e",
+        white: "#95a99b"
+    ),
+)

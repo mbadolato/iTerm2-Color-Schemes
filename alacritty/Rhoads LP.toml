@@ -1,0 +1,33 @@
+# Colors (Rhoads LP)
+
+[colors.bright]
+black = '#8a8474'
+blue = '#86a5e8'
+cyan = '#68bfbb'
+green = '#91bd79'
+magenta = '#c39be8'
+red = '#e66f67'
+white = '#fffef9'
+yellow = '#ceb352'
+
+[colors.cursor]
+cursor = '#d4b34f'
+text = '#fffaf0'
+
+[colors.normal]
+black = '#3b3525'
+blue = '#5b7fd6'
+cyan = '#46c5c3'
+green = '#5f8f4f'
+magenta = '#a678d6'
+red = '#c5423a'
+white = '#c2bcb0'
+yellow = '#d6b852'
+
+[colors.primary]
+background = '#fdf7e8'
+foreground = '#2b2618'
+
+[colors.selection]
+background = '#e0c878'
+text = '#80651f'

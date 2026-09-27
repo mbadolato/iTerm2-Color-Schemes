@@ -1,0 +1,40 @@
+(
+    name: "Golden Retriever Honey",
+    foreground: "#5b4630",
+    cursor: "#d4a24c",
+    bright_foreground: "#5b4630",
+    dim_foreground: "#6b4a2f",
+
+    normal: (
+        black: "#6b4a2f",
+        red: "#d35400",
+        green: "#8ba83e",
+        yellow: "#d4b24c",
+        blue: "#4a8fbd",
+        magenta: "#a86bd8",
+        cyan: "#5fb7a7",
+        white: "#c2baac"
+    ),
+
+    bright: (
+        black: "#805e3b",
+        red: "#f1734f",
+        green: "#9abc5d",
+        yellow: "#d9ba4f",
+        blue: "#6eb9f5",
+        magenta: "#c28ae6",
+        cyan: "#56c9b5",
+        white: "#f4e4c9"
+    ),
+
+    dim: (
+        black: "#6b4a2f",
+        red: "#d35400",
+        green: "#8ba83e",
+        yellow: "#d4b24c",
+        blue: "#4a8fbd",
+        magenta: "#a86bd8",
+        cyan: "#5fb7a7",
+        white: "#c2baac"
+    ),
+)

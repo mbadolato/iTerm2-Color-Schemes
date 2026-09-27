@@ -1,0 +1,43 @@
+!
+! Madman's Diary
+!
+*.foreground:  #f4e7d7
+*.background:  #1a0e17
+*.cursorColor: #ff3e3e
+!
+! Black
+*.color0:      #3b1919
+*.color8:      #5a3a2e
+!
+! Red
+*.color1:      #8b1e3e
+*.color9:      #fb7185
+!
+! Green
+*.color2:      #d25944
+*.color10:     #34d399
+!
+! Yellow
+*.color3:      #59ae08
+*.color11:     #fde047
+!
+! Blue
+*.color4:      #fbbf24
+*.color12:     #60a5fa
+!
+! Magenta
+*.color5:      #a855f7
+*.color13:     #c084fc
+!
+! Cyan
+*.color6:      #ef4444
+*.color14:     #22d3ee
+!
+! White
+*.color7:      #f472b6
+*.color15:     #fff7e6
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffcc00
+!*.colorIT:
+!*.colorUL:

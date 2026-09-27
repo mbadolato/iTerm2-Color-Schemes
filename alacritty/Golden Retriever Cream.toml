@@ -1,0 +1,33 @@
+# Colors (Golden Retriever Cream)
+
+[colors.bright]
+black = '#c3b6a6'
+blue = '#69a8ea'
+cyan = '#61cabb'
+green = '#78c98a'
+magenta = '#e2a8d9'
+red = '#e86f7a'
+white = '#ede3d4'
+yellow = '#e2ac42'
+
+[colors.cursor]
+cursor = '#c1945a'
+text = '#f1f1e5'
+
+[colors.normal]
+black = '#6f5b47'
+blue = '#5b8fd9'
+cyan = '#4fbfb3'
+green = '#70ad72'
+magenta = '#c77dbb'
+red = '#df6a5b'
+white = '#a89b8c'
+yellow = '#d79b32'
+
+[colors.primary]
+background = '#faf7f2'
+foreground = '#3a2f24'
+
+[colors.selection]
+background = '#e8d9c4'
+text = '#3a2f24'

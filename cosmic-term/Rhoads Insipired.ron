@@ -1,0 +1,40 @@
+(
+    name: "Rhoads Insipired",
+    foreground: "#f5f5f0",
+    cursor: "#a855f7",
+    bright_foreground: "#f5f5f0",
+    dim_foreground: "#161616",
+
+    normal: (
+        black: "#161616",
+        red: "#e85d5d",
+        green: "#b7d96c",
+        yellow: "#f5a623",
+        blue: "#5aa9e6",
+        magenta: "#b66de8",
+        cyan: "#50c8c6",
+        white: "#e8e8e3"
+    ),
+
+    bright: (
+        black: "#555555",
+        red: "#ff7474",
+        green: "#d4ef91",
+        yellow: "#ffd166",
+        blue: "#85c7f2",
+        magenta: "#d69bf4",
+        cyan: "#7be0dc",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#161616",
+        red: "#e85d5d",
+        green: "#b7d96c",
+        yellow: "#f5a623",
+        blue: "#5aa9e6",
+        magenta: "#b66de8",
+        cyan: "#50c8c6",
+        white: "#e8e8e3"
+    ),
+)
