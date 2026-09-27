@@ -1,0 +1,12 @@
+# Arizona Monsoon
+[colors]
+foreground = "#e6e8ed"
+background = "#0a0f14"
+cursor_bg = "#f4d06f"
+cursor_border = "#f4d06f"
+cursor_fg = "#0a0f14"
+selection_bg = "#334155"
+selection_fg = "#e6e8ed"
+
+ansi = ["#1f2937","#e35d4a","#7cc46b","#e6b441","#5b9dff","#c678dd","#2dd4bf","#e8e2d1"]
+brights = ["#4b5563","#ff7b6b","#98d98e","#ffd166","#7dbfff","#d48cff","#52e0cf","#f7ead1"]

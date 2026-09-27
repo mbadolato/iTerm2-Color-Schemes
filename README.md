@@ -296,6 +296,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/argonaut.png)
 
+### Arizona Monsoon
+
+![Screenshot](/screenshots/arizona-monsoon.png)
+
 ### Arthur
 
 ![Screenshot](/screenshots/arthur.png)

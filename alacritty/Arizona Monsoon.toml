@@ -1,0 +1,33 @@
+# Colors (Arizona Monsoon)
+
+[colors.bright]
+black = '#4b5563'
+blue = '#7dbfff'
+cyan = '#52e0cf'
+green = '#98d98e'
+magenta = '#d48cff'
+red = '#ff7b6b'
+white = '#f7ead1'
+yellow = '#ffd166'
+
+[colors.cursor]
+cursor = '#f4d06f'
+text = '#0a0f14'
+
+[colors.normal]
+black = '#1f2937'
+blue = '#5b9dff'
+cyan = '#2dd4bf'
+green = '#7cc46b'
+magenta = '#c678dd'
+red = '#e35d4a'
+white = '#e8e2d1'
+yellow = '#e6b441'
+
+[colors.primary]
+background = '#0a0f14'
+foreground = '#e6e8ed'
+
+[colors.selection]
+background = '#334155'
+text = '#e6e8ed'

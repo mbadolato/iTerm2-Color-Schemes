@@ -1,0 +1,40 @@
+(
+    name: "Arizona Monsoon",
+    foreground: "#e6e8ed",
+    cursor: "#f4d06f",
+    bright_foreground: "#e6e8ed",
+    dim_foreground: "#1f2937",
+
+    normal: (
+        black: "#1f2937",
+        red: "#e35d4a",
+        green: "#7cc46b",
+        yellow: "#e6b441",
+        blue: "#5b9dff",
+        magenta: "#c678dd",
+        cyan: "#2dd4bf",
+        white: "#e8e2d1"
+    ),
+
+    bright: (
+        black: "#4b5563",
+        red: "#ff7b6b",
+        green: "#98d98e",
+        yellow: "#ffd166",
+        blue: "#7dbfff",
+        magenta: "#d48cff",
+        cyan: "#52e0cf",
+        white: "#f7ead1"
+    ),
+
+    dim: (
+        black: "#1f2937",
+        red: "#e35d4a",
+        green: "#7cc46b",
+        yellow: "#e6b441",
+        blue: "#5b9dff",
+        magenta: "#c678dd",
+        cyan: "#2dd4bf",
+        white: "#e8e2d1"
+    ),
+)

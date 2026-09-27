@@ -1,0 +1,43 @@
+!
+! Arizona Monsoon
+!
+*.foreground:  #e6e8ed
+*.background:  #0a0f14
+*.cursorColor: #f4d06f
+!
+! Black
+*.color0:      #1f2937
+*.color8:      #4b5563
+!
+! Red
+*.color1:      #e35d4a
+*.color9:      #ff7b6b
+!
+! Green
+*.color2:      #7cc46b
+*.color10:     #98d98e
+!
+! Yellow
+*.color3:      #e6b441
+*.color11:     #ffd166
+!
+! Blue
+*.color4:      #5b9dff
+*.color12:     #7dbfff
+!
+! Magenta
+*.color5:      #c678dd
+*.color13:     #d48cff
+!
+! Cyan
+*.color6:      #2dd4bf
+*.color14:     #52e0cf
+!
+! White
+*.color7:      #e8e2d1
+*.color15:     #f7ead1
+!
+! Bold, Italic, Underline
+*.colorBD:     #cbd5e1
+!*.colorIT:
+!*.colorUL:
