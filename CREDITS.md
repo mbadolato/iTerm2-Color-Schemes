@@ -609,3 +609,4 @@ The Arizona Monsoon theme was created by Mark Badolato.
 The After Hours theme was created by Mark Badolato.
 The Blueprint theme was created by Mark Badolato.
 The CRT Afterglow theme was created by Mark Badolato.
+The Deep Current theme was created by Mark Badolato.
