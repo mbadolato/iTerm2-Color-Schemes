@@ -604,4 +604,5 @@ The RadicalReborn theme was created by [AquaOctet](https://github.com/AquaOctet/
 
 The Charcoal theme was created by [Vyom Jain](https://github.com/VyomJain6904). A deep-black grayscale theme (also available for bat and OpenCode at [charcoal-theme](https://github.com/VyomJain6904/charcoal-theme)).
 
+The Sonoran Dusk theme was created by Mark Badolato.
 The Arizona Monsoon theme was created by Mark Badolato.
