@@ -624,3 +624,4 @@ The Rhoads Legacy theme was created by Mark Badolato.
 The Rhoads Insipired theme was created by Mark Badolato.
 The Rhoads Concord theme was created by Mark Badolato.
 The Rhoads RR Black theme was created by Mark Badolato.
+The Rhoads LP theme was created by Mark Badolato.
