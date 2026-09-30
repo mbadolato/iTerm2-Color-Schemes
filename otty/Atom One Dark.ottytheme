@@ -1,0 +1,17 @@
+[meta]
+name = "Atom One Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#abb2bf"
+background = "#21252b"
+palette = [
+    "#21252b", "#e06c75", "#98c379", "#e5c07b",
+    "#61afef", "#c678dd", "#56b6c2", "#abb2bf",
+    "#767676", "#e06c75", "#98c379", "#e5c07b",
+    "#61afef", "#c678dd", "#56b6c2", "#abb2bf",
+]
+cursor = "#abb2bf"
+cursor-text = "#21252b"
+selection-background = "#323844"
+selection-foreground = "#abb2bf"

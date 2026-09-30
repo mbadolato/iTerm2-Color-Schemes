@@ -1,0 +1,17 @@
+[meta]
+name = "Blue Dolphin"
+mode = "dark"
+
+[terminal]
+foreground = "#c5f2ff"
+background = "#006984"
+palette = [
+    "#292d3e", "#ff8288", "#b4e88d", "#f4d69f",
+    "#82aaff", "#e9c1ff", "#89ebff", "#d0d0d0",
+    "#9094a4", "#ff8b92", "#ddffa7", "#ffe585",
+    "#9cc4ff", "#ddb0f6", "#a3f7ff", "#ffffff",
+]
+cursor = "#ffcc00"
+cursor-text = "#292d3e"
+selection-background = "#2baeca"
+selection-foreground = "#eceff1"

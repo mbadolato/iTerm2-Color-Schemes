@@ -1,0 +1,17 @@
+[meta]
+name = "Forge Ember"
+mode = "dark"
+
+[terminal]
+foreground = "#f4e2c8"
+background = "#140c07"
+palette = [
+    "#241810", "#ff4733", "#c4c24a", "#ffb347",
+    "#f0a24f", "#ff6a4d", "#ffd27a", "#e6d2b6",
+    "#7a6248", "#ff4733", "#c4c24a", "#ff7a2d",
+    "#f0a24f", "#ff6a4d", "#ffd27a", "#f4e2c8",
+]
+cursor = "#ff6a1f"
+cursor-text = "#140c07"
+selection-background = "#33220f"
+selection-foreground = "#544c47"

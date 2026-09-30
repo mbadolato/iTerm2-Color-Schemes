@@ -1,0 +1,17 @@
+[meta]
+name = "Sunset Drive"
+mode = "dark"
+
+[terminal]
+foreground = "#ededfe"
+background = "#0f0f1a"
+palette = [
+    "#0a0a13", "#ff0063", "#00f992", "#ffe900",
+    "#00a4ff", "#ff57fd", "#00ffed", "#ededff",
+    "#3e3e4b", "#ff948b", "#00fcb9", "#ffff68",
+    "#3ea0ff", "#ff93ff", "#38ffff", "#f8f8ff",
+]
+cursor = "#ededfe"
+cursor-text = "#0f0f1a"
+selection-background = "#202036"
+selection-foreground = "#ededff"

@@ -1,0 +1,17 @@
+[meta]
+name = "Overnight Slumber"
+mode = "dark"
+
+[terminal]
+foreground = "#ced2d6"
+background = "#0e1729"
+palette = [
+    "#0a1222", "#ffa7c4", "#85cc95", "#ffcb8b",
+    "#8dabe1", "#c792eb", "#78ccf0", "#ffffff",
+    "#575656", "#ffa7c4", "#85cc95", "#ffcb8b",
+    "#8dabe1", "#c792eb", "#ffa7c4", "#ffffff",
+]
+cursor = "#ffa7c4"
+cursor-text = "#ffffff"
+selection-background = "#1f2b41"
+selection-foreground = "#ced2d6"

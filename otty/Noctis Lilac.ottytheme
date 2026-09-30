@@ -1,0 +1,18 @@
+[meta]
+name = "Noctis Lilac"
+mode = "light"
+author = "Liviu Schera (https://github.com/liviuschera), ported by Abel Dantas (https://github.com/abeldantas)"
+
+[terminal]
+foreground = "#0c006b"
+background = "#f2f1f8"
+palette = [
+    "#0c006b", "#e34e1c", "#00b368", "#f49725",
+    "#0094f0", "#ff5792", "#00bdd6", "#8ca6a6",
+    "#0f0080", "#ff4000", "#00d17a", "#ff8c00",
+    "#0fa3ff", "#ff6b9f", "#00cbe6", "#bbc3c4",
+]
+cursor = "#0c006b"
+cursor-text = "#f2f1f8"
+selection-background = "#d5d3e5"
+selection-foreground = "#0c006b"

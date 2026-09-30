@@ -1,0 +1,17 @@
+[meta]
+name = "Novel"
+mode = "light"
+
+[terminal]
+foreground = "#3b2322"
+background = "#dfdbc3"
+palette = [
+    "#000000", "#cc0000", "#009600", "#d06b00",
+    "#0000cc", "#cc00cc", "#0087cc", "#a6a6a6",
+    "#808080", "#cc0000", "#009600", "#d06b00",
+    "#0000cc", "#cc00cc", "#0087cc", "#ffffff",
+]
+cursor = "#73635a"
+cursor-text = "#000000"
+selection-background = "#a4a390"
+selection-foreground = "#000000"

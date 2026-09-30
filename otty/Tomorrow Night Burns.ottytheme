@@ -1,0 +1,17 @@
+[meta]
+name = "Tomorrow Night Burns"
+mode = "dark"
+
+[terminal]
+foreground = "#a1b0b8"
+background = "#151515"
+palette = [
+    "#252525", "#832e31", "#a63c40", "#d3494e",
+    "#fc595f", "#df9395", "#ba8586", "#f5f5f5",
+    "#5d6f71", "#832e31", "#a63c40", "#d2494e",
+    "#fc595f", "#df9395", "#ba8586", "#f5f5f5",
+]
+cursor = "#ff443e"
+cursor-text = "#b0c2c4"
+selection-background = "#b0bec5"
+selection-foreground = "#2a2d32"

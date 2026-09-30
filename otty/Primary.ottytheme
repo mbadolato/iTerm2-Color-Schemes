@@ -1,0 +1,17 @@
+[meta]
+name = "Primary"
+mode = "light"
+
+[terminal]
+foreground = "#000000"
+background = "#ffffff"
+palette = [
+    "#000000", "#db4437", "#0f9d58", "#f4b400",
+    "#4285f4", "#db4437", "#4285f4", "#bfbfbf",
+    "#000000", "#db4437", "#0f9d58", "#f4b400",
+    "#4285f4", "#4285f4", "#0f9d58", "#ffffff",
+]
+cursor = "#000000"
+cursor-text = "#ffffff"
+selection-background = "#656565"
+selection-foreground = "#eeeeee"

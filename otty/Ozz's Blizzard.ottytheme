@@ -1,0 +1,17 @@
+[meta]
+name = "Ozz's Blizzard"
+mode = "dark"
+
+[terminal]
+foreground = "#3f6289"
+background = "#0a0f1a"
+palette = [
+    "#263244", "#e76f6f", "#2a9d8f", "#8b8b4c",
+    "#4cc9f0", "#7b51ff", "#ff7ab6", "#f7f7fa",
+    "#5c6b7f", "#f87171", "#34d399", "#ffcf24",
+    "#38bdff", "#a78bfa", "#22d3ee", "#f7f7fa",
+]
+cursor = "#8b8b4c"
+cursor-text = "#4cc9f0"
+selection-background = "#e76f6f"
+selection-foreground = "#6addcf"

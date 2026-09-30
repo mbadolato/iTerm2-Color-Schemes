@@ -1,0 +1,18 @@
+[meta]
+name = "IBM 5153 CGA (Black)"
+mode = "dark"
+author = "(https://jmiller.com/)"
+
+[terminal]
+foreground = "#c4c4c4"
+background = "#000000"
+palette = [
+    "#000000", "#c40000", "#00c400", "#c47e00",
+    "#0000c4", "#c400c4", "#00c4c4", "#c4c4c4",
+    "#4e4e4e", "#dc4e4e", "#4edc4e", "#f3f34e",
+    "#4e4edc", "#f34ef3", "#4ef3f3", "#ffffff",
+]
+cursor = "#c4c4c4"
+cursor-text = "#000000"
+selection-background = "#c4c4c4"
+selection-foreground = "#000000"

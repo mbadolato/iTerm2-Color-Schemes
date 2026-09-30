@@ -1,0 +1,17 @@
+[meta]
+name = "Grass"
+mode = "dark"
+
+[terminal]
+foreground = "#fff0a5"
+background = "#13773d"
+palette = [
+    "#000000", "#ff5959", "#00bb00", "#e7b000",
+    "#0000a3", "#ee59bb", "#00bbbb", "#bbbbbb",
+    "#959595", "#ff5959", "#00bb00", "#e7b000",
+    "#0000bb", "#ff55ff", "#55ffff", "#ffffff",
+]
+cursor = "#d9744c"
+cursor-text = "#ffffff"
+selection-background = "#b64926"
+selection-foreground = "#ffffff"

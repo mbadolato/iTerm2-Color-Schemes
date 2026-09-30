@@ -1,0 +1,17 @@
+[meta]
+name = "Purple Rain"
+mode = "dark"
+
+[terminal]
+foreground = "#fffbf6"
+background = "#21084a"
+palette = [
+    "#000000", "#ff260e", "#9be205", "#ffc400",
+    "#00a2fa", "#815bb5", "#00deef", "#ffffff",
+    "#565656", "#ff4250", "#b8e36e", "#ffd852",
+    "#00a6ff", "#ac7bf0", "#74fdf3", "#ffffff",
+]
+cursor = "#ff271d"
+cursor-text = "#ff9a90"
+selection-background = "#287691"
+selection-foreground = "#ffffff"

@@ -1,0 +1,17 @@
+[meta]
+name = "Whimsy"
+mode = "dark"
+
+[terminal]
+foreground = "#b3b0d6"
+background = "#29283b"
+palette = [
+    "#535178", "#ef6487", "#5eca89", "#fdd877",
+    "#65aef7", "#aa7ff0", "#43c1be", "#ffffff",
+    "#535178", "#ef6487", "#5eca89", "#fdd877",
+    "#65aef7", "#aa7ff0", "#43c1be", "#ffffff",
+]
+cursor = "#b3b0d6"
+cursor-text = "#535178"
+selection-background = "#3d3c58"
+selection-foreground = "#ffffff"

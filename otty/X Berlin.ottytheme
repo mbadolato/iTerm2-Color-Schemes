@@ -1,0 +1,17 @@
+[meta]
+name = "X Berlin"
+mode = "dark"
+
+[terminal]
+foreground = "#cccccc"
+background = "#000000"
+palette = [
+    "#000000", "#999999", "#bbbbbb", "#dddddd",
+    "#888888", "#aaaaaa", "#cccccc", "#ffffff",
+    "#404040", "#bbbbbb", "#dddddd", "#ffffff",
+    "#aaaaaa", "#cccccc", "#eeeeee", "#ffffff",
+]
+cursor = "#cccccc"
+cursor-text = "#000000"
+selection-background = "#cccccc"
+selection-foreground = "#000000"

@@ -1,0 +1,17 @@
+[meta]
+name = "Builtin Light"
+mode = "light"
+
+[terminal]
+foreground = "#000000"
+background = "#ffffff"
+palette = [
+    "#000000", "#bb0000", "#00bb00", "#bbbb00",
+    "#0000bb", "#bb00bb", "#00bbbb", "#bbbbbb",
+    "#555555", "#ff5555", "#2fd92f", "#bfbf15",
+    "#5555ff", "#ff55ff", "#22cccc", "#ffffff",
+]
+cursor = "#000000"
+cursor-text = "#ffffff"
+selection-background = "#b5d5ff"
+selection-foreground = "#000000"

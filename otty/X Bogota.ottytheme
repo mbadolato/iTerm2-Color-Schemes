@@ -1,0 +1,17 @@
+[meta]
+name = "X Bogota"
+mode = "dark"
+
+[terminal]
+foreground = "#f7f1ff"
+background = "#200b0a"
+palette = [
+    "#200b0a", "#fc618d", "#7bd88f", "#ffed89",
+    "#47e6ff", "#ff9999", "#47e6ff", "#f7f1ff",
+    "#525053", "#fc618d", "#7bd88f", "#ffed89",
+    "#47e6ff", "#ff9999", "#47e6ff", "#f7f1ff",
+]
+cursor = "#f7f1ff"
+cursor-text = "#200b0a"
+selection-background = "#f7f1ff"
+selection-foreground = "#200b0a"

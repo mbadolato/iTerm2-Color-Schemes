@@ -1,0 +1,17 @@
+[meta]
+name = "Cobalt2"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#132738"
+palette = [
+    "#000000", "#ff0000", "#38de21", "#ffe50a",
+    "#1460d2", "#ff005d", "#00bbbb", "#bbbbbb",
+    "#555555", "#f40e17", "#3bd01d", "#edc809",
+    "#5555ff", "#ff55ff", "#6ae3fa", "#ffffff",
+]
+cursor = "#f0cc09"
+cursor-text = "#98998c"
+selection-background = "#18354f"
+selection-foreground = "#b5b5b5"

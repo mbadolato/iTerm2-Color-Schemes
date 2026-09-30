@@ -1,0 +1,17 @@
+[meta]
+name = "Matcha Zen"
+mode = "light"
+
+[terminal]
+foreground = "#354029"
+background = "#f5f7ea"
+palette = [
+    "#354029", "#c2452a", "#4e8c2e", "#927000",
+    "#2e7c78", "#7e5ba6", "#2a8585", "#56664a",
+    "#97a887", "#c2452a", "#4e8c2e", "#b05a1e",
+    "#2e7c78", "#7e5ba6", "#2a8585", "#354029",
+]
+cursor = "#4e8c2e"
+cursor-text = "#f5f7ea"
+selection-background = "#dde7cc"
+selection-foreground = "#a8aa9d"

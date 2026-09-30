@@ -1,0 +1,17 @@
+[meta]
+name = "Sandstone Classic"
+mode = "light"
+
+[terminal]
+foreground = "#3d5259"
+background = "#fdf6e3"
+palette = [
+    "#073642", "#cf2522", "#5d7b00", "#865e00",
+    "#0d6eb2", "#c42a78", "#037a71", "#6e6855",
+    "#3d5259", "#c04010", "#5e7171", "#5b7070",
+    "#5c6f6f", "#5f64b7", "#5f6e6e", "#fdf6e3",
+]
+cursor = "#3d5259"
+cursor-text = "#fdf6e3"
+selection-background = "#e4dcc8"
+selection-foreground = "#a49d8a"

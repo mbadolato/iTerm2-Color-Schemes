@@ -1,0 +1,18 @@
+[meta]
+name = "Pierre Light"
+mode = "light"
+author = "Pierre (https://diffs.com/theme)"
+
+[terminal]
+foreground = "#070707"
+background = "#ffffff"
+palette = [
+    "#1f1f21", "#d52c36", "#1d8138", "#ac8816",
+    "#216cab", "#a631be", "#2182a1", "#79797f",
+    "#8e8e95", "#ff2e3f", "#0dbe4e", "#d5a910",
+    "#009fff", "#c635e4", "#08c0ef", "#dbdbdd",
+]
+cursor = "#009fff"
+cursor-text = "#ffffff"
+selection-background = "#dfebff"
+selection-foreground = "#070707"

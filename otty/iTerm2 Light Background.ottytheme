@@ -1,0 +1,17 @@
+[meta]
+name = "iTerm2 Light Background"
+mode = "light"
+
+[terminal]
+foreground = "#000000"
+background = "#ffffff"
+palette = [
+    "#000000", "#c91b00", "#00c200", "#c7c400",
+    "#0225c7", "#ca30c7", "#00c5c7", "#bababa",
+    "#686868", "#ff6e67", "#39d442", "#ccc934",
+    "#6871ff", "#ff77ff", "#3ad7d9", "#ffffff",
+]
+cursor = "#000000"
+cursor-text = "#ffffff"
+selection-background = "#c1deff"
+selection-foreground = "#000000"

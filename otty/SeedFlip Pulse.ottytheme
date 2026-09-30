@@ -1,0 +1,17 @@
+[meta]
+name = "SeedFlip Pulse"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#121212"
+palette = [
+    "#0d0d0d", "#e34f4f", "#4fe380", "#e3cb4f",
+    "#4f8de3", "#e34fe3", "#4fe3e3", "#ffffff",
+    "#454545", "#ee9191", "#91eeb0", "#eede91",
+    "#91b8ee", "#ee91ee", "#91eeee", "#ffffff",
+]
+cursor = "#1db954"
+cursor-text = "#121212"
+selection-background = "#1a1a1a"
+selection-foreground = "#ffffff"

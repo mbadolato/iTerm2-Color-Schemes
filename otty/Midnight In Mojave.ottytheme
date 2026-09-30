@@ -1,0 +1,17 @@
+[meta]
+name = "Midnight In Mojave"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#1e1e1e"
+palette = [
+    "#1e1e1e", "#ff453a", "#32d74b", "#ffd60a",
+    "#0a84ff", "#bf5af2", "#5ac8fa", "#ffffff",
+    "#515151", "#ff453a", "#32d74b", "#ffd60a",
+    "#0a84ff", "#bf5af2", "#5ac8fa", "#ffffff",
+]
+cursor = "#32d74b"
+cursor-text = "#1c1c1c"
+selection-background = "#4a504d"
+selection-foreground = "#ffffff"

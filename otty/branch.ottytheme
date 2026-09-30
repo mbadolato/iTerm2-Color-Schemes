@@ -1,0 +1,17 @@
+[meta]
+name = "branch"
+mode = "dark"
+
+[terminal]
+foreground = "#cfc1a9"
+background = "#32221a"
+palette = [
+    "#35241c", "#c2562d", "#96a65e", "#d29b5a",
+    "#3b8e8c", "#c47e5b", "#639a90", "#cfc1a9",
+    "#564a45", "#c2562d", "#96a65e", "#d29b5a",
+    "#3b8e8c", "#c47e5b", "#639a90", "#cfc1a9",
+]
+cursor = "#cfc1a9"
+cursor-text = "#32221a"
+selection-background = "#cfc1a9"
+selection-foreground = "#32221a"

@@ -1,0 +1,17 @@
+[meta]
+name = "Prince of Darkness"
+mode = "dark"
+
+[terminal]
+foreground = "#dcd3ff"
+background = "#0a0714"
+palette = [
+    "#2d1b4e", "#6a2bbd", "#c43dff", "#3ec7ff",
+    "#7a63ff", "#ff4edb", "#5cc8ff", "#c5a7ff",
+    "#676175", "#a139e6", "#ff6bd6", "#7ae6ff",
+    "#9bb4ff", "#e384ff", "#7ae6ff", "#f2e6ff",
+]
+cursor = "#b47dff"
+cursor-text = "#0a0714"
+selection-background = "#43206b"
+selection-foreground = "#f2e6ff"

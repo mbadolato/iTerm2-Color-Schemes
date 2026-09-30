@@ -1,0 +1,18 @@
+[meta]
+name = "Midnight Arcade"
+mode = "dark"
+author = "theebest.com (https://www.theebest.com)"
+
+[terminal]
+foreground = "#f8fafc"
+background = "#0b1220"
+palette = [
+    "#3f4550", "#fb7185", "#22c55e", "#fbbf24",
+    "#60a5fa", "#e879f9", "#22d3ee", "#b6c2d5",
+    "#3d4452", "#fc8d9d", "#4ed17e", "#fccb4b",
+    "#80b7fb", "#ed94fa", "#4edcf1", "#f8fafc",
+]
+cursor = "#f8fafc"
+cursor-text = "#0b1220"
+selection-background = "#f8fafc"
+selection-foreground = "#0b1220"

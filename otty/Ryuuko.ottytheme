@@ -1,0 +1,17 @@
+[meta]
+name = "Ryuuko"
+mode = "dark"
+
+[terminal]
+foreground = "#ececec"
+background = "#2c3941"
+palette = [
+    "#2c3941", "#865f5b", "#66907d", "#b1a990",
+    "#6a8e95", "#b18a73", "#88b2ac", "#ececec",
+    "#5d7079", "#865f5b", "#66907d", "#b1a990",
+    "#6a8e95", "#b18a73", "#88b2ac", "#ececec",
+]
+cursor = "#ececec"
+cursor-text = "#002831"
+selection-background = "#002831"
+selection-foreground = "#819090"

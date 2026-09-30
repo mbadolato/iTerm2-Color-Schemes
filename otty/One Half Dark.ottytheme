@@ -1,0 +1,17 @@
+[meta]
+name = "One Half Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#dcdfe4"
+background = "#282c34"
+palette = [
+    "#282c34", "#e06c75", "#98c379", "#e5c07b",
+    "#61afef", "#c678dd", "#56b6c2", "#dcdfe4",
+    "#5d677a", "#e06c75", "#98c379", "#e5c07b",
+    "#61afef", "#c678dd", "#56b6c2", "#dcdfe4",
+]
+cursor = "#a3b3cc"
+cursor-text = "#e9ecf1"
+selection-background = "#474e5d"
+selection-foreground = "#dcdfe4"

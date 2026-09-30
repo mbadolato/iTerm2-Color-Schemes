@@ -1,0 +1,18 @@
+[meta]
+name = "Noctis Minimus"
+mode = "dark"
+author = "Liviu Schera (https://github.com/liviuschera), ported by Abel Dantas (https://github.com/abeldantas)"
+
+[terminal]
+foreground = "#c5cdd3"
+background = "#1b2932"
+palette = [
+    "#182a35", "#c08872", "#72c09f", "#c8a984",
+    "#6196b8", "#c28097", "#72b7c0", "#c5cdd3",
+    "#425866", "#ca8468", "#84c8ab", "#d1aa7b",
+    "#68a4ca", "#c88da2", "#84c0c8", "#c5d1d3",
+]
+cursor = "#c5cdd3"
+cursor-text = "#1b2932"
+selection-background = "#263c4a"
+selection-foreground = "#c5cdd3"

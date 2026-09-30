@@ -1,0 +1,17 @@
+[meta]
+name = "Emberglass"
+mode = "dark"
+
+[terminal]
+foreground = "#e6e7eb"
+background = "#0b0e11"
+palette = [
+    "#2a2f36", "#f97316", "#22c55e", "#eab308",
+    "#38bdf8", "#a855f7", "#14b8a6", "#cbd5e1",
+    "#64748b", "#fb923c", "#86efac", "#facc15",
+    "#7dd3fc", "#c084fc", "#67e8f9", "#f1f5f9",
+]
+cursor = "#f59e0b"
+cursor-text = "#0b0e11"
+selection-background = "#4b5563"
+selection-foreground = "#e8e7e3"

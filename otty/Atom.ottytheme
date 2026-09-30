@@ -1,0 +1,17 @@
+[meta]
+name = "Atom"
+mode = "dark"
+
+[terminal]
+foreground = "#c5c8c6"
+background = "#161719"
+palette = [
+    "#000000", "#fd5ff1", "#87c38a", "#ffd7b1",
+    "#85befd", "#b9b6fc", "#85befd", "#e0e0e0",
+    "#4c4c4c", "#fd5ff1", "#94fa36", "#f5ffa8",
+    "#96cbfe", "#b9b6fc", "#85befd", "#e0e0e0",
+]
+cursor = "#d0d0d0"
+cursor-text = "#151515"
+selection-background = "#444444"
+selection-foreground = "#c5c8c6"

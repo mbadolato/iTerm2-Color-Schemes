@@ -1,0 +1,17 @@
+[meta]
+name = "After Hours"
+mode = "dark"
+
+[terminal]
+foreground = "#e6e1d9"
+background = "#0f0b0a"
+palette = [
+    "#2a1f1a", "#ff6b6b", "#4ade80", "#f59e0b",
+    "#60a5fa", "#c084fc", "#2dd4bf", "#cbb89f",
+    "#6b5b4f", "#ff8b8b", "#86efac", "#fbbf24",
+    "#93c5fd", "#d8b4fe", "#5eead4", "#fdfaf6",
+]
+cursor = "#d4af37"
+cursor-text = "#0f0b0a"
+selection-background = "#3d2f27"
+selection-foreground = "#e6e1d9"

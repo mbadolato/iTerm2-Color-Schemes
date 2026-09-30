@@ -1,0 +1,18 @@
+[meta]
+name = "Catppuccin Macchiato"
+mode = "dark"
+author = "catppuccin-macchiato"
+
+[terminal]
+foreground = "#cad3f5"
+background = "#24273a"
+palette = [
+    "#494d64", "#ed8796", "#a6da95", "#eed49f",
+    "#8aadf4", "#f5bde6", "#8bd5ca", "#b8c0e0",
+    "#5b6078", "#f2a7b2", "#bde3b0", "#f4e3c1",
+    "#adc5f7", "#f493da", "#a5ded6", "#a5adcb",
+]
+cursor = "#f4dbd6"
+cursor-text = "#24273a"
+selection-background = "#f4dbd6"
+selection-foreground = "#24273a"

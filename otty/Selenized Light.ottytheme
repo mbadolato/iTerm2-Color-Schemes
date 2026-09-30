@@ -1,0 +1,17 @@
+[meta]
+name = "Selenized Light"
+mode = "light"
+
+[terminal]
+foreground = "#53676d"
+background = "#fbf3db"
+palette = [
+    "#ece3cc", "#d2212d", "#489100", "#ad8900",
+    "#0072d4", "#ca4898", "#009c8f", "#53676d",
+    "#909995", "#cc1729", "#428b00", "#a78300",
+    "#006dce", "#c44392", "#00978a", "#3a4d53",
+]
+cursor = "#53676d"
+cursor-text = "#fbf3db"
+selection-background = "#ece3cc"
+selection-foreground = "#00978a"

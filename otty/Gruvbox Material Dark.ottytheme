@@ -1,0 +1,17 @@
+[meta]
+name = "Gruvbox Material Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#d4be98"
+background = "#282828"
+palette = [
+    "#282828", "#ea6962", "#a9b665", "#d8a657",
+    "#7daea3", "#d3869b", "#89b482", "#d4be98",
+    "#7c6f64", "#ea6962", "#a9b665", "#d8a657",
+    "#7daea3", "#d3869b", "#89b482", "#ddc7a1",
+]
+cursor = "#d4be98"
+cursor-text = "#282828"
+selection-background = "#d4be98"
+selection-foreground = "#282828"

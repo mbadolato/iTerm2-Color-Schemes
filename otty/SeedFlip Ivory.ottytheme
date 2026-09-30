@@ -1,0 +1,17 @@
+[meta]
+name = "SeedFlip Ivory"
+mode = "light"
+
+[terminal]
+foreground = "#0a2540"
+background = "#ffffff"
+palette = [
+    "#d9d9d9", "#bd0f0f", "#0fbd49", "#bda00f",
+    "#0f58bd", "#bd0fbd", "#0fbdbd", "#07182a",
+    "#b3b3b3", "#ee2b2b", "#12d452", "#e1c01e",
+    "#2b7cee", "#ee2bee", "#12d4d4", "#0a2540",
+]
+cursor = "#635bff"
+cursor-text = "#0a2540"
+selection-background = "#f6f9fc"
+selection-foreground = "#0a2540"

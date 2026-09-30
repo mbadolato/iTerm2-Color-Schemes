@@ -1,0 +1,17 @@
+[meta]
+name = "Xcode WWDC"
+mode = "dark"
+
+[terminal]
+foreground = "#e7e8eb"
+background = "#292c36"
+palette = [
+    "#494d5c", "#bb383a", "#94c66e", "#d28e5d",
+    "#8884c5", "#b73999", "#00aba4", "#e7e8eb",
+    "#7f869e", "#bb383a", "#94c66e", "#d28e5d",
+    "#8884c5", "#b73999", "#00aba4", "#e7e8eb",
+]
+cursor = "#e7e8eb"
+cursor-text = "#292c36"
+selection-background = "#494d5c"
+selection-foreground = "#e7e8eb"

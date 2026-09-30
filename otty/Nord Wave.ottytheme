@@ -1,0 +1,17 @@
+[meta]
+name = "Nord Wave"
+mode = "dark"
+
+[terminal]
+foreground = "#d8dee9"
+background = "#212121"
+palette = [
+    "#3b4252", "#bf616a", "#a3be8c", "#ebcb8b",
+    "#81a1c1", "#b48ead", "#88c0d0", "#e5e9f0",
+    "#4c566a", "#bf616a", "#a3be8c", "#ebcb8b",
+    "#81a1c1", "#b48ead", "#8fbcbb", "#eceff4",
+]
+cursor = "#ebcb8b"
+cursor-text = "#b89858"
+selection-background = "#d8dee9"
+selection-foreground = "#212121"

@@ -1,0 +1,17 @@
+[meta]
+name = "Karma Dark HC"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#000000"
+palette = [
+    "#000000", "#ff5c87", "#80e598", "#fce566",
+    "#61dceb", "#b9a3ee", "#61dceb", "#d6d2db",
+    "#69676c", "#ff8aab", "#a3e9b1", "#fff080",
+    "#87e5f1", "#cab6f4", "#87e5f1", "#ffffff",
+]
+cursor = "#fce566"
+cursor-text = "#000000"
+selection-background = "#4d4a5e"
+selection-foreground = "#ffffff"

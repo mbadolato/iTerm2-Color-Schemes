@@ -1,0 +1,17 @@
+[meta]
+name = "Terminal Basic"
+mode = "light"
+
+[terminal]
+foreground = "#000000"
+background = "#ffffff"
+palette = [
+    "#000000", "#990000", "#00a600", "#999900",
+    "#0000b2", "#b200b2", "#00a6b2", "#bfbfbf",
+    "#666666", "#e50000", "#00d900", "#bfbf00",
+    "#0000ff", "#e500e5", "#00d8d8", "#e5e5e5",
+]
+cursor = "#7f7f7f"
+cursor-text = "#000000"
+selection-background = "#a4c9ff"
+selection-foreground = "#000000"

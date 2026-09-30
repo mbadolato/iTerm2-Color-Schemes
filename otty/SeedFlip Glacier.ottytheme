@@ -1,0 +1,17 @@
+[meta]
+name = "SeedFlip Glacier"
+mode = "light"
+
+[terminal]
+foreground = "#0f172a"
+background = "#f8fafc"
+palette = [
+    "#c2d4e5", "#bd0f0f", "#0fbd49", "#bda00f",
+    "#0f58bd", "#bd0fbd", "#0fbdbd", "#080d17",
+    "#8dadce", "#ee2b2b", "#12d452", "#d4b312",
+    "#2b7cee", "#ee2bee", "#12d4d4", "#0f172a",
+]
+cursor = "#0ea5e9"
+cursor-text = "#0f172a"
+selection-background = "#ffffff"
+selection-foreground = "#0f172a"

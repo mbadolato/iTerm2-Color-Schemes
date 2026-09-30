@@ -1,0 +1,17 @@
+[meta]
+name = "Retro"
+mode = "dark"
+
+[terminal]
+foreground = "#13a10e"
+background = "#000000"
+palette = [
+    "#13a10e", "#13a10e", "#13a10e", "#13a10e",
+    "#13a10e", "#13a10e", "#13a10e", "#13a10e",
+    "#16ba10", "#16ba10", "#16ba10", "#16ba10",
+    "#16ba10", "#16ba10", "#16ba10", "#16ba10",
+]
+cursor = "#13a10e"
+cursor-text = "#000000"
+selection-background = "#ffffff"
+selection-foreground = "#000000"

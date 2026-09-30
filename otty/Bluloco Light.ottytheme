@@ -1,0 +1,17 @@
+[meta]
+name = "Bluloco Light"
+mode = "light"
+
+[terminal]
+foreground = "#373a41"
+background = "#f9f9f9"
+palette = [
+    "#373a41", "#d52753", "#23974a", "#df631c",
+    "#275fe4", "#823ff1", "#27618d", "#babbc2",
+    "#676a77", "#ff6480", "#3cbc66", "#c5a332",
+    "#0099e1", "#ce33c0", "#6d93bb", "#d3d3d3",
+]
+cursor = "#f32759"
+cursor-text = "#ffffff"
+selection-background = "#daf0ff"
+selection-foreground = "#373a41"

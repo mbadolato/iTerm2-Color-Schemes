@@ -1,0 +1,17 @@
+[meta]
+name = "Mesila One"
+mode = "dark"
+
+[terminal]
+foreground = "#e9fae3"
+background = "#1b1f23"
+palette = [
+    "#101418", "#93867f", "#5cc8ff", "#ebb3a9",
+    "#dec1ff", "#7d70ba", "#5cc8ff", "#e9fae3",
+    "#7d70ba", "#93867f", "#5cc8ff", "#ebb3a9",
+    "#dec1ff", "#7d70ba", "#5cc8ff", "#e9fae3",
+]
+cursor = "#5cc8ff"
+cursor-text = "#1b1f23"
+selection-background = "#334155"
+selection-foreground = "#676b6f"

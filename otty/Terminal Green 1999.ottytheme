@@ -1,0 +1,18 @@
+[meta]
+name = "Terminal Green 1999"
+mode = "dark"
+author = "theebest.com (https://www.theebest.com)"
+
+[terminal]
+foreground = "#d8ffe6"
+background = "#03120a"
+palette = [
+    "#32463a", "#ff5c7a", "#22c55e", "#00d26a",
+    "#7dd3fc", "#9dff57", "#39ff88", "#8fd6a9",
+    "#274335", "#ff7d95", "#4ed17e", "#2eda85",
+    "#97dcfd", "#b1ff79", "#61ffa0", "#d8ffe6",
+]
+cursor = "#d8ffe6"
+cursor-text = "#03120a"
+selection-background = "#d8ffe6"
+selection-foreground = "#03120a"

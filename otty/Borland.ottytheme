@@ -1,0 +1,17 @@
+[meta]
+name = "Borland"
+mode = "dark"
+
+[terminal]
+foreground = "#ffff4e"
+background = "#0000a4"
+palette = [
+    "#4f4f4f", "#ff6c60", "#a8ff60", "#ffffb6",
+    "#96cbfe", "#ff73fd", "#c6c5fe", "#eeeeee",
+    "#7c7c7c", "#ffb6b0", "#ceffac", "#ffffcc",
+    "#b5dcff", "#ff9cfe", "#dfdffe", "#ffffff",
+]
+cursor = "#ffa560"
+cursor-text = "#ffffff"
+selection-background = "#a4a4a4"
+selection-foreground = "#0000a4"

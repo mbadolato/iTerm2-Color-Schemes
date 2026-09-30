@@ -1,0 +1,17 @@
+[meta]
+name = "Heeler"
+mode = "dark"
+
+[terminal]
+foreground = "#fdfdfd"
+background = "#211f46"
+palette = [
+    "#000000", "#e44c2e", "#bdd100", "#f4ce65",
+    "#5ba5f2", "#ff95c2", "#ff9763", "#ffffff",
+    "#4c4c4c", "#e44c2e", "#bdd100", "#f4ce65",
+    "#0088ff", "#ff95c2", "#8da6e4", "#ffffff",
+]
+cursor = "#ffffff"
+cursor-text = "#000000"
+selection-background = "#2b2c41"
+selection-foreground = "#2eff58"

@@ -1,0 +1,17 @@
+[meta]
+name = "Poimandres"
+mode = "dark"
+
+[terminal]
+foreground = "#a6accd"
+background = "#1a1e28"
+palette = [
+    "#1a1e28", "#d0679d", "#5de4c7", "#fffac2",
+    "#89ddff", "#fcc5e9", "#add7ff", "#ffffff",
+    "#a6accd", "#d0679d", "#5de4c7", "#fffac2",
+    "#add7ff", "#fae4fc", "#89ddff", "#ffffff",
+]
+cursor = "#ffffff"
+cursor-text = "#1a1e29"
+selection-background = "#a6accd"
+selection-foreground = "#ffffff"

@@ -1,0 +1,18 @@
+[meta]
+name = "Hot Dog Stand (Mustard)"
+mode = "light"
+author = "Benjamin Reed (https://github.com/RangerRick/)"
+
+[terminal]
+foreground = "#000000"
+background = "#ffff54"
+palette = [
+    "#000000", "#ea3323", "#ea3323", "#ea3323",
+    "#000000", "#ea3323", "#000000", "#b9b9b9",
+    "#000000", "#ea3323", "#ea3323", "#ea3323",
+    "#000000", "#ea3323", "#000000", "#c6c6c6",
+]
+cursor = "#ea3323"
+cursor-text = "#ffff54"
+selection-background = "#ea3323"
+selection-foreground = "#ffffff"

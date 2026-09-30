@@ -1,0 +1,17 @@
+[meta]
+name = "Terafox"
+mode = "dark"
+
+[terminal]
+foreground = "#e6eaea"
+background = "#152528"
+palette = [
+    "#2f3239", "#e85c51", "#7aa4a1", "#fda47f",
+    "#5a93aa", "#ad5c7c", "#a1cdd8", "#ebebeb",
+    "#4e5157", "#eb746b", "#8eb2af", "#fdb292",
+    "#73a3b7", "#b97490", "#afd4de", "#eeeeee",
+]
+cursor = "#e6eaea"
+cursor-text = "#152528"
+selection-background = "#293e40"
+selection-foreground = "#e6eaea"

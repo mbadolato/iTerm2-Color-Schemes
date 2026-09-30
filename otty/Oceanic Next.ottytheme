@@ -1,0 +1,17 @@
+[meta]
+name = "Oceanic Next"
+mode = "dark"
+
+[terminal]
+foreground = "#c0c5ce"
+background = "#162c35"
+palette = [
+    "#162c35", "#ec5f67", "#99c794", "#fac863",
+    "#6699cc", "#c594c5", "#5fb3b3", "#ffffff",
+    "#65737e", "#ec5f67", "#99c794", "#fac863",
+    "#6699cc", "#c594c5", "#5fb3b3", "#ffffff",
+]
+cursor = "#c0c5ce"
+cursor-text = "#1b2b34"
+selection-background = "#4f5b66"
+selection-foreground = "#c0c5ce"

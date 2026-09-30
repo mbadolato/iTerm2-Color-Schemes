@@ -1,0 +1,17 @@
+[meta]
+name = "Nightfall"
+mode = "dark"
+
+[terminal]
+foreground = "#f6e8d0"
+background = "#1a140e"
+palette = [
+    "#3a2f24", "#e87555", "#83b96f", "#e8ad3f",
+    "#5f9ed8", "#bd6fae", "#4dbeb1", "#d9c09a",
+    "#5b4a3a", "#f28b6b", "#a8d07d", "#ffd166",
+    "#79b5e8", "#eba1d9", "#66d0c4", "#fff2d6",
+]
+cursor = "#d4a85c"
+cursor-text = "#1a140e"
+selection-background = "#3b2a1a"
+selection-foreground = "#f6e8d0"

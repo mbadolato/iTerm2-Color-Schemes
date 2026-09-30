@@ -1,0 +1,17 @@
+[meta]
+name = "Apple System Colors Light"
+mode = "light"
+
+[terminal]
+foreground = "#000000"
+background = "#feffff"
+palette = [
+    "#1a1a1a", "#cc372e", "#26a439", "#cdac08",
+    "#0869cb", "#9647bf", "#479ec2", "#98989d",
+    "#464646", "#ff453a", "#32d74b", "#e5bc00",
+    "#0a84ff", "#bf5af2", "#69c9f2", "#ffffff",
+]
+cursor = "#98989d"
+cursor-text = "#ffffff"
+selection-background = "#abd8ff"
+selection-foreground = "#000000"

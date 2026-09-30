@@ -1,0 +1,17 @@
+[meta]
+name = "Monokai Pro Machine"
+mode = "dark"
+
+[terminal]
+foreground = "#f2fffc"
+background = "#273136"
+palette = [
+    "#273136", "#ff6d7e", "#a2e57b", "#ffed72",
+    "#ffb270", "#baa0f8", "#7cd5f1", "#f2fffc",
+    "#6b7678", "#ff6d7e", "#a2e57b", "#ffed72",
+    "#ffb270", "#baa0f8", "#7cd5f1", "#f2fffc",
+]
+cursor = "#b8c4c3"
+cursor-text = "#859190"
+selection-background = "#545f62"
+selection-foreground = "#f2fffc"

@@ -1,0 +1,17 @@
+[meta]
+name = "Pyrokai"
+mode = "dark"
+
+[terminal]
+foreground = "#faf6f5"
+background = "#151312"
+palette = [
+    "#242120", "#ec6785", "#75ad2f", "#bb9500",
+    "#2aa0f9", "#e76899", "#00aebd", "#b4afad",
+    "#807c7a", "#fa8099", "#8bbf53", "#d0a70e",
+    "#5bb3ff", "#f681ac", "#00c3d3", "#faf6f5",
+]
+cursor = "#ea7332"
+cursor-text = "#151312"
+selection-background = "#312d2b"
+selection-foreground = "#faf6f5"

@@ -1,0 +1,17 @@
+[meta]
+name = "EVH FrankenTone"
+mode = "dark"
+
+[terminal]
+foreground = "#e10600"
+background = "#0a0a0a"
+palette = [
+    "#151515", "#e10600", "#8fbd32", "#ffd400",
+    "#2b82ff", "#ff2d6d", "#20bde5", "#f4f4f4",
+    "#474747", "#ff5555", "#b8e986", "#ffe066",
+    "#66b3ff", "#ff8fb1", "#22d3ee", "#f7f7f7",
+]
+cursor = "#ffd400"
+cursor-text = "#2b82ff"
+selection-background = "#ff3b30"
+selection-foreground = "#a6e22e"

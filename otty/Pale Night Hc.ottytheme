@@ -1,0 +1,17 @@
+[meta]
+name = "Pale Night Hc"
+mode = "dark"
+
+[terminal]
+foreground = "#cccccc"
+background = "#3e4251"
+palette = [
+    "#000000", "#f07178", "#c3e88d", "#ffcb6b",
+    "#82aaff", "#c792ea", "#89ddff", "#ffffff",
+    "#737373", "#f6a9ae", "#dbf1ba", "#ffdfa6",
+    "#b4ccff", "#ddbdf2", "#b8eaff", "#999999",
+]
+cursor = "#ffcb6b"
+cursor-text = "#323232"
+selection-background = "#717cb4"
+selection-foreground = "#80cbc4"

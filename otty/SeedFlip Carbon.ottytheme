@@ -1,0 +1,17 @@
+[meta]
+name = "SeedFlip Carbon"
+mode = "light"
+
+[terminal]
+foreground = "#000000"
+background = "#fafafa"
+palette = [
+    "#d4d4d4", "#993333", "#339955", "#998833",
+    "#335d99", "#993399", "#339999", "#000000",
+    "#aeaeae", "#c65353", "#53c679", "#c6b353",
+    "#5383c6", "#c653c6", "#53c6c6", "#000000",
+]
+cursor = "#000000"
+cursor-text = "#404040"
+selection-background = "#ffffff"
+selection-foreground = "#000000"

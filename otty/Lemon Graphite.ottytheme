@@ -1,0 +1,17 @@
+[meta]
+name = "Lemon Graphite"
+mode = "dark"
+
+[terminal]
+foreground = "#dce3ea"
+background = "#0b0f14"
+palette = [
+    "#0b0f14", "#ff6b6b", "#7bd88f", "#f2c14e",
+    "#5cc8ff", "#c792ea", "#57d3c8", "#dce3ea",
+    "#59636e", "#ff8a80", "#a7e8b5", "#ffd978",
+    "#8ad8ff", "#dab1f4", "#86e6de", "#f7fafc",
+]
+cursor = "#f2c14e"
+cursor-text = "#0b0f14"
+selection-background = "#dce3ea"
+selection-foreground = "#0b0f14"

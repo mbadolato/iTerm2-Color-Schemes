@@ -1,0 +1,18 @@
+[meta]
+name = "Moonwalk"
+mode = "light"
+author = "Jian (https://github.com/thejian)"
+
+[terminal]
+foreground = "#061f4a"
+background = "#e4e2e0"
+palette = [
+    "#080808", "#7a0047", "#145b0e", "#733a11",
+    "#002fa7", "#5400a8", "#00566b", "#9c958d",
+    "#494440", "#af1608", "#4c6129", "#7a5000",
+    "#0d50c5", "#952197", "#006092", "#ffffff",
+]
+cursor = "#061f4a"
+cursor-text = "#e4e2e0"
+selection-background = "#b8d2e5"
+selection-foreground = "#061f4a"

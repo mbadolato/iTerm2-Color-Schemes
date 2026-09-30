@@ -1,0 +1,17 @@
+[meta]
+name = "X"
+mode = "dark"
+
+[terminal]
+foreground = "#f7f1ff"
+background = "#050505"
+palette = [
+    "#0a0a0a", "#fc618d", "#7bd88f", "#fce566",
+    "#fd9353", "#948ae3", "#5ad4e6", "#f7f1ff",
+    "#424242", "#fc618d", "#7bd88f", "#fce566",
+    "#fd9353", "#948ae3", "#5ad4e6", "#f7f1ff",
+]
+cursor = "#f7f1ff"
+cursor-text = "#050505"
+selection-background = "#f7f1ff"
+selection-foreground = "#050505"

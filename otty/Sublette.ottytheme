@@ -1,0 +1,17 @@
+[meta]
+name = "Sublette"
+mode = "dark"
+
+[terminal]
+foreground = "#ccced0"
+background = "#202535"
+palette = [
+    "#253045", "#ee5577", "#55ee77", "#ffdd88",
+    "#5588ff", "#ff77cc", "#44eeee", "#f5f5da",
+    "#405570", "#ee6655", "#99ee77", "#ffff77",
+    "#77bbff", "#aa88ff", "#55ffbb", "#ffffee",
+]
+cursor = "#ccced0"
+cursor-text = "#202535"
+selection-background = "#ccced0"
+selection-foreground = "#202535"

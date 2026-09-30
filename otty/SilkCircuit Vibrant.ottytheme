@@ -1,0 +1,18 @@
+[meta]
+name = "SilkCircuit Vibrant"
+mode = "dark"
+author = "Stefanie Jane (https://github.com/hyperb1iss/silkcircuit)"
+
+[terminal]
+foreground = "#f8f8f2"
+background = "#0f0c1a"
+palette = [
+    "#0f0c1a", "#ff3366", "#00ff66", "#ffcc00",
+    "#6699ff", "#ff00cc", "#00ffcc", "#f8f8f2",
+    "#728989", "#ff6677", "#66ff99", "#ffff66",
+    "#88aaff", "#ff66ff", "#00ffff", "#ffffff",
+]
+cursor = "#00ffcc"
+cursor-text = "#0f0c1a"
+selection-background = "#3a2e5a"
+selection-foreground = "#f8f8f2"

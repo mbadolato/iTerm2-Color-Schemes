@@ -1,0 +1,17 @@
+[meta]
+name = "CRT Afterglow"
+mode = "dark"
+
+[terminal]
+foreground = "#d0d8c8"
+background = "#0b0f0b"
+palette = [
+    "#203020", "#ff5f56", "#50fa7b", "#f1fa8c",
+    "#8be9fd", "#bd93f9", "#5af78e", "#95a99b",
+    "#4a5d4a", "#ff8a80", "#8aff9d", "#fff59d",
+    "#b3f1ff", "#dda0ff", "#8affd8", "#f5f7ef",
+]
+cursor = "#f4d35e"
+cursor-text = "#0b0f0b"
+selection-background = "#2a3a2a"
+selection-foreground = "#d0d8c8"

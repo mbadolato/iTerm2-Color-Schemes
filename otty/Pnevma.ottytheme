@@ -1,0 +1,17 @@
+[meta]
+name = "Pnevma"
+mode = "dark"
+
+[terminal]
+foreground = "#d0d0d0"
+background = "#1c1c1c"
+palette = [
+    "#2f2e2d", "#a36666", "#90a57d", "#d7af87",
+    "#7fa5bd", "#c79ec4", "#8adbb4", "#d0d0d0",
+    "#4a4845", "#d78787", "#afbea2", "#e4c9af",
+    "#a1bdce", "#d7beda", "#b1e7dd", "#efefef",
+]
+cursor = "#e4c9af"
+cursor-text = "#000000"
+selection-background = "#4d4d4d"
+selection-foreground = "#ffffff"

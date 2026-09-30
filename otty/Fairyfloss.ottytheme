@@ -1,0 +1,17 @@
+[meta]
+name = "Fairyfloss"
+mode = "dark"
+
+[terminal]
+foreground = "#f8f8f2"
+background = "#5a5475"
+palette = [
+    "#040303", "#f92672", "#c2ffdf", "#e6c000",
+    "#c2ffdf", "#ffb8d1", "#c5a3ff", "#f8f8f0",
+    "#6090cb", "#ff857f", "#c2ffdf", "#ffea00",
+    "#c2ffdf", "#ffb8d1", "#c5a3ff", "#f8f8f0",
+]
+cursor = "#f8f8f0"
+cursor-text = "#060709"
+selection-background = "#8077a8"
+selection-foreground = "#f6e1ce"

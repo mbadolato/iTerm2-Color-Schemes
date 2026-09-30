@@ -1,0 +1,17 @@
+[meta]
+name = "Desert"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#333333"
+palette = [
+    "#4d4d4d", "#ff2b2b", "#98fb98", "#f0e68c",
+    "#cd853f", "#ffdead", "#ffa0a0", "#f5deb3",
+    "#626262", "#ff5555", "#55ff55", "#ffff55",
+    "#87ceff", "#ff55ff", "#ffd700", "#ffffff",
+]
+cursor = "#00ff00"
+cursor-text = "#000000"
+selection-background = "#b5d5ff"
+selection-foreground = "#000000"

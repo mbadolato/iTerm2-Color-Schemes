@@ -1,0 +1,17 @@
+[meta]
+name = "HaX0R R3D"
+mode = "dark"
+
+[terminal]
+foreground = "#b10e0e"
+background = "#200101"
+palette = [
+    "#1f0000", "#b00d0d", "#b00d0d", "#b00d0d",
+    "#b00d0d", "#b00d0d", "#b00d0d", "#fafafa",
+    "#554040", "#ff1111", "#ff1010", "#ff1010",
+    "#ff1010", "#ff1010", "#ff1010", "#fefefe",
+]
+cursor = "#b00d0d"
+cursor-text = "#ffffff"
+selection-background = "#ebc1ff"
+selection-foreground = "#979797"

@@ -1,0 +1,17 @@
+[meta]
+name = "SeedFlip Ember"
+mode = "dark"
+
+[terminal]
+foreground = "#ededed"
+background = "#0a0a0a"
+palette = [
+    "#050505", "#f04242", "#42f07c", "#f0d342",
+    "#428bf0", "#f042f0", "#42f0f0", "#fafafa",
+    "#3d3d3d", "#f58989", "#89f5ad", "#f5e389",
+    "#89b6f5", "#f589f5", "#89f5f5", "#ffffff",
+]
+cursor = "#ff6b3d"
+cursor-text = "#0a0a0a"
+selection-background = "#141414"
+selection-foreground = "#ededed"

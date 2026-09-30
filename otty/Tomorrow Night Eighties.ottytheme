@@ -1,0 +1,17 @@
+[meta]
+name = "Tomorrow Night Eighties"
+mode = "dark"
+
+[terminal]
+foreground = "#cccccc"
+background = "#2d2d2d"
+palette = [
+    "#000000", "#f2777a", "#99cc99", "#ffcc66",
+    "#6699cc", "#cc99cc", "#66cccc", "#ffffff",
+    "#595959", "#f2777a", "#99cc99", "#ffcc66",
+    "#6699cc", "#cc99cc", "#66cccc", "#ffffff",
+]
+cursor = "#cccccc"
+cursor-text = "#2d2d2d"
+selection-background = "#515151"
+selection-foreground = "#cccccc"

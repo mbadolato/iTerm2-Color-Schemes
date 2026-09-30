@@ -1,0 +1,17 @@
+[meta]
+name = "urban"
+mode = "dark"
+
+[terminal]
+foreground = "#c0a79a"
+background = "#312e39"
+palette = [
+    "#33303b", "#87404f", "#74934e", "#ae835a",
+    "#615772", "#854b64", "#625464", "#c0a79a",
+    "#5c5865", "#87404f", "#74934e", "#ae835a",
+    "#615772", "#854b64", "#625464", "#c0a79a",
+]
+cursor = "#c0a79a"
+cursor-text = "#312e39"
+selection-background = "#c0a79a"
+selection-foreground = "#312e39"

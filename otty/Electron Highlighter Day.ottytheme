@@ -1,0 +1,18 @@
+[meta]
+name = "Electron Highlighter Day"
+mode = "light"
+author = "mikemcbride (https://github.com/mikemcbride)"
+
+[terminal]
+foreground = "#2f3b54"
+background = "#eef0f5"
+palette = [
+    "#c2c6d4", "#f52a65", "#10a877", "#df8e1d",
+    "#366ff0", "#8b4fe0", "#0a9fbf", "#59647e",
+    "#7b88a8", "#f52a65", "#10a877", "#df8e1d",
+    "#366ff0", "#8b4fe0", "#0a9fbf", "#2f3b54",
+]
+cursor = "#2f3b54"
+cursor-text = "#eef0f5"
+selection-background = "#d6def5"
+selection-foreground = "#2f3b54"

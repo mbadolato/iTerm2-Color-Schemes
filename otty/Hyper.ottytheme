@@ -1,0 +1,18 @@
+[meta]
+name = "Hyper"
+mode = "dark"
+author = "Vercel (https://github.com/vercel/hyper), ported by Thomas Drake-Brockman (https://github.com/thomasfedb)"
+
+[terminal]
+foreground = "#ffffff"
+background = "#000000"
+palette = [
+    "#000000", "#c51e14", "#1dc121", "#c7c329",
+    "#0a2fc4", "#c839c5", "#20c5c6", "#c7c7c7",
+    "#686868", "#fd6f6b", "#67f86f", "#fffa72",
+    "#6a76fb", "#fd7cfc", "#68fdfe", "#ffffff",
+]
+cursor = "#f81ce5"
+cursor-text = "#000000"
+selection-background = "#4a0845"
+selection-foreground = "#ffffff"

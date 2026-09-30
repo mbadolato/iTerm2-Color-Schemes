@@ -1,0 +1,17 @@
+[meta]
+name = "Electron Highlighter"
+mode = "dark"
+
+[terminal]
+foreground = "#a5b6d4"
+background = "#23283d"
+palette = [
+    "#15161f", "#ff6c8d", "#00ffc3", "#ffebb1",
+    "#77abff", "#daa4f4", "#00e5ff", "#7187b7",
+    "#4b5b8c", "#ff6c8d", "#00ffc3", "#ffebb1",
+    "#77abff", "#daa4f4", "#00e5ff", "#c3cde2",
+]
+cursor = "#a5b6d4"
+cursor-text = "#171b29"
+selection-background = "#293257"
+selection-foreground = "#a5b6d4"

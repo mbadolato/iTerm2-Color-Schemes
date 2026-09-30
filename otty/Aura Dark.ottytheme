@@ -1,0 +1,17 @@
+[meta]
+name = "Aura Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#cdccce"
+background = "#15141b"
+palette = [
+    "#15141b", "#ff6767", "#61ffca", "#ffca85",
+    "#a277ff", "#61ffca", "#a277ff", "#cdccce",
+    "#464646", "#ffca85", "#a277ff", "#ffca85",
+    "#a277ff", "#61ffca", "#61ffca", "#edecee",
+]
+cursor = "#a277ff"
+cursor-text = "#15141b"
+selection-background = "#cdccce"
+selection-foreground = "#15141b"

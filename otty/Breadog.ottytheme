@@ -1,0 +1,17 @@
+[meta]
+name = "Breadog"
+mode = "light"
+
+[terminal]
+foreground = "#362c24"
+background = "#f1ebe6"
+palette = [
+    "#362c24", "#b10b00", "#007232", "#8b4c00",
+    "#005cb4", "#9b0097", "#006a78", "#baa99d",
+    "#514337", "#de1100", "#008f40", "#ae6000",
+    "#0074e1", "#c300bd", "#008697", "#eae1da",
+]
+cursor = "#362c24"
+cursor-text = "#f1ebe6"
+selection-background = "#362c24"
+selection-foreground = "#f1ebe6"

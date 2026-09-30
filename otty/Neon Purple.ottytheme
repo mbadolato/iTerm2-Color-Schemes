@@ -1,0 +1,17 @@
+[meta]
+name = "Neon Purple"
+mode = "dark"
+
+[terminal]
+foreground = "#e5e5e5"
+background = "#291b47"
+palette = [
+    "#000000", "#cd0d76", "#03eba5", "#fffa6a",
+    "#00bfff", "#ff00e0", "#9aa5ed", "#ffffff",
+    "#a8fcff", "#ff0da5", "#00ffb6", "#fff787",
+    "#1bccfd", "#ff00f8", "#a6b6ff", "#ffffff",
+]
+cursor = "#21f6bc"
+cursor-text = "#999999"
+selection-background = "#c1deff"
+selection-foreground = "#000000"

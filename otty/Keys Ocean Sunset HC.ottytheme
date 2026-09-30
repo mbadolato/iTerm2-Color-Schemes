@@ -1,0 +1,18 @@
+[meta]
+name = "Keys Ocean Sunset HC"
+mode = "dark"
+author = "Grok Build Composer 2.5 Fast"
+
+[terminal]
+foreground = "#f0f4fa"
+background = "#060910"
+palette = [
+    "#7a92a8", "#ff6361", "#4ad68a", "#ffa600",
+    "#6aa8f0", "#de72b0", "#5edee8", "#c8d8ec",
+    "#8aa0b8", "#ff8578", "#72f0a8", "#ffd380",
+    "#88c4ff", "#f0a8d8", "#88f0f8", "#fff5be",
+]
+cursor = "#ff8531"
+cursor-text = "#060910"
+selection-background = "#2c4875"
+selection-foreground = "#ffffff"

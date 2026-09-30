@@ -1,0 +1,17 @@
+[meta]
+name = "Breeze"
+mode = "dark"
+
+[terminal]
+foreground = "#eff0f1"
+background = "#31363b"
+palette = [
+    "#31363b", "#ed1515", "#11d116", "#f67400",
+    "#1d99f3", "#9b59b6", "#1abc9c", "#eff0f1",
+    "#7f8c8d", "#c0392b", "#1cdc9a", "#fdbc4b",
+    "#3daee9", "#8e44ad", "#16a085", "#fcfcfc",
+]
+cursor = "#eff0f1"
+cursor-text = "#31363b"
+selection-background = "#eff0f1"
+selection-foreground = "#31363b"

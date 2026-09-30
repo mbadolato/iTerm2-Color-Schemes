@@ -1,0 +1,17 @@
+[meta]
+name = "Calamity"
+mode = "dark"
+
+[terminal]
+foreground = "#d5ced9"
+background = "#2f2833"
+palette = [
+    "#2f2833", "#fc644d", "#a5f69c", "#e9d7a5",
+    "#3b79c7", "#f92672", "#74d3de", "#d5ced9",
+    "#7e6c88", "#fc644d", "#a5f69c", "#e9d7a5",
+    "#3b79c7", "#f92672", "#74d3de", "#ffffff",
+]
+cursor = "#d5ced9"
+cursor-text = "#2f2833"
+selection-background = "#7e6c88"
+selection-foreground = "#d5ced9"

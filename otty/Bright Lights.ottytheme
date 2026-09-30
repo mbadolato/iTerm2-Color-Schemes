@@ -1,0 +1,17 @@
+[meta]
+name = "Bright Lights"
+mode = "dark"
+
+[terminal]
+foreground = "#b3c9d7"
+background = "#191919"
+palette = [
+    "#191919", "#ff355b", "#b7e876", "#ffc251",
+    "#76d4ff", "#ba76e7", "#6cbfb5", "#c2c8d7",
+    "#4c4c4c", "#ff355b", "#b7e876", "#ffc251",
+    "#76d5ff", "#ba76e7", "#6cbfb5", "#c2c8d7",
+]
+cursor = "#f34b00"
+cursor-text = "#002831"
+selection-background = "#b3c9d7"
+selection-foreground = "#191919"

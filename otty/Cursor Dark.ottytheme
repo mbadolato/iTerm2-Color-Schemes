@@ -1,0 +1,17 @@
+[meta]
+name = "Cursor Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#d4d4d4"
+background = "#141414"
+palette = [
+    "#242424", "#fc6b83", "#3fa266", "#d2943e",
+    "#81a1c1", "#b48ead", "#88c0d0", "#e4e4e4",
+    "#4a4a4a", "#fc6b83", "#70b489", "#f1b467",
+    "#87a6c4", "#b48ead", "#88c0d0", "#e4e4e4",
+]
+cursor = "#d4d4d4"
+cursor-text = "#141414"
+selection-background = "#2c2c2c"
+selection-foreground = "#e4e4e4"

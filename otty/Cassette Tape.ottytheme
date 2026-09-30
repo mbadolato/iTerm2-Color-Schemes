@@ -1,0 +1,18 @@
+[meta]
+name = "Cassette Tape"
+mode = "light"
+author = "theebest.com (https://www.theebest.com)"
+
+[terminal]
+foreground = "#2b1b12"
+background = "#fff7ed"
+palette = [
+    "#514339", "#b91c1c", "#3f6212", "#be123c",
+    "#7c2d12", "#0f766e", "#b45309", "#6b4f3f",
+    "#c4b39a", "#941616", "#324e0e", "#9c0f31",
+    "#63240e", "#0c5e58", "#904207", "#2b1b12",
+]
+cursor = "#2b1b12"
+cursor-text = "#fff7ed"
+selection-background = "#2b1b12"
+selection-foreground = "#fff7ed"

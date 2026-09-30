@@ -22,13 +22,15 @@
   - [Windows Terminal color schemes](#windows-terminal-color-schemes)
   - [Alacritty color schemes](#alacritty-color-schemes)
   - [Ghostty color schemes](#ghostty-color-schemes)
+  - [Otty color schemes](#otty-color-schemes)
   - [Termux color schemes](#termux-color-schemes)
   - [Generic color schemes](#generic-color-schemes)
   - [Vim color schemes](#vim-color-schemes)
+  - [Machine-readable schemes (JSONL)](#machine-readable-schemes-jsonl)
 
 ## Intro
 
-This is a set of color schemes for iTerm (aka iTerm2). It also includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Ghostty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Vim
+This is a set of color schemes for iTerm (aka iTerm2). It also includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Ghostty, Otty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Vim
 
 Screenshots below and in the [screenshots](screenshots/) directory.
 
@@ -3040,7 +3042,21 @@ If you still need a color scheme with .yml, you can get it [here](https://github
 
 ### Ghostty color schemes
 
-Copy the theme content from `ghostty/` and paste the content in your Ghostty config file, at `~/.config/ghostty/config`.
+Copy theme files from `ghostty/` into `~/.config/ghostty/themes/` (or paste the content into your Ghostty config). Set `theme = <file name>` in `~/.config/ghostty/config`.
+
+If Ghostty reports a theme not found after an upgrade, run `ghostty +list-themes` — Ghostty’s **bundled** theme names can change between releases (for example Ghostty 1.2.0). Themes from this repository keep stable file names under `ghostty/`.
+
+### Otty color schemes
+
+Copy `.ottytheme` files from `otty/` into `~/.config/otty/themes/` (Windows: `%APPDATA%\otty\themes\`), then pick the theme in Settings → Appearance → Themes, or set `theme = <slug>` in Otty’s config.
+
+You can also import a file via Settings → Appearance → Import Theme → Otty, double-click an `.ottytheme` in Finder, or:
+
+```sh
+otty import ./otty/0x96f.ottytheme --activate
+```
+
+Otty can also import iTerm2, Kitty, Alacritty, and Ghostty theme files from this repository if you prefer those formats. See [Otty theme docs](https://docs.otty.sh/customization/themes).
 
 ### Rio color schemes
 
@@ -3065,6 +3081,17 @@ These schemes work with any terminal emulator with support for the OSC 4 escape 
 
 Copy the shell script from `generic/` and paste the script to `~/bin/set-colors.sh`, or wherever you prefer to put shell scripts.
 Then add `bash ~/bin/set-colors.sh` to your shell's config file (`~/.bashrc`, `~/.zshrc`, etc).
+
+For GNOME’s modern terminal (Ptyxis), prefer the dedicated `ptyxis/` palettes instead of OSC scripts.
+
+### Machine-readable schemes (JSONL)
+
+Committed machine-readable sources:
+
+- `yaml/*.yml` — one YAML file per scheme (best for importers / Nix without XML)
+- `windowsterminal/*.json` — Windows Terminal JSON objects
+
+`tools/gen.py` also writes a local `schemes.jsonl` (gitignored): one JSON object per line with the full color map used by screenshot tooling. Run `python tools/gen.py` to regenerate it.
 
 ### Previewing color schemes
 

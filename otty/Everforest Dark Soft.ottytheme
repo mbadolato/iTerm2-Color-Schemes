@@ -1,0 +1,17 @@
+[meta]
+name = "Everforest Dark Soft"
+mode = "dark"
+
+[terminal]
+foreground = "#d3c6aa"
+background = "#293136"
+palette = [
+    "#7a8478", "#e67e80", "#a7c080", "#dbbc7f",
+    "#7fbbb3", "#d699b6", "#83c092", "#f2efdf",
+    "#a6b0a0", "#f85552", "#8da101", "#dfa000",
+    "#3a94c5", "#df69ba", "#35a77c", "#fffbef",
+]
+cursor = "#e69875"
+cursor-text = "#5c3f4f"
+selection-background = "#5c3f4f"
+selection-foreground = "#d3c6aa"

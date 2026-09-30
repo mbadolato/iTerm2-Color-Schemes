@@ -1,0 +1,17 @@
+[meta]
+name = "Opaline"
+mode = "dark"
+
+[terminal]
+foreground = "#ece9f7"
+background = "#131121"
+palette = [
+    "#201b33", "#ff6b92", "#86e6b4", "#ffc2ae",
+    "#8fb4ff", "#be9bff", "#5fe3d8", "#ece9f7",
+    "#6b678f", "#ff81a2", "#95e9bd", "#f4d27e",
+    "#b79bff", "#ff9ed2", "#72e6dd", "#ffffff",
+]
+cursor = "#ffb3d6"
+cursor-text = "#131121"
+selection-background = "#2c2748"
+selection-foreground = "#535161"

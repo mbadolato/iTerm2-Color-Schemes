@@ -1,0 +1,17 @@
+[meta]
+name = "Aizen Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#d0d6f0"
+background = "#1a1a1a"
+palette = [
+    "#1a1a1a", "#f08898", "#a4e09c", "#f5dea4",
+    "#84b4f8", "#c8a2f4", "#90dcd0", "#d0d6f0",
+    "#444444", "#f08898", "#a4e09c", "#f5dea4",
+    "#84b4f8", "#c8a2f4", "#90dcd0", "#ffffff",
+]
+cursor = "#f8b080"
+cursor-text = "#1a1a1a"
+selection-background = "#333333"
+selection-foreground = "#d0d6f0"

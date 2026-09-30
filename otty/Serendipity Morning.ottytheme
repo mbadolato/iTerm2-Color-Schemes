@@ -1,0 +1,18 @@
+[meta]
+name = "Serendipity Morning"
+mode = "light"
+author = "Michael Andreuzza (https://github.com/michael-andreuzza/Serendipity-Theme)"
+
+[terminal]
+foreground = "#3f4363"
+background = "#f6f7fb"
+palette = [
+    "#ccd0dc", "#c25a4d", "#2f7aab", "#785fd0",
+    "#6288d8", "#629aa5", "#e58678", "#3f4363",
+    "#505575", "#c25a4d", "#2f7aab", "#785fd0",
+    "#6288d8", "#629aa5", "#e58678", "#3f4363",
+]
+cursor = "#6d7296"
+cursor-text = "#3f4363"
+selection-background = "#5a5670"
+selection-foreground = "#7f83a3"

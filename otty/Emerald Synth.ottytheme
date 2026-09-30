@@ -1,0 +1,18 @@
+[meta]
+name = "Emerald Synth"
+mode = "dark"
+author = "malleroid (https://github.com/malleroid)"
+
+[terminal]
+foreground = "#00ffcc"
+background = "#0d0221"
+palette = [
+    "#0a0118", "#ff2a6d", "#00e67e", "#ffcc66",
+    "#8b9cf7", "#ff79c6", "#4dd0e1", "#f0e6ff",
+    "#6a5585", "#ff5c8a", "#40ffdd", "#ffe099",
+    "#b0b8fc", "#ff9ed0", "#7ee0ec", "#ffffff",
+]
+cursor = "#ff79c6"
+cursor-text = "#0d0221"
+selection-background = "#2e6b5f"
+selection-foreground = "#00ffcc"

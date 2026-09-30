@@ -1,0 +1,17 @@
+[meta]
+name = "Patina Light"
+mode = "light"
+
+[terminal]
+foreground = "#2e2a24"
+background = "#ddd7c4"
+palette = [
+    "#2e2a24", "#9b3b3b", "#34644c", "#6e5817",
+    "#2f626f", "#7a4f47", "#2e6260", "#5a5248",
+    "#625a51", "#833333", "#2d5839", "#634e14",
+    "#2c5660", "#6d463e", "#285654", "#393a34",
+]
+cursor = "#2e2a24"
+cursor-text = "#ddd7c4"
+selection-background = "#bfb8a3"
+selection-foreground = "#2e2a24"

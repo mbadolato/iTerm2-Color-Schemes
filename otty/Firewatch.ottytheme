@@ -1,0 +1,17 @@
+[meta]
+name = "Firewatch"
+mode = "dark"
+
+[terminal]
+foreground = "#9ba2b2"
+background = "#1e2027"
+palette = [
+    "#585f6d", "#d95360", "#5ab977", "#dfb563",
+    "#4d89c4", "#d55119", "#44a8b6", "#e6e5ff",
+    "#585f6d", "#d95360", "#5ab977", "#dfb563",
+    "#4c89c5", "#d55119", "#44a8b6", "#e6e5ff",
+]
+cursor = "#f6f7ec"
+cursor-text = "#b7b8a8"
+selection-background = "#2f363e"
+selection-foreground = "#7d8fa4"

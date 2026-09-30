@@ -1,0 +1,17 @@
+[meta]
+name = "Patina Lichen"
+mode = "light"
+
+[terminal]
+foreground = "#393a34"
+background = "#cdd1c6"
+palette = [
+    "#393a34", "#8b4646", "#33644d", "#7f5031",
+    "#35616d", "#854b3f", "#2a6361", "#5a5248",
+    "#5b5b54", "#8b4646", "#426338", "#7f5031",
+    "#35616d", "#854b3f", "#2a6361", "#393a34",
+]
+cursor = "#393a34"
+cursor-text = "#cdd1c6"
+selection-background = "#aab0a3"
+selection-foreground = "#393a34"

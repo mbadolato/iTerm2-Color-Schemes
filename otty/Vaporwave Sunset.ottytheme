@@ -1,0 +1,18 @@
+[meta]
+name = "Vaporwave Sunset"
+mode = "dark"
+author = "theebest.com (https://www.theebest.com)"
+
+[terminal]
+foreground = "#fff7ed"
+background = "#180827"
+palette = [
+    "#4b3d53", "#fb7185", "#2dd4bf", "#fb923c",
+    "#a78bfa", "#22d3ee", "#ff4fd8", "#f0abfc",
+    "#563f6e", "#fc8d9d", "#57ddcc", "#fca65f",
+    "#b9a2fb", "#4edcf1", "#ff72e0", "#fff7ed",
+]
+cursor = "#fff7ed"
+cursor-text = "#180827"
+selection-background = "#fff7ed"
+selection-foreground = "#180827"
