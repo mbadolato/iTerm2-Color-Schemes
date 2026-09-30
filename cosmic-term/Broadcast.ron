@@ -1,9 +1,10 @@
 (
     name: "Broadcast",
     foreground: "#e6e1dc",
+    background: "#2b2b2b",
     cursor: "#ffffff",
     bright_foreground: "#e6e1dc",
-    dim_foreground: "#000000",
+    dim_foreground: "#585858",
 
     normal: (
         black: "#000000",

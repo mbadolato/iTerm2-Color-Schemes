@@ -1,9 +1,10 @@
 (
     name: "Pandora",
     foreground: "#e1e1e1",
+    background: "#141e43",
     cursor: "#43d58e",
     bright_foreground: "#e1e1e1",
-    dim_foreground: "#000000",
+    dim_foreground: "#3f5648",
 
     normal: (
         black: "#000000",

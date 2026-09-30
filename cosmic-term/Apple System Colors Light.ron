@@ -1,9 +1,10 @@
 (
     name: "Apple System Colors Light",
     foreground: "#000000",
+    background: "#feffff",
     cursor: "#98989d",
     bright_foreground: "#000000",
-    dim_foreground: "#1a1a1a",
+    dim_foreground: "#464646",
 
     normal: (
         black: "#1a1a1a",

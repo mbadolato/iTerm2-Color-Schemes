@@ -1,9 +1,10 @@
 (
     name: "Kanso Zen",
     foreground: "#c5c9c7",
+    background: "#090e13",
     cursor: "#c5c9c7",
     bright_foreground: "#c5c9c7",
-    dim_foreground: "#0d0c0c",
+    dim_foreground: "#a4a7a4",
 
     normal: (
         black: "#0d0c0c",

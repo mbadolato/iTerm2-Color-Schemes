@@ -1,9 +1,10 @@
 (
     name: "Box",
     foreground: "#9fef00",
+    background: "#141d2b",
     cursor: "#9fef00",
     bright_foreground: "#9fef00",
-    dim_foreground: "#000000",
+    dim_foreground: "#767676",
 
     normal: (
         black: "#000000",

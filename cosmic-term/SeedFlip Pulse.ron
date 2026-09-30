@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Pulse",
     foreground: "#ffffff",
+    background: "#121212",
     cursor: "#1db954",
     bright_foreground: "#ffffff",
-    dim_foreground: "#0d0d0d",
+    dim_foreground: "#454545",
 
     normal: (
         black: "#0d0d0d",

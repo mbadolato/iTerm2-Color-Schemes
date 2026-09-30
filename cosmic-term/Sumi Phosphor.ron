@@ -1,9 +1,10 @@
 (
     name: "Sumi Phosphor",
     foreground: "#bab4a8",
+    background: "#12100e",
     cursor: "#2ec4b6",
     bright_foreground: "#bab4a8",
-    dim_foreground: "#1e1a16",
+    dim_foreground: "#474139",
 
     normal: (
         black: "#1e1a16",

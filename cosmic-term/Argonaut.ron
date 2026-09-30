@@ -1,9 +1,10 @@
 (
     name: "Argonaut",
     foreground: "#fffaf4",
+    background: "#0e1019",
     cursor: "#ff0018",
     bright_foreground: "#fffaf4",
-    dim_foreground: "#232323",
+    dim_foreground: "#444444",
 
     normal: (
         black: "#232323",

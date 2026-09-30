@@ -1,9 +1,10 @@
 (
     name: "base16-icy",
     foreground: "#095b67",
+    background: "#021012",
     cursor: "#16c2d9",
     bright_foreground: "#095b67",
-    dim_foreground: "#021012",
+    dim_foreground: "#1e484e",
 
     normal: (
         black: "#021012",

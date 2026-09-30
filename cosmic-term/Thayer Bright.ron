@@ -1,9 +1,10 @@
 (
     name: "Thayer Bright",
     foreground: "#f8f8f8",
+    background: "#1b1d1e",
     cursor: "#fc971f",
     bright_foreground: "#f8f8f8",
-    dim_foreground: "#1b1d1e",
+    dim_foreground: "#505354",
 
     normal: (
         black: "#1b1d1e",

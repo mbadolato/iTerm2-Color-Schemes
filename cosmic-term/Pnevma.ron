@@ -1,9 +1,10 @@
 (
     name: "Pnevma",
     foreground: "#d0d0d0",
+    background: "#1c1c1c",
     cursor: "#e4c9af",
     bright_foreground: "#d0d0d0",
-    dim_foreground: "#2f2e2d",
+    dim_foreground: "#4a4845",
 
     normal: (
         black: "#2f2e2d",

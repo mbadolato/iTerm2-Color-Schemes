@@ -1,9 +1,10 @@
 (
     name: "Sunset Drive",
     foreground: "#ededfe",
+    background: "#0f0f1a",
     cursor: "#ededfe",
     bright_foreground: "#ededfe",
-    dim_foreground: "#0a0a13",
+    dim_foreground: "#3e3e4b",
 
     normal: (
         black: "#0a0a13",

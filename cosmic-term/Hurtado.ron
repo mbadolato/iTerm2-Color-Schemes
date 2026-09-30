@@ -1,9 +1,10 @@
 (
     name: "Hurtado",
     foreground: "#dbdbdb",
+    background: "#000000",
     cursor: "#bbbbbb",
     bright_foreground: "#dbdbdb",
-    dim_foreground: "#575757",
+    dim_foreground: "#404040",
 
     normal: (
         black: "#575757",

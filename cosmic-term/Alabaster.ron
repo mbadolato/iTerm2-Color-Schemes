@@ -1,9 +1,10 @@
 (
     name: "Alabaster",
     foreground: "#000000",
+    background: "#f7f7f7",
     cursor: "#007acc",
     bright_foreground: "#000000",
-    dim_foreground: "#000000",
+    dim_foreground: "#777777",
 
     normal: (
         black: "#000000",

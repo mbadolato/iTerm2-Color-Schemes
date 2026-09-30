@@ -1,9 +1,10 @@
 (
     name: "Dot Gov",
     foreground: "#ebebeb",
+    background: "#262c35",
     cursor: "#d9002f",
     bright_foreground: "#ebebeb",
-    dim_foreground: "#191919",
+    dim_foreground: "#595959",
 
     normal: (
         black: "#191919",

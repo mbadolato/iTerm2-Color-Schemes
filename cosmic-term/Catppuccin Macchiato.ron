@@ -1,9 +1,10 @@
 (
     name: "Catppuccin Macchiato",
     foreground: "#cad3f5",
+    background: "#24273a",
     cursor: "#f4dbd6",
     bright_foreground: "#cad3f5",
-    dim_foreground: "#494d64",
+    dim_foreground: "#5b6078",
 
     normal: (
         black: "#494d64",

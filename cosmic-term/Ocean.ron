@@ -1,9 +1,10 @@
 (
     name: "Ocean",
     foreground: "#ffffff",
+    background: "#224fbc",
     cursor: "#7f7f7f",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#808080",
 
     normal: (
         black: "#000000",

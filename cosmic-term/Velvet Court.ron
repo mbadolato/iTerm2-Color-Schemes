@@ -1,9 +1,10 @@
 (
     name: "Velvet Court",
     foreground: "#f2dcea",
+    background: "#1f0e1c",
     cursor: "#f0c44e",
     bright_foreground: "#f2dcea",
-    dim_foreground: "#2f1629",
+    dim_foreground: "#836075",
 
     normal: (
         black: "#2f1629",

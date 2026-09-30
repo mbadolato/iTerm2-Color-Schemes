@@ -1,9 +1,10 @@
 (
     name: "Bluloco Light",
     foreground: "#373a41",
+    background: "#f9f9f9",
     cursor: "#f32759",
     bright_foreground: "#373a41",
-    dim_foreground: "#373a41",
+    dim_foreground: "#676a77",
 
     normal: (
         black: "#373a41",

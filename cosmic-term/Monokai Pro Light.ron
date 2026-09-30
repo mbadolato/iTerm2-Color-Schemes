@@ -1,9 +1,10 @@
 (
     name: "Monokai Pro Light",
     foreground: "#29242a",
+    background: "#faf4f2",
     cursor: "#706b6e",
     bright_foreground: "#29242a",
-    dim_foreground: "#faf4f2",
+    dim_foreground: "#a59fa0",
 
     normal: (
         black: "#faf4f2",

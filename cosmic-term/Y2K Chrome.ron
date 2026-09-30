@@ -1,9 +1,10 @@
 (
     name: "Y2K Chrome",
     foreground: "#0f172a",
+    background: "#f1f5f9",
     cursor: "#0f172a",
     bright_foreground: "#0f172a",
-    dim_foreground: "#383f4f",
+    dim_foreground: "#a3b1c4",
 
     normal: (
         black: "#383f4f",

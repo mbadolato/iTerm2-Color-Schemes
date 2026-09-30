@@ -1,9 +1,10 @@
 (
     name: "Mellifluous",
     foreground: "#dadada",
+    background: "#1a1a1a",
     cursor: "#bfad9e",
     bright_foreground: "#dadada",
-    dim_foreground: "#1a1a1a",
+    dim_foreground: "#5b5b5b",
 
     normal: (
         black: "#1a1a1a",

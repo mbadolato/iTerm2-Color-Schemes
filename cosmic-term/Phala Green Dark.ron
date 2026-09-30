@@ -1,9 +1,10 @@
 (
     name: "Phala Green Dark",
     foreground: "#c1fc03",
+    background: "#000000",
     cursor: "#c1fc03",
     bright_foreground: "#c1fc03",
-    dim_foreground: "#000000",
+    dim_foreground: "#797979",
 
     normal: (
         black: "#000000",

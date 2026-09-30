@@ -1,9 +1,10 @@
 (
     name: "Framer",
     foreground: "#777777",
+    background: "#111111",
     cursor: "#fcdc08",
     bright_foreground: "#777777",
-    dim_foreground: "#141414",
+    dim_foreground: "#414141",
 
     normal: (
         black: "#141414",

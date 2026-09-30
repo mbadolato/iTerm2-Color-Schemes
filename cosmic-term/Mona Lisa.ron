@@ -1,9 +1,10 @@
 (
     name: "Mona Lisa",
     foreground: "#f7d66a",
+    background: "#120b0d",
     cursor: "#c46c32",
     bright_foreground: "#f7d66a",
-    dim_foreground: "#351b0e",
+    dim_foreground: "#874228",
 
     normal: (
         black: "#351b0e",

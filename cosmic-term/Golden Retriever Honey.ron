@@ -1,9 +1,10 @@
 (
     name: "Golden Retriever Honey",
     foreground: "#5b4630",
+    background: "#fdf6e7",
     cursor: "#d4a24c",
     bright_foreground: "#5b4630",
-    dim_foreground: "#6b4a2f",
+    dim_foreground: "#805e3b",
 
     normal: (
         black: "#6b4a2f",

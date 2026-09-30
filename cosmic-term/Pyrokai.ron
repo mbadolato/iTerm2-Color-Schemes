@@ -1,9 +1,10 @@
 (
     name: "Pyrokai",
     foreground: "#faf6f5",
+    background: "#151312",
     cursor: "#ea7332",
     bright_foreground: "#faf6f5",
-    dim_foreground: "#242120",
+    dim_foreground: "#807c7a",
 
     normal: (
         black: "#242120",

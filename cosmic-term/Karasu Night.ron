@@ -1,9 +1,10 @@
 (
     name: "Karasu Night",
     foreground: "#e7e5e4",
+    background: "#0a0a0a",
     cursor: "#f5f5f5",
     bright_foreground: "#e7e5e4",
-    dim_foreground: "#0a0a0a",
+    dim_foreground: "#44403c",
 
     normal: (
         black: "#0a0a0a",

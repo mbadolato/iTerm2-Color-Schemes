@@ -1,9 +1,10 @@
 (
     name: "Porcelain",
     foreground: "#2a2e37",
+    background: "#fbfbfd",
     cursor: "#0054d1",
     bright_foreground: "#2a2e37",
-    dim_foreground: "#2a2e37",
+    dim_foreground: "#828896",
 
     normal: (
         black: "#2a2e37",

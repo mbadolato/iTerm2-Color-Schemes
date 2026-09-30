@@ -1,9 +1,10 @@
 (
     name: "Rouge 2",
     foreground: "#a2a3aa",
+    background: "#17182b",
     cursor: "#969e92",
     bright_foreground: "#a2a3aa",
-    dim_foreground: "#5d5d6b",
+    dim_foreground: "#616274",
 
     normal: (
         black: "#5d5d6b",

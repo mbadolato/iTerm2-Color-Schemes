@@ -1,9 +1,10 @@
 (
     name: "Ultra Dark",
     foreground: "#ffffff",
+    background: "#000000",
     cursor: "#fefefe",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#404040",
 
     normal: (
         black: "#000000",

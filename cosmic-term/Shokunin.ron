@@ -1,9 +1,10 @@
 (
     name: "Shokunin",
     foreground: "#303841",
+    background: "#fcfaf2",
     cursor: "#3a3e44",
     bright_foreground: "#303841",
-    dim_foreground: "#303841",
+    dim_foreground: "#777269",
 
     normal: (
         black: "#303841",

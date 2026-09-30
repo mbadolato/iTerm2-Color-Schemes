@@ -1,9 +1,10 @@
 (
     name: "HaX0R Blue",
     foreground: "#11b7ff",
+    background: "#010515",
     cursor: "#10b6ff",
     bright_foreground: "#11b7ff",
-    dim_foreground: "#010921",
+    dim_foreground: "#484157",
 
     normal: (
         black: "#010921",

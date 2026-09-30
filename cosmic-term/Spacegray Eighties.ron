@@ -1,9 +1,10 @@
 (
     name: "Spacegray Eighties",
     foreground: "#bdbaae",
+    background: "#222222",
     cursor: "#bbbbbb",
     bright_foreground: "#bdbaae",
-    dim_foreground: "#15171c",
+    dim_foreground: "#555555",
 
     normal: (
         black: "#15171c",

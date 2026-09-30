@@ -1,9 +1,10 @@
 (
     name: "Monokai Soda",
     foreground: "#c4c5b5",
+    background: "#1a1a1a",
     cursor: "#f6f7ec",
     bright_foreground: "#c4c5b5",
-    dim_foreground: "#1a1a1a",
+    dim_foreground: "#625e4c",
 
     normal: (
         black: "#1a1a1a",

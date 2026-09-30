@@ -1,9 +1,10 @@
 (
     name: "Sonokai",
     foreground: "#e2e2e3",
+    background: "#2c2e34",
     cursor: "#e2e2e3",
     bright_foreground: "#e2e2e3",
-    dim_foreground: "#181819",
+    dim_foreground: "#7f8490",
 
     normal: (
         black: "#181819",

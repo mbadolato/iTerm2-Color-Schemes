@@ -1,9 +1,10 @@
 (
     name: "Front End Delight",
     foreground: "#adadad",
+    background: "#1b1c1d",
     cursor: "#cdcdcd",
     bright_foreground: "#adadad",
-    dim_foreground: "#242526",
+    dim_foreground: "#5fac6d",
 
     normal: (
         black: "#242526",

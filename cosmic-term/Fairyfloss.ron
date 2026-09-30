@@ -1,9 +1,10 @@
 (
     name: "Fairyfloss",
     foreground: "#f8f8f2",
+    background: "#5a5475",
     cursor: "#f8f8f0",
     bright_foreground: "#f8f8f2",
-    dim_foreground: "#040303",
+    dim_foreground: "#6090cb",
 
     normal: (
         black: "#040303",

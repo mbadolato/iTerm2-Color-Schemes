@@ -1,9 +1,10 @@
 (
     name: "Cyberdyne",
     foreground: "#00ff92",
+    background: "#151144",
     cursor: "#00ff9c",
     bright_foreground: "#00ff92",
-    dim_foreground: "#080808",
+    dim_foreground: "#484848",
 
     normal: (
         black: "#080808",

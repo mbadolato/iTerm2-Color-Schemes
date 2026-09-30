@@ -1,9 +1,10 @@
 (
     name: "Iceberg Light",
     foreground: "#33374c",
+    background: "#e8e9ec",
     cursor: "#33374c",
     bright_foreground: "#33374c",
-    dim_foreground: "#dcdfe7",
+    dim_foreground: "#8389a3",
 
     normal: (
         black: "#dcdfe7",

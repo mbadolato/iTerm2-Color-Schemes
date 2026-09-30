@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Phosphor",
     foreground: "#b3ffb3",
+    background: "#0c0c0c",
     cursor: "#00ff88",
     bright_foreground: "#b3ffb3",
-    dim_foreground: "#070707",
+    dim_foreground: "#3f3f3f",
 
     normal: (
         black: "#070707",

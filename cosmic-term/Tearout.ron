@@ -1,9 +1,10 @@
 (
     name: "Tearout",
     foreground: "#f4d2ae",
+    background: "#34392d",
     cursor: "#d7c483",
     bright_foreground: "#f4d2ae",
-    dim_foreground: "#685742",
+    dim_foreground: "#75644f",
 
     normal: (
         black: "#685742",

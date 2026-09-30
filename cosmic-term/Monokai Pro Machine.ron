@@ -1,9 +1,10 @@
 (
     name: "Monokai Pro Machine",
     foreground: "#f2fffc",
+    background: "#273136",
     cursor: "#b8c4c3",
     bright_foreground: "#f2fffc",
-    dim_foreground: "#273136",
+    dim_foreground: "#6b7678",
 
     normal: (
         black: "#273136",

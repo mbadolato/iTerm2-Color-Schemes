@@ -1,9 +1,10 @@
 (
     name: "Grok Day",
     foreground: "#262626",
+    background: "#f5f5f5",
     cursor: "#7d4bc6",
     bright_foreground: "#262626",
-    dim_foreground: "#262626",
+    dim_foreground: "#767676",
 
     normal: (
         black: "#262626",

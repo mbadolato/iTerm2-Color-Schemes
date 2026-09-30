@@ -1,9 +1,10 @@
 (
     name: "Everforest Light Med",
     foreground: "#5c6a72",
+    background: "#efebd4",
     cursor: "#f57d26",
     bright_foreground: "#5c6a72",
-    dim_foreground: "#7a8478",
+    dim_foreground: "#a6b0a0",
 
     normal: (
         black: "#7a8478",

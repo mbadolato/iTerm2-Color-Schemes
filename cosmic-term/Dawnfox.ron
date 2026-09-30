@@ -1,9 +1,10 @@
 (
     name: "Dawnfox",
     foreground: "#575279",
+    background: "#faf4ed",
     cursor: "#575279",
     bright_foreground: "#575279",
-    dim_foreground: "#575279",
+    dim_foreground: "#5f5695",
 
     normal: (
         black: "#575279",

@@ -1,9 +1,10 @@
 (
     name: "One Half Dark",
     foreground: "#dcdfe4",
+    background: "#282c34",
     cursor: "#a3b3cc",
     bright_foreground: "#dcdfe4",
-    dim_foreground: "#282c34",
+    dim_foreground: "#5d677a",
 
     normal: (
         black: "#282c34",

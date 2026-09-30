@@ -1,9 +1,10 @@
 (
     name: "Terminal Green 1999",
     foreground: "#d8ffe6",
+    background: "#03120a",
     cursor: "#d8ffe6",
     bright_foreground: "#d8ffe6",
-    dim_foreground: "#32463a",
+    dim_foreground: "#274335",
 
     normal: (
         black: "#32463a",

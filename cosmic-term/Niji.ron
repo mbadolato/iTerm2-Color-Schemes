@@ -1,9 +1,10 @@
 (
     name: "Niji",
     foreground: "#ffffff",
+    background: "#141515",
     cursor: "#ffc663",
     bright_foreground: "#ffffff",
-    dim_foreground: "#333333",
+    dim_foreground: "#515151",
 
     normal: (
         black: "#333333",

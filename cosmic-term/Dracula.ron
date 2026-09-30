@@ -1,9 +1,10 @@
 (
     name: "Dracula",
     foreground: "#f8f8f2",
+    background: "#282a36",
     cursor: "#f8f8f2",
     bright_foreground: "#f8f8f2",
-    dim_foreground: "#21222c",
+    dim_foreground: "#6272a4",
 
     normal: (
         black: "#21222c",

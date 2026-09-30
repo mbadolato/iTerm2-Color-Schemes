@@ -1,9 +1,10 @@
 (
     name: "SilkCircuit Neon",
     foreground: "#f8f8f2",
+    background: "#12101a",
     cursor: "#80ffea",
     bright_foreground: "#f8f8f2",
-    dim_foreground: "#12101a",
+    dim_foreground: "#768d8d",
 
     normal: (
         black: "#12101a",

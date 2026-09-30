@@ -1,9 +1,10 @@
 (
     name: "Highway",
     foreground: "#ededed",
+    background: "#222225",
     cursor: "#e0d9b9",
     bright_foreground: "#ededed",
-    dim_foreground: "#000000",
+    dim_foreground: "#5d504a",
 
     normal: (
         black: "#000000",

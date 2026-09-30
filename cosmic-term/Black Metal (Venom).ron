@@ -1,9 +1,10 @@
 (
     name: "Black Metal (Venom)",
     foreground: "#c1c1c1",
+    background: "#000000",
     cursor: "#c1c1c1",
     bright_foreground: "#c1c1c1",
-    dim_foreground: "#000000",
+    dim_foreground: "#404040",
 
     normal: (
         black: "#000000",

@@ -1,9 +1,10 @@
 (
     name: "Forge Ember",
     foreground: "#f4e2c8",
+    background: "#140c07",
     cursor: "#ff6a1f",
     bright_foreground: "#f4e2c8",
-    dim_foreground: "#241810",
+    dim_foreground: "#7a6248",
 
     normal: (
         black: "#241810",

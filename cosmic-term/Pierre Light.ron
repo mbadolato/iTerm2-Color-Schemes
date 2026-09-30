@@ -1,9 +1,10 @@
 (
     name: "Pierre Light",
     foreground: "#070707",
+    background: "#ffffff",
     cursor: "#009fff",
     bright_foreground: "#070707",
-    dim_foreground: "#1f1f21",
+    dim_foreground: "#8e8e95",
 
     normal: (
         black: "#1f1f21",

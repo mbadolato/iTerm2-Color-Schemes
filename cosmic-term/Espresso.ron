@@ -1,9 +1,10 @@
 (
     name: "Espresso",
     foreground: "#ffffff",
+    background: "#323232",
     cursor: "#d6d6d6",
     bright_foreground: "#ffffff",
-    dim_foreground: "#353535",
+    dim_foreground: "#606060",
 
     normal: (
         black: "#353535",

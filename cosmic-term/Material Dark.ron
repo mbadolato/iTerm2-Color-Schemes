@@ -1,9 +1,10 @@
 (
     name: "Material Dark",
     foreground: "#e5e5e5",
+    background: "#232322",
     cursor: "#16afca",
     bright_foreground: "#e5e5e5",
-    dim_foreground: "#212121",
+    dim_foreground: "#4f4f4f",
 
     normal: (
         black: "#212121",

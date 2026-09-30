@@ -1,9 +1,10 @@
 (
     name: "Oxblood",
     foreground: "#e8d2d4",
+    background: "#140b0d",
     cursor: "#e0483a",
     bright_foreground: "#e8d2d4",
-    dim_foreground: "#231417",
+    dim_foreground: "#7a5458",
 
     normal: (
         black: "#231417",

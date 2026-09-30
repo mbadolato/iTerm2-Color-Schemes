@@ -1,9 +1,10 @@
 (
     name: "Detuned",
     foreground: "#c7c7c7",
+    background: "#000000",
     cursor: "#c7c7c7",
     bright_foreground: "#c7c7c7",
-    dim_foreground: "#171717",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#171717",

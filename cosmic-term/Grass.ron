@@ -1,9 +1,10 @@
 (
     name: "Grass",
     foreground: "#fff0a5",
+    background: "#13773d",
     cursor: "#d9744c",
     bright_foreground: "#fff0a5",
-    dim_foreground: "#000000",
+    dim_foreground: "#959595",
 
     normal: (
         black: "#000000",

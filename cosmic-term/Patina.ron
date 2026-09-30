@@ -1,9 +1,10 @@
 (
     name: "Patina",
     foreground: "#dce5de",
+    background: "#0e1613",
     cursor: "#e0c36a",
     bright_foreground: "#dce5de",
-    dim_foreground: "#16201c",
+    dim_foreground: "#5c7068",
 
     normal: (
         black: "#16201c",

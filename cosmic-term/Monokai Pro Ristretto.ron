@@ -1,9 +1,10 @@
 (
     name: "Monokai Pro Ristretto",
     foreground: "#fff1f3",
+    background: "#2c2525",
     cursor: "#c3b7b8",
     bright_foreground: "#fff1f3",
-    dim_foreground: "#2c2525",
+    dim_foreground: "#72696a",
 
     normal: (
         black: "#2c2525",

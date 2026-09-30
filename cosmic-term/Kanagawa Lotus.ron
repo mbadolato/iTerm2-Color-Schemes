@@ -1,9 +1,10 @@
 (
     name: "Kanagawa Lotus",
     foreground: "#545464",
+    background: "#f2ecbc",
     cursor: "#43436c",
     bright_foreground: "#545464",
-    dim_foreground: "#1f1f28",
+    dim_foreground: "#8a8980",
 
     normal: (
         black: "#1f1f28",

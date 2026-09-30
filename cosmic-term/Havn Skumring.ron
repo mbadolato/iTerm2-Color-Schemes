@@ -1,9 +1,10 @@
 (
     name: "Havn Skumring",
     foreground: "#d6dbeb",
+    background: "#111522",
     cursor: "#277a6f",
     bright_foreground: "#d6dbeb",
-    dim_foreground: "#252c47",
+    dim_foreground: "#38425c",
 
     normal: (
         black: "#252c47",

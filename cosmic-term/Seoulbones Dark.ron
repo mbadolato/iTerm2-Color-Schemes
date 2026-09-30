@@ -1,9 +1,10 @@
 (
     name: "Seoulbones Dark",
     foreground: "#dddddd",
+    background: "#4b4b4b",
     cursor: "#e2e2e2",
     bright_foreground: "#dddddd",
-    dim_foreground: "#4b4b4b",
+    dim_foreground: "#797172",
 
     normal: (
         black: "#4b4b4b",

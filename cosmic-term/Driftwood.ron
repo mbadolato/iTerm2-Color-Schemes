@@ -1,9 +1,10 @@
 (
     name: "Driftwood",
     foreground: "#e6ddd0",
+    background: "#2a2622",
     cursor: "#dfb666",
     bright_foreground: "#e6ddd0",
-    dim_foreground: "#211d19",
+    dim_foreground: "#9a8e7c",
 
     normal: (
         black: "#211d19",

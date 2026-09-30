@@ -1,9 +1,10 @@
 (
     name: "Purple Portal",
     foreground: "#faf5ff",
+    background: "#160528",
     cursor: "#faf5ff",
     bright_foreground: "#faf5ff",
-    dim_foreground: "#483a57",
+    dim_foreground: "#503872",
 
     normal: (
         black: "#483a57",

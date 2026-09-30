@@ -1,9 +1,10 @@
 (
     name: "SilkCircuit Vibrant",
     foreground: "#f8f8f2",
+    background: "#0f0c1a",
     cursor: "#00ffcc",
     bright_foreground: "#f8f8f2",
-    dim_foreground: "#0f0c1a",
+    dim_foreground: "#728989",
 
     normal: (
         black: "#0f0c1a",

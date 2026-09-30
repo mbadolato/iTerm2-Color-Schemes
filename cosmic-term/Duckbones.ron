@@ -1,9 +1,10 @@
 (
     name: "Duckbones",
     foreground: "#ebefc0",
+    background: "#0e101a",
     cursor: "#edf2c2",
     bright_foreground: "#ebefc0",
-    dim_foreground: "#0e101a",
+    dim_foreground: "#444860",
 
     normal: (
         black: "#0e101a",

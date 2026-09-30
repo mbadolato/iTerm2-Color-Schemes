@@ -1,9 +1,10 @@
 (
     name: "Elegant",
     foreground: "#ced2d6",
+    background: "#292b31",
     cursor: "#00beff",
     bright_foreground: "#ced2d6",
-    dim_foreground: "#0a1222",
+    dim_foreground: "#575656",
 
     normal: (
         black: "#0a1222",

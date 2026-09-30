@@ -1,9 +1,10 @@
 (
     name: "Catthode",
     foreground: "#ffffff",
+    background: "#000000",
     cursor: "#ff9e3b",
     bright_foreground: "#ffffff",
-    dim_foreground: "#141414",
+    dim_foreground: "#636363",
 
     normal: (
         black: "#141414",

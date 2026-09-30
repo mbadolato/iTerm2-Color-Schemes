@@ -1,9 +1,10 @@
 (
     name: "X Madrid",
     foreground: "#1a1a1a",
+    background: "#fafafa",
     cursor: "#1a1a1a",
     bright_foreground: "#1a1a1a",
-    dim_foreground: "#fafafa",
+    dim_foreground: "#4d4d4d",
 
     normal: (
         black: "#fafafa",

@@ -1,9 +1,10 @@
 (
     name: "Pale Night Hc",
     foreground: "#cccccc",
+    background: "#3e4251",
     cursor: "#ffcb6b",
     bright_foreground: "#cccccc",
-    dim_foreground: "#000000",
+    dim_foreground: "#737373",
 
     normal: (
         black: "#000000",

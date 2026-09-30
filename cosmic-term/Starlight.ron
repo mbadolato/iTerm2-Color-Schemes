@@ -1,9 +1,10 @@
 (
     name: "Starlight",
     foreground: "#ffffff",
+    background: "#242424",
     cursor: "#ffffff",
     bright_foreground: "#ffffff",
-    dim_foreground: "#242424",
+    dim_foreground: "#616161",
 
     normal: (
         black: "#242424",

@@ -1,9 +1,10 @@
 (
     name: "Earl Grey",
     foreground: "#605a52",
+    background: "#fcfbf9",
     cursor: "#605a52",
     bright_foreground: "#605a52",
-    dim_foreground: "#605a52",
+    dim_foreground: "#a8a094",
 
     normal: (
         black: "#605a52",

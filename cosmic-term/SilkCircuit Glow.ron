@@ -1,9 +1,10 @@
 (
     name: "SilkCircuit Glow",
     foreground: "#ffffff",
+    background: "#0a0816",
     cursor: "#00ffff",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#818181",
 
     normal: (
         black: "#000000",

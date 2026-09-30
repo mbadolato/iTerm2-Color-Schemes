@@ -1,9 +1,10 @@
 (
     name: "Guezwhoz",
     foreground: "#d9d9d9",
+    background: "#1d1d1d",
     cursor: "#99d4b1",
     bright_foreground: "#d9d9d9",
-    dim_foreground: "#333333",
+    dim_foreground: "#808080",
 
     normal: (
         black: "#333333",

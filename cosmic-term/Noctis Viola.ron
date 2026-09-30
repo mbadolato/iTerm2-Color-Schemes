@@ -1,9 +1,10 @@
 (
     name: "Noctis Viola",
     foreground: "#ccbfd9",
+    background: "#30243d",
     cursor: "#ccbfd9",
     bright_foreground: "#ccbfd9",
-    dim_foreground: "#362f3d",
+    dim_foreground: "#594e65",
 
     normal: (
         black: "#362f3d",

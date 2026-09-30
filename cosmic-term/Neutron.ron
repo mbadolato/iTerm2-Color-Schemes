@@ -1,9 +1,10 @@
 (
     name: "Neutron",
     foreground: "#e6e8ef",
+    background: "#1c1e22",
     cursor: "#f6f7ec",
     bright_foreground: "#e6e8ef",
-    dim_foreground: "#23252b",
+    dim_foreground: "#494b51",
 
     normal: (
         black: "#23252b",

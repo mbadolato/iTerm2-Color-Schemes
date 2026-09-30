@@ -1,9 +1,10 @@
 (
     name: "datum (dark)",
     foreground: "#dbe0e8",
+    background: "#0f1318",
     cursor: "#fa94cd",
     bright_foreground: "#dbe0e8",
-    dim_foreground: "#2b2f35",
+    dim_foreground: "#8f98a3",
 
     normal: (
         black: "#2b2f35",

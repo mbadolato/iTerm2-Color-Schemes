@@ -1,9 +1,10 @@
 (
     name: "Wryan",
     foreground: "#999993",
+    background: "#101010",
     cursor: "#9e9ecb",
     bright_foreground: "#999993",
-    dim_foreground: "#333333",
+    dim_foreground: "#3d3d3d",
 
     normal: (
         black: "#333333",

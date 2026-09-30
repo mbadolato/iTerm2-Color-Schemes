@@ -1,9 +1,10 @@
 (
     name: "Monokai Pro Light Sun",
     foreground: "#2c232e",
+    background: "#f8efe7",
     cursor: "#72696d",
     bright_foreground: "#2c232e",
-    dim_foreground: "#f8efe7",
+    dim_foreground: "#a59c9c",
 
     normal: (
         black: "#f8efe7",

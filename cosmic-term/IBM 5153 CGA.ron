@@ -1,9 +1,10 @@
 (
     name: "IBM 5153 CGA",
     foreground: "#cecece",
+    background: "#141414",
     cursor: "#cecece",
     bright_foreground: "#cecece",
-    dim_foreground: "#141414",
+    dim_foreground: "#4e4e4e",
 
     normal: (
         black: "#141414",

@@ -332,6 +332,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/clear-dark.png)
 
+### Clockwork Gold
+
+![Screenshot](/screenshots/clockwork-gold.png)
+
 ### Cobalt Neon
 
 ![Screenshot](/screenshots/cobalt-neon.png)

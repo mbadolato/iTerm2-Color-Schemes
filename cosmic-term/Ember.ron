@@ -1,9 +1,10 @@
 (
     name: "Ember",
     foreground: "#f3e3d1",
+    background: "#1b0f0b",
     cursor: "#d17a3c",
     bright_foreground: "#f3e3d1",
-    dim_foreground: "#40261b",
+    dim_foreground: "#6a4a38",
 
     normal: (
         black: "#40261b",

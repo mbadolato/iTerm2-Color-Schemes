@@ -1,9 +1,10 @@
 (
     name: "JetBrains Islands Dark",
     foreground: "#bcbec4",
+    background: "#191a1c",
     cursor: "#ced0d6",
     bright_foreground: "#bcbec4",
-    dim_foreground: "#191a1c",
+    dim_foreground: "#7a7e85",
 
     normal: (
         black: "#191a1c",

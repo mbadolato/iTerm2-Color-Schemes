@@ -1,9 +1,10 @@
 (
     name: "Chalkboard",
     foreground: "#d9e6f2",
+    background: "#29262f",
     cursor: "#d9e6f2",
     bright_foreground: "#d9e6f2",
-    dim_foreground: "#000000",
+    dim_foreground: "#585858",
 
     normal: (
         black: "#000000",

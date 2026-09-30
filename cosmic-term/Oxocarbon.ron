@@ -1,9 +1,10 @@
 (
     name: "Oxocarbon",
     foreground: "#f2f4f8",
+    background: "#161616",
     cursor: "#ffffff",
     bright_foreground: "#f2f4f8",
-    dim_foreground: "#161616",
+    dim_foreground: "#585858",
 
     normal: (
         black: "#161616",

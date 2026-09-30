@@ -1,9 +1,10 @@
 (
     name: "The Hulk",
     foreground: "#b5b5b5",
+    background: "#1b1d1e",
     cursor: "#16b61b",
     bright_foreground: "#b5b5b5",
-    dim_foreground: "#1b1d1e",
+    dim_foreground: "#505354",
 
     normal: (
         black: "#1b1d1e",

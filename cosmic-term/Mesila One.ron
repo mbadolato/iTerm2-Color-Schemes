@@ -1,9 +1,10 @@
 (
     name: "Mesila One",
     foreground: "#e9fae3",
+    background: "#1b1f23",
     cursor: "#5cc8ff",
     bright_foreground: "#e9fae3",
-    dim_foreground: "#101418",
+    dim_foreground: "#7d70ba",
 
     normal: (
         black: "#101418",

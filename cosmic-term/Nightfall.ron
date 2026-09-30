@@ -1,9 +1,10 @@
 (
     name: "Nightfall",
     foreground: "#f6e8d0",
+    background: "#1a140e",
     cursor: "#d4a85c",
     bright_foreground: "#f6e8d0",
-    dim_foreground: "#3a2f24",
+    dim_foreground: "#5b4a3a",
 
     normal: (
         black: "#3a2f24",

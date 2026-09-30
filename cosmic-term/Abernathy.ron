@@ -1,9 +1,10 @@
 (
     name: "Abernathy",
     foreground: "#eeeeec",
+    background: "#111416",
     cursor: "#bbbbbb",
     bright_foreground: "#eeeeec",
-    dim_foreground: "#000000",
+    dim_foreground: "#404040",
 
     normal: (
         black: "#000000",

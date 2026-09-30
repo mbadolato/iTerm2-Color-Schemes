@@ -1,9 +1,10 @@
 (
     name: "Patina Lichen",
     foreground: "#393a34",
+    background: "#cdd1c6",
     cursor: "#393a34",
     bright_foreground: "#393a34",
-    dim_foreground: "#393a34",
+    dim_foreground: "#5b5b54",
 
     normal: (
         black: "#393a34",

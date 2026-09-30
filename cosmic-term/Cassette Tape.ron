@@ -1,9 +1,10 @@
 (
     name: "Cassette Tape",
     foreground: "#2b1b12",
+    background: "#fff7ed",
     cursor: "#2b1b12",
     bright_foreground: "#2b1b12",
-    dim_foreground: "#514339",
+    dim_foreground: "#c4b39a",
 
     normal: (
         black: "#514339",

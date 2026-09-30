@@ -1,9 +1,10 @@
 (
     name: "Rhoads LP",
     foreground: "#2b2618",
+    background: "#fdf7e8",
     cursor: "#d4b34f",
     bright_foreground: "#2b2618",
-    dim_foreground: "#3b3525",
+    dim_foreground: "#8a8474",
 
     normal: (
         black: "#3b3525",

@@ -1,9 +1,10 @@
 (
     name: "Forest Blue",
     foreground: "#e2d8cd",
+    background: "#051519",
     cursor: "#9e9ecb",
     bright_foreground: "#e2d8cd",
-    dim_foreground: "#333333",
+    dim_foreground: "#4a4a4a",
 
     normal: (
         black: "#333333",

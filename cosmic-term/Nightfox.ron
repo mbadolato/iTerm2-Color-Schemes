@@ -1,9 +1,10 @@
 (
     name: "Nightfox",
     foreground: "#cdcecf",
+    background: "#192330",
     cursor: "#cdcecf",
     bright_foreground: "#cdcecf",
-    dim_foreground: "#393b44",
+    dim_foreground: "#575860",
 
     normal: (
         black: "#393b44",

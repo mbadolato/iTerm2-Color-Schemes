@@ -1,9 +1,10 @@
 (
     name: "X Lahabana",
     foreground: "#f7f1ff",
+    background: "#19191a",
     cursor: "#f7f1ff",
     bright_foreground: "#f7f1ff",
-    dim_foreground: "#19191a",
+    dim_foreground: "#4c4c4d",
 
     normal: (
         black: "#19191a",

@@ -1,9 +1,10 @@
 (
     name: "TokyoNight Night",
     foreground: "#c0caf5",
+    background: "#1a1b26",
     cursor: "#c0caf5",
     bright_foreground: "#c0caf5",
-    dim_foreground: "#15161e",
+    dim_foreground: "#414868",
 
     normal: (
         black: "#15161e",

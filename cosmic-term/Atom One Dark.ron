@@ -1,9 +1,10 @@
 (
     name: "Atom One Dark",
     foreground: "#abb2bf",
+    background: "#21252b",
     cursor: "#abb2bf",
     bright_foreground: "#abb2bf",
-    dim_foreground: "#21252b",
+    dim_foreground: "#767676",
 
     normal: (
         black: "#21252b",

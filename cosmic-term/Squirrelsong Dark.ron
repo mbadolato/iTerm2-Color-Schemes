@@ -1,9 +1,10 @@
 (
     name: "Squirrelsong Dark",
     foreground: "#b19b89",
+    background: "#372920",
     cursor: "#b19b89",
     bright_foreground: "#b19b89",
-    dim_foreground: "#372920",
+    dim_foreground: "#704f39",
 
     normal: (
         black: "#372920",

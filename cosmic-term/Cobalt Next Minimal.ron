@@ -1,9 +1,10 @@
 (
     name: "Cobalt Next Minimal",
     foreground: "#d7deea",
+    background: "#0b1c24",
     cursor: "#37b5b4",
     bright_foreground: "#d7deea",
-    dim_foreground: "#323d47",
+    dim_foreground: "#62747f",
 
     normal: (
         black: "#323d47",

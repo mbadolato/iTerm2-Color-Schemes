@@ -1,9 +1,10 @@
 (
     name: "IC Orange PPL",
     foreground: "#ffcb83",
+    background: "#262626",
     cursor: "#fc531d",
     bright_foreground: "#ffcb83",
-    dim_foreground: "#000000",
+    dim_foreground: "#6a4f2a",
 
     normal: (
         black: "#000000",

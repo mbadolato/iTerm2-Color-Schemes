@@ -1,9 +1,10 @@
 (
     name: "Blue Dolphin",
     foreground: "#c5f2ff",
+    background: "#006984",
     cursor: "#ffcc00",
     bright_foreground: "#c5f2ff",
-    dim_foreground: "#292d3e",
+    dim_foreground: "#9094a4",
 
     normal: (
         black: "#292d3e",

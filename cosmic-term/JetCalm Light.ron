@@ -1,9 +1,10 @@
 (
     name: "JetCalm Light",
     foreground: "#1c2410",
+    background: "#ededed",
     cursor: "#082108",
     bright_foreground: "#1c2410",
-    dim_foreground: "#383a42",
+    dim_foreground: "#4f525d",
 
     normal: (
         black: "#383a42",

@@ -1,9 +1,10 @@
 (
     name: "cyberpunk-icy",
     foreground: "#d4b3f7",
+    background: "#0a0a0f",
     cursor: "#00ffff",
     bright_foreground: "#d4b3f7",
-    dim_foreground: "#1a1a2e",
+    dim_foreground: "#444468",
 
     normal: (
         black: "#1a1a2e",

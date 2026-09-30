@@ -1,9 +1,10 @@
 (
     name: "Selenized Light",
     foreground: "#53676d",
+    background: "#fbf3db",
     cursor: "#53676d",
     bright_foreground: "#53676d",
-    dim_foreground: "#ece3cc",
+    dim_foreground: "#909995",
 
     normal: (
         black: "#ece3cc",

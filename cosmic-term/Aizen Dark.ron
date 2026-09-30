@@ -1,9 +1,10 @@
 (
     name: "Aizen Dark",
     foreground: "#d0d6f0",
+    background: "#1a1a1a",
     cursor: "#f8b080",
     bright_foreground: "#d0d6f0",
-    dim_foreground: "#1a1a1a",
+    dim_foreground: "#444444",
 
     normal: (
         black: "#1a1a1a",

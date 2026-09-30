@@ -1,9 +1,10 @@
 (
     name: "GitHub Dark Default",
     foreground: "#e6edf3",
+    background: "#0d1117",
     cursor: "#2f81f7",
     bright_foreground: "#e6edf3",
-    dim_foreground: "#484f58",
+    dim_foreground: "#6e7681",
 
     normal: (
         black: "#484f58",

@@ -1,9 +1,10 @@
 (
     name: "Breeze",
     foreground: "#eff0f1",
+    background: "#31363b",
     cursor: "#eff0f1",
     bright_foreground: "#eff0f1",
-    dim_foreground: "#31363b",
+    dim_foreground: "#7f8c8d",
 
     normal: (
         black: "#31363b",

@@ -1,9 +1,10 @@
 (
     name: "Karma Dark HC",
     foreground: "#ffffff",
+    background: "#000000",
     cursor: "#fce566",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#69676c",
 
     normal: (
         black: "#000000",

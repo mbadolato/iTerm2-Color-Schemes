@@ -1,9 +1,10 @@
 (
     name: "Monokai Vivid",
     foreground: "#f9f9f9",
+    background: "#121212",
     cursor: "#fb0007",
     bright_foreground: "#f9f9f9",
-    dim_foreground: "#121212",
+    dim_foreground: "#838383",
 
     normal: (
         black: "#121212",

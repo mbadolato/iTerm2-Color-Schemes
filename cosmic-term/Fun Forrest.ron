@@ -1,9 +1,10 @@
 (
     name: "Fun Forrest",
     foreground: "#dec165",
+    background: "#251200",
     cursor: "#e5591c",
     bright_foreground: "#dec165",
-    dim_foreground: "#000000",
+    dim_foreground: "#7f6a55",
 
     normal: (
         black: "#000000",

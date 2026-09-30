@@ -1,9 +1,10 @@
 (
     name: "Material",
     foreground: "#232322",
+    background: "#eaeaea",
     cursor: "#16afca",
     bright_foreground: "#232322",
-    dim_foreground: "#212121",
+    dim_foreground: "#424242",
 
     normal: (
         black: "#212121",

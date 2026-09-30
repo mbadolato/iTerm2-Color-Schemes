@@ -1,9 +1,10 @@
 (
     name: "Atlas Ragnarok",
     foreground: "#ffffff",
+    background: "#000000",
     cursor: "#3b82f6",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#505050",
 
     normal: (
         black: "#000000",

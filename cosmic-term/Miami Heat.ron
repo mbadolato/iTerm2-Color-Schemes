@@ -1,9 +1,10 @@
 (
     name: "Miami Heat",
     foreground: "#fce7ff",
+    background: "#120b2e",
     cursor: "#ff2e97",
     bright_foreground: "#fce7ff",
-    dim_foreground: "#2a1a4a",
+    dim_foreground: "#5e5388",
 
     normal: (
         black: "#2a1a4a",

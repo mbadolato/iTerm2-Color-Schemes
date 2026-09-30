@@ -1,9 +1,10 @@
 (
     name: "Eclipse",
     foreground: "#dce3ed",
+    background: "#0e1116",
     cursor: "#f6c45f",
     bright_foreground: "#dce3ed",
-    dim_foreground: "#0a0d12",
+    dim_foreground: "#5c6675",
 
     normal: (
         black: "#0a0d12",

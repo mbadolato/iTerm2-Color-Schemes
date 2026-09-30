@@ -1,9 +1,10 @@
 (
     name: "Noctis Obscuro",
     foreground: "#b2cacd",
+    background: "#031417",
     cursor: "#b2cacd",
     bright_foreground: "#b2cacd",
-    dim_foreground: "#324a4d",
+    dim_foreground: "#47686c",
 
     normal: (
         black: "#324a4d",

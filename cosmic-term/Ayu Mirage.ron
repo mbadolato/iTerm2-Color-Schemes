@@ -1,9 +1,10 @@
 (
     name: "Ayu Mirage",
     foreground: "#cccac2",
+    background: "#1f2430",
     cursor: "#ffcc66",
     bright_foreground: "#cccac2",
-    dim_foreground: "#171b24",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#171b24",

@@ -1,9 +1,10 @@
 (
     name: "Karma Light HC",
     foreground: "#000000",
+    background: "#ffffff",
     cursor: "#4d2d9a",
     bright_foreground: "#000000",
-    dim_foreground: "#000000",
+    dim_foreground: "#999999",
 
     normal: (
         black: "#000000",

@@ -1,9 +1,10 @@
 (
     name: "GitHub Light Colorblind",
     foreground: "#24292f",
+    background: "#ffffff",
     cursor: "#0969da",
     bright_foreground: "#24292f",
-    dim_foreground: "#24292f",
+    dim_foreground: "#57606a",
 
     normal: (
         black: "#24292f",

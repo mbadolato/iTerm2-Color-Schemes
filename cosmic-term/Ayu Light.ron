@@ -1,9 +1,10 @@
 (
     name: "Ayu Light",
     foreground: "#5c6166",
+    background: "#f8f9fa",
     cursor: "#ffaa33",
     bright_foreground: "#5c6166",
-    dim_foreground: "#000000",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#000000",

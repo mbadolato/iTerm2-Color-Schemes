@@ -1,9 +1,10 @@
 (
     name: "IC Green PPL",
     foreground: "#e0f1dc",
+    background: "#2c2c2c",
     cursor: "#47fa6b",
     bright_foreground: "#e0f1dc",
-    dim_foreground: "#014401",
+    dim_foreground: "#106910",
 
     normal: (
         black: "#014401",

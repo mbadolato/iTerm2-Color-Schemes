@@ -1,9 +1,10 @@
 (
     name: "traffic",
     foreground: "#cfb9a8",
+    background: "#272c30",
     cursor: "#cfb9a8",
     bright_foreground: "#cfb9a8",
-    dim_foreground: "#282d31",
+    dim_foreground: "#4e575e",
 
     normal: (
         black: "#282d31",

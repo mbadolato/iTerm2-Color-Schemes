@@ -1,9 +1,10 @@
 (
     name: "Outrun Electric",
     foreground: "#f2f3f7",
+    background: "#0c0a20",
     cursor: "#ff2afc",
     bright_foreground: "#f2f3f7",
-    dim_foreground: "#131033",
+    dim_foreground: "#546a90",
 
     normal: (
         black: "#131033",

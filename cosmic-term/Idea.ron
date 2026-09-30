@@ -1,9 +1,10 @@
 (
     name: "Idea",
     foreground: "#adadad",
+    background: "#202020",
     cursor: "#bbbbbb",
     bright_foreground: "#adadad",
-    dim_foreground: "#adadad",
+    dim_foreground: "#ffffff",
 
     normal: (
         black: "#adadad",

@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Coral",
     foreground: "#1d1d1d",
+    background: "#ffffff",
     cursor: "#f24e1e",
     bright_foreground: "#1d1d1d",
-    dim_foreground: "#d9d9d9",
+    dim_foreground: "#b3b3b3",
 
     normal: (
         black: "#d9d9d9",

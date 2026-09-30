@@ -1,9 +1,10 @@
 (
     name: "Wombat",
     foreground: "#dedacf",
+    background: "#171717",
     cursor: "#bbbbbb",
     bright_foreground: "#dedacf",
-    dim_foreground: "#000000",
+    dim_foreground: "#4a4a4a",
 
     normal: (
         black: "#000000",

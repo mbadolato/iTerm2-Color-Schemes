@@ -1,9 +1,10 @@
 (
     name: "Electron Highlighter",
     foreground: "#a5b6d4",
+    background: "#23283d",
     cursor: "#a5b6d4",
     bright_foreground: "#a5b6d4",
-    dim_foreground: "#15161f",
+    dim_foreground: "#4b5b8c",
 
     normal: (
         black: "#15161f",

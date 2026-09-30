@@ -1,9 +1,10 @@
 (
     name: "Patina Light",
     foreground: "#2e2a24",
+    background: "#ddd7c4",
     cursor: "#2e2a24",
     bright_foreground: "#2e2a24",
-    dim_foreground: "#2e2a24",
+    dim_foreground: "#625a51",
 
     normal: (
         black: "#2e2a24",

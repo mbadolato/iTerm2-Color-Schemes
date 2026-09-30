@@ -1,9 +1,10 @@
 (
     name: "Sequoia Moonlight Light",
     foreground: "#282930",
+    background: "#edeef2",
     cursor: "#565760",
     bright_foreground: "#282930",
-    dim_foreground: "#d4d5dc",
+    dim_foreground: "#42434e",
 
     normal: (
         black: "#d4d5dc",

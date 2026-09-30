@@ -1,9 +1,10 @@
 (
     name: "Monokai Classic",
     foreground: "#fdfff1",
+    background: "#272822",
     cursor: "#c0c1b5",
     bright_foreground: "#fdfff1",
-    dim_foreground: "#272822",
+    dim_foreground: "#6e7066",
 
     normal: (
         black: "#272822",

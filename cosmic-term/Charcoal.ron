@@ -1,9 +1,10 @@
 (
     name: "Charcoal",
     foreground: "#c4c4c4",
+    background: "#0d0d0d",
     cursor: "#d0d0d0",
     bright_foreground: "#c4c4c4",
-    dim_foreground: "#111111",
+    dim_foreground: "#474747",
 
     normal: (
         black: "#111111",

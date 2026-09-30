@@ -1,9 +1,10 @@
 (
     name: "Blue Berry Pie",
     foreground: "#babab9",
+    background: "#1c0c28",
     cursor: "#fcfad6",
     bright_foreground: "#babab9",
-    dim_foreground: "#0a4c62",
+    dim_foreground: "#463c5d",
 
     normal: (
         black: "#0a4c62",

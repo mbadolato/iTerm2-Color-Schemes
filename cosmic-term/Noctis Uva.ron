@@ -1,9 +1,10 @@
 (
     name: "Noctis Uva",
     foreground: "#c5c2d6",
+    background: "#292640",
     cursor: "#c5c2d6",
     bright_foreground: "#c5c2d6",
-    dim_foreground: "#302f3d",
+    dim_foreground: "#504e65",
 
     normal: (
         black: "#302f3d",

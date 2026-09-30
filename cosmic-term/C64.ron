@@ -1,9 +1,10 @@
 (
     name: "C64",
     foreground: "#7869c4",
+    background: "#40318d",
     cursor: "#7869c4",
     bright_foreground: "#7869c4",
-    dim_foreground: "#090300",
+    dim_foreground: "#000000",
 
     normal: (
         black: "#090300",

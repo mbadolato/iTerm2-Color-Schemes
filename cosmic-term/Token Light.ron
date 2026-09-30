@@ -1,9 +1,10 @@
 (
     name: "Token Light",
     foreground: "#2a2920",
+    background: "#faf9f5",
     cursor: "#2a2920",
     bright_foreground: "#2a2920",
-    dim_foreground: "#2a2920",
+    dim_foreground: "#6c675f",
 
     normal: (
         black: "#2a2920",

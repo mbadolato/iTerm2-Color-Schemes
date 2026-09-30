@@ -1,0 +1,41 @@
+(
+    name: "Clockwork Gold",
+    foreground: "#ebe8e0",
+    background: "#1d1c19",
+    cursor: "#ffcc00",
+    bright_foreground: "#ebe8e0",
+    dim_foreground: "#4c4b47",
+
+    normal: (
+        black: "#1d1c19",
+        red: "#e94b4a",
+        green: "#73c881",
+        yellow: "#ffcc00",
+        blue: "#4fa3f4",
+        magenta: "#ef3ead",
+        cyan: "#64c3c3",
+        white: "#a9a69d"
+    ),
+
+    bright: (
+        black: "#4c4b47",
+        red: "#ff716b",
+        green: "#88e196",
+        yellow: "#c89f00",
+        blue: "#76c0ff",
+        magenta: "#ff68c6",
+        cyan: "#82e1e0",
+        white: "#fcfaf4"
+    ),
+
+    dim: (
+        black: "#1d1c19",
+        red: "#e94b4a",
+        green: "#73c881",
+        yellow: "#ffcc00",
+        blue: "#4fa3f4",
+        magenta: "#ef3ead",
+        cyan: "#64c3c3",
+        white: "#a9a69d"
+    ),
+)

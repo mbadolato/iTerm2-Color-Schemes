@@ -1,9 +1,10 @@
 (
     name: "Midnight Arcade",
     foreground: "#f8fafc",
+    background: "#0b1220",
     cursor: "#f8fafc",
     bright_foreground: "#f8fafc",
-    dim_foreground: "#3f4550",
+    dim_foreground: "#3d4452",
 
     normal: (
         black: "#3f4550",

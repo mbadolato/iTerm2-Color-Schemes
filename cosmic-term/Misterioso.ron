@@ -1,9 +1,10 @@
 (
     name: "Misterioso",
     foreground: "#e1e1e0",
+    background: "#2d3743",
     cursor: "#666666",
     bright_foreground: "#e1e1e0",
-    dim_foreground: "#000000",
+    dim_foreground: "#626262",
 
     normal: (
         black: "#000000",

@@ -1,9 +1,10 @@
 (
     name: "Poimandres Darker",
     foreground: "#a6accd",
+    background: "#16161e",
     cursor: "#ffffff",
     bright_foreground: "#a6accd",
-    dim_foreground: "#16161e",
+    dim_foreground: "#a6accd",
 
     normal: (
         black: "#16161e",

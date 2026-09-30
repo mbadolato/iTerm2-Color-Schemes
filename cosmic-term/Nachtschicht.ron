@@ -1,9 +1,10 @@
 (
     name: "Nachtschicht",
     foreground: "#e8eaed",
+    background: "#17191d",
     cursor: "#e3b341",
     bright_foreground: "#e8eaed",
-    dim_foreground: "#0e1012",
+    dim_foreground: "#9da4af",
 
     normal: (
         black: "#0e1012",

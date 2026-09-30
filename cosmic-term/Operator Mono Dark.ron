@@ -1,9 +1,10 @@
 (
     name: "Operator Mono Dark",
     foreground: "#c3cac2",
+    background: "#191919",
     cursor: "#fcdc08",
     bright_foreground: "#c3cac2",
-    dim_foreground: "#5a5a5a",
+    dim_foreground: "#9a9b99",
 
     normal: (
         black: "#5a5a5a",

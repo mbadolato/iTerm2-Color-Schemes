@@ -1,9 +1,10 @@
 (
     name: "Floraverse",
     foreground: "#dbd1b9",
+    background: "#0e0d15",
     cursor: "#bbbbbb",
     bright_foreground: "#dbd1b9",
-    dim_foreground: "#08002e",
+    dim_foreground: "#4c3866",
 
     normal: (
         black: "#08002e",

@@ -1,9 +1,10 @@
 (
     name: "Kanso Ink",
     foreground: "#c5c9c7",
+    background: "#14171d",
     cursor: "#c5c9c7",
     bright_foreground: "#c5c9c7",
-    dim_foreground: "#14171d",
+    dim_foreground: "#a4a7a4",
 
     normal: (
         black: "#14171d",

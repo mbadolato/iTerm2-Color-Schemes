@@ -1,9 +1,10 @@
 (
     name: "Prince of Darkness",
     foreground: "#dcd3ff",
+    background: "#0a0714",
     cursor: "#b47dff",
     bright_foreground: "#dcd3ff",
-    dim_foreground: "#2d1b4e",
+    dim_foreground: "#676175",
 
     normal: (
         black: "#2d1b4e",

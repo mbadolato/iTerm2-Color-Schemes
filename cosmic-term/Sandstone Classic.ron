@@ -1,9 +1,10 @@
 (
     name: "Sandstone Classic",
     foreground: "#3d5259",
+    background: "#fdf6e3",
     cursor: "#3d5259",
     bright_foreground: "#3d5259",
-    dim_foreground: "#073642",
+    dim_foreground: "#3d5259",
 
     normal: (
         black: "#073642",

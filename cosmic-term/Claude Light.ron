@@ -1,9 +1,10 @@
 (
     name: "Claude Light",
     foreground: "#141413",
+    background: "#faf9f5",
     cursor: "#d97757",
     bright_foreground: "#141413",
-    dim_foreground: "#0a0a0a",
+    dim_foreground: "#51504d",
 
     normal: (
         black: "#0a0a0a",

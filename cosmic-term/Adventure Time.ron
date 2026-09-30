@@ -1,9 +1,10 @@
 (
     name: "Adventure Time",
     foreground: "#f8dcc0",
+    background: "#1f1d45",
     cursor: "#efbf38",
     bright_foreground: "#f8dcc0",
-    dim_foreground: "#050404",
+    dim_foreground: "#4e7cbf",
 
     normal: (
         black: "#050404",

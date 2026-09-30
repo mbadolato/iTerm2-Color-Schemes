@@ -1,9 +1,10 @@
 (
     name: "Dalton Dark",
     foreground: "#c8c9cc",
+    background: "#1b1b1b",
     cursor: "#9a9a9a",
     bright_foreground: "#c8c9cc",
-    dim_foreground: "#282828",
+    dim_foreground: "#494949",
 
     normal: (
         black: "#282828",

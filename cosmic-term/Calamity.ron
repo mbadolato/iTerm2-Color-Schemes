@@ -1,9 +1,10 @@
 (
     name: "Calamity",
     foreground: "#d5ced9",
+    background: "#2f2833",
     cursor: "#d5ced9",
     bright_foreground: "#d5ced9",
-    dim_foreground: "#2f2833",
+    dim_foreground: "#7e6c88",
 
     normal: (
         black: "#2f2833",

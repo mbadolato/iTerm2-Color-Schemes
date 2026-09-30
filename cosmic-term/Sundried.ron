@@ -1,9 +1,10 @@
 (
     name: "Sundried",
     foreground: "#c9c9c9",
+    background: "#1a1818",
     cursor: "#ffffff",
     bright_foreground: "#c9c9c9",
-    dim_foreground: "#302b2a",
+    dim_foreground: "#4d4e48",
 
     normal: (
         black: "#302b2a",

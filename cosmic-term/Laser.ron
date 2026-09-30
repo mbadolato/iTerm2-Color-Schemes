@@ -1,9 +1,10 @@
 (
     name: "Laser",
     foreground: "#f106e3",
+    background: "#030d18",
     cursor: "#00ff9c",
     bright_foreground: "#f106e3",
-    dim_foreground: "#626262",
+    dim_foreground: "#8f8f8f",
 
     normal: (
         black: "#626262",

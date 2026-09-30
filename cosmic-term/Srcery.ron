@@ -1,9 +1,10 @@
 (
     name: "Srcery",
     foreground: "#fce8c3",
+    background: "#1c1b19",
     cursor: "#fbb829",
     bright_foreground: "#fce8c3",
-    dim_foreground: "#1c1b19",
+    dim_foreground: "#918175",
 
     normal: (
         black: "#1c1b19",

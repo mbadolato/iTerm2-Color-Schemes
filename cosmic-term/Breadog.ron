@@ -1,9 +1,10 @@
 (
     name: "Breadog",
     foreground: "#362c24",
+    background: "#f1ebe6",
     cursor: "#362c24",
     bright_foreground: "#362c24",
-    dim_foreground: "#362c24",
+    dim_foreground: "#514337",
 
     normal: (
         black: "#362c24",

@@ -1,9 +1,10 @@
 (
     name: "Keys Ocean Sunset",
     foreground: "#b8c8dc",
+    background: "#0a1018",
     cursor: "#fc9077",
     bright_foreground: "#b8c8dc",
-    dim_foreground: "#101927",
+    dim_foreground: "#344658",
 
     normal: (
         black: "#101927",

@@ -1,9 +1,10 @@
 (
     name: "Noctis Azureus",
     foreground: "#becfda",
+    background: "#07273b",
     cursor: "#becfda",
     bright_foreground: "#becfda",
-    dim_foreground: "#28353e",
+    dim_foreground: "#475e6c",
 
     normal: (
         black: "#28353e",

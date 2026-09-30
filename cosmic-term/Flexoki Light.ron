@@ -1,9 +1,10 @@
 (
     name: "Flexoki Light",
     foreground: "#100f0f",
+    background: "#fffcf0",
     cursor: "#100f0f",
     bright_foreground: "#100f0f",
-    dim_foreground: "#100f0f",
+    dim_foreground: "#b7b5ac",
 
     normal: (
         black: "#100f0f",

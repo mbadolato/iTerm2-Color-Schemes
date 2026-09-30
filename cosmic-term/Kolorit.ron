@@ -1,9 +1,10 @@
 (
     name: "Kolorit",
     foreground: "#efecec",
+    background: "#1d1a1e",
     cursor: "#c7c7c7",
     bright_foreground: "#efecec",
-    dim_foreground: "#1d1a1e",
+    dim_foreground: "#504d51",
 
     normal: (
         black: "#1d1a1e",

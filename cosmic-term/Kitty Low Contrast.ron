@@ -1,9 +1,10 @@
 (
     name: "Kitty Low Contrast",
     foreground: "#ffffff",
+    background: "#333333",
     cursor: "#cccccc",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#767676",
 
     normal: (
         black: "#000000",

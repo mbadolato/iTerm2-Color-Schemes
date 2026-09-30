@@ -1,9 +1,10 @@
 (
     name: "Night Owl",
     foreground: "#d6deeb",
+    background: "#011627",
     cursor: "#7e57c2",
     bright_foreground: "#d6deeb",
-    dim_foreground: "#011627",
+    dim_foreground: "#575656",
 
     normal: (
         black: "#011627",

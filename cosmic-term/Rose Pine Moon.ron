@@ -1,9 +1,10 @@
 (
     name: "Rose Pine Moon",
     foreground: "#e0def4",
+    background: "#232136",
     cursor: "#e0def4",
     bright_foreground: "#e0def4",
-    dim_foreground: "#393552",
+    dim_foreground: "#6e6a86",
 
     normal: (
         black: "#393552",

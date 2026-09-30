@@ -1,9 +1,10 @@
 (
     name: "Vimbones",
     foreground: "#353535",
+    background: "#f0f0ca",
     cursor: "#353535",
     bright_foreground: "#353535",
-    dim_foreground: "#f0f0ca",
+    dim_foreground: "#acac89",
 
     normal: (
         black: "#f0f0ca",

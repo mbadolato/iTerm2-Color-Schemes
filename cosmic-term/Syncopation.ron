@@ -1,9 +1,10 @@
 (
     name: "Syncopation",
     foreground: "#d6dad4",
+    background: "#0e1317",
     cursor: "#ffb23d",
     bright_foreground: "#d6dad4",
-    dim_foreground: "#222b34",
+    dim_foreground: "#76828d",
 
     normal: (
         black: "#222b34",

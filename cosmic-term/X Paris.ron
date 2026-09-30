@@ -1,9 +1,10 @@
 (
     name: "X Paris",
     foreground: "#f7f1ff",
+    background: "#1a0a30",
     cursor: "#f7f1ff",
     bright_foreground: "#f7f1ff",
-    dim_foreground: "#1a0a30",
+    dim_foreground: "#c4bdff",
 
     normal: (
         black: "#1a0a30",

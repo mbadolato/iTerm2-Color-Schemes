@@ -1,9 +1,10 @@
 (
     name: "Lab Fox",
     foreground: "#ffffff",
+    background: "#2e2e2e",
     cursor: "#7f7f7f",
     bright_foreground: "#ffffff",
-    dim_foreground: "#2e2e2e",
+    dim_foreground: "#535353",
 
     normal: (
         black: "#2e2e2e",

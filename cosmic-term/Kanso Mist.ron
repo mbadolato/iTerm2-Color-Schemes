@@ -1,9 +1,10 @@
 (
     name: "Kanso Mist",
     foreground: "#c5c9c7",
+    background: "#22262d",
     cursor: "#c5c9c7",
     bright_foreground: "#c5c9c7",
-    dim_foreground: "#22262d",
+    dim_foreground: "#5c6066",
 
     normal: (
         black: "#22262d",

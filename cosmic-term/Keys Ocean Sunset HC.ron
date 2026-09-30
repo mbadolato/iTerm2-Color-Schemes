@@ -1,9 +1,10 @@
 (
     name: "Keys Ocean Sunset HC",
     foreground: "#f0f4fa",
+    background: "#060910",
     cursor: "#ff8531",
     bright_foreground: "#f0f4fa",
-    dim_foreground: "#7a92a8",
+    dim_foreground: "#8aa0b8",
 
     normal: (
         black: "#7a92a8",

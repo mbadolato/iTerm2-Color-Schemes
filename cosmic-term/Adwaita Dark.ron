@@ -1,9 +1,10 @@
 (
     name: "Adwaita Dark",
     foreground: "#ffffff",
+    background: "#1c1c1f",
     cursor: "#ffffff",
     bright_foreground: "#ffffff",
-    dim_foreground: "#241f31",
+    dim_foreground: "#5e5c64",
 
     normal: (
         black: "#241f31",

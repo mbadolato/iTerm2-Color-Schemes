@@ -1,9 +1,10 @@
 (
     name: "No Clown Fiesta",
     foreground: "#e0e1e4",
+    background: "#101010",
     cursor: "#e0e1e4",
     bright_foreground: "#e0e1e4",
-    dim_foreground: "#151515",
+    dim_foreground: "#727272",
 
     normal: (
         black: "#151515",

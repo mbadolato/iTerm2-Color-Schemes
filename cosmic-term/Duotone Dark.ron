@@ -1,9 +1,10 @@
 (
     name: "Duotone Dark",
     foreground: "#b7a1ff",
+    background: "#1f1d27",
     cursor: "#ff9839",
     bright_foreground: "#b7a1ff",
-    dim_foreground: "#1f1d27",
+    dim_foreground: "#4e4a60",
 
     normal: (
         black: "#1f1d27",

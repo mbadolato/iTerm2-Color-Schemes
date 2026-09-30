@@ -1,9 +1,10 @@
 (
     name: "Jubi",
     foreground: "#c3d3de",
+    background: "#262b33",
     cursor: "#c3d3de",
     bright_foreground: "#c3d3de",
-    dim_foreground: "#3b3750",
+    dim_foreground: "#a874ce",
 
     normal: (
         black: "#3b3750",

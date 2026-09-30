@@ -1,9 +1,10 @@
 (
     name: "Zenburned",
     foreground: "#f0e4cf",
+    background: "#404040",
     cursor: "#f3eadb",
     bright_foreground: "#f0e4cf",
-    dim_foreground: "#404040",
+    dim_foreground: "#6f6768",
 
     normal: (
         black: "#404040",

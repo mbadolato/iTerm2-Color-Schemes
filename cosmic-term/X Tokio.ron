@@ -1,9 +1,10 @@
 (
     name: "X Tokio",
     foreground: "#f7f1ff",
+    background: "#1c1c1d",
     cursor: "#f7f1ff",
     bright_foreground: "#f7f1ff",
-    dim_foreground: "#1c1c1d",
+    dim_foreground: "#4f4f50",
 
     normal: (
         black: "#1c1c1d",

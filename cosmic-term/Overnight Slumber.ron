@@ -1,9 +1,10 @@
 (
     name: "Overnight Slumber",
     foreground: "#ced2d6",
+    background: "#0e1729",
     cursor: "#ffa7c4",
     bright_foreground: "#ced2d6",
-    dim_foreground: "#0a1222",
+    dim_foreground: "#575656",
 
     normal: (
         black: "#0a1222",

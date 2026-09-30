@@ -1,9 +1,10 @@
 (
     name: "Cobalt Next",
     foreground: "#d7deea",
+    background: "#162c35",
     cursor: "#ffc64c",
     bright_foreground: "#d7deea",
-    dim_foreground: "#000000",
+    dim_foreground: "#62747f",
 
     normal: (
         black: "#000000",

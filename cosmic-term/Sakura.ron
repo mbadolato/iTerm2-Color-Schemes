@@ -1,9 +1,10 @@
 (
     name: "Sakura",
     foreground: "#dd7bdc",
+    background: "#18131e",
     cursor: "#ff65fd",
     bright_foreground: "#dd7bdc",
-    dim_foreground: "#000000",
+    dim_foreground: "#786d69",
 
     normal: (
         black: "#000000",

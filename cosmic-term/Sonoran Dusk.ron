@@ -1,9 +1,10 @@
 (
     name: "Sonoran Dusk",
     foreground: "#e8e1d9",
+    background: "#1a0f24",
     cursor: "#f4a261",
     bright_foreground: "#e8e1d9",
-    dim_foreground: "#2d2433",
+    dim_foreground: "#6b7280",
 
     normal: (
         black: "#2d2433",

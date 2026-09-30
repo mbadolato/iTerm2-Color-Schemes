@@ -1,9 +1,10 @@
 (
     name: "Crayon Pony Fish",
     foreground: "#68525a",
+    background: "#150707",
     cursor: "#68525a",
     bright_foreground: "#68525a",
-    dim_foreground: "#2b1b1d",
+    dim_foreground: "#4a383b",
 
     normal: (
         black: "#2b1b1d",

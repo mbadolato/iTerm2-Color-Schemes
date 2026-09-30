@@ -1,9 +1,10 @@
 (
     name: "Melange Light",
     foreground: "#54433a",
+    background: "#f1f1f1",
     cursor: "#54433a",
     bright_foreground: "#54433a",
-    dim_foreground: "#e9e1db",
+    dim_foreground: "#a98a78",
 
     normal: (
         black: "#e9e1db",

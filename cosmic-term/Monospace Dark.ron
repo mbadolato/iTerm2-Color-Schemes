@@ -1,9 +1,10 @@
 (
     name: "Monospace Dark",
     foreground: "#a4afbd",
+    background: "#10151d",
     cursor: "#c8aaff",
     bright_foreground: "#a4afbd",
-    dim_foreground: "#738295",
+    dim_foreground: "#8b98a9",
 
     normal: (
         black: "#738295",

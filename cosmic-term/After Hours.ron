@@ -1,9 +1,10 @@
 (
     name: "After Hours",
     foreground: "#e6e1d9",
+    background: "#0f0b0a",
     cursor: "#d4af37",
     bright_foreground: "#e6e1d9",
-    dim_foreground: "#2a1f1a",
+    dim_foreground: "#6b5b4f",
 
     normal: (
         black: "#2a1f1a",

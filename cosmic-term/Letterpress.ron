@@ -1,9 +1,10 @@
 (
     name: "Letterpress",
     foreground: "#3a352c",
+    background: "#f3ecdf",
     cursor: "#2a5c8a",
     bright_foreground: "#3a352c",
-    dim_foreground: "#3a352c",
+    dim_foreground: "#8e886f",
 
     normal: (
         black: "#3a352c",

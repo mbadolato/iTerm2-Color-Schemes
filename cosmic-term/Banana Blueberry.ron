@@ -1,9 +1,10 @@
 (
     name: "Banana Blueberry",
     foreground: "#cccccc",
+    background: "#191323",
     cursor: "#e07d13",
     bright_foreground: "#cccccc",
-    dim_foreground: "#17141f",
+    dim_foreground: "#495162",
 
     normal: (
         black: "#17141f",

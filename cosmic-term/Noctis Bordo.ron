@@ -1,9 +1,10 @@
 (
     name: "Noctis Bordo",
     foreground: "#cbbec2",
+    background: "#322a2d",
     cursor: "#cbbec2",
     bright_foreground: "#cbbec2",
-    dim_foreground: "#47393e",
+    dim_foreground: "#69545b",
 
     normal: (
         black: "#47393e",

@@ -1,9 +1,10 @@
 (
     name: "Scarlet Protocol",
     foreground: "#e41951",
+    background: "#1c153d",
     cursor: "#76ff9f",
     bright_foreground: "#e41951",
-    dim_foreground: "#101116",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#101116",

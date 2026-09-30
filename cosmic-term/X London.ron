@@ -1,9 +1,10 @@
 (
     name: "X London",
     foreground: "#333333",
+    background: "#ffffff",
     cursor: "#333333",
     bright_foreground: "#333333",
-    dim_foreground: "#ffffff",
+    dim_foreground: "#333333",
 
     normal: (
         black: "#ffffff",

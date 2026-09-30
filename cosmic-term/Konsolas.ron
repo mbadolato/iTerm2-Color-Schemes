@@ -1,9 +1,10 @@
 (
     name: "Konsolas",
     foreground: "#c8c1c1",
+    background: "#060606",
     cursor: "#c8c1c1",
     bright_foreground: "#c8c1c1",
-    dim_foreground: "#000000",
+    dim_foreground: "#7b716e",
 
     normal: (
         black: "#000000",

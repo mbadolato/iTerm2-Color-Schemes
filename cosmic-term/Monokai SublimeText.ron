@@ -1,9 +1,10 @@
 (
     name: "Monokai SublimeText",
     foreground: "#f8f8f2",
+    background: "#272822",
     cursor: "#f8f8f0",
     bright_foreground: "#f8f8f2",
-    dim_foreground: "#333333",
+    dim_foreground: "#666666",
 
     normal: (
         black: "#333333",

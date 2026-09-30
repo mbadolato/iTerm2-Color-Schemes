@@ -1,9 +1,10 @@
 (
     name: "Horizon Bright",
     foreground: "#16161d",
+    background: "#fdf0ed",
     cursor: "#d3a89d",
     bright_foreground: "#16161d",
-    dim_foreground: "#16161d",
+    dim_foreground: "#1a1c24",
 
     normal: (
         black: "#16161d",

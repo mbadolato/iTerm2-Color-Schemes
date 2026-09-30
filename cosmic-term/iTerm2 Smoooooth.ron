@@ -1,9 +1,10 @@
 (
     name: "iTerm2 Smoooooth",
     foreground: "#dcdcdc",
+    background: "#15191f",
     cursor: "#ffffff",
     bright_foreground: "#dcdcdc",
-    dim_foreground: "#14191e",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#14191e",

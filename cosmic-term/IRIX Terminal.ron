@@ -1,9 +1,10 @@
 (
     name: "IRIX Terminal",
     foreground: "#f2f2f2",
+    background: "#000043",
     cursor: "#c7c7c7",
     bright_foreground: "#f2f2f2",
-    dim_foreground: "#1a1919",
+    dim_foreground: "#ffff44",
 
     normal: (
         black: "#1a1919",

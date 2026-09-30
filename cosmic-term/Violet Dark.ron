@@ -1,9 +1,10 @@
 (
     name: "Violet Dark",
     foreground: "#708284",
+    background: "#1c1d1f",
     cursor: "#708284",
     bright_foreground: "#708284",
-    dim_foreground: "#56595c",
+    dim_foreground: "#45484b",
 
     normal: (
         black: "#56595c",

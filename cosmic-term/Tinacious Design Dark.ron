@@ -1,9 +1,10 @@
 (
     name: "Tinacious Design Dark",
     foreground: "#cbcbf0",
+    background: "#1d1d26",
     cursor: "#cbcbf0",
     bright_foreground: "#cbcbf0",
-    dim_foreground: "#1d1d26",
+    dim_foreground: "#636667",
 
     normal: (
         black: "#1d1d26",

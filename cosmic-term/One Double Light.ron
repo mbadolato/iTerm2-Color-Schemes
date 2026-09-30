@@ -1,9 +1,10 @@
 (
     name: "One Double Light",
     foreground: "#383a43",
+    background: "#fafafa",
     cursor: "#1a1919",
     bright_foreground: "#383a43",
-    dim_foreground: "#454b58",
+    dim_foreground: "#0e131f",
 
     normal: (
         black: "#454b58",

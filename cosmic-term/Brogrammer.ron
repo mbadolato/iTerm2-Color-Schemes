@@ -1,9 +1,10 @@
 (
     name: "Brogrammer",
     foreground: "#d6dbe5",
+    background: "#131313",
     cursor: "#b9b9b9",
     bright_foreground: "#d6dbe5",
-    dim_foreground: "#1f1f1f",
+    dim_foreground: "#d6dbe5",
 
     normal: (
         black: "#1f1f1f",

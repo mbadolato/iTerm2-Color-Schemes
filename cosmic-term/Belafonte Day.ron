@@ -1,9 +1,10 @@
 (
     name: "Belafonte Day",
     foreground: "#45373c",
+    background: "#d5ccba",
     cursor: "#45373c",
     bright_foreground: "#45373c",
-    dim_foreground: "#20111b",
+    dim_foreground: "#5e5252",
 
     normal: (
         black: "#20111b",

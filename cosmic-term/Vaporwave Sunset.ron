@@ -1,9 +1,10 @@
 (
     name: "Vaporwave Sunset",
     foreground: "#fff7ed",
+    background: "#180827",
     cursor: "#fff7ed",
     bright_foreground: "#fff7ed",
-    dim_foreground: "#4b3d53",
+    dim_foreground: "#563f6e",
 
     normal: (
         black: "#4b3d53",

@@ -1,0 +1,33 @@
+# Colors (Clockwork Gold)
+
+[colors.bright]
+black = '#4c4b47'
+blue = '#76c0ff'
+cyan = '#82e1e0'
+green = '#88e196'
+magenta = '#ff68c6'
+red = '#ff716b'
+white = '#fcfaf4'
+yellow = '#c89f00'
+
+[colors.cursor]
+cursor = '#ffcc00'
+text = '#1d1c19'
+
+[colors.normal]
+black = '#1d1c19'
+blue = '#4fa3f4'
+cyan = '#64c3c3'
+green = '#73c881'
+magenta = '#ef3ead'
+red = '#e94b4a'
+white = '#a9a69d'
+yellow = '#ffcc00'
+
+[colors.primary]
+background = '#1d1c19'
+foreground = '#ebe8e0'
+
+[colors.selection]
+background = '#4c4b47'
+text = '#fcfaf4'

@@ -1,9 +1,10 @@
 (
     name: "Darkermatrix",
     foreground: "#35451a",
+    background: "#070c0e",
     cursor: "#444733",
     bright_foreground: "#35451a",
-    dim_foreground: "#091013",
+    dim_foreground: "#404040",
 
     normal: (
         black: "#091013",

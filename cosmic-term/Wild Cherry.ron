@@ -1,9 +1,10 @@
 (
     name: "Wild Cherry",
     foreground: "#dafaff",
+    background: "#1f1726",
     cursor: "#dd00ff",
     bright_foreground: "#dafaff",
-    dim_foreground: "#000507",
+    dim_foreground: "#009cc9",
 
     normal: (
         black: "#000507",

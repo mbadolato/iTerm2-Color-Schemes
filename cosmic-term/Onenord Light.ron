@@ -1,9 +1,10 @@
 (
     name: "Onenord Light",
     foreground: "#2e3440",
+    background: "#f7f8fa",
     cursor: "#3879c5",
     bright_foreground: "#2e3440",
-    dim_foreground: "#2e3440",
+    dim_foreground: "#646a76",
 
     normal: (
         black: "#2e3440",

@@ -1,9 +1,10 @@
 (
     name: "X Praha",
     foreground: "#ffffff",
+    background: "#1a1a1a",
     cursor: "#ffffff",
     bright_foreground: "#ffffff",
-    dim_foreground: "#1a1a1a",
+    dim_foreground: "#6272a4",
 
     normal: (
         black: "#1a1a1a",

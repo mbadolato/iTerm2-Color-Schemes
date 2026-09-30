@@ -1,9 +1,10 @@
 (
     name: "Kurokula",
     foreground: "#e0cfc2",
+    background: "#141515",
     cursor: "#7a1c1c",
     bright_foreground: "#e0cfc2",
-    dim_foreground: "#333333",
+    dim_foreground: "#515151",
 
     normal: (
         black: "#333333",

@@ -1,9 +1,10 @@
 (
     name: "SilkCircuit Soft",
     foreground: "#f8f8f2",
+    background: "#1a1626",
     cursor: "#99ffee",
     bright_foreground: "#f8f8f2",
-    dim_foreground: "#141220",
+    dim_foreground: "#6272a4",
 
     normal: (
         black: "#141220",

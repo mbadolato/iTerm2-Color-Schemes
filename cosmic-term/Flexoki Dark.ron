@@ -1,9 +1,10 @@
 (
     name: "Flexoki Dark",
     foreground: "#cecdc3",
+    background: "#100f0f",
     cursor: "#cecdc3",
     bright_foreground: "#cecdc3",
-    dim_foreground: "#100f0f",
+    dim_foreground: "#575653",
 
     normal: (
         black: "#100f0f",

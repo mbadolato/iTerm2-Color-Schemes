@@ -1,9 +1,10 @@
 (
     name: "Zenbones Dark",
     foreground: "#b4bdc3",
+    background: "#1c1917",
     cursor: "#c4cacf",
     bright_foreground: "#b4bdc3",
-    dim_foreground: "#1c1917",
+    dim_foreground: "#4d4540",
 
     normal: (
         black: "#1c1917",

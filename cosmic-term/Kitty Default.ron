@@ -1,9 +1,10 @@
 (
     name: "Kitty Default",
     foreground: "#dddddd",
+    background: "#000000",
     cursor: "#cccccc",
     bright_foreground: "#dddddd",
-    dim_foreground: "#000000",
+    dim_foreground: "#767676",
 
     normal: (
         black: "#000000",

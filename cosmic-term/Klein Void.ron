@@ -1,9 +1,10 @@
 (
     name: "Klein Void",
     foreground: "#ede6d3",
+    background: "#0b0d14",
     cursor: "#ede6d3",
     bright_foreground: "#ede6d3",
-    dim_foreground: "#1a1c24",
+    dim_foreground: "#92907a",
 
     normal: (
         black: "#1a1c24",

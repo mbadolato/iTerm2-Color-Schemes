@@ -1,9 +1,10 @@
 (
     name: "HaX0R R3D",
     foreground: "#b10e0e",
+    background: "#200101",
     cursor: "#b00d0d",
     bright_foreground: "#b10e0e",
-    dim_foreground: "#1f0000",
+    dim_foreground: "#554040",
 
     normal: (
         black: "#1f0000",

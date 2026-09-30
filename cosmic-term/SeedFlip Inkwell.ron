@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Inkwell",
     foreground: "#e8e4df",
+    background: "#0a0a0a",
     cursor: "#c8b8a0",
     bright_foreground: "#e8e4df",
-    dim_foreground: "#050505",
+    dim_foreground: "#3d3d3d",
 
     normal: (
         black: "#050505",

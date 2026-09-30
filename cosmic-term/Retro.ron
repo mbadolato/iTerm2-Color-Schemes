@@ -1,9 +1,10 @@
 (
     name: "Retro",
     foreground: "#13a10e",
+    background: "#000000",
     cursor: "#13a10e",
     bright_foreground: "#13a10e",
-    dim_foreground: "#13a10e",
+    dim_foreground: "#16ba10",
 
     normal: (
         black: "#13a10e",

@@ -1,9 +1,10 @@
 (
     name: "One Half Light",
     foreground: "#383a42",
+    background: "#fafafa",
     cursor: "#a5b4e5",
     bright_foreground: "#383a42",
-    dim_foreground: "#383a42",
+    dim_foreground: "#4f525e",
 
     normal: (
         black: "#383a42",

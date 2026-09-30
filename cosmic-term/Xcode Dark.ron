@@ -1,9 +1,10 @@
 (
     name: "Xcode Dark",
     foreground: "#dfdfe0",
+    background: "#292a30",
     cursor: "#dfdfe0",
     bright_foreground: "#dfdfe0",
-    dim_foreground: "#414453",
+    dim_foreground: "#7f8c98",
 
     normal: (
         black: "#414453",

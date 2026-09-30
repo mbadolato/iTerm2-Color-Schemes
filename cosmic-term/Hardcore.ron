@@ -1,9 +1,10 @@
 (
     name: "Hardcore",
     foreground: "#a0a0a0",
+    background: "#121212",
     cursor: "#bbbbbb",
     bright_foreground: "#a0a0a0",
-    dim_foreground: "#1b1d1e",
+    dim_foreground: "#505354",
 
     normal: (
         black: "#1b1d1e",

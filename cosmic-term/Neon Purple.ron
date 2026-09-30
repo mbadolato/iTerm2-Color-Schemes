@@ -1,9 +1,10 @@
 (
     name: "Neon Purple",
     foreground: "#e5e5e5",
+    background: "#291b47",
     cursor: "#21f6bc",
     bright_foreground: "#e5e5e5",
-    dim_foreground: "#000000",
+    dim_foreground: "#a8fcff",
 
     normal: (
         black: "#000000",

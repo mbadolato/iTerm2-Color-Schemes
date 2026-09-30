@@ -1,9 +1,10 @@
 (
     name: "Pierre Dark",
     foreground: "#fbfbfb",
+    background: "#070707",
     cursor: "#009fff",
     bright_foreground: "#fbfbfb",
-    dim_foreground: "#141415",
+    dim_foreground: "#6c6c71",
 
     normal: (
         black: "#141415",

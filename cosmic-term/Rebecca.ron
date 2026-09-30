@@ -1,9 +1,10 @@
 (
     name: "Rebecca",
     foreground: "#e8e6ed",
+    background: "#292a44",
     cursor: "#b89bf9",
     bright_foreground: "#e8e6ed",
-    dim_foreground: "#12131e",
+    dim_foreground: "#666699",
 
     normal: (
         black: "#12131e",

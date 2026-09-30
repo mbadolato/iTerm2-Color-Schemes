@@ -1,9 +1,10 @@
 (
     name: "Gleam",
     foreground: "#ffffff",
+    background: "#292d3e",
     cursor: "#ffffff",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#808080",
 
     normal: (
         black: "#000000",

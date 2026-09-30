@@ -1,9 +1,10 @@
 (
     name: "Nordfox",
     foreground: "#cdcecf",
+    background: "#2e3440",
     cursor: "#cdcecf",
     bright_foreground: "#cdcecf",
-    dim_foreground: "#3b4252",
+    dim_foreground: "#53648d",
 
     normal: (
         black: "#3b4252",

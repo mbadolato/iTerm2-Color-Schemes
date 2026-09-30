@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Canopy",
     foreground: "#ededed",
+    background: "#0f1714",
     cursor: "#3ecf8e",
     bright_foreground: "#ededed",
-    dim_foreground: "#0b110f",
+    dim_foreground: "#2d453c",
 
     normal: (
         black: "#0b110f",

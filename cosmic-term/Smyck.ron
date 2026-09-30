@@ -1,9 +1,10 @@
 (
     name: "Smyck",
     foreground: "#f7f7f7",
+    background: "#1b1b1b",
     cursor: "#bbbbbb",
     bright_foreground: "#f7f7f7",
-    dim_foreground: "#000000",
+    dim_foreground: "#7a7a7a",
 
     normal: (
         black: "#000000",

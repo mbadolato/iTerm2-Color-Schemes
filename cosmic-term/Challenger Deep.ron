@@ -1,9 +1,10 @@
 (
     name: "Challenger Deep",
     foreground: "#cbe1e7",
+    background: "#1e1c31",
     cursor: "#fbfcfc",
     bright_foreground: "#cbe1e7",
-    dim_foreground: "#141228",
+    dim_foreground: "#565575",
 
     normal: (
         black: "#141228",

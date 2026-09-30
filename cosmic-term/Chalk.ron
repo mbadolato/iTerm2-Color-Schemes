@@ -1,9 +1,10 @@
 (
     name: "Chalk",
     foreground: "#d2d8d9",
+    background: "#2b2d2e",
     cursor: "#708284",
     bright_foreground: "#d2d8d9",
-    dim_foreground: "#7d8b8f",
+    dim_foreground: "#888888",
 
     normal: (
         black: "#7d8b8f",

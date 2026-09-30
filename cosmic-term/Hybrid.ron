@@ -1,9 +1,10 @@
 (
     name: "Hybrid",
     foreground: "#b7bcba",
+    background: "#161719",
     cursor: "#b7bcba",
     bright_foreground: "#b7bcba",
-    dim_foreground: "#2a2e33",
+    dim_foreground: "#434548",
 
     normal: (
         black: "#2a2e33",

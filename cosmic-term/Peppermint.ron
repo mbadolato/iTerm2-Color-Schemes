@@ -1,9 +1,10 @@
 (
     name: "Peppermint",
     foreground: "#c8c8c8",
+    background: "#000000",
     cursor: "#bbbbbb",
     bright_foreground: "#c8c8c8",
-    dim_foreground: "#353535",
+    dim_foreground: "#535353",
 
     normal: (
         black: "#353535",

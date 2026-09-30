@@ -1,9 +1,10 @@
 (
     name: "Firefly Traditional",
     foreground: "#f5f5f5",
+    background: "#000000",
     cursor: "#00f900",
     bright_foreground: "#f5f5f5",
-    dim_foreground: "#000000",
+    dim_foreground: "#828282",
 
     normal: (
         black: "#000000",

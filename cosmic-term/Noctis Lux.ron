@@ -1,9 +1,10 @@
 (
     name: "Noctis Lux",
     foreground: "#005661",
+    background: "#fef8ec",
     cursor: "#005661",
     bright_foreground: "#005661",
-    dim_foreground: "#003b42",
+    dim_foreground: "#004d57",
 
     normal: (
         black: "#003b42",

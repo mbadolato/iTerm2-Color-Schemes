@@ -1,9 +1,10 @@
 (
     name: "Purplepeter",
     foreground: "#ece7fa",
+    background: "#2a1a4a",
     cursor: "#c7c7c7",
     bright_foreground: "#ece7fa",
-    dim_foreground: "#0a0520",
+    dim_foreground: "#504b63",
 
     normal: (
         black: "#0a0520",

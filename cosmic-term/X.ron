@@ -1,9 +1,10 @@
 (
     name: "X",
     foreground: "#f7f1ff",
+    background: "#050505",
     cursor: "#f7f1ff",
     bright_foreground: "#f7f1ff",
-    dim_foreground: "#0a0a0a",
+    dim_foreground: "#424242",
 
     normal: (
         black: "#0a0a0a",

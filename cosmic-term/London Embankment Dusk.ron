@@ -1,9 +1,10 @@
 (
     name: "London Embankment Dusk",
     foreground: "#e8eef2",
+    background: "#161f2c",
     cursor: "#f2c455",
     bright_foreground: "#e8eef2",
-    dim_foreground: "#1c2533",
+    dim_foreground: "#4a566a",
 
     normal: (
         black: "#1c2533",

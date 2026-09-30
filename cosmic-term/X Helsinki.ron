@@ -1,9 +1,10 @@
 (
     name: "X Helsinki",
     foreground: "#544d40",
+    background: "#f8fafe",
     cursor: "#544d40",
     bright_foreground: "#544d40",
-    dim_foreground: "#f8fafe",
+    dim_foreground: "#b0a999",
 
     normal: (
         black: "#f8fafe",

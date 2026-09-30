@@ -1,9 +1,10 @@
 (
     name: "Gruvbox Light Hard",
     foreground: "#3c3836",
+    background: "#f9f5d7",
     cursor: "#3c3836",
     bright_foreground: "#3c3836",
-    dim_foreground: "#f9f5d7",
+    dim_foreground: "#928374",
 
     normal: (
         black: "#f9f5d7",

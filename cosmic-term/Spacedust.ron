@@ -1,9 +1,10 @@
 (
     name: "Spacedust",
     foreground: "#ecf0c1",
+    background: "#0a1e24",
     cursor: "#708284",
     bright_foreground: "#ecf0c1",
-    dim_foreground: "#6e5346",
+    dim_foreground: "#684c31",
 
     normal: (
         black: "#6e5346",

@@ -1,9 +1,10 @@
 (
     name: "Midnight In Mojave",
     foreground: "#ffffff",
+    background: "#1e1e1e",
     cursor: "#32d74b",
     bright_foreground: "#ffffff",
-    dim_foreground: "#1e1e1e",
+    dim_foreground: "#515151",
 
     normal: (
         black: "#1e1e1e",

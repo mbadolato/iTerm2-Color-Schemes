@@ -1,9 +1,10 @@
 (
     name: "Spiderman",
     foreground: "#e3e3e3",
+    background: "#1b1d1e",
     cursor: "#2c3fff",
     bright_foreground: "#e3e3e3",
-    dim_foreground: "#1b1d1e",
+    dim_foreground: "#505354",
 
     normal: (
         black: "#1b1d1e",

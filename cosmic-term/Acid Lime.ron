@@ -1,9 +1,10 @@
 (
     name: "Acid Lime",
     foreground: "#d4efbc",
+    background: "#080c05",
     cursor: "#c2ff33",
     bright_foreground: "#d4efbc",
-    dim_foreground: "#131d0c",
+    dim_foreground: "#4a6b36",
 
     normal: (
         black: "#131d0c",

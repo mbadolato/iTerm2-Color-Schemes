@@ -1,9 +1,10 @@
 (
     name: "Citrus Ink",
     foreground: "#eaf0e2",
+    background: "#0b1413",
     cursor: "#b8e62e",
     bright_foreground: "#eaf0e2",
-    dim_foreground: "#14201e",
+    dim_foreground: "#4f6b5e",
 
     normal: (
         black: "#14201e",

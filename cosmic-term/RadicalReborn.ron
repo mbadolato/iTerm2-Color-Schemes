@@ -1,9 +1,10 @@
 (
     name: "RadicalReborn",
     foreground: "#defff7",
+    background: "#141322",
     cursor: "#ff428e",
     bright_foreground: "#defff7",
-    dim_foreground: "#30317d",
+    dim_foreground: "#4627c2",
 
     normal: (
         black: "#30317d",

@@ -1,9 +1,10 @@
 (
     name: "Matrix",
     foreground: "#426644",
+    background: "#0f191c",
     cursor: "#384545",
     bright_foreground: "#426644",
-    dim_foreground: "#0f191c",
+    dim_foreground: "#688060",
 
     normal: (
         black: "#0f191c",

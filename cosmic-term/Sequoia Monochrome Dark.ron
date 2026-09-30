@@ -1,9 +1,10 @@
 (
     name: "Sequoia Monochrome Dark",
     foreground: "#868690",
+    background: "#0f1014",
     cursor: "#43444d",
     bright_foreground: "#868690",
-    dim_foreground: "#131317",
+    dim_foreground: "#575861",
 
     normal: (
         black: "#131317",

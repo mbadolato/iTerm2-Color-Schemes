@@ -1,9 +1,10 @@
 (
     name: "Emerald Synth",
     foreground: "#00ffcc",
+    background: "#0d0221",
     cursor: "#ff79c6",
     bright_foreground: "#00ffcc",
-    dim_foreground: "#0a0118",
+    dim_foreground: "#6a5585",
 
     normal: (
         black: "#0a0118",

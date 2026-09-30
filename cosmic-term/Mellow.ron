@@ -1,9 +1,10 @@
 (
     name: "Mellow",
     foreground: "#c9c7cd",
+    background: "#161617",
     cursor: "#cac9dd",
     bright_foreground: "#c9c7cd",
-    dim_foreground: "#27272a",
+    dim_foreground: "#424246",
 
     normal: (
         black: "#27272a",

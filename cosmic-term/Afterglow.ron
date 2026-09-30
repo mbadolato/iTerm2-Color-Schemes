@@ -1,9 +1,10 @@
 (
     name: "Afterglow",
     foreground: "#d0d0d0",
+    background: "#212121",
     cursor: "#d0d0d0",
     bright_foreground: "#d0d0d0",
-    dim_foreground: "#151515",
+    dim_foreground: "#505050",
 
     normal: (
         black: "#151515",

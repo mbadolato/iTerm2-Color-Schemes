@@ -1,9 +1,10 @@
 (
     name: "Material Design Colors",
     foreground: "#e7ebed",
+    background: "#1d262a",
     cursor: "#eaeaea",
     bright_foreground: "#e7ebed",
-    dim_foreground: "#435b67",
+    dim_foreground: "#a1b0b8",
 
     normal: (
         black: "#435b67",

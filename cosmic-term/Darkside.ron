@@ -1,9 +1,10 @@
 (
     name: "Darkside",
     foreground: "#bababa",
+    background: "#222324",
     cursor: "#bbbbbb",
     bright_foreground: "#bababa",
-    dim_foreground: "#000000",
+    dim_foreground: "#4c4c4c",
 
     normal: (
         black: "#000000",

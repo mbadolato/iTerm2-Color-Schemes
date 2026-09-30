@@ -1,9 +1,10 @@
 (
     name: "Madman's Diary",
     foreground: "#f4e7d7",
+    background: "#1a0e17",
     cursor: "#ff3e3e",
     bright_foreground: "#f4e7d7",
-    dim_foreground: "#3b1919",
+    dim_foreground: "#5a3a2e",
 
     normal: (
         black: "#3b1919",

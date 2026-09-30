@@ -1,9 +1,10 @@
 (
     name: "X Bogota",
     foreground: "#f7f1ff",
+    background: "#200b0a",
     cursor: "#f7f1ff",
     bright_foreground: "#f7f1ff",
-    dim_foreground: "#200b0a",
+    dim_foreground: "#525053",
 
     normal: (
         black: "#200b0a",

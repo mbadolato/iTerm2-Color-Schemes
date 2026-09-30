@@ -1,9 +1,10 @@
 (
     name: "Snazzy",
     foreground: "#ebece6",
+    background: "#1e1f29",
     cursor: "#e4e4e4",
     bright_foreground: "#ebece6",
-    dim_foreground: "#000000",
+    dim_foreground: "#555555",
 
     normal: (
         black: "#000000",

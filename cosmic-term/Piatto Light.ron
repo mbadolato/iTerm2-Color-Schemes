@@ -1,9 +1,10 @@
 (
     name: "Piatto Light",
     foreground: "#414141",
+    background: "#ffffff",
     cursor: "#5e77c8",
     bright_foreground: "#414141",
-    dim_foreground: "#414141",
+    dim_foreground: "#3f3f3f",
 
     normal: (
         black: "#414141",

@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Glacier",
     foreground: "#0f172a",
+    background: "#f8fafc",
     cursor: "#0ea5e9",
     bright_foreground: "#0f172a",
-    dim_foreground: "#c2d4e5",
+    dim_foreground: "#8dadce",
 
     normal: (
         black: "#c2d4e5",

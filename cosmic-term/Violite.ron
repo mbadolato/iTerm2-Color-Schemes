@@ -1,9 +1,10 @@
 (
     name: "Violite",
     foreground: "#eef4f6",
+    background: "#241c36",
     cursor: "#eef4f6",
     bright_foreground: "#eef4f6",
-    dim_foreground: "#241c36",
+    dim_foreground: "#56447a",
 
     normal: (
         black: "#241c36",

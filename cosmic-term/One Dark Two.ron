@@ -1,9 +1,10 @@
 (
     name: "One Dark Two",
     foreground: "#e6e6e6",
+    background: "#21252b",
     cursor: "#e6e6e6",
     bright_foreground: "#e6e6e6",
-    dim_foreground: "#1d1f23",
+    dim_foreground: "#4a505a",
 
     normal: (
         black: "#1d1f23",

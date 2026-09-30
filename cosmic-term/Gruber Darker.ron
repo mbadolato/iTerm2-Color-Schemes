@@ -1,9 +1,10 @@
 (
     name: "Gruber Darker",
     foreground: "#e4e4e4",
+    background: "#181818",
     cursor: "#ffdb00",
     bright_foreground: "#e4e4e4",
-    dim_foreground: "#181818",
+    dim_foreground: "#54494e",
 
     normal: (
         black: "#181818",

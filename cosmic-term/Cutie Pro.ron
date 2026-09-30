@@ -1,9 +1,10 @@
 (
     name: "Cutie Pro",
     foreground: "#d5d0c9",
+    background: "#181818",
     cursor: "#efc4cd",
     bright_foreground: "#d5d0c9",
-    dim_foreground: "#000000",
+    dim_foreground: "#88847f",
 
     normal: (
         black: "#000000",

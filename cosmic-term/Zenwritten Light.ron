@@ -1,9 +1,10 @@
 (
     name: "Zenwritten Light",
     foreground: "#353535",
+    background: "#eeeeee",
     cursor: "#353535",
     bright_foreground: "#353535",
-    dim_foreground: "#eeeeee",
+    dim_foreground: "#aca9a9",
 
     normal: (
         black: "#eeeeee",

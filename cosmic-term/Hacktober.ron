@@ -1,9 +1,10 @@
 (
     name: "Hacktober",
     foreground: "#c9c9c9",
+    background: "#141414",
     cursor: "#c9c9c9",
     bright_foreground: "#c9c9c9",
-    dim_foreground: "#191918",
+    dim_foreground: "#464444",
 
     normal: (
         black: "#191918",

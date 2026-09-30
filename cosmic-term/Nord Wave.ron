@@ -1,9 +1,10 @@
 (
     name: "Nord Wave",
     foreground: "#d8dee9",
+    background: "#212121",
     cursor: "#ebcb8b",
     bright_foreground: "#d8dee9",
-    dim_foreground: "#3b4252",
+    dim_foreground: "#4c566a",
 
     normal: (
         black: "#3b4252",

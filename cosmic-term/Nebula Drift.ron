@@ -1,9 +1,10 @@
 (
     name: "Nebula Drift",
     foreground: "#e2e0fa",
+    background: "#0a0420",
     cursor: "#d58bff",
     bright_foreground: "#e2e0fa",
-    dim_foreground: "#1a0e38",
+    dim_foreground: "#5c5a88",
 
     normal: (
         black: "#1a0e38",

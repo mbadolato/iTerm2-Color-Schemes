@@ -1,9 +1,10 @@
 (
     name: "Kanagawa Wave",
     foreground: "#dcd7ba",
+    background: "#1f1f28",
     cursor: "#dcd7ba",
     bright_foreground: "#dcd7ba",
-    dim_foreground: "#090618",
+    dim_foreground: "#727169",
 
     normal: (
         black: "#090618",

@@ -1,9 +1,10 @@
 (
     name: "Tomorrow Night Bright",
     foreground: "#eaeaea",
+    background: "#000000",
     cursor: "#eaeaea",
     bright_foreground: "#eaeaea",
-    dim_foreground: "#000000",
+    dim_foreground: "#404040",
 
     normal: (
         black: "#000000",

@@ -1,9 +1,10 @@
 (
     name: "GitHub Light High Contrast",
     foreground: "#0e1116",
+    background: "#ffffff",
     cursor: "#0349b4",
     bright_foreground: "#0e1116",
-    dim_foreground: "#0e1116",
+    dim_foreground: "#4b535d",
 
     normal: (
         black: "#0e1116",

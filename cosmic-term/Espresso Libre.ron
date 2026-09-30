@@ -1,9 +1,10 @@
 (
     name: "Espresso Libre",
     foreground: "#b8a898",
+    background: "#2a211c",
     cursor: "#ffffff",
     bright_foreground: "#b8a898",
-    dim_foreground: "#000000",
+    dim_foreground: "#555753",
 
     normal: (
         black: "#000000",

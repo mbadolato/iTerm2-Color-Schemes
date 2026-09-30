@@ -1,9 +1,10 @@
 (
     name: "Treehouse",
     foreground: "#786b53",
+    background: "#191919",
     cursor: "#fac814",
     bright_foreground: "#786b53",
-    dim_foreground: "#321300",
+    dim_foreground: "#504333",
 
     normal: (
         black: "#321300",

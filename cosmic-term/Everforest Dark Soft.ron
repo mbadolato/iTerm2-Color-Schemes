@@ -1,9 +1,10 @@
 (
     name: "Everforest Dark Soft",
     foreground: "#d3c6aa",
+    background: "#293136",
     cursor: "#e69875",
     bright_foreground: "#d3c6aa",
-    dim_foreground: "#7a8478",
+    dim_foreground: "#a6b0a0",
 
     normal: (
         black: "#7a8478",

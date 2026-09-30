@@ -1,9 +1,10 @@
 (
     name: "CRT Amber",
     foreground: "#fff3c4",
+    background: "#1a1005",
     cursor: "#fff3c4",
     bright_foreground: "#fff3c4",
-    dim_foreground: "#4c422f",
+    dim_foreground: "#544435",
 
     normal: (
         black: "#4c422f",

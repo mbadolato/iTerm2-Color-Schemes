@@ -1,9 +1,10 @@
 (
     name: "Warm Burnout Dark",
     foreground: "#bfbdb6",
+    background: "#1a1510",
     cursor: "#f5c56e",
     bright_foreground: "#bfbdb6",
-    dim_foreground: "#23211b",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#23211b",

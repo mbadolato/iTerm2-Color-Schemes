@@ -1,9 +1,10 @@
 (
     name: "Bright Lights",
     foreground: "#b3c9d7",
+    background: "#191919",
     cursor: "#f34b00",
     bright_foreground: "#b3c9d7",
-    dim_foreground: "#191919",
+    dim_foreground: "#4c4c4c",
 
     normal: (
         black: "#191919",

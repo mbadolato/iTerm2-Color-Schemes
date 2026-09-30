@@ -1,9 +1,10 @@
 (
     name: "Aardvark Ink",
     foreground: "#b4bcca",
+    background: "#0f141f",
     cursor: "#b4bcca",
     bright_foreground: "#b4bcca",
-    dim_foreground: "#222734",
+    dim_foreground: "#3a4152",
 
     normal: (
         black: "#222734",

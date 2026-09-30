@@ -1,9 +1,10 @@
 (
     name: "iTerm2 Solarized Light",
     foreground: "#657b83",
+    background: "#fdf6e3",
     cursor: "#657b83",
     bright_foreground: "#657b83",
-    dim_foreground: "#073642",
+    dim_foreground: "#002b36",
 
     normal: (
         black: "#073642",

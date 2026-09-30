@@ -1,9 +1,10 @@
 (
     name: "Hyper",
     foreground: "#ffffff",
+    background: "#000000",
     cursor: "#f81ce5",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#000000",

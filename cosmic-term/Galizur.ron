@@ -1,9 +1,10 @@
 (
     name: "Galizur",
     foreground: "#ddeeff",
+    background: "#071317",
     cursor: "#ddeeff",
     bright_foreground: "#ddeeff",
-    dim_foreground: "#223344",
+    dim_foreground: "#556677",
 
     normal: (
         black: "#223344",

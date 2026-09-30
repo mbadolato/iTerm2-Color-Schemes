@@ -1,9 +1,10 @@
 (
     name: "Galaxy",
     foreground: "#ffffff",
+    background: "#1d2837",
     cursor: "#bbbbbb",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#555555",
 
     normal: (
         black: "#000000",

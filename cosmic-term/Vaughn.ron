@@ -1,9 +1,10 @@
 (
     name: "Vaughn",
     foreground: "#dcdccc",
+    background: "#25234f",
     cursor: "#ff5555",
     bright_foreground: "#dcdccc",
-    dim_foreground: "#25234f",
+    dim_foreground: "#709080",
 
     normal: (
         black: "#25234f",

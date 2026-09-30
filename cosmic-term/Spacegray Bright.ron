@@ -1,9 +1,10 @@
 (
     name: "Spacegray Bright",
     foreground: "#f3f3f3",
+    background: "#2a2e3a",
     cursor: "#c6c6c6",
     bright_foreground: "#f3f3f3",
-    dim_foreground: "#080808",
+    dim_foreground: "#626262",
 
     normal: (
         black: "#080808",

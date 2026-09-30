@@ -1,9 +1,10 @@
 (
     name: "Verdigris",
     foreground: "#e8dcc6",
+    background: "#14110b",
     cursor: "#ce8b45",
     bright_foreground: "#e8dcc6",
-    dim_foreground: "#221c12",
+    dim_foreground: "#6e6450",
 
     normal: (
         black: "#221c12",

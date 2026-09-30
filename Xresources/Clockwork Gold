@@ -1,0 +1,43 @@
+!
+! Clockwork Gold
+!
+*.foreground:  #ebe8e0
+*.background:  #1d1c19
+*.cursorColor: #ffcc00
+!
+! Black
+*.color0:      #1d1c19
+*.color8:      #4c4b47
+!
+! Red
+*.color1:      #e94b4a
+*.color9:      #ff716b
+!
+! Green
+*.color2:      #73c881
+*.color10:     #88e196
+!
+! Yellow
+*.color3:      #ffcc00
+*.color11:     #c89f00
+!
+! Blue
+*.color4:      #4fa3f4
+*.color12:     #76c0ff
+!
+! Magenta
+*.color5:      #ef3ead
+*.color13:     #ff68c6
+!
+! Cyan
+*.color6:      #64c3c3
+*.color14:     #82e1e0
+!
+! White
+*.color7:      #a9a69d
+*.color15:     #fcfaf4
+!
+! Bold, Italic, Underline
+*.colorBD:     #ebe8e0
+!*.colorIT:
+!*.colorUL:

@@ -1,9 +1,10 @@
 (
     name: "TokyoNight Moon",
     foreground: "#c8d3f5",
+    background: "#222436",
     cursor: "#c8d3f5",
     bright_foreground: "#c8d3f5",
-    dim_foreground: "#1b1d2b",
+    dim_foreground: "#444a73",
 
     normal: (
         black: "#1b1d2b",

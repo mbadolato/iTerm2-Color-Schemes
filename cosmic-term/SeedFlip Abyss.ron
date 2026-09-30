@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Abyss",
     foreground: "#e0e0f0",
+    background: "#050510",
     cursor: "#6e56cf",
     bright_foreground: "#e0e0f0",
-    dim_foreground: "#030308",
+    dim_foreground: "#3d3d70",
 
     normal: (
         black: "#030308",

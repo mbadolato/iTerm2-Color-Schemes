@@ -1,9 +1,10 @@
 (
     name: "GitHub Dark Colorblind",
     foreground: "#c9d1d9",
+    background: "#0d1117",
     cursor: "#58a6ff",
     bright_foreground: "#c9d1d9",
-    dim_foreground: "#484f58",
+    dim_foreground: "#6e7681",
 
     normal: (
         black: "#484f58",

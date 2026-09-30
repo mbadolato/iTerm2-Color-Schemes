@@ -1,9 +1,10 @@
 (
     name: "Chester",
     foreground: "#ffffff",
+    background: "#2c3643",
     cursor: "#b4b1b1",
     bright_foreground: "#ffffff",
-    dim_foreground: "#080200",
+    dim_foreground: "#6f6b68",
 
     normal: (
         black: "#080200",

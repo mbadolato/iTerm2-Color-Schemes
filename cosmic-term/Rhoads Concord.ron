@@ -1,9 +1,10 @@
 (
     name: "Rhoads Concord",
     foreground: "#1a1a1a",
+    background: "#fdfcf4",
     cursor: "#000000",
     bright_foreground: "#1a1a1a",
-    dim_foreground: "#2b2b2b",
+    dim_foreground: "#6b6b6b",
 
     normal: (
         black: "#2b2b2b",

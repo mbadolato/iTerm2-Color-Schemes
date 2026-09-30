@@ -1,9 +1,10 @@
 (
     name: "N0Tch2K",
     foreground: "#a0a0a0",
+    background: "#222222",
     cursor: "#aa9175",
     bright_foreground: "#a0a0a0",
-    dim_foreground: "#383838",
+    dim_foreground: "#545454",
 
     normal: (
         black: "#383838",

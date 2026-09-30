@@ -1,9 +1,10 @@
 (
     name: "Ghostty Default Style Dark",
     foreground: "#ffffff",
+    background: "#282c34",
     cursor: "#ffffff",
     bright_foreground: "#ffffff",
-    dim_foreground: "#1d1f21",
+    dim_foreground: "#666666",
 
     normal: (
         black: "#1d1f21",

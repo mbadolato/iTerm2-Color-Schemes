@@ -1,9 +1,10 @@
 (
     name: "Synthwave",
     foreground: "#dad9c7",
+    background: "#000000",
     cursor: "#19cde6",
     bright_foreground: "#dad9c7",
-    dim_foreground: "#000000",
+    dim_foreground: "#7f7094",
 
     normal: (
         black: "#000000",

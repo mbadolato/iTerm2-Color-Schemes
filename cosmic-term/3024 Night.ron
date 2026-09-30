@@ -1,9 +1,10 @@
 (
     name: "3024 Night",
     foreground: "#a5a2a2",
+    background: "#090300",
     cursor: "#a5a2a2",
     bright_foreground: "#a5a2a2",
-    dim_foreground: "#090300",
+    dim_foreground: "#5c5855",
 
     normal: (
         black: "#090300",

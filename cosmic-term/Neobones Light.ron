@@ -1,9 +1,10 @@
 (
     name: "Neobones Light",
     foreground: "#202e18",
+    background: "#e5ede6",
     cursor: "#202e18",
     bright_foreground: "#202e18",
-    dim_foreground: "#e5ede6",
+    dim_foreground: "#99ac9c",
 
     normal: (
         black: "#e5ede6",

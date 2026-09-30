@@ -1,9 +1,10 @@
 (
     name: "Matcha Zen",
     foreground: "#354029",
+    background: "#f5f7ea",
     cursor: "#4e8c2e",
     bright_foreground: "#354029",
-    dim_foreground: "#354029",
+    dim_foreground: "#97a887",
 
     normal: (
         black: "#354029",

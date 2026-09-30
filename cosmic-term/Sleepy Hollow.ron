@@ -1,9 +1,10 @@
 (
     name: "Sleepy Hollow",
     foreground: "#af9a91",
+    background: "#121214",
     cursor: "#af9a91",
     bright_foreground: "#af9a91",
-    dim_foreground: "#572100",
+    dim_foreground: "#4e4b61",
 
     normal: (
         black: "#572100",

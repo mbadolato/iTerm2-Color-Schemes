@@ -1,9 +1,10 @@
 (
     name: "Token Dark",
     foreground: "#e8e4dc",
+    background: "#262624",
     cursor: "#e8e4dc",
     bright_foreground: "#e8e4dc",
-    dim_foreground: "#1d1d1c",
+    dim_foreground: "#5a5955",
 
     normal: (
         black: "#1d1d1c",

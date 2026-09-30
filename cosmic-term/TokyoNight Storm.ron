@@ -1,9 +1,10 @@
 (
     name: "TokyoNight Storm",
     foreground: "#c0caf5",
+    background: "#24283b",
     cursor: "#c0caf5",
     bright_foreground: "#c0caf5",
-    dim_foreground: "#1d202f",
+    dim_foreground: "#4e5575",
 
     normal: (
         black: "#1d202f",

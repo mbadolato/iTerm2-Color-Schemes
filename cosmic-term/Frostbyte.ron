@@ -1,9 +1,10 @@
 (
     name: "Frostbyte",
     foreground: "#283645",
+    background: "#eef5fc",
     cursor: "#1f73cc",
     bright_foreground: "#283645",
-    dim_foreground: "#283645",
+    dim_foreground: "#93a4b6",
 
     normal: (
         black: "#283645",

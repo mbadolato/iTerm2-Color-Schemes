@@ -1,9 +1,10 @@
 (
     name: "Light Owl",
     foreground: "#403f53",
+    background: "#fbfbfb",
     cursor: "#403f53",
     bright_foreground: "#403f53",
-    dim_foreground: "#403f53",
+    dim_foreground: "#989fb1",
 
     normal: (
         black: "#403f53",

@@ -1,9 +1,10 @@
 (
     name: "Teerb",
     foreground: "#d0d0d0",
+    background: "#262626",
     cursor: "#e4c9af",
     bright_foreground: "#d0d0d0",
-    dim_foreground: "#1c1c1c",
+    dim_foreground: "#4f4f4f",
 
     normal: (
         black: "#1c1c1c",

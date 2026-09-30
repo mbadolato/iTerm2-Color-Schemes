@@ -1,9 +1,10 @@
 (
     name: "Karma Light Dimmed",
     foreground: "#1c1f24",
+    background: "#f5f3f7",
     cursor: "#9676d0",
     bright_foreground: "#1c1f24",
-    dim_foreground: "#1c1f24",
+    dim_foreground: "#999999",
 
     normal: (
         black: "#1c1f24",

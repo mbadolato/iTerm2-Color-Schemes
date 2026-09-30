@@ -1,9 +1,10 @@
 (
     name: "Flat",
     foreground: "#2cc55d",
+    background: "#002240",
     cursor: "#e5be0c",
     bright_foreground: "#2cc55d",
-    dim_foreground: "#222d3f",
+    dim_foreground: "#475262",
 
     normal: (
         black: "#222d3f",

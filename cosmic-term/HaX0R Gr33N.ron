@@ -1,9 +1,10 @@
 (
     name: "HaX0R Gr33N",
     foreground: "#16b10e",
+    background: "#020f01",
     cursor: "#15d00d",
     bright_foreground: "#16b10e",
-    dim_foreground: "#001f0b",
+    dim_foreground: "#334843",
 
     normal: (
         black: "#001f0b",

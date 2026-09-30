@@ -1,9 +1,10 @@
 (
     name: "Pro Light",
     foreground: "#191919",
+    background: "#ffffff",
     cursor: "#4d4d4d",
     bright_foreground: "#191919",
-    dim_foreground: "#000000",
+    dim_foreground: "#9f9f9f",
 
     normal: (
         black: "#000000",

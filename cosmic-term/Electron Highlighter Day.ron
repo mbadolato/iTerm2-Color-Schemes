@@ -1,9 +1,10 @@
 (
     name: "Electron Highlighter Day",
     foreground: "#2f3b54",
+    background: "#eef0f5",
     cursor: "#2f3b54",
     bright_foreground: "#2f3b54",
-    dim_foreground: "#c2c6d4",
+    dim_foreground: "#7b88a8",
 
     normal: (
         black: "#c2c6d4",

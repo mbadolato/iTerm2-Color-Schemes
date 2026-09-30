@@ -1,9 +1,10 @@
 (
     name: "Prism",
     foreground: "#d7e3f4",
+    background: "#0b1326",
     cursor: "#56d5ff",
     bright_foreground: "#d7e3f4",
-    dim_foreground: "#060c18",
+    dim_foreground: "#5e6f90",
 
     normal: (
         black: "#060c18",

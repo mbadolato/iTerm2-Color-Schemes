@@ -1,9 +1,10 @@
 (
     name: "Fish Tank",
     foreground: "#ecf0fe",
+    background: "#232537",
     cursor: "#fecd5e",
     bright_foreground: "#ecf0fe",
-    dim_foreground: "#03073c",
+    dim_foreground: "#6c5b30",
 
     normal: (
         black: "#03073c",

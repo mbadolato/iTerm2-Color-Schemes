@@ -1,9 +1,10 @@
 (
     name: "Seoulbones Light",
     foreground: "#555555",
+    background: "#e2e2e2",
     cursor: "#555555",
     bright_foreground: "#555555",
-    dim_foreground: "#e2e2e2",
+    dim_foreground: "#a5a0a1",
 
     normal: (
         black: "#e2e2e2",

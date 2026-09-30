@@ -1,9 +1,10 @@
 (
     name: "urban",
     foreground: "#c0a79a",
+    background: "#312e39",
     cursor: "#c0a79a",
     bright_foreground: "#c0a79a",
-    dim_foreground: "#33303b",
+    dim_foreground: "#5c5865",
 
     normal: (
         black: "#33303b",

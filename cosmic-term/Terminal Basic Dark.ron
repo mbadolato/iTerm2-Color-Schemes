@@ -1,9 +1,10 @@
 (
     name: "Terminal Basic Dark",
     foreground: "#ffffff",
+    background: "#1d1e1d",
     cursor: "#9d9d9d",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#909090",
 
     normal: (
         black: "#000000",

@@ -1,9 +1,10 @@
 (
     name: "Clear Dark",
     foreground: "#e6e6e6",
+    background: "#212734",
     cursor: "#9d9d9d",
     bright_foreground: "#e6e6e6",
-    dim_foreground: "#35424c",
+    dim_foreground: "#465c6d",
 
     normal: (
         black: "#35424c",

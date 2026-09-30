@@ -1,9 +1,10 @@
 (
     name: "novmbr",
     foreground: "#c7b8ac",
+    background: "#241d1a",
     cursor: "#c7b8ac",
     bright_foreground: "#c7b8ac",
-    dim_foreground: "#282a2e",
+    dim_foreground: "#5d4e47",
 
     normal: (
         black: "#282a2e",

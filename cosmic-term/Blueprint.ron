@@ -1,9 +1,10 @@
 (
     name: "Blueprint",
     foreground: "#0f172a",
+    background: "#f8fafc",
     cursor: "#ff5a1f",
     bright_foreground: "#0f172a",
-    dim_foreground: "#0f172a",
+    dim_foreground: "#475569",
 
     normal: (
         black: "#0f172a",

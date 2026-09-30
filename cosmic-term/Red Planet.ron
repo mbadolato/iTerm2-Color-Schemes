@@ -1,9 +1,10 @@
 (
     name: "Red Planet",
     foreground: "#c2b790",
+    background: "#222222",
     cursor: "#c2b790",
     bright_foreground: "#c2b790",
-    dim_foreground: "#202020",
+    dim_foreground: "#676767",
 
     normal: (
         black: "#202020",

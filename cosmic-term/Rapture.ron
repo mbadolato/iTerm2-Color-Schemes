@@ -1,9 +1,10 @@
 (
     name: "Rapture",
     foreground: "#c0c9e5",
+    background: "#111e2a",
     cursor: "#ffffff",
     bright_foreground: "#c0c9e5",
-    dim_foreground: "#000000",
+    dim_foreground: "#304b66",
 
     normal: (
         black: "#000000",

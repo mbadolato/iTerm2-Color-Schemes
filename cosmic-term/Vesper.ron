@@ -1,9 +1,10 @@
 (
     name: "Vesper",
     foreground: "#ffffff",
+    background: "#101010",
     cursor: "#acb1ab",
     bright_foreground: "#ffffff",
-    dim_foreground: "#101010",
+    dim_foreground: "#7e7e7e",
 
     normal: (
         black: "#101010",

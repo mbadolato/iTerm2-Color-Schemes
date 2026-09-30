@@ -1,9 +1,10 @@
 (
     name: "Elemental",
     foreground: "#807a74",
+    background: "#22211d",
     cursor: "#facb80",
     bright_foreground: "#807a74",
-    dim_foreground: "#3c3c30",
+    dim_foreground: "#555445",
 
     normal: (
         black: "#3c3c30",

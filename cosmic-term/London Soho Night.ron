@@ -1,9 +1,10 @@
 (
     name: "London Soho Night",
     foreground: "#ebe0c8",
+    background: "#1a1612",
     cursor: "#ff5db1",
     bright_foreground: "#ebe0c8",
-    dim_foreground: "#2a221a",
+    dim_foreground: "#6b5a48",
 
     normal: (
         black: "#2a221a",

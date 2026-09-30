@@ -1,9 +1,10 @@
 (
     name: "Doom Peacock",
     foreground: "#ede0ce",
+    background: "#2b2a27",
     cursor: "#9c9c9d",
     bright_foreground: "#ede0ce",
-    dim_foreground: "#1c1f24",
+    dim_foreground: "#51504d",
 
     normal: (
         black: "#1c1f24",

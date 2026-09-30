@@ -1,9 +1,10 @@
 (
     name: "Aurora",
     foreground: "#ffca28",
+    background: "#23262e",
     cursor: "#ee5d43",
     bright_foreground: "#ffca28",
-    dim_foreground: "#23262e",
+    dim_foreground: "#4f545e",
 
     normal: (
         black: "#23262e",

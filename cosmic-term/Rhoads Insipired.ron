@@ -1,9 +1,10 @@
 (
     name: "Rhoads Insipired",
     foreground: "#f5f5f0",
+    background: "#0a0a0a",
     cursor: "#a855f7",
     bright_foreground: "#f5f5f0",
-    dim_foreground: "#161616",
+    dim_foreground: "#555555",
 
     normal: (
         black: "#161616",

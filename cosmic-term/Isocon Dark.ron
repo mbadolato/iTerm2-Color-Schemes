@@ -1,9 +1,10 @@
 (
     name: "Isocon Dark",
     foreground: "#868686",
+    background: "#062329",
     cursor: "#868686",
     bright_foreground: "#868686",
-    dim_foreground: "#062329",
+    dim_foreground: "#565656",
 
     normal: (
         black: "#062329",

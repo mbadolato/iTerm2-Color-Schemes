@@ -1,9 +1,10 @@
 (
     name: "owl",
     foreground: "#dedede",
+    background: "#2f2b2c",
     cursor: "#dedede",
     bright_foreground: "#dedede",
-    dim_foreground: "#302c2c",
+    dim_foreground: "#5d595b",
 
     normal: (
         black: "#302c2c",

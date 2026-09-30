@@ -1,9 +1,10 @@
 (
     name: "Monokai Remastered",
     foreground: "#d9d9d9",
+    background: "#0c0c0c",
     cursor: "#fc971f",
     bright_foreground: "#d9d9d9",
-    dim_foreground: "#1a1a1a",
+    dim_foreground: "#625e4c",
 
     normal: (
         black: "#1a1a1a",

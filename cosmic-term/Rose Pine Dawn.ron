@@ -1,9 +1,10 @@
 (
     name: "Rose Pine Dawn",
     foreground: "#575279",
+    background: "#faf4ed",
     cursor: "#575279",
     bright_foreground: "#575279",
-    dim_foreground: "#f2e9e1",
+    dim_foreground: "#9893a5",
 
     normal: (
         black: "#f2e9e1",

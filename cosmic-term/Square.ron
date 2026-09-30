@@ -1,9 +1,10 @@
 (
     name: "Square",
     foreground: "#acacab",
+    background: "#1a1a1a",
     cursor: "#fcfbcc",
     bright_foreground: "#acacab",
-    dim_foreground: "#050505",
+    dim_foreground: "#474747",
 
     normal: (
         black: "#050505",

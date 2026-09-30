@@ -1,9 +1,10 @@
 (
     name: "Pyrokai Light",
     foreground: "#242120",
+    background: "#faf6f5",
     cursor: "#b65318",
     bright_foreground: "#242120",
-    dim_foreground: "#242120",
+    dim_foreground: "#807c7a",
 
     normal: (
         black: "#242120",

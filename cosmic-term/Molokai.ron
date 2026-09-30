@@ -1,9 +1,10 @@
 (
     name: "Molokai",
     foreground: "#bbbbbb",
+    background: "#121212",
     cursor: "#bbbbbb",
     bright_foreground: "#bbbbbb",
-    dim_foreground: "#121212",
+    dim_foreground: "#555555",
 
     normal: (
         black: "#121212",

@@ -1,9 +1,10 @@
 (
     name: "Purple Rain",
     foreground: "#fffbf6",
+    background: "#21084a",
     cursor: "#ff271d",
     bright_foreground: "#fffbf6",
-    dim_foreground: "#000000",
+    dim_foreground: "#565656",
 
     normal: (
         black: "#000000",

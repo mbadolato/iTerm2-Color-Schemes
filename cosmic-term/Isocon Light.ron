@@ -1,9 +1,10 @@
 (
     name: "Isocon Light",
     foreground: "#6e6e6e",
+    background: "#eef3ea",
     cursor: "#6e6e6e",
     bright_foreground: "#6e6e6e",
-    dim_foreground: "#eef3ea",
+    dim_foreground: "#8c8c8c",
 
     normal: (
         black: "#eef3ea",

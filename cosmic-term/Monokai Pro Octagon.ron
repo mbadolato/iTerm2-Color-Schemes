@@ -1,9 +1,10 @@
 (
     name: "Monokai Pro Octagon",
     foreground: "#eaf2f1",
+    background: "#282a3a",
     cursor: "#b2b9bd",
     bright_foreground: "#eaf2f1",
-    dim_foreground: "#282a3a",
+    dim_foreground: "#696d77",
 
     normal: (
         black: "#282a3a",

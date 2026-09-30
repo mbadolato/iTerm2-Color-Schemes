@@ -1,9 +1,10 @@
 (
     name: "Modus Vivendi Tinted",
     foreground: "#ffffff",
+    background: "#0d0e1c",
     cursor: "#ff66ff",
     bright_foreground: "#ffffff",
-    dim_foreground: "#0d0e1c",
+    dim_foreground: "#595959",
 
     normal: (
         black: "#0d0e1c",

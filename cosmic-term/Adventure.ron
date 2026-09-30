@@ -1,9 +1,10 @@
 (
     name: "Adventure",
     foreground: "#feffff",
+    background: "#040404",
     cursor: "#feffff",
     bright_foreground: "#feffff",
-    dim_foreground: "#040404",
+    dim_foreground: "#685656",
 
     normal: (
         black: "#040404",

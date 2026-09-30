@@ -1,9 +1,10 @@
 (
     name: "Night Lion V2",
     foreground: "#bbbbbb",
+    background: "#171717",
     cursor: "#bbbbbb",
     bright_foreground: "#bbbbbb",
-    dim_foreground: "#4c4c4c",
+    dim_foreground: "#555555",
 
     normal: (
         black: "#4c4c4c",

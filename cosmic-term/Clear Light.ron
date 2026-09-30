@@ -1,9 +1,10 @@
 (
     name: "Clear Light",
     foreground: "#3a4851",
+    background: "#ffffff",
     cursor: "#919191",
     bright_foreground: "#3a4851",
-    dim_foreground: "#2d3840",
+    dim_foreground: "#506573",
 
     normal: (
         black: "#2d3840",

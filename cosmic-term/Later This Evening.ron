@@ -1,9 +1,10 @@
 (
     name: "Later This Evening",
     foreground: "#959595",
+    background: "#222222",
     cursor: "#4f4f4f",
     bright_foreground: "#959595",
-    dim_foreground: "#2b2b2b",
+    dim_foreground: "#525454",
 
     normal: (
         black: "#2b2b2b",

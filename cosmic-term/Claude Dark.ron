@@ -1,9 +1,10 @@
 (
     name: "Claude Dark",
     foreground: "#e5e4e1",
+    background: "#262624",
     cursor: "#d97757",
     bright_foreground: "#e5e4e1",
-    dim_foreground: "#888681",
+    dim_foreground: "#a6a59b",
 
     normal: (
         black: "#888681",

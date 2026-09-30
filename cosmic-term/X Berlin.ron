@@ -1,9 +1,10 @@
 (
     name: "X Berlin",
     foreground: "#cccccc",
+    background: "#000000",
     cursor: "#cccccc",
     bright_foreground: "#cccccc",
-    dim_foreground: "#000000",
+    dim_foreground: "#404040",
 
     normal: (
         black: "#000000",

@@ -1,9 +1,10 @@
 (
     name: "Farmhouse Dark",
     foreground: "#e8e4e1",
+    background: "#1d2027",
     cursor: "#006efe",
     bright_foreground: "#e8e4e1",
-    dim_foreground: "#1d2027",
+    dim_foreground: "#464d54",
 
     normal: (
         black: "#1d2027",

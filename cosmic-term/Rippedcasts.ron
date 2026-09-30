@@ -1,9 +1,10 @@
 (
     name: "Rippedcasts",
     foreground: "#ffffff",
+    background: "#2b2b2b",
     cursor: "#7f7f7f",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#666666",
 
     normal: (
         black: "#000000",

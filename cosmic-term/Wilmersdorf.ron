@@ -1,9 +1,10 @@
 (
     name: "Wilmersdorf",
     foreground: "#c6c6c6",
+    background: "#282b33",
     cursor: "#7ebebd",
     bright_foreground: "#c6c6c6",
-    dim_foreground: "#34373e",
+    dim_foreground: "#50545d",
 
     normal: (
         black: "#34373e",

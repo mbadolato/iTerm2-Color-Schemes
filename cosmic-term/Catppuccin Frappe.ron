@@ -1,9 +1,10 @@
 (
     name: "Catppuccin Frappe",
     foreground: "#c6d0f5",
+    background: "#303446",
     cursor: "#f2d5cf",
     bright_foreground: "#c6d0f5",
-    dim_foreground: "#51576d",
+    dim_foreground: "#626880",
 
     normal: (
         black: "#51576d",

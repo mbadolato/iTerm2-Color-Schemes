@@ -1,9 +1,10 @@
 (
     name: "Noctis Minimus",
     foreground: "#c5cdd3",
+    background: "#1b2932",
     cursor: "#c5cdd3",
     bright_foreground: "#c5cdd3",
-    dim_foreground: "#182a35",
+    dim_foreground: "#425866",
 
     normal: (
         black: "#182a35",

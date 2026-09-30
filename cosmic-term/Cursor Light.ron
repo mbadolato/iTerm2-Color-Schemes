@@ -1,9 +1,10 @@
 (
     name: "Cursor Light",
     foreground: "#252525",
+    background: "#f3f3f3",
     cursor: "#252525",
     bright_foreground: "#252525",
-    dim_foreground: "#252525",
+    dim_foreground: "#5c5c5c",
 
     normal: (
         black: "#252525",

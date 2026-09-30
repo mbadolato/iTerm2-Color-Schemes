@@ -1,9 +1,10 @@
 (
     name: "Serendipity Midnight",
     foreground: "#dee0ef",
+    background: "#151726",
     cursor: "#6b6d7c",
     bright_foreground: "#dee0ef",
-    dim_foreground: "#232534",
+    dim_foreground: "#8d8f9e",
 
     normal: (
         black: "#232534",

@@ -1,9 +1,10 @@
 (
     name: "Relaxed",
     foreground: "#d9d9d9",
+    background: "#353a44",
     cursor: "#d9d9d9",
     bright_foreground: "#d9d9d9",
-    dim_foreground: "#151515",
+    dim_foreground: "#636363",
 
     normal: (
         black: "#151515",

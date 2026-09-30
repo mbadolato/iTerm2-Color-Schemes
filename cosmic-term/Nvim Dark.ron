@@ -1,9 +1,10 @@
 (
     name: "Nvim Dark",
     foreground: "#e0e2ea",
+    background: "#14161b",
     cursor: "#9b9ea4",
     bright_foreground: "#e0e2ea",
-    dim_foreground: "#07080d",
+    dim_foreground: "#4f5258",
 
     normal: (
         black: "#07080d",

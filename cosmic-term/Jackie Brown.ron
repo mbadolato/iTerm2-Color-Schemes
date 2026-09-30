@@ -1,9 +1,10 @@
 (
     name: "Jackie Brown",
     foreground: "#ffcc2f",
+    background: "#2c1d16",
     cursor: "#23ff18",
     bright_foreground: "#ffcc2f",
-    dim_foreground: "#2c1d16",
+    dim_foreground: "#666666",
 
     normal: (
         black: "#2c1d16",

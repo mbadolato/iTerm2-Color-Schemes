@@ -1,9 +1,10 @@
 (
     name: "Cool Night",
     foreground: "#ecdef4",
+    background: "#010c18",
     cursor: "#38ff9d",
     bright_foreground: "#ecdef4",
-    dim_foreground: "#0b3b61",
+    dim_foreground: "#63686d",
 
     normal: (
         black: "#0b3b61",

@@ -1,9 +1,10 @@
 (
     name: "Solarized Dark Patched",
     foreground: "#708284",
+    background: "#001e27",
     cursor: "#708284",
     bright_foreground: "#708284",
-    dim_foreground: "#002831",
+    dim_foreground: "#475b62",
 
     normal: (
         black: "#002831",

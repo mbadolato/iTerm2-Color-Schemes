@@ -1,9 +1,10 @@
 (
     name: "Borland",
     foreground: "#ffff4e",
+    background: "#0000a4",
     cursor: "#ffa560",
     bright_foreground: "#ffff4e",
-    dim_foreground: "#4f4f4f",
+    dim_foreground: "#7c7c7c",
 
     normal: (
         black: "#4f4f4f",

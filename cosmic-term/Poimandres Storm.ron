@@ -1,9 +1,10 @@
 (
     name: "Poimandres Storm",
     foreground: "#a6accd",
+    background: "#252b37",
     cursor: "#ffffff",
     bright_foreground: "#a6accd",
-    dim_foreground: "#252b37",
+    dim_foreground: "#a6accd",
 
     normal: (
         black: "#252b37",

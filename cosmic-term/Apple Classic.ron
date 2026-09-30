@@ -1,9 +1,10 @@
 (
     name: "Apple Classic",
     foreground: "#d5a200",
+    background: "#2c2b2b",
     cursor: "#c7c7c7",
     bright_foreground: "#d5a200",
-    dim_foreground: "#000000",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#000000",

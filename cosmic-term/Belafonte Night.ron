@@ -1,9 +1,10 @@
 (
     name: "Belafonte Night",
     foreground: "#968c83",
+    background: "#20111b",
     cursor: "#968c83",
     bright_foreground: "#968c83",
-    dim_foreground: "#20111b",
+    dim_foreground: "#5e5252",
 
     normal: (
         black: "#20111b",

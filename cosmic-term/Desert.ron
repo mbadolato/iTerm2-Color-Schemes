@@ -1,9 +1,10 @@
 (
     name: "Desert",
     foreground: "#ffffff",
+    background: "#333333",
     cursor: "#00ff00",
     bright_foreground: "#ffffff",
-    dim_foreground: "#4d4d4d",
+    dim_foreground: "#626262",
 
     normal: (
         black: "#4d4d4d",

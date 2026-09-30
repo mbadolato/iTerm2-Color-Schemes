@@ -1,9 +1,10 @@
 (
     name: "Cobalt Neon",
     foreground: "#8ff586",
+    background: "#142838",
     cursor: "#c4206f",
     bright_foreground: "#8ff586",
-    dim_foreground: "#142631",
+    dim_foreground: "#fff688",
 
     normal: (
         black: "#142631",

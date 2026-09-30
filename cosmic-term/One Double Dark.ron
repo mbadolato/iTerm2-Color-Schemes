@@ -1,9 +1,10 @@
 (
     name: "One Double Dark",
     foreground: "#dbdfe5",
+    background: "#282c34",
     cursor: "#f5e0dc",
     bright_foreground: "#dbdfe5",
-    dim_foreground: "#3d4452",
+    dim_foreground: "#525d6f",
 
     normal: (
         black: "#3d4452",

@@ -1,9 +1,10 @@
 (
     name: "X Oslo",
     foreground: "#abb2bf",
+    background: "#3f4451",
     cursor: "#abb2bf",
     bright_foreground: "#abb2bf",
-    dim_foreground: "#3f4451",
+    dim_foreground: "#687080",
 
     normal: (
         black: "#3f4451",

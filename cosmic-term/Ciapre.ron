@@ -1,9 +1,10 @@
 (
     name: "Ciapre",
     foreground: "#aea47a",
+    background: "#191c27",
     cursor: "#92805b",
     bright_foreground: "#aea47a",
-    dim_foreground: "#181818",
+    dim_foreground: "#555555",
 
     normal: (
         black: "#181818",

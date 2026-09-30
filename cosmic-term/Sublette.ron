@@ -1,9 +1,10 @@
 (
     name: "Sublette",
     foreground: "#ccced0",
+    background: "#202535",
     cursor: "#ccced0",
     bright_foreground: "#ccced0",
-    dim_foreground: "#253045",
+    dim_foreground: "#405570",
 
     normal: (
         black: "#253045",

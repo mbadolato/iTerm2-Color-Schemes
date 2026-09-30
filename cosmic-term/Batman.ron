@@ -1,9 +1,10 @@
 (
     name: "Batman",
     foreground: "#6f6f6f",
+    background: "#1b1d1e",
     cursor: "#fcef0c",
     bright_foreground: "#6f6f6f",
-    dim_foreground: "#1b1d1e",
+    dim_foreground: "#505354",
 
     normal: (
         black: "#1b1d1e",

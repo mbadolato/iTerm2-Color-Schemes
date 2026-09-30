@@ -1,9 +1,10 @@
 (
     name: "Daybreak",
     foreground: "#44413b",
+    background: "#f3efe8",
     cursor: "#a25327",
     bright_foreground: "#44413b",
-    dim_foreground: "#44413b",
+    dim_foreground: "#8c8579",
 
     normal: (
         black: "#44413b",

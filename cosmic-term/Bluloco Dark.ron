@@ -1,9 +1,10 @@
 (
     name: "Bluloco Dark",
     foreground: "#b9c0cb",
+    background: "#282c34",
     cursor: "#ffcc00",
     bright_foreground: "#b9c0cb",
-    dim_foreground: "#41444d",
+    dim_foreground: "#8f9aae",
 
     normal: (
         black: "#41444d",

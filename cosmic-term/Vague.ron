@@ -1,9 +1,10 @@
 (
     name: "Vague",
     foreground: "#cdcdcd",
+    background: "#141415",
     cursor: "#cdcdcd",
     bright_foreground: "#cdcdcd",
-    dim_foreground: "#252530",
+    dim_foreground: "#606079",
 
     normal: (
         black: "#252530",

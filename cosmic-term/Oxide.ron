@@ -1,9 +1,10 @@
 (
     name: "Oxide",
     foreground: "#cecece",
+    background: "#161616",
     cursor: "#cecece",
     bright_foreground: "#cecece",
-    dim_foreground: "#262626",
+    dim_foreground: "#8f8f8f",
 
     normal: (
         black: "#262626",

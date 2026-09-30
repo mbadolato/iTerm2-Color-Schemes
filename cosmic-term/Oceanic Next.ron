@@ -1,9 +1,10 @@
 (
     name: "Oceanic Next",
     foreground: "#c0c5ce",
+    background: "#162c35",
     cursor: "#c0c5ce",
     bright_foreground: "#c0c5ce",
-    dim_foreground: "#162c35",
+    dim_foreground: "#65737e",
 
     normal: (
         black: "#162c35",

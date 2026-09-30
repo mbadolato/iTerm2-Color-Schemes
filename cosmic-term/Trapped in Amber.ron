@@ -1,9 +1,10 @@
 (
     name: "Trapped in Amber",
     foreground: "#f0a020",
+    background: "#0a1017",
     cursor: "#ffc940",
     bright_foreground: "#f0a020",
-    dim_foreground: "#4a3220",
+    dim_foreground: "#5a4a3a",
 
     normal: (
         black: "#4a3220",

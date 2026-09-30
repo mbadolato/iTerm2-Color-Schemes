@@ -1,9 +1,10 @@
 (
     name: "Retro Legends",
     foreground: "#45eb45",
+    background: "#0d0d0d",
     cursor: "#45eb45",
     bright_foreground: "#45eb45",
-    dim_foreground: "#262626",
+    dim_foreground: "#4c594c",
 
     normal: (
         black: "#262626",

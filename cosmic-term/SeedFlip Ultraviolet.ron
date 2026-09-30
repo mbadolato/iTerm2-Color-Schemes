@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Ultraviolet",
     foreground: "#e8e0f5",
+    background: "#0b0014",
     cursor: "#c77dff",
     bright_foreground: "#e8e0f5",
-    dim_foreground: "#05000a",
+    dim_foreground: "#5b2687",
 
     normal: (
         black: "#05000a",

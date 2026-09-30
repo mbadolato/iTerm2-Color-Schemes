@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Amethyst",
     foreground: "#1a0a2e",
+    background: "#f8f7f6",
     cursor: "#635bff",
     bright_foreground: "#1a0a2e",
-    dim_foreground: "#d7d1cb",
+    dim_foreground: "#b5aba0",
 
     normal: (
         black: "#d7d1cb",

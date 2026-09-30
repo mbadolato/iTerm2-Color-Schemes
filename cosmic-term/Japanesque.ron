@@ -1,9 +1,10 @@
 (
     name: "Japanesque",
     foreground: "#f7f6ec",
+    background: "#1e1e1e",
     cursor: "#edcf4f",
     bright_foreground: "#f7f6ec",
-    dim_foreground: "#343935",
+    dim_foreground: "#595b59",
 
     normal: (
         black: "#343935",

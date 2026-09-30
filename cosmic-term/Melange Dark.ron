@@ -1,9 +1,10 @@
 (
     name: "Melange Dark",
     foreground: "#ece1d7",
+    background: "#292522",
     cursor: "#ece1d7",
     bright_foreground: "#ece1d7",
-    dim_foreground: "#34302c",
+    dim_foreground: "#867462",
 
     normal: (
         black: "#34302c",

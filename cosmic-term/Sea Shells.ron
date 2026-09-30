@@ -1,9 +1,10 @@
 (
     name: "Sea Shells",
     foreground: "#deb88d",
+    background: "#09141b",
     cursor: "#fca02f",
     bright_foreground: "#deb88d",
-    dim_foreground: "#17384c",
+    dim_foreground: "#434b53",
 
     normal: (
         black: "#17384c",

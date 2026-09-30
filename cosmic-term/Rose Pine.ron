@@ -1,9 +1,10 @@
 (
     name: "Rose Pine",
     foreground: "#e0def4",
+    background: "#191724",
     cursor: "#e0def4",
     bright_foreground: "#e0def4",
-    dim_foreground: "#26233a",
+    dim_foreground: "#6e6a86",
 
     normal: (
         black: "#26233a",

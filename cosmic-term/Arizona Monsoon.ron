@@ -1,9 +1,10 @@
 (
     name: "Arizona Monsoon",
     foreground: "#e6e8ed",
+    background: "#0a0f14",
     cursor: "#f4d06f",
     bright_foreground: "#e6e8ed",
-    dim_foreground: "#1f2937",
+    dim_foreground: "#4b5563",
 
     normal: (
         black: "#1f2937",

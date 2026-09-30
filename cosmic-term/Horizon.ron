@@ -1,9 +1,10 @@
 (
     name: "Horizon",
     foreground: "#d5d8da",
+    background: "#1c1e26",
     cursor: "#6c6f93",
     bright_foreground: "#d5d8da",
-    dim_foreground: "#000000",
+    dim_foreground: "#666666",
 
     normal: (
         black: "#000000",

@@ -1,9 +1,10 @@
 (
     name: "Seti",
     foreground: "#cacecd",
+    background: "#111213",
     cursor: "#e3bf21",
     bright_foreground: "#cacecd",
-    dim_foreground: "#323232",
+    dim_foreground: "#3f3f3f",
 
     normal: (
         black: "#323232",

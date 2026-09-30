@@ -1,9 +1,10 @@
 (
     name: "Under The Sea",
     foreground: "#ffffff",
+    background: "#011116",
     cursor: "#4afcd6",
     bright_foreground: "#ffffff",
-    dim_foreground: "#022026",
+    dim_foreground: "#384451",
 
     normal: (
         black: "#022026",

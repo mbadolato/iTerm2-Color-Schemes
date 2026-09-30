@@ -1,9 +1,10 @@
 (
     name: "Poimandres White",
     foreground: "#969cbd",
+    background: "#fefeff",
     cursor: "#969cbd",
     bright_foreground: "#969cbd",
-    dim_foreground: "#fefeff",
+    dim_foreground: "#969cbd",
 
     normal: (
         black: "#fefeff",

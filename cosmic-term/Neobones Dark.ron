@@ -1,9 +1,10 @@
 (
     name: "Neobones Dark",
     foreground: "#c6d5cf",
+    background: "#0f191f",
     cursor: "#ceddd7",
     bright_foreground: "#c6d5cf",
-    dim_foreground: "#0f191f",
+    dim_foreground: "#334652",
 
     normal: (
         black: "#0f191f",

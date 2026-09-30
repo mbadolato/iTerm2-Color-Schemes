@@ -1,9 +1,10 @@
 (
     name: "Grok Night",
     foreground: "#e1e1e1",
+    background: "#141414",
     cursor: "#e0af68",
     bright_foreground: "#e1e1e1",
-    dim_foreground: "#0a0a0a",
+    dim_foreground: "#6c6c6c",
 
     normal: (
         black: "#0a0a0a",

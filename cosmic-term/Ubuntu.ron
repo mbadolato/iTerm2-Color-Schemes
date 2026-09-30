@@ -1,9 +1,10 @@
 (
     name: "Ubuntu",
     foreground: "#eeeeec",
+    background: "#300a24",
     cursor: "#bbbbbb",
     bright_foreground: "#eeeeec",
-    dim_foreground: "#2e3436",
+    dim_foreground: "#555753",
 
     normal: (
         black: "#2e3436",

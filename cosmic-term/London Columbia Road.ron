@@ -1,9 +1,10 @@
 (
     name: "London Columbia Road",
     foreground: "#1f3a2f",
+    background: "#f8f5ec",
     cursor: "#d4708e",
     bright_foreground: "#1f3a2f",
-    dim_foreground: "#2a2520",
+    dim_foreground: "#756a55",
 
     normal: (
         black: "#2a2520",

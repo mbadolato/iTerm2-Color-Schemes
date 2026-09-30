@@ -1,9 +1,10 @@
 (
     name: "Embark",
     foreground: "#eeffff",
+    background: "#1e1c31",
     cursor: "#a1efd3",
     bright_foreground: "#eeffff",
-    dim_foreground: "#1e1c31",
+    dim_foreground: "#585273",
 
     normal: (
         black: "#1e1c31",

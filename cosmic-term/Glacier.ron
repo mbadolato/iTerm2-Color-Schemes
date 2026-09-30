@@ -1,9 +1,10 @@
 (
     name: "Glacier",
     foreground: "#ffffff",
+    background: "#0c1115",
     cursor: "#6c6c6c",
     bright_foreground: "#ffffff",
-    dim_foreground: "#2e343c",
+    dim_foreground: "#404a55",
 
     normal: (
         black: "#2e343c",

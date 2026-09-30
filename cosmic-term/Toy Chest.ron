@@ -1,9 +1,10 @@
 (
     name: "Toy Chest",
     foreground: "#31d07b",
+    background: "#24364b",
     cursor: "#d5d5d5",
     bright_foreground: "#31d07b",
-    dim_foreground: "#2c3f58",
+    dim_foreground: "#336889",
 
     normal: (
         black: "#2c3f58",

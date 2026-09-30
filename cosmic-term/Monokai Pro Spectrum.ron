@@ -1,9 +1,10 @@
 (
     name: "Monokai Pro Spectrum",
     foreground: "#f7f1ff",
+    background: "#222222",
     cursor: "#bab6c0",
     bright_foreground: "#f7f1ff",
-    dim_foreground: "#222222",
+    dim_foreground: "#69676c",
 
     normal: (
         black: "#222222",

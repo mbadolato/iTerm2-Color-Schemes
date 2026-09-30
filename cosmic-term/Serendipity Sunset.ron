@@ -1,9 +1,10 @@
 (
     name: "Serendipity Sunset",
     foreground: "#dee0ef",
+    background: "#202231",
     cursor: "#8d8f9e",
     bright_foreground: "#dee0ef",
-    dim_foreground: "#363847",
+    dim_foreground: "#6b6d7c",
 
     normal: (
         black: "#363847",

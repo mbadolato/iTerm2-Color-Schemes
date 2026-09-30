@@ -1,9 +1,10 @@
 (
     name: "Rhoads Legacy",
     foreground: "#c4b5fd",
+    background: "#0a0614",
     cursor: "#f4d03f",
     bright_foreground: "#c4b5fd",
-    dim_foreground: "#18111f",
+    dim_foreground: "#4b3f72",
 
     normal: (
         black: "#18111f",

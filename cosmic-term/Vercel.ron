@@ -1,9 +1,10 @@
 (
     name: "Vercel",
     foreground: "#fafafa",
+    background: "#101010",
     cursor: "#f32882",
     bright_foreground: "#fafafa",
-    dim_foreground: "#000000",
+    dim_foreground: "#a8a8a8",
 
     normal: (
         black: "#000000",

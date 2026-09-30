@@ -1,9 +1,10 @@
 (
     name: "Selenized Black",
     foreground: "#b9b9b9",
+    background: "#181818",
     cursor: "#777777",
     bright_foreground: "#b9b9b9",
-    dim_foreground: "#252525",
+    dim_foreground: "#777777",
 
     normal: (
         black: "#252525",

@@ -1,9 +1,10 @@
 (
     name: "Solarized Dark Higher Contrast",
     foreground: "#9cc2c3",
+    background: "#001e27",
     cursor: "#f34b00",
     bright_foreground: "#9cc2c3",
-    dim_foreground: "#002831",
+    dim_foreground: "#006488",
 
     normal: (
         black: "#002831",

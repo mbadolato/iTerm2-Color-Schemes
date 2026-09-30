@@ -1,9 +1,10 @@
 (
     name: "GitHub",
     foreground: "#3e3e3e",
+    background: "#f4f4f4",
     cursor: "#3f3f3f",
     bright_foreground: "#3e3e3e",
-    dim_foreground: "#3e3e3e",
+    dim_foreground: "#666666",
 
     normal: (
         black: "#3e3e3e",

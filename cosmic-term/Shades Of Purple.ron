@@ -1,9 +1,10 @@
 (
     name: "Shades Of Purple",
     foreground: "#ffffff",
+    background: "#1e1d40",
     cursor: "#fad000",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#000000",

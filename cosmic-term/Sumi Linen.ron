@@ -1,9 +1,10 @@
 (
     name: "Sumi Linen",
     foreground: "#1c1814",
+    background: "#e6dfd0",
     cursor: "#18786c",
     bright_foreground: "#1c1814",
-    dim_foreground: "#3a342c",
+    dim_foreground: "#6a6458",
 
     normal: (
         black: "#3a342c",

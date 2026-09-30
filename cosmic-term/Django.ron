@@ -1,9 +1,10 @@
 (
     name: "Django",
     foreground: "#f8f8f8",
+    background: "#0b2f20",
     cursor: "#336442",
     bright_foreground: "#f8f8f8",
-    dim_foreground: "#000000",
+    dim_foreground: "#585858",
 
     normal: (
         black: "#000000",

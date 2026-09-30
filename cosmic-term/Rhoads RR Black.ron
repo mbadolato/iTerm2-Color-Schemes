@@ -1,9 +1,10 @@
 (
     name: "Rhoads RR Black",
     foreground: "#f4ecd7",
+    background: "#0a0907",
     cursor: "#d4af37",
     bright_foreground: "#f4ecd7",
-    dim_foreground: "#1c1a16",
+    dim_foreground: "#5a5750",
 
     normal: (
         black: "#1c1a16",

@@ -1,9 +1,10 @@
 (
     name: "Wez",
     foreground: "#b3b3b3",
+    background: "#000000",
     cursor: "#53ae71",
     bright_foreground: "#b3b3b3",
-    dim_foreground: "#000000",
+    dim_foreground: "#555555",
 
     normal: (
         black: "#000000",

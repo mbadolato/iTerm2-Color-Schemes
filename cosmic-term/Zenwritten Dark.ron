@@ -1,9 +1,10 @@
 (
     name: "Zenwritten Dark",
     foreground: "#bbbbbb",
+    background: "#191919",
     cursor: "#c9c9c9",
     bright_foreground: "#bbbbbb",
-    dim_foreground: "#191919",
+    dim_foreground: "#4a4546",
 
     normal: (
         black: "#191919",

@@ -1,9 +1,10 @@
 (
     name: "Aardvark Blue",
     foreground: "#dddddd",
+    background: "#102040",
     cursor: "#007acc",
     bright_foreground: "#dddddd",
-    dim_foreground: "#191919",
+    dim_foreground: "#525252",
 
     normal: (
         black: "#191919",

@@ -1,9 +1,10 @@
 (
     name: "Noctis Lilac",
     foreground: "#0c006b",
+    background: "#f2f1f8",
     cursor: "#0c006b",
     bright_foreground: "#0c006b",
-    dim_foreground: "#0c006b",
+    dim_foreground: "#0f0080",
 
     normal: (
         black: "#0c006b",

@@ -1,9 +1,10 @@
 (
     name: "Gruvbox Material Dark",
     foreground: "#d4be98",
+    background: "#282828",
     cursor: "#d4be98",
     bright_foreground: "#d4be98",
-    dim_foreground: "#282828",
+    dim_foreground: "#7c6f64",
 
     normal: (
         black: "#282828",

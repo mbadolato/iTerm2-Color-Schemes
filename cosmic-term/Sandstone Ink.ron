@@ -1,9 +1,10 @@
 (
     name: "Sandstone Ink",
     foreground: "#2b3d45",
+    background: "#fdf6e3",
     cursor: "#2b3d45",
     bright_foreground: "#2b3d45",
-    dim_foreground: "#002b36",
+    dim_foreground: "#2b3d45",
 
     normal: (
         black: "#002b36",

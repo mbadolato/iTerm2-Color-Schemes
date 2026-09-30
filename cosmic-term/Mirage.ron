@@ -1,9 +1,10 @@
 (
     name: "Mirage",
     foreground: "#a6b2c0",
+    background: "#1b2738",
     cursor: "#ddb3ff",
     bright_foreground: "#a6b2c0",
-    dim_foreground: "#011627",
+    dim_foreground: "#575656",
 
     normal: (
         black: "#011627",

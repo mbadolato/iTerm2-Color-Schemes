@@ -1,9 +1,10 @@
 (
     name: "Sauber",
     foreground: "#1345f6",
+    background: "#ecffe5",
     cursor: "#000000",
     bright_foreground: "#1345f6",
-    dim_foreground: "#14191e",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#14191e",

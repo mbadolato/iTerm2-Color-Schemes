@@ -1,9 +1,10 @@
 (
     name: "Builtin Pastel Dark",
     foreground: "#bbbbbb",
+    background: "#000000",
     cursor: "#ffa560",
     bright_foreground: "#bbbbbb",
-    dim_foreground: "#4f4f4f",
+    dim_foreground: "#7c7c7c",
 
     normal: (
         black: "#4f4f4f",

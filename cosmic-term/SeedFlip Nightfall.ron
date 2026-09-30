@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Nightfall",
     foreground: "#e4e4e7",
+    background: "#0a0a0f",
     cursor: "#818cf8",
     bright_foreground: "#e4e4e7",
-    dim_foreground: "#060609",
+    dim_foreground: "#424256",
 
     normal: (
         black: "#060609",

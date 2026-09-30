@@ -1,9 +1,10 @@
 (
     name: "Squintless",
     foreground: "#3c3836",
+    background: "#f2e5bc",
     cursor: "#282828",
     bright_foreground: "#3c3836",
-    dim_foreground: "#f2e5bc",
+    dim_foreground: "#928374",
 
     normal: (
         black: "#f2e5bc",

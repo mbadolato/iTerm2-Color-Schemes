@@ -1,9 +1,10 @@
 (
     name: "Ayu",
     foreground: "#bfbdb6",
+    background: "#0b0e14",
     cursor: "#e6b450",
     bright_foreground: "#bfbdb6",
-    dim_foreground: "#11151c",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#11151c",

@@ -1,9 +1,10 @@
 (
     name: "Slate",
     foreground: "#35b1d2",
+    background: "#222222",
     cursor: "#87d3c4",
     bright_foreground: "#35b1d2",
-    dim_foreground: "#222222",
+    dim_foreground: "#ffffff",
 
     normal: (
         black: "#222222",

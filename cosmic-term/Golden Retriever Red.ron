@@ -1,9 +1,10 @@
 (
     name: "Golden Retriever Red",
     foreground: "#6b3d2a",
+    background: "#fff0e3",
     cursor: "#c97b2e",
     bright_foreground: "#6b3d2a",
-    dim_foreground: "#8b3a1b",
+    dim_foreground: "#8c5a3c",
 
     normal: (
         black: "#8b3a1b",

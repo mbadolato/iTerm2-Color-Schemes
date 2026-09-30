@@ -1,9 +1,10 @@
 (
     name: "Dimidium",
     foreground: "#bab7b6",
+    background: "#141414",
     cursor: "#37e57b",
     bright_foreground: "#bab7b6",
-    dim_foreground: "#000000",
+    dim_foreground: "#817e7e",
 
     normal: (
         black: "#000000",

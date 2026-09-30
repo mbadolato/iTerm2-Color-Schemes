@@ -1,9 +1,10 @@
 (
     name: "Lemon Graphite",
     foreground: "#dce3ea",
+    background: "#0b0f14",
     cursor: "#f2c14e",
     bright_foreground: "#dce3ea",
-    dim_foreground: "#0b0f14",
+    dim_foreground: "#59636e",
 
     normal: (
         black: "#0b0f14",

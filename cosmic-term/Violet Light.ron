@@ -1,9 +1,10 @@
 (
     name: "Violet Light",
     foreground: "#536870",
+    background: "#fcf4dc",
     cursor: "#536870",
     bright_foreground: "#536870",
-    dim_foreground: "#56595c",
+    dim_foreground: "#45484b",
 
     normal: (
         black: "#56595c",

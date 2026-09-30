@@ -1,9 +1,10 @@
 (
     name: "Moonwalk",
     foreground: "#061f4a",
+    background: "#e4e2e0",
     cursor: "#061f4a",
     bright_foreground: "#061f4a",
-    dim_foreground: "#080808",
+    dim_foreground: "#494440",
 
     normal: (
         black: "#080808",

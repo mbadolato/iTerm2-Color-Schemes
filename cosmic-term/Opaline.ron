@@ -1,9 +1,10 @@
 (
     name: "Opaline",
     foreground: "#ece9f7",
+    background: "#131121",
     cursor: "#ffb3d6",
     bright_foreground: "#ece9f7",
-    dim_foreground: "#201b33",
+    dim_foreground: "#6b678f",
 
     normal: (
         black: "#201b33",

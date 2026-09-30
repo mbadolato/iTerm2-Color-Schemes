@@ -1,9 +1,10 @@
 (
     name: "CLRS",
     foreground: "#262626",
+    background: "#ffffff",
     cursor: "#62c6ef",
     bright_foreground: "#262626",
-    dim_foreground: "#000000",
+    dim_foreground: "#555753",
 
     normal: (
         black: "#000000",

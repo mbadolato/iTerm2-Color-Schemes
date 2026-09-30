@@ -1,9 +1,10 @@
 (
     name: "Emberglass",
     foreground: "#e6e7eb",
+    background: "#0b0e11",
     cursor: "#f59e0b",
     bright_foreground: "#e6e7eb",
-    dim_foreground: "#2a2f36",
+    dim_foreground: "#64748b",
 
     normal: (
         black: "#2a2f36",

@@ -1,9 +1,10 @@
 (
     name: "Ryuuko",
     foreground: "#ececec",
+    background: "#2c3941",
     cursor: "#ececec",
     bright_foreground: "#ececec",
-    dim_foreground: "#2c3941",
+    dim_foreground: "#5d7079",
 
     normal: (
         black: "#2c3941",

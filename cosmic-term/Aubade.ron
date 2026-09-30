@@ -1,9 +1,10 @@
 (
     name: "Aubade",
     foreground: "#3a3340",
+    background: "#fbf6fb",
     cursor: "#ae3f84",
     bright_foreground: "#3a3340",
-    dim_foreground: "#33293f",
+    dim_foreground: "#9a8fa8",
 
     normal: (
         black: "#33293f",

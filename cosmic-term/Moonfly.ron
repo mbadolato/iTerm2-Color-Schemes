@@ -1,9 +1,10 @@
 (
     name: "Moonfly",
     foreground: "#bdbdbd",
+    background: "#080808",
     cursor: "#9e9e9e",
     bright_foreground: "#bdbdbd",
-    dim_foreground: "#323437",
+    dim_foreground: "#949494",
 
     normal: (
         black: "#323437",

@@ -1,9 +1,10 @@
 (
     name: "Jellybeans",
     foreground: "#dedede",
+    background: "#121212",
     cursor: "#ffa560",
     bright_foreground: "#dedede",
-    dim_foreground: "#929292",
+    dim_foreground: "#bdbdbd",
 
     normal: (
         black: "#929292",

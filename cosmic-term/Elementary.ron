@@ -1,9 +1,10 @@
 (
     name: "Elementary",
     foreground: "#efefef",
+    background: "#181818",
     cursor: "#bbbbbb",
     bright_foreground: "#efefef",
-    dim_foreground: "#242424",
+    dim_foreground: "#4b4b4b",
 
     normal: (
         black: "#242424",

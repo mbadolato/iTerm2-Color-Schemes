@@ -1,9 +1,10 @@
 (
     name: "CRT Afterglow",
     foreground: "#d0d8c8",
+    background: "#0b0f0b",
     cursor: "#f4d35e",
     bright_foreground: "#d0d8c8",
-    dim_foreground: "#203020",
+    dim_foreground: "#4a5d4a",
 
     normal: (
         black: "#203020",

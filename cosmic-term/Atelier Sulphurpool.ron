@@ -1,9 +1,10 @@
 (
     name: "Atelier Sulphurpool",
     foreground: "#979db4",
+    background: "#202746",
     cursor: "#979db4",
     bright_foreground: "#979db4",
-    dim_foreground: "#202746",
+    dim_foreground: "#6b7394",
 
     normal: (
         black: "#202746",

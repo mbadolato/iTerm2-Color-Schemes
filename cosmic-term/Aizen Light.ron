@@ -1,9 +1,10 @@
 (
     name: "Aizen Light",
     foreground: "#4a4d66",
+    background: "#f0f2f6",
     cursor: "#fc6008",
     bright_foreground: "#4a4d66",
-    dim_foreground: "#f0f2f6",
+    dim_foreground: "#adb2bc",
 
     normal: (
         black: "#f0f2f6",

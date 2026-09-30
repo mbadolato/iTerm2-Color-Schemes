@@ -1,9 +1,10 @@
 (
     name: "Catppuccin Latte",
     foreground: "#4c4f69",
+    background: "#eff1f5",
     cursor: "#dc8a78",
     bright_foreground: "#4c4f69",
-    dim_foreground: "#bcc0cc",
+    dim_foreground: "#acb0be",
 
     normal: (
         black: "#bcc0cc",

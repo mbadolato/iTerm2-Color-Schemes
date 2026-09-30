@@ -1,9 +1,10 @@
 (
     name: "Shaman",
     foreground: "#405555",
+    background: "#001015",
     cursor: "#4afcd6",
     bright_foreground: "#405555",
-    dim_foreground: "#012026",
+    dim_foreground: "#384451",
 
     normal: (
         black: "#012026",

@@ -1,9 +1,10 @@
 (
     name: "IR Black",
     foreground: "#f1f1f1",
+    background: "#000000",
     cursor: "#808080",
     bright_foreground: "#f1f1f1",
-    dim_foreground: "#4f4f4f",
+    dim_foreground: "#7b7b7b",
 
     normal: (
         black: "#4f4f4f",

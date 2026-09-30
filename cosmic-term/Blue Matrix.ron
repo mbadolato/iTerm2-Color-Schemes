@@ -1,9 +1,10 @@
 (
     name: "Blue Matrix",
     foreground: "#00a2ff",
+    background: "#101116",
     cursor: "#76ff9f",
     bright_foreground: "#00a2ff",
-    dim_foreground: "#101116",
+    dim_foreground: "#686868",
 
     normal: (
         black: "#101116",

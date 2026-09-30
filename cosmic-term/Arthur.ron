@@ -1,9 +1,10 @@
 (
     name: "Arthur",
     foreground: "#ddeedd",
+    background: "#1c1c1c",
     cursor: "#e2bbef",
     bright_foreground: "#ddeedd",
-    dim_foreground: "#3d352a",
+    dim_foreground: "#554444",
 
     normal: (
         black: "#3d352a",

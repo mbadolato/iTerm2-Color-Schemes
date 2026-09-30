@@ -1,9 +1,10 @@
 (
     name: "Kanso Pearl",
     foreground: "#22262d",
+    background: "#f2f1ef",
     cursor: "#22262d",
     bright_foreground: "#22262d",
-    dim_foreground: "#22262d",
+    dim_foreground: "#6d6f6e",
 
     normal: (
         black: "#22262d",

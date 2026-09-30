@@ -1,9 +1,10 @@
 (
     name: "Vibrant Ink",
     foreground: "#ffffff",
+    background: "#000000",
     cursor: "#ffffff",
     bright_foreground: "#ffffff",
-    dim_foreground: "#878787",
+    dim_foreground: "#555555",
 
     normal: (
         black: "#878787",

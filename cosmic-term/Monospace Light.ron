@@ -1,9 +1,10 @@
 (
     name: "Monospace Light",
     foreground: "#475365",
+    background: "#f4f7fd",
     cursor: "#6f4cde",
     bright_foreground: "#475365",
-    dim_foreground: "#333e4f",
+    dim_foreground: "#000000",
 
     normal: (
         black: "#333e4f",

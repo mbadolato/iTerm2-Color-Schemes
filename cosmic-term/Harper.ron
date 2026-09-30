@@ -1,9 +1,10 @@
 (
     name: "Harper",
     foreground: "#a8a49d",
+    background: "#010101",
     cursor: "#a8a49d",
     bright_foreground: "#a8a49d",
-    dim_foreground: "#010101",
+    dim_foreground: "#726e6a",
 
     normal: (
         black: "#010101",

@@ -1,9 +1,10 @@
 (
     name: "Twilight",
     foreground: "#ffffd4",
+    background: "#141414",
     cursor: "#ffffff",
     bright_foreground: "#ffffd4",
-    dim_foreground: "#141414",
+    dim_foreground: "#404040",
 
     normal: (
         black: "#141414",

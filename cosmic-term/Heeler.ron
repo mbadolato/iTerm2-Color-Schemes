@@ -1,9 +1,10 @@
 (
     name: "Heeler",
     foreground: "#fdfdfd",
+    background: "#211f46",
     cursor: "#ffffff",
     bright_foreground: "#fdfdfd",
-    dim_foreground: "#000000",
+    dim_foreground: "#4c4c4c",
 
     normal: (
         black: "#000000",

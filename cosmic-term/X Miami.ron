@@ -1,9 +1,10 @@
 (
     name: "X Miami",
     foreground: "#f7f1ff",
+    background: "#000000",
     cursor: "#f7f1ff",
     bright_foreground: "#f7f1ff",
-    dim_foreground: "#000000",
+    dim_foreground: "#69676c",
 
     normal: (
         black: "#000000",

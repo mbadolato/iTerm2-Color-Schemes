@@ -1,9 +1,10 @@
 (
     name: "iTerm2 Pastel Dark Background",
     foreground: "#c7c7c7",
+    background: "#000000",
     cursor: "#ffb473",
     bright_foreground: "#c7c7c7",
-    dim_foreground: "#626262",
+    dim_foreground: "#8f8f8f",
 
     normal: (
         black: "#626262",

@@ -1,9 +1,10 @@
 (
     name: "SeedFlip Ivory",
     foreground: "#0a2540",
+    background: "#ffffff",
     cursor: "#635bff",
     bright_foreground: "#0a2540",
-    dim_foreground: "#d9d9d9",
+    dim_foreground: "#b3b3b3",
 
     normal: (
         black: "#d9d9d9",

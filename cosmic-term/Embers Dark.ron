@@ -1,9 +1,10 @@
 (
     name: "Embers Dark",
     foreground: "#a39a90",
+    background: "#16130f",
     cursor: "#a39a90",
     bright_foreground: "#a39a90",
-    dim_foreground: "#16130f",
+    dim_foreground: "#5a5047",
 
     normal: (
         black: "#16130f",

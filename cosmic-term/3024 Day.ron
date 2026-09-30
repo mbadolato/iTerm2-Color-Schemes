@@ -1,9 +1,10 @@
 (
     name: "3024 Day",
     foreground: "#4a4543",
+    background: "#f7f7f7",
     cursor: "#4a4543",
     bright_foreground: "#4a4543",
-    dim_foreground: "#090300",
+    dim_foreground: "#5c5855",
 
     normal: (
         black: "#090300",

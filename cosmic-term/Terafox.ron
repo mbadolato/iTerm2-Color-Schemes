@@ -1,9 +1,10 @@
 (
     name: "Terafox",
     foreground: "#e6eaea",
+    background: "#152528",
     cursor: "#e6eaea",
     bright_foreground: "#e6eaea",
-    dim_foreground: "#2f3239",
+    dim_foreground: "#4e5157",
 
     normal: (
         black: "#2f3239",

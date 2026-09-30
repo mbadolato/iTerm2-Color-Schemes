@@ -1,9 +1,10 @@
 (
     name: "Liquid Carbon",
     foreground: "#afc2c2",
+    background: "#303030",
     cursor: "#ffffff",
     bright_foreground: "#afc2c2",
-    dim_foreground: "#000000",
+    dim_foreground: "#595959",
 
     normal: (
         black: "#000000",

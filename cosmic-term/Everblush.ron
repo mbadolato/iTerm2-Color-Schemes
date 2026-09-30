@@ -1,9 +1,10 @@
 (
     name: "Everblush",
     foreground: "#dadada",
+    background: "#141b1e",
     cursor: "#dadada",
     bright_foreground: "#dadada",
-    dim_foreground: "#232a2d",
+    dim_foreground: "#464e50",
 
     normal: (
         black: "#232a2d",

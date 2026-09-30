@@ -1,9 +1,10 @@
 (
     name: "Golden Retriever Cream",
     foreground: "#3a2f24",
+    background: "#faf7f2",
     cursor: "#c1945a",
     bright_foreground: "#3a2f24",
-    dim_foreground: "#6f5b47",
+    dim_foreground: "#c3b6a6",
 
     normal: (
         black: "#6f5b47",

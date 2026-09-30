@@ -1,9 +1,10 @@
 (
     name: "Cobalt2",
     foreground: "#ffffff",
+    background: "#132738",
     cursor: "#f0cc09",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#555555",
 
     normal: (
         black: "#000000",

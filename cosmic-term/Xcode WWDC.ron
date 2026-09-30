@@ -1,9 +1,10 @@
 (
     name: "Xcode WWDC",
     foreground: "#e7e8eb",
+    background: "#292c36",
     cursor: "#e7e8eb",
     bright_foreground: "#e7e8eb",
-    dim_foreground: "#494d5c",
+    dim_foreground: "#7f869e",
 
     normal: (
         black: "#494d5c",

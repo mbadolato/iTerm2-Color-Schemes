@@ -1,9 +1,10 @@
 (
     name: "Deep Current",
     foreground: "#e2e8f0",
+    background: "#08121f",
     cursor: "#00c5ff",
     bright_foreground: "#e2e8f0",
-    dim_foreground: "#1f2a44",
+    dim_foreground: "#475569",
 
     normal: (
         black: "#1f2a44",

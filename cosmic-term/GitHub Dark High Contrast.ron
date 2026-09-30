@@ -1,9 +1,10 @@
 (
     name: "GitHub Dark High Contrast",
     foreground: "#f0f3f6",
+    background: "#0a0c10",
     cursor: "#71b7ff",
     bright_foreground: "#f0f3f6",
-    dim_foreground: "#7a828e",
+    dim_foreground: "#9ea7b3",
 
     normal: (
         black: "#7a828e",

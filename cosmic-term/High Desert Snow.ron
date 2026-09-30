@@ -1,9 +1,10 @@
 (
     name: "High Desert Snow",
     foreground: "#1f2937",
+    background: "#f9fafb",
     cursor: "#d97706",
     bright_foreground: "#1f2937",
-    dim_foreground: "#1f2937",
+    dim_foreground: "#64748b",
 
     normal: (
         black: "#1f2937",

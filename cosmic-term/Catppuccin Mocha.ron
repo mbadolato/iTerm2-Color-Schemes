@@ -1,9 +1,10 @@
 (
     name: "Catppuccin Mocha",
     foreground: "#cdd6f4",
+    background: "#1e1e2e",
     cursor: "#f5e0dc",
     bright_foreground: "#cdd6f4",
-    dim_foreground: "#45475a",
+    dim_foreground: "#585b70",
 
     normal: (
         black: "#45475a",

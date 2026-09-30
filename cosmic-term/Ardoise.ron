@@ -1,9 +1,10 @@
 (
     name: "Ardoise",
     foreground: "#eaeaea",
+    background: "#1e1e1e",
     cursor: "#f7f7f7",
     bright_foreground: "#eaeaea",
-    dim_foreground: "#2c2c2c",
+    dim_foreground: "#535353",
 
     normal: (
         black: "#2c2c2c",

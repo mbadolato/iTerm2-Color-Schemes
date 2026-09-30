@@ -1,9 +1,10 @@
 (
     name: "Raycast Dark",
     foreground: "#ffffff",
+    background: "#1a1a1a",
     cursor: "#cccccc",
     bright_foreground: "#ffffff",
-    dim_foreground: "#000000",
+    dim_foreground: "#4c4c4c",
 
     normal: (
         black: "#000000",

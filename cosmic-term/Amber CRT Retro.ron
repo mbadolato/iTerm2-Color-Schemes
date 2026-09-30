@@ -1,9 +1,10 @@
 (
     name: "Amber CRT Retro",
     foreground: "#ffb000",
+    background: "#1a1200",
     cursor: "#ffb000",
     bright_foreground: "#ffb000",
-    dim_foreground: "#2a1e00",
+    dim_foreground: "#6a4e00",
 
     normal: (
         black: "#2a1e00",

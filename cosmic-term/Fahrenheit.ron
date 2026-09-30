@@ -1,9 +1,10 @@
 (
     name: "Fahrenheit",
     foreground: "#ffffce",
+    background: "#000000",
     cursor: "#bbbbbb",
     bright_foreground: "#ffffce",
-    dim_foreground: "#1d1d1d",
+    dim_foreground: "#404040",
 
     normal: (
         black: "#1d1d1d",

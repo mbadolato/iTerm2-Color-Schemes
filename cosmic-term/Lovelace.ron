@@ -1,9 +1,10 @@
 (
     name: "Lovelace",
     foreground: "#fdfdfd",
+    background: "#1d1f28",
     cursor: "#c574dd",
     bright_foreground: "#fdfdfd",
-    dim_foreground: "#282a36",
+    dim_foreground: "#4e5165",
 
     normal: (
         black: "#282a36",

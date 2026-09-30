@@ -1,9 +1,10 @@
 (
     name: "Noctis Hibernus",
     foreground: "#005661",
+    background: "#f4f6f6",
     cursor: "#005661",
     bright_foreground: "#005661",
-    dim_foreground: "#003b42",
+    dim_foreground: "#004d57",
 
     normal: (
         black: "#003b42",

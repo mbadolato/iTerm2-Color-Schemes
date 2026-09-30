@@ -1,9 +1,10 @@
 (
     name: "Ozz's Blizzard",
     foreground: "#3f6289",
+    background: "#0a0f1a",
     cursor: "#8b8b4c",
     bright_foreground: "#3f6289",
-    dim_foreground: "#263244",
+    dim_foreground: "#5c6b7f",
 
     normal: (
         black: "#263244",

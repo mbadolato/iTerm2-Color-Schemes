@@ -1,9 +1,10 @@
 (
     name: "Novel",
     foreground: "#3b2322",
+    background: "#dfdbc3",
     cursor: "#73635a",
     bright_foreground: "#3b2322",
-    dim_foreground: "#000000",
+    dim_foreground: "#808080",
 
     normal: (
         black: "#000000",

@@ -1,9 +1,10 @@
 (
     name: "Patina Moss",
     foreground: "#dbd7ca",
+    background: "#20231f",
     cursor: "#dbd7ca",
     bright_foreground: "#dbd7ca",
-    dim_foreground: "#33362e",
+    dim_foreground: "#585b51",
 
     normal: (
         black: "#33362e",

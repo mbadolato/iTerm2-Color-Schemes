@@ -1,9 +1,10 @@
 (
     name: "Nord Light",
     foreground: "#414858",
+    background: "#e5e9f0",
     cursor: "#7bb3c3",
     bright_foreground: "#414858",
-    dim_foreground: "#3b4252",
+    dim_foreground: "#4c566a",
 
     normal: (
         black: "#3b4252",

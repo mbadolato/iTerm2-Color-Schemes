@@ -1,9 +1,10 @@
 (
     name: "Fideloper",
     foreground: "#dbdae0",
+    background: "#292f33",
     cursor: "#d4605a",
     bright_foreground: "#dbdae0",
-    dim_foreground: "#292f33",
+    dim_foreground: "#496068",
 
     normal: (
         black: "#292f33",

@@ -1,9 +1,10 @@
 (
     name: "Kibble",
     foreground: "#f7f7f7",
+    background: "#0e100a",
     cursor: "#9fda9c",
     bright_foreground: "#f7f7f7",
-    dim_foreground: "#4d4d4d",
+    dim_foreground: "#5a5a5a",
 
     normal: (
         black: "#4d4d4d",

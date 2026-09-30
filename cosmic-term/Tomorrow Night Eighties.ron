@@ -1,9 +1,10 @@
 (
     name: "Tomorrow Night Eighties",
     foreground: "#cccccc",
+    background: "#2d2d2d",
     cursor: "#cccccc",
     bright_foreground: "#cccccc",
-    dim_foreground: "#000000",
+    dim_foreground: "#595959",
 
     normal: (
         black: "#000000",

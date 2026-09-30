@@ -1,0 +1,12 @@
+# Clockwork Gold
+[colors]
+foreground = "#ebe8e0"
+background = "#1d1c19"
+cursor_bg = "#ffcc00"
+cursor_border = "#ffcc00"
+cursor_fg = "#1d1c19"
+selection_bg = "#4c4b47"
+selection_fg = "#fcfaf4"
+
+ansi = ["#1d1c19","#e94b4a","#73c881","#ffcc00","#4fa3f4","#ef3ead","#64c3c3","#a9a69d"]
+brights = ["#4c4b47","#ff716b","#88e196","#c89f00","#76c0ff","#ff68c6","#82e1e0","#fcfaf4"]
