@@ -20,10 +20,10 @@ hi Identifier guifg=#5685a8
 hi Statement guifg=#df6c5a
 hi PreProc guifg=#d389e5
 hi Type guifg=#79be7e
-hi Special guifg=#5ec7cb
+hi Special guifg=#77e1e5
 hi Underlined guifg=#49a2e1 gui=underline
 hi Error guifg=#b45648 guibg=#ffffff
-hi Todo guifg=#d8bb65 guibg=#ffffff
+hi Todo guifg=#e5c872 guibg=#ffffff
 
 " Additional groups for better compatibility
 hi String guifg=#6caa71
@@ -37,7 +37,7 @@ hi Function guifg=#5685a8
 hi Conditional guifg=#df6c5a
 hi Repeat guifg=#df6c5a
 hi Label guifg=#df6c5a
-hi Operator guifg=#b4bbbf
+hi Operator guifg=#c1c8cc
 hi Keyword guifg=#df6c5a
 hi Exception guifg=#b45648
 
@@ -50,11 +50,11 @@ hi StorageClass guifg=#79be7e
 hi Structure guifg=#79be7e
 hi Typedef guifg=#79be7e
 
-hi SpecialChar guifg=#5ec7cb
-hi Tag guifg=#5ec7cb
-hi Delimiter guifg=#b4bbbf
+hi SpecialChar guifg=#77e1e5
+hi Tag guifg=#77e1e5
+hi Delimiter guifg=#c1c8cc
 hi SpecialComment guifg=#506573
-hi Debug guifg=#d8bb65
+hi Debug guifg=#e5c872
 
 hi Ignore guifg=#ffffff
 
@@ -67,8 +67,8 @@ hi CursorColumn guibg=#e5ecf1
 hi Visual guibg=#e5ecf1
 
 " Search highlighting
-hi Search guibg=#d8bb65 guifg=#ffffff
-hi IncSearch guibg=#d8bb65 guifg=#ffffff
+hi Search guibg=#e5c872 guifg=#ffffff
+hi IncSearch guibg=#e5c872 guifg=#ffffff
 
 " Line numbers
 hi LineNr guifg=#506573

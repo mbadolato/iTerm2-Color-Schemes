@@ -1,17 +1,17 @@
 #define Ansi_0_Color #2d3840
 #define Ansi_1_Color #b45648
 #define Ansi_10_Color #79be7e
-#define Ansi_11_Color #d8bb65
+#define Ansi_11_Color #e5c872
 #define Ansi_12_Color #49a2e1
 #define Ansi_13_Color #d389e5
-#define Ansi_14_Color #5ec7cb
+#define Ansi_14_Color #77e1e5
 #define Ansi_15_Color #d8e1e7
 #define Ansi_2_Color #6caa71
 #define Ansi_3_Color #c4ac62
 #define Ansi_4_Color #5685a8
 #define Ansi_5_Color #ad64be
 #define Ansi_6_Color #69c6c9
-#define Ansi_7_Color #b4bbbf
+#define Ansi_7_Color #c1c8cc
 #define Ansi_8_Color #506573
 #define Ansi_9_Color #df6c5a
 #define Background_Color #ffffff
@@ -20,5 +20,5 @@
 #define Cursor_Guide_Color #919191
 #define Cursor_Text_Color #ffffff
 #define Foreground_Color #3a4851
-#define Selected_Text_Color #b2b2b2
+#define Selected_Text_Color #ffffff
 #define Selection_Color #e5ecf1

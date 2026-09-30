@@ -440,6 +440,12 @@ def read_yaml_file(yaml_file_path: pathlib.Path) -> Theme:
 
     variant = ""
 
+    # Default: apply WCAG contrast auto-adjust on load. Set `wcag_adjust: false`
+    # in the YAML when authored palette fidelity must win (e.g. ports of an
+    # existing terminal profile where ANSI colors are intentionally near the
+    # background).
+    wcag_adjust = True
+
     colors_dict = {}
     for key, value in data.items():
         if key == "name":
@@ -449,6 +455,8 @@ def read_yaml_file(yaml_file_path: pathlib.Path) -> Theme:
             author = str(value) if value is not None else ""
         elif key == "variant":
             variant = str(value) if value is not None else ""
+        elif key == "wcag_adjust":
+            wcag_adjust = bool(value)
         elif key in yaml_to_iterm_color_name_map:
             colors_dict[yaml_to_iterm_color_name_map[key]] = Color.from_hex(value)
         else:
@@ -458,7 +466,8 @@ def read_yaml_file(yaml_file_path: pathlib.Path) -> Theme:
         if dest_key not in colors_dict:
             colors_dict[dest_key] = colors_dict[src_key]
 
-    adjust_colors_for_wcag(colors_dict, name)
+    if wcag_adjust:
+        adjust_colors_for_wcag(colors_dict, name)
 
     return Theme(
         source_path=yaml_file_path,
