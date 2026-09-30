@@ -1,0 +1,17 @@
+[meta]
+name = "Sugarplum"
+mode = "dark"
+
+[terminal]
+foreground = "#db7ddd"
+background = "#111147"
+palette = [
+    "#111147", "#5ca8dc", "#53b397", "#249a84",
+    "#db7ddd", "#d0beee", "#f9f3f9", "#a175d4",
+    "#44447a", "#5cb5dc", "#52deb5", "#01f5c7",
+    "#fa5dfd", "#c6a5fd", "#ffffff", "#b577fd",
+]
+cursor = "#53b397"
+cursor-text = "#93f3d7"
+selection-background = "#5ca8dc"
+selection-foreground = "#ead8ff"

@@ -1,0 +1,17 @@
+[meta]
+name = "Duckbones"
+mode = "dark"
+
+[terminal]
+foreground = "#ebefc0"
+background = "#0e101a"
+palette = [
+    "#0e101a", "#e03600", "#5dcd97", "#e39500",
+    "#00a3cb", "#795ccc", "#00a3cb", "#ebefc0",
+    "#444860", "#ff4821", "#58db9e", "#f6a100",
+    "#00b4e0", "#b3a1e6", "#00b4e0", "#b3b692",
+]
+cursor = "#edf2c2"
+cursor-text = "#0e101a"
+selection-background = "#37382d"
+selection-foreground = "#ebefc0"

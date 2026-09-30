@@ -1,0 +1,17 @@
+[meta]
+name = "Idea"
+mode = "dark"
+
+[terminal]
+foreground = "#adadad"
+background = "#202020"
+palette = [
+    "#adadad", "#fc5256", "#98b61c", "#ccb444",
+    "#437ee7", "#9d74b0", "#248887", "#4b4b4b",
+    "#ffffff", "#fc7072", "#98b61c", "#ffff0b",
+    "#6c9ced", "#fc7eff", "#248887", "#181818",
+]
+cursor = "#bbbbbb"
+cursor-text = "#ffffff"
+selection-background = "#44475a"
+selection-foreground = "#ffffff"

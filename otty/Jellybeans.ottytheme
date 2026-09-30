@@ -1,0 +1,17 @@
+[meta]
+name = "Jellybeans"
+mode = "dark"
+
+[terminal]
+foreground = "#dedede"
+background = "#121212"
+palette = [
+    "#929292", "#e27373", "#94b979", "#ffba7b",
+    "#97bedc", "#e1c0fa", "#00988e", "#dedede",
+    "#bdbdbd", "#ffa1a1", "#bddeab", "#ffdca0",
+    "#b1d8f6", "#fbdaff", "#1ab2a8", "#ffffff",
+]
+cursor = "#ffa560"
+cursor-text = "#ffffff"
+selection-background = "#474e91"
+selection-foreground = "#f4f4f4"

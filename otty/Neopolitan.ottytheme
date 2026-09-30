@@ -1,0 +1,17 @@
+[meta]
+name = "Neopolitan"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#271f19"
+palette = [
+    "#000000", "#9a1a1a", "#61ce3c", "#fbde2d",
+    "#324883", "#ff0080", "#8da6ce", "#f8f8f8",
+    "#4c4c4c", "#9a1a1a", "#61ce3c", "#fbde2d",
+    "#324883", "#ff0080", "#8da6ce", "#f8f8f8",
+]
+cursor = "#ffffff"
+cursor-text = "#bfbfbf"
+selection-background = "#253b76"
+selection-foreground = "#ffffff"

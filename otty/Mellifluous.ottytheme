@@ -1,0 +1,17 @@
+[meta]
+name = "Mellifluous"
+mode = "dark"
+
+[terminal]
+foreground = "#dadada"
+background = "#1a1a1a"
+palette = [
+    "#1a1a1a", "#d29393", "#b3b393", "#cbaa89",
+    "#a8a1be", "#b39fb0", "#c0af8c", "#dadada",
+    "#5b5b5b", "#c95954", "#828040", "#a6794c",
+    "#5a6599", "#9c6995", "#74a39e", "#ffffff",
+]
+cursor = "#bfad9e"
+cursor-text = "#1a1a1a"
+selection-background = "#2d2d2d"
+selection-foreground = "#c0af8c"

@@ -1,0 +1,18 @@
+[meta]
+name = "Light 2026"
+mode = "light"
+author = "Microsoft (https://github.com/microsoft/vscode)"
+
+[terminal]
+foreground = "#3b3b3b"
+background = "#ffffff"
+palette = [
+    "#000000", "#cd3131", "#107c10", "#949800",
+    "#0451a5", "#bc05bc", "#0598bc", "#555555",
+    "#666666", "#f14c4c", "#14ce14", "#b5ba00",
+    "#3b8eea", "#d670d6", "#29b8db", "#a5a5a5",
+]
+cursor = "#202020"
+cursor-text = "#ffffff"
+selection-background = "#d9e9f7"
+selection-foreground = "#3b3b3b"

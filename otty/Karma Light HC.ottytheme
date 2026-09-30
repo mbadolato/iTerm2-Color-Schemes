@@ -1,0 +1,17 @@
+[meta]
+name = "Karma Light HC"
+mode = "light"
+
+[terminal]
+foreground = "#000000"
+background = "#ffffff"
+palette = [
+    "#000000", "#c01650", "#1a6e1c", "#9c6800",
+    "#2f5e9e", "#4d2d9a", "#2f5e9e", "#2e2c30",
+    "#999999", "#c01650", "#1a6e1c", "#9c6800",
+    "#2f5e9e", "#4d2d9a", "#2f5e9e", "#0a0e14",
+]
+cursor = "#4d2d9a"
+cursor-text = "#ffffff"
+selection-background = "#cfcad8"
+selection-foreground = "#000000"

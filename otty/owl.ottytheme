@@ -1,0 +1,17 @@
+[meta]
+name = "owl"
+mode = "dark"
+
+[terminal]
+foreground = "#dedede"
+background = "#2f2b2c"
+palette = [
+    "#302c2c", "#5a5a5a", "#989898", "#cacaca",
+    "#656565", "#b1b1b1", "#7f7f7f", "#dedede",
+    "#5d595b", "#da5b2c", "#989898", "#cacaca",
+    "#656565", "#b1b1b1", "#7f7f7f", "#ffffff",
+]
+cursor = "#dedede"
+cursor-text = "#2f2b2c"
+selection-background = "#dedede"
+selection-foreground = "#2f2b2c"

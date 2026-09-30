@@ -1,0 +1,17 @@
+[meta]
+name = "Shokunin"
+mode = "light"
+
+[terminal]
+foreground = "#303841"
+background = "#fcfaf2"
+palette = [
+    "#303841", "#c84053", "#157a5b", "#9a6000",
+    "#006fae", "#8f4155", "#006c7f", "#c2beb4",
+    "#777269", "#d95a66", "#1b8e6a", "#b67608",
+    "#0084c7", "#a75b73", "#008396", "#ffffff",
+]
+cursor = "#3a3e44"
+cursor-text = "#fcfaf2"
+selection-background = "#d7eaf2"
+selection-foreground = "#303841"

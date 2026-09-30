@@ -1,0 +1,17 @@
+[meta]
+name = "Darkermatrix"
+mode = "dark"
+
+[terminal]
+foreground = "#35451a"
+background = "#070c0e"
+palette = [
+    "#091013", "#1a4831", "#6fa64c", "#595900",
+    "#00cb6b", "#4e375a", "#125459", "#1a4833",
+    "#404040", "#0d452a", "#90d762", "#e2e500",
+    "#00ff87", "#4e375a", "#176c73", "#00381e",
+]
+cursor = "#444733"
+cursor-text = "#00ff87"
+selection-background = "#0f191c"
+selection-foreground = "#00ff87"

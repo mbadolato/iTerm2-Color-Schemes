@@ -1,0 +1,17 @@
+[meta]
+name = "Synthwave Everything"
+mode = "dark"
+
+[terminal]
+foreground = "#f0eff1"
+background = "#2a2139"
+palette = [
+    "#fefefe", "#f97e72", "#72f1b8", "#fede5d",
+    "#6d77b3", "#c792ea", "#f772e0", "#fefefe",
+    "#fefefe", "#f88414", "#72f1b8", "#fff951",
+    "#36f9f6", "#e1acff", "#f92aad", "#fefefe",
+]
+cursor = "#72f1b8"
+cursor-text = "#1a1a1a"
+selection-background = "#181521"
+selection-foreground = "#f0eff1"

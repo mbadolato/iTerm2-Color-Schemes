@@ -1,0 +1,17 @@
+[meta]
+name = "Kolorit"
+mode = "dark"
+
+[terminal]
+foreground = "#efecec"
+background = "#1d1a1e"
+palette = [
+    "#1d1a1e", "#ff5b82", "#47d7a1", "#e8e562",
+    "#5db4ee", "#da6cda", "#57e9eb", "#ededed",
+    "#504d51", "#ff5b82", "#47d7a1", "#e8e562",
+    "#5db4ee", "#da6cda", "#57e9eb", "#ededed",
+]
+cursor = "#c7c7c7"
+cursor-text = "#8c8c8c"
+selection-background = "#e1925c"
+selection-foreground = "#1d1a1e"

@@ -1,0 +1,17 @@
+[meta]
+name = "Nvim Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#e0e2ea"
+background = "#14161b"
+palette = [
+    "#07080d", "#ffc0b9", "#b3f6c0", "#fce094",
+    "#a6dbff", "#ffcaff", "#8cf8f7", "#eef1f8",
+    "#4f5258", "#ffc0b9", "#b3f6c0", "#fce094",
+    "#a6dbff", "#ffcaff", "#8cf8f7", "#eef1f8",
+]
+cursor = "#9b9ea4"
+cursor-text = "#e0e2ea"
+selection-background = "#4f5258"
+selection-foreground = "#e0e2ea"

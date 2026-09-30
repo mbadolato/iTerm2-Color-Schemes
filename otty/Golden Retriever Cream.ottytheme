@@ -1,0 +1,17 @@
+[meta]
+name = "Golden Retriever Cream"
+mode = "light"
+
+[terminal]
+foreground = "#3a2f24"
+background = "#faf7f2"
+palette = [
+    "#6f5b47", "#df6a5b", "#70ad72", "#d79b32",
+    "#5b8fd9", "#c77dbb", "#4fbfb3", "#a89b8c",
+    "#c3b6a6", "#e86f7a", "#78c98a", "#e2ac42",
+    "#69a8ea", "#e2a8d9", "#61cabb", "#ede3d4",
+]
+cursor = "#c1945a"
+cursor-text = "#f1f1e5"
+selection-background = "#e8d9c4"
+selection-foreground = "#3a2f24"

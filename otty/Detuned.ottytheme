@@ -1,0 +1,17 @@
+[meta]
+name = "Detuned"
+mode = "dark"
+
+[terminal]
+foreground = "#c7c7c7"
+background = "#000000"
+palette = [
+    "#171717", "#fe4386", "#a6e32d", "#e6da73",
+    "#0094d9", "#9b37ff", "#50b7d9", "#c7c7c7",
+    "#686868", "#fa80ac", "#bde371", "#fff27f",
+    "#00beff", "#be9eff", "#5ed7ff", "#ffffff",
+]
+cursor = "#c7c7c7"
+cursor-text = "#8c8c8c"
+selection-background = "#c1deff"
+selection-foreground = "#000000"

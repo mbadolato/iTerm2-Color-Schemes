@@ -1,0 +1,17 @@
+[meta]
+name = "Spacegray Eighties Dull"
+mode = "dark"
+
+[terminal]
+foreground = "#c9c6bc"
+background = "#222222"
+palette = [
+    "#15171c", "#b24a56", "#92b477", "#c6735a",
+    "#7c8fa5", "#a5789e", "#80cdcb", "#b3b8c3",
+    "#555555", "#ec5f67", "#89e986", "#fec254",
+    "#5486c0", "#bf83c1", "#58c2c1", "#ffffff",
+]
+cursor = "#bbbbbb"
+cursor-text = "#ffffff"
+selection-background = "#272e36"
+selection-foreground = "#ffffff"

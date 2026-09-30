@@ -1,0 +1,17 @@
+[meta]
+name = "Monokai Soda"
+mode = "dark"
+
+[terminal]
+foreground = "#c4c5b5"
+background = "#1a1a1a"
+palette = [
+    "#1a1a1a", "#f4005f", "#98e024", "#fa8419",
+    "#9d65ff", "#f4005f", "#58d1eb", "#c4c5b5",
+    "#625e4c", "#f4005f", "#98e024", "#e0d561",
+    "#9d65ff", "#f4005f", "#58d1eb", "#f6f6ef",
+]
+cursor = "#f6f7ec"
+cursor-text = "#b7b8a8"
+selection-background = "#343434"
+selection-foreground = "#c4c5b5"

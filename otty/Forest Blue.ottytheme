@@ -1,0 +1,17 @@
+[meta]
+name = "Forest Blue"
+mode = "dark"
+
+[terminal]
+foreground = "#e2d8cd"
+background = "#051519"
+palette = [
+    "#333333", "#f8818e", "#92d3a2", "#1a8e63",
+    "#8ed0ce", "#5e468c", "#31658c", "#e2d8cd",
+    "#4a4a4a", "#fb3d66", "#6bb48d", "#30c85a",
+    "#39a7a2", "#7e62b3", "#6096bf", "#e2d8cd",
+]
+cursor = "#9e9ecb"
+cursor-text = "#000000"
+selection-background = "#4d4d4d"
+selection-foreground = "#ffffff"

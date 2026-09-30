@@ -1,0 +1,17 @@
+[meta]
+name = "Sonoran Dusk"
+mode = "dark"
+
+[terminal]
+foreground = "#e8e1d9"
+background = "#1a0f24"
+palette = [
+    "#2d2433", "#e76f51", "#8abf7f", "#e9c46a",
+    "#5dade2", "#c678dd", "#2dd4bf", "#e8e2d1",
+    "#6b7280", "#ff8a65", "#a6e3a1", "#ffd166",
+    "#7ec8f8", "#d48cff", "#52e6d6", "#fff1d6",
+]
+cursor = "#f4a261"
+cursor-text = "#1a0f24"
+selection-background = "#3a2a45"
+selection-foreground = "#e8e1d9"

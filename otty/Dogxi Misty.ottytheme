@@ -1,0 +1,17 @@
+[meta]
+name = "Dogxi Misty"
+mode = "dark"
+
+[terminal]
+foreground = "#eff0eb"
+background = "#282a36"
+palette = [
+    "#000000", "#ff5c57", "#94e362", "#eebd70",
+    "#99ecfe", "#ff6ac1", "#5fdeed", "#f1f1f0",
+    "#686868", "#ff5c57", "#94e362", "#efc781",
+    "#99ecfe", "#ff6ac1", "#87e0f0", "#f1f1f0",
+]
+cursor = "#eaeaea"
+cursor-text = "#282a36"
+selection-background = "#92bcd0"
+selection-foreground = "#000000"

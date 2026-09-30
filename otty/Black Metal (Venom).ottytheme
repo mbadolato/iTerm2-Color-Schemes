@@ -1,0 +1,17 @@
+[meta]
+name = "Black Metal (Venom)"
+mode = "dark"
+
+[terminal]
+foreground = "#c1c1c1"
+background = "#000000"
+palette = [
+    "#000000", "#5f8787", "#f8f7f2", "#79241f",
+    "#888888", "#999999", "#aaaaaa", "#c1c1c1",
+    "#404040", "#5f8787", "#f8f7f2", "#79241f",
+    "#888888", "#999999", "#aaaaaa", "#c1c1c1",
+]
+cursor = "#c1c1c1"
+cursor-text = "#8e8e8e"
+selection-background = "#c1c1c1"
+selection-foreground = "#000000"

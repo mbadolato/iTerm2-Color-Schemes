@@ -1,0 +1,18 @@
+[meta]
+name = "Noctis"
+mode = "dark"
+author = "Liviu Schera (https://github.com/liviuschera), ported by Abel Dantas (https://github.com/abeldantas)"
+
+[terminal]
+foreground = "#b2cacd"
+background = "#052529"
+palette = [
+    "#324a4d", "#e66533", "#49e9a6", "#e4b781",
+    "#49ace9", "#df769b", "#49d6e9", "#b2cacd",
+    "#47686c", "#e97749", "#60ebb1", "#e69533",
+    "#60b6eb", "#e798b3", "#60dbeb", "#c1d4d7",
+]
+cursor = "#b2cacd"
+cursor-text = "#052529"
+selection-background = "#0f3a3f"
+selection-foreground = "#b2cacd"

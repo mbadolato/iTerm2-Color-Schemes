@@ -1,0 +1,17 @@
+[meta]
+name = "Dayfox"
+mode = "light"
+
+[terminal]
+foreground = "#3d2b5a"
+background = "#f6f2ee"
+palette = [
+    "#352c24", "#a5222f", "#396847", "#ac5402",
+    "#2848a9", "#6e33ce", "#287980", "#bfb6ae",
+    "#534c45", "#b3434e", "#577f63", "#b86e28",
+    "#4863b6", "#8452d5", "#488d93", "#f4ece6",
+]
+cursor = "#3d2b5a"
+cursor-text = "#f6f2ee"
+selection-background = "#e7d2be"
+selection-foreground = "#3d2b5a"

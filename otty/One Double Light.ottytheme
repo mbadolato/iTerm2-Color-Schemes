@@ -1,0 +1,17 @@
+[meta]
+name = "One Double Light"
+mode = "light"
+
+[terminal]
+foreground = "#383a43"
+background = "#fafafa"
+palette = [
+    "#454b58", "#f74840", "#25a343", "#cc8100",
+    "#0087c1", "#b50da9", "#009ab7", "#c5b2b3",
+    "#0e131f", "#ff3711", "#00b90e", "#ec9900",
+    "#1065de", "#e500d8", "#00b4dd", "#ffffff",
+]
+cursor = "#1a1919"
+cursor-text = "#dbdfe5"
+selection-background = "#454e5e"
+selection-foreground = "#1a1919"

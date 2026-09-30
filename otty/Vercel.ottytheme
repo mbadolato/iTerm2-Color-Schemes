@@ -1,0 +1,17 @@
+[meta]
+name = "Vercel"
+mode = "dark"
+
+[terminal]
+foreground = "#fafafa"
+background = "#101010"
+palette = [
+    "#000000", "#fc0036", "#29a948", "#ffae00",
+    "#006aff", "#f32882", "#00ac96", "#feffff",
+    "#a8a8a8", "#ff8080", "#4be15d", "#ffae00",
+    "#49aeff", "#f97ea8", "#00e4c4", "#fefefe",
+]
+cursor = "#f32882"
+cursor-text = "#fafafa"
+selection-background = "#005be7"
+selection-foreground = "#fafafa"

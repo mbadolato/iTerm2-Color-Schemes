@@ -1,0 +1,17 @@
+[meta]
+name = "Synthwave Alpha"
+mode = "dark"
+
+[terminal]
+foreground = "#f2f2e3"
+background = "#241b30"
+palette = [
+    "#241b30", "#e60a70", "#00986c", "#adad3e",
+    "#6e29ad", "#b300ad", "#00b0b1", "#b9b1bc",
+    "#7f7094", "#e60a70", "#0ae4a4", "#f9f972",
+    "#aa54f9", "#ff00f6", "#00fbfd", "#f2f2e3",
+]
+cursor = "#f2f2e3"
+cursor-text = "#241b30"
+selection-background = "#6e29ad"
+selection-foreground = "#f2f2e3"

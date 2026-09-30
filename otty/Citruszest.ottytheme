@@ -1,0 +1,17 @@
+[meta]
+name = "Citruszest"
+mode = "dark"
+
+[terminal]
+foreground = "#bfbfbf"
+background = "#121212"
+palette = [
+    "#404040", "#ff5454", "#00cc7a", "#ffd400",
+    "#00bfff", "#ff90fe", "#48d1cc", "#bfbfbf",
+    "#808080", "#ff1a75", "#1affa3", "#ffff00",
+    "#33cfff", "#ffb2fe", "#00fff2", "#f9f9f9",
+]
+cursor = "#666666"
+cursor-text = "#f9f9f9"
+selection-background = "#ff8c00"
+selection-foreground = "#f4f4f4"

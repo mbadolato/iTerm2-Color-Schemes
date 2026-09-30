@@ -1,0 +1,17 @@
+[meta]
+name = "Belafonte Night"
+mode = "dark"
+
+[terminal]
+foreground = "#968c83"
+background = "#20111b"
+palette = [
+    "#20111b", "#be100e", "#858162", "#eaa549",
+    "#426a79", "#97522c", "#989a9c", "#968c83",
+    "#5e5252", "#be100e", "#858162", "#eaa549",
+    "#426a79", "#97522c", "#989a9c", "#d5ccba",
+]
+cursor = "#968c83"
+cursor-text = "#20111b"
+selection-background = "#45373c"
+selection-foreground = "#968c83"

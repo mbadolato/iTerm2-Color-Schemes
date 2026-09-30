@@ -1,0 +1,18 @@
+[meta]
+name = "Sequoia Retro Light"
+mode = "light"
+author = "Michael Andreuzza (https://github.com/michael-andreuzza/Sequoia-Theme)"
+
+[terminal]
+foreground = "#282930"
+background = "#edeef2"
+palette = [
+    "#d4d5dc", "#5f7982", "#4a704e", "#bf5238",
+    "#456a82", "#c99730", "#8a6539", "#282930",
+    "#42434e", "#c99730", "#4a704e", "#bf5238",
+    "#456a82", "#5f7982", "#8a6539", "#282930",
+]
+cursor = "#565760"
+cursor-text = "#282930"
+selection-background = "#817c9c"
+selection-foreground = "#282930"

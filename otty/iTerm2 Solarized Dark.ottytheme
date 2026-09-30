@@ -1,0 +1,17 @@
+[meta]
+name = "iTerm2 Solarized Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#839496"
+background = "#002b36"
+palette = [
+    "#073642", "#dc322f", "#859900", "#b58900",
+    "#268bd2", "#d33682", "#2aa198", "#eee8d5",
+    "#335e69", "#cb4b16", "#586e75", "#657b83",
+    "#839496", "#6c71c4", "#93a1a1", "#fdf6e3",
+]
+cursor = "#839496"
+cursor-text = "#073642"
+selection-background = "#073642"
+selection-foreground = "#93a1a1"

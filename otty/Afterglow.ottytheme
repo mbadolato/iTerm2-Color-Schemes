@@ -1,0 +1,17 @@
+[meta]
+name = "Afterglow"
+mode = "dark"
+
+[terminal]
+foreground = "#d0d0d0"
+background = "#212121"
+palette = [
+    "#151515", "#ac4142", "#7e8e50", "#e5b567",
+    "#6c99bb", "#9f4e85", "#7dd6cf", "#d0d0d0",
+    "#505050", "#ac4142", "#7e8e50", "#e5b567",
+    "#6c99bb", "#9f4e85", "#7dd6cf", "#f5f5f5",
+]
+cursor = "#d0d0d0"
+cursor-text = "#151515"
+selection-background = "#303030"
+selection-foreground = "#d0d0d0"

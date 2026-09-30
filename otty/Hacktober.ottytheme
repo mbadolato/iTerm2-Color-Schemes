@@ -1,0 +1,17 @@
+[meta]
+name = "Hacktober"
+mode = "dark"
+
+[terminal]
+foreground = "#c9c9c9"
+background = "#141414"
+palette = [
+    "#191918", "#b34538", "#587744", "#d08949",
+    "#206ec5", "#864651", "#ac9166", "#f1eee7",
+    "#464444", "#b33323", "#42824a", "#c75a22",
+    "#5389c5", "#e795a5", "#ebc587", "#ffffff",
+]
+cursor = "#c9c9c9"
+cursor-text = "#141414"
+selection-background = "#141414"
+selection-foreground = "#c9c9c9"

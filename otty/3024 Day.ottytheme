@@ -1,0 +1,17 @@
+[meta]
+name = "3024 Day"
+mode = "light"
+
+[terminal]
+foreground = "#4a4543"
+background = "#f7f7f7"
+palette = [
+    "#090300", "#db2d20", "#01a252", "#caba00",
+    "#01a0e4", "#a16a94", "#8fbece", "#a5a2a2",
+    "#5c5855", "#dbaec3", "#3a3432", "#4a4543",
+    "#807d7c", "#bcbbba", "#cdab53", "#f7f7f7",
+]
+cursor = "#4a4543"
+cursor-text = "#f7f7f7"
+selection-background = "#a5a2a2"
+selection-foreground = "#4a4543"

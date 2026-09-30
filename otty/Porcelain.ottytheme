@@ -1,0 +1,17 @@
+[meta]
+name = "Porcelain"
+mode = "light"
+
+[terminal]
+foreground = "#2a2e37"
+background = "#fbfbfd"
+palette = [
+    "#2a2e37", "#c60018", "#157424", "#855700",
+    "#004cc8", "#761bc3", "#006873", "#5a6170",
+    "#828896", "#d60027", "#1b842d", "#af2700",
+    "#005bdb", "#862ad2", "#007f8f", "#1b1e25",
+]
+cursor = "#0054d1"
+cursor-text = "#fbfbfd"
+selection-background = "#dce6f7"
+selection-foreground = "#aeaeb0"

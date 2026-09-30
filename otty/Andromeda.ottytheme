@@ -1,0 +1,17 @@
+[meta]
+name = "Andromeda"
+mode = "dark"
+
+[terminal]
+foreground = "#e5e5e5"
+background = "#262a33"
+palette = [
+    "#000000", "#cd3131", "#05bc79", "#e5e512",
+    "#2472c8", "#bc3fbc", "#0fa8cd", "#e5e5e5",
+    "#666666", "#cd3131", "#05bc79", "#e5e512",
+    "#2472c8", "#bc3fbc", "#0fa8cd", "#e5e5e5",
+]
+cursor = "#f8f8f0"
+cursor-text = "#b5b5a8"
+selection-background = "#5a5c62"
+selection-foreground = "#ece7e7"

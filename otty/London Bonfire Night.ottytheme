@@ -1,0 +1,17 @@
+[meta]
+name = "London Bonfire Night"
+mode = "dark"
+
+[terminal]
+foreground = "#e8e0c8"
+background = "#0e0c0e"
+palette = [
+    "#1a1418", "#d65a3a", "#6a8a4a", "#e8b048",
+    "#5a7ab8", "#d76aa8", "#88a8c8", "#e8e0c8",
+    "#44403c", "#ec7654", "#88a868", "#f5c25c",
+    "#7a96d0", "#ed85bc", "#a0bcd6", "#fdf6df",
+]
+cursor = "#e85aa8"
+cursor-text = "#0e0c0e"
+selection-background = "#2a2228"
+selection-foreground = "#e8e0c8"

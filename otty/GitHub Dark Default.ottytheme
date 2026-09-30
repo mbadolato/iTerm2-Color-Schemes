@@ -1,0 +1,17 @@
+[meta]
+name = "GitHub Dark Default"
+mode = "dark"
+
+[terminal]
+foreground = "#e6edf3"
+background = "#0d1117"
+palette = [
+    "#484f58", "#ff7b72", "#3fb950", "#d29922",
+    "#58a6ff", "#bc8cff", "#39c5cf", "#b1bac4",
+    "#6e7681", "#ffa198", "#56d364", "#e3b341",
+    "#79c0ff", "#d2a8ff", "#56d4dd", "#ffffff",
+]
+cursor = "#2f81f7"
+cursor-text = "#6fc1ff"
+selection-background = "#e6edf3"
+selection-foreground = "#0d1117"

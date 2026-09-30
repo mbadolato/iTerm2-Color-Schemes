@@ -1,0 +1,17 @@
+[meta]
+name = "Tomorrow"
+mode = "light"
+
+[terminal]
+foreground = "#4d4d4c"
+background = "#ffffff"
+palette = [
+    "#000000", "#c82829", "#718c00", "#eab700",
+    "#4271ae", "#8959a8", "#3e999f", "#bfbfbf",
+    "#000000", "#c82829", "#718c00", "#eab700",
+    "#4271ae", "#8959a8", "#3e999f", "#ffffff",
+]
+cursor = "#4d4d4c"
+cursor-text = "#ffffff"
+selection-background = "#d6d6d6"
+selection-foreground = "#4d4d4c"

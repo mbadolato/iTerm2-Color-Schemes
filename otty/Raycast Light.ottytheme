@@ -1,0 +1,17 @@
+[meta]
+name = "Raycast Light"
+mode = "light"
+
+[terminal]
+foreground = "#000000"
+background = "#ffffff"
+palette = [
+    "#000000", "#b12424", "#006b4f", "#f8a300",
+    "#138af2", "#9a1b6e", "#3eb8bf", "#bfbfbf",
+    "#000000", "#b12424", "#006b4f", "#f8a300",
+    "#138af2", "#9a1b6e", "#3eb8bf", "#ffffff",
+]
+cursor = "#000000"
+cursor-text = "#404040"
+selection-background = "#e5e5e5"
+selection-foreground = "#000000"

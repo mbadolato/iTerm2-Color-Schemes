@@ -1,0 +1,18 @@
+[meta]
+name = "SilkCircuit Neon"
+mode = "dark"
+author = "Stefanie Jane (https://github.com/hyperb1iss/silkcircuit)"
+
+[terminal]
+foreground = "#f8f8f2"
+background = "#12101a"
+palette = [
+    "#12101a", "#ff6363", "#50fa7b", "#f1fa8c",
+    "#82aaff", "#ff00ff", "#80ffea", "#f8f8f2",
+    "#768d8d", "#ff8787", "#86fba8", "#ffffa5",
+    "#82b1ff", "#ff69ff", "#5fffff", "#ffffff",
+]
+cursor = "#80ffea"
+cursor-text = "#12101a"
+selection-background = "#44475a"
+selection-foreground = "#f8f8f2"

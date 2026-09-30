@@ -1,0 +1,17 @@
+[meta]
+name = "Dark Pastel"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#000000"
+palette = [
+    "#000000", "#ff5555", "#55ff55", "#ffff55",
+    "#5555ff", "#ff55ff", "#55ffff", "#bbbbbb",
+    "#555555", "#ff5555", "#55ff55", "#ffff55",
+    "#5555ff", "#ff55ff", "#55ffff", "#ffffff",
+]
+cursor = "#bbbbbb"
+cursor-text = "#ffffff"
+selection-background = "#b5d5ff"
+selection-foreground = "#000000"

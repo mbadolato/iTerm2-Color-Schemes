@@ -1,0 +1,17 @@
+[meta]
+name = "Cyberpunk"
+mode = "dark"
+
+[terminal]
+foreground = "#e5e5e5"
+background = "#332a57"
+palette = [
+    "#000000", "#ff7092", "#00fbac", "#fffa6a",
+    "#00bfff", "#df95ff", "#86cbfe", "#ffffff",
+    "#595959", "#ff8aa4", "#21f6bc", "#fff787",
+    "#1bccfd", "#e6aefe", "#99d6fc", "#ffffff",
+]
+cursor = "#21f6bc"
+cursor-text = "#999999"
+selection-background = "#c1deff"
+selection-foreground = "#000000"

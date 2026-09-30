@@ -1,0 +1,17 @@
+[meta]
+name = "No Clown Fiesta"
+mode = "dark"
+
+[terminal]
+foreground = "#e0e1e4"
+background = "#101010"
+palette = [
+    "#151515", "#b46958", "#90a959", "#f4bf75",
+    "#bad7ff", "#aa759f", "#88afa2", "#e1e1e1",
+    "#727272", "#7e97ab", "#90a959", "#f4bf75",
+    "#bad7ff", "#aa759f", "#88afa2", "#afafaf",
+]
+cursor = "#e0e1e4"
+cursor-text = "#18191b"
+selection-background = "#696d79"
+selection-foreground = "#e0e1e4"

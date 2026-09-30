@@ -1,0 +1,17 @@
+[meta]
+name = "Havn Skumring"
+mode = "dark"
+
+[terminal]
+foreground = "#d6dbeb"
+background = "#111522"
+palette = [
+    "#252c47", "#ea563e", "#6ead7b", "#f8b330",
+    "#596cf7", "#7c719e", "#d588c1", "#dce0ee",
+    "#38425c", "#d17264", "#8c9e8f", "#eac58c",
+    "#5186cb", "#9b7cee", "#d17ab6", "#fff6e1",
+]
+cursor = "#277a6f"
+cursor-text = "#e0e4f3"
+selection-background = "#2b514b"
+selection-foreground = "#dce0ef"

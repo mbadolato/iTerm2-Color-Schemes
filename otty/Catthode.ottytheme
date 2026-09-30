@@ -1,0 +1,18 @@
+[meta]
+name = "Catthode"
+mode = "dark"
+author = "Catthode (https://github.com/catthode)"
+
+[terminal]
+foreground = "#ffffff"
+background = "#000000"
+palette = [
+    "#141414", "#ff6b6b", "#b9d665", "#ffb86c",
+    "#9cd9e6", "#eba4be", "#aee6d6", "#b3b3b3",
+    "#636363", "#ff6b6b", "#b9d665", "#fae2c8",
+    "#9cd9e6", "#eba4be", "#aee6d6", "#ffffff",
+]
+cursor = "#ff9e3b"
+cursor-text = "#000000"
+selection-background = "#2d2d2d"
+selection-foreground = "#ffffff"

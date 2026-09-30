@@ -1,0 +1,17 @@
+[meta]
+name = "Bluloco Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#b9c0cb"
+background = "#282c34"
+palette = [
+    "#41444d", "#fc2f52", "#25a45c", "#ff936a",
+    "#3476ff", "#7a82da", "#4483aa", "#cdd4e0",
+    "#8f9aae", "#ff6480", "#3fc56b", "#f9c859",
+    "#10b1fe", "#ff78f8", "#5fb9bc", "#ffffff",
+]
+cursor = "#ffcc00"
+cursor-text = "#282c34"
+selection-background = "#b9c0ca"
+selection-foreground = "#272b33"

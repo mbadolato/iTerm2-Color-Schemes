@@ -1,0 +1,17 @@
+[meta]
+name = "N0Tch2K"
+mode = "dark"
+
+[terminal]
+foreground = "#a0a0a0"
+background = "#222222"
+palette = [
+    "#383838", "#a95551", "#666666", "#a98051",
+    "#657d3e", "#767676", "#c9c9c9", "#d0b8a3",
+    "#545454", "#a97775", "#8c8c8c", "#a99175",
+    "#98bd5e", "#a3a3a3", "#dcdcdc", "#d8c8bb",
+]
+cursor = "#aa9175"
+cursor-text = "#000000"
+selection-background = "#4d4d4d"
+selection-foreground = "#ffffff"

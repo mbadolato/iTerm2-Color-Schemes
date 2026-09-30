@@ -1,0 +1,18 @@
+[meta]
+name = "Sequoia Moonlight Light"
+mode = "light"
+author = "Michael Andreuzza (https://github.com/michael-andreuzza/Sequoia-Theme)"
+
+[terminal]
+foreground = "#282930"
+background = "#edeef2"
+palette = [
+    "#d4d5dc", "#c94da8", "#4a85d4", "#6a6a78",
+    "#9a5fd9", "#282930", "#d9884a", "#282930",
+    "#42434e", "#c94da8", "#4a85d4", "#6a6a78",
+    "#9a5fd9", "#282930", "#d9884a", "#282930",
+]
+cursor = "#565760"
+cursor-text = "#282930"
+selection-background = "#817c9c"
+selection-foreground = "#282930"

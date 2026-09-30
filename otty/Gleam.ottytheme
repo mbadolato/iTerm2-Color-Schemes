@@ -1,0 +1,17 @@
+[meta]
+name = "Gleam"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#292d3e"
+palette = [
+    "#000000", "#f44747", "#aadd8b", "#ffd596",
+    "#6796e6", "#fe7ab2", "#b181ec", "#f7f7f7",
+    "#808080", "#ff4a4a", "#c8ffa7", "#fdffab",
+    "#9ce7ff", "#ffaff3", "#d9baff", "#ffffff",
+]
+cursor = "#ffffff"
+cursor-text = "#2f2f2f"
+selection-background = "#393f57"
+selection-foreground = "#ffffff"

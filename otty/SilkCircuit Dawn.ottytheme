@@ -1,0 +1,18 @@
+[meta]
+name = "SilkCircuit Dawn"
+mode = "light"
+author = "Stefanie Jane (https://github.com/hyperb1iss/silkcircuit)"
+
+[terminal]
+foreground = "#2b2540"
+background = "#faf8ff"
+palette = [
+    "#2b2540", "#c1272d", "#1d6e46", "#796100",
+    "#1454dc", "#b40077", "#006e72", "#bab8bf",
+    "#5a4d6e", "#dc2626", "#288855", "#7f5f00",
+    "#2572ef", "#d92a99", "#048397", "#ffffff",
+]
+cursor = "#006e72"
+cursor-text = "#faf8ff"
+selection-background = "#d4c8f0"
+selection-foreground = "#2b2540"

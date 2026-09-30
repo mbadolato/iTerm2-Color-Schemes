@@ -1,0 +1,17 @@
+[meta]
+name = "Gruvbox Light Hard"
+mode = "light"
+
+[terminal]
+foreground = "#3c3836"
+background = "#f9f5d7"
+palette = [
+    "#f9f5d7", "#cc241d", "#98971a", "#d79921",
+    "#458588", "#b16286", "#689d6a", "#7c6f64",
+    "#928374", "#9d0006", "#79740e", "#b57614",
+    "#076678", "#8f3f71", "#427b58", "#3c3836",
+]
+cursor = "#3c3836"
+cursor-text = "#f9f5d7"
+selection-background = "#3c3836"
+selection-foreground = "#f9f5d7"

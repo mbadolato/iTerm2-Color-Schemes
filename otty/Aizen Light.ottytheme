@@ -1,0 +1,17 @@
+[meta]
+name = "Aizen Light"
+mode = "light"
+
+[terminal]
+foreground = "#4a4d66"
+background = "#f0f2f6"
+palette = [
+    "#f0f2f6", "#d00c36", "#3e9e28", "#dd8c1a",
+    "#1c64f2", "#8636ec", "#159096", "#4a4d66",
+    "#adb2bc", "#d00c36", "#3e9e28", "#dd8c1a",
+    "#1c64f2", "#8636ec", "#159096", "#4a4d66",
+]
+cursor = "#fc6008"
+cursor-text = "#f0f2f6"
+selection-background = "#bdc2cc"
+selection-foreground = "#4a4d66"

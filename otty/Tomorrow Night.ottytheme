@@ -1,0 +1,17 @@
+[meta]
+name = "Tomorrow Night"
+mode = "dark"
+
+[terminal]
+foreground = "#c5c8c6"
+background = "#1d1f21"
+palette = [
+    "#000000", "#cc6666", "#b5bd68", "#f0c674",
+    "#81a2be", "#b294bb", "#8abeb7", "#ffffff",
+    "#4c4c4c", "#cc6666", "#b5bd68", "#f0c674",
+    "#81a2be", "#b294bb", "#8abeb7", "#ffffff",
+]
+cursor = "#c5c8c6"
+cursor-text = "#1d1f21"
+selection-background = "#373b41"
+selection-foreground = "#c5c8c6"

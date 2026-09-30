@@ -1,0 +1,17 @@
+[meta]
+name = "Symfonic"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#000000"
+palette = [
+    "#000000", "#dc322f", "#56db3a", "#ff8400",
+    "#0084d4", "#b729d9", "#ccccff", "#ffffff",
+    "#414347", "#dc322f", "#56db3a", "#ff8400",
+    "#0084d4", "#b729d9", "#ccccff", "#ffffff",
+]
+cursor = "#dc322f"
+cursor-text = "#ffffff"
+selection-background = "#073642"
+selection-foreground = "#ffffff"

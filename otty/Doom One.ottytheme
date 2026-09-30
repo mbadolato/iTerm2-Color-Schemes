@@ -1,0 +1,17 @@
+[meta]
+name = "Doom One"
+mode = "dark"
+
+[terminal]
+foreground = "#bbc2cf"
+background = "#282c34"
+palette = [
+    "#000000", "#ff6c6b", "#98be65", "#ecbe7b",
+    "#a9a1e1", "#c678dd", "#51afef", "#bbc2cf",
+    "#595959", "#ff6655", "#99bb66", "#ecbe7b",
+    "#a9a1e1", "#c678dd", "#51afef", "#bfbfbf",
+]
+cursor = "#51afef"
+cursor-text = "#1b1b1b"
+selection-background = "#42444b"
+selection-foreground = "#bbc2cf"

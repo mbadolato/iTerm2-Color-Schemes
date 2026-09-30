@@ -1,0 +1,17 @@
+[meta]
+name = "Solarized Darcula"
+mode = "dark"
+
+[terminal]
+foreground = "#d2d8d9"
+background = "#3d3f41"
+palette = [
+    "#25292a", "#f24840", "#629655", "#b68800",
+    "#2075c7", "#797fd4", "#15968d", "#d2d8d9",
+    "#65696a", "#f24840", "#629655", "#b68800",
+    "#2075c7", "#797fd4", "#15968d", "#d2d8d9",
+]
+cursor = "#708284"
+cursor-text = "#002831"
+selection-background = "#214283"
+selection-foreground = "#d2d8d9"

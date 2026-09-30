@@ -1,0 +1,17 @@
+[meta]
+name = "traffic"
+mode = "dark"
+
+[terminal]
+foreground = "#cfb9a8"
+background = "#272c30"
+palette = [
+    "#282d31", "#934e46", "#637268", "#c79e84",
+    "#515e67", "#715f5e", "#5c6f7d", "#cfb9a8",
+    "#4e575e", "#934e46", "#637270", "#c79e84",
+    "#515e67", "#715f5e", "#5c6f7d", "#ddcec2",
+]
+cursor = "#cfb9a8"
+cursor-text = "#272c30"
+selection-background = "#cfb9a8"
+selection-foreground = "#272c30"

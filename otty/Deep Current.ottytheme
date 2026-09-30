@@ -1,0 +1,17 @@
+[meta]
+name = "Deep Current"
+mode = "dark"
+
+[terminal]
+foreground = "#e2e8f0"
+background = "#08121f"
+palette = [
+    "#1f2a44", "#ff4d6d", "#22c55e", "#f59e0b",
+    "#3b82f6", "#d946ef", "#06d6a0", "#94a3b8",
+    "#475569", "#ff7b9c", "#86efac", "#fcd34d",
+    "#60a5fa", "#e879f9", "#2dd4bf", "#f8fafc",
+]
+cursor = "#00c5ff"
+cursor-text = "#08121f"
+selection-background = "#334155"
+selection-foreground = "#e2e8f0"

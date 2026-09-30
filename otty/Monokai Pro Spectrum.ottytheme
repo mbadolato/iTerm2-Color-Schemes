@@ -1,0 +1,17 @@
+[meta]
+name = "Monokai Pro Spectrum"
+mode = "dark"
+
+[terminal]
+foreground = "#f7f1ff"
+background = "#222222"
+palette = [
+    "#222222", "#fc618d", "#7bd88f", "#fce566",
+    "#fd9353", "#948ae3", "#5ad4e6", "#f7f1ff",
+    "#69676c", "#fc618d", "#7bd88f", "#fce566",
+    "#fd9353", "#948ae3", "#5ad4e6", "#f7f1ff",
+]
+cursor = "#bab6c0"
+cursor-text = "#faf6ff"
+selection-background = "#525053"
+selection-foreground = "#f7f1ff"

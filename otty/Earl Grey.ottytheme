@@ -1,0 +1,17 @@
+[meta]
+name = "Earl Grey"
+mode = "light"
+
+[terminal]
+foreground = "#605a52"
+background = "#fcfbf9"
+palette = [
+    "#605a52", "#8f5652", "#747b4d", "#897d43",
+    "#556995", "#83577d", "#477a7b", "#c2beb8",
+    "#a8a094", "#82403c", "#656d37", "#796d2f",
+    "#3e5588", "#77406f", "#326b6c", "#c2beb8",
+]
+cursor = "#605a52"
+cursor-text = "#fcfbf9"
+selection-background = "#e1ddd6"
+selection-foreground = "#605a52"

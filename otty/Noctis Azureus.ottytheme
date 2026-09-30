@@ -1,0 +1,18 @@
+[meta]
+name = "Noctis Azureus"
+mode = "dark"
+author = "Liviu Schera (https://github.com/liviuschera), ported by Abel Dantas (https://github.com/abeldantas)"
+
+[terminal]
+foreground = "#becfda"
+background = "#07273b"
+palette = [
+    "#28353e", "#e66533", "#49e9a6", "#e4b781",
+    "#49ace9", "#df769b", "#49d6e9", "#aec3d0",
+    "#475e6c", "#e97749", "#60ebb1", "#e69533",
+    "#60b6eb", "#e798b3", "#60dbeb", "#becfda",
+]
+cursor = "#becfda"
+cursor-text = "#07273b"
+selection-background = "#103850"
+selection-foreground = "#becfda"

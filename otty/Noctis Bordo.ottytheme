@@ -1,0 +1,18 @@
+[meta]
+name = "Noctis Bordo"
+mode = "dark"
+author = "Liviu Schera (https://github.com/liviuschera), ported by Abel Dantas (https://github.com/abeldantas)"
+
+[terminal]
+foreground = "#cbbec2"
+background = "#322a2d"
+palette = [
+    "#47393e", "#e66533", "#49e9a6", "#e4b781",
+    "#49ace9", "#df769b", "#49d6e9", "#b9acb0",
+    "#69545b", "#e97749", "#60ebb1", "#e69533",
+    "#60b6eb", "#e798b3", "#60dbeb", "#cbbec2",
+]
+cursor = "#cbbec2"
+cursor-text = "#322a2d"
+selection-background = "#4a3339"
+selection-foreground = "#cbbec2"

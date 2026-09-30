@@ -1,0 +1,22 @@
+[meta]
+name = "{{ scheme_name }}"
+mode = "{% if Dark_Theme %}dark{% else %}light{% endif %}"
+{% if author %}author = "{{ author }}"
+{% endif %}
+
+[terminal]
+foreground = "#{{ Foreground_Color.hex }}"
+background = "#{{ Background_Color.hex }}"
+palette = [
+    "#{{ Ansi_0_Color.hex }}", "#{{ Ansi_1_Color.hex }}", "#{{ Ansi_2_Color.hex }}", "#{{ Ansi_3_Color.hex }}",
+    "#{{ Ansi_4_Color.hex }}", "#{{ Ansi_5_Color.hex }}", "#{{ Ansi_6_Color.hex }}", "#{{ Ansi_7_Color.hex }}",
+    "#{{ Ansi_8_Color.hex }}", "#{{ Ansi_9_Color.hex }}", "#{{ Ansi_10_Color.hex }}", "#{{ Ansi_11_Color.hex }}",
+    "#{{ Ansi_12_Color.hex }}", "#{{ Ansi_13_Color.hex }}", "#{{ Ansi_14_Color.hex }}", "#{{ Ansi_15_Color.hex }}",
+]
+cursor = "#{{ Cursor_Color.hex }}"
+{% if Cursor_Text_Color %}cursor-text = "#{{ Cursor_Text_Color.hex }}"
+{% endif %}
+{% if Selection_Color %}selection-background = "#{{ Selection_Color.hex }}"
+{% endif %}
+{% if Selected_Text_Color %}selection-foreground = "#{{ Selected_Text_Color.hex }}"
+{% endif %}

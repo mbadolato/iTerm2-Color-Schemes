@@ -1,0 +1,17 @@
+[meta]
+name = "Glacier"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#0c1115"
+palette = [
+    "#2e343c", "#bd0f2f", "#35a770", "#fb9435",
+    "#1f5872", "#bd2523", "#778397", "#ffffff",
+    "#404a55", "#bd0f2f", "#49e998", "#fddf6e",
+    "#2a8bc1", "#ea4727", "#a0b6d3", "#ffffff",
+]
+cursor = "#6c6c6c"
+cursor-text = "#9f9f9f"
+selection-background = "#bd2523"
+selection-foreground = "#ffffff"

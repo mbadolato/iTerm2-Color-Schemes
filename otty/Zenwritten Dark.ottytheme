@@ -1,0 +1,17 @@
+[meta]
+name = "Zenwritten Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#bbbbbb"
+background = "#191919"
+palette = [
+    "#191919", "#de6e7c", "#819b69", "#b77e64",
+    "#6099c0", "#b279a7", "#66a5ad", "#bbbbbb",
+    "#4a4546", "#e8838f", "#8bae68", "#d68c67",
+    "#61abda", "#cf86c1", "#65b8c1", "#8e8e8e",
+]
+cursor = "#c9c9c9"
+cursor-text = "#191919"
+selection-background = "#404040"
+selection-foreground = "#bbbbbb"

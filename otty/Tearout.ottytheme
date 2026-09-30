@@ -1,0 +1,17 @@
+[meta]
+name = "Tearout"
+mode = "dark"
+
+[terminal]
+foreground = "#f4d2ae"
+background = "#34392d"
+palette = [
+    "#685742", "#cc967b", "#97976d", "#6c9861",
+    "#b5955e", "#c9a554", "#d7c483", "#b5955e",
+    "#75644f", "#cc967b", "#97976d", "#6c9861",
+    "#b5955e", "#c9a554", "#d7c483", "#b5955e",
+]
+cursor = "#d7c483"
+cursor-text = "#141415"
+selection-background = "#e4c47a"
+selection-foreground = "#000000"

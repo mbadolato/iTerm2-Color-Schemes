@@ -1,0 +1,17 @@
+[meta]
+name = "Rapture"
+mode = "dark"
+
+[terminal]
+foreground = "#c0c9e5"
+background = "#111e2a"
+palette = [
+    "#000000", "#fc644d", "#7afde1", "#fff09b",
+    "#6c9bf5", "#ff4fa1", "#64e0ff", "#c0c9e5",
+    "#304b66", "#fc644d", "#7afde1", "#fff09b",
+    "#6c9bf5", "#ff4fa1", "#64e0ff", "#ffffff",
+]
+cursor = "#ffffff"
+cursor-text = "#111e2a"
+selection-background = "#304b66"
+selection-foreground = "#ffffff"

@@ -1,0 +1,17 @@
+[meta]
+name = "Material Darker"
+mode = "dark"
+
+[terminal]
+foreground = "#eeffff"
+background = "#212121"
+palette = [
+    "#000000", "#ff5370", "#c3e88d", "#ffcb6b",
+    "#82aaff", "#c792ea", "#89ddff", "#ffffff",
+    "#545454", "#ff5370", "#c3e88d", "#ffcb6b",
+    "#82aaff", "#c792ea", "#89ddff", "#ffffff",
+]
+cursor = "#ffffff"
+cursor-text = "#bfbfbf"
+selection-background = "#eeffff"
+selection-foreground = "#545454"

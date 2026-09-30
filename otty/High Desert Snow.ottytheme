@@ -1,0 +1,17 @@
+[meta]
+name = "High Desert Snow"
+mode = "light"
+
+[terminal]
+foreground = "#1f2937"
+background = "#f9fafb"
+palette = [
+    "#1f2937", "#dc2626", "#16a34a", "#ca8a04",
+    "#2563eb", "#9333ea", "#0891b2", "#475569",
+    "#64748b", "#ef4444", "#22c55e", "#eab308",
+    "#3b82f6", "#c084fc", "#06b6d4", "#1f2937",
+]
+cursor = "#d97706"
+cursor-text = "#f3f4f6"
+selection-background = "#cbd5e1"
+selection-foreground = "#1f2937"

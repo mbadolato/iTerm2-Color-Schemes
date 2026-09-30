@@ -1,0 +1,17 @@
+[meta]
+name = "Brogrammer"
+mode = "dark"
+
+[terminal]
+foreground = "#d6dbe5"
+background = "#131313"
+palette = [
+    "#1f1f1f", "#f81118", "#2dc55e", "#ecba0f",
+    "#2a84d2", "#4e5ab7", "#1081d6", "#d6dbe5",
+    "#d6dbe5", "#de352e", "#1dd361", "#f3bd09",
+    "#1081d6", "#5350b9", "#0f7ddb", "#ffffff",
+]
+cursor = "#b9b9b9"
+cursor-text = "#101010"
+selection-background = "#1f1f1f"
+selection-foreground = "#d6dbe5"

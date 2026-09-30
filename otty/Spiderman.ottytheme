@@ -1,0 +1,17 @@
+[meta]
+name = "Spiderman"
+mode = "dark"
+
+[terminal]
+foreground = "#e3e3e3"
+background = "#1b1d1e"
+palette = [
+    "#1b1d1e", "#e60813", "#e22928", "#e24756",
+    "#2c3fff", "#2435db", "#3256ff", "#fffef6",
+    "#505354", "#ff0325", "#ff3338", "#fe3a35",
+    "#1d50ff", "#747cff", "#6184ff", "#fffff9",
+]
+cursor = "#2c3fff"
+cursor-text = "#000000"
+selection-background = "#070e50"
+selection-foreground = "#f0272d"

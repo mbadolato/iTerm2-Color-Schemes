@@ -1,0 +1,17 @@
+[meta]
+name = "Nord"
+mode = "dark"
+
+[terminal]
+foreground = "#d8dee9"
+background = "#2e3440"
+palette = [
+    "#3b4252", "#bf616a", "#a3be8c", "#ebcb8b",
+    "#81a1c1", "#b48ead", "#88c0d0", "#e5e9f0",
+    "#596377", "#bf616a", "#a3be8c", "#ebcb8b",
+    "#81a1c1", "#b48ead", "#8fbcbb", "#eceff4",
+]
+cursor = "#eceff4"
+cursor-text = "#282828"
+selection-background = "#eceff4"
+selection-foreground = "#4c566a"

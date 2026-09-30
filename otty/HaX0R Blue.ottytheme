@@ -1,0 +1,17 @@
+[meta]
+name = "HaX0R Blue"
+mode = "dark"
+
+[terminal]
+foreground = "#11b7ff"
+background = "#010515"
+palette = [
+    "#010921", "#10b6ff", "#10b6ff", "#10b6ff",
+    "#10b6ff", "#10b6ff", "#10b6ff", "#fafafa",
+    "#484157", "#00b3f7", "#00b3f7", "#00b3f7",
+    "#00b3f7", "#00b3f7", "#00b3f7", "#fefefe",
+]
+cursor = "#10b6ff"
+cursor-text = "#ffffff"
+selection-background = "#c1e4ff"
+selection-foreground = "#a9a9a9"

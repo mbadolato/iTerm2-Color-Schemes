@@ -1,0 +1,17 @@
+[meta]
+name = "Monokai Pro Light"
+mode = "light"
+
+[terminal]
+foreground = "#29242a"
+background = "#faf4f2"
+palette = [
+    "#faf4f2", "#e14775", "#269d69", "#cc7a0a",
+    "#e16032", "#7058be", "#1c8ca8", "#29242a",
+    "#a59fa0", "#e14775", "#269d69", "#cc7a0a",
+    "#e16032", "#7058be", "#1c8ca8", "#29242a",
+]
+cursor = "#706b6e"
+cursor-text = "#a39ea1"
+selection-background = "#bfb9ba"
+selection-foreground = "#29242a"

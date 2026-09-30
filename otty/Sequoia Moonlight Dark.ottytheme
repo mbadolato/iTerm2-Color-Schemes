@@ -1,0 +1,18 @@
+[meta]
+name = "Sequoia Moonlight Dark"
+mode = "dark"
+author = "Michael Andreuzza (https://github.com/michael-andreuzza/Sequoia-Theme)"
+
+[terminal]
+foreground = "#868690"
+background = "#0f1014"
+palette = [
+    "#131317", "#f58ee0", "#8eb6f5", "#9898a6",
+    "#c58fff", "#fdfdfe", "#ffbb88", "#868690",
+    "#575861", "#f58ee0", "#8eb6f5", "#9898a6",
+    "#c58fff", "#fdfdfe", "#ffbb88", "#868690",
+]
+cursor = "#43444d"
+cursor-text = "#868690"
+selection-background = "#817c9c"
+selection-foreground = "#acacb6"

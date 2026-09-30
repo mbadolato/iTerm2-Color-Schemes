@@ -1,0 +1,17 @@
+[meta]
+name = "Monokai Vivid"
+mode = "dark"
+
+[terminal]
+foreground = "#f9f9f9"
+background = "#121212"
+palette = [
+    "#121212", "#fa2934", "#98e123", "#fff30a",
+    "#0443ff", "#f800f8", "#01b6ed", "#ffffff",
+    "#838383", "#f6669d", "#b1e05f", "#fff26d",
+    "#0443ff", "#f200f6", "#51ceff", "#ffffff",
+]
+cursor = "#fb0007"
+cursor-text = "#ff8c95"
+selection-background = "#ffffff"
+selection-foreground = "#000000"

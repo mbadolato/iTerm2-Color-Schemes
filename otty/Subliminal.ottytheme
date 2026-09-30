@@ -1,0 +1,17 @@
+[meta]
+name = "Subliminal"
+mode = "dark"
+
+[terminal]
+foreground = "#d4d4d4"
+background = "#282c35"
+palette = [
+    "#7f7f7f", "#e15a60", "#a9cfa4", "#ffe2a9",
+    "#6699cc", "#f1a5ab", "#5fb3b3", "#d4d4d4",
+    "#7f7f7f", "#e15a60", "#a9cfa4", "#ffe2a9",
+    "#6699cc", "#f1a5ab", "#5fb3b3", "#d4d4d4",
+]
+cursor = "#c7c7c7"
+cursor-text = "#8c8c8c"
+selection-background = "#484e5b"
+selection-foreground = "#ffffff"

@@ -1,0 +1,17 @@
+[meta]
+name = "Light Owl"
+mode = "light"
+
+[terminal]
+foreground = "#403f53"
+background = "#fbfbfb"
+palette = [
+    "#403f53", "#de3d3b", "#08916a", "#e0af02",
+    "#288ed7", "#d6438a", "#2aa298", "#bdbdbd",
+    "#989fb1", "#de3d3b", "#08916a", "#daaa01",
+    "#288ed7", "#d6438a", "#2aa298", "#f0f0f0",
+]
+cursor = "#403f53"
+cursor-text = "#f6f6f6"
+selection-background = "#e0e0e0"
+selection-foreground = "#403f53"

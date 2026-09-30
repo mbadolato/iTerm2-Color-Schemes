@@ -1,0 +1,17 @@
+[meta]
+name = "Night Owlish Light"
+mode = "light"
+
+[terminal]
+foreground = "#403f53"
+background = "#ffffff"
+palette = [
+    "#011627", "#d3423e", "#2aa298", "#daaa01",
+    "#4876d6", "#403f53", "#08916a", "#7a8181",
+    "#7a8181", "#f76e6e", "#49d0c5", "#dac26b",
+    "#5ca7e4", "#697098", "#00c990", "#989fb1",
+]
+cursor = "#403f53"
+cursor-text = "#fbfbfb"
+selection-background = "#f2f2f2"
+selection-foreground = "#403f53"

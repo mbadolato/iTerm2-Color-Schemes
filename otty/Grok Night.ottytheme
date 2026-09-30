@@ -1,0 +1,17 @@
+[meta]
+name = "Grok Night"
+mode = "dark"
+
+[terminal]
+foreground = "#e1e1e1"
+background = "#141414"
+palette = [
+    "#0a0a0a", "#f7768e", "#9ece6a", "#e0af68",
+    "#7aa2f7", "#bb9af7", "#7dcfff", "#c8c8c8",
+    "#6c6c6c", "#f7768e", "#9ece6a", "#e0af68",
+    "#7aa2f7", "#bb9af7", "#7dcfff", "#e1e1e1",
+]
+cursor = "#e0af68"
+cursor-text = "#141414"
+selection-background = "#242424"
+selection-foreground = "#e1e1e1"

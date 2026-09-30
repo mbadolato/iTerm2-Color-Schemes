@@ -1,0 +1,17 @@
+[meta]
+name = "Monokai Pro Ristretto"
+mode = "dark"
+
+[terminal]
+foreground = "#fff1f3"
+background = "#2c2525"
+palette = [
+    "#2c2525", "#fd6883", "#adda78", "#f9cc6c",
+    "#f38d70", "#a8a9eb", "#85dacc", "#fff1f3",
+    "#72696a", "#fd6883", "#adda78", "#f9cc6c",
+    "#f38d70", "#a8a9eb", "#85dacc", "#fff1f3",
+]
+cursor = "#c3b7b8"
+cursor-text = "#fff7f8"
+selection-background = "#5b5353"
+selection-foreground = "#fff1f3"

@@ -1,0 +1,17 @@
+[meta]
+name = "Gruvbox Material Light"
+mode = "light"
+
+[terminal]
+foreground = "#654735"
+background = "#fbf1c7"
+palette = [
+    "#fbf1c7", "#c14a4a", "#6c782e", "#b47109",
+    "#45707a", "#945e80", "#4c7a5d", "#654735",
+    "#a89984", "#c14a4a", "#6c782e", "#b47109",
+    "#45707a", "#945e80", "#4c7a5d", "#4f3829",
+]
+cursor = "#654735"
+cursor-text = "#fbf1c7"
+selection-background = "#654735"
+selection-foreground = "#fbf1c7"

@@ -1,0 +1,17 @@
+[meta]
+name = "Homebrew"
+mode = "dark"
+
+[terminal]
+foreground = "#00ff00"
+background = "#000000"
+palette = [
+    "#000000", "#990000", "#00a600", "#999900",
+    "#0d0dbf", "#b200b2", "#00a6b2", "#bfbfbf",
+    "#666666", "#e50000", "#00d900", "#e5e500",
+    "#0000ff", "#e500e5", "#00e5e5", "#e5e5e5",
+]
+cursor = "#23ff18"
+cursor-text = "#ff0018"
+selection-background = "#083905"
+selection-foreground = "#ffffff"

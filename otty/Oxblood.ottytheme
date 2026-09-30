@@ -1,0 +1,17 @@
+[meta]
+name = "Oxblood"
+mode = "dark"
+
+[terminal]
+foreground = "#e8d2d4"
+background = "#140b0d"
+palette = [
+    "#231417", "#ff4d54", "#c9a24a", "#e0b24a",
+    "#d9743f", "#e0556b", "#e0a36a", "#e8d2d4",
+    "#7a5458", "#ff686e", "#cfad60", "#d9743f",
+    "#e86b72", "#c8324b", "#e4ae7c", "#ffffff",
+]
+cursor = "#e0483a"
+cursor-text = "#140b0d"
+selection-background = "#3a2227"
+selection-foreground = "#60575a"

@@ -1,0 +1,18 @@
+[meta]
+name = "Ayu"
+mode = "dark"
+author = "Ayu Theme (https://github.com/ayu-theme)"
+
+[terminal]
+foreground = "#bfbdb6"
+background = "#0b0e14"
+palette = [
+    "#11151c", "#ea6c73", "#7fd962", "#f9af4f",
+    "#53bdfa", "#cda1fa", "#90e1c6", "#c7c7c7",
+    "#686868", "#f07178", "#aad94c", "#ffb454",
+    "#59c2ff", "#d2a6ff", "#95e6cb", "#ffffff",
+]
+cursor = "#e6b450"
+cursor-text = "#0b0e14"
+selection-background = "#409fff"
+selection-foreground = "#0b0e14"

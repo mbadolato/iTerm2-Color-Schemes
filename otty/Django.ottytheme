@@ -1,0 +1,17 @@
+[meta]
+name = "Django"
+mode = "dark"
+
+[terminal]
+foreground = "#f8f8f8"
+background = "#0b2f20"
+palette = [
+    "#000000", "#fd6209", "#41a83e", "#ffe862",
+    "#315d3f", "#f8f8f8", "#9df39f", "#ffffff",
+    "#585858", "#ff943b", "#73da70", "#ffff94",
+    "#568264", "#ffffff", "#cfffd1", "#ffffff",
+]
+cursor = "#336442"
+cursor-text = "#f8f8f8"
+selection-background = "#245032"
+selection-foreground = "#f8f8f8"

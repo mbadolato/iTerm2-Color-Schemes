@@ -1,0 +1,17 @@
+[meta]
+name = "Madman's Diary"
+mode = "dark"
+
+[terminal]
+foreground = "#f4e7d7"
+background = "#1a0e17"
+palette = [
+    "#3b1919", "#8b1e3e", "#d25944", "#59ae08",
+    "#fbbf24", "#a855f7", "#ef4444", "#f472b6",
+    "#5a3a2e", "#fb7185", "#34d399", "#fde047",
+    "#60a5fa", "#c084fc", "#22d3ee", "#fff7e6",
+]
+cursor = "#ff3e3e"
+cursor-text = "#3a1b15"
+selection-background = "#ff6633"
+selection-foreground = "#ffeb83"

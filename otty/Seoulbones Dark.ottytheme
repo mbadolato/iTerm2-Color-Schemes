@@ -1,0 +1,17 @@
+[meta]
+name = "Seoulbones Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#dddddd"
+background = "#4b4b4b"
+palette = [
+    "#4b4b4b", "#e388a3", "#98bd99", "#ffdf9b",
+    "#97bdde", "#a5a6c5", "#6fbdbe", "#dddddd",
+    "#797172", "#eb99b1", "#8fcd92", "#ffe5b3",
+    "#a2c8e9", "#b2b3da", "#6bcacb", "#a8a8a8",
+]
+cursor = "#e2e2e2"
+cursor-text = "#4b4b4b"
+selection-background = "#777777"
+selection-foreground = "#dddddd"

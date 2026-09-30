@@ -1,0 +1,17 @@
+[meta]
+name = "Neutron"
+mode = "dark"
+
+[terminal]
+foreground = "#e6e8ef"
+background = "#1c1e22"
+palette = [
+    "#23252b", "#b54036", "#5ab977", "#deb566",
+    "#6a7c93", "#a4799d", "#3f94a8", "#e6e8ef",
+    "#494b51", "#b54036", "#5ab977", "#deb566",
+    "#6a7c93", "#a4799d", "#3f94a8", "#ebedf2",
+]
+cursor = "#f6f7ec"
+cursor-text = "#b7b8a8"
+selection-background = "#2f363e"
+selection-foreground = "#7d8fa4"

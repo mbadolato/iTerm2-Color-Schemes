@@ -1,0 +1,17 @@
+[meta]
+name = "Velvet Court"
+mode = "dark"
+
+[terminal]
+foreground = "#f2dcea"
+background = "#1f0e1c"
+palette = [
+    "#2f1629", "#ee5c82", "#9ad08a", "#f0c44e",
+    "#b392e8", "#d087e0", "#6fd0c8", "#e2c8d8",
+    "#836075", "#ee5c82", "#9ad08a", "#e8964f",
+    "#b392e8", "#d087e0", "#6fd0c8", "#f2dcea",
+]
+cursor = "#f0c44e"
+cursor-text = "#1f0e1c"
+selection-background = "#3e2138"
+selection-foreground = "#5f4e5c"

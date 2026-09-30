@@ -1,0 +1,17 @@
+[meta]
+name = "Seafoam Pastel"
+mode = "dark"
+
+[terminal]
+foreground = "#d4e7d4"
+background = "#243435"
+palette = [
+    "#757575", "#825d4d", "#728c62", "#ada16d",
+    "#4d7b82", "#8a7267", "#729494", "#e0e0e0",
+    "#8a8a8a", "#cf937a", "#98d9aa", "#fae79d",
+    "#7ac3cf", "#d6b2a1", "#ade0e0", "#e0e0e0",
+]
+cursor = "#57647a"
+cursor-text = "#323232"
+selection-background = "#ffffff"
+selection-foreground = "#9e8b13"

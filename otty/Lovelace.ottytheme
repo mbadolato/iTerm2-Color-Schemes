@@ -1,0 +1,17 @@
+[meta]
+name = "Lovelace"
+mode = "dark"
+
+[terminal]
+foreground = "#fdfdfd"
+background = "#1d1f28"
+palette = [
+    "#282a36", "#f37f97", "#5adecd", "#f2a272",
+    "#8897f4", "#c574dd", "#79e6f3", "#fdfdfd",
+    "#4e5165", "#ff4971", "#18e3c8", "#ff8037",
+    "#556fff", "#b043d1", "#3fdcee", "#bebec1",
+]
+cursor = "#c574dd"
+cursor-text = "#ffffff"
+selection-background = "#c1deff"
+selection-foreground = "#000000"

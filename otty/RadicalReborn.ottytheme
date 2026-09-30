@@ -1,0 +1,17 @@
+[meta]
+name = "RadicalReborn"
+mode = "dark"
+
+[terminal]
+foreground = "#defff7"
+background = "#141322"
+palette = [
+    "#30317d", "#ff5395", "#d8ff4e", "#fffc7e",
+    "#7dd9e4", "#fa61b8", "#a8ffef", "#cff0e8",
+    "#4627c2", "#ff427b", "#c8ff00", "#f8d846",
+    "#84f9fe", "#d5358f", "#83fee8", "#cbfff2",
+]
+cursor = "#ff428e"
+cursor-text = "#defff7"
+selection-background = "#3c2e61"
+selection-foreground = "#eec1c1"

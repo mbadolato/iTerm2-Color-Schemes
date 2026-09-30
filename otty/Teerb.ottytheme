@@ -1,0 +1,17 @@
+[meta]
+name = "Teerb"
+mode = "dark"
+
+[terminal]
+foreground = "#d0d0d0"
+background = "#262626"
+palette = [
+    "#1c1c1c", "#d68686", "#aed686", "#d7af87",
+    "#86aed6", "#d6aed6", "#8adbb4", "#d0d0d0",
+    "#4f4f4f", "#d68686", "#aed686", "#e4c9af",
+    "#86aed6", "#d6aed6", "#b1e7dd", "#efefef",
+]
+cursor = "#e4c9af"
+cursor-text = "#000000"
+selection-background = "#4d4d4d"
+selection-foreground = "#ffffff"

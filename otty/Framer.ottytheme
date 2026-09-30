@@ -1,0 +1,17 @@
+[meta]
+name = "Framer"
+mode = "dark"
+
+[terminal]
+foreground = "#777777"
+background = "#111111"
+palette = [
+    "#141414", "#ff5555", "#98ec65", "#ffcc33",
+    "#00aaff", "#aa88ff", "#88ddff", "#cccccc",
+    "#414141", "#ff8888", "#b6f292", "#ffd966",
+    "#33bbff", "#cebbff", "#bbecff", "#ffffff",
+]
+cursor = "#fcdc08"
+cursor-text = "#161616"
+selection-background = "#666666"
+selection-foreground = "#ffffff"

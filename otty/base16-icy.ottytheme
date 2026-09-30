@@ -1,0 +1,17 @@
+[meta]
+name = "base16-icy"
+mode = "dark"
+
+[terminal]
+foreground = "#095b67"
+background = "#021012"
+palette = [
+    "#021012", "#16c2d9", "#4dd0e1", "#80deea",
+    "#00bcd4", "#00adc1", "#26c6d6", "#095b67",
+    "#1e484e", "#b3ebf2", "#4dd0e1", "#80deea",
+    "#00bcd4", "#00adc1", "#26c6d6", "#0c7c7c",
+]
+cursor = "#16c2d9"
+cursor-text = "#021012"
+selection-background = "#041f23"
+selection-foreground = "#425052"

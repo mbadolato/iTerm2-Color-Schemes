@@ -1,0 +1,17 @@
+[meta]
+name = "SeedFlip Inkwell"
+mode = "dark"
+
+[terminal]
+foreground = "#e8e4df"
+background = "#0a0a0a"
+palette = [
+    "#050505", "#cc6666", "#66cc88", "#ccbb66",
+    "#6690cc", "#cc66cc", "#66cccc", "#f3f1ee",
+    "#3d3d3d", "#df9f9f", "#9fdfb5", "#dfd49f",
+    "#9fbadf", "#df9fdf", "#9fdfdf", "#ffffff",
+]
+cursor = "#c8b8a0"
+cursor-text = "#0a0a0a"
+selection-background = "#141414"
+selection-foreground = "#e8e4df"

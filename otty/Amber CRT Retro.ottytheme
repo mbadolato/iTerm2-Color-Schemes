@@ -1,0 +1,17 @@
+[meta]
+name = "Amber CRT Retro"
+mode = "dark"
+
+[terminal]
+foreground = "#ffb000"
+background = "#1a1200"
+palette = [
+    "#2a1e00", "#ff6a00", "#ffb000", "#ffc742",
+    "#ff8c00", "#ffa033", "#ffd27f", "#ffd9a0",
+    "#6a4e00", "#ff8a1e", "#ffc742", "#ffe08a",
+    "#ffab3d", "#ffc266", "#ffe3b0", "#fff0d6",
+]
+cursor = "#ffb000"
+cursor-text = "#1a1200"
+selection-background = "#3a2a00"
+selection-foreground = "#5a5240"

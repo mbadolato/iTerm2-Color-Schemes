@@ -1,0 +1,17 @@
+[meta]
+name = "Neon"
+mode = "dark"
+
+[terminal]
+foreground = "#00fffc"
+background = "#14161a"
+palette = [
+    "#000000", "#ff3045", "#5ffa74", "#fffc7e",
+    "#0f15d8", "#f924e7", "#00fffc", "#c7c7c7",
+    "#686868", "#ff5a5a", "#75ff88", "#fffd96",
+    "#3c40cb", "#f15be5", "#88fffe", "#ffffff",
+]
+cursor = "#c7c7c7"
+cursor-text = "#8c8c8c"
+selection-background = "#0013ff"
+selection-foreground = "#08d2cf"

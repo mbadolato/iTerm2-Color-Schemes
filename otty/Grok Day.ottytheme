@@ -1,0 +1,17 @@
+[meta]
+name = "Grok Day"
+mode = "light"
+
+[terminal]
+foreground = "#262626"
+background = "#f5f5f5"
+palette = [
+    "#262626", "#cd3048", "#378e23", "#a27612",
+    "#2f64d2", "#7d4bc6", "#0082aa", "#bbbbbb",
+    "#767676", "#cd3048", "#378e23", "#a27612",
+    "#2f64d2", "#7d4bc6", "#0082aa", "#444444",
+]
+cursor = "#7d4bc6"
+cursor-text = "#f5f5f5"
+selection-background = "#dedede"
+selection-foreground = "#262626"

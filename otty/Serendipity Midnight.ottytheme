@@ -1,0 +1,18 @@
+[meta]
+name = "Serendipity Midnight"
+mode = "dark"
+author = "Michael Andreuzza (https://github.com/michael-andreuzza/Serendipity-Theme)"
+
+[terminal]
+foreground = "#dee0ef"
+background = "#151726"
+palette = [
+    "#232534", "#ee8679", "#5ba2d0", "#a78bfa",
+    "#94b8ff", "#9ccfd8", "#f8d2c9", "#dee0ef",
+    "#8d8f9e", "#ee8679", "#5ba2d0", "#a78bfa",
+    "#94b8ff", "#9ccfd8", "#f8d2c9", "#dee0ef",
+]
+cursor = "#6b6d7c"
+cursor-text = "#dee0ef"
+selection-background = "#6b6d7c"
+selection-foreground = "#dee0ef"

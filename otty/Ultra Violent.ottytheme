@@ -1,0 +1,17 @@
+[meta]
+name = "Ultra Violent"
+mode = "dark"
+
+[terminal]
+foreground = "#c1c1c1"
+background = "#242728"
+palette = [
+    "#242728", "#ff0090", "#b6ff00", "#fff727",
+    "#47e0fb", "#d731ff", "#0effbb", "#e1e1e1",
+    "#636667", "#fb58b4", "#deff8c", "#ebe087",
+    "#7fecff", "#e681ff", "#69fcd3", "#f9f9f5",
+]
+cursor = "#c1c1c1"
+cursor-text = "#ffffff"
+selection-background = "#574c49"
+selection-foreground = "#c3c7cb"

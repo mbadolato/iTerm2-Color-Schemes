@@ -1,0 +1,17 @@
+[meta]
+name = "Monokai Pro Octagon"
+mode = "dark"
+
+[terminal]
+foreground = "#eaf2f1"
+background = "#282a3a"
+palette = [
+    "#282a3a", "#ff657a", "#bad761", "#ffd76d",
+    "#ff9b5e", "#c39ac9", "#9cd1bb", "#eaf2f1",
+    "#696d77", "#ff657a", "#bad761", "#ffd76d",
+    "#ff9b5e", "#c39ac9", "#9cd1bb", "#eaf2f1",
+]
+cursor = "#b2b9bd"
+cursor-text = "#f2f9fd"
+selection-background = "#535763"
+selection-foreground = "#eaf2f1"

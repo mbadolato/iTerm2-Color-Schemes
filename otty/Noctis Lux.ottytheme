@@ -1,0 +1,18 @@
+[meta]
+name = "Noctis Lux"
+mode = "light"
+author = "Liviu Schera (https://github.com/liviuschera), ported by Abel Dantas (https://github.com/abeldantas)"
+
+[terminal]
+foreground = "#005661"
+background = "#fef8ec"
+palette = [
+    "#003b42", "#e34e1c", "#00b368", "#f49725",
+    "#0094f0", "#ff5792", "#00bdd6", "#8ca6a6",
+    "#004d57", "#ff4000", "#00d17a", "#ff8c00",
+    "#0fa3ff", "#ff6b9f", "#00cbe6", "#bbc3c4",
+]
+cursor = "#005661"
+cursor-text = "#fef8ec"
+selection-background = "#f4e2b8"
+selection-foreground = "#005661"
