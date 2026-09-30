@@ -1,5 +1,7 @@
 name: "Clear Light"
 variant: "Light"
+# Preserve Apple Terminal authored ANSI values; do not WCAG-darken near-bg colors.
+wcag_adjust: false
 
 color_01: "#2D3840"
 color_02: "#B45648"
