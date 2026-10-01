@@ -654,3 +654,4 @@ The Black Box Recorder theme was created by Mark Badolato.
 The Carbon Paper theme was created by Mark Badolato.
 The Night Pharmacy theme was created by Mark Badolato.
 The Numbers Station theme was created by Mark Badolato.
+The Redacted theme was created by Mark Badolato.
