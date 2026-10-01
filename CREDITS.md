@@ -627,4 +627,12 @@ The Rhoads RR Black theme was created by Mark Badolato.
 The Rhoads LP theme was created by Mark Badolato.
 The Clockwork Gold theme was created by [Clockwork](https://www.clockwork.com), from [ClockworkNet/clockwork-gold](https://github.com/ClockworkNet/clockwork-gold). The palette is human-designed; the YAML source was converted from its Ghostty theme with AI assistance.
 
+The Daybreaker theme was created by Mark Badolato.
+The Horizons theme was created by Mark Badolato.
+||||||| 5a44b4f0a
+The Northstar theme was created by Mark Badolato.
+The Obsurdian theme was created by Mark Badolato.
+The Eventide theme was created by Mark Badolato.
+The Molten Core theme was created by Mark Badolato.
+The Signal Ghost theme was created by Mark Badolato.
 The Icy Glacier theme was created by Mark Badolato.
