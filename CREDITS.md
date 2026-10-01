@@ -659,3 +659,4 @@ The Static Memory theme was created by Mark Badolato.
 The Green Screen theme was created by Mark Badolato.
 The Last Broadcast theme was created by Mark Badolato.
 The Lunar Dust theme was created by Mark Badolato.
+The Motel Vacancy theme was created by Mark Badolato.
