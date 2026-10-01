@@ -639,3 +639,4 @@ The Icy Glacier theme was created by Mark Badolato.
 The Parchment theme was created by Mark Badolato.
 The Solar Flare theme was created by Mark Badolato.
 The Aurora Drift theme was created by Mark Badolato.
+The Frostline theme was created by Mark Badolato.
