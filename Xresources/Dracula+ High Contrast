@@ -1,0 +1,43 @@
+!
+! Dracula+ High Contrast
+!
+*.foreground:  #f8f8f2
+*.background:  #14141a
+*.cursorColor: #eceff4
+!
+! Black
+*.color0:      #9ba0b4
+*.color8:      #9ba1b5
+!
+! Red
+*.color1:      #ff7676
+*.color9:      #ff8a8a
+!
+! Green
+*.color2:      #50fa7b
+*.color10:     #69ff94
+!
+! Yellow
+*.color3:      #ffcb6b
+*.color11:     #ffd98a
+!
+! Blue
+*.color4:      #82aaff
+*.color12:     #d6acff
+!
+! Magenta
+*.color5:      #c792ea
+*.color13:     #ff92df
+!
+! Cyan
+*.color6:      #8be9fd
+*.color14:     #a4ffff
+!
+! White
+*.color7:      #f8f8f2
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Higher-contrast companion to Dracula+ (original by jos3s).
+# Leaves the existing Dracula+ scheme untouched — see iTerm2-Color-Schemes #566.
+# Tuned for Terminal Themes High Contrast (AAA ≥7:1 on FG + Ansi 0–15 vs BG)
+# and preferably CVD-friendly (AA ≥4.5 under protanopia/deuteranopia/tritanopia).
+name: "Dracula+ High Contrast"
+author: "Cursor agent assisting Mark Badolato"
+variant: "dark"
+wcag_adjust: false
+
+color_01: "#9ba0b4"
+color_02: "#ff7676"
+color_03: "#50fa7b"
+color_04: "#ffcb6b"
+color_05: "#82aaff"
+color_06: "#c792ea"
+color_07: "#8be9fd"
+color_08: "#f8f8f2"
+color_09: "#9ba1b5"
+color_10: "#ff8a8a"
+color_11: "#69ff94"
+color_12: "#ffd98a"
+color_13: "#d6acff"
+color_14: "#ff92df"
+color_15: "#a4ffff"
+color_16: "#ffffff"
+
+background: "#14141a"
+foreground: "#f8f8f2"
+cursor: "#eceff4"
+cursor_text: "#14141a"
+selection: "#44475a"
+selection_text: "#f8f8f2"
+bold: "#ffffff"

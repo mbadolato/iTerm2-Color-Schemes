@@ -314,6 +314,8 @@ The Material and MaterialDark themes were created by [stoeffel](https://github.c
 
 MaterialDarker and DraculaPlus themes were added by [jos3s](https://github.com/jos3s)
 
+The Dracula+ High Contrast theme is a higher-contrast companion to Dracula+ (original by [jos3s](https://github.com/jos3s)), created by a Cursor agent assisting Mark Badolato for [iTerm2-Color-Schemes #566](https://github.com/mbadolato/iTerm2-Color-Schemes/issues/566). The original Dracula+ palette is left unchanged.
+
 The MaterialOcean theme was found [here](https://github.com/kaicataldo/material.vim/blob/master/terminal-colors/iterm2/material-ocean.itermcolors) and was ported by [fr3fou](https://github.com/fr3fou)
 
 The MaterialDesignColors theme was created by [MartinSeeler](https://www.martinseeler.com/iterm2-material-design)
