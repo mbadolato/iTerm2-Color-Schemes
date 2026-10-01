@@ -2372,6 +2372,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/daybreak.png)
 
+### Daybreaker
+
+![Screenshot](/screenshots/daybreaker.png)
+
 ### Dayfox
 
 ![Screenshot](/screenshots/dayfox.png)
