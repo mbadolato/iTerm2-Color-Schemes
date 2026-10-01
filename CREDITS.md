@@ -641,3 +641,4 @@ The Solar Flare theme was created by Mark Badolato.
 The Aurora Drift theme was created by Mark Badolato.
 The Frostline theme was created by Mark Badolato.
 The Willow Grove theme was created by Mark Badolato.
+The Cactus Bloom theme was created by Mark Badolato.
