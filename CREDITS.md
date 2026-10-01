@@ -637,3 +637,4 @@ The Molten Core theme was created by Mark Badolato.
 The Signal Ghost theme was created by Mark Badolato.
 The Icy Glacier theme was created by Mark Badolato.
 The Parchment theme was created by Mark Badolato.
+The Solar Flare theme was created by Mark Badolato.
