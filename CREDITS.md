@@ -634,3 +634,4 @@ The Northstar theme was created by Mark Badolato.
 The Obsurdian theme was created by Mark Badolato.
 The Eventide theme was created by Mark Badolato.
 The Molten Core theme was created by Mark Badolato.
+The Signal Ghost theme was created by Mark Badolato.
