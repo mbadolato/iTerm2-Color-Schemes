@@ -652,3 +652,4 @@ The Paper Tiger theme was created by Mark Badolato.
 The Vacuum Tube theme was created by Mark Badolato.
 The Black Box Recorder theme was created by Mark Badolato.
 The Carbon Paper theme was created by Mark Badolato.
+The Night Pharmacy theme was created by Mark Badolato.
