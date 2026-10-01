@@ -644,3 +644,4 @@ The Willow Grove theme was created by Mark Badolato.
 The Cactus Bloom theme was created by Mark Badolato.
 The Ember Peak theme was created by Mark Badolato.
 The Neon Analog theme was created by Mark Badolato.
+The Afterimage theme was created by Mark Badolato.
