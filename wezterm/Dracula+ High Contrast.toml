@@ -1,0 +1,12 @@
+# Dracula+ High Contrast
+[colors]
+foreground = "#f8f8f2"
+background = "#14141a"
+cursor_bg = "#eceff4"
+cursor_border = "#eceff4"
+cursor_fg = "#14141a"
+selection_bg = "#44475a"
+selection_fg = "#f8f8f2"
+
+ansi = ["#9ba0b4","#ff7676","#50fa7b","#ffcb6b","#82aaff","#c792ea","#8be9fd","#f8f8f2"]
+brights = ["#9ba1b5","#ff8a8a","#69ff94","#ffd98a","#d6acff","#ff92df","#a4ffff","#ffffff"]

@@ -1,0 +1,41 @@
+(
+    name: "Dracula+ High Contrast",
+    foreground: "#f8f8f2",
+    background: "#14141a",
+    cursor: "#eceff4",
+    bright_foreground: "#f8f8f2",
+    dim_foreground: "#9ba1b5",
+
+    normal: (
+        black: "#9ba0b4",
+        red: "#ff7676",
+        green: "#50fa7b",
+        yellow: "#ffcb6b",
+        blue: "#82aaff",
+        magenta: "#c792ea",
+        cyan: "#8be9fd",
+        white: "#f8f8f2"
+    ),
+
+    bright: (
+        black: "#9ba1b5",
+        red: "#ff8a8a",
+        green: "#69ff94",
+        yellow: "#ffd98a",
+        blue: "#d6acff",
+        magenta: "#ff92df",
+        cyan: "#a4ffff",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#9ba0b4",
+        red: "#ff7676",
+        green: "#50fa7b",
+        yellow: "#ffcb6b",
+        blue: "#82aaff",
+        magenta: "#c792ea",
+        cyan: "#8be9fd",
+        white: "#f8f8f2"
+    ),
+)

@@ -698,6 +698,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/dracula.png)
 
+### Dracula+ High Contrast
+
+![Screenshot](/screenshots/dracula-high-contrast.png)
+
 ### Dracula
 
 ![Screenshot](/screenshots/dracula.png)

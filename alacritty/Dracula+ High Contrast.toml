@@ -1,0 +1,33 @@
+# Colors (Dracula+ High Contrast)
+
+[colors.bright]
+black = '#9ba1b5'
+blue = '#d6acff'
+cyan = '#a4ffff'
+green = '#69ff94'
+magenta = '#ff92df'
+red = '#ff8a8a'
+white = '#ffffff'
+yellow = '#ffd98a'
+
+[colors.cursor]
+cursor = '#eceff4'
+text = '#14141a'
+
+[colors.normal]
+black = '#9ba0b4'
+blue = '#82aaff'
+cyan = '#8be9fd'
+green = '#50fa7b'
+magenta = '#c792ea'
+red = '#ff7676'
+white = '#f8f8f2'
+yellow = '#ffcb6b'
+
+[colors.primary]
+background = '#14141a'
+foreground = '#f8f8f2'
+
+[colors.selection]
+background = '#44475a'
+text = '#f8f8f2'
