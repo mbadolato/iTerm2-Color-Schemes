@@ -1,0 +1,12 @@
+# Daybreaker
+[colors]
+foreground = "#1e1e1e"
+background = "#fffaf6"
+cursor_bg = "#8a4b00"
+cursor_border = "#8a4b00"
+cursor_fg = "#fffaf6"
+selection_bg = "#e5e1d8"
+selection_fg = "#1e1e1e"
+
+ansi = ["#292929","#9f1717","#075523","#594300","#1452ad","#6f2d9b","#005064","#3d3d3d"]
+brights = ["#555555","#a91e1e","#075923","#5d4700","#16478f","#7434a1","#005369","#484848"]
