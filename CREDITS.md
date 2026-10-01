@@ -635,3 +635,4 @@ The Obsurdian theme was created by Mark Badolato.
 The Eventide theme was created by Mark Badolato.
 The Molten Core theme was created by Mark Badolato.
 The Signal Ghost theme was created by Mark Badolato.
+The Icy Glacier theme was created by Mark Badolato.
