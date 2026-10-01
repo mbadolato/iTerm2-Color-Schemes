@@ -651,3 +651,4 @@ The Ghost Circuit theme was created by Mark Badolato.
 The Paper Tiger theme was created by Mark Badolato.
 The Vacuum Tube theme was created by Mark Badolato.
 The Black Box Recorder theme was created by Mark Badolato.
+The Carbon Paper theme was created by Mark Badolato.
