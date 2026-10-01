@@ -627,4 +627,39 @@ The Rhoads RR Black theme was created by Mark Badolato.
 The Rhoads LP theme was created by Mark Badolato.
 The Clockwork Gold theme was created by [Clockwork](https://www.clockwork.com), from [ClockworkNet/clockwork-gold](https://github.com/ClockworkNet/clockwork-gold). The palette is human-designed; the YAML source was converted from its Ghostty theme with AI assistance.
 
+The Daybreaker theme was created by Mark Badolato.
+The Horizons theme was created by Mark Badolato.
+||||||| 5a44b4f0a
+The Northstar theme was created by Mark Badolato.
+The Obsurdian theme was created by Mark Badolato.
+The Eventide theme was created by Mark Badolato.
+The Molten Core theme was created by Mark Badolato.
+The Signal Ghost theme was created by Mark Badolato.
+The Icy Glacier theme was created by Mark Badolato.
+The Parchment theme was created by Mark Badolato.
+The Solar Flare theme was created by Mark Badolato.
+The Aurora Drift theme was created by Mark Badolato.
+The Frostline theme was created by Mark Badolato.
+The Willow Grove theme was created by Mark Badolato.
+The Cactus Bloom theme was created by Mark Badolato.
+The Ember Peak theme was created by Mark Badolato.
+The Neon Analog theme was created by Mark Badolato.
+The Afterimage theme was created by Mark Badolato.
+The Cold Storage theme was created by Mark Badolato.
+The Dead Letter Office theme was created by Mark Badolato.
+The Ghost Circuit theme was created by Mark Badolato.
+The Paper Tiger theme was created by Mark Badolato.
+The Vacuum Tube theme was created by Mark Badolato.
+The Black Box Recorder theme was created by Mark Badolato.
+The Carbon Paper theme was created by Mark Badolato.
+The Night Pharmacy theme was created by Mark Badolato.
+The Numbers Station theme was created by Mark Badolato.
+The Redacted theme was created by Mark Badolato.
+The Static Memory theme was created by Mark Badolato.
+The Green Screen theme was created by Mark Badolato.
+The Last Broadcast theme was created by Mark Badolato.
+The Lunar Dust theme was created by Mark Badolato.
+The Motel Vacancy theme was created by Mark Badolato.
+The Safety Glass theme was created by Mark Badolato.
+The Thermal Receipt theme was created by Mark Badolato.
 The Evergreen theme was created by Mark Badolato.
