@@ -1,0 +1,43 @@
+!
+! Daybreaker
+!
+*.foreground:  #1e1e1e
+*.background:  #fffaf6
+*.cursorColor: #8a4b00
+!
+! Black
+*.color0:      #292929
+*.color8:      #555555
+!
+! Red
+*.color1:      #9f1717
+*.color9:      #a91e1e
+!
+! Green
+*.color2:      #075523
+*.color10:     #075923
+!
+! Yellow
+*.color3:      #594300
+*.color11:     #5d4700
+!
+! Blue
+*.color4:      #1452ad
+*.color12:     #16478f
+!
+! Magenta
+*.color5:      #6f2d9b
+*.color13:     #7434a1
+!
+! Cyan
+*.color6:      #005064
+*.color14:     #005369
+!
+! White
+*.color7:      #3d3d3d
+*.color15:     #484848
+!
+! Bold, Italic, Underline
+*.colorBD:     #8f3600
+!*.colorIT:
+!*.colorUL:
