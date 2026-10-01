@@ -1,0 +1,17 @@
+[meta]
+name = "Dead Letter Office"
+mode = "dark"
+
+[terminal]
+foreground = "#eef2f6"
+background = "#090d12"
+palette = [
+    "#b8c1cc", "#ff8178", "#79d5a7", "#ffd36a",
+    "#88b6ff", "#dca5ff", "#83dce5", "#eef2f6",
+    "#cbd2da", "#ff9b94", "#9ae2bd", "#ffe18c",
+    "#a9caff", "#e8beff", "#a4e9ef", "#ffffff",
+]
+cursor = "#8fc7ff"
+cursor-text = "#090d12"
+selection-background = "#26313d"
+selection-foreground = "#f7fafc"

@@ -1,0 +1,41 @@
+(
+    name: "Black Box Recorder",
+    foreground: "#f4f1e8",
+    background: "#050608",
+    cursor: "#ffcc33",
+    bright_foreground: "#f4f1e8",
+    dim_foreground: "#cbc8c0",
+
+    normal: (
+        black: "#b9b7b0",
+        red: "#ff806d",
+        green: "#78d19d",
+        yellow: "#f1ca63",
+        blue: "#8cb2ed",
+        magenta: "#d5a0e6",
+        cyan: "#80d3dc",
+        white: "#f4f1e8"
+    ),
+
+    bright: (
+        black: "#cbc8c0",
+        red: "#ff9c8b",
+        green: "#99deb5",
+        yellow: "#f7db86",
+        blue: "#aac7f3",
+        magenta: "#e4b9ed",
+        cyan: "#a1e1e7",
+        white: "#fffdf7"
+    ),
+
+    dim: (
+        black: "#b9b7b0",
+        red: "#ff806d",
+        green: "#78d19d",
+        yellow: "#f1ca63",
+        blue: "#8cb2ed",
+        magenta: "#d5a0e6",
+        cyan: "#80d3dc",
+        white: "#f4f1e8"
+    ),
+)

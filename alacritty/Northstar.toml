@@ -1,0 +1,33 @@
+# Colors (Northstar)
+
+[colors.bright]
+black = '#c1c7d0'
+blue = '#9bbcff'
+cyan = '#91e7ef'
+green = '#8ae3ad'
+magenta = '#e5b0f8'
+red = '#ff8b8e'
+white = '#ffffff'
+yellow = '#ffe38b'
+
+[colors.cursor]
+cursor = '#fcd34d'
+text = '#0b0f1a'
+
+[colors.normal]
+black = '#aeb6c2'
+blue = '#7ea8ff'
+cyan = '#70dce8'
+green = '#6ed99a'
+magenta = '#d79af4'
+red = '#ff6f73'
+white = '#eef2f7'
+yellow = '#f7d66d'
+
+[colors.primary]
+background = '#0b0f1a'
+foreground = '#f5f7fb'
+
+[colors.selection]
+background = '#1f2937'
+text = '#ffffff'

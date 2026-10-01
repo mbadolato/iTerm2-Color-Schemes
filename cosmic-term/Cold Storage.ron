@@ -1,0 +1,41 @@
+(
+    name: "Cold Storage",
+    foreground: "#102235",
+    background: "#f4f9ff",
+    cursor: "#0b5f83",
+    bright_foreground: "#102235",
+    dim_foreground: "#40505f",
+
+    normal: (
+        black: "#29394a",
+        red: "#842121",
+        green: "#0c5935",
+        yellow: "#644b00",
+        blue: "#17468f",
+        magenta: "#5e3188",
+        cyan: "#005969",
+        white: "#3b4b5b"
+    ),
+
+    bright: (
+        black: "#40505f",
+        red: "#902727",
+        green: "#10613b",
+        yellow: "#6c5100",
+        blue: "#123a78",
+        magenta: "#653890",
+        cyan: "#004b59",
+        white: "#455565"
+    ),
+
+    dim: (
+        black: "#29394a",
+        red: "#842121",
+        green: "#0c5935",
+        yellow: "#644b00",
+        blue: "#17468f",
+        magenta: "#5e3188",
+        cyan: "#005969",
+        white: "#3b4b5b"
+    ),
+)

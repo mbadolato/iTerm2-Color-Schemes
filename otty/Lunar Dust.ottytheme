@@ -1,0 +1,17 @@
+[meta]
+name = "Lunar Dust"
+mode = "light"
+
+[terminal]
+foreground = "#20242b"
+background = "#f3f1ed"
+palette = [
+    "#30343b", "#842626", "#165a38", "#654d00",
+    "#17458a", "#603286", "#005765", "#40444b",
+    "#4b4f56", "#902b2b", "#1a603e", "#6d5300",
+    "#123a78", "#67398e", "#004a57", "#484c53",
+]
+cursor = "#48515e"
+cursor-text = "#f3f1ed"
+selection-background = "#d9d6d0"
+selection-foreground = "#20242b"

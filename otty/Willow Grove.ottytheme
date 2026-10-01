@@ -1,0 +1,17 @@
+[meta]
+name = "Willow Grove"
+mode = "light"
+
+[terminal]
+foreground = "#1b1f16"
+background = "#fdfcf5"
+palette = [
+    "#292d27", "#841d1d", "#0b5729", "#624800",
+    "#17478f", "#5d2d87", "#005664", "#3b4038",
+    "#535950", "#902323", "#0b5c2e", "#684e00",
+    "#194d99", "#65358e", "#005e6e", "#454a42",
+]
+cursor = "#0b7285"
+cursor-text = "#fdfcf5"
+selection-background = "#e6ddc6"
+selection-foreground = "#1b1f16"

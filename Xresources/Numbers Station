@@ -1,0 +1,43 @@
+!
+! Numbers Station
+!
+*.foreground:  #f0edf6
+*.background:  #0d0b12
+*.cursorColor: #c5a0ff
+!
+! Black
+*.color0:      #b8b4c1
+*.color8:      #cbc7d2
+!
+! Red
+*.color1:      #f08188
+*.color9:      #f29ca2
+!
+! Green
+*.color2:      #79d0a1
+*.color10:     #98deb7
+!
+! Yellow
+*.color3:      #e9cb69
+*.color11:     #efdc8a
+!
+! Blue
+*.color4:      #88b3e9
+*.color12:     #a7c8f0
+!
+! Magenta
+*.color5:      #d5a2e6
+*.color13:     #e3baed
+!
+! Cyan
+*.color6:      #7bd3da
+*.color14:     #9ce2e5
+!
+! White
+*.color7:      #f0edf6
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #d9a7ff
+!*.colorIT:
+!*.colorUL:

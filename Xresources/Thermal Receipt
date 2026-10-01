@@ -1,0 +1,43 @@
+!
+! Thermal Receipt
+!
+*.foreground:  #191919
+*.background:  #fffdf7
+*.cursorColor: #333333
+!
+! Black
+*.color0:      #292929
+*.color8:      #464646
+!
+! Red
+*.color1:      #821f1f
+*.color9:      #8e2525
+!
+! Green
+*.color2:      #125a31
+*.color10:     #176137
+!
+! Yellow
+*.color3:      #654b00
+*.color11:     #6c5000
+!
+! Blue
+*.color4:      #17458c
+*.color12:     #123a78
+!
+! Magenta
+*.color5:      #5e2f86
+*.color13:     #66368e
+!
+! Cyan
+*.color6:      #005765
+*.color14:     #004a57
+!
+! White
+*.color7:      #393939
+*.color15:     #414141
+!
+! Bold, Italic, Underline
+*.colorBD:     #5b5146
+!*.colorIT:
+!*.colorUL:

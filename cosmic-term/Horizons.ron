@@ -1,0 +1,41 @@
+(
+    name: "Horizons",
+    foreground: "#0f172a",
+    background: "#f8fafc",
+    cursor: "#8a4300",
+    bright_foreground: "#0f172a",
+    dim_foreground: "#536071",
+
+    normal: (
+        black: "#283548",
+        red: "#761515",
+        green: "#126b32",
+        yellow: "#755600",
+        blue: "#174da6",
+        magenta: "#65349a",
+        cyan: "#00657a",
+        white: "#3d4858"
+    ),
+
+    bright: (
+        black: "#536071",
+        red: "#7d1818",
+        green: "#16713a",
+        yellow: "#7a5c00",
+        blue: "#123d82",
+        magenta: "#6c3ca0",
+        cyan: "#006c81",
+        white: "#465264"
+    ),
+
+    dim: (
+        black: "#283548",
+        red: "#761515",
+        green: "#126b32",
+        yellow: "#755600",
+        blue: "#174da6",
+        magenta: "#65349a",
+        cyan: "#00657a",
+        white: "#3d4858"
+    ),
+)

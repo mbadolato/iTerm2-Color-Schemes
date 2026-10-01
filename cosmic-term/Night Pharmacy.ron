@@ -1,0 +1,41 @@
+(
+    name: "Night Pharmacy",
+    foreground: "#ecf5ef",
+    background: "#07100b",
+    cursor: "#7ff0bd",
+    bright_foreground: "#ecf5ef",
+    dim_foreground: "#c4d0c9",
+
+    normal: (
+        black: "#afbeb5",
+        red: "#ef8088",
+        green: "#72d1a0",
+        yellow: "#e6cb69",
+        blue: "#83b3e7",
+        magenta: "#cba0df",
+        cyan: "#72d3d0",
+        white: "#ecf5ef"
+    ),
+
+    bright: (
+        black: "#c4d0c9",
+        red: "#f19ba1",
+        green: "#91dfb7",
+        yellow: "#eddb8b",
+        blue: "#a3c8ef",
+        magenta: "#dabbe8",
+        cyan: "#94e2df",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#afbeb5",
+        red: "#ef8088",
+        green: "#72d1a0",
+        yellow: "#e6cb69",
+        blue: "#83b3e7",
+        magenta: "#cba0df",
+        cyan: "#72d3d0",
+        white: "#ecf5ef"
+    ),
+)

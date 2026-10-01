@@ -1,0 +1,43 @@
+!
+! Cactus Bloom
+!
+*.foreground:  #111a11
+*.background:  #fff9f0
+*.cursorColor: #0b6897
+!
+! Black
+*.color0:      #292d29
+*.color8:      #464c46
+!
+! Red
+*.color1:      #8c1b1b
+*.color9:      #961f1f
+!
+! Green
+*.color2:      #0d5b30
+*.color10:     #106234
+!
+! Yellow
+*.color3:      #684b00
+*.color11:     #704f00
+!
+! Blue
+*.color4:      #174b9a
+*.color12:     #123a78
+!
+! Magenta
+*.color5:      #612d8e
+*.color13:     #693696
+!
+! Cyan
+*.color6:      #005b69
+*.color14:     #004a57
+!
+! White
+*.color7:      #3a403a
+*.color15:     #454b45
+!
+! Bold, Italic, Underline
+*.colorBD:     #c2410c
+!*.colorIT:
+!*.colorUL:

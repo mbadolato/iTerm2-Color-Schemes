@@ -1,0 +1,33 @@
+# Colors (Neon Analog)
+
+[colors.bright]
+black = '#c1cad6'
+blue = '#bdd7f7'
+cyan = '#c8eef0'
+green = '#b9e4c9'
+magenta = '#dfbdf7'
+red = '#ff8ab5'
+white = '#ffffff'
+yellow = '#f8d36d'
+
+[colors.cursor]
+cursor = '#00e5ff'
+text = '#0b0f14'
+
+[colors.normal]
+black = '#aeb8c7'
+blue = '#a8c9f2'
+cyan = '#b8e5e8'
+green = '#a8d8bc'
+magenta = '#d5a6f5'
+red = '#ff6b9d'
+white = '#e6ebf5'
+yellow = '#f5c14d'
+
+[colors.primary]
+background = '#0b0f14'
+foreground = '#e6ebf5'
+
+[colors.selection]
+background = '#1f2a3a'
+text = '#f5f8ff'

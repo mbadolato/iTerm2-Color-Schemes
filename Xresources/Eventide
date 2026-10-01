@@ -1,0 +1,43 @@
+!
+! Eventide
+!
+*.foreground:  #e6edf3
+*.background:  #0b1220
+*.cursorColor: #8ecbff
+!
+! Black
+*.color0:      #aeb8c5
+*.color8:      #c3ccd6
+!
+! Red
+*.color1:      #ff7272
+*.color9:      #ff9292
+!
+! Green
+*.color2:      #62d6a5
+*.color10:     #82e2b8
+!
+! Yellow
+*.color3:      #ffd166
+*.color11:     #ffe08a
+!
+! Blue
+*.color4:      #79aaff
+*.color12:     #9bbdff
+!
+! Magenta
+*.color5:      #c79aff
+*.color13:     #dab6ff
+!
+! Cyan
+*.color6:      #73d9e8
+*.color14:     #96e8f1
+!
+! White
+*.color7:      #e6edf3
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffb000
+!*.colorIT:
+!*.colorUL:

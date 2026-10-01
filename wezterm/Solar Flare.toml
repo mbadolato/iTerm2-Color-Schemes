@@ -1,0 +1,12 @@
+# Solar Flare
+[colors]
+foreground = "#1a1a1a"
+background = "#fff9e6"
+cursor_bg = "#7d3e00"
+cursor_border = "#7d3e00"
+cursor_fg = "#fff9e6"
+selection_bg = "#f5e1a8"
+selection_fg = "#1a1a1a"
+
+ansi = ["#292929","#8d1818","#0f5c2b","#685000","#15479a","#673096","#004b5a","#3a3a37"]
+brights = ["#55534d","#982020","#0b5028","#594500","#1a50a5","#713a9e","#004957","#46443e"]

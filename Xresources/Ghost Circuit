@@ -1,0 +1,43 @@
+!
+! Ghost Circuit
+!
+*.foreground:  #e9f4f0
+*.background:  #07100f
+*.cursorColor: #7ce4df
+!
+! Black
+*.color0:      #aebfba
+*.color8:      #c4d0cc
+!
+! Red
+*.color1:      #ed7f86
+*.color9:      #f09ba0
+!
+! Green
+*.color2:      #72d2a2
+*.color10:     #91dfb8
+!
+! Yellow
+*.color3:      #e7cc69
+*.color11:     #eddc8b
+!
+! Blue
+*.color4:      #82b3e8
+*.color12:     #a2c8ef
+!
+! Magenta
+*.color5:      #caa0df
+*.color13:     #dabbe8
+!
+! Cyan
+*.color6:      #72d3d1
+*.color14:     #94e2df
+!
+! White
+*.color7:      #e9f4f0
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #8fe6c1
+!*.colorIT:
+!*.colorUL:

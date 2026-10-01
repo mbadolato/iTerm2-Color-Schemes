@@ -1,0 +1,43 @@
+!
+! Molten Core
+!
+*.foreground:  #f8f8f2
+*.background:  #0a0908
+*.cursorColor: #ffc37a
+!
+! Black
+*.color0:      #b8b5b0
+*.color8:      #ccc8c1
+!
+! Red
+*.color1:      #ff6b57
+*.color9:      #ff8979
+!
+! Green
+*.color2:      #68d391
+*.color10:     #88e0a8
+!
+! Yellow
+*.color3:      #ffbf47
+*.color11:     #ffd273
+!
+! Blue
+*.color4:      #79aaff
+*.color12:     #9abfff
+!
+! Magenta
+*.color5:      #df83ef
+*.color13:     #eca4f5
+!
+! Cyan
+*.color6:      #70d8e5
+*.color14:     #94e7ef
+!
+! White
+*.color7:      #f8f8f2
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ff8a00
+!*.colorIT:
+!*.colorUL:

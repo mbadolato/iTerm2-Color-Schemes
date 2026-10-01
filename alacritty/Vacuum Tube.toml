@@ -1,0 +1,33 @@
+# Colors (Vacuum Tube)
+
+[colors.bright]
+black = '#cec7bd'
+blue = '#adc8f4'
+cyan = '#a4e2e7'
+green = '#99ddb4'
+magenta = '#e7bbed'
+red = '#ff9e8e'
+white = '#fffaf2'
+yellow = '#f9dc89'
+
+[colors.cursor]
+cursor = '#ffc078'
+text = '#0c0907'
+
+[colors.normal]
+black = '#bdb5aa'
+blue = '#8fb4ee'
+cyan = '#83d3dc'
+green = '#79d09b'
+magenta = '#d9a1e8'
+red = '#ff826d'
+white = '#f7efe3'
+yellow = '#f5cb67'
+
+[colors.primary]
+background = '#0c0907'
+foreground = '#f7efe3'
+
+[colors.selection]
+background = '#35251a'
+text = '#fff4e8'

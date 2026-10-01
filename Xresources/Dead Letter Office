@@ -1,0 +1,43 @@
+!
+! Dead Letter Office
+!
+*.foreground:  #eef2f6
+*.background:  #090d12
+*.cursorColor: #8fc7ff
+!
+! Black
+*.color0:      #b8c1cc
+*.color8:      #cbd2da
+!
+! Red
+*.color1:      #ff8178
+*.color9:      #ff9b94
+!
+! Green
+*.color2:      #79d5a7
+*.color10:     #9ae2bd
+!
+! Yellow
+*.color3:      #ffd36a
+*.color11:     #ffe18c
+!
+! Blue
+*.color4:      #88b6ff
+*.color12:     #a9caff
+!
+! Magenta
+*.color5:      #dca5ff
+*.color13:     #e8beff
+!
+! Cyan
+*.color6:      #83dce5
+*.color14:     #a4e9ef
+!
+! White
+*.color7:      #eef2f6
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffb36b
+!*.colorIT:
+!*.colorUL:

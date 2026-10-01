@@ -1,0 +1,41 @@
+(
+    name: "Evergreen",
+    foreground: "#e9f7ef",
+    background: "#032b1b",
+    cursor: "#7cf0ad",
+    bright_foreground: "#e9f7ef",
+    dim_foreground: "#c5d1cb",
+
+    normal: (
+        black: "#aebfb6",
+        red: "#ff8a82",
+        green: "#82d6a5",
+        yellow: "#f0d16e",
+        blue: "#8bb8ee",
+        magenta: "#d6a5e5",
+        cyan: "#82d7d2",
+        white: "#e9f7ef"
+    ),
+
+    bright: (
+        black: "#c5d1cb",
+        red: "#ffa29b",
+        green: "#a2e2bc",
+        yellow: "#f6df90",
+        blue: "#abcdf4",
+        magenta: "#e5bfed",
+        cyan: "#a3e5e0",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#aebfb6",
+        red: "#ff8a82",
+        green: "#82d6a5",
+        yellow: "#f0d16e",
+        blue: "#8bb8ee",
+        magenta: "#d6a5e5",
+        cyan: "#82d7d2",
+        white: "#e9f7ef"
+    ),
+)

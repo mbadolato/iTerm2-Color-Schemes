@@ -1,0 +1,43 @@
+!
+! Obsurdian
+!
+*.foreground:  #f5f5f5
+*.background:  #0a0a0a
+*.cursorColor: #ffd54a
+!
+! Black
+*.color0:      #b8b8b8
+*.color8:      #c7c7c7
+!
+! Red
+*.color1:      #ff6b6b
+*.color9:      #ff8585
+!
+! Green
+*.color2:      #66d98b
+*.color10:     #82e6a0
+!
+! Yellow
+*.color3:      #ffe37a
+*.color11:     #ffeb96
+!
+! Blue
+*.color4:      #82aaff
+*.color12:     #9abaff
+!
+! Magenta
+*.color5:      #ff8fd1
+*.color13:     #ffa8dc
+!
+! Cyan
+*.color6:      #8be9f4
+*.color14:     #a4f1f7
+!
+! White
+*.color7:      #f0f0f0
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffb000
+!*.colorIT:
+!*.colorUL:

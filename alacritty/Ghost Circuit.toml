@@ -1,0 +1,33 @@
+# Colors (Ghost Circuit)
+
+[colors.bright]
+black = '#c4d0cc'
+blue = '#a2c8ef'
+cyan = '#94e2df'
+green = '#91dfb8'
+magenta = '#dabbe8'
+red = '#f09ba0'
+white = '#ffffff'
+yellow = '#eddc8b'
+
+[colors.cursor]
+cursor = '#7ce4df'
+text = '#07100f'
+
+[colors.normal]
+black = '#aebfba'
+blue = '#82b3e8'
+cyan = '#72d3d1'
+green = '#72d2a2'
+magenta = '#caa0df'
+red = '#ed7f86'
+white = '#e9f4f0'
+yellow = '#e7cc69'
+
+[colors.primary]
+background = '#07100f'
+foreground = '#e9f4f0'
+
+[colors.selection]
+background = '#1d3430'
+text = '#f4fffb'

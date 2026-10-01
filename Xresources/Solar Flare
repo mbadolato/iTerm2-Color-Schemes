@@ -1,0 +1,43 @@
+!
+! Solar Flare
+!
+*.foreground:  #1a1a1a
+*.background:  #fff9e6
+*.cursorColor: #7d3e00
+!
+! Black
+*.color0:      #292929
+*.color8:      #55534d
+!
+! Red
+*.color1:      #8d1818
+*.color9:      #982020
+!
+! Green
+*.color2:      #0f5c2b
+*.color10:     #0b5028
+!
+! Yellow
+*.color3:      #685000
+*.color11:     #594500
+!
+! Blue
+*.color4:      #15479a
+*.color12:     #1a50a5
+!
+! Magenta
+*.color5:      #673096
+*.color13:     #713a9e
+!
+! Cyan
+*.color6:      #004b5a
+*.color14:     #004957
+!
+! White
+*.color7:      #3a3a37
+*.color15:     #46443e
+!
+! Bold, Italic, Underline
+*.colorBD:     #9a3200
+!*.colorIT:
+!*.colorUL:

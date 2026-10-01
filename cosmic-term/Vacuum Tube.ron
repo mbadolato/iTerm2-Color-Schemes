@@ -1,0 +1,41 @@
+(
+    name: "Vacuum Tube",
+    foreground: "#f7efe3",
+    background: "#0c0907",
+    cursor: "#ffc078",
+    bright_foreground: "#f7efe3",
+    dim_foreground: "#cec7bd",
+
+    normal: (
+        black: "#bdb5aa",
+        red: "#ff826d",
+        green: "#79d09b",
+        yellow: "#f5cb67",
+        blue: "#8fb4ee",
+        magenta: "#d9a1e8",
+        cyan: "#83d3dc",
+        white: "#f7efe3"
+    ),
+
+    bright: (
+        black: "#cec7bd",
+        red: "#ff9e8e",
+        green: "#99ddb4",
+        yellow: "#f9dc89",
+        blue: "#adc8f4",
+        magenta: "#e7bbed",
+        cyan: "#a4e2e7",
+        white: "#fffaf2"
+    ),
+
+    dim: (
+        black: "#bdb5aa",
+        red: "#ff826d",
+        green: "#79d09b",
+        yellow: "#f5cb67",
+        blue: "#8fb4ee",
+        magenta: "#d9a1e8",
+        cyan: "#83d3dc",
+        white: "#f7efe3"
+    ),
+)

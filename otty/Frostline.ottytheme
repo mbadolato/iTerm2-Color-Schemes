@@ -1,0 +1,17 @@
+[meta]
+name = "Frostline"
+mode = "light"
+
+[terminal]
+foreground = "#102a43"
+background = "#f7fbff"
+palette = [
+    "#29394a", "#812121", "#0b5934", "#654a00",
+    "#164891", "#5c3189", "#00596a", "#3b4a59",
+    "#536273", "#8d2727", "#0e603a", "#6c5000",
+    "#194f9d", "#653991", "#006173", "#455565",
+]
+cursor = "#0e5f8f"
+cursor-text = "#f7fbff"
+selection-background = "#e2edf7"
+selection-foreground = "#102a43"

@@ -1,0 +1,17 @@
+[meta]
+name = "Thermal Receipt"
+mode = "light"
+
+[terminal]
+foreground = "#191919"
+background = "#fffdf7"
+palette = [
+    "#292929", "#821f1f", "#125a31", "#654b00",
+    "#17458c", "#5e2f86", "#005765", "#393939",
+    "#464646", "#8e2525", "#176137", "#6c5000",
+    "#123a78", "#66368e", "#004a57", "#414141",
+]
+cursor = "#333333"
+cursor-text = "#fffdf7"
+selection-background = "#e7e3da"
+selection-foreground = "#191919"

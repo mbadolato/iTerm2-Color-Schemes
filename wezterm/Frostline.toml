@@ -1,0 +1,12 @@
+# Frostline
+[colors]
+foreground = "#102a43"
+background = "#f7fbff"
+cursor_bg = "#0e5f8f"
+cursor_border = "#0e5f8f"
+cursor_fg = "#f7fbff"
+selection_bg = "#e2edf7"
+selection_fg = "#102a43"
+
+ansi = ["#29394a","#812121","#0b5934","#654a00","#164891","#5c3189","#00596a","#3b4a59"]
+brights = ["#536273","#8d2727","#0e603a","#6c5000","#194f9d","#653991","#006173","#455565"]

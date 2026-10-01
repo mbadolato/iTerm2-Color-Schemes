@@ -1,0 +1,41 @@
+(
+    name: "Ember Peak",
+    foreground: "#f8fafc",
+    background: "#0a0a0f",
+    cursor: "#ffb86b",
+    bright_foreground: "#f8fafc",
+    dim_foreground: "#cbc8c3",
+
+    normal: (
+        black: "#b7b5b2",
+        red: "#ff806f",
+        green: "#65d493",
+        yellow: "#ffd166",
+        blue: "#86b5ff",
+        magenta: "#e29aff",
+        cyan: "#b8e7ef",
+        white: "#f8fafc"
+    ),
+
+    bright: (
+        black: "#cbc8c3",
+        red: "#ff9b8f",
+        green: "#84e0a8",
+        yellow: "#ffe18a",
+        blue: "#a8c9ff",
+        magenta: "#ecb2ff",
+        cyan: "#c5eef4",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#b7b5b2",
+        red: "#ff806f",
+        green: "#65d493",
+        yellow: "#ffd166",
+        blue: "#86b5ff",
+        magenta: "#e29aff",
+        cyan: "#b8e7ef",
+        white: "#f8fafc"
+    ),
+)

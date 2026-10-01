@@ -1,0 +1,33 @@
+# Colors (Night Pharmacy)
+
+[colors.bright]
+black = '#c4d0c9'
+blue = '#a3c8ef'
+cyan = '#94e2df'
+green = '#91dfb7'
+magenta = '#dabbe8'
+red = '#f19ba1'
+white = '#ffffff'
+yellow = '#eddb8b'
+
+[colors.cursor]
+cursor = '#7ff0bd'
+text = '#07100b'
+
+[colors.normal]
+black = '#afbeb5'
+blue = '#83b3e7'
+cyan = '#72d3d0'
+green = '#72d1a0'
+magenta = '#cba0df'
+red = '#ef8088'
+white = '#ecf5ef'
+yellow = '#e6cb69'
+
+[colors.primary]
+background = '#07100b'
+foreground = '#ecf5ef'
+
+[colors.selection]
+background = '#173425'
+text = '#f5fff8'

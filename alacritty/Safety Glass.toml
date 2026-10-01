@@ -1,0 +1,33 @@
+# Colors (Safety Glass)
+
+[colors.bright]
+black = '#465554'
+blue = '#123a78'
+cyan = '#004b57'
+green = '#17603d'
+magenta = '#65388e'
+red = '#902a2a'
+white = '#414f4e'
+yellow = '#6b5200'
+
+[colors.cursor]
+cursor = '#176d67'
+text = '#f2fbfa'
+
+[colors.normal]
+black = '#293837'
+blue = '#17458b'
+cyan = '#005866'
+green = '#125a37'
+magenta = '#5e3186'
+red = '#842424'
+white = '#394847'
+yellow = '#634c00'
+
+[colors.primary]
+background = '#f2fbfa'
+foreground = '#142322'
+
+[colors.selection]
+background = '#d7ebe8'
+text = '#142322'

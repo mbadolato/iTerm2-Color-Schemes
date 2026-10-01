@@ -1,0 +1,43 @@
+!
+! Neon Analog
+!
+*.foreground:  #e6ebf5
+*.background:  #0b0f14
+*.cursorColor: #00e5ff
+!
+! Black
+*.color0:      #aeb8c7
+*.color8:      #c1cad6
+!
+! Red
+*.color1:      #ff6b9d
+*.color9:      #ff8ab5
+!
+! Green
+*.color2:      #a8d8bc
+*.color10:     #b9e4c9
+!
+! Yellow
+*.color3:      #f5c14d
+*.color11:     #f8d36d
+!
+! Blue
+*.color4:      #a8c9f2
+*.color12:     #bdd7f7
+!
+! Magenta
+*.color5:      #d5a6f5
+*.color13:     #dfbdf7
+!
+! Cyan
+*.color6:      #b8e5e8
+*.color14:     #c8eef0
+!
+! White
+*.color7:      #e6ebf5
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ff00c8
+!*.colorIT:
+!*.colorUL:

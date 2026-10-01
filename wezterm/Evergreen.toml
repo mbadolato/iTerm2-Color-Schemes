@@ -1,0 +1,12 @@
+# Evergreen
+[colors]
+foreground = "#e9f7ef"
+background = "#032b1b"
+cursor_bg = "#7cf0ad"
+cursor_border = "#7cf0ad"
+cursor_fg = "#032b1b"
+selection_bg = "#18553a"
+selection_fg = "#f3fff7"
+
+ansi = ["#aebfb6","#ff8a82","#82d6a5","#f0d16e","#8bb8ee","#d6a5e5","#82d7d2","#e9f7ef"]
+brights = ["#c5d1cb","#ffa29b","#a2e2bc","#f6df90","#abcdf4","#e5bfed","#a3e5e0","#ffffff"]

@@ -1,0 +1,33 @@
+# Colors (Horizons)
+
+[colors.bright]
+black = '#536071'
+blue = '#123d82'
+cyan = '#006c81'
+green = '#16713a'
+magenta = '#6c3ca0'
+red = '#7d1818'
+white = '#465264'
+yellow = '#7a5c00'
+
+[colors.cursor]
+cursor = '#8a4300'
+text = '#f8fafc'
+
+[colors.normal]
+black = '#283548'
+blue = '#174da6'
+cyan = '#00657a'
+green = '#126b32'
+magenta = '#65349a'
+red = '#761515'
+white = '#3d4858'
+yellow = '#755600'
+
+[colors.primary]
+background = '#f8fafc'
+foreground = '#0f172a'
+
+[colors.selection]
+background = '#e2e8f0'
+text = '#0f172a'

@@ -1,0 +1,43 @@
+!
+! Carbon Paper
+!
+*.foreground:  #1d2028
+*.background:  #f8f6ed
+*.cursorColor: #31558e
+!
+! Black
+*.color0:      #2c3038
+*.color8:      #474b53
+!
+! Red
+*.color1:      #842424
+*.color9:      #902a2a
+!
+! Green
+*.color2:      #145a37
+*.color10:     #185f3d
+!
+! Yellow
+*.color3:      #654d00
+*.color11:     #6d5300
+!
+! Blue
+*.color4:      #17458b
+*.color12:     #123a78
+!
+! Magenta
+*.color5:      #603187
+*.color13:     #67398f
+!
+! Cyan
+*.color6:      #005866
+*.color14:     #004b57
+!
+! White
+*.color7:      #3c4048
+*.color15:     #454951
+!
+! Bold, Italic, Underline
+*.colorBD:     #294e8c
+!*.colorIT:
+!*.colorUL:

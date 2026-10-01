@@ -124,6 +124,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/aura.png)
 
+### Aurora Drift
+
+![Screenshot](/screenshots/aurora-drift.png)
+
 ### Aurora
 
 ![Screenshot](/screenshots/aurora.png)
@@ -155,6 +159,10 @@ The screenshots are categorized.
 ### Birds Of Paradise
 
 ![Screenshot](/screenshots/birds-of-paradise.png)
+
+### Black Box Recorder
+
+![Screenshot](/screenshots/black-box-recorder.png)
 
 ### Black Metal (Bathory)
 
@@ -432,6 +440,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/datum-dark.png)
 
+### Dead Letter Office
+
+![Screenshot](/screenshots/dead-letter-office.png)
+
 ### Deep Current
 
 ![Screenshot](/screenshots/deep-current.png)
@@ -483,6 +495,10 @@ The screenshots are categorized.
 ### Dot Gov
 
 ![Screenshot](/screenshots/dot-gov.png)
+
+### Dracula+ High Contrast
+
+![Screenshot](/screenshots/dracula-high-contrast.png)
 
 ### Dracula+
 
@@ -536,6 +552,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/embark.png)
 
+### Ember Peak
+
+![Screenshot](/screenshots/ember-peak.png)
+
 ### Ember
 
 ![Screenshot](/screenshots/ember.png)
@@ -564,6 +584,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/espresso.png)
 
+### Eventide
+
+![Screenshot](/screenshots/eventide.png)
+
 ### Everblush
 
 ![Screenshot](/screenshots/everblush.png)
@@ -579,6 +603,10 @@ The screenshots are categorized.
 ### Everforest Dark Soft
 
 ![Screenshot](/screenshots/everforest-dark-soft.png)
+
+### Evergreen
+
+![Screenshot](/screenshots/evergreen.png)
 
 ### EVH FrankenTone
 
@@ -660,6 +688,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/galizur.png)
 
+### Ghost Circuit
+
+![Screenshot](/screenshots/ghost-circuit.png)
+
 ### Ghostty Default Style Dark
 
 ![Screenshot](/screenshots/ghostty-default-style-dark.png)
@@ -719,6 +751,10 @@ The screenshots are categorized.
 ### Green Phosphor CRT
 
 ![Screenshot](/screenshots/green-phosphor-crt.png)
+
+### Green Screen
+
+![Screenshot](/screenshots/green-screen.png)
 
 ### Grey Green
 
@@ -1004,6 +1040,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/laser.png)
 
+### Last Broadcast
+
+![Screenshot](/screenshots/last-broadcast.png)
+
 ### Later This Evening
 
 ![Screenshot](/screenshots/later-this-evening.png)
@@ -1140,6 +1180,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/molokai.png)
 
+### Molten Core
+
+![Screenshot](/screenshots/molten-core.png)
+
 ### Mona Lisa
 
 ![Screenshot](/screenshots/mona-lisa.png)
@@ -1192,6 +1236,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/moonfly.png)
 
+### Motel Vacancy
+
+![Screenshot](/screenshots/motel-vacancy.png)
+
 ### N0Tch2K
 
 ![Screenshot](/screenshots/n0tch2k.png)
@@ -1207,6 +1255,10 @@ The screenshots are categorized.
 ### Neobones Dark
 
 ![Screenshot](/screenshots/neobones-dark.png)
+
+### Neon Analog
+
+![Screenshot](/screenshots/neon-analog.png)
 
 ### Neon Purple
 
@@ -1235,6 +1287,10 @@ The screenshots are categorized.
 ### Night Owl
 
 ![Screenshot](/screenshots/night-owl.png)
+
+### Night Pharmacy
+
+![Screenshot](/screenshots/night-pharmacy.png)
 
 ### Nightfall
 
@@ -1300,9 +1356,17 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/nordfox.png)
 
+### Northstar
+
+![Screenshot](/screenshots/northstar.png)
+
 ### novmbr
 
 ![Screenshot](/screenshots/novmbr.png)
+
+### Numbers Station
+
+![Screenshot](/screenshots/numbers-station.png)
 
 ### Nvim Dark
 
@@ -1311,6 +1375,10 @@ The screenshots are categorized.
 ### Obsidian
 
 ![Screenshot](/screenshots/obsidian.png)
+
+### Obsurdian
+
+![Screenshot](/screenshots/obsurdian.png)
 
 ### Ocean
 
@@ -1656,6 +1724,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/shaman.png)
 
+### Signal Ghost
+
+![Screenshot](/screenshots/signal-ghost.png)
+
 ### SilkCircuit Glow
 
 ![Screenshot](/screenshots/silkcircuit-glow.png)
@@ -1920,6 +1992,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/urple.png)
 
+### Vacuum Tube
+
+![Screenshot](/screenshots/vacuum-tube.png)
+
 ### Vague
 
 ![Screenshot](/screenshots/vague.png)
@@ -2066,6 +2142,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/adwaita.png)
 
+### Afterimage
+
+![Screenshot](/screenshots/afterimage.png)
+
 ### Aizen Light
 
 ![Screenshot](/screenshots/aizen-light.png)
@@ -2114,6 +2194,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/builtin-tango-light.png)
 
+### Cactus Bloom
+
+![Screenshot](/screenshots/cactus-bloom.png)
+
+### Carbon Paper
+
+![Screenshot](/screenshots/carbon-paper.png)
+
 ### Cassette Tape
 
 ![Screenshot](/screenshots/cassette-tape.png)
@@ -2141,6 +2229,10 @@ The screenshots are categorized.
 ### Coffee Theme
 
 ![Screenshot](/screenshots/coffee-theme.png)
+
+### Cold Storage
+
+![Screenshot](/screenshots/cold-storage.png)
 
 ### Cursor Light
 
@@ -2197,6 +2289,10 @@ The screenshots are categorized.
 ### Frostbyte
 
 ![Screenshot](/screenshots/frostbyte.png)
+
+### Frostline
+
+![Screenshot](/screenshots/frostline.png)
 
 ### GitHub Light Colorblind
 
@@ -2258,6 +2354,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/horizon-bright.png)
 
+### Horizons
+
+![Screenshot](/screenshots/horizons.png)
+
 ### Hot Dog Stand (Mustard)
 
 ![Screenshot](/screenshots/hot-dog-stand-mustard.png)
@@ -2265,6 +2365,10 @@ The screenshots are categorized.
 ### Iceberg Light
 
 ![Screenshot](/screenshots/iceberg-light.png)
+
+### Icy Glacier
+
+![Screenshot](/screenshots/icy-glacier.png)
 
 ### Isocon Light
 
@@ -2325,6 +2429,10 @@ The screenshots are categorized.
 ### London Columbia Road
 
 ![Screenshot](/screenshots/london-columbia-road.png)
+
+### Lunar Dust
+
+![Screenshot](/screenshots/lunar-dust.png)
 
 ### Man Page
 
@@ -2422,6 +2530,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/onenord-light.png)
 
+### Paper Tiger
+
+![Screenshot](/screenshots/paper-tiger.png)
+
+### Parchment
+
+![Screenshot](/screenshots/parchment.png)
+
 ### Patina Lichen
 
 ![Screenshot](/screenshots/patina-lichen.png)
@@ -2470,6 +2586,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/raycast-light.png)
 
+### Redacted
+
+![Screenshot](/screenshots/redacted.png)
+
 ### Rhoads Concord
 
 ![Screenshot](/screenshots/rhoads-concord.png)
@@ -2481,6 +2601,10 @@ The screenshots are categorized.
 ### Rose Pine Dawn
 
 ![Screenshot](/screenshots/rose-pine-dawn.png)
+
+### Safety Glass
+
+![Screenshot](/screenshots/safety-glass.png)
 
 ### Sandstone Classic
 
@@ -2550,6 +2674,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/silkcircuit-dawn.png)
 
+### Solar Flare
+
+![Screenshot](/screenshots/solar-flare.png)
+
 ### Spring
 
 ![Screenshot](/screenshots/spring.png)
@@ -2557,6 +2685,10 @@ The screenshots are categorized.
 ### Squintless
 
 ![Screenshot](/screenshots/squintless.png)
+
+### Static Memory
+
+![Screenshot](/screenshots/static-memory.png)
 
 ### Sumi Linen
 
@@ -2573,6 +2705,10 @@ The screenshots are categorized.
 ### Terminal Basic
 
 ![Screenshot](/screenshots/terminal-basic.png)
+
+### Thermal Receipt
+
+![Screenshot](/screenshots/thermal-receipt.png)
 
 ### Tinacious Design Light
 
@@ -2605,6 +2741,10 @@ The screenshots are categorized.
 ### Warm Burnout Light
 
 ![Screenshot](/screenshots/warm-burnout-light.png)
+
+### Willow Grove
+
+![Screenshot](/screenshots/willow-grove.png)
 
 ### X Helsinki
 

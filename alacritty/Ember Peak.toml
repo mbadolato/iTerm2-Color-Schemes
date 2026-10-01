@@ -1,0 +1,33 @@
+# Colors (Ember Peak)
+
+[colors.bright]
+black = '#cbc8c3'
+blue = '#a8c9ff'
+cyan = '#c5eef4'
+green = '#84e0a8'
+magenta = '#ecb2ff'
+red = '#ff9b8f'
+white = '#ffffff'
+yellow = '#ffe18a'
+
+[colors.cursor]
+cursor = '#ffb86b'
+text = '#1a0f08'
+
+[colors.normal]
+black = '#b7b5b2'
+blue = '#86b5ff'
+cyan = '#b8e7ef'
+green = '#65d493'
+magenta = '#e29aff'
+red = '#ff806f'
+white = '#f8fafc'
+yellow = '#ffd166'
+
+[colors.primary]
+background = '#0a0a0f'
+foreground = '#f8fafc'
+
+[colors.selection]
+background = '#2b1f16'
+text = '#fff1df'

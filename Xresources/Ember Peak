@@ -1,0 +1,43 @@
+!
+! Ember Peak
+!
+*.foreground:  #f8fafc
+*.background:  #0a0a0f
+*.cursorColor: #ffb86b
+!
+! Black
+*.color0:      #b7b5b2
+*.color8:      #cbc8c3
+!
+! Red
+*.color1:      #ff806f
+*.color9:      #ff9b8f
+!
+! Green
+*.color2:      #65d493
+*.color10:     #84e0a8
+!
+! Yellow
+*.color3:      #ffd166
+*.color11:     #ffe18a
+!
+! Blue
+*.color4:      #86b5ff
+*.color12:     #a8c9ff
+!
+! Magenta
+*.color5:      #e29aff
+*.color13:     #ecb2ff
+!
+! Cyan
+*.color6:      #b8e7ef
+*.color14:     #c5eef4
+!
+! White
+*.color7:      #f8fafc
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ff9b3d
+!*.colorIT:
+!*.colorUL:

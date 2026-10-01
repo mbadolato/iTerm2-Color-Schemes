@@ -1,0 +1,41 @@
+(
+    name: "Afterimage",
+    foreground: "#211522",
+    background: "#fff7fb",
+    cursor: "#6f356e",
+    bright_foreground: "#211522",
+    dim_foreground: "#504650",
+
+    normal: (
+        black: "#332a33",
+        red: "#881f3b",
+        green: "#175b36",
+        yellow: "#695000",
+        blue: "#1a478e",
+        magenta: "#623080",
+        cyan: "#005765",
+        white: "#403640"
+    ),
+
+    bright: (
+        black: "#504650",
+        red: "#932746",
+        green: "#155735",
+        yellow: "#624900",
+        blue: "#143b77",
+        magenta: "#693889",
+        cyan: "#004956",
+        white: "#4a404a"
+    ),
+
+    dim: (
+        black: "#332a33",
+        red: "#881f3b",
+        green: "#175b36",
+        yellow: "#695000",
+        blue: "#1a478e",
+        magenta: "#623080",
+        cyan: "#005765",
+        white: "#403640"
+    ),
+)

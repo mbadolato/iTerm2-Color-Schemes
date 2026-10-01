@@ -1,0 +1,33 @@
+# Colors (Redacted)
+
+[colors.bright]
+black = '#464646'
+blue = '#123a78'
+cyan = '#004a57'
+green = '#176238'
+magenta = '#66368e'
+red = '#8d2424'
+white = '#414141'
+yellow = '#6c5000'
+
+[colors.cursor]
+cursor = '#202020'
+text = '#fffdf8'
+
+[colors.normal]
+black = '#292929'
+blue = '#17458d'
+cyan = '#005766'
+green = '#125b31'
+magenta = '#5e2e86'
+red = '#821e1e'
+white = '#393939'
+yellow = '#654b00'
+
+[colors.primary]
+background = '#fffdf8'
+foreground = '#171717'
+
+[colors.selection]
+background = '#e8e4dc'
+text = '#171717'

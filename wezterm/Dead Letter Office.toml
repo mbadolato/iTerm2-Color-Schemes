@@ -1,0 +1,12 @@
+# Dead Letter Office
+[colors]
+foreground = "#eef2f6"
+background = "#090d12"
+cursor_bg = "#8fc7ff"
+cursor_border = "#8fc7ff"
+cursor_fg = "#090d12"
+selection_bg = "#26313d"
+selection_fg = "#f7fafc"
+
+ansi = ["#b8c1cc","#ff8178","#79d5a7","#ffd36a","#88b6ff","#dca5ff","#83dce5","#eef2f6"]
+brights = ["#cbd2da","#ff9b94","#9ae2bd","#ffe18c","#a9caff","#e8beff","#a4e9ef","#ffffff"]

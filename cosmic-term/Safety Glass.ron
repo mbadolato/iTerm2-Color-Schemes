@@ -1,0 +1,41 @@
+(
+    name: "Safety Glass",
+    foreground: "#142322",
+    background: "#f2fbfa",
+    cursor: "#176d67",
+    bright_foreground: "#142322",
+    dim_foreground: "#465554",
+
+    normal: (
+        black: "#293837",
+        red: "#842424",
+        green: "#125a37",
+        yellow: "#634c00",
+        blue: "#17458b",
+        magenta: "#5e3186",
+        cyan: "#005866",
+        white: "#394847"
+    ),
+
+    bright: (
+        black: "#465554",
+        red: "#902a2a",
+        green: "#17603d",
+        yellow: "#6b5200",
+        blue: "#123a78",
+        magenta: "#65388e",
+        cyan: "#004b57",
+        white: "#414f4e"
+    ),
+
+    dim: (
+        black: "#293837",
+        red: "#842424",
+        green: "#125a37",
+        yellow: "#634c00",
+        blue: "#17458b",
+        magenta: "#5e3186",
+        cyan: "#005866",
+        white: "#394847"
+    ),
+)

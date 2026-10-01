@@ -1,0 +1,33 @@
+# Colors (Numbers Station)
+
+[colors.bright]
+black = '#cbc7d2'
+blue = '#a7c8f0'
+cyan = '#9ce2e5'
+green = '#98deb7'
+magenta = '#e3baed'
+red = '#f29ca2'
+white = '#ffffff'
+yellow = '#efdc8a'
+
+[colors.cursor]
+cursor = '#c5a0ff'
+text = '#0d0b12'
+
+[colors.normal]
+black = '#b8b4c1'
+blue = '#88b3e9'
+cyan = '#7bd3da'
+green = '#79d0a1'
+magenta = '#d5a2e6'
+red = '#f08188'
+white = '#f0edf6'
+yellow = '#e9cb69'
+
+[colors.primary]
+background = '#0d0b12'
+foreground = '#f0edf6'
+
+[colors.selection]
+background = '#30283b'
+text = '#fbf8ff'

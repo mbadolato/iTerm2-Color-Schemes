@@ -1,0 +1,33 @@
+# Colors (Parchment)
+
+[colors.bright]
+black = '#55514b'
+blue = '#123a78'
+cyan = '#004957'
+green = '#084d2a'
+magenta = '#523073'
+red = '#922323'
+white = '#47433e'
+yellow = '#594500'
+
+[colors.cursor]
+cursor = '#7a5700'
+text = '#fffaf0'
+
+[colors.normal]
+black = '#292929'
+blue = '#164a9b'
+cyan = '#004a58'
+green = '#0d6030'
+magenta = '#663194'
+red = '#851c1c'
+white = '#3c3a36'
+yellow = '#685000'
+
+[colors.primary]
+background = '#fdf7e7'
+foreground = '#1a1a1a'
+
+[colors.selection]
+background = '#e5dcc3'
+text = '#1a1a1a'

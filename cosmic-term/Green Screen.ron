@@ -1,0 +1,41 @@
+(
+    name: "Green Screen",
+    foreground: "#dff7e8",
+    background: "#031009",
+    cursor: "#8af0b4",
+    bright_foreground: "#dff7e8",
+    dim_foreground: "#c0cec5",
+
+    normal: (
+        black: "#a9bdb0",
+        red: "#ed8087",
+        green: "#70d19c",
+        yellow: "#e5cc69",
+        blue: "#82b3e7",
+        magenta: "#c99fdf",
+        cyan: "#70d2ce",
+        white: "#dff7e8"
+    ),
+
+    bright: (
+        black: "#c0cec5",
+        red: "#f09ba1",
+        green: "#90dfb4",
+        yellow: "#ecdc8b",
+        blue: "#a1c8ef",
+        magenta: "#d9bae8",
+        cyan: "#92e1dc",
+        white: "#f6fff9"
+    ),
+
+    dim: (
+        black: "#a9bdb0",
+        red: "#ed8087",
+        green: "#70d19c",
+        yellow: "#e5cc69",
+        blue: "#82b3e7",
+        magenta: "#c99fdf",
+        cyan: "#70d2ce",
+        white: "#dff7e8"
+    ),
+)

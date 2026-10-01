@@ -1,0 +1,41 @@
+(
+    name: "Last Broadcast",
+    foreground: "#f2efe8",
+    background: "#08090d",
+    cursor: "#ffca72",
+    bright_foreground: "#f2efe8",
+    dim_foreground: "#cac7c1",
+
+    normal: (
+        black: "#b7b5b0",
+        red: "#ff806f",
+        green: "#79d09e",
+        yellow: "#efcb69",
+        blue: "#8bb4ed",
+        magenta: "#d5a2e5",
+        cyan: "#80d3da",
+        white: "#f2efe8"
+    ),
+
+    bright: (
+        black: "#cac7c1",
+        red: "#ff9c8d",
+        green: "#99ddb5",
+        yellow: "#f6dc8b",
+        blue: "#aac9f3",
+        magenta: "#e4bbed",
+        cyan: "#a2e1e5",
+        white: "#fffdf8"
+    ),
+
+    dim: (
+        black: "#b7b5b0",
+        red: "#ff806f",
+        green: "#79d09e",
+        yellow: "#efcb69",
+        blue: "#8bb4ed",
+        magenta: "#d5a2e5",
+        cyan: "#80d3da",
+        white: "#f2efe8"
+    ),
+)

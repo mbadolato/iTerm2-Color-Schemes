@@ -1,0 +1,43 @@
+!
+! Aurora Drift
+!
+*.foreground:  #e6f1ff
+*.background:  #050814
+*.cursorColor: #00e5ff
+!
+! Black
+*.color0:      #aab7c8
+*.color8:      #c0cad6
+!
+! Red
+*.color1:      #ff6b6b
+*.color9:      #ff8b8b
+!
+! Green
+*.color2:      #5fd9ad
+*.color10:     #80e5bd
+!
+! Yellow
+*.color3:      #ffd166
+*.color11:     #ffe28a
+!
+! Blue
+*.color4:      #6ea8ff
+*.color12:     #91bdff
+!
+! Magenta
+*.color5:      #c58cff
+*.color13:     #d9adff
+!
+! Cyan
+*.color6:      #54ddeb
+*.color14:     #7be9f2
+!
+! White
+*.color7:      #e6f1ff
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #7aa2ff
+!*.colorIT:
+!*.colorUL:

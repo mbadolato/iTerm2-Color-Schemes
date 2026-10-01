@@ -1,0 +1,33 @@
+# Colors (Paper Tiger)
+
+[colors.bright]
+black = '#4b4943'
+blue = '#123a78'
+cyan = '#004a57'
+green = '#106234'
+magenta = '#68368f'
+red = '#922525'
+white = '#45433e'
+yellow = '#704f00'
+
+[colors.cursor]
+cursor = '#725000'
+text = '#fffaf0'
+
+[colors.normal]
+black = '#2b2b29'
+blue = '#17468f'
+cyan = '#005968'
+green = '#0d5b30'
+magenta = '#602f88'
+red = '#861f1f'
+white = '#3c3a35'
+yellow = '#674b00'
+
+[colors.primary]
+background = '#fffaf0'
+foreground = '#181818'
+
+[colors.selection]
+background = '#eadfc8'
+text = '#181818'

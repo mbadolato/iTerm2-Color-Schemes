@@ -1,0 +1,33 @@
+# Colors (Last Broadcast)
+
+[colors.bright]
+black = '#cac7c1'
+blue = '#aac9f3'
+cyan = '#a2e1e5'
+green = '#99ddb5'
+magenta = '#e4bbed'
+red = '#ff9c8d'
+white = '#fffdf8'
+yellow = '#f6dc8b'
+
+[colors.cursor]
+cursor = '#ffca72'
+text = '#08090d'
+
+[colors.normal]
+black = '#b7b5b0'
+blue = '#8bb4ed'
+cyan = '#80d3da'
+green = '#79d09e'
+magenta = '#d5a2e5'
+red = '#ff806f'
+white = '#f2efe8'
+yellow = '#efcb69'
+
+[colors.primary]
+background = '#08090d'
+foreground = '#f2efe8'
+
+[colors.selection]
+background = '#30281d'
+text = '#fff8eb'

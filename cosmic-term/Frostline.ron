@@ -1,0 +1,41 @@
+(
+    name: "Frostline",
+    foreground: "#102a43",
+    background: "#f7fbff",
+    cursor: "#0e5f8f",
+    bright_foreground: "#102a43",
+    dim_foreground: "#536273",
+
+    normal: (
+        black: "#29394a",
+        red: "#812121",
+        green: "#0b5934",
+        yellow: "#654a00",
+        blue: "#164891",
+        magenta: "#5c3189",
+        cyan: "#00596a",
+        white: "#3b4a59"
+    ),
+
+    bright: (
+        black: "#536273",
+        red: "#8d2727",
+        green: "#0e603a",
+        yellow: "#6c5000",
+        blue: "#194f9d",
+        magenta: "#653991",
+        cyan: "#006173",
+        white: "#455565"
+    ),
+
+    dim: (
+        black: "#29394a",
+        red: "#812121",
+        green: "#0b5934",
+        yellow: "#654a00",
+        blue: "#164891",
+        magenta: "#5c3189",
+        cyan: "#00596a",
+        white: "#3b4a59"
+    ),
+)

@@ -1,0 +1,12 @@
+# Last Broadcast
+[colors]
+foreground = "#f2efe8"
+background = "#08090d"
+cursor_bg = "#ffca72"
+cursor_border = "#ffca72"
+cursor_fg = "#08090d"
+selection_bg = "#30281d"
+selection_fg = "#fff8eb"
+
+ansi = ["#b7b5b0","#ff806f","#79d09e","#efcb69","#8bb4ed","#d5a2e5","#80d3da","#f2efe8"]
+brights = ["#cac7c1","#ff9c8d","#99ddb5","#f6dc8b","#aac9f3","#e4bbed","#a2e1e5","#fffdf8"]

@@ -1,0 +1,33 @@
+# Colors (Cactus Bloom)
+
+[colors.bright]
+black = '#464c46'
+blue = '#123a78'
+cyan = '#004a57'
+green = '#106234'
+magenta = '#693696'
+red = '#961f1f'
+white = '#454b45'
+yellow = '#704f00'
+
+[colors.cursor]
+cursor = '#0b6897'
+text = '#fff9f0'
+
+[colors.normal]
+black = '#292d29'
+blue = '#174b9a'
+cyan = '#005b69'
+green = '#0d5b30'
+magenta = '#612d8e'
+red = '#8c1b1b'
+white = '#3a403a'
+yellow = '#684b00'
+
+[colors.primary]
+background = '#fff9f0'
+foreground = '#111a11'
+
+[colors.selection]
+background = '#f1dcc4'
+text = '#111a11'

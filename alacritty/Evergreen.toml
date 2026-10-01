@@ -1,0 +1,33 @@
+# Colors (Evergreen)
+
+[colors.bright]
+black = '#c5d1cb'
+blue = '#abcdf4'
+cyan = '#a3e5e0'
+green = '#a2e2bc'
+magenta = '#e5bfed'
+red = '#ffa29b'
+white = '#ffffff'
+yellow = '#f6df90'
+
+[colors.cursor]
+cursor = '#7cf0ad'
+text = '#032b1b'
+
+[colors.normal]
+black = '#aebfb6'
+blue = '#8bb8ee'
+cyan = '#82d7d2'
+green = '#82d6a5'
+magenta = '#d6a5e5'
+red = '#ff8a82'
+white = '#e9f7ef'
+yellow = '#f0d16e'
+
+[colors.primary]
+background = '#032b1b'
+foreground = '#e9f7ef'
+
+[colors.selection]
+background = '#18553a'
+text = '#f3fff7'

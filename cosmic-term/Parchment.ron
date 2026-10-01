@@ -1,0 +1,41 @@
+(
+    name: "Parchment",
+    foreground: "#1a1a1a",
+    background: "#fdf7e7",
+    cursor: "#7a5700",
+    bright_foreground: "#1a1a1a",
+    dim_foreground: "#55514b",
+
+    normal: (
+        black: "#292929",
+        red: "#851c1c",
+        green: "#0d6030",
+        yellow: "#685000",
+        blue: "#164a9b",
+        magenta: "#663194",
+        cyan: "#004a58",
+        white: "#3c3a36"
+    ),
+
+    bright: (
+        black: "#55514b",
+        red: "#922323",
+        green: "#084d2a",
+        yellow: "#594500",
+        blue: "#123a78",
+        magenta: "#523073",
+        cyan: "#004957",
+        white: "#47433e"
+    ),
+
+    dim: (
+        black: "#292929",
+        red: "#851c1c",
+        green: "#0d6030",
+        yellow: "#685000",
+        blue: "#164a9b",
+        magenta: "#663194",
+        cyan: "#004a58",
+        white: "#3c3a36"
+    ),
+)

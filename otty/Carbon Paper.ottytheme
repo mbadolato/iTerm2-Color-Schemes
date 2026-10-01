@@ -1,0 +1,17 @@
+[meta]
+name = "Carbon Paper"
+mode = "light"
+
+[terminal]
+foreground = "#1d2028"
+background = "#f8f6ed"
+palette = [
+    "#2c3038", "#842424", "#145a37", "#654d00",
+    "#17458b", "#603187", "#005866", "#3c4048",
+    "#474b53", "#902a2a", "#185f3d", "#6d5300",
+    "#123a78", "#67398f", "#004b57", "#454951",
+]
+cursor = "#31558e"
+cursor-text = "#f8f6ed"
+selection-background = "#ddd9cb"
+selection-foreground = "#1d2028"

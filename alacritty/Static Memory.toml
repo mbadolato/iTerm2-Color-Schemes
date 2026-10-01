@@ -1,0 +1,33 @@
+# Colors (Static Memory)
+
+[colors.bright]
+black = '#484e4d'
+blue = '#123a78'
+cyan = '#004b57'
+green = '#18603e'
+magenta = '#67388f'
+red = '#912929'
+white = '#464c4b'
+yellow = '#6d5300'
+
+[colors.cursor]
+cursor = '#386b68'
+text = '#f7f8f6'
+
+[colors.normal]
+black = '#2c3231'
+blue = '#17468d'
+cyan = '#005866'
+green = '#145b38'
+magenta = '#603087'
+red = '#852323'
+white = '#3d4342'
+yellow = '#654d00'
+
+[colors.primary]
+background = '#f7f8f6'
+foreground = '#1b2020'
+
+[colors.selection]
+background = '#dde3e0'
+text = '#1b2020'

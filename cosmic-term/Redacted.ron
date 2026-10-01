@@ -1,0 +1,41 @@
+(
+    name: "Redacted",
+    foreground: "#171717",
+    background: "#fffdf8",
+    cursor: "#202020",
+    bright_foreground: "#171717",
+    dim_foreground: "#464646",
+
+    normal: (
+        black: "#292929",
+        red: "#821e1e",
+        green: "#125b31",
+        yellow: "#654b00",
+        blue: "#17458d",
+        magenta: "#5e2e86",
+        cyan: "#005766",
+        white: "#393939"
+    ),
+
+    bright: (
+        black: "#464646",
+        red: "#8d2424",
+        green: "#176238",
+        yellow: "#6c5000",
+        blue: "#123a78",
+        magenta: "#66368e",
+        cyan: "#004a57",
+        white: "#414141"
+    ),
+
+    dim: (
+        black: "#292929",
+        red: "#821e1e",
+        green: "#125b31",
+        yellow: "#654b00",
+        blue: "#17458d",
+        magenta: "#5e2e86",
+        cyan: "#005766",
+        white: "#393939"
+    ),
+)

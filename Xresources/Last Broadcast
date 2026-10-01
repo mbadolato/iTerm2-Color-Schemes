@@ -1,0 +1,43 @@
+!
+! Last Broadcast
+!
+*.foreground:  #f2efe8
+*.background:  #08090d
+*.cursorColor: #ffca72
+!
+! Black
+*.color0:      #b7b5b0
+*.color8:      #cac7c1
+!
+! Red
+*.color1:      #ff806f
+*.color9:      #ff9c8d
+!
+! Green
+*.color2:      #79d09e
+*.color10:     #99ddb5
+!
+! Yellow
+*.color3:      #efcb69
+*.color11:     #f6dc8b
+!
+! Blue
+*.color4:      #8bb4ed
+*.color12:     #aac9f3
+!
+! Magenta
+*.color5:      #d5a2e5
+*.color13:     #e4bbed
+!
+! Cyan
+*.color6:      #80d3da
+*.color14:     #a2e1e5
+!
+! White
+*.color7:      #f2efe8
+*.color15:     #fffdf8
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffb454
+!*.colorIT:
+!*.colorUL:

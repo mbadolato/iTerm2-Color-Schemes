@@ -1,0 +1,12 @@
+# Thermal Receipt
+[colors]
+foreground = "#191919"
+background = "#fffdf7"
+cursor_bg = "#333333"
+cursor_border = "#333333"
+cursor_fg = "#fffdf7"
+selection_bg = "#e7e3da"
+selection_fg = "#191919"
+
+ansi = ["#292929","#821f1f","#125a31","#654b00","#17458c","#5e2f86","#005765","#393939"]
+brights = ["#464646","#8e2525","#176137","#6c5000","#123a78","#66368e","#004a57","#414141"]

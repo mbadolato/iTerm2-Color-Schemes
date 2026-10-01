@@ -1,0 +1,33 @@
+# Colors (Thermal Receipt)
+
+[colors.bright]
+black = '#464646'
+blue = '#123a78'
+cyan = '#004a57'
+green = '#176137'
+magenta = '#66368e'
+red = '#8e2525'
+white = '#414141'
+yellow = '#6c5000'
+
+[colors.cursor]
+cursor = '#333333'
+text = '#fffdf7'
+
+[colors.normal]
+black = '#292929'
+blue = '#17458c'
+cyan = '#005765'
+green = '#125a31'
+magenta = '#5e2f86'
+red = '#821f1f'
+white = '#393939'
+yellow = '#654b00'
+
+[colors.primary]
+background = '#fffdf7'
+foreground = '#191919'
+
+[colors.selection]
+background = '#e7e3da'
+text = '#191919'

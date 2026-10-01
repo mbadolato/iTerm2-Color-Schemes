@@ -1,0 +1,41 @@
+(
+    name: "Lunar Dust",
+    foreground: "#20242b",
+    background: "#f3f1ed",
+    cursor: "#48515e",
+    bright_foreground: "#20242b",
+    dim_foreground: "#4b4f56",
+
+    normal: (
+        black: "#30343b",
+        red: "#842626",
+        green: "#165a38",
+        yellow: "#654d00",
+        blue: "#17458a",
+        magenta: "#603286",
+        cyan: "#005765",
+        white: "#40444b"
+    ),
+
+    bright: (
+        black: "#4b4f56",
+        red: "#902b2b",
+        green: "#1a603e",
+        yellow: "#6d5300",
+        blue: "#123a78",
+        magenta: "#67398e",
+        cyan: "#004a57",
+        white: "#484c53"
+    ),
+
+    dim: (
+        black: "#30343b",
+        red: "#842626",
+        green: "#165a38",
+        yellow: "#654d00",
+        blue: "#17458a",
+        magenta: "#603286",
+        cyan: "#005765",
+        white: "#40444b"
+    ),
+)

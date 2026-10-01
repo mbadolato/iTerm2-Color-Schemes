@@ -1,0 +1,43 @@
+!
+! Parchment
+!
+*.foreground:  #1a1a1a
+*.background:  #fdf7e7
+*.cursorColor: #7a5700
+!
+! Black
+*.color0:      #292929
+*.color8:      #55514b
+!
+! Red
+*.color1:      #851c1c
+*.color9:      #922323
+!
+! Green
+*.color2:      #0d6030
+*.color10:     #084d2a
+!
+! Yellow
+*.color3:      #685000
+*.color11:     #594500
+!
+! Blue
+*.color4:      #164a9b
+*.color12:     #123a78
+!
+! Magenta
+*.color5:      #663194
+*.color13:     #523073
+!
+! Cyan
+*.color6:      #004a58
+*.color14:     #004957
+!
+! White
+*.color7:      #3c3a36
+*.color15:     #47433e
+!
+! Bold, Italic, Underline
+*.colorBD:     #8a4b00
+!*.colorIT:
+!*.colorUL:

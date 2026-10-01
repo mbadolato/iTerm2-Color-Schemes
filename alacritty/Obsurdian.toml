@@ -1,0 +1,33 @@
+# Colors (Obsurdian)
+
+[colors.bright]
+black = '#c7c7c7'
+blue = '#9abaff'
+cyan = '#a4f1f7'
+green = '#82e6a0'
+magenta = '#ffa8dc'
+red = '#ff8585'
+white = '#ffffff'
+yellow = '#ffeb96'
+
+[colors.cursor]
+cursor = '#ffd54a'
+text = '#0a0a0a'
+
+[colors.normal]
+black = '#b8b8b8'
+blue = '#82aaff'
+cyan = '#8be9f4'
+green = '#66d98b'
+magenta = '#ff8fd1'
+red = '#ff6b6b'
+white = '#f0f0f0'
+yellow = '#ffe37a'
+
+[colors.primary]
+background = '#0a0a0a'
+foreground = '#f5f5f5'
+
+[colors.selection]
+background = '#3a3a3a'
+text = '#ffffff'

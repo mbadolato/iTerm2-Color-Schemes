@@ -1,0 +1,41 @@
+(
+    name: "Molten Core",
+    foreground: "#f8f8f2",
+    background: "#0a0908",
+    cursor: "#ffc37a",
+    bright_foreground: "#f8f8f2",
+    dim_foreground: "#ccc8c1",
+
+    normal: (
+        black: "#b8b5b0",
+        red: "#ff6b57",
+        green: "#68d391",
+        yellow: "#ffbf47",
+        blue: "#79aaff",
+        magenta: "#df83ef",
+        cyan: "#70d8e5",
+        white: "#f8f8f2"
+    ),
+
+    bright: (
+        black: "#ccc8c1",
+        red: "#ff8979",
+        green: "#88e0a8",
+        yellow: "#ffd273",
+        blue: "#9abfff",
+        magenta: "#eca4f5",
+        cyan: "#94e7ef",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#b8b5b0",
+        red: "#ff6b57",
+        green: "#68d391",
+        yellow: "#ffbf47",
+        blue: "#79aaff",
+        magenta: "#df83ef",
+        cyan: "#70d8e5",
+        white: "#f8f8f2"
+    ),
+)

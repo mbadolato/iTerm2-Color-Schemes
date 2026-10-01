@@ -1,0 +1,41 @@
+(
+    name: "Willow Grove",
+    foreground: "#1b1f16",
+    background: "#fdfcf5",
+    cursor: "#0b7285",
+    bright_foreground: "#1b1f16",
+    dim_foreground: "#535950",
+
+    normal: (
+        black: "#292d27",
+        red: "#841d1d",
+        green: "#0b5729",
+        yellow: "#624800",
+        blue: "#17478f",
+        magenta: "#5d2d87",
+        cyan: "#005664",
+        white: "#3b4038"
+    ),
+
+    bright: (
+        black: "#535950",
+        red: "#902323",
+        green: "#0b5c2e",
+        yellow: "#684e00",
+        blue: "#194d99",
+        magenta: "#65358e",
+        cyan: "#005e6e",
+        white: "#454a42"
+    ),
+
+    dim: (
+        black: "#292d27",
+        red: "#841d1d",
+        green: "#0b5729",
+        yellow: "#624800",
+        blue: "#17478f",
+        magenta: "#5d2d87",
+        cyan: "#005664",
+        white: "#3b4038"
+    ),
+)

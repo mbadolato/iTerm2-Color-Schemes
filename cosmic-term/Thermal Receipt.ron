@@ -1,0 +1,41 @@
+(
+    name: "Thermal Receipt",
+    foreground: "#191919",
+    background: "#fffdf7",
+    cursor: "#333333",
+    bright_foreground: "#191919",
+    dim_foreground: "#464646",
+
+    normal: (
+        black: "#292929",
+        red: "#821f1f",
+        green: "#125a31",
+        yellow: "#654b00",
+        blue: "#17458c",
+        magenta: "#5e2f86",
+        cyan: "#005765",
+        white: "#393939"
+    ),
+
+    bright: (
+        black: "#464646",
+        red: "#8e2525",
+        green: "#176137",
+        yellow: "#6c5000",
+        blue: "#123a78",
+        magenta: "#66368e",
+        cyan: "#004a57",
+        white: "#414141"
+    ),
+
+    dim: (
+        black: "#292929",
+        red: "#821f1f",
+        green: "#125a31",
+        yellow: "#654b00",
+        blue: "#17458c",
+        magenta: "#5e2f86",
+        cyan: "#005765",
+        white: "#393939"
+    ),
+)

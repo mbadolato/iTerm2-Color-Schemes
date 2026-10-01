@@ -1,0 +1,12 @@
+# Ember Peak
+[colors]
+foreground = "#f8fafc"
+background = "#0a0a0f"
+cursor_bg = "#ffb86b"
+cursor_border = "#ffb86b"
+cursor_fg = "#1a0f08"
+selection_bg = "#2b1f16"
+selection_fg = "#fff1df"
+
+ansi = ["#b7b5b2","#ff806f","#65d493","#ffd166","#86b5ff","#e29aff","#b8e7ef","#f8fafc"]
+brights = ["#cbc8c3","#ff9b8f","#84e0a8","#ffe18a","#a8c9ff","#ecb2ff","#c5eef4","#ffffff"]

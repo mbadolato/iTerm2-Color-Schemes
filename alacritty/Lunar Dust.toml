@@ -1,0 +1,33 @@
+# Colors (Lunar Dust)
+
+[colors.bright]
+black = '#4b4f56'
+blue = '#123a78'
+cyan = '#004a57'
+green = '#1a603e'
+magenta = '#67398e'
+red = '#902b2b'
+white = '#484c53'
+yellow = '#6d5300'
+
+[colors.cursor]
+cursor = '#48515e'
+text = '#f3f1ed'
+
+[colors.normal]
+black = '#30343b'
+blue = '#17458a'
+cyan = '#005765'
+green = '#165a38'
+magenta = '#603286'
+red = '#842626'
+white = '#40444b'
+yellow = '#654d00'
+
+[colors.primary]
+background = '#f3f1ed'
+foreground = '#20242b'
+
+[colors.selection]
+background = '#d9d6d0'
+text = '#20242b'

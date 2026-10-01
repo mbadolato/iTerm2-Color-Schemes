@@ -1,0 +1,43 @@
+!
+! Night Pharmacy
+!
+*.foreground:  #ecf5ef
+*.background:  #07100b
+*.cursorColor: #7ff0bd
+!
+! Black
+*.color0:      #afbeb5
+*.color8:      #c4d0c9
+!
+! Red
+*.color1:      #ef8088
+*.color9:      #f19ba1
+!
+! Green
+*.color2:      #72d1a0
+*.color10:     #91dfb7
+!
+! Yellow
+*.color3:      #e6cb69
+*.color11:     #eddb8b
+!
+! Blue
+*.color4:      #83b3e7
+*.color12:     #a3c8ef
+!
+! Magenta
+*.color5:      #cba0df
+*.color13:     #dabbe8
+!
+! Cyan
+*.color6:      #72d3d0
+*.color14:     #94e2df
+!
+! White
+*.color7:      #ecf5ef
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #6fe7a5
+!*.colorIT:
+!*.colorUL:

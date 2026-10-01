@@ -1,0 +1,33 @@
+# Colors (Molten Core)
+
+[colors.bright]
+black = '#ccc8c1'
+blue = '#9abfff'
+cyan = '#94e7ef'
+green = '#88e0a8'
+magenta = '#eca4f5'
+red = '#ff8979'
+white = '#ffffff'
+yellow = '#ffd273'
+
+[colors.cursor]
+cursor = '#ffc37a'
+text = '#0a0908'
+
+[colors.normal]
+black = '#b8b5b0'
+blue = '#79aaff'
+cyan = '#70d8e5'
+green = '#68d391'
+magenta = '#df83ef'
+red = '#ff6b57'
+white = '#f8f8f2'
+yellow = '#ffbf47'
+
+[colors.primary]
+background = '#0a0908'
+foreground = '#f8f8f2'
+
+[colors.selection]
+background = '#392217'
+text = '#fff2df'

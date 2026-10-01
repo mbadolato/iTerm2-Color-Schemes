@@ -1,0 +1,33 @@
+# Colors (Icy Glacier)
+
+[colors.bright]
+black = '#536171'
+blue = '#123b78'
+cyan = '#006b80'
+green = '#1b6945'
+magenta = '#503075'
+red = '#741a1a'
+white = '#455365'
+yellow = '#765d00'
+
+[colors.cursor]
+cursor = '#07517a'
+text = '#eef6ff'
+
+[colors.normal]
+black = '#263548'
+blue = '#174c9b'
+cyan = '#006275'
+green = '#17613c'
+magenta = '#64379a'
+red = '#8f2424'
+white = '#3b4858'
+yellow = '#6e5500'
+
+[colors.primary]
+background = '#eef6ff'
+foreground = '#0f172a'
+
+[colors.selection]
+background = '#dbeafe'
+text = '#0f172a'

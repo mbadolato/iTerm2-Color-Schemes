@@ -1,0 +1,43 @@
+!
+! Black Box Recorder
+!
+*.foreground:  #f4f1e8
+*.background:  #050608
+*.cursorColor: #ffcc33
+!
+! Black
+*.color0:      #b9b7b0
+*.color8:      #cbc8c0
+!
+! Red
+*.color1:      #ff806d
+*.color9:      #ff9c8b
+!
+! Green
+*.color2:      #78d19d
+*.color10:     #99deb5
+!
+! Yellow
+*.color3:      #f1ca63
+*.color11:     #f7db86
+!
+! Blue
+*.color4:      #8cb2ed
+*.color12:     #aac7f3
+!
+! Magenta
+*.color5:      #d5a0e6
+*.color13:     #e4b9ed
+!
+! Cyan
+*.color6:      #80d3dc
+*.color14:     #a1e1e7
+!
+! White
+*.color7:      #f4f1e8
+*.color15:     #fffdf7
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffb000
+!*.colorIT:
+!*.colorUL:

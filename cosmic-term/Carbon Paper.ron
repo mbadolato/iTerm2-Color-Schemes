@@ -1,0 +1,41 @@
+(
+    name: "Carbon Paper",
+    foreground: "#1d2028",
+    background: "#f8f6ed",
+    cursor: "#31558e",
+    bright_foreground: "#1d2028",
+    dim_foreground: "#474b53",
+
+    normal: (
+        black: "#2c3038",
+        red: "#842424",
+        green: "#145a37",
+        yellow: "#654d00",
+        blue: "#17458b",
+        magenta: "#603187",
+        cyan: "#005866",
+        white: "#3c4048"
+    ),
+
+    bright: (
+        black: "#474b53",
+        red: "#902a2a",
+        green: "#185f3d",
+        yellow: "#6d5300",
+        blue: "#123a78",
+        magenta: "#67398f",
+        cyan: "#004b57",
+        white: "#454951"
+    ),
+
+    dim: (
+        black: "#2c3038",
+        red: "#842424",
+        green: "#145a37",
+        yellow: "#654d00",
+        blue: "#17458b",
+        magenta: "#603187",
+        cyan: "#005866",
+        white: "#3c4048"
+    ),
+)

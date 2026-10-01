@@ -1,0 +1,41 @@
+(
+    name: "Static Memory",
+    foreground: "#1b2020",
+    background: "#f7f8f6",
+    cursor: "#386b68",
+    bright_foreground: "#1b2020",
+    dim_foreground: "#484e4d",
+
+    normal: (
+        black: "#2c3231",
+        red: "#852323",
+        green: "#145b38",
+        yellow: "#654d00",
+        blue: "#17468d",
+        magenta: "#603087",
+        cyan: "#005866",
+        white: "#3d4342"
+    ),
+
+    bright: (
+        black: "#484e4d",
+        red: "#912929",
+        green: "#18603e",
+        yellow: "#6d5300",
+        blue: "#123a78",
+        magenta: "#67388f",
+        cyan: "#004b57",
+        white: "#464c4b"
+    ),
+
+    dim: (
+        black: "#2c3231",
+        red: "#852323",
+        green: "#145b38",
+        yellow: "#654d00",
+        blue: "#17468d",
+        magenta: "#603087",
+        cyan: "#005866",
+        white: "#3d4342"
+    ),
+)

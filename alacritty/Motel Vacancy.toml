@@ -1,0 +1,33 @@
+# Colors (Motel Vacancy)
+
+[colors.bright]
+black = '#cec4ca'
+blue = '#abc7ef'
+cyan = '#9ee1e2'
+green = '#9addb5'
+magenta = '#e5b9eb'
+red = '#f59ca5'
+white = '#fffaff'
+yellow = '#f2db8a'
+
+[colors.cursor]
+cursor = '#ff93c7'
+text = '#10070d'
+
+[colors.normal]
+black = '#bbb1b8'
+blue = '#8db2e8'
+cyan = '#7dd2d7'
+green = '#7bd09e'
+magenta = '#d7a0e4'
+red = '#f3838e'
+white = '#f8edf4'
+yellow = '#ebca69'
+
+[colors.primary]
+background = '#10070d'
+foreground = '#f8edf4'
+
+[colors.selection]
+background = '#3a1c2c'
+text = '#fff5fa'

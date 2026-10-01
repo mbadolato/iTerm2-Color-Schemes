@@ -1,0 +1,41 @@
+(
+    name: "Solar Flare",
+    foreground: "#1a1a1a",
+    background: "#fff9e6",
+    cursor: "#7d3e00",
+    bright_foreground: "#1a1a1a",
+    dim_foreground: "#55534d",
+
+    normal: (
+        black: "#292929",
+        red: "#8d1818",
+        green: "#0f5c2b",
+        yellow: "#685000",
+        blue: "#15479a",
+        magenta: "#673096",
+        cyan: "#004b5a",
+        white: "#3a3a37"
+    ),
+
+    bright: (
+        black: "#55534d",
+        red: "#982020",
+        green: "#0b5028",
+        yellow: "#594500",
+        blue: "#1a50a5",
+        magenta: "#713a9e",
+        cyan: "#004957",
+        white: "#46443e"
+    ),
+
+    dim: (
+        black: "#292929",
+        red: "#8d1818",
+        green: "#0f5c2b",
+        yellow: "#685000",
+        blue: "#15479a",
+        magenta: "#673096",
+        cyan: "#004b5a",
+        white: "#3a3a37"
+    ),
+)

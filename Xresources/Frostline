@@ -1,0 +1,43 @@
+!
+! Frostline
+!
+*.foreground:  #102a43
+*.background:  #f7fbff
+*.cursorColor: #0e5f8f
+!
+! Black
+*.color0:      #29394a
+*.color8:      #536273
+!
+! Red
+*.color1:      #812121
+*.color9:      #8d2727
+!
+! Green
+*.color2:      #0b5934
+*.color10:     #0e603a
+!
+! Yellow
+*.color3:      #654a00
+*.color11:     #6c5000
+!
+! Blue
+*.color4:      #164891
+*.color12:     #194f9d
+!
+! Magenta
+*.color5:      #5c3189
+*.color13:     #653991
+!
+! Cyan
+*.color6:      #00596a
+*.color14:     #006173
+!
+! White
+*.color7:      #3b4a59
+*.color15:     #455565
+!
+! Bold, Italic, Underline
+*.colorBD:     #0b7285
+!*.colorIT:
+!*.colorUL:

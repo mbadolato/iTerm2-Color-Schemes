@@ -1,0 +1,17 @@
+[meta]
+name = "Eventide"
+mode = "dark"
+
+[terminal]
+foreground = "#e6edf3"
+background = "#0b1220"
+palette = [
+    "#aeb8c5", "#ff7272", "#62d6a5", "#ffd166",
+    "#79aaff", "#c79aff", "#73d9e8", "#e6edf3",
+    "#c3ccd6", "#ff9292", "#82e2b8", "#ffe08a",
+    "#9bbdff", "#dab6ff", "#96e8f1", "#ffffff",
+]
+cursor = "#8ecbff"
+cursor-text = "#0b1220"
+selection-background = "#284361"
+selection-foreground = "#f5f8fc"

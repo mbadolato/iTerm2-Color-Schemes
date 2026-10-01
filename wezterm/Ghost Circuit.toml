@@ -1,0 +1,12 @@
+# Ghost Circuit
+[colors]
+foreground = "#e9f4f0"
+background = "#07100f"
+cursor_bg = "#7ce4df"
+cursor_border = "#7ce4df"
+cursor_fg = "#07100f"
+selection_bg = "#1d3430"
+selection_fg = "#f4fffb"
+
+ansi = ["#aebfba","#ed7f86","#72d2a2","#e7cc69","#82b3e8","#caa0df","#72d3d1","#e9f4f0"]
+brights = ["#c4d0cc","#f09ba0","#91dfb8","#eddc8b","#a2c8ef","#dabbe8","#94e2df","#ffffff"]

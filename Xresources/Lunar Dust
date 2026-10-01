@@ -1,0 +1,43 @@
+!
+! Lunar Dust
+!
+*.foreground:  #20242b
+*.background:  #f3f1ed
+*.cursorColor: #48515e
+!
+! Black
+*.color0:      #30343b
+*.color8:      #4b4f56
+!
+! Red
+*.color1:      #842626
+*.color9:      #902b2b
+!
+! Green
+*.color2:      #165a38
+*.color10:     #1a603e
+!
+! Yellow
+*.color3:      #654d00
+*.color11:     #6d5300
+!
+! Blue
+*.color4:      #17458a
+*.color12:     #123a78
+!
+! Magenta
+*.color5:      #603286
+*.color13:     #67398e
+!
+! Cyan
+*.color6:      #005765
+*.color14:     #004a57
+!
+! White
+*.color7:      #40444b
+*.color15:     #484c53
+!
+! Bold, Italic, Underline
+*.colorBD:     #545d6b
+!*.colorIT:
+!*.colorUL:

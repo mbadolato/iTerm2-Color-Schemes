@@ -1,0 +1,43 @@
+!
+! Evergreen
+!
+*.foreground:  #e9f7ef
+*.background:  #032b1b
+*.cursorColor: #7cf0ad
+!
+! Black
+*.color0:      #aebfb6
+*.color8:      #c5d1cb
+!
+! Red
+*.color1:      #ff8a82
+*.color9:      #ffa29b
+!
+! Green
+*.color2:      #82d6a5
+*.color10:     #a2e2bc
+!
+! Yellow
+*.color3:      #f0d16e
+*.color11:     #f6df90
+!
+! Blue
+*.color4:      #8bb8ee
+*.color12:     #abcdf4
+!
+! Magenta
+*.color5:      #d6a5e5
+*.color13:     #e5bfed
+!
+! Cyan
+*.color6:      #82d7d2
+*.color14:     #a3e5e0
+!
+! White
+*.color7:      #e9f7ef
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #72e6a0
+!*.colorIT:
+!*.colorUL:

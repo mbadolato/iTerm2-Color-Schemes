@@ -1,0 +1,12 @@
+# Lunar Dust
+[colors]
+foreground = "#20242b"
+background = "#f3f1ed"
+cursor_bg = "#48515e"
+cursor_border = "#48515e"
+cursor_fg = "#f3f1ed"
+selection_bg = "#d9d6d0"
+selection_fg = "#20242b"
+
+ansi = ["#30343b","#842626","#165a38","#654d00","#17458a","#603286","#005765","#40444b"]
+brights = ["#4b4f56","#902b2b","#1a603e","#6d5300","#123a78","#67398e","#004a57","#484c53"]

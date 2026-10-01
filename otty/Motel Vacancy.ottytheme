@@ -1,0 +1,17 @@
+[meta]
+name = "Motel Vacancy"
+mode = "dark"
+
+[terminal]
+foreground = "#f8edf4"
+background = "#10070d"
+palette = [
+    "#bbb1b8", "#f3838e", "#7bd09e", "#ebca69",
+    "#8db2e8", "#d7a0e4", "#7dd2d7", "#f8edf4",
+    "#cec4ca", "#f59ca5", "#9addb5", "#f2db8a",
+    "#abc7ef", "#e5b9eb", "#9ee1e2", "#fffaff",
+]
+cursor = "#ff93c7"
+cursor-text = "#10070d"
+selection-background = "#3a1c2c"
+selection-foreground = "#fff5fa"

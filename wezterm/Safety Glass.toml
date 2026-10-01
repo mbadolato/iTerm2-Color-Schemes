@@ -1,0 +1,12 @@
+# Safety Glass
+[colors]
+foreground = "#142322"
+background = "#f2fbfa"
+cursor_bg = "#176d67"
+cursor_border = "#176d67"
+cursor_fg = "#f2fbfa"
+selection_bg = "#d7ebe8"
+selection_fg = "#142322"
+
+ansi = ["#293837","#842424","#125a37","#634c00","#17458b","#5e3186","#005866","#394847"]
+brights = ["#465554","#902a2a","#17603d","#6b5200","#123a78","#65388e","#004b57","#414f4e"]

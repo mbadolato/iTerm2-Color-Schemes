@@ -1,0 +1,12 @@
+# Molten Core
+[colors]
+foreground = "#f8f8f2"
+background = "#0a0908"
+cursor_bg = "#ffc37a"
+cursor_border = "#ffc37a"
+cursor_fg = "#0a0908"
+selection_bg = "#392217"
+selection_fg = "#fff2df"
+
+ansi = ["#b8b5b0","#ff6b57","#68d391","#ffbf47","#79aaff","#df83ef","#70d8e5","#f8f8f2"]
+brights = ["#ccc8c1","#ff8979","#88e0a8","#ffd273","#9abfff","#eca4f5","#94e7ef","#ffffff"]

@@ -1,0 +1,33 @@
+# Colors (Aurora Drift)
+
+[colors.bright]
+black = '#c0cad6'
+blue = '#91bdff'
+cyan = '#7be9f2'
+green = '#80e5bd'
+magenta = '#d9adff'
+red = '#ff8b8b'
+white = '#ffffff'
+yellow = '#ffe28a'
+
+[colors.cursor]
+cursor = '#00e5ff'
+text = '#050814'
+
+[colors.normal]
+black = '#aab7c8'
+blue = '#6ea8ff'
+cyan = '#54ddeb'
+green = '#5fd9ad'
+magenta = '#c58cff'
+red = '#ff6b6b'
+white = '#e6f1ff'
+yellow = '#ffd166'
+
+[colors.primary]
+background = '#050814'
+foreground = '#e6f1ff'
+
+[colors.selection]
+background = '#263449'
+text = '#f7fbff'

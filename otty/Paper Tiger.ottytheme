@@ -1,0 +1,17 @@
+[meta]
+name = "Paper Tiger"
+mode = "light"
+
+[terminal]
+foreground = "#181818"
+background = "#fffaf0"
+palette = [
+    "#2b2b29", "#861f1f", "#0d5b30", "#674b00",
+    "#17468f", "#602f88", "#005968", "#3c3a35",
+    "#4b4943", "#922525", "#106234", "#704f00",
+    "#123a78", "#68368f", "#004a57", "#45433e",
+]
+cursor = "#725000"
+cursor-text = "#fffaf0"
+selection-background = "#eadfc8"
+selection-foreground = "#181818"

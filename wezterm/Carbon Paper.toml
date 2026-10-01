@@ -1,0 +1,12 @@
+# Carbon Paper
+[colors]
+foreground = "#1d2028"
+background = "#f8f6ed"
+cursor_bg = "#31558e"
+cursor_border = "#31558e"
+cursor_fg = "#f8f6ed"
+selection_bg = "#ddd9cb"
+selection_fg = "#1d2028"
+
+ansi = ["#2c3038","#842424","#145a37","#654d00","#17458b","#603187","#005866","#3c4048"]
+brights = ["#474b53","#902a2a","#185f3d","#6d5300","#123a78","#67398f","#004b57","#454951"]

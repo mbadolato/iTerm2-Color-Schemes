@@ -1,0 +1,33 @@
+# Colors (Solar Flare)
+
+[colors.bright]
+black = '#55534d'
+blue = '#1a50a5'
+cyan = '#004957'
+green = '#0b5028'
+magenta = '#713a9e'
+red = '#982020'
+white = '#46443e'
+yellow = '#594500'
+
+[colors.cursor]
+cursor = '#7d3e00'
+text = '#fff9e6'
+
+[colors.normal]
+black = '#292929'
+blue = '#15479a'
+cyan = '#004b5a'
+green = '#0f5c2b'
+magenta = '#673096'
+red = '#8d1818'
+white = '#3a3a37'
+yellow = '#685000'
+
+[colors.primary]
+background = '#fff9e6'
+foreground = '#1a1a1a'
+
+[colors.selection]
+background = '#f5e1a8'
+text = '#1a1a1a'

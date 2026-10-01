@@ -1,0 +1,43 @@
+!
+! Safety Glass
+!
+*.foreground:  #142322
+*.background:  #f2fbfa
+*.cursorColor: #176d67
+!
+! Black
+*.color0:      #293837
+*.color8:      #465554
+!
+! Red
+*.color1:      #842424
+*.color9:      #902a2a
+!
+! Green
+*.color2:      #125a37
+*.color10:     #17603d
+!
+! Yellow
+*.color3:      #634c00
+*.color11:     #6b5200
+!
+! Blue
+*.color4:      #17458b
+*.color12:     #123a78
+!
+! Magenta
+*.color5:      #5e3186
+*.color13:     #65388e
+!
+! Cyan
+*.color6:      #005866
+*.color14:     #004b57
+!
+! White
+*.color7:      #394847
+*.color15:     #414f4e
+!
+! Bold, Italic, Underline
+*.colorBD:     #12655f
+!*.colorIT:
+!*.colorUL:

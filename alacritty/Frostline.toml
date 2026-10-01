@@ -1,0 +1,33 @@
+# Colors (Frostline)
+
+[colors.bright]
+black = '#536273'
+blue = '#194f9d'
+cyan = '#006173'
+green = '#0e603a'
+magenta = '#653991'
+red = '#8d2727'
+white = '#455565'
+yellow = '#6c5000'
+
+[colors.cursor]
+cursor = '#0e5f8f'
+text = '#f7fbff'
+
+[colors.normal]
+black = '#29394a'
+blue = '#164891'
+cyan = '#00596a'
+green = '#0b5934'
+magenta = '#5c3189'
+red = '#812121'
+white = '#3b4a59'
+yellow = '#654a00'
+
+[colors.primary]
+background = '#f7fbff'
+foreground = '#102a43'
+
+[colors.selection]
+background = '#e2edf7'
+text = '#102a43'

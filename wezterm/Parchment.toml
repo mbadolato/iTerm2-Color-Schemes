@@ -1,0 +1,12 @@
+# Parchment
+[colors]
+foreground = "#1a1a1a"
+background = "#fdf7e7"
+cursor_bg = "#7a5700"
+cursor_border = "#7a5700"
+cursor_fg = "#fffaf0"
+selection_bg = "#e5dcc3"
+selection_fg = "#1a1a1a"
+
+ansi = ["#292929","#851c1c","#0d6030","#685000","#164a9b","#663194","#004a58","#3c3a36"]
+brights = ["#55514b","#922323","#084d2a","#594500","#123a78","#523073","#004957","#47433e"]

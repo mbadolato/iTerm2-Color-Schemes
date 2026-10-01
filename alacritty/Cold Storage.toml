@@ -1,0 +1,33 @@
+# Colors (Cold Storage)
+
+[colors.bright]
+black = '#40505f'
+blue = '#123a78'
+cyan = '#004b59'
+green = '#10613b'
+magenta = '#653890'
+red = '#902727'
+white = '#455565'
+yellow = '#6c5100'
+
+[colors.cursor]
+cursor = '#0b5f83'
+text = '#f4f9ff'
+
+[colors.normal]
+black = '#29394a'
+blue = '#17468f'
+cyan = '#005969'
+green = '#0c5935'
+magenta = '#5e3188'
+red = '#842121'
+white = '#3b4b5b'
+yellow = '#644b00'
+
+[colors.primary]
+background = '#f4f9ff'
+foreground = '#102235'
+
+[colors.selection]
+background = '#dce9f5'
+text = '#102235'

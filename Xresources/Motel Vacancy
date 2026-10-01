@@ -1,0 +1,43 @@
+!
+! Motel Vacancy
+!
+*.foreground:  #f8edf4
+*.background:  #10070d
+*.cursorColor: #ff93c7
+!
+! Black
+*.color0:      #bbb1b8
+*.color8:      #cec4ca
+!
+! Red
+*.color1:      #f3838e
+*.color9:      #f59ca5
+!
+! Green
+*.color2:      #7bd09e
+*.color10:     #9addb5
+!
+! Yellow
+*.color3:      #ebca69
+*.color11:     #f2db8a
+!
+! Blue
+*.color4:      #8db2e8
+*.color12:     #abc7ef
+!
+! Magenta
+*.color5:      #d7a0e4
+*.color13:     #e5b9eb
+!
+! Cyan
+*.color6:      #7dd2d7
+*.color14:     #9ee1e2
+!
+! White
+*.color7:      #f8edf4
+*.color15:     #fffaff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ff76b5
+!*.colorIT:
+!*.colorUL:

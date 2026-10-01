@@ -1,0 +1,41 @@
+(
+    name: "Cactus Bloom",
+    foreground: "#111a11",
+    background: "#fff9f0",
+    cursor: "#0b6897",
+    bright_foreground: "#111a11",
+    dim_foreground: "#464c46",
+
+    normal: (
+        black: "#292d29",
+        red: "#8c1b1b",
+        green: "#0d5b30",
+        yellow: "#684b00",
+        blue: "#174b9a",
+        magenta: "#612d8e",
+        cyan: "#005b69",
+        white: "#3a403a"
+    ),
+
+    bright: (
+        black: "#464c46",
+        red: "#961f1f",
+        green: "#106234",
+        yellow: "#704f00",
+        blue: "#123a78",
+        magenta: "#693696",
+        cyan: "#004a57",
+        white: "#454b45"
+    ),
+
+    dim: (
+        black: "#292d29",
+        red: "#8c1b1b",
+        green: "#0d5b30",
+        yellow: "#684b00",
+        blue: "#174b9a",
+        magenta: "#612d8e",
+        cyan: "#005b69",
+        white: "#3a403a"
+    ),
+)

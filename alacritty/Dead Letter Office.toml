@@ -1,0 +1,33 @@
+# Colors (Dead Letter Office)
+
+[colors.bright]
+black = '#cbd2da'
+blue = '#a9caff'
+cyan = '#a4e9ef'
+green = '#9ae2bd'
+magenta = '#e8beff'
+red = '#ff9b94'
+white = '#ffffff'
+yellow = '#ffe18c'
+
+[colors.cursor]
+cursor = '#8fc7ff'
+text = '#090d12'
+
+[colors.normal]
+black = '#b8c1cc'
+blue = '#88b6ff'
+cyan = '#83dce5'
+green = '#79d5a7'
+magenta = '#dca5ff'
+red = '#ff8178'
+white = '#eef2f6'
+yellow = '#ffd36a'
+
+[colors.primary]
+background = '#090d12'
+foreground = '#eef2f6'
+
+[colors.selection]
+background = '#26313d'
+text = '#f7fafc'

@@ -1,0 +1,17 @@
+[meta]
+name = "Last Broadcast"
+mode = "dark"
+
+[terminal]
+foreground = "#f2efe8"
+background = "#08090d"
+palette = [
+    "#b7b5b0", "#ff806f", "#79d09e", "#efcb69",
+    "#8bb4ed", "#d5a2e5", "#80d3da", "#f2efe8",
+    "#cac7c1", "#ff9c8d", "#99ddb5", "#f6dc8b",
+    "#aac9f3", "#e4bbed", "#a2e1e5", "#fffdf8",
+]
+cursor = "#ffca72"
+cursor-text = "#08090d"
+selection-background = "#30281d"
+selection-foreground = "#fff8eb"

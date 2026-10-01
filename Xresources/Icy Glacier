@@ -1,0 +1,43 @@
+!
+! Icy Glacier
+!
+*.foreground:  #0f172a
+*.background:  #eef6ff
+*.cursorColor: #07517a
+!
+! Black
+*.color0:      #263548
+*.color8:      #536171
+!
+! Red
+*.color1:      #8f2424
+*.color9:      #741a1a
+!
+! Green
+*.color2:      #17613c
+*.color10:     #1b6945
+!
+! Yellow
+*.color3:      #6e5500
+*.color11:     #765d00
+!
+! Blue
+*.color4:      #174c9b
+*.color12:     #123b78
+!
+! Magenta
+*.color5:      #64379a
+*.color13:     #503075
+!
+! Cyan
+*.color6:      #006275
+*.color14:     #006b80
+!
+! White
+*.color7:      #3b4858
+*.color15:     #455365
+!
+! Bold, Italic, Underline
+*.colorBD:     #075985
+!*.colorIT:
+!*.colorUL:

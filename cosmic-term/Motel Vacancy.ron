@@ -1,0 +1,41 @@
+(
+    name: "Motel Vacancy",
+    foreground: "#f8edf4",
+    background: "#10070d",
+    cursor: "#ff93c7",
+    bright_foreground: "#f8edf4",
+    dim_foreground: "#cec4ca",
+
+    normal: (
+        black: "#bbb1b8",
+        red: "#f3838e",
+        green: "#7bd09e",
+        yellow: "#ebca69",
+        blue: "#8db2e8",
+        magenta: "#d7a0e4",
+        cyan: "#7dd2d7",
+        white: "#f8edf4"
+    ),
+
+    bright: (
+        black: "#cec4ca",
+        red: "#f59ca5",
+        green: "#9addb5",
+        yellow: "#f2db8a",
+        blue: "#abc7ef",
+        magenta: "#e5b9eb",
+        cyan: "#9ee1e2",
+        white: "#fffaff"
+    ),
+
+    dim: (
+        black: "#bbb1b8",
+        red: "#f3838e",
+        green: "#7bd09e",
+        yellow: "#ebca69",
+        blue: "#8db2e8",
+        magenta: "#d7a0e4",
+        cyan: "#7dd2d7",
+        white: "#f8edf4"
+    ),
+)

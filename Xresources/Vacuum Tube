@@ -1,0 +1,43 @@
+!
+! Vacuum Tube
+!
+*.foreground:  #f7efe3
+*.background:  #0c0907
+*.cursorColor: #ffc078
+!
+! Black
+*.color0:      #bdb5aa
+*.color8:      #cec7bd
+!
+! Red
+*.color1:      #ff826d
+*.color9:      #ff9e8e
+!
+! Green
+*.color2:      #79d09b
+*.color10:     #99ddb4
+!
+! Yellow
+*.color3:      #f5cb67
+*.color11:     #f9dc89
+!
+! Blue
+*.color4:      #8fb4ee
+*.color12:     #adc8f4
+!
+! Magenta
+*.color5:      #d9a1e8
+*.color13:     #e7bbed
+!
+! Cyan
+*.color6:      #83d3dc
+*.color14:     #a4e2e7
+!
+! White
+*.color7:      #f7efe3
+*.color15:     #fffaf2
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffad63
+!*.colorIT:
+!*.colorUL:

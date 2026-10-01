@@ -1,0 +1,41 @@
+(
+    name: "Icy Glacier",
+    foreground: "#0f172a",
+    background: "#eef6ff",
+    cursor: "#07517a",
+    bright_foreground: "#0f172a",
+    dim_foreground: "#536171",
+
+    normal: (
+        black: "#263548",
+        red: "#8f2424",
+        green: "#17613c",
+        yellow: "#6e5500",
+        blue: "#174c9b",
+        magenta: "#64379a",
+        cyan: "#006275",
+        white: "#3b4858"
+    ),
+
+    bright: (
+        black: "#536171",
+        red: "#741a1a",
+        green: "#1b6945",
+        yellow: "#765d00",
+        blue: "#123b78",
+        magenta: "#503075",
+        cyan: "#006b80",
+        white: "#455365"
+    ),
+
+    dim: (
+        black: "#263548",
+        red: "#8f2424",
+        green: "#17613c",
+        yellow: "#6e5500",
+        blue: "#174c9b",
+        magenta: "#64379a",
+        cyan: "#006275",
+        white: "#3b4858"
+    ),
+)

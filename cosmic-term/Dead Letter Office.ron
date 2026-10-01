@@ -1,0 +1,41 @@
+(
+    name: "Dead Letter Office",
+    foreground: "#eef2f6",
+    background: "#090d12",
+    cursor: "#8fc7ff",
+    bright_foreground: "#eef2f6",
+    dim_foreground: "#cbd2da",
+
+    normal: (
+        black: "#b8c1cc",
+        red: "#ff8178",
+        green: "#79d5a7",
+        yellow: "#ffd36a",
+        blue: "#88b6ff",
+        magenta: "#dca5ff",
+        cyan: "#83dce5",
+        white: "#eef2f6"
+    ),
+
+    bright: (
+        black: "#cbd2da",
+        red: "#ff9b94",
+        green: "#9ae2bd",
+        yellow: "#ffe18c",
+        blue: "#a9caff",
+        magenta: "#e8beff",
+        cyan: "#a4e9ef",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#b8c1cc",
+        red: "#ff8178",
+        green: "#79d5a7",
+        yellow: "#ffd36a",
+        blue: "#88b6ff",
+        magenta: "#dca5ff",
+        cyan: "#83dce5",
+        white: "#eef2f6"
+    ),
+)

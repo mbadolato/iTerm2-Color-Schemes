@@ -1,0 +1,12 @@
+# Vacuum Tube
+[colors]
+foreground = "#f7efe3"
+background = "#0c0907"
+cursor_bg = "#ffc078"
+cursor_border = "#ffc078"
+cursor_fg = "#0c0907"
+selection_bg = "#35251a"
+selection_fg = "#fff4e8"
+
+ansi = ["#bdb5aa","#ff826d","#79d09b","#f5cb67","#8fb4ee","#d9a1e8","#83d3dc","#f7efe3"]
+brights = ["#cec7bd","#ff9e8e","#99ddb4","#f9dc89","#adc8f4","#e7bbed","#a4e2e7","#fffaf2"]

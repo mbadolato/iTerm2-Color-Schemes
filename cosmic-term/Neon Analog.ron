@@ -1,0 +1,41 @@
+(
+    name: "Neon Analog",
+    foreground: "#e6ebf5",
+    background: "#0b0f14",
+    cursor: "#00e5ff",
+    bright_foreground: "#e6ebf5",
+    dim_foreground: "#c1cad6",
+
+    normal: (
+        black: "#aeb8c7",
+        red: "#ff6b9d",
+        green: "#a8d8bc",
+        yellow: "#f5c14d",
+        blue: "#a8c9f2",
+        magenta: "#d5a6f5",
+        cyan: "#b8e5e8",
+        white: "#e6ebf5"
+    ),
+
+    bright: (
+        black: "#c1cad6",
+        red: "#ff8ab5",
+        green: "#b9e4c9",
+        yellow: "#f8d36d",
+        blue: "#bdd7f7",
+        magenta: "#dfbdf7",
+        cyan: "#c8eef0",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#aeb8c7",
+        red: "#ff6b9d",
+        green: "#a8d8bc",
+        yellow: "#f5c14d",
+        blue: "#a8c9f2",
+        magenta: "#d5a6f5",
+        cyan: "#b8e5e8",
+        white: "#e6ebf5"
+    ),
+)

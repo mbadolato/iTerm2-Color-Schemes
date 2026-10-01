@@ -1,0 +1,41 @@
+(
+    name: "Ghost Circuit",
+    foreground: "#e9f4f0",
+    background: "#07100f",
+    cursor: "#7ce4df",
+    bright_foreground: "#e9f4f0",
+    dim_foreground: "#c4d0cc",
+
+    normal: (
+        black: "#aebfba",
+        red: "#ed7f86",
+        green: "#72d2a2",
+        yellow: "#e7cc69",
+        blue: "#82b3e8",
+        magenta: "#caa0df",
+        cyan: "#72d3d1",
+        white: "#e9f4f0"
+    ),
+
+    bright: (
+        black: "#c4d0cc",
+        red: "#f09ba0",
+        green: "#91dfb8",
+        yellow: "#eddc8b",
+        blue: "#a2c8ef",
+        magenta: "#dabbe8",
+        cyan: "#94e2df",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#aebfba",
+        red: "#ed7f86",
+        green: "#72d2a2",
+        yellow: "#e7cc69",
+        blue: "#82b3e8",
+        magenta: "#caa0df",
+        cyan: "#72d3d1",
+        white: "#e9f4f0"
+    ),
+)

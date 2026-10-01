@@ -1,0 +1,12 @@
+# Night Pharmacy
+[colors]
+foreground = "#ecf5ef"
+background = "#07100b"
+cursor_bg = "#7ff0bd"
+cursor_border = "#7ff0bd"
+cursor_fg = "#07100b"
+selection_bg = "#173425"
+selection_fg = "#f5fff8"
+
+ansi = ["#afbeb5","#ef8088","#72d1a0","#e6cb69","#83b3e7","#cba0df","#72d3d0","#ecf5ef"]
+brights = ["#c4d0c9","#f19ba1","#91dfb7","#eddb8b","#a3c8ef","#dabbe8","#94e2df","#ffffff"]

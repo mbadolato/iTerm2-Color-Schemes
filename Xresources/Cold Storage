@@ -1,0 +1,43 @@
+!
+! Cold Storage
+!
+*.foreground:  #102235
+*.background:  #f4f9ff
+*.cursorColor: #0b5f83
+!
+! Black
+*.color0:      #29394a
+*.color8:      #40505f
+!
+! Red
+*.color1:      #842121
+*.color9:      #902727
+!
+! Green
+*.color2:      #0c5935
+*.color10:     #10613b
+!
+! Yellow
+*.color3:      #644b00
+*.color11:     #6c5100
+!
+! Blue
+*.color4:      #17468f
+*.color12:     #123a78
+!
+! Magenta
+*.color5:      #5e3188
+*.color13:     #653890
+!
+! Cyan
+*.color6:      #005969
+*.color14:     #004b59
+!
+! White
+*.color7:      #3b4b5b
+*.color15:     #455565
+!
+! Bold, Italic, Underline
+*.colorBD:     #075985
+!*.colorIT:
+!*.colorUL:

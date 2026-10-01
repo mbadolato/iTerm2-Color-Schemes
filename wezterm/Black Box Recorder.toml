@@ -1,0 +1,12 @@
+# Black Box Recorder
+[colors]
+foreground = "#f4f1e8"
+background = "#050608"
+cursor_bg = "#ffcc33"
+cursor_border = "#ffcc33"
+cursor_fg = "#050608"
+selection_bg = "#2b2414"
+selection_fg = "#fff8e7"
+
+ansi = ["#b9b7b0","#ff806d","#78d19d","#f1ca63","#8cb2ed","#d5a0e6","#80d3dc","#f4f1e8"]
+brights = ["#cbc8c0","#ff9c8b","#99deb5","#f7db86","#aac7f3","#e4b9ed","#a1e1e7","#fffdf7"]

@@ -1,0 +1,33 @@
+# Colors (Eventide)
+
+[colors.bright]
+black = '#c3ccd6'
+blue = '#9bbdff'
+cyan = '#96e8f1'
+green = '#82e2b8'
+magenta = '#dab6ff'
+red = '#ff9292'
+white = '#ffffff'
+yellow = '#ffe08a'
+
+[colors.cursor]
+cursor = '#8ecbff'
+text = '#0b1220'
+
+[colors.normal]
+black = '#aeb8c5'
+blue = '#79aaff'
+cyan = '#73d9e8'
+green = '#62d6a5'
+magenta = '#c79aff'
+red = '#ff7272'
+white = '#e6edf3'
+yellow = '#ffd166'
+
+[colors.primary]
+background = '#0b1220'
+foreground = '#e6edf3'
+
+[colors.selection]
+background = '#284361'
+text = '#f5f8fc'

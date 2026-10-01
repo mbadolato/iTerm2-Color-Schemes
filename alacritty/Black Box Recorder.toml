@@ -1,0 +1,33 @@
+# Colors (Black Box Recorder)
+
+[colors.bright]
+black = '#cbc8c0'
+blue = '#aac7f3'
+cyan = '#a1e1e7'
+green = '#99deb5'
+magenta = '#e4b9ed'
+red = '#ff9c8b'
+white = '#fffdf7'
+yellow = '#f7db86'
+
+[colors.cursor]
+cursor = '#ffcc33'
+text = '#050608'
+
+[colors.normal]
+black = '#b9b7b0'
+blue = '#8cb2ed'
+cyan = '#80d3dc'
+green = '#78d19d'
+magenta = '#d5a0e6'
+red = '#ff806d'
+white = '#f4f1e8'
+yellow = '#f1ca63'
+
+[colors.primary]
+background = '#050608'
+foreground = '#f4f1e8'
+
+[colors.selection]
+background = '#2b2414'
+text = '#fff8e7'

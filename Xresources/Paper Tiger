@@ -1,0 +1,43 @@
+!
+! Paper Tiger
+!
+*.foreground:  #181818
+*.background:  #fffaf0
+*.cursorColor: #725000
+!
+! Black
+*.color0:      #2b2b29
+*.color8:      #4b4943
+!
+! Red
+*.color1:      #861f1f
+*.color9:      #922525
+!
+! Green
+*.color2:      #0d5b30
+*.color10:     #106234
+!
+! Yellow
+*.color3:      #674b00
+*.color11:     #704f00
+!
+! Blue
+*.color4:      #17468f
+*.color12:     #123a78
+!
+! Magenta
+*.color5:      #602f88
+*.color13:     #68368f
+!
+! Cyan
+*.color6:      #005968
+*.color14:     #004a57
+!
+! White
+*.color7:      #3c3a35
+*.color15:     #45433e
+!
+! Bold, Italic, Underline
+*.colorBD:     #9a3b16
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (Willow Grove)
+
+[colors.bright]
+black = '#535950'
+blue = '#194d99'
+cyan = '#005e6e'
+green = '#0b5c2e'
+magenta = '#65358e'
+red = '#902323'
+white = '#454a42'
+yellow = '#684e00'
+
+[colors.cursor]
+cursor = '#0b7285'
+text = '#fdfcf5'
+
+[colors.normal]
+black = '#292d27'
+blue = '#17478f'
+cyan = '#005664'
+green = '#0b5729'
+magenta = '#5d2d87'
+red = '#841d1d'
+white = '#3b4038'
+yellow = '#624800'
+
+[colors.primary]
+background = '#fdfcf5'
+foreground = '#1b1f16'
+
+[colors.selection]
+background = '#e6ddc6'
+text = '#1b1f16'

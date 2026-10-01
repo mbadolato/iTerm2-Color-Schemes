@@ -1,0 +1,12 @@
+# Eventide
+[colors]
+foreground = "#e6edf3"
+background = "#0b1220"
+cursor_bg = "#8ecbff"
+cursor_border = "#8ecbff"
+cursor_fg = "#0b1220"
+selection_bg = "#284361"
+selection_fg = "#f5f8fc"
+
+ansi = ["#aeb8c5","#ff7272","#62d6a5","#ffd166","#79aaff","#c79aff","#73d9e8","#e6edf3"]
+brights = ["#c3ccd6","#ff9292","#82e2b8","#ffe08a","#9bbdff","#dab6ff","#96e8f1","#ffffff"]

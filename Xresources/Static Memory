@@ -1,0 +1,43 @@
+!
+! Static Memory
+!
+*.foreground:  #1b2020
+*.background:  #f7f8f6
+*.cursorColor: #386b68
+!
+! Black
+*.color0:      #2c3231
+*.color8:      #484e4d
+!
+! Red
+*.color1:      #852323
+*.color9:      #912929
+!
+! Green
+*.color2:      #145b38
+*.color10:     #18603e
+!
+! Yellow
+*.color3:      #654d00
+*.color11:     #6d5300
+!
+! Blue
+*.color4:      #17468d
+*.color12:     #123a78
+!
+! Magenta
+*.color5:      #603087
+*.color13:     #67388f
+!
+! Cyan
+*.color6:      #005866
+*.color14:     #004b57
+!
+! White
+*.color7:      #3d4342
+*.color15:     #464c4b
+!
+! Bold, Italic, Underline
+*.colorBD:     #375d5a
+!*.colorIT:
+!*.colorUL:

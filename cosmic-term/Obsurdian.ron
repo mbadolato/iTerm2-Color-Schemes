@@ -1,0 +1,41 @@
+(
+    name: "Obsurdian",
+    foreground: "#f5f5f5",
+    background: "#0a0a0a",
+    cursor: "#ffd54a",
+    bright_foreground: "#f5f5f5",
+    dim_foreground: "#c7c7c7",
+
+    normal: (
+        black: "#b8b8b8",
+        red: "#ff6b6b",
+        green: "#66d98b",
+        yellow: "#ffe37a",
+        blue: "#82aaff",
+        magenta: "#ff8fd1",
+        cyan: "#8be9f4",
+        white: "#f0f0f0"
+    ),
+
+    bright: (
+        black: "#c7c7c7",
+        red: "#ff8585",
+        green: "#82e6a0",
+        yellow: "#ffeb96",
+        blue: "#9abaff",
+        magenta: "#ffa8dc",
+        cyan: "#a4f1f7",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#b8b8b8",
+        red: "#ff6b6b",
+        green: "#66d98b",
+        yellow: "#ffe37a",
+        blue: "#82aaff",
+        magenta: "#ff8fd1",
+        cyan: "#8be9f4",
+        white: "#f0f0f0"
+    ),
+)

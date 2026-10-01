@@ -1,0 +1,41 @@
+(
+    name: "Northstar",
+    foreground: "#f5f7fb",
+    background: "#0b0f1a",
+    cursor: "#fcd34d",
+    bright_foreground: "#f5f7fb",
+    dim_foreground: "#c1c7d0",
+
+    normal: (
+        black: "#aeb6c2",
+        red: "#ff6f73",
+        green: "#6ed99a",
+        yellow: "#f7d66d",
+        blue: "#7ea8ff",
+        magenta: "#d79af4",
+        cyan: "#70dce8",
+        white: "#eef2f7"
+    ),
+
+    bright: (
+        black: "#c1c7d0",
+        red: "#ff8b8e",
+        green: "#8ae3ad",
+        yellow: "#ffe38b",
+        blue: "#9bbcff",
+        magenta: "#e5b0f8",
+        cyan: "#91e7ef",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#aeb6c2",
+        red: "#ff6f73",
+        green: "#6ed99a",
+        yellow: "#f7d66d",
+        blue: "#7ea8ff",
+        magenta: "#d79af4",
+        cyan: "#70dce8",
+        white: "#eef2f7"
+    ),
+)

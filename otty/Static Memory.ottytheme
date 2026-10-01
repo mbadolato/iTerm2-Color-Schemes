@@ -1,0 +1,17 @@
+[meta]
+name = "Static Memory"
+mode = "light"
+
+[terminal]
+foreground = "#1b2020"
+background = "#f7f8f6"
+palette = [
+    "#2c3231", "#852323", "#145b38", "#654d00",
+    "#17468d", "#603087", "#005866", "#3d4342",
+    "#484e4d", "#912929", "#18603e", "#6d5300",
+    "#123a78", "#67388f", "#004b57", "#464c4b",
+]
+cursor = "#386b68"
+cursor-text = "#f7f8f6"
+selection-background = "#dde3e0"
+selection-foreground = "#1b2020"

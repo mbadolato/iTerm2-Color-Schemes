@@ -1,0 +1,33 @@
+# Colors (Carbon Paper)
+
+[colors.bright]
+black = '#474b53'
+blue = '#123a78'
+cyan = '#004b57'
+green = '#185f3d'
+magenta = '#67398f'
+red = '#902a2a'
+white = '#454951'
+yellow = '#6d5300'
+
+[colors.cursor]
+cursor = '#31558e'
+text = '#f8f6ed'
+
+[colors.normal]
+black = '#2c3038'
+blue = '#17458b'
+cyan = '#005866'
+green = '#145a37'
+magenta = '#603187'
+red = '#842424'
+white = '#3c4048'
+yellow = '#654d00'
+
+[colors.primary]
+background = '#f8f6ed'
+foreground = '#1d2028'
+
+[colors.selection]
+background = '#ddd9cb'
+text = '#1d2028'

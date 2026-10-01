@@ -1,0 +1,12 @@
+# Neon Analog
+[colors]
+foreground = "#e6ebf5"
+background = "#0b0f14"
+cursor_bg = "#00e5ff"
+cursor_border = "#00e5ff"
+cursor_fg = "#0b0f14"
+selection_bg = "#1f2a3a"
+selection_fg = "#f5f8ff"
+
+ansi = ["#aeb8c7","#ff6b9d","#a8d8bc","#f5c14d","#a8c9f2","#d5a6f5","#b8e5e8","#e6ebf5"]
+brights = ["#c1cad6","#ff8ab5","#b9e4c9","#f8d36d","#bdd7f7","#dfbdf7","#c8eef0","#ffffff"]

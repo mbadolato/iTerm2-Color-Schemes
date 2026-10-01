@@ -1,0 +1,12 @@
+# Willow Grove
+[colors]
+foreground = "#1b1f16"
+background = "#fdfcf5"
+cursor_bg = "#0b7285"
+cursor_border = "#0b7285"
+cursor_fg = "#fdfcf5"
+selection_bg = "#e6ddc6"
+selection_fg = "#1b1f16"
+
+ansi = ["#292d27","#841d1d","#0b5729","#624800","#17478f","#5d2d87","#005664","#3b4038"]
+brights = ["#535950","#902323","#0b5c2e","#684e00","#194d99","#65358e","#005e6e","#454a42"]

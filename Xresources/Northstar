@@ -1,0 +1,43 @@
+!
+! Northstar
+!
+*.foreground:  #f5f7fb
+*.background:  #0b0f1a
+*.cursorColor: #fcd34d
+!
+! Black
+*.color0:      #aeb6c2
+*.color8:      #c1c7d0
+!
+! Red
+*.color1:      #ff6f73
+*.color9:      #ff8b8e
+!
+! Green
+*.color2:      #6ed99a
+*.color10:     #8ae3ad
+!
+! Yellow
+*.color3:      #f7d66d
+*.color11:     #ffe38b
+!
+! Blue
+*.color4:      #7ea8ff
+*.color12:     #9bbcff
+!
+! Magenta
+*.color5:      #d79af4
+*.color13:     #e5b0f8
+!
+! Cyan
+*.color6:      #70dce8
+*.color14:     #91e7ef
+!
+! White
+*.color7:      #eef2f7
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffcf4a
+!*.colorIT:
+!*.colorUL:
