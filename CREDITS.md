@@ -633,3 +633,4 @@ The Horizons theme was created by Mark Badolato.
 The Northstar theme was created by Mark Badolato.
 The Obsurdian theme was created by Mark Badolato.
 The Eventide theme was created by Mark Badolato.
+The Molten Core theme was created by Mark Badolato.
