@@ -667,3 +667,5 @@ The Thermal Receipt theme was created by Mark Badolato.
 The Evergreen theme was created by Mark Badolato.
 
 The Kwyjibo theme was created by Mark Badolato.
+
+The Painted Desert theme was created by Mark Badolato.
