@@ -665,3 +665,5 @@ The Motel Vacancy theme was created by Mark Badolato.
 The Safety Glass theme was created by Mark Badolato.
 The Thermal Receipt theme was created by Mark Badolato.
 The Evergreen theme was created by Mark Badolato.
+
+The Kwyjibo theme was created by Mark Badolato.
