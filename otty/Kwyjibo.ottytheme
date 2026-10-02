@@ -1,0 +1,17 @@
+[meta]
+name = "Kwyjibo"
+mode = "dark"
+
+[terminal]
+foreground = "#f5f1e8"
+background = "#07173b"
+palette = [
+    "#9eabc8", "#ff6973", "#67d391", "#ffd529",
+    "#70afff", "#e893e4", "#66dce8", "#f5f1e8",
+    "#b9c3d9", "#ff8a91", "#8ae0aa", "#ffe269",
+    "#98c6ff", "#efb3ec", "#8ce7ef", "#ffffff",
+]
+cursor = "#ffd529"
+cursor-text = "#07173b"
+selection-background = "#236aa1"
+selection-foreground = "#fff8e8"

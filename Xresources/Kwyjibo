@@ -1,0 +1,43 @@
+!
+! Kwyjibo
+!
+*.foreground:  #f5f1e8
+*.background:  #07173b
+*.cursorColor: #ffd529
+!
+! Black
+*.color0:      #9eabc8
+*.color8:      #b9c3d9
+!
+! Red
+*.color1:      #ff6973
+*.color9:      #ff8a91
+!
+! Green
+*.color2:      #67d391
+*.color10:     #8ae0aa
+!
+! Yellow
+*.color3:      #ffd529
+*.color11:     #ffe269
+!
+! Blue
+*.color4:      #70afff
+*.color12:     #98c6ff
+!
+! Magenta
+*.color5:      #e893e4
+*.color13:     #efb3ec
+!
+! Cyan
+*.color6:      #66dce8
+*.color14:     #8ce7ef
+!
+! White
+*.color7:      #f5f1e8
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffd529
+!*.colorIT:
+!*.colorUL:

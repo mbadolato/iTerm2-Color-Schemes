@@ -1032,6 +1032,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/kurokula.png)
 
+### Kwyjibo
+
+![Screenshot](/screenshots/kwyjibo.png)
+
 ### Lab Fox
 
 ![Screenshot](/screenshots/lab-fox.png)

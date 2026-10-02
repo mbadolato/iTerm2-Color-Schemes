@@ -1,0 +1,12 @@
+# Kwyjibo
+[colors]
+foreground = "#f5f1e8"
+background = "#07173b"
+cursor_bg = "#ffd529"
+cursor_border = "#ffd529"
+cursor_fg = "#07173b"
+selection_bg = "#236aa1"
+selection_fg = "#fff8e8"
+
+ansi = ["#9eabc8","#ff6973","#67d391","#ffd529","#70afff","#e893e4","#66dce8","#f5f1e8"]
+brights = ["#b9c3d9","#ff8a91","#8ae0aa","#ffe269","#98c6ff","#efb3ec","#8ce7ef","#ffffff"]

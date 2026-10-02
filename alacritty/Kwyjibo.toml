@@ -1,0 +1,33 @@
+# Colors (Kwyjibo)
+
+[colors.bright]
+black = '#b9c3d9'
+blue = '#98c6ff'
+cyan = '#8ce7ef'
+green = '#8ae0aa'
+magenta = '#efb3ec'
+red = '#ff8a91'
+white = '#ffffff'
+yellow = '#ffe269'
+
+[colors.cursor]
+cursor = '#ffd529'
+text = '#07173b'
+
+[colors.normal]
+black = '#9eabc8'
+blue = '#70afff'
+cyan = '#66dce8'
+green = '#67d391'
+magenta = '#e893e4'
+red = '#ff6973'
+white = '#f5f1e8'
+yellow = '#ffd529'
+
+[colors.primary]
+background = '#07173b'
+foreground = '#f5f1e8'
+
+[colors.selection]
+background = '#236aa1'
+text = '#fff8e8'
