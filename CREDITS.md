@@ -689,3 +689,5 @@ The Desert Thunder theme was created by Mark Badolato.
 The Mesa Blue theme was created by Mark Badolato.
 
 The Monsoon Mesa theme was created by Mark Badolato.
+
+The Ocotillo theme was created by Mark Badolato.
