@@ -2686,6 +2686,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/spring.png)
 
+### Springfield Resident
+
+![Screenshot](/screenshots/springfield-resident.png)
+
 ### Squintless
 
 ![Screenshot](/screenshots/squintless.png)
