@@ -679,3 +679,5 @@ The Saguaro theme was created by Mark Badolato.
 The Adobe Moon theme was created by Mark Badolato.
 
 The Agave Dusk theme was created by Mark Badolato.
+
+The Canyon Shadow theme was created by Mark Badolato.
