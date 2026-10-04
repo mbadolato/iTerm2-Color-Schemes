@@ -668,4 +668,8 @@ The Evergreen theme was created by Mark Badolato.
 
 The Kwyjibo theme was created by Mark Badolato.
 
+The Springfield Resident theme was created by Mark Badolato.
+
+The Springfield Resident Hight Contrast theme was created by Mark Badolato.
+
 The Aztec Sunset theme was created by Mark Badolato.
