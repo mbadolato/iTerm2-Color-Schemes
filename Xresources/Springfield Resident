@@ -1,0 +1,43 @@
+!
+! Springfield Resident
+!
+*.foreground:  #084f8f
+*.background:  #ffdd32
+*.cursorColor: #1687e0
+!
+! Black
+*.color0:      #252b32
+*.color8:      #555a61
+!
+! Red
+*.color1:      #b83245
+*.color9:      #c63d4d
+!
+! Green
+*.color2:      #237a3b
+*.color10:     #2b8243
+!
+! Yellow
+*.color3:      #8a5a00
+*.color11:     #765000
+!
+! Blue
+*.color4:      #075aa8
+*.color12:     #1267b8
+!
+! Magenta
+*.color5:      #a92d87
+*.color13:     #b33792
+!
+! Cyan
+*.color6:      #00748a
+*.color14:     #007c91
+!
+! White
+*.color7:      #5b5960
+*.color15:     #4a4d52
+!
+! Bold, Italic, Underline
+*.colorBD:     #075aa8
+!*.colorIT:
+!*.colorUL:
