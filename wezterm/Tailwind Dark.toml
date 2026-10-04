@@ -1,0 +1,12 @@
+# Tailwind Dark
+[colors]
+foreground = "#e5e5e5"
+background = "#262626"
+cursor_bg = "#e5e5e5"
+cursor_border = "#e5e5e5"
+cursor_fg = "#262626"
+selection_bg = "#475569"
+selection_fg = "#e5e5e5"
+
+ansi = ["#404040","#f87171","#4ade80","#facc15","#38bdf8","#e879f9","#2dd4bf","#e5e5e5"]
+brights = ["#a3a3a3","#fca5a5","#86efac","#fde047","#7dd3fc","#f0abfc","#5eead4","#f5f5f5"]

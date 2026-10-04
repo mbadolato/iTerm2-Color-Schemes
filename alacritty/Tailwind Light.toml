@@ -1,0 +1,33 @@
+# Colors (Tailwind Light)
+
+[colors.bright]
+black = '#737373'
+blue = '#0284c7'
+cyan = '#0d9488'
+green = '#16a34a'
+magenta = '#c026d3'
+red = '#dc2626'
+white = '#e5e5e5'
+yellow = '#ca8a04'
+
+[colors.cursor]
+cursor = '#0a0a0a'
+text = '#fafafa'
+
+[colors.normal]
+black = '#262626'
+blue = '#0369a1'
+cyan = '#0f766e'
+green = '#15803d'
+magenta = '#a21caf'
+red = '#b91c1c'
+white = '#bababa'
+yellow = '#a16207'
+
+[colors.primary]
+background = '#fafafa'
+foreground = '#0a0a0a'
+
+[colors.selection]
+background = '#e2e8f0'
+text = '#0a0a0a'

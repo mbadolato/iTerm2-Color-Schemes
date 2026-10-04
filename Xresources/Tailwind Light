@@ -1,0 +1,43 @@
+!
+! Tailwind Light
+!
+*.foreground:  #0a0a0a
+*.background:  #fafafa
+*.cursorColor: #0a0a0a
+!
+! Black
+*.color0:      #262626
+*.color8:      #737373
+!
+! Red
+*.color1:      #b91c1c
+*.color9:      #dc2626
+!
+! Green
+*.color2:      #15803d
+*.color10:     #16a34a
+!
+! Yellow
+*.color3:      #a16207
+*.color11:     #ca8a04
+!
+! Blue
+*.color4:      #0369a1
+*.color12:     #0284c7
+!
+! Magenta
+*.color5:      #a21caf
+*.color13:     #c026d3
+!
+! Cyan
+*.color6:      #0f766e
+*.color14:     #0d9488
+!
+! White
+*.color7:      #bababa
+*.color15:     #e5e5e5
+!
+! Bold, Italic, Underline
+*.colorBD:     #0a0a0a
+!*.colorIT:
+!*.colorUL:

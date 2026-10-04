@@ -2182,6 +2182,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/synthwave.png)
 
+### Tailwind Dark
+
+![Screenshot](/screenshots/tailwind-dark.png)
+
 ### Tearout
 
 ![Screenshot](/screenshots/tearout.png)
@@ -3015,6 +3019,10 @@ The screenshots are categorized.
 ### Sun Bleached
 
 ![Screenshot](/screenshots/sun-bleached.png)
+
+### Tailwind Light
+
+![Screenshot](/screenshots/tailwind-light.png)
 
 ### Tango Adapted
 

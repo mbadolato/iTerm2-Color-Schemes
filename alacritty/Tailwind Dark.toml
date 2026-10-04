@@ -1,0 +1,33 @@
+# Colors (Tailwind Dark)
+
+[colors.bright]
+black = '#a3a3a3'
+blue = '#7dd3fc'
+cyan = '#5eead4'
+green = '#86efac'
+magenta = '#f0abfc'
+red = '#fca5a5'
+white = '#f5f5f5'
+yellow = '#fde047'
+
+[colors.cursor]
+cursor = '#e5e5e5'
+text = '#262626'
+
+[colors.normal]
+black = '#404040'
+blue = '#38bdf8'
+cyan = '#2dd4bf'
+green = '#4ade80'
+magenta = '#e879f9'
+red = '#f87171'
+white = '#e5e5e5'
+yellow = '#facc15'
+
+[colors.primary]
+background = '#262626'
+foreground = '#e5e5e5'
+
+[colors.selection]
+background = '#475569'
+text = '#e5e5e5'

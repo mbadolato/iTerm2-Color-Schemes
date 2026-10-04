@@ -1,0 +1,41 @@
+(
+    name: "Tailwind Dark",
+    foreground: "#e5e5e5",
+    background: "#262626",
+    cursor: "#e5e5e5",
+    bright_foreground: "#e5e5e5",
+    dim_foreground: "#a3a3a3",
+
+    normal: (
+        black: "#404040",
+        red: "#f87171",
+        green: "#4ade80",
+        yellow: "#facc15",
+        blue: "#38bdf8",
+        magenta: "#e879f9",
+        cyan: "#2dd4bf",
+        white: "#e5e5e5"
+    ),
+
+    bright: (
+        black: "#a3a3a3",
+        red: "#fca5a5",
+        green: "#86efac",
+        yellow: "#fde047",
+        blue: "#7dd3fc",
+        magenta: "#f0abfc",
+        cyan: "#5eead4",
+        white: "#f5f5f5"
+    ),
+
+    dim: (
+        black: "#404040",
+        red: "#f87171",
+        green: "#4ade80",
+        yellow: "#facc15",
+        blue: "#38bdf8",
+        magenta: "#e879f9",
+        cyan: "#2dd4bf",
+        white: "#e5e5e5"
+    ),
+)

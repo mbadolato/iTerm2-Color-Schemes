@@ -1,0 +1,41 @@
+(
+    name: "Tailwind Light",
+    foreground: "#0a0a0a",
+    background: "#fafafa",
+    cursor: "#0a0a0a",
+    bright_foreground: "#0a0a0a",
+    dim_foreground: "#737373",
+
+    normal: (
+        black: "#262626",
+        red: "#b91c1c",
+        green: "#15803d",
+        yellow: "#a16207",
+        blue: "#0369a1",
+        magenta: "#a21caf",
+        cyan: "#0f766e",
+        white: "#bababa"
+    ),
+
+    bright: (
+        black: "#737373",
+        red: "#dc2626",
+        green: "#16a34a",
+        yellow: "#ca8a04",
+        blue: "#0284c7",
+        magenta: "#c026d3",
+        cyan: "#0d9488",
+        white: "#e5e5e5"
+    ),
+
+    dim: (
+        black: "#262626",
+        red: "#b91c1c",
+        green: "#15803d",
+        yellow: "#a16207",
+        blue: "#0369a1",
+        magenta: "#a21caf",
+        cyan: "#0f766e",
+        white: "#bababa"
+    ),
+)
