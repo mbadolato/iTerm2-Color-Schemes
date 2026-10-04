@@ -715,3 +715,5 @@ The Desert Rose theme was created by Mark Badolato.
 The Mesa Twilight theme was created by Mark Badolato.
 
 The Petrified theme was created by Mark Badolato.
+
+The Prickly Pear theme was created by Mark Badolato.
