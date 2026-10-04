@@ -707,3 +707,5 @@ The Caliche theme was created by Mark Badolato.
 The Cholla theme was created by Mark Badolato.
 
 The Desert Bloom theme was created by Mark Badolato.
+
+The Desert Moon theme was created by Mark Badolato.
