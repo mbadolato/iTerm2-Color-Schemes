@@ -703,3 +703,5 @@ The Turquoise Trail theme was created by Mark Badolato.
 The Barrel Cactus theme was created by Mark Badolato.
 
 The Caliche theme was created by Mark Badolato.
+
+The Cholla theme was created by Mark Badolato.
