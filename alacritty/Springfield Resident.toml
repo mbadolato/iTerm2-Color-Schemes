@@ -1,0 +1,33 @@
+# Colors (Springfield Resident)
+
+[colors.bright]
+black = '#555a61'
+blue = '#1267b8'
+cyan = '#007c91'
+green = '#2b8243'
+magenta = '#b33792'
+red = '#c63d4d'
+white = '#4a4d52'
+yellow = '#765000'
+
+[colors.cursor]
+cursor = '#1687e0'
+text = '#ffef73'
+
+[colors.normal]
+black = '#252b32'
+blue = '#075aa8'
+cyan = '#00748a'
+green = '#237a3b'
+magenta = '#a92d87'
+red = '#b83245'
+white = '#5b5960'
+yellow = '#8a5a00'
+
+[colors.primary]
+background = '#ffdd32'
+foreground = '#084f8f'
+
+[colors.selection]
+background = '#ef4fa8'
+text = '#24205f'
