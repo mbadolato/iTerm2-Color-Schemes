@@ -1,0 +1,41 @@
+(
+    name: "Springfield Resident",
+    foreground: "#084f8f",
+    background: "#ffdd32",
+    cursor: "#1687e0",
+    bright_foreground: "#084f8f",
+    dim_foreground: "#555a61",
+
+    normal: (
+        black: "#252b32",
+        red: "#b83245",
+        green: "#237a3b",
+        yellow: "#8a5a00",
+        blue: "#075aa8",
+        magenta: "#a92d87",
+        cyan: "#00748a",
+        white: "#5b5960"
+    ),
+
+    bright: (
+        black: "#555a61",
+        red: "#c63d4d",
+        green: "#2b8243",
+        yellow: "#765000",
+        blue: "#1267b8",
+        magenta: "#b33792",
+        cyan: "#007c91",
+        white: "#4a4d52"
+    ),
+
+    dim: (
+        black: "#252b32",
+        red: "#b83245",
+        green: "#237a3b",
+        yellow: "#8a5a00",
+        blue: "#075aa8",
+        magenta: "#a92d87",
+        cyan: "#00748a",
+        white: "#5b5960"
+    ),
+)
