@@ -719,3 +719,5 @@ The Petrified theme was created by Mark Badolato.
 The Prickly Pear theme was created by Mark Badolato.
 
 The Sedona theme was created by Mark Badolato.
+
+The Sun Bleached theme was created by Mark Badolato.
