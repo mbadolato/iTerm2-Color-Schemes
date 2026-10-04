@@ -683,3 +683,5 @@ The Agave Dusk theme was created by Mark Badolato.
 The Canyon Shadow theme was created by Mark Badolato.
 
 The Copper Canyon theme was created by Mark Badolato.
+
+The Desert Thunder theme was created by Mark Badolato.
