@@ -725,3 +725,5 @@ The Sun Bleached theme was created by Mark Badolato.
 The White Sands theme was created by Mark Badolato.
 
 The Tailwind Dark theme was created by [Bhajneet S.K.](https://github.com/bhajneet).
+
+The Tailwind Light theme was created by [Bhajneet S.K.](https://github.com/bhajneet).
