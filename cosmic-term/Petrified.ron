@@ -1,0 +1,41 @@
+(
+    name: "Petrified",
+    foreground: "#fff0dc",
+    background: "#403637",
+    cursor: "#f0b65c",
+    bright_foreground: "#fff0dc",
+    dim_foreground: "#d6d0ca",
+
+    normal: (
+        black: "#c7c0ba",
+        red: "#ee9676",
+        green: "#82c794",
+        yellow: "#e5c05c",
+        blue: "#80bdd2",
+        magenta: "#cc9fc1",
+        cyan: "#75ccc7",
+        white: "#fff0dc"
+    ),
+
+    bright: (
+        black: "#d6d0ca",
+        red: "#f4aa8d",
+        green: "#9bd4a7",
+        yellow: "#efd17d",
+        blue: "#9dcddd",
+        magenta: "#dab6cf",
+        cyan: "#94dad5",
+        white: "#fff9ed"
+    ),
+
+    dim: (
+        black: "#c7c0ba",
+        red: "#ee9676",
+        green: "#82c794",
+        yellow: "#e5c05c",
+        blue: "#80bdd2",
+        magenta: "#cc9fc1",
+        cyan: "#75ccc7",
+        white: "#fff0dc"
+    ),
+)

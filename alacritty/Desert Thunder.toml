@@ -1,0 +1,33 @@
+# Colors (Desert Thunder)
+
+[colors.bright]
+black = '#dee3e2'
+blue = '#c1dff4'
+cyan = '#b9ebe8'
+green = '#b0e3bd'
+magenta = '#e7cae8'
+red = '#f9b6a5'
+white = '#fffdf4'
+yellow = '#f6e19a'
+
+[colors.cursor]
+cursor = '#f4d06f'
+text = '#31485a'
+
+[colors.normal]
+black = '#d0d6d5'
+blue = '#a8d2f0'
+cyan = '#9de1df'
+green = '#98d9ad'
+magenta = '#dcb4df'
+red = '#f5a08c'
+white = '#f5f1df'
+yellow = '#eed47d'
+
+[colors.primary]
+background = '#31485a'
+foreground = '#f5f1df'
+
+[colors.selection]
+background = '#4d6475'
+text = '#fffbed'

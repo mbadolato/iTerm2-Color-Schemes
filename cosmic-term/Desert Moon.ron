@@ -1,0 +1,41 @@
+(
+    name: "Desert Moon",
+    foreground: "#f2f2e8",
+    background: "#0b3459",
+    cursor: "#d9e3d3",
+    bright_foreground: "#f2f2e8",
+    dim_foreground: "#cbd5d8",
+
+    normal: (
+        black: "#b9c6cb",
+        red: "#e79b90",
+        green: "#8fc9a3",
+        yellow: "#e2c979",
+        blue: "#8dbfdd",
+        magenta: "#b9a7d7",
+        cyan: "#80cdd0",
+        white: "#f2f2e8"
+    ),
+
+    bright: (
+        black: "#cbd5d8",
+        red: "#efb0a7",
+        green: "#a8d6b6",
+        yellow: "#ecd995",
+        blue: "#a9d0e7",
+        magenta: "#cabce2",
+        cyan: "#9bdadd",
+        white: "#fffdf5"
+    ),
+
+    dim: (
+        black: "#b9c6cb",
+        red: "#e79b90",
+        green: "#8fc9a3",
+        yellow: "#e2c979",
+        blue: "#8dbfdd",
+        magenta: "#b9a7d7",
+        cyan: "#80cdd0",
+        white: "#f2f2e8"
+    ),
+)

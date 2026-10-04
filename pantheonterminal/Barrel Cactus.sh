@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Barrel Cactus'
+cursor-color='#f0bb4d'
+foreground='#fff0d3'
+background='rgba(20,80,57,.95)'
+palette='#bed0c3:#f5a181:#8bd19b:#eac95f:#83bfd8:#dcaac8:#77d3ca:#fff0d3:#cedbd1:#f8ab89:#a3dcaf:#f3d97f:#9fcfe2:#e4b7cf:#96dfd7:#fff9e9'
+COLORS

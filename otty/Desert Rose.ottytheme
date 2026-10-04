@@ -1,0 +1,17 @@
+[meta]
+name = "Desert Rose"
+mode = "dark"
+
+[terminal]
+foreground = "#fff0df"
+background = "#5a2032"
+palette = [
+    "#c9b9b8", "#ff978b", "#94d1a1", "#edc96d",
+    "#8fc4e8", "#dfa2c9", "#82d7d2", "#fff0df",
+    "#dacbca", "#ffaea3", "#a9dcaf", "#f8d98b",
+    "#acd4ef", "#e9bad7", "#a2e4df", "#fffaf2",
+]
+cursor = "#f4bd63"
+cursor-text = "#5a2032"
+selection-background = "#7d4050"
+selection-foreground = "#fff7ed"

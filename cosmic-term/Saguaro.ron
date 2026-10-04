@@ -1,0 +1,41 @@
+(
+    name: "Saguaro",
+    foreground: "#fff0d5",
+    background: "#001c13",
+    cursor: "#ffb52e",
+    bright_foreground: "#fff0d5",
+    dim_foreground: "#c5d0ca",
+
+    normal: (
+        black: "#aebdb5",
+        red: "#f08a68",
+        green: "#82d49d",
+        yellow: "#f2c85f",
+        blue: "#72d2ce",
+        magenta: "#e887b0",
+        cyan: "#7bd9d5",
+        white: "#fff0d5"
+    ),
+
+    bright: (
+        black: "#c5d0ca",
+        red: "#ffa078",
+        green: "#a2dfb5",
+        yellow: "#f8d982",
+        blue: "#9be1dc",
+        magenta: "#f0a6c5",
+        cyan: "#a3e7e2",
+        white: "#fff9ea"
+    ),
+
+    dim: (
+        black: "#aebdb5",
+        red: "#f08a68",
+        green: "#82d49d",
+        yellow: "#f2c85f",
+        blue: "#72d2ce",
+        magenta: "#e887b0",
+        cyan: "#7bd9d5",
+        white: "#fff0d5"
+    ),
+)

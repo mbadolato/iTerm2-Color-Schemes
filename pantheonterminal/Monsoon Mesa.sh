@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Monsoon Mesa'
+cursor-color='#f4c96a'
+foreground='#f8f1df'
+background='rgba(22,75,88,.95)'
+palette='#d0d8d6:#f7a18d:#98d9ac:#f0d278:#a7d1ef:#dfb1dc:#9ae1de:#f8f1df:#dee4e2:#fbb7a6:#afe3bc:#f7e097:#c0def4:#e9c8e7:#b7ebe7:#fffdf4'
+COLORS

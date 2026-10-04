@@ -1,0 +1,43 @@
+!
+! Monsoon Mesa
+!
+*.foreground:  #f8f1df
+*.background:  #164b58
+*.cursorColor: #f4c96a
+!
+! Black
+*.color0:      #d0d8d6
+*.color8:      #dee4e2
+!
+! Red
+*.color1:      #f7a18d
+*.color9:      #fbb7a6
+!
+! Green
+*.color2:      #98d9ac
+*.color10:     #afe3bc
+!
+! Yellow
+*.color3:      #f0d278
+*.color11:     #f7e097
+!
+! Blue
+*.color4:      #a7d1ef
+*.color12:     #c0def4
+!
+! Magenta
+*.color5:      #dfb1dc
+*.color13:     #e9c8e7
+!
+! Cyan
+*.color6:      #9ae1de
+*.color14:     #b7ebe7
+!
+! White
+*.color7:      #f8f1df
+*.color15:     #fffdf4
+!
+! Bold, Italic, Underline
+*.colorBD:     #8ee2dc
+!*.colorIT:
+!*.colorUL:

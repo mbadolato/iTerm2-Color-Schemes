@@ -1,0 +1,43 @@
+!
+! Copper Canyon
+!
+*.foreground:  #fff0d5
+*.background:  #5a3018
+*.cursorColor: #f6bd55
+!
+! Black
+*.color0:      #d6c8b8
+*.color8:      #e4d8ca
+!
+! Red
+*.color1:      #ffa17e
+*.color9:      #ffb698
+!
+! Green
+*.color2:      #94d9a5
+*.color10:     #ace2b8
+!
+! Yellow
+*.color3:      #f5cf69
+*.color11:     #ffdf8a
+!
+! Blue
+*.color4:      #91c9ed
+*.color12:     #aed8f3
+!
+! Magenta
+*.color5:      #e5a7d0
+*.color13:     #eebedc
+!
+! Cyan
+*.color6:      #85ddd6
+*.color14:     #a5e8e2
+!
+! White
+*.color7:      #fff0d5
+*.color15:     #fffaf0
+!
+! Bold, Italic, Underline
+*.colorBD:     #77ddd0
+!*.colorIT:
+!*.colorUL:

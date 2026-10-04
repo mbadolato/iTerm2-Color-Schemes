@@ -1,0 +1,12 @@
+# Springfield Resident Hight Contrast
+[colors]
+foreground = "#062f63"
+background = "#ffdd32"
+cursor_bg = "#0b4b94"
+cursor_border = "#0b4b94"
+cursor_fg = "#fff3a3"
+selection_bg = "#0b4b94"
+selection_fg = "#fff3a3"
+
+ansi = ["#171b24","#7a1026","#134e24","#5d3e00","#063d82","#67145d","#004a5d","#29303b"]
+brights = ["#343b46","#85162c","#164e27","#5c3e00","#084287","#701966","#004a5c","#303742"]

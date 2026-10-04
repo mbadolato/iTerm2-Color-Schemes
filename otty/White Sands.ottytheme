@@ -1,0 +1,17 @@
+[meta]
+name = "White Sands"
+mode = "light"
+
+[terminal]
+foreground = "#283b54"
+background = "#f4efe4"
+palette = [
+    "#34445a", "#9b493f", "#46734f", "#7a641f",
+    "#315d86", "#73568f", "#33747b", "#46515c",
+    "#596678", "#a35448", "#4b7553", "#7a6625",
+    "#426e9e", "#7b6095", "#376f75", "#1f2c3c",
+]
+cursor = "#d87859"
+cursor-text = "#f4efe4"
+selection-background = "#d9e4e8"
+selection-foreground = "#172c45"

@@ -1,0 +1,41 @@
+(
+    name: "Monsoon Mesa",
+    foreground: "#f8f1df",
+    background: "#164b58",
+    cursor: "#f4c96a",
+    bright_foreground: "#f8f1df",
+    dim_foreground: "#dee4e2",
+
+    normal: (
+        black: "#d0d8d6",
+        red: "#f7a18d",
+        green: "#98d9ac",
+        yellow: "#f0d278",
+        blue: "#a7d1ef",
+        magenta: "#dfb1dc",
+        cyan: "#9ae1de",
+        white: "#f8f1df"
+    ),
+
+    bright: (
+        black: "#dee4e2",
+        red: "#fbb7a6",
+        green: "#afe3bc",
+        yellow: "#f7e097",
+        blue: "#c0def4",
+        magenta: "#e9c8e7",
+        cyan: "#b7ebe7",
+        white: "#fffdf4"
+    ),
+
+    dim: (
+        black: "#d0d8d6",
+        red: "#f7a18d",
+        green: "#98d9ac",
+        yellow: "#f0d278",
+        blue: "#a7d1ef",
+        magenta: "#dfb1dc",
+        cyan: "#9ae1de",
+        white: "#f8f1df"
+    ),
+)

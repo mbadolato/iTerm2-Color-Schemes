@@ -1,0 +1,41 @@
+(
+    name: "Mesa Blue",
+    foreground: "#fff0d7",
+    background: "#164c72",
+    cursor: "#ffc05d",
+    bright_foreground: "#fff0d7",
+    dim_foreground: "#e1e5e2",
+
+    normal: (
+        black: "#d3d8d5",
+        red: "#ffad91",
+        green: "#9fdfad",
+        yellow: "#f6d67a",
+        blue: "#b7d9f4",
+        magenta: "#ecafd4",
+        cyan: "#a6e5df",
+        white: "#fff0d7"
+    ),
+
+    bright: (
+        black: "#e1e5e2",
+        red: "#ffc0a8",
+        green: "#b9e9c2",
+        yellow: "#ffe596",
+        blue: "#cee6f8",
+        magenta: "#f3c7e0",
+        cyan: "#c2efea",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#d3d8d5",
+        red: "#ffad91",
+        green: "#9fdfad",
+        yellow: "#f6d67a",
+        blue: "#b7d9f4",
+        magenta: "#ecafd4",
+        cyan: "#a6e5df",
+        white: "#fff0d7"
+    ),
+)

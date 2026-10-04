@@ -1,0 +1,41 @@
+(
+    name: "White Sands",
+    foreground: "#283b54",
+    background: "#f4efe4",
+    cursor: "#d87859",
+    bright_foreground: "#283b54",
+    dim_foreground: "#596678",
+
+    normal: (
+        black: "#34445a",
+        red: "#9b493f",
+        green: "#46734f",
+        yellow: "#7a641f",
+        blue: "#315d86",
+        magenta: "#73568f",
+        cyan: "#33747b",
+        white: "#46515c"
+    ),
+
+    bright: (
+        black: "#596678",
+        red: "#a35448",
+        green: "#4b7553",
+        yellow: "#7a6625",
+        blue: "#426e9e",
+        magenta: "#7b6095",
+        cyan: "#376f75",
+        white: "#1f2c3c"
+    ),
+
+    dim: (
+        black: "#34445a",
+        red: "#9b493f",
+        green: "#46734f",
+        yellow: "#7a641f",
+        blue: "#315d86",
+        magenta: "#73568f",
+        cyan: "#33747b",
+        white: "#46515c"
+    ),
+)

@@ -1,0 +1,12 @@
+# White Sands
+[colors]
+foreground = "#283b54"
+background = "#f4efe4"
+cursor_bg = "#d87859"
+cursor_border = "#d87859"
+cursor_fg = "#f4efe4"
+selection_bg = "#d9e4e8"
+selection_fg = "#172c45"
+
+ansi = ["#34445a","#9b493f","#46734f","#7a641f","#315d86","#73568f","#33747b","#46515c"]
+brights = ["#596678","#a35448","#4b7553","#7a6625","#426e9e","#7b6095","#376f75","#1f2c3c"]

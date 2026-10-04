@@ -1,0 +1,33 @@
+# Colors (Prickly Pear)
+
+[colors.bright]
+black = '#dbcbd2'
+blue = '#b4d5f4'
+cyan = '#9ce7e2'
+green = '#98dfa6'
+magenta = '#edb8df'
+red = '#ffa8b0'
+white = '#fffaf2'
+yellow = '#f9d778'
+
+[colors.cursor]
+cursor = '#f4c24f'
+text = '#561038'
+
+[colors.normal]
+black = '#cbb8c2'
+blue = '#9ac4ef'
+cyan = '#7cdbd5'
+green = '#78d58e'
+magenta = '#e49bd2'
+red = '#ff8d99'
+white = '#fff0df'
+yellow = '#f5c54e'
+
+[colors.primary]
+background = '#561038'
+foreground = '#fff0df'
+
+[colors.selection]
+background = '#7b2853'
+text = '#fff7ed'

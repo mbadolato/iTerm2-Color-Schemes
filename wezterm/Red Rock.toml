@@ -1,0 +1,12 @@
+# Red Rock
+[colors]
+foreground = "#fff0dc"
+background = "#672a20"
+cursor_bg = "#f7bd55"
+cursor_border = "#f7bd55"
+cursor_fg = "#672a20"
+selection_bg = "#87483a"
+selection_fg = "#fff7eb"
+
+ansi = ["#d9c7bb","#ffa18b","#91d7a7","#f5d06f","#94c9ee","#e7a9d3","#87ddd7","#fff0dc"]
+brights = ["#e6d5ca","#ffb5a1","#aae1ba","#ffe08e","#b0d8f3","#efc0de","#a7e8e2","#fffaf2"]

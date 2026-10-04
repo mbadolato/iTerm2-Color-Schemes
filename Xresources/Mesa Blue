@@ -1,0 +1,43 @@
+!
+! Mesa Blue
+!
+*.foreground:  #fff0d7
+*.background:  #164c72
+*.cursorColor: #ffc05d
+!
+! Black
+*.color0:      #d3d8d5
+*.color8:      #e1e5e2
+!
+! Red
+*.color1:      #ffad91
+*.color9:      #ffc0a8
+!
+! Green
+*.color2:      #9fdfad
+*.color10:     #b9e9c2
+!
+! Yellow
+*.color3:      #f6d67a
+*.color11:     #ffe596
+!
+! Blue
+*.color4:      #b7d9f4
+*.color12:     #cee6f8
+!
+! Magenta
+*.color5:      #ecafd4
+*.color13:     #f3c7e0
+!
+! Cyan
+*.color6:      #a6e5df
+*.color14:     #c2efea
+!
+! White
+*.color7:      #fff0d7
+*.color15:     #fffaf0
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffb05f
+!*.colorIT:
+!*.colorUL:

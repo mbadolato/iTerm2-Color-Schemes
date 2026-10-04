@@ -1,0 +1,41 @@
+(
+    name: "Copper Canyon",
+    foreground: "#fff0d5",
+    background: "#5a3018",
+    cursor: "#f6bd55",
+    bright_foreground: "#fff0d5",
+    dim_foreground: "#e4d8ca",
+
+    normal: (
+        black: "#d6c8b8",
+        red: "#ffa17e",
+        green: "#94d9a5",
+        yellow: "#f5cf69",
+        blue: "#91c9ed",
+        magenta: "#e5a7d0",
+        cyan: "#85ddd6",
+        white: "#fff0d5"
+    ),
+
+    bright: (
+        black: "#e4d8ca",
+        red: "#ffb698",
+        green: "#ace2b8",
+        yellow: "#ffdf8a",
+        blue: "#aed8f3",
+        magenta: "#eebedc",
+        cyan: "#a5e8e2",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#d6c8b8",
+        red: "#ffa17e",
+        green: "#94d9a5",
+        yellow: "#f5cf69",
+        blue: "#91c9ed",
+        magenta: "#e5a7d0",
+        cyan: "#85ddd6",
+        white: "#fff0d5"
+    ),
+)

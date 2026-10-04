@@ -1,0 +1,12 @@
+# Petrified
+[colors]
+foreground = "#fff0dc"
+background = "#403637"
+cursor_bg = "#f0b65c"
+cursor_border = "#f0b65c"
+cursor_fg = "#403637"
+selection_bg = "#625456"
+selection_fg = "#fff8ea"
+
+ansi = ["#c7c0ba","#ee9676","#82c794","#e5c05c","#80bdd2","#cc9fc1","#75ccc7","#fff0dc"]
+brights = ["#d6d0ca","#f4aa8d","#9bd4a7","#efd17d","#9dcddd","#dab6cf","#94dad5","#fff9ed"]

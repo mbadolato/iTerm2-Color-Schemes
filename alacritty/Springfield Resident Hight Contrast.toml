@@ -1,0 +1,33 @@
+# Colors (Springfield Resident Hight Contrast)
+
+[colors.bright]
+black = '#343b46'
+blue = '#084287'
+cyan = '#004a5c'
+green = '#164e27'
+magenta = '#701966'
+red = '#85162c'
+white = '#303742'
+yellow = '#5c3e00'
+
+[colors.cursor]
+cursor = '#0b4b94'
+text = '#fff3a3'
+
+[colors.normal]
+black = '#171b24'
+blue = '#063d82'
+cyan = '#004a5d'
+green = '#134e24'
+magenta = '#67145d'
+red = '#7a1026'
+white = '#29303b'
+yellow = '#5d3e00'
+
+[colors.primary]
+background = '#ffdd32'
+foreground = '#062f63'
+
+[colors.selection]
+background = '#0b4b94'
+text = '#fff3a3'

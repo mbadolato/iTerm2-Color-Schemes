@@ -1,0 +1,41 @@
+(
+    name: "Barrel Cactus",
+    foreground: "#fff0d3",
+    background: "#145039",
+    cursor: "#f0bb4d",
+    bright_foreground: "#fff0d3",
+    dim_foreground: "#cedbd1",
+
+    normal: (
+        black: "#bed0c3",
+        red: "#f5a181",
+        green: "#8bd19b",
+        yellow: "#eac95f",
+        blue: "#83bfd8",
+        magenta: "#dcaac8",
+        cyan: "#77d3ca",
+        white: "#fff0d3"
+    ),
+
+    bright: (
+        black: "#cedbd1",
+        red: "#f8ab89",
+        green: "#a3dcaf",
+        yellow: "#f3d97f",
+        blue: "#9fcfe2",
+        magenta: "#e4b7cf",
+        cyan: "#96dfd7",
+        white: "#fff9e9"
+    ),
+
+    dim: (
+        black: "#bed0c3",
+        red: "#f5a181",
+        green: "#8bd19b",
+        yellow: "#eac95f",
+        blue: "#83bfd8",
+        magenta: "#dcaac8",
+        cyan: "#77d3ca",
+        white: "#fff0d3"
+    ),
+)

@@ -1,0 +1,12 @@
+# Desert Bloom
+[colors]
+foreground = "#fff0df"
+background = "#54213e"
+cursor_bg = "#f3bc55"
+cursor_border = "#f3bc55"
+cursor_fg = "#54213e"
+selection_bg = "#75435f"
+selection_fg = "#fff8ed"
+
+ansi = ["#c9bbc3","#f3958d","#86ce91","#edc95f","#92c2e8","#d99dcc","#7ed5cf","#fff0df"]
+brights = ["#d9ccd2","#f9aca5","#9fdaaa","#f6da80","#afd2ef","#e6b6d9","#9ee2dd","#fffaf2"]

@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Mesa Twilight'
+cursor-color='#f3b85b'
+foreground='#fff0df'
+background='rgba(23,43,84,.95)'
+palette='#bfc4ce:#f1958c:#83cba2:#e9c96c:#83b9e6:#c89edb:#78ced3:#fff0df:#d0d4dc:#f8aca5:#9dd8b5:#f2d98a:#9fcaf0:#d9b6e5:#97dce0:#fffaf2'
+COLORS

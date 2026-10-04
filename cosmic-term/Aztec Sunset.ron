@@ -1,0 +1,41 @@
+(
+    name: "Aztec Sunset",
+    foreground: "#ffe6c7",
+    background: "#1b0c18",
+    cursor: "#ff9f2e",
+    bright_foreground: "#ffe6c7",
+    dim_foreground: "#c0b4b0",
+
+    normal: (
+        black: "#a9a19f",
+        red: "#f47c62",
+        green: "#67c894",
+        yellow: "#e9bd59",
+        blue: "#72c6c2",
+        magenta: "#e778a8",
+        cyan: "#65d5d0",
+        white: "#ffe6c7"
+    ),
+
+    bright: (
+        black: "#c0b4b0",
+        red: "#ff986d",
+        green: "#86d7a8",
+        yellow: "#ffd071",
+        blue: "#8bd8d2",
+        magenta: "#f194bd",
+        cyan: "#89e2dc",
+        white: "#fff4df"
+    ),
+
+    dim: (
+        black: "#a9a19f",
+        red: "#f47c62",
+        green: "#67c894",
+        yellow: "#e9bd59",
+        blue: "#72c6c2",
+        magenta: "#e778a8",
+        cyan: "#65d5d0",
+        white: "#ffe6c7"
+    ),
+)

@@ -1,0 +1,12 @@
+# Aztec Sunset
+[colors]
+foreground = "#ffe6c7"
+background = "#1b0c18"
+cursor_bg = "#ff9f2e"
+cursor_border = "#ff9f2e"
+cursor_fg = "#1b0c18"
+selection_bg = "#743829"
+selection_fg = "#fff0d8"
+
+ansi = ["#a9a19f","#f47c62","#67c894","#e9bd59","#72c6c2","#e778a8","#65d5d0","#ffe6c7"]
+brights = ["#c0b4b0","#ff986d","#86d7a8","#ffd071","#8bd8d2","#f194bd","#89e2dc","#fff4df"]

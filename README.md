@@ -246,6 +246,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/acid-lime.png)
 
+### Adobe Moon
+
+![Screenshot](/screenshots/adobe-moon.png)
+
 ### Adventure Time
 
 ![Screenshot](/screenshots/adventure-time.png)
@@ -265,6 +269,10 @@ The screenshots are categorized.
 ### Afterglow
 
 ![Screenshot](/screenshots/afterglow.png)
+
+### Agave Dusk
+
+![Screenshot](/screenshots/agave-dusk.png)
 
 ### Aizen Dark
 
@@ -350,9 +358,17 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/ayu.png)
 
+### Aztec Sunset
+
+![Screenshot](/screenshots/aztec-sunset.png)
+
 ### Banana Blueberry
 
 ![Screenshot](/screenshots/banana-blueberry.png)
+
+### Barrel Cactus
+
+![Screenshot](/screenshots/barrel-cactus.png)
 
 ### base16-icy
 
@@ -486,6 +502,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/calamity.png)
 
+### Caliche
+
+![Screenshot](/screenshots/caliche.png)
+
+### Canyon Shadow
+
+![Screenshot](/screenshots/canyon-shadow.png)
+
 ### Carbonfox
 
 ![Screenshot](/screenshots/carbonfox.png)
@@ -529,6 +553,10 @@ The screenshots are categorized.
 ### Chester
 
 ![Screenshot](/screenshots/chester.png)
+
+### Cholla
+
+![Screenshot](/screenshots/cholla.png)
 
 ### Ciapre
 
@@ -577,6 +605,10 @@ The screenshots are categorized.
 ### Cool Night
 
 ![Screenshot](/screenshots/cool-night.png)
+
+### Copper Canyon
+
+![Screenshot](/screenshots/copper-canyon.png)
 
 ### Crayon Pony Fish
 
@@ -661,6 +693,22 @@ The screenshots are categorized.
 ### Deep
 
 ![Screenshot](/screenshots/deep.png)
+
+### Desert Bloom
+
+![Screenshot](/screenshots/desert-bloom.png)
+
+### Desert Moon
+
+![Screenshot](/screenshots/desert-moon.png)
+
+### Desert Rose
+
+![Screenshot](/screenshots/desert-rose.png)
+
+### Desert Thunder
+
+![Screenshot](/screenshots/desert-thunder.png)
 
 ### Desert
 
@@ -1346,6 +1394,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/mellow.png)
 
+### Mesa Blue
+
+![Screenshot](/screenshots/mesa-blue.png)
+
+### Mesa Twilight
+
+![Screenshot](/screenshots/mesa-twilight.png)
+
 ### Mesila One
 
 ![Screenshot](/screenshots/mesila-one.png)
@@ -1445,6 +1501,10 @@ The screenshots are categorized.
 ### Monospace Dark
 
 ![Screenshot](/screenshots/monospace-dark.png)
+
+### Monsoon Mesa
+
+![Screenshot](/screenshots/monsoon-mesa.png)
 
 ### Moonfly
 
@@ -1606,6 +1666,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/oceanic-next.png)
 
+### Ocotillo
+
+![Screenshot](/screenshots/ocotillo.png)
+
 ### Ollie
 
 ![Screenshot](/screenshots/ollie.png)
@@ -1662,6 +1726,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/ozzs-blizzard.png)
 
+### Painted Desert
+
+![Screenshot](/screenshots/painted-desert.png)
+
 ### Pale Night Hc
 
 ![Screenshot](/screenshots/pale-night-hc.png)
@@ -1702,6 +1770,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/peppermint.png)
 
+### Petrified
+
+![Screenshot](/screenshots/petrified.png)
+
 ### Phala Green Dark
 
 ![Screenshot](/screenshots/phala-green-dark.png)
@@ -1734,6 +1806,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/powershell.png)
 
+### Prickly Pear
+
+![Screenshot](/screenshots/prickly-pear.png)
+
 ### Prince of Darkness
 
 ![Screenshot](/screenshots/prince-of-darkness.png)
@@ -1745,6 +1821,10 @@ The screenshots are categorized.
 ### Pro
 
 ![Screenshot](/screenshots/pro.png)
+
+### Pueblo Night
+
+![Screenshot](/screenshots/pueblo-night.png)
 
 ### Purple Portal
 
@@ -1785,6 +1865,10 @@ The screenshots are categorized.
 ### Red Planet
 
 ![Screenshot](/screenshots/red-planet.png)
+
+### Red Rock
+
+![Screenshot](/screenshots/red-rock.png)
 
 ### Red Sands
 
@@ -1838,6 +1922,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/ryuuko.png)
 
+### Saguaro
+
+![Screenshot](/screenshots/saguaro.png)
+
 ### Sakura
 
 ![Screenshot](/screenshots/sakura.png)
@@ -1853,6 +1941,10 @@ The screenshots are categorized.
 ### Seafoam Pastel
 
 ![Screenshot](/screenshots/seafoam-pastel.png)
+
+### Sedona
+
+![Screenshot](/screenshots/sedona.png)
 
 ### SeedFlip Abyss
 
@@ -2177,6 +2269,10 @@ The screenshots are categorized.
 ### Treehouse
 
 ![Screenshot](/screenshots/treehouse.png)
+
+### Turquoise Trail
+
+![Screenshot](/screenshots/turquoise-trail.png)
 
 ### Twilight
 
@@ -2896,6 +2992,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/spring.png)
 
+### Springfield Resident Hight Contrast
+
+![Screenshot](/screenshots/springfield-resident-hight-contrast.png)
+
 ### Springfield Resident
 
 ![Screenshot](/screenshots/springfield-resident.png)
@@ -2911,6 +3011,10 @@ The screenshots are categorized.
 ### Sumi Linen
 
 ![Screenshot](/screenshots/sumi-linen.png)
+
+### Sun Bleached
+
+![Screenshot](/screenshots/sun-bleached.png)
 
 ### Tango Adapted
 
@@ -2959,6 +3063,10 @@ The screenshots are categorized.
 ### Warm Burnout Light
 
 ![Screenshot](/screenshots/warm-burnout-light.png)
+
+### White Sands
+
+![Screenshot](/screenshots/white-sands.png)
 
 ### Willow Grove
 

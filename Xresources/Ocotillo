@@ -1,0 +1,43 @@
+!
+! Ocotillo
+!
+*.foreground:  #fff0d8
+*.background:  #66301e
+*.cursorColor: #f7be55
+!
+! Black
+*.color0:      #d8c8bc
+*.color8:      #e5d6cb
+!
+! Red
+*.color1:      #ffa08a
+*.color9:      #ffb5a0
+!
+! Green
+*.color2:      #91d6a4
+*.color10:     #aae0b7
+!
+! Yellow
+*.color3:      #f4cf6c
+*.color11:     #ffdf8b
+!
+! Blue
+*.color4:      #95c9ed
+*.color12:     #b1d8f3
+!
+! Magenta
+*.color5:      #e7a8d1
+*.color13:     #efbfdb
+!
+! Cyan
+*.color6:      #88ddd6
+*.color14:     #a8e8e2
+!
+! White
+*.color7:      #fff0d8
+*.color15:     #fffaf0
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffb25f
+!*.colorIT:
+!*.colorUL:

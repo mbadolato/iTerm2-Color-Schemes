@@ -1,0 +1,41 @@
+(
+    name: "Mesa Twilight",
+    foreground: "#fff0df",
+    background: "#172b54",
+    cursor: "#f3b85b",
+    bright_foreground: "#fff0df",
+    dim_foreground: "#d0d4dc",
+
+    normal: (
+        black: "#bfc4ce",
+        red: "#f1958c",
+        green: "#83cba2",
+        yellow: "#e9c96c",
+        blue: "#83b9e6",
+        magenta: "#c89edb",
+        cyan: "#78ced3",
+        white: "#fff0df"
+    ),
+
+    bright: (
+        black: "#d0d4dc",
+        red: "#f8aca5",
+        green: "#9dd8b5",
+        yellow: "#f2d98a",
+        blue: "#9fcaf0",
+        magenta: "#d9b6e5",
+        cyan: "#97dce0",
+        white: "#fffaf2"
+    ),
+
+    dim: (
+        black: "#bfc4ce",
+        red: "#f1958c",
+        green: "#83cba2",
+        yellow: "#e9c96c",
+        blue: "#83b9e6",
+        magenta: "#c89edb",
+        cyan: "#78ced3",
+        white: "#fff0df"
+    ),
+)

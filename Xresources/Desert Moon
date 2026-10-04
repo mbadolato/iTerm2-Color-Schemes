@@ -1,0 +1,43 @@
+!
+! Desert Moon
+!
+*.foreground:  #f2f2e8
+*.background:  #0b3459
+*.cursorColor: #d9e3d3
+!
+! Black
+*.color0:      #b9c6cb
+*.color8:      #cbd5d8
+!
+! Red
+*.color1:      #e79b90
+*.color9:      #efb0a7
+!
+! Green
+*.color2:      #8fc9a3
+*.color10:     #a8d6b6
+!
+! Yellow
+*.color3:      #e2c979
+*.color11:     #ecd995
+!
+! Blue
+*.color4:      #8dbfdd
+*.color12:     #a9d0e7
+!
+! Magenta
+*.color5:      #b9a7d7
+*.color13:     #cabce2
+!
+! Cyan
+*.color6:      #80cdd0
+*.color14:     #9bdadd
+!
+! White
+*.color7:      #f2f2e8
+*.color15:     #fffdf5
+!
+! Bold, Italic, Underline
+*.colorBD:     #9fd5e7
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,43 @@
+!
+! Aztec Sunset
+!
+*.foreground:  #ffe6c7
+*.background:  #1b0c18
+*.cursorColor: #ff9f2e
+!
+! Black
+*.color0:      #a9a19f
+*.color8:      #c0b4b0
+!
+! Red
+*.color1:      #f47c62
+*.color9:      #ff986d
+!
+! Green
+*.color2:      #67c894
+*.color10:     #86d7a8
+!
+! Yellow
+*.color3:      #e9bd59
+*.color11:     #ffd071
+!
+! Blue
+*.color4:      #72c6c2
+*.color12:     #8bd8d2
+!
+! Magenta
+*.color5:      #e778a8
+*.color13:     #f194bd
+!
+! Cyan
+*.color6:      #65d5d0
+*.color14:     #89e2dc
+!
+! White
+*.color7:      #ffe6c7
+*.color15:     #fff4df
+!
+! Bold, Italic, Underline
+*.colorBD:     #ff9638
+!*.colorIT:
+!*.colorUL:

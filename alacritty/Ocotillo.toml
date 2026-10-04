@@ -1,0 +1,33 @@
+# Colors (Ocotillo)
+
+[colors.bright]
+black = '#e5d6cb'
+blue = '#b1d8f3'
+cyan = '#a8e8e2'
+green = '#aae0b7'
+magenta = '#efbfdb'
+red = '#ffb5a0'
+white = '#fffaf0'
+yellow = '#ffdf8b'
+
+[colors.cursor]
+cursor = '#f7be55'
+text = '#66301e'
+
+[colors.normal]
+black = '#d8c8bc'
+blue = '#95c9ed'
+cyan = '#88ddd6'
+green = '#91d6a4'
+magenta = '#e7a8d1'
+red = '#ffa08a'
+white = '#fff0d8'
+yellow = '#f4cf6c'
+
+[colors.primary]
+background = '#66301e'
+foreground = '#fff0d8'
+
+[colors.selection]
+background = '#854b37'
+text = '#fff8e9'

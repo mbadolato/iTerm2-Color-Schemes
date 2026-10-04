@@ -1,0 +1,43 @@
+!
+! Barrel Cactus
+!
+*.foreground:  #fff0d3
+*.background:  #145039
+*.cursorColor: #f0bb4d
+!
+! Black
+*.color0:      #bed0c3
+*.color8:      #cedbd1
+!
+! Red
+*.color1:      #f5a181
+*.color9:      #f8ab89
+!
+! Green
+*.color2:      #8bd19b
+*.color10:     #a3dcaf
+!
+! Yellow
+*.color3:      #eac95f
+*.color11:     #f3d97f
+!
+! Blue
+*.color4:      #83bfd8
+*.color12:     #9fcfe2
+!
+! Magenta
+*.color5:      #dcaac8
+*.color13:     #e4b7cf
+!
+! Cyan
+*.color6:      #77d3ca
+*.color14:     #96dfd7
+!
+! White
+*.color7:      #fff0d3
+*.color15:     #fff9e9
+!
+! Bold, Italic, Underline
+*.colorBD:     #f5c34e
+!*.colorIT:
+!*.colorUL:

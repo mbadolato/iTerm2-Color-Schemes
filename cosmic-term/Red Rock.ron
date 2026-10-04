@@ -1,0 +1,41 @@
+(
+    name: "Red Rock",
+    foreground: "#fff0dc",
+    background: "#672a20",
+    cursor: "#f7bd55",
+    bright_foreground: "#fff0dc",
+    dim_foreground: "#e6d5ca",
+
+    normal: (
+        black: "#d9c7bb",
+        red: "#ffa18b",
+        green: "#91d7a7",
+        yellow: "#f5d06f",
+        blue: "#94c9ee",
+        magenta: "#e7a9d3",
+        cyan: "#87ddd7",
+        white: "#fff0dc"
+    ),
+
+    bright: (
+        black: "#e6d5ca",
+        red: "#ffb5a1",
+        green: "#aae1ba",
+        yellow: "#ffe08e",
+        blue: "#b0d8f3",
+        magenta: "#efc0de",
+        cyan: "#a7e8e2",
+        white: "#fffaf2"
+    ),
+
+    dim: (
+        black: "#d9c7bb",
+        red: "#ffa18b",
+        green: "#91d7a7",
+        yellow: "#f5d06f",
+        blue: "#94c9ee",
+        magenta: "#e7a9d3",
+        cyan: "#87ddd7",
+        white: "#fff0dc"
+    ),
+)

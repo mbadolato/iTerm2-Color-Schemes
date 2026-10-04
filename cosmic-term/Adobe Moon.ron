@@ -1,0 +1,41 @@
+(
+    name: "Adobe Moon",
+    foreground: "#fff0d8",
+    background: "#54251d",
+    cursor: "#f5c15b",
+    bright_foreground: "#fff0d8",
+    dim_foreground: "#e2d3c8",
+
+    normal: (
+        black: "#d4c3b5",
+        red: "#ff9b83",
+        green: "#8ed8a8",
+        yellow: "#f6d06d",
+        blue: "#8fc8ef",
+        magenta: "#e7a5cf",
+        cyan: "#82ddd6",
+        white: "#fff0d8"
+    ),
+
+    bright: (
+        black: "#e2d3c8",
+        red: "#ffb09a",
+        green: "#a9e2bb",
+        yellow: "#ffe08d",
+        blue: "#acd8f4",
+        magenta: "#efbddc",
+        cyan: "#a3e8e2",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#d4c3b5",
+        red: "#ff9b83",
+        green: "#8ed8a8",
+        yellow: "#f6d06d",
+        blue: "#8fc8ef",
+        magenta: "#e7a5cf",
+        cyan: "#82ddd6",
+        white: "#fff0d8"
+    ),
+)

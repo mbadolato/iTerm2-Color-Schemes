@@ -1,0 +1,43 @@
+!
+! Caliche
+!
+*.foreground:  #fff0d5
+*.background:  #55452f
+*.cursorColor: #f0bd5b
+!
+! Black
+*.color0:      #c9c4b5
+*.color8:      #d8d3c5
+!
+! Red
+*.color1:      #ebad90
+*.color9:      #eeaa89
+!
+! Green
+*.color2:      #87c79e
+*.color10:     #99d0aa
+!
+! Yellow
+*.color3:      #dfbf68
+*.color11:     #e9d087
+!
+! Blue
+*.color4:      #91c1d6
+*.color12:     #9bc9dc
+!
+! Magenta
+*.color5:      #d2afc4
+*.color13:     #d8b6c8
+!
+! Cyan
+*.color6:      #76c9c4
+*.color14:     #94d7d2
+!
+! White
+*.color7:      #fff0d5
+*.color15:     #fff9e9
+!
+! Bold, Italic, Underline
+*.colorBD:     #e8b36f
+!*.colorIT:
+!*.colorUL:

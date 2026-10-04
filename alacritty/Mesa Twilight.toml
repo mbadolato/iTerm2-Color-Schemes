@@ -1,0 +1,33 @@
+# Colors (Mesa Twilight)
+
+[colors.bright]
+black = '#d0d4dc'
+blue = '#9fcaf0'
+cyan = '#97dce0'
+green = '#9dd8b5'
+magenta = '#d9b6e5'
+red = '#f8aca5'
+white = '#fffaf2'
+yellow = '#f2d98a'
+
+[colors.cursor]
+cursor = '#f3b85b'
+text = '#172b54'
+
+[colors.normal]
+black = '#bfc4ce'
+blue = '#83b9e6'
+cyan = '#78ced3'
+green = '#83cba2'
+magenta = '#c89edb'
+red = '#f1958c'
+white = '#fff0df'
+yellow = '#e9c96c'
+
+[colors.primary]
+background = '#172b54'
+foreground = '#fff0df'
+
+[colors.selection]
+background = '#34496d'
+text = '#fff8ed'

@@ -1,0 +1,12 @@
+# Prickly Pear
+[colors]
+foreground = "#fff0df"
+background = "#561038"
+cursor_bg = "#f4c24f"
+cursor_border = "#f4c24f"
+cursor_fg = "#561038"
+selection_bg = "#7b2853"
+selection_fg = "#fff7ed"
+
+ansi = ["#cbb8c2","#ff8d99","#78d58e","#f5c54e","#9ac4ef","#e49bd2","#7cdbd5","#fff0df"]
+brights = ["#dbcbd2","#ffa8b0","#98dfa6","#f9d778","#b4d5f4","#edb8df","#9ce7e2","#fffaf2"]

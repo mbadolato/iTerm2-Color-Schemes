@@ -1,0 +1,12 @@
+# Desert Thunder
+[colors]
+foreground = "#f5f1df"
+background = "#31485a"
+cursor_bg = "#f4d06f"
+cursor_border = "#f4d06f"
+cursor_fg = "#31485a"
+selection_bg = "#4d6475"
+selection_fg = "#fffbed"
+
+ansi = ["#d0d6d5","#f5a08c","#98d9ad","#eed47d","#a8d2f0","#dcb4df","#9de1df","#f5f1df"]
+brights = ["#dee3e2","#f9b6a5","#b0e3bd","#f6e19a","#c1dff4","#e7cae8","#b9ebe8","#fffdf4"]

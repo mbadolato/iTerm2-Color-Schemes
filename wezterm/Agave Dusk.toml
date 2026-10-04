@@ -1,0 +1,12 @@
+# Agave Dusk
+[colors]
+foreground = "#fff0d8"
+background = "#145654"
+cursor_bg = "#f6bd59"
+cursor_border = "#f6bd59"
+cursor_fg = "#145654"
+selection_bg = "#347371"
+selection_fg = "#fff8e9"
+
+ansi = ["#d0d8d0","#ffad91","#a8dfae","#f5d578","#afd4f1","#ecb0d4","#a6e3dc","#fff0d8"]
+brights = ["#dfe5dd","#ffc0a7","#bde8c1","#ffe494","#c7e2f5","#f3c6df","#c2eee8","#fffaf0"]

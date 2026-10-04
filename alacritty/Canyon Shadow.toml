@@ -1,0 +1,33 @@
+# Colors (Canyon Shadow)
+
+[colors.bright]
+black = '#e2dae0'
+blue = '#bbdaf2'
+cyan = '#b4eae5'
+green = '#b1e1bc'
+magenta = '#edc5e5'
+red = '#ffb8a8'
+white = '#fffaf3'
+yellow = '#f8df94'
+
+[colors.cursor]
+cursor = '#f5c15e'
+text = '#513554'
+
+[colors.normal]
+black = '#d5ccd3'
+blue = '#a1cbed'
+cyan = '#96dfda'
+green = '#9bd7ad'
+magenta = '#e5b1dc'
+red = '#fba493'
+white = '#fff0df'
+yellow = '#f0d176'
+
+[colors.primary]
+background = '#513554'
+foreground = '#fff0df'
+
+[colors.selection]
+background = '#6e5270'
+text = '#fff8ed'

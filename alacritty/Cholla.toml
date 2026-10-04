@@ -1,0 +1,33 @@
+# Colors (Cholla)
+
+[colors.bright]
+black = '#d7d8c7'
+blue = '#9dcee3'
+cyan = '#94ddd5'
+green = '#9ed7a6'
+magenta = '#e3b3ca'
+red = '#f5ad8c'
+white = '#fff9e9'
+yellow = '#f3d77d'
+
+[colors.cursor]
+cursor = '#f3c85d'
+text = '#394122'
+
+[colors.normal]
+black = '#c8c9b5'
+blue = '#82bdd8'
+cyan = '#75d0c6'
+green = '#83cb8f'
+magenta = '#d79abb'
+red = '#ee9a74'
+white = '#fff0d4'
+yellow = '#e9c65c'
+
+[colors.primary]
+background = '#394122'
+foreground = '#fff0d4'
+
+[colors.selection]
+background = '#59603d'
+text = '#fff8e9'

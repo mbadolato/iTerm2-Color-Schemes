@@ -1,0 +1,33 @@
+# Colors (Red Rock)
+
+[colors.bright]
+black = '#e6d5ca'
+blue = '#b0d8f3'
+cyan = '#a7e8e2'
+green = '#aae1ba'
+magenta = '#efc0de'
+red = '#ffb5a1'
+white = '#fffaf2'
+yellow = '#ffe08e'
+
+[colors.cursor]
+cursor = '#f7bd55'
+text = '#672a20'
+
+[colors.normal]
+black = '#d9c7bb'
+blue = '#94c9ee'
+cyan = '#87ddd7'
+green = '#91d7a7'
+magenta = '#e7a9d3'
+red = '#ffa18b'
+white = '#fff0dc'
+yellow = '#f5d06f'
+
+[colors.primary]
+background = '#672a20'
+foreground = '#fff0dc'
+
+[colors.selection]
+background = '#87483a'
+text = '#fff7eb'

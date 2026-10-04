@@ -1,0 +1,33 @@
+# Colors (Painted Desert)
+
+[colors.bright]
+black = '#e4d6d7'
+blue = '#b7daf2'
+cyan = '#b1e9e4'
+green = '#b0e0ba'
+magenta = '#f0c2e0'
+red = '#ffb5a4'
+white = '#fffaf2'
+yellow = '#ffe091'
+
+[colors.cursor]
+cursor = '#f4c05d'
+text = '#593148'
+
+[colors.normal]
+black = '#d7c7c8'
+blue = '#9ccbed'
+cyan = '#92ded8'
+green = '#99d6a8'
+magenta = '#e7acd7'
+red = '#ffa08e'
+white = '#fff0df'
+yellow = '#f2d071'
+
+[colors.primary]
+background = '#593148'
+foreground = '#fff0df'
+
+[colors.selection]
+background = '#774b63'
+text = '#fff7ec'

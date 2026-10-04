@@ -1,0 +1,17 @@
+[meta]
+name = "Pueblo Night"
+mode = "dark"
+
+[terminal]
+foreground = "#fff0d5"
+background = "#52361f"
+palette = [
+    "#d5cabd", "#fba183", "#94d7a5", "#f3cf6d",
+    "#94c9ec", "#e4aad2", "#87dcd6", "#fff0d5",
+    "#e3d9cd", "#ffb69c", "#abe0b8", "#ffdf8d",
+    "#b0d7f2", "#edc0dd", "#a6e7e1", "#fffaf0",
+]
+cursor = "#f6bc55"
+cursor-text = "#52361f"
+selection-background = "#715039"
+selection-foreground = "#fff8e8"

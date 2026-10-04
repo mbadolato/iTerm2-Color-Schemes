@@ -1,0 +1,41 @@
+(
+    name: "Desert Rose",
+    foreground: "#fff0df",
+    background: "#5a2032",
+    cursor: "#f4bd63",
+    bright_foreground: "#fff0df",
+    dim_foreground: "#dacbca",
+
+    normal: (
+        black: "#c9b9b8",
+        red: "#ff978b",
+        green: "#94d1a1",
+        yellow: "#edc96d",
+        blue: "#8fc4e8",
+        magenta: "#dfa2c9",
+        cyan: "#82d7d2",
+        white: "#fff0df"
+    ),
+
+    bright: (
+        black: "#dacbca",
+        red: "#ffaea3",
+        green: "#a9dcaf",
+        yellow: "#f8d98b",
+        blue: "#acd4ef",
+        magenta: "#e9bad7",
+        cyan: "#a2e4df",
+        white: "#fffaf2"
+    ),
+
+    dim: (
+        black: "#c9b9b8",
+        red: "#ff978b",
+        green: "#94d1a1",
+        yellow: "#edc96d",
+        blue: "#8fc4e8",
+        magenta: "#dfa2c9",
+        cyan: "#82d7d2",
+        white: "#fff0df"
+    ),
+)

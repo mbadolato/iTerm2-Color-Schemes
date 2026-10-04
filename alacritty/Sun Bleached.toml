@@ -1,0 +1,33 @@
+# Colors (Sun Bleached)
+
+[colors.bright]
+black = '#65574d'
+blue = '#426678'
+cyan = '#3a666a'
+green = '#506950'
+magenta = '#775a70'
+red = '#904b37'
+white = '#302925'
+yellow = '#725c23'
+
+[colors.cursor]
+cursor = '#b75b3f'
+text = '#f0dfc3'
+
+[colors.normal]
+black = '#4a4038'
+blue = '#3a6378'
+cyan = '#33656a'
+green = '#4b694d'
+magenta = '#76546e'
+red = '#9e4935'
+white = '#594b40'
+yellow = '#725a1c'
+
+[colors.primary]
+background = '#f0dfc3'
+foreground = '#4a382f'
+
+[colors.selection]
+background = '#dfcbaa'
+text = '#2e2825'

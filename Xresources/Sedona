@@ -1,0 +1,43 @@
+!
+! Sedona
+!
+*.foreground:  #fff0dc
+*.background:  #55172f
+*.cursorColor: #f3bd50
+!
+! Black
+*.color0:      #c8b9bd
+*.color8:      #d9c9cd
+!
+! Red
+*.color1:      #f58d79
+*.color9:      #fba594
+!
+! Green
+*.color2:      #83cd94
+*.color10:     #9ad9a7
+!
+! Yellow
+*.color3:      #efc257
+*.color11:     #f8d47b
+!
+! Blue
+*.color4:      #8fc1e5
+*.color12:     #acd2ed
+!
+! Magenta
+*.color5:      #dc98c7
+*.color13:     #e7b2d5
+!
+! Cyan
+*.color6:      #79d1cb
+*.color14:     #99dfda
+!
+! White
+*.color7:      #fff0dc
+*.color15:     #fff9ed
+!
+! Bold, Italic, Underline
+*.colorBD:     #ff9a56
+!*.colorIT:
+!*.colorUL:

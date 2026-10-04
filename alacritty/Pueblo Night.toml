@@ -1,0 +1,33 @@
+# Colors (Pueblo Night)
+
+[colors.bright]
+black = '#e3d9cd'
+blue = '#b0d7f2'
+cyan = '#a6e7e1'
+green = '#abe0b8'
+magenta = '#edc0dd'
+red = '#ffb69c'
+white = '#fffaf0'
+yellow = '#ffdf8d'
+
+[colors.cursor]
+cursor = '#f6bc55'
+text = '#52361f'
+
+[colors.normal]
+black = '#d5cabd'
+blue = '#94c9ec'
+cyan = '#87dcd6'
+green = '#94d7a5'
+magenta = '#e4aad2'
+red = '#fba183'
+white = '#fff0d5'
+yellow = '#f3cf6d'
+
+[colors.primary]
+background = '#52361f'
+foreground = '#fff0d5'
+
+[colors.selection]
+background = '#715039'
+text = '#fff8e8'

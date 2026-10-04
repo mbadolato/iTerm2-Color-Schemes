@@ -1,0 +1,33 @@
+# Colors (Caliche)
+
+[colors.bright]
+black = '#d8d3c5'
+blue = '#9bc9dc'
+cyan = '#94d7d2'
+green = '#99d0aa'
+magenta = '#d8b6c8'
+red = '#eeaa89'
+white = '#fff9e9'
+yellow = '#e9d087'
+
+[colors.cursor]
+cursor = '#f0bd5b'
+text = '#55452f'
+
+[colors.normal]
+black = '#c9c4b5'
+blue = '#91c1d6'
+cyan = '#76c9c4'
+green = '#87c79e'
+magenta = '#d2afc4'
+red = '#ebad90'
+white = '#fff0d5'
+yellow = '#dfbf68'
+
+[colors.primary]
+background = '#55452f'
+foreground = '#fff0d5'
+
+[colors.selection]
+background = '#74634c'
+text = '#fff8e8'

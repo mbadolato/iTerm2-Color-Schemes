@@ -1,0 +1,41 @@
+(
+    name: "Springfield Resident Hight Contrast",
+    foreground: "#062f63",
+    background: "#ffdd32",
+    cursor: "#0b4b94",
+    bright_foreground: "#062f63",
+    dim_foreground: "#343b46",
+
+    normal: (
+        black: "#171b24",
+        red: "#7a1026",
+        green: "#134e24",
+        yellow: "#5d3e00",
+        blue: "#063d82",
+        magenta: "#67145d",
+        cyan: "#004a5d",
+        white: "#29303b"
+    ),
+
+    bright: (
+        black: "#343b46",
+        red: "#85162c",
+        green: "#164e27",
+        yellow: "#5c3e00",
+        blue: "#084287",
+        magenta: "#701966",
+        cyan: "#004a5c",
+        white: "#303742"
+    ),
+
+    dim: (
+        black: "#171b24",
+        red: "#7a1026",
+        green: "#134e24",
+        yellow: "#5d3e00",
+        blue: "#063d82",
+        magenta: "#67145d",
+        cyan: "#004a5d",
+        white: "#29303b"
+    ),
+)

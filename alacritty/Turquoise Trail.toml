@@ -1,0 +1,33 @@
+# Colors (Turquoise Trail)
+
+[colors.bright]
+black = '#e0e5df'
+blue = '#c8e3f7'
+cyan = '#c5eee9'
+green = '#bce8c2'
+magenta = '#f4c6df'
+red = '#ffc0a5'
+white = '#fffaf0'
+yellow = '#ffe493'
+
+[colors.cursor]
+cursor = '#ffb34f'
+text = '#063d3f'
+
+[colors.normal]
+black = '#d0d9d2'
+blue = '#b1d6f4'
+cyan = '#a9e5df'
+green = '#a7dfae'
+magenta = '#efb0d2'
+red = '#ffad8e'
+white = '#fff0d5'
+yellow = '#f7d879'
+
+[colors.primary]
+background = '#075153'
+foreground = '#fff0d5'
+
+[colors.selection]
+background = '#287071'
+text = '#fff8e8'

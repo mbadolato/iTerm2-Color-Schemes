@@ -1,0 +1,43 @@
+!
+! Pueblo Night
+!
+*.foreground:  #fff0d5
+*.background:  #52361f
+*.cursorColor: #f6bc55
+!
+! Black
+*.color0:      #d5cabd
+*.color8:      #e3d9cd
+!
+! Red
+*.color1:      #fba183
+*.color9:      #ffb69c
+!
+! Green
+*.color2:      #94d7a5
+*.color10:     #abe0b8
+!
+! Yellow
+*.color3:      #f3cf6d
+*.color11:     #ffdf8d
+!
+! Blue
+*.color4:      #94c9ec
+*.color12:     #b0d7f2
+!
+! Magenta
+*.color5:      #e4aad2
+*.color13:     #edc0dd
+!
+! Cyan
+*.color6:      #87dcd6
+*.color14:     #a6e7e1
+!
+! White
+*.color7:      #fff0d5
+*.color15:     #fffaf0
+!
+! Bold, Italic, Underline
+*.colorBD:     #77dcd1
+!*.colorIT:
+!*.colorUL:

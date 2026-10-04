@@ -1,0 +1,41 @@
+(
+    name: "Canyon Shadow",
+    foreground: "#fff0df",
+    background: "#513554",
+    cursor: "#f5c15e",
+    bright_foreground: "#fff0df",
+    dim_foreground: "#e2dae0",
+
+    normal: (
+        black: "#d5ccd3",
+        red: "#fba493",
+        green: "#9bd7ad",
+        yellow: "#f0d176",
+        blue: "#a1cbed",
+        magenta: "#e5b1dc",
+        cyan: "#96dfda",
+        white: "#fff0df"
+    ),
+
+    bright: (
+        black: "#e2dae0",
+        red: "#ffb8a8",
+        green: "#b1e1bc",
+        yellow: "#f8df94",
+        blue: "#bbdaf2",
+        magenta: "#edc5e5",
+        cyan: "#b4eae5",
+        white: "#fffaf3"
+    ),
+
+    dim: (
+        black: "#d5ccd3",
+        red: "#fba493",
+        green: "#9bd7ad",
+        yellow: "#f0d176",
+        blue: "#a1cbed",
+        magenta: "#e5b1dc",
+        cyan: "#96dfda",
+        white: "#fff0df"
+    ),
+)

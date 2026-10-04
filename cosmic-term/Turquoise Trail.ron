@@ -1,0 +1,41 @@
+(
+    name: "Turquoise Trail",
+    foreground: "#fff0d5",
+    background: "#075153",
+    cursor: "#ffb34f",
+    bright_foreground: "#fff0d5",
+    dim_foreground: "#e0e5df",
+
+    normal: (
+        black: "#d0d9d2",
+        red: "#ffad8e",
+        green: "#a7dfae",
+        yellow: "#f7d879",
+        blue: "#b1d6f4",
+        magenta: "#efb0d2",
+        cyan: "#a9e5df",
+        white: "#fff0d5"
+    ),
+
+    bright: (
+        black: "#e0e5df",
+        red: "#ffc0a5",
+        green: "#bce8c2",
+        yellow: "#ffe493",
+        blue: "#c8e3f7",
+        magenta: "#f4c6df",
+        cyan: "#c5eee9",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#d0d9d2",
+        red: "#ffad8e",
+        green: "#a7dfae",
+        yellow: "#f7d879",
+        blue: "#b1d6f4",
+        magenta: "#efb0d2",
+        cyan: "#a9e5df",
+        white: "#fff0d5"
+    ),
+)

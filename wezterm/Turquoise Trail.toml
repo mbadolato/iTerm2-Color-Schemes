@@ -1,0 +1,12 @@
+# Turquoise Trail
+[colors]
+foreground = "#fff0d5"
+background = "#075153"
+cursor_bg = "#ffb34f"
+cursor_border = "#ffb34f"
+cursor_fg = "#063d3f"
+selection_bg = "#287071"
+selection_fg = "#fff8e8"
+
+ansi = ["#d0d9d2","#ffad8e","#a7dfae","#f7d879","#b1d6f4","#efb0d2","#a9e5df","#fff0d5"]
+brights = ["#e0e5df","#ffc0a5","#bce8c2","#ffe493","#c8e3f7","#f4c6df","#c5eee9","#fffaf0"]

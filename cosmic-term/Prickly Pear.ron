@@ -1,0 +1,41 @@
+(
+    name: "Prickly Pear",
+    foreground: "#fff0df",
+    background: "#561038",
+    cursor: "#f4c24f",
+    bright_foreground: "#fff0df",
+    dim_foreground: "#dbcbd2",
+
+    normal: (
+        black: "#cbb8c2",
+        red: "#ff8d99",
+        green: "#78d58e",
+        yellow: "#f5c54e",
+        blue: "#9ac4ef",
+        magenta: "#e49bd2",
+        cyan: "#7cdbd5",
+        white: "#fff0df"
+    ),
+
+    bright: (
+        black: "#dbcbd2",
+        red: "#ffa8b0",
+        green: "#98dfa6",
+        yellow: "#f9d778",
+        blue: "#b4d5f4",
+        magenta: "#edb8df",
+        cyan: "#9ce7e2",
+        white: "#fffaf2"
+    ),
+
+    dim: (
+        black: "#cbb8c2",
+        red: "#ff8d99",
+        green: "#78d58e",
+        yellow: "#f5c54e",
+        blue: "#9ac4ef",
+        magenta: "#e49bd2",
+        cyan: "#7cdbd5",
+        white: "#fff0df"
+    ),
+)

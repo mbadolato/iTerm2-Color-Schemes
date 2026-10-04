@@ -1,0 +1,33 @@
+# Colors (Desert Bloom)
+
+[colors.bright]
+black = '#d9ccd2'
+blue = '#afd2ef'
+cyan = '#9ee2dd'
+green = '#9fdaaa'
+magenta = '#e6b6d9'
+red = '#f9aca5'
+white = '#fffaf2'
+yellow = '#f6da80'
+
+[colors.cursor]
+cursor = '#f3bc55'
+text = '#54213e'
+
+[colors.normal]
+black = '#c9bbc3'
+blue = '#92c2e8'
+cyan = '#7ed5cf'
+green = '#86ce91'
+magenta = '#d99dcc'
+red = '#f3958d'
+white = '#fff0df'
+yellow = '#edc95f'
+
+[colors.primary]
+background = '#54213e'
+foreground = '#fff0df'
+
+[colors.selection]
+background = '#75435f'
+text = '#fff8ed'

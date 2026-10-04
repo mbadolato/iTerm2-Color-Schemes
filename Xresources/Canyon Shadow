@@ -1,0 +1,43 @@
+!
+! Canyon Shadow
+!
+*.foreground:  #fff0df
+*.background:  #513554
+*.cursorColor: #f5c15e
+!
+! Black
+*.color0:      #d5ccd3
+*.color8:      #e2dae0
+!
+! Red
+*.color1:      #fba493
+*.color9:      #ffb8a8
+!
+! Green
+*.color2:      #9bd7ad
+*.color10:     #b1e1bc
+!
+! Yellow
+*.color3:      #f0d176
+*.color11:     #f8df94
+!
+! Blue
+*.color4:      #a1cbed
+*.color12:     #bbdaf2
+!
+! Magenta
+*.color5:      #e5b1dc
+*.color13:     #edc5e5
+!
+! Cyan
+*.color6:      #96dfda
+*.color14:     #b4eae5
+!
+! White
+*.color7:      #fff0df
+*.color15:     #fffaf3
+!
+! Bold, Italic, Underline
+*.colorBD:     #f4b96d
+!*.colorIT:
+!*.colorUL:

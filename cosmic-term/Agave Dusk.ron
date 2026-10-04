@@ -1,0 +1,41 @@
+(
+    name: "Agave Dusk",
+    foreground: "#fff0d8",
+    background: "#145654",
+    cursor: "#f6bd59",
+    bright_foreground: "#fff0d8",
+    dim_foreground: "#dfe5dd",
+
+    normal: (
+        black: "#d0d8d0",
+        red: "#ffad91",
+        green: "#a8dfae",
+        yellow: "#f5d578",
+        blue: "#afd4f1",
+        magenta: "#ecb0d4",
+        cyan: "#a6e3dc",
+        white: "#fff0d8"
+    ),
+
+    bright: (
+        black: "#dfe5dd",
+        red: "#ffc0a7",
+        green: "#bde8c1",
+        yellow: "#ffe494",
+        blue: "#c7e2f5",
+        magenta: "#f3c6df",
+        cyan: "#c2eee8",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#d0d8d0",
+        red: "#ffad91",
+        green: "#a8dfae",
+        yellow: "#f5d578",
+        blue: "#afd4f1",
+        magenta: "#ecb0d4",
+        cyan: "#a6e3dc",
+        white: "#fff0d8"
+    ),
+)

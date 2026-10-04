@@ -1,0 +1,12 @@
+# Desert Rose
+[colors]
+foreground = "#fff0df"
+background = "#5a2032"
+cursor_bg = "#f4bd63"
+cursor_border = "#f4bd63"
+cursor_fg = "#5a2032"
+selection_bg = "#7d4050"
+selection_fg = "#fff7ed"
+
+ansi = ["#c9b9b8","#ff978b","#94d1a1","#edc96d","#8fc4e8","#dfa2c9","#82d7d2","#fff0df"]
+brights = ["#dacbca","#ffaea3","#a9dcaf","#f8d98b","#acd4ef","#e9bad7","#a2e4df","#fffaf2"]

@@ -1,0 +1,43 @@
+!
+! Cholla
+!
+*.foreground:  #fff0d4
+*.background:  #394122
+*.cursorColor: #f3c85d
+!
+! Black
+*.color0:      #c8c9b5
+*.color8:      #d7d8c7
+!
+! Red
+*.color1:      #ee9a74
+*.color9:      #f5ad8c
+!
+! Green
+*.color2:      #83cb8f
+*.color10:     #9ed7a6
+!
+! Yellow
+*.color3:      #e9c65c
+*.color11:     #f3d77d
+!
+! Blue
+*.color4:      #82bdd8
+*.color12:     #9dcee3
+!
+! Magenta
+*.color5:      #d79abb
+*.color13:     #e3b3ca
+!
+! Cyan
+*.color6:      #75d0c6
+*.color14:     #94ddd5
+!
+! White
+*.color7:      #fff0d4
+*.color15:     #fff9e9
+!
+! Bold, Italic, Underline
+*.colorBD:     #f0c65c
+!*.colorIT:
+!*.colorUL:

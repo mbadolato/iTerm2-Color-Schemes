@@ -1,0 +1,7 @@
+#!/bin/sh
+# Barrel Cactus
+printf "\033]4;0;#bed0c3;1;#f5a181;2;#8bd19b;3;#eac95f;4;#83bfd8;5;#dcaac8;6;#77d3ca;7;#fff0d3;8;#cedbd1;9;#f8ab89;10;#a3dcaf;11;#f3d97f;12;#9fcfe2;13;#e4b7cf;14;#96dfd7;15;#fff9e9\007"
+printf "\033]10;#fff0d3;#145039;#f0bb4d\007"
+printf "\033]17;#326b56\007"
+printf "\033]19;#fff8e6\007"
+printf "\033]5;0;#f5c34e\007"

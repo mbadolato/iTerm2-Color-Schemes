@@ -1,0 +1,33 @@
+# Colors (White Sands)
+
+[colors.bright]
+black = '#596678'
+blue = '#426e9e'
+cyan = '#376f75'
+green = '#4b7553'
+magenta = '#7b6095'
+red = '#a35448'
+white = '#1f2c3c'
+yellow = '#7a6625'
+
+[colors.cursor]
+cursor = '#d87859'
+text = '#f4efe4'
+
+[colors.normal]
+black = '#34445a'
+blue = '#315d86'
+cyan = '#33747b'
+green = '#46734f'
+magenta = '#73568f'
+red = '#9b493f'
+white = '#46515c'
+yellow = '#7a641f'
+
+[colors.primary]
+background = '#f4efe4'
+foreground = '#283b54'
+
+[colors.selection]
+background = '#d9e4e8'
+text = '#172c45'

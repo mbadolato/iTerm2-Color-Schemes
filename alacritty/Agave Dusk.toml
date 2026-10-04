@@ -1,0 +1,33 @@
+# Colors (Agave Dusk)
+
+[colors.bright]
+black = '#dfe5dd'
+blue = '#c7e2f5'
+cyan = '#c2eee8'
+green = '#bde8c1'
+magenta = '#f3c6df'
+red = '#ffc0a7'
+white = '#fffaf0'
+yellow = '#ffe494'
+
+[colors.cursor]
+cursor = '#f6bd59'
+text = '#145654'
+
+[colors.normal]
+black = '#d0d8d0'
+blue = '#afd4f1'
+cyan = '#a6e3dc'
+green = '#a8dfae'
+magenta = '#ecb0d4'
+red = '#ffad91'
+white = '#fff0d8'
+yellow = '#f5d578'
+
+[colors.primary]
+background = '#145654'
+foreground = '#fff0d8'
+
+[colors.selection]
+background = '#347371'
+text = '#fff8e9'

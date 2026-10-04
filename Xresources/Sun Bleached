@@ -1,0 +1,43 @@
+!
+! Sun Bleached
+!
+*.foreground:  #4a382f
+*.background:  #f0dfc3
+*.cursorColor: #b75b3f
+!
+! Black
+*.color0:      #4a4038
+*.color8:      #65574d
+!
+! Red
+*.color1:      #9e4935
+*.color9:      #904b37
+!
+! Green
+*.color2:      #4b694d
+*.color10:     #506950
+!
+! Yellow
+*.color3:      #725a1c
+*.color11:     #725c23
+!
+! Blue
+*.color4:      #3a6378
+*.color12:     #426678
+!
+! Magenta
+*.color5:      #76546e
+*.color13:     #775a70
+!
+! Cyan
+*.color6:      #33656a
+*.color14:     #3a666a
+!
+! White
+*.color7:      #594b40
+*.color15:     #302925
+!
+! Bold, Italic, Underline
+*.colorBD:     #8b4b38
+!*.colorIT:
+!*.colorUL:

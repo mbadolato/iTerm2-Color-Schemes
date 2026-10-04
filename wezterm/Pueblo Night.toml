@@ -1,0 +1,12 @@
+# Pueblo Night
+[colors]
+foreground = "#fff0d5"
+background = "#52361f"
+cursor_bg = "#f6bc55"
+cursor_border = "#f6bc55"
+cursor_fg = "#52361f"
+selection_bg = "#715039"
+selection_fg = "#fff8e8"
+
+ansi = ["#d5cabd","#fba183","#94d7a5","#f3cf6d","#94c9ec","#e4aad2","#87dcd6","#fff0d5"]
+brights = ["#e3d9cd","#ffb69c","#abe0b8","#ffdf8d","#b0d7f2","#edc0dd","#a6e7e1","#fffaf0"]

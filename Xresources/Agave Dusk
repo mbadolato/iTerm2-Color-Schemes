@@ -1,0 +1,43 @@
+!
+! Agave Dusk
+!
+*.foreground:  #fff0d8
+*.background:  #145654
+*.cursorColor: #f6bd59
+!
+! Black
+*.color0:      #d0d8d0
+*.color8:      #dfe5dd
+!
+! Red
+*.color1:      #ffad91
+*.color9:      #ffc0a7
+!
+! Green
+*.color2:      #a8dfae
+*.color10:     #bde8c1
+!
+! Yellow
+*.color3:      #f5d578
+*.color11:     #ffe494
+!
+! Blue
+*.color4:      #afd4f1
+*.color12:     #c7e2f5
+!
+! Magenta
+*.color5:      #ecb0d4
+*.color13:     #f3c6df
+!
+! Cyan
+*.color6:      #a6e3dc
+*.color14:     #c2eee8
+!
+! White
+*.color7:      #fff0d8
+*.color15:     #fffaf0
+!
+! Bold, Italic, Underline
+*.colorBD:     #a7dfbf
+!*.colorIT:
+!*.colorUL:

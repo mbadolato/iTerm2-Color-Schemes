@@ -1,0 +1,43 @@
+!
+! Desert Bloom
+!
+*.foreground:  #fff0df
+*.background:  #54213e
+*.cursorColor: #f3bc55
+!
+! Black
+*.color0:      #c9bbc3
+*.color8:      #d9ccd2
+!
+! Red
+*.color1:      #f3958d
+*.color9:      #f9aca5
+!
+! Green
+*.color2:      #86ce91
+*.color10:     #9fdaaa
+!
+! Yellow
+*.color3:      #edc95f
+*.color11:     #f6da80
+!
+! Blue
+*.color4:      #92c2e8
+*.color12:     #afd2ef
+!
+! Magenta
+*.color5:      #d99dcc
+*.color13:     #e6b6d9
+!
+! Cyan
+*.color6:      #7ed5cf
+*.color14:     #9ee2dd
+!
+! White
+*.color7:      #fff0df
+*.color15:     #fffaf2
+!
+! Bold, Italic, Underline
+*.colorBD:     #f2a34f
+!*.colorIT:
+!*.colorUL:

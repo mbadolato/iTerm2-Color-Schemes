@@ -1,0 +1,43 @@
+!
+! Turquoise Trail
+!
+*.foreground:  #fff0d5
+*.background:  #075153
+*.cursorColor: #ffb34f
+!
+! Black
+*.color0:      #d0d9d2
+*.color8:      #e0e5df
+!
+! Red
+*.color1:      #ffad8e
+*.color9:      #ffc0a5
+!
+! Green
+*.color2:      #a7dfae
+*.color10:     #bce8c2
+!
+! Yellow
+*.color3:      #f7d879
+*.color11:     #ffe493
+!
+! Blue
+*.color4:      #b1d6f4
+*.color12:     #c8e3f7
+!
+! Magenta
+*.color5:      #efb0d2
+*.color13:     #f4c6df
+!
+! Cyan
+*.color6:      #a9e5df
+*.color14:     #c5eee9
+!
+! White
+*.color7:      #fff0d5
+*.color15:     #fffaf0
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffc56a
+!*.colorIT:
+!*.colorUL:

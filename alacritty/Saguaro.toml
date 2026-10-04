@@ -1,0 +1,33 @@
+# Colors (Saguaro)
+
+[colors.bright]
+black = '#c5d0ca'
+blue = '#9be1dc'
+cyan = '#a3e7e2'
+green = '#a2dfb5'
+magenta = '#f0a6c5'
+red = '#ffa078'
+white = '#fff9ea'
+yellow = '#f8d982'
+
+[colors.cursor]
+cursor = '#ffb52e'
+text = '#001c13'
+
+[colors.normal]
+black = '#aebdb5'
+blue = '#72d2ce'
+cyan = '#7bd9d5'
+green = '#82d49d'
+magenta = '#e887b0'
+red = '#f08a68'
+white = '#fff0d5'
+yellow = '#f2c85f'
+
+[colors.primary]
+background = '#001c13'
+foreground = '#fff0d5'
+
+[colors.selection]
+background = '#7b3d25'
+text = '#fff4dc'

@@ -1,0 +1,33 @@
+# Colors (Sedona)
+
+[colors.bright]
+black = '#d9c9cd'
+blue = '#acd2ed'
+cyan = '#99dfda'
+green = '#9ad9a7'
+magenta = '#e7b2d5'
+red = '#fba594'
+white = '#fff9ed'
+yellow = '#f8d47b'
+
+[colors.cursor]
+cursor = '#f3bd50'
+text = '#55172f'
+
+[colors.normal]
+black = '#c8b9bd'
+blue = '#8fc1e5'
+cyan = '#79d1cb'
+green = '#83cd94'
+magenta = '#dc98c7'
+red = '#f58d79'
+white = '#fff0dc'
+yellow = '#efc257'
+
+[colors.primary]
+background = '#55172f'
+foreground = '#fff0dc'
+
+[colors.selection]
+background = '#772c47'
+text = '#fff8ea'

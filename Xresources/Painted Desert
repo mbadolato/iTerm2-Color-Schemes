@@ -1,0 +1,43 @@
+!
+! Painted Desert
+!
+*.foreground:  #fff0df
+*.background:  #593148
+*.cursorColor: #f4c05d
+!
+! Black
+*.color0:      #d7c7c8
+*.color8:      #e4d6d7
+!
+! Red
+*.color1:      #ffa08e
+*.color9:      #ffb5a4
+!
+! Green
+*.color2:      #99d6a8
+*.color10:     #b0e0ba
+!
+! Yellow
+*.color3:      #f2d071
+*.color11:     #ffe091
+!
+! Blue
+*.color4:      #9ccbed
+*.color12:     #b7daf2
+!
+! Magenta
+*.color5:      #e7acd7
+*.color13:     #f0c2e0
+!
+! Cyan
+*.color6:      #92ded8
+*.color14:     #b1e9e4
+!
+! White
+*.color7:      #fff0df
+*.color15:     #fffaf2
+!
+! Bold, Italic, Underline
+*.colorBD:     #f6b56e
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (Desert Moon)
+
+[colors.bright]
+black = '#cbd5d8'
+blue = '#a9d0e7'
+cyan = '#9bdadd'
+green = '#a8d6b6'
+magenta = '#cabce2'
+red = '#efb0a7'
+white = '#fffdf5'
+yellow = '#ecd995'
+
+[colors.cursor]
+cursor = '#d9e3d3'
+text = '#0b3459'
+
+[colors.normal]
+black = '#b9c6cb'
+blue = '#8dbfdd'
+cyan = '#80cdd0'
+green = '#8fc9a3'
+magenta = '#b9a7d7'
+red = '#e79b90'
+white = '#f2f2e8'
+yellow = '#e2c979'
+
+[colors.primary]
+background = '#0b3459'
+foreground = '#f2f2e8'
+
+[colors.selection]
+background = '#285273'
+text = '#fffdf2'

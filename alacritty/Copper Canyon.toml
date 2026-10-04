@@ -1,0 +1,33 @@
+# Colors (Copper Canyon)
+
+[colors.bright]
+black = '#e4d8ca'
+blue = '#aed8f3'
+cyan = '#a5e8e2'
+green = '#ace2b8'
+magenta = '#eebedc'
+red = '#ffb698'
+white = '#fffaf0'
+yellow = '#ffdf8a'
+
+[colors.cursor]
+cursor = '#f6bd55'
+text = '#5a3018'
+
+[colors.normal]
+black = '#d6c8b8'
+blue = '#91c9ed'
+cyan = '#85ddd6'
+green = '#94d9a5'
+magenta = '#e5a7d0'
+red = '#ffa17e'
+white = '#fff0d5'
+yellow = '#f5cf69'
+
+[colors.primary]
+background = '#5a3018'
+foreground = '#fff0d5'
+
+[colors.selection]
+background = '#7a4a2e'
+text = '#fff8e8'

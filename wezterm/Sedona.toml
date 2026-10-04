@@ -1,0 +1,12 @@
+# Sedona
+[colors]
+foreground = "#fff0dc"
+background = "#55172f"
+cursor_bg = "#f3bd50"
+cursor_border = "#f3bd50"
+cursor_fg = "#55172f"
+selection_bg = "#772c47"
+selection_fg = "#fff8ea"
+
+ansi = ["#c8b9bd","#f58d79","#83cd94","#efc257","#8fc1e5","#dc98c7","#79d1cb","#fff0dc"]
+brights = ["#d9c9cd","#fba594","#9ad9a7","#f8d47b","#acd2ed","#e7b2d5","#99dfda","#fff9ed"]

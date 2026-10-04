@@ -1,0 +1,12 @@
+# Sun Bleached
+[colors]
+foreground = "#4a382f"
+background = "#f0dfc3"
+cursor_bg = "#b75b3f"
+cursor_border = "#b75b3f"
+cursor_fg = "#f0dfc3"
+selection_bg = "#dfcbaa"
+selection_fg = "#2e2825"
+
+ansi = ["#4a4038","#9e4935","#4b694d","#725a1c","#3a6378","#76546e","#33656a","#594b40"]
+brights = ["#65574d","#904b37","#506950","#725c23","#426678","#775a70","#3a666a","#302925"]

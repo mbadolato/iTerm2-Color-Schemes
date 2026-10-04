@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Sedona'
+cursor-color='#f3bd50'
+foreground='#fff0dc'
+background='rgba(85,23,47,.95)'
+palette='#c8b9bd:#f58d79:#83cd94:#efc257:#8fc1e5:#dc98c7:#79d1cb:#fff0dc:#d9c9cd:#fba594:#9ad9a7:#f8d47b:#acd2ed:#e7b2d5:#99dfda:#fff9ed'
+COLORS

@@ -1,0 +1,12 @@
+# Copper Canyon
+[colors]
+foreground = "#fff0d5"
+background = "#5a3018"
+cursor_bg = "#f6bd55"
+cursor_border = "#f6bd55"
+cursor_fg = "#5a3018"
+selection_bg = "#7a4a2e"
+selection_fg = "#fff8e8"
+
+ansi = ["#d6c8b8","#ffa17e","#94d9a5","#f5cf69","#91c9ed","#e5a7d0","#85ddd6","#fff0d5"]
+brights = ["#e4d8ca","#ffb698","#ace2b8","#ffdf8a","#aed8f3","#eebedc","#a5e8e2","#fffaf0"]

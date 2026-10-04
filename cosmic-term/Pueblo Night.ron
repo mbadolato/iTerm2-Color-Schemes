@@ -1,0 +1,41 @@
+(
+    name: "Pueblo Night",
+    foreground: "#fff0d5",
+    background: "#52361f",
+    cursor: "#f6bc55",
+    bright_foreground: "#fff0d5",
+    dim_foreground: "#e3d9cd",
+
+    normal: (
+        black: "#d5cabd",
+        red: "#fba183",
+        green: "#94d7a5",
+        yellow: "#f3cf6d",
+        blue: "#94c9ec",
+        magenta: "#e4aad2",
+        cyan: "#87dcd6",
+        white: "#fff0d5"
+    ),
+
+    bright: (
+        black: "#e3d9cd",
+        red: "#ffb69c",
+        green: "#abe0b8",
+        yellow: "#ffdf8d",
+        blue: "#b0d7f2",
+        magenta: "#edc0dd",
+        cyan: "#a6e7e1",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#d5cabd",
+        red: "#fba183",
+        green: "#94d7a5",
+        yellow: "#f3cf6d",
+        blue: "#94c9ec",
+        magenta: "#e4aad2",
+        cyan: "#87dcd6",
+        white: "#fff0d5"
+    ),
+)

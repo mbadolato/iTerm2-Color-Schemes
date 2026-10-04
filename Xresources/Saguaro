@@ -1,0 +1,43 @@
+!
+! Saguaro
+!
+*.foreground:  #fff0d5
+*.background:  #001c13
+*.cursorColor: #ffb52e
+!
+! Black
+*.color0:      #aebdb5
+*.color8:      #c5d0ca
+!
+! Red
+*.color1:      #f08a68
+*.color9:      #ffa078
+!
+! Green
+*.color2:      #82d49d
+*.color10:     #a2dfb5
+!
+! Yellow
+*.color3:      #f2c85f
+*.color11:     #f8d982
+!
+! Blue
+*.color4:      #72d2ce
+*.color12:     #9be1dc
+!
+! Magenta
+*.color5:      #e887b0
+*.color13:     #f0a6c5
+!
+! Cyan
+*.color6:      #7bd9d5
+*.color14:     #a3e7e2
+!
+! White
+*.color7:      #fff0d5
+*.color15:     #fff9ea
+!
+! Bold, Italic, Underline
+*.colorBD:     #b9e46c
+!*.colorIT:
+!*.colorUL:

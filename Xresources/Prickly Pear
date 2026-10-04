@@ -1,0 +1,43 @@
+!
+! Prickly Pear
+!
+*.foreground:  #fff0df
+*.background:  #561038
+*.cursorColor: #f4c24f
+!
+! Black
+*.color0:      #cbb8c2
+*.color8:      #dbcbd2
+!
+! Red
+*.color1:      #ff8d99
+*.color9:      #ffa8b0
+!
+! Green
+*.color2:      #78d58e
+*.color10:     #98dfa6
+!
+! Yellow
+*.color3:      #f5c54e
+*.color11:     #f9d778
+!
+! Blue
+*.color4:      #9ac4ef
+*.color12:     #b4d5f4
+!
+! Magenta
+*.color5:      #e49bd2
+*.color13:     #edb8df
+!
+! Cyan
+*.color6:      #7cdbd5
+*.color14:     #9ce7e2
+!
+! White
+*.color7:      #fff0df
+*.color15:     #fffaf2
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffb92f
+!*.colorIT:
+!*.colorUL:

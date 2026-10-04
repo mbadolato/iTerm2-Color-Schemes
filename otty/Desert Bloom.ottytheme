@@ -1,0 +1,17 @@
+[meta]
+name = "Desert Bloom"
+mode = "dark"
+
+[terminal]
+foreground = "#fff0df"
+background = "#54213e"
+palette = [
+    "#c9bbc3", "#f3958d", "#86ce91", "#edc95f",
+    "#92c2e8", "#d99dcc", "#7ed5cf", "#fff0df",
+    "#d9ccd2", "#f9aca5", "#9fdaaa", "#f6da80",
+    "#afd2ef", "#e6b6d9", "#9ee2dd", "#fffaf2",
+]
+cursor = "#f3bc55"
+cursor-text = "#54213e"
+selection-background = "#75435f"
+selection-foreground = "#fff8ed"

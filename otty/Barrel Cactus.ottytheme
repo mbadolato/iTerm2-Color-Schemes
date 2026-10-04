@@ -1,0 +1,17 @@
+[meta]
+name = "Barrel Cactus"
+mode = "dark"
+
+[terminal]
+foreground = "#fff0d3"
+background = "#145039"
+palette = [
+    "#bed0c3", "#f5a181", "#8bd19b", "#eac95f",
+    "#83bfd8", "#dcaac8", "#77d3ca", "#fff0d3",
+    "#cedbd1", "#f8ab89", "#a3dcaf", "#f3d97f",
+    "#9fcfe2", "#e4b7cf", "#96dfd7", "#fff9e9",
+]
+cursor = "#f0bb4d"
+cursor-text = "#145039"
+selection-background = "#326b56"
+selection-foreground = "#fff8e6"

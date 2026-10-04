@@ -1,0 +1,33 @@
+# Colors (Adobe Moon)
+
+[colors.bright]
+black = '#e2d3c8'
+blue = '#acd8f4'
+cyan = '#a3e8e2'
+green = '#a9e2bb'
+magenta = '#efbddc'
+red = '#ffb09a'
+white = '#fffaf0'
+yellow = '#ffe08d'
+
+[colors.cursor]
+cursor = '#f5c15b'
+text = '#54251d'
+
+[colors.normal]
+black = '#d4c3b5'
+blue = '#8fc8ef'
+cyan = '#82ddd6'
+green = '#8ed8a8'
+magenta = '#e7a5cf'
+red = '#ff9b83'
+white = '#fff0d8'
+yellow = '#f6d06d'
+
+[colors.primary]
+background = '#54251d'
+foreground = '#fff0d8'
+
+[colors.selection]
+background = '#7b4033'
+text = '#fff6e8'

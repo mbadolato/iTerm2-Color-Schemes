@@ -1,0 +1,33 @@
+# Colors (Petrified)
+
+[colors.bright]
+black = '#d6d0ca'
+blue = '#9dcddd'
+cyan = '#94dad5'
+green = '#9bd4a7'
+magenta = '#dab6cf'
+red = '#f4aa8d'
+white = '#fff9ed'
+yellow = '#efd17d'
+
+[colors.cursor]
+cursor = '#f0b65c'
+text = '#403637'
+
+[colors.normal]
+black = '#c7c0ba'
+blue = '#80bdd2'
+cyan = '#75ccc7'
+green = '#82c794'
+magenta = '#cc9fc1'
+red = '#ee9676'
+white = '#fff0dc'
+yellow = '#e5c05c'
+
+[colors.primary]
+background = '#403637'
+foreground = '#fff0dc'
+
+[colors.selection]
+background = '#625456'
+text = '#fff8ea'

@@ -1,0 +1,41 @@
+(
+    name: "Desert Thunder",
+    foreground: "#f5f1df",
+    background: "#31485a",
+    cursor: "#f4d06f",
+    bright_foreground: "#f5f1df",
+    dim_foreground: "#dee3e2",
+
+    normal: (
+        black: "#d0d6d5",
+        red: "#f5a08c",
+        green: "#98d9ad",
+        yellow: "#eed47d",
+        blue: "#a8d2f0",
+        magenta: "#dcb4df",
+        cyan: "#9de1df",
+        white: "#f5f1df"
+    ),
+
+    bright: (
+        black: "#dee3e2",
+        red: "#f9b6a5",
+        green: "#b0e3bd",
+        yellow: "#f6e19a",
+        blue: "#c1dff4",
+        magenta: "#e7cae8",
+        cyan: "#b9ebe8",
+        white: "#fffdf4"
+    ),
+
+    dim: (
+        black: "#d0d6d5",
+        red: "#f5a08c",
+        green: "#98d9ad",
+        yellow: "#eed47d",
+        blue: "#a8d2f0",
+        magenta: "#dcb4df",
+        cyan: "#9de1df",
+        white: "#f5f1df"
+    ),
+)

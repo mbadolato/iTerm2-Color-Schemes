@@ -1,0 +1,41 @@
+(
+    name: "Caliche",
+    foreground: "#fff0d5",
+    background: "#55452f",
+    cursor: "#f0bd5b",
+    bright_foreground: "#fff0d5",
+    dim_foreground: "#d8d3c5",
+
+    normal: (
+        black: "#c9c4b5",
+        red: "#ebad90",
+        green: "#87c79e",
+        yellow: "#dfbf68",
+        blue: "#91c1d6",
+        magenta: "#d2afc4",
+        cyan: "#76c9c4",
+        white: "#fff0d5"
+    ),
+
+    bright: (
+        black: "#d8d3c5",
+        red: "#eeaa89",
+        green: "#99d0aa",
+        yellow: "#e9d087",
+        blue: "#9bc9dc",
+        magenta: "#d8b6c8",
+        cyan: "#94d7d2",
+        white: "#fff9e9"
+    ),
+
+    dim: (
+        black: "#c9c4b5",
+        red: "#ebad90",
+        green: "#87c79e",
+        yellow: "#dfbf68",
+        blue: "#91c1d6",
+        magenta: "#d2afc4",
+        cyan: "#76c9c4",
+        white: "#fff0d5"
+    ),
+)

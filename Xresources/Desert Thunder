@@ -1,0 +1,43 @@
+!
+! Desert Thunder
+!
+*.foreground:  #f5f1df
+*.background:  #31485a
+*.cursorColor: #f4d06f
+!
+! Black
+*.color0:      #d0d6d5
+*.color8:      #dee3e2
+!
+! Red
+*.color1:      #f5a08c
+*.color9:      #f9b6a5
+!
+! Green
+*.color2:      #98d9ad
+*.color10:     #b0e3bd
+!
+! Yellow
+*.color3:      #eed47d
+*.color11:     #f6e19a
+!
+! Blue
+*.color4:      #a8d2f0
+*.color12:     #c1dff4
+!
+! Magenta
+*.color5:      #dcb4df
+*.color13:     #e7cae8
+!
+! Cyan
+*.color6:      #9de1df
+*.color14:     #b9ebe8
+!
+! White
+*.color7:      #f5f1df
+*.color15:     #fffdf4
+!
+! Bold, Italic, Underline
+*.colorBD:     #9de5df
+!*.colorIT:
+!*.colorUL:

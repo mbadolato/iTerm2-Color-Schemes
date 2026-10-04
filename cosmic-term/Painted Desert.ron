@@ -1,0 +1,41 @@
+(
+    name: "Painted Desert",
+    foreground: "#fff0df",
+    background: "#593148",
+    cursor: "#f4c05d",
+    bright_foreground: "#fff0df",
+    dim_foreground: "#e4d6d7",
+
+    normal: (
+        black: "#d7c7c8",
+        red: "#ffa08e",
+        green: "#99d6a8",
+        yellow: "#f2d071",
+        blue: "#9ccbed",
+        magenta: "#e7acd7",
+        cyan: "#92ded8",
+        white: "#fff0df"
+    ),
+
+    bright: (
+        black: "#e4d6d7",
+        red: "#ffb5a4",
+        green: "#b0e0ba",
+        yellow: "#ffe091",
+        blue: "#b7daf2",
+        magenta: "#f0c2e0",
+        cyan: "#b1e9e4",
+        white: "#fffaf2"
+    ),
+
+    dim: (
+        black: "#d7c7c8",
+        red: "#ffa08e",
+        green: "#99d6a8",
+        yellow: "#f2d071",
+        blue: "#9ccbed",
+        magenta: "#e7acd7",
+        cyan: "#92ded8",
+        white: "#fff0df"
+    ),
+)

@@ -1,0 +1,12 @@
+# Ocotillo
+[colors]
+foreground = "#fff0d8"
+background = "#66301e"
+cursor_bg = "#f7be55"
+cursor_border = "#f7be55"
+cursor_fg = "#66301e"
+selection_bg = "#854b37"
+selection_fg = "#fff8e9"
+
+ansi = ["#d8c8bc","#ffa08a","#91d6a4","#f4cf6c","#95c9ed","#e7a8d1","#88ddd6","#fff0d8"]
+brights = ["#e5d6cb","#ffb5a0","#aae0b7","#ffdf8b","#b1d8f3","#efbfdb","#a8e8e2","#fffaf0"]

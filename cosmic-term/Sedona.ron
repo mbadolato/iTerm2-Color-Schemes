@@ -1,0 +1,41 @@
+(
+    name: "Sedona",
+    foreground: "#fff0dc",
+    background: "#55172f",
+    cursor: "#f3bd50",
+    bright_foreground: "#fff0dc",
+    dim_foreground: "#d9c9cd",
+
+    normal: (
+        black: "#c8b9bd",
+        red: "#f58d79",
+        green: "#83cd94",
+        yellow: "#efc257",
+        blue: "#8fc1e5",
+        magenta: "#dc98c7",
+        cyan: "#79d1cb",
+        white: "#fff0dc"
+    ),
+
+    bright: (
+        black: "#d9c9cd",
+        red: "#fba594",
+        green: "#9ad9a7",
+        yellow: "#f8d47b",
+        blue: "#acd2ed",
+        magenta: "#e7b2d5",
+        cyan: "#99dfda",
+        white: "#fff9ed"
+    ),
+
+    dim: (
+        black: "#c8b9bd",
+        red: "#f58d79",
+        green: "#83cd94",
+        yellow: "#efc257",
+        blue: "#8fc1e5",
+        magenta: "#dc98c7",
+        cyan: "#79d1cb",
+        white: "#fff0dc"
+    ),
+)

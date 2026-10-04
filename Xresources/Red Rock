@@ -1,0 +1,43 @@
+!
+! Red Rock
+!
+*.foreground:  #fff0dc
+*.background:  #672a20
+*.cursorColor: #f7bd55
+!
+! Black
+*.color0:      #d9c7bb
+*.color8:      #e6d5ca
+!
+! Red
+*.color1:      #ffa18b
+*.color9:      #ffb5a1
+!
+! Green
+*.color2:      #91d7a7
+*.color10:     #aae1ba
+!
+! Yellow
+*.color3:      #f5d06f
+*.color11:     #ffe08e
+!
+! Blue
+*.color4:      #94c9ee
+*.color12:     #b0d8f3
+!
+! Magenta
+*.color5:      #e7a9d3
+*.color13:     #efc0de
+!
+! Cyan
+*.color6:      #87ddd7
+*.color14:     #a7e8e2
+!
+! White
+*.color7:      #fff0dc
+*.color15:     #fffaf2
+!
+! Bold, Italic, Underline
+*.colorBD:     #83ddd2
+!*.colorIT:
+!*.colorUL:

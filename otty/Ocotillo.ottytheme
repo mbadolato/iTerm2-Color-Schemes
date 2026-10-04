@@ -1,0 +1,17 @@
+[meta]
+name = "Ocotillo"
+mode = "dark"
+
+[terminal]
+foreground = "#fff0d8"
+background = "#66301e"
+palette = [
+    "#d8c8bc", "#ffa08a", "#91d6a4", "#f4cf6c",
+    "#95c9ed", "#e7a8d1", "#88ddd6", "#fff0d8",
+    "#e5d6cb", "#ffb5a0", "#aae0b7", "#ffdf8b",
+    "#b1d8f3", "#efbfdb", "#a8e8e2", "#fffaf0",
+]
+cursor = "#f7be55"
+cursor-text = "#66301e"
+selection-background = "#854b37"
+selection-foreground = "#fff8e9"

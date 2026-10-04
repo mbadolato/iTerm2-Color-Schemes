@@ -1,0 +1,41 @@
+(
+    name: "Sun Bleached",
+    foreground: "#4a382f",
+    background: "#f0dfc3",
+    cursor: "#b75b3f",
+    bright_foreground: "#4a382f",
+    dim_foreground: "#65574d",
+
+    normal: (
+        black: "#4a4038",
+        red: "#9e4935",
+        green: "#4b694d",
+        yellow: "#725a1c",
+        blue: "#3a6378",
+        magenta: "#76546e",
+        cyan: "#33656a",
+        white: "#594b40"
+    ),
+
+    bright: (
+        black: "#65574d",
+        red: "#904b37",
+        green: "#506950",
+        yellow: "#725c23",
+        blue: "#426678",
+        magenta: "#775a70",
+        cyan: "#3a666a",
+        white: "#302925"
+    ),
+
+    dim: (
+        black: "#4a4038",
+        red: "#9e4935",
+        green: "#4b694d",
+        yellow: "#725a1c",
+        blue: "#3a6378",
+        magenta: "#76546e",
+        cyan: "#33656a",
+        white: "#594b40"
+    ),
+)

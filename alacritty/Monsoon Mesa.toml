@@ -1,0 +1,33 @@
+# Colors (Monsoon Mesa)
+
+[colors.bright]
+black = '#dee4e2'
+blue = '#c0def4'
+cyan = '#b7ebe7'
+green = '#afe3bc'
+magenta = '#e9c8e7'
+red = '#fbb7a6'
+white = '#fffdf4'
+yellow = '#f7e097'
+
+[colors.cursor]
+cursor = '#f4c96a'
+text = '#164b58'
+
+[colors.normal]
+black = '#d0d8d6'
+blue = '#a7d1ef'
+cyan = '#9ae1de'
+green = '#98d9ac'
+magenta = '#dfb1dc'
+red = '#f7a18d'
+white = '#f8f1df'
+yellow = '#f0d278'
+
+[colors.primary]
+background = '#164b58'
+foreground = '#f8f1df'
+
+[colors.selection]
+background = '#356873'
+text = '#fffbed'

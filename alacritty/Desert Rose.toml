@@ -1,0 +1,33 @@
+# Colors (Desert Rose)
+
+[colors.bright]
+black = '#dacbca'
+blue = '#acd4ef'
+cyan = '#a2e4df'
+green = '#a9dcaf'
+magenta = '#e9bad7'
+red = '#ffaea3'
+white = '#fffaf2'
+yellow = '#f8d98b'
+
+[colors.cursor]
+cursor = '#f4bd63'
+text = '#5a2032'
+
+[colors.normal]
+black = '#c9b9b8'
+blue = '#8fc4e8'
+cyan = '#82d7d2'
+green = '#94d1a1'
+magenta = '#dfa2c9'
+red = '#ff978b'
+white = '#fff0df'
+yellow = '#edc96d'
+
+[colors.primary]
+background = '#5a2032'
+foreground = '#fff0df'
+
+[colors.selection]
+background = '#7d4050'
+text = '#fff7ed'

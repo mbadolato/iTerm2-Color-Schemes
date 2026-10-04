@@ -1,0 +1,17 @@
+[meta]
+name = "Sun Bleached"
+mode = "light"
+
+[terminal]
+foreground = "#4a382f"
+background = "#f0dfc3"
+palette = [
+    "#4a4038", "#9e4935", "#4b694d", "#725a1c",
+    "#3a6378", "#76546e", "#33656a", "#594b40",
+    "#65574d", "#904b37", "#506950", "#725c23",
+    "#426678", "#775a70", "#3a666a", "#302925",
+]
+cursor = "#b75b3f"
+cursor-text = "#f0dfc3"
+selection-background = "#dfcbaa"
+selection-foreground = "#2e2825"

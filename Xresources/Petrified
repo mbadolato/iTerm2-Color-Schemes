@@ -1,0 +1,43 @@
+!
+! Petrified
+!
+*.foreground:  #fff0dc
+*.background:  #403637
+*.cursorColor: #f0b65c
+!
+! Black
+*.color0:      #c7c0ba
+*.color8:      #d6d0ca
+!
+! Red
+*.color1:      #ee9676
+*.color9:      #f4aa8d
+!
+! Green
+*.color2:      #82c794
+*.color10:     #9bd4a7
+!
+! Yellow
+*.color3:      #e5c05c
+*.color11:     #efd17d
+!
+! Blue
+*.color4:      #80bdd2
+*.color12:     #9dcddd
+!
+! Magenta
+*.color5:      #cc9fc1
+*.color13:     #dab6cf
+!
+! Cyan
+*.color6:      #75ccc7
+*.color14:     #94dad5
+!
+! White
+*.color7:      #fff0dc
+*.color15:     #fff9ed
+!
+! Bold, Italic, Underline
+*.colorBD:     #eab060
+!*.colorIT:
+!*.colorUL:

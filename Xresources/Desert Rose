@@ -1,0 +1,43 @@
+!
+! Desert Rose
+!
+*.foreground:  #fff0df
+*.background:  #5a2032
+*.cursorColor: #f4bd63
+!
+! Black
+*.color0:      #c9b9b8
+*.color8:      #dacbca
+!
+! Red
+*.color1:      #ff978b
+*.color9:      #ffaea3
+!
+! Green
+*.color2:      #94d1a1
+*.color10:     #a9dcaf
+!
+! Yellow
+*.color3:      #edc96d
+*.color11:     #f8d98b
+!
+! Blue
+*.color4:      #8fc4e8
+*.color12:     #acd4ef
+!
+! Magenta
+*.color5:      #dfa2c9
+*.color13:     #e9bad7
+!
+! Cyan
+*.color6:      #82d7d2
+*.color14:     #a2e4df
+!
+! White
+*.color7:      #fff0df
+*.color15:     #fffaf2
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffc0b0
+!*.colorIT:
+!*.colorUL:

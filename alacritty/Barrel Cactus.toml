@@ -1,0 +1,33 @@
+# Colors (Barrel Cactus)
+
+[colors.bright]
+black = '#cedbd1'
+blue = '#9fcfe2'
+cyan = '#96dfd7'
+green = '#a3dcaf'
+magenta = '#e4b7cf'
+red = '#f8ab89'
+white = '#fff9e9'
+yellow = '#f3d97f'
+
+[colors.cursor]
+cursor = '#f0bb4d'
+text = '#145039'
+
+[colors.normal]
+black = '#bed0c3'
+blue = '#83bfd8'
+cyan = '#77d3ca'
+green = '#8bd19b'
+magenta = '#dcaac8'
+red = '#f5a181'
+white = '#fff0d3'
+yellow = '#eac95f'
+
+[colors.primary]
+background = '#145039'
+foreground = '#fff0d3'
+
+[colors.selection]
+background = '#326b56'
+text = '#fff8e6'

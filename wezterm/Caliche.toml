@@ -1,0 +1,12 @@
+# Caliche
+[colors]
+foreground = "#fff0d5"
+background = "#55452f"
+cursor_bg = "#f0bd5b"
+cursor_border = "#f0bd5b"
+cursor_fg = "#55452f"
+selection_bg = "#74634c"
+selection_fg = "#fff8e8"
+
+ansi = ["#c9c4b5","#ebad90","#87c79e","#dfbf68","#91c1d6","#d2afc4","#76c9c4","#fff0d5"]
+brights = ["#d8d3c5","#eeaa89","#99d0aa","#e9d087","#9bc9dc","#d8b6c8","#94d7d2","#fff9e9"]

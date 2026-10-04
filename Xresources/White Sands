@@ -1,0 +1,43 @@
+!
+! White Sands
+!
+*.foreground:  #283b54
+*.background:  #f4efe4
+*.cursorColor: #d87859
+!
+! Black
+*.color0:      #34445a
+*.color8:      #596678
+!
+! Red
+*.color1:      #9b493f
+*.color9:      #a35448
+!
+! Green
+*.color2:      #46734f
+*.color10:     #4b7553
+!
+! Yellow
+*.color3:      #7a641f
+*.color11:     #7a6625
+!
+! Blue
+*.color4:      #315d86
+*.color12:     #426e9e
+!
+! Magenta
+*.color5:      #73568f
+*.color13:     #7b6095
+!
+! Cyan
+*.color6:      #33747b
+*.color14:     #376f75
+!
+! White
+*.color7:      #46515c
+*.color15:     #1f2c3c
+!
+! Bold, Italic, Underline
+*.colorBD:     #315d86
+!*.colorIT:
+!*.colorUL:

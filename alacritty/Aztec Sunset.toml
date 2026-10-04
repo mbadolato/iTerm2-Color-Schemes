@@ -1,0 +1,33 @@
+# Colors (Aztec Sunset)
+
+[colors.bright]
+black = '#c0b4b0'
+blue = '#8bd8d2'
+cyan = '#89e2dc'
+green = '#86d7a8'
+magenta = '#f194bd'
+red = '#ff986d'
+white = '#fff4df'
+yellow = '#ffd071'
+
+[colors.cursor]
+cursor = '#ff9f2e'
+text = '#1b0c18'
+
+[colors.normal]
+black = '#a9a19f'
+blue = '#72c6c2'
+cyan = '#65d5d0'
+green = '#67c894'
+magenta = '#e778a8'
+red = '#f47c62'
+white = '#ffe6c7'
+yellow = '#e9bd59'
+
+[colors.primary]
+background = '#1b0c18'
+foreground = '#ffe6c7'
+
+[colors.selection]
+background = '#743829'
+text = '#fff0d8'

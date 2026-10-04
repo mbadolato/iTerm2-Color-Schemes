@@ -1,0 +1,41 @@
+(
+    name: "Ocotillo",
+    foreground: "#fff0d8",
+    background: "#66301e",
+    cursor: "#f7be55",
+    bright_foreground: "#fff0d8",
+    dim_foreground: "#e5d6cb",
+
+    normal: (
+        black: "#d8c8bc",
+        red: "#ffa08a",
+        green: "#91d6a4",
+        yellow: "#f4cf6c",
+        blue: "#95c9ed",
+        magenta: "#e7a8d1",
+        cyan: "#88ddd6",
+        white: "#fff0d8"
+    ),
+
+    bright: (
+        black: "#e5d6cb",
+        red: "#ffb5a0",
+        green: "#aae0b7",
+        yellow: "#ffdf8b",
+        blue: "#b1d8f3",
+        magenta: "#efbfdb",
+        cyan: "#a8e8e2",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#d8c8bc",
+        red: "#ffa08a",
+        green: "#91d6a4",
+        yellow: "#f4cf6c",
+        blue: "#95c9ed",
+        magenta: "#e7a8d1",
+        cyan: "#88ddd6",
+        white: "#fff0d8"
+    ),
+)

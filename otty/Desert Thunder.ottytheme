@@ -1,0 +1,17 @@
+[meta]
+name = "Desert Thunder"
+mode = "dark"
+
+[terminal]
+foreground = "#f5f1df"
+background = "#31485a"
+palette = [
+    "#d0d6d5", "#f5a08c", "#98d9ad", "#eed47d",
+    "#a8d2f0", "#dcb4df", "#9de1df", "#f5f1df",
+    "#dee3e2", "#f9b6a5", "#b0e3bd", "#f6e19a",
+    "#c1dff4", "#e7cae8", "#b9ebe8", "#fffdf4",
+]
+cursor = "#f4d06f"
+cursor-text = "#31485a"
+selection-background = "#4d6475"
+selection-foreground = "#fffbed"
