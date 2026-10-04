@@ -668,4 +668,52 @@ The Evergreen theme was created by Mark Badolato.
 
 The Kwyjibo theme was created by Mark Badolato.
 
+The Springfield Resident theme was created by Mark Badolato.
+
+The Springfield Resident Hight Contrast theme was created by Mark Badolato.
+
+The Aztec Sunset theme was created by Mark Badolato.
+
+The Saguaro theme was created by Mark Badolato.
+
+The Adobe Moon theme was created by Mark Badolato.
+
+The Agave Dusk theme was created by Mark Badolato.
+
+The Canyon Shadow theme was created by Mark Badolato.
+
+The Copper Canyon theme was created by Mark Badolato.
+
+The Desert Thunder theme was created by Mark Badolato.
+
+The Mesa Blue theme was created by Mark Badolato.
+
+The Monsoon Mesa theme was created by Mark Badolato.
+
+The Ocotillo theme was created by Mark Badolato.
+
+The Painted Desert theme was created by Mark Badolato.
+
+The Pueblo Night theme was created by Mark Badolato.
+
+The Red Rock theme was created by Mark Badolato.
+
+The Turquoise Trail theme was created by Mark Badolato.
+
+The Barrel Cactus theme was created by Mark Badolato.
+
+The Caliche theme was created by Mark Badolato.
+
+The Cholla theme was created by Mark Badolato.
+
+The Desert Bloom theme was created by Mark Badolato.
+
+The Desert Moon theme was created by Mark Badolato.
+
+The Desert Rose theme was created by Mark Badolato.
+
+The Mesa Twilight theme was created by Mark Badolato.
+
+The Petrified theme was created by Mark Badolato.
+
 The Prickly Pear theme was created by Mark Badolato.
