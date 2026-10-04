@@ -697,3 +697,5 @@ The Painted Desert theme was created by Mark Badolato.
 The Pueblo Night theme was created by Mark Badolato.
 
 The Red Rock theme was created by Mark Badolato.
+
+The Turquoise Trail theme was created by Mark Badolato.
