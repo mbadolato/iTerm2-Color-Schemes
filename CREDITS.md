@@ -687,3 +687,5 @@ The Copper Canyon theme was created by Mark Badolato.
 The Desert Thunder theme was created by Mark Badolato.
 
 The Mesa Blue theme was created by Mark Badolato.
+
+The Monsoon Mesa theme was created by Mark Badolato.
