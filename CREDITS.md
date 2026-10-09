@@ -727,3 +727,5 @@ The White Sands theme was created by Mark Badolato.
 The Tailwind Dark theme was created by [Bhajneet S.K.](https://github.com/bhajneet).
 
 The Tailwind Light theme was created by [Bhajneet S.K.](https://github.com/bhajneet).
+
+The [eyesclosed](https://github.com/thdxg/eyesclosed) theme was created by [thdxg](https://github.com/thdxg).
