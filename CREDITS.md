@@ -833,3 +833,5 @@ The Pissed Off Pancakes theme was created by Mark Badolato.
 The [eyesclosed](https://github.com/thdxg/eyesclosed) theme was created by [thdxg](https://github.com/thdxg).
 
 The Canyon Walnut theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Desert Morning theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
