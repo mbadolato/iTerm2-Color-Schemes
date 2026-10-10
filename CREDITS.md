@@ -607,63 +607,91 @@ The RadicalReborn theme was created by [AquaOctet](https://github.com/AquaOctet/
 The Charcoal theme was created by [Vyom Jain](https://github.com/VyomJain6904). A deep-black grayscale theme (also available for bat and OpenCode at [charcoal-theme](https://github.com/VyomJain6904/charcoal-theme)).
 
 The Sonoran Dusk theme was created by Mark Badolato.
+
 The Arizona Monsoon theme was created by Mark Badolato.
 The After Hours theme was created by Mark Badolato.
+
 The Blueprint theme was created by Mark Badolato.
 The CRT Afterglow theme was created by Mark Badolato.
+
 The Deep Current theme was created by Mark Badolato.
 The Emberglass theme was created by Mark Badolato.
+
 The High Desert Snow theme was created by Mark Badolato.
 The Golden Retriever Cream theme was created by Mark Badolato.
+
 The Golden Retriever Honey theme was created by Mark Badolato.
 The Golden Retriever Red theme was created by Mark Badolato.
+
 The Nightfall theme was created by Mark Badolato.
 The Prince of Darkness theme was created by Mark Badolato.
+
 The Madman's Diary theme was created by Mark Badolato.
 The Ozz's Blizzard theme was created by Mark Badolato.
+
 The EVH FrankenTone theme was created by Mark Badolato.
 The Rhoads Legacy theme was created by Mark Badolato.
+
 The Rhoads Insipired theme was created by Mark Badolato.
 The Rhoads Concord theme was created by Mark Badolato.
+
 The Rhoads RR Black theme was created by Mark Badolato.
 The Rhoads LP theme was created by Mark Badolato.
+
 The Clockwork Gold theme was created by [Clockwork](https://www.clockwork.com), from [ClockworkNet/clockwork-gold](https://github.com/ClockworkNet/clockwork-gold). The palette is human-designed; the YAML source was converted from its Ghostty theme with AI assistance.
 
 The Daybreaker theme was created by Mark Badolato.
+
 The Horizons theme was created by Mark Badolato.
-||||||| 5a44b4f0a
+
 The Northstar theme was created by Mark Badolato.
 The Obsurdian theme was created by Mark Badolato.
+
 The Eventide theme was created by Mark Badolato.
 The Molten Core theme was created by Mark Badolato.
+
 The Signal Ghost theme was created by Mark Badolato.
 The Icy Glacier theme was created by Mark Badolato.
+
 The Parchment theme was created by Mark Badolato.
 The Solar Flare theme was created by Mark Badolato.
+
 The Aurora Drift theme was created by Mark Badolato.
 The Frostline theme was created by Mark Badolato.
+
 The Willow Grove theme was created by Mark Badolato.
 The Cactus Bloom theme was created by Mark Badolato.
+
 The Ember Peak theme was created by Mark Badolato.
 The Neon Analog theme was created by Mark Badolato.
+
 The Afterimage theme was created by Mark Badolato.
 The Cold Storage theme was created by Mark Badolato.
+
 The Dead Letter Office theme was created by Mark Badolato.
 The Ghost Circuit theme was created by Mark Badolato.
+
 The Paper Tiger theme was created by Mark Badolato.
 The Vacuum Tube theme was created by Mark Badolato.
+
 The Black Box Recorder theme was created by Mark Badolato.
 The Carbon Paper theme was created by Mark Badolato.
+
 The Night Pharmacy theme was created by Mark Badolato.
 The Numbers Station theme was created by Mark Badolato.
+
 The Redacted theme was created by Mark Badolato.
 The Static Memory theme was created by Mark Badolato.
+
 The Green Screen theme was created by Mark Badolato.
 The Last Broadcast theme was created by Mark Badolato.
+
 The Lunar Dust theme was created by Mark Badolato.
 The Motel Vacancy theme was created by Mark Badolato.
+
 The Safety Glass theme was created by Mark Badolato.
 The Thermal Receipt theme was created by Mark Badolato.
+
 The Evergreen theme was created by Mark Badolato.
 
 The Kwyjibo theme was created by Mark Badolato.
