@@ -1,0 +1,12 @@
+# Jute Espresso
+[colors]
+foreground = "#fff0d7"
+background = "#604331"
+cursor_bg = "#ffe0a4"
+cursor_border = "#ffe0a4"
+cursor_fg = "#604331"
+selection_bg = "#8e684a"
+selection_fg = "#fff8e8"
+
+ansi = ["#e0c7ab","#ffc0a1","#c4ddad","#fbd18a","#a9cbea","#d8b9dc","#a9ded6","#fff0d7"]
+brights = ["#efd9c1","#ffd1b3","#d5e9c1","#ffe0a4","#c2ddf7","#e9cdea","#c2ece3","#fff9e9"]

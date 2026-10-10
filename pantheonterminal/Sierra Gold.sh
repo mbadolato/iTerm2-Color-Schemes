@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Sierra Gold'
+cursor-color='#ffdb91'
+foreground='#f9e6c7'
+background='rgba(57,36,20,.95)'
+palette='#cbb49b:#f4a17c:#a8c98b:#f3c873:#9dc5ed:#d6a5d8:#92d4d4:#f9e6c7:#e0cdb5:#ffc29d:#c3dca3:#ffdb91:#b9d9fa:#e7bde9:#afe6e2:#fff5df'
+COLORS

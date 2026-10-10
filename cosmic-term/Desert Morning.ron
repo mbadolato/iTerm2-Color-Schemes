@@ -1,0 +1,41 @@
+(
+    name: "Desert Morning",
+    foreground: "#352417",
+    background: "#d8b590",
+    cursor: "#60430e",
+    bright_foreground: "#352417",
+    dim_foreground: "#5c4336",
+
+    normal: (
+        black: "#4a3529",
+        red: "#7e2c23",
+        green: "#294f2e",
+        yellow: "#62430b",
+        blue: "#274978",
+        magenta: "#61386a",
+        cyan: "#1a4f51",
+        white: "#352417"
+    ),
+
+    bright: (
+        black: "#5c4336",
+        red: "#7d3025",
+        green: "#304e33",
+        yellow: "#60430e",
+        blue: "#274875",
+        magenta: "#603b6a",
+        cyan: "#1e4f52",
+        white: "#24170e"
+    ),
+
+    dim: (
+        black: "#4a3529",
+        red: "#7e2c23",
+        green: "#294f2e",
+        yellow: "#62430b",
+        blue: "#274978",
+        magenta: "#61386a",
+        cyan: "#1a4f51",
+        white: "#352417"
+    ),
+)

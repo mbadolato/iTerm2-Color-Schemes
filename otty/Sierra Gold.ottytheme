@@ -1,0 +1,17 @@
+[meta]
+name = "Sierra Gold"
+mode = "dark"
+
+[terminal]
+foreground = "#f9e6c7"
+background = "#392414"
+palette = [
+    "#cbb49b", "#f4a17c", "#a8c98b", "#f3c873",
+    "#9dc5ed", "#d6a5d8", "#92d4d4", "#f9e6c7",
+    "#e0cdb5", "#ffc29d", "#c3dca3", "#ffdb91",
+    "#b9d9fa", "#e7bde9", "#afe6e2", "#fff5df",
+]
+cursor = "#ffdb91"
+cursor-text = "#392414"
+selection-background = "#8e684a"
+selection-foreground = "#fff8e8"

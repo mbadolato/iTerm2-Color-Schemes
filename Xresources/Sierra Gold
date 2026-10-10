@@ -1,0 +1,43 @@
+!
+! Sierra Gold
+!
+*.foreground:  #f9e6c7
+*.background:  #392414
+*.cursorColor: #ffdb91
+!
+! Black
+*.color0:      #cbb49b
+*.color8:      #e0cdb5
+!
+! Red
+*.color1:      #f4a17c
+*.color9:      #ffc29d
+!
+! Green
+*.color2:      #a8c98b
+*.color10:     #c3dca3
+!
+! Yellow
+*.color3:      #f3c873
+*.color11:     #ffdb91
+!
+! Blue
+*.color4:      #9dc5ed
+*.color12:     #b9d9fa
+!
+! Magenta
+*.color5:      #d6a5d8
+*.color13:     #e7bde9
+!
+! Cyan
+*.color6:      #92d4d4
+*.color14:     #afe6e2
+!
+! White
+*.color7:      #f9e6c7
+*.color15:     #fff5df
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffdb91
+!*.colorIT:
+!*.colorUL:

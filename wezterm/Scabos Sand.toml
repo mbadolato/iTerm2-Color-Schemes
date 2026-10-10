@@ -1,0 +1,12 @@
+# Scabos Sand
+[colors]
+foreground = "#fff4dc"
+background = "#79563b"
+cursor_bg = "#ffeaba"
+cursor_border = "#ffeaba"
+cursor_fg = "#79563b"
+selection_bg = "#8e684a"
+selection_fg = "#fff8e8"
+
+ansi = ["#fff0d1","#ffdbc1","#e1f0b7","#ffe29b","#c6e4fc","#eed2f2","#bce9e6","#fff4dc"]
+brights = ["#fff5e5","#ffe6cf","#eff6d1","#ffeaba","#d8ecff","#f7e0f7","#d3f5ef","#fffbed"]

@@ -1,0 +1,43 @@
+!
+! Canyon Walnut
+!
+*.foreground:  #f8e4c6
+*.background:  #332014
+*.cursorColor: #ffd27e
+!
+! Black
+*.color0:      #c7ad93
+*.color8:      #dcc3a8
+!
+! Red
+*.color1:      #ed9371
+*.color9:      #ffb08c
+!
+! Green
+*.color2:      #b3c98a
+*.color10:     #c8dd9f
+!
+! Yellow
+*.color3:      #f2bb5f
+*.color11:     #ffd27e
+!
+! Blue
+*.color4:      #8fbde7
+*.color12:     #abd1f5
+!
+! Magenta
+*.color5:      #c9a0d9
+*.color13:     #ddb7eb
+!
+! Cyan
+*.color6:      #8dd1ce
+*.color14:     #a9e2db
+!
+! White
+*.color7:      #f8e4c6
+*.color15:     #fff5dc
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffd27e
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,12 @@
+# Sierra Gold
+[colors]
+foreground = "#f9e6c7"
+background = "#392414"
+cursor_bg = "#ffdb91"
+cursor_border = "#ffdb91"
+cursor_fg = "#392414"
+selection_bg = "#8e684a"
+selection_fg = "#fff8e8"
+
+ansi = ["#cbb49b","#f4a17c","#a8c98b","#f3c873","#9dc5ed","#d6a5d8","#92d4d4","#f9e6c7"]
+brights = ["#e0cdb5","#ffc29d","#c3dca3","#ffdb91","#b9d9fa","#e7bde9","#afe6e2","#fff5df"]

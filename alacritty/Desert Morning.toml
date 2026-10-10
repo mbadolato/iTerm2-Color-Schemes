@@ -1,0 +1,33 @@
+# Colors (Desert Morning)
+
+[colors.bright]
+black = '#5c4336'
+blue = '#274875'
+cyan = '#1e4f52'
+green = '#304e33'
+magenta = '#603b6a'
+red = '#7d3025'
+white = '#24170e'
+yellow = '#60430e'
+
+[colors.cursor]
+cursor = '#60430e'
+text = '#d8b590'
+
+[colors.normal]
+black = '#4a3529'
+blue = '#274978'
+cyan = '#1a4f51'
+green = '#294f2e'
+magenta = '#61386a'
+red = '#7e2c23'
+white = '#352417'
+yellow = '#62430b'
+
+[colors.primary]
+background = '#d8b590'
+foreground = '#352417'
+
+[colors.selection]
+background = '#5b3c28'
+text = '#fff8e8'

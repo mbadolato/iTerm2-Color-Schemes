@@ -1,0 +1,41 @@
+(
+    name: "Canyon Walnut",
+    foreground: "#f8e4c6",
+    background: "#332014",
+    cursor: "#ffd27e",
+    bright_foreground: "#f8e4c6",
+    dim_foreground: "#dcc3a8",
+
+    normal: (
+        black: "#c7ad93",
+        red: "#ed9371",
+        green: "#b3c98a",
+        yellow: "#f2bb5f",
+        blue: "#8fbde7",
+        magenta: "#c9a0d9",
+        cyan: "#8dd1ce",
+        white: "#f8e4c6"
+    ),
+
+    bright: (
+        black: "#dcc3a8",
+        red: "#ffb08c",
+        green: "#c8dd9f",
+        yellow: "#ffd27e",
+        blue: "#abd1f5",
+        magenta: "#ddb7eb",
+        cyan: "#a9e2db",
+        white: "#fff5dc"
+    ),
+
+    dim: (
+        black: "#c7ad93",
+        red: "#ed9371",
+        green: "#b3c98a",
+        yellow: "#f2bb5f",
+        blue: "#8fbde7",
+        magenta: "#c9a0d9",
+        cyan: "#8dd1ce",
+        white: "#f8e4c6"
+    ),
+)

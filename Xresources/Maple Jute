@@ -1,0 +1,43 @@
+!
+! Maple Jute
+!
+*.foreground:  #fbe9d3
+*.background:  #56351f
+*.cursorColor: #ffdf9c
+!
+! Black
+*.color0:      #cfb7a1
+*.color8:      #e2cbb7
+!
+! Red
+*.color1:      #f5a18d
+*.color9:      #ffbd9e
+!
+! Green
+*.color2:      #b9d8a1
+*.color10:     #cfe6b2
+!
+! Yellow
+*.color3:      #f2c87c
+*.color11:     #ffdf9c
+!
+! Blue
+*.color4:      #a8c9ec
+*.color12:     #c2dafa
+!
+! Magenta
+*.color5:      #dbb0dd
+*.color13:     #ecc9ec
+!
+! Cyan
+*.color6:      #9ed9d2
+*.color14:     #b9e9e0
+!
+! White
+*.color7:      #fbe9d3
+*.color15:     #fff7e8
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffdf9c
+!*.colorIT:
+!*.colorUL:

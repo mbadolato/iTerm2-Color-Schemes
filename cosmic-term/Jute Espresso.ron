@@ -1,0 +1,41 @@
+(
+    name: "Jute Espresso",
+    foreground: "#fff0d7",
+    background: "#604331",
+    cursor: "#ffe0a4",
+    bright_foreground: "#fff0d7",
+    dim_foreground: "#efd9c1",
+
+    normal: (
+        black: "#e0c7ab",
+        red: "#ffc0a1",
+        green: "#c4ddad",
+        yellow: "#fbd18a",
+        blue: "#a9cbea",
+        magenta: "#d8b9dc",
+        cyan: "#a9ded6",
+        white: "#fff0d7"
+    ),
+
+    bright: (
+        black: "#efd9c1",
+        red: "#ffd1b3",
+        green: "#d5e9c1",
+        yellow: "#ffe0a4",
+        blue: "#c2ddf7",
+        magenta: "#e9cdea",
+        cyan: "#c2ece3",
+        white: "#fff9e9"
+    ),
+
+    dim: (
+        black: "#e0c7ab",
+        red: "#ffc0a1",
+        green: "#c4ddad",
+        yellow: "#fbd18a",
+        blue: "#a9cbea",
+        magenta: "#d8b9dc",
+        cyan: "#a9ded6",
+        white: "#fff0d7"
+    ),
+)

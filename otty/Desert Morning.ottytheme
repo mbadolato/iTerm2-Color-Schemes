@@ -1,0 +1,17 @@
+[meta]
+name = "Desert Morning"
+mode = "light"
+
+[terminal]
+foreground = "#352417"
+background = "#d8b590"
+palette = [
+    "#4a3529", "#7e2c23", "#294f2e", "#62430b",
+    "#274978", "#61386a", "#1a4f51", "#352417",
+    "#5c4336", "#7d3025", "#304e33", "#60430e",
+    "#274875", "#603b6a", "#1e4f52", "#24170e",
+]
+cursor = "#60430e"
+cursor-text = "#d8b590"
+selection-background = "#5b3c28"
+selection-foreground = "#fff8e8"

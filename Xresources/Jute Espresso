@@ -1,0 +1,43 @@
+!
+! Jute Espresso
+!
+*.foreground:  #fff0d7
+*.background:  #604331
+*.cursorColor: #ffe0a4
+!
+! Black
+*.color0:      #e0c7ab
+*.color8:      #efd9c1
+!
+! Red
+*.color1:      #ffc0a1
+*.color9:      #ffd1b3
+!
+! Green
+*.color2:      #c4ddad
+*.color10:     #d5e9c1
+!
+! Yellow
+*.color3:      #fbd18a
+*.color11:     #ffe0a4
+!
+! Blue
+*.color4:      #a9cbea
+*.color12:     #c2ddf7
+!
+! Magenta
+*.color5:      #d8b9dc
+*.color13:     #e9cdea
+!
+! Cyan
+*.color6:      #a9ded6
+*.color14:     #c2ece3
+!
+! White
+*.color7:      #fff0d7
+*.color15:     #fff9e9
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffe0a4
+!*.colorIT:
+!*.colorUL:

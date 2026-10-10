@@ -1,0 +1,43 @@
+!
+! Scabos Sand
+!
+*.foreground:  #fff4dc
+*.background:  #79563b
+*.cursorColor: #ffeaba
+!
+! Black
+*.color0:      #fff0d1
+*.color8:      #fff5e5
+!
+! Red
+*.color1:      #ffdbc1
+*.color9:      #ffe6cf
+!
+! Green
+*.color2:      #e1f0b7
+*.color10:     #eff6d1
+!
+! Yellow
+*.color3:      #ffe29b
+*.color11:     #ffeaba
+!
+! Blue
+*.color4:      #c6e4fc
+*.color12:     #d8ecff
+!
+! Magenta
+*.color5:      #eed2f2
+*.color13:     #f7e0f7
+!
+! Cyan
+*.color6:      #bce9e6
+*.color14:     #d3f5ef
+!
+! White
+*.color7:      #fff4dc
+*.color15:     #fffbed
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffeaba
+!*.colorIT:
+!*.colorUL:

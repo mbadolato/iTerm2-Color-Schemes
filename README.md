@@ -538,6 +538,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/canyon-shadow.png)
 
+### Canyon Walnut
+
+![Screenshot](/screenshots/canyon-walnut.png)
+
 ### Carbonfox
 
 ![Screenshot](/screenshots/carbonfox.png)
@@ -1294,6 +1298,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/jubi.png)
 
+### Jute Espresso
+
+![Screenshot](/screenshots/jute-espresso.png)
+
 ### Kanagawa Dragon
 
 ![Screenshot](/screenshots/kanagawa-dragon.png)
@@ -1425,6 +1433,10 @@ The screenshots are categorized.
 ### Madman's Diary
 
 ![Screenshot](/screenshots/madmans-diary.png)
+
+### Maple Jute
+
+![Screenshot](/screenshots/maple-jute.png)
 
 ### Mariana
 
@@ -2042,6 +2054,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/salem.png)
 
+### Scabos Sand
+
+![Screenshot](/screenshots/scabos-sand.png)
+
 ### Scarlet Protocol
 
 ![Screenshot](/screenshots/scarlet-protocol.png)
@@ -2145,6 +2161,10 @@ The screenshots are categorized.
 ### Shaman
 
 ![Screenshot](/screenshots/shaman.png)
+
+### Sierra Gold
+
+![Screenshot](/screenshots/sierra-gold.png)
 
 ### Signal Ghost
 
@@ -2719,6 +2739,10 @@ The screenshots are categorized.
 ### Dayfox
 
 ![Screenshot](/screenshots/dayfox.png)
+
+### Desert Morning
+
+![Screenshot](/screenshots/desert-morning.png)
 
 ### Earl Grey
 

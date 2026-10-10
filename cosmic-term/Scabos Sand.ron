@@ -1,0 +1,41 @@
+(
+    name: "Scabos Sand",
+    foreground: "#fff4dc",
+    background: "#79563b",
+    cursor: "#ffeaba",
+    bright_foreground: "#fff4dc",
+    dim_foreground: "#fff5e5",
+
+    normal: (
+        black: "#fff0d1",
+        red: "#ffdbc1",
+        green: "#e1f0b7",
+        yellow: "#ffe29b",
+        blue: "#c6e4fc",
+        magenta: "#eed2f2",
+        cyan: "#bce9e6",
+        white: "#fff4dc"
+    ),
+
+    bright: (
+        black: "#fff5e5",
+        red: "#ffe6cf",
+        green: "#eff6d1",
+        yellow: "#ffeaba",
+        blue: "#d8ecff",
+        magenta: "#f7e0f7",
+        cyan: "#d3f5ef",
+        white: "#fffbed"
+    ),
+
+    dim: (
+        black: "#fff0d1",
+        red: "#ffdbc1",
+        green: "#e1f0b7",
+        yellow: "#ffe29b",
+        blue: "#c6e4fc",
+        magenta: "#eed2f2",
+        cyan: "#bce9e6",
+        white: "#fff4dc"
+    ),
+)

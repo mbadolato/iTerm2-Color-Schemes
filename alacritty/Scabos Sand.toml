@@ -1,0 +1,33 @@
+# Colors (Scabos Sand)
+
+[colors.bright]
+black = '#fff5e5'
+blue = '#d8ecff'
+cyan = '#d3f5ef'
+green = '#eff6d1'
+magenta = '#f7e0f7'
+red = '#ffe6cf'
+white = '#fffbed'
+yellow = '#ffeaba'
+
+[colors.cursor]
+cursor = '#ffeaba'
+text = '#79563b'
+
+[colors.normal]
+black = '#fff0d1'
+blue = '#c6e4fc'
+cyan = '#bce9e6'
+green = '#e1f0b7'
+magenta = '#eed2f2'
+red = '#ffdbc1'
+white = '#fff4dc'
+yellow = '#ffe29b'
+
+[colors.primary]
+background = '#79563b'
+foreground = '#fff4dc'
+
+[colors.selection]
+background = '#8e684a'
+text = '#fff8e8'

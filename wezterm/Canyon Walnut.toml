@@ -1,0 +1,12 @@
+# Canyon Walnut
+[colors]
+foreground = "#f8e4c6"
+background = "#332014"
+cursor_bg = "#ffd27e"
+cursor_border = "#ffd27e"
+cursor_fg = "#332014"
+selection_bg = "#8e684a"
+selection_fg = "#fff8e8"
+
+ansi = ["#c7ad93","#ed9371","#b3c98a","#f2bb5f","#8fbde7","#c9a0d9","#8dd1ce","#f8e4c6"]
+brights = ["#dcc3a8","#ffb08c","#c8dd9f","#ffd27e","#abd1f5","#ddb7eb","#a9e2db","#fff5dc"]

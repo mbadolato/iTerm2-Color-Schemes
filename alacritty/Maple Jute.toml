@@ -1,0 +1,33 @@
+# Colors (Maple Jute)
+
+[colors.bright]
+black = '#e2cbb7'
+blue = '#c2dafa'
+cyan = '#b9e9e0'
+green = '#cfe6b2'
+magenta = '#ecc9ec'
+red = '#ffbd9e'
+white = '#fff7e8'
+yellow = '#ffdf9c'
+
+[colors.cursor]
+cursor = '#ffdf9c'
+text = '#56351f'
+
+[colors.normal]
+black = '#cfb7a1'
+blue = '#a8c9ec'
+cyan = '#9ed9d2'
+green = '#b9d8a1'
+magenta = '#dbb0dd'
+red = '#f5a18d'
+white = '#fbe9d3'
+yellow = '#f2c87c'
+
+[colors.primary]
+background = '#56351f'
+foreground = '#fbe9d3'
+
+[colors.selection]
+background = '#8e684a'
+text = '#fff8e8'

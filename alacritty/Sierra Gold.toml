@@ -1,0 +1,33 @@
+# Colors (Sierra Gold)
+
+[colors.bright]
+black = '#e0cdb5'
+blue = '#b9d9fa'
+cyan = '#afe6e2'
+green = '#c3dca3'
+magenta = '#e7bde9'
+red = '#ffc29d'
+white = '#fff5df'
+yellow = '#ffdb91'
+
+[colors.cursor]
+cursor = '#ffdb91'
+text = '#392414'
+
+[colors.normal]
+black = '#cbb49b'
+blue = '#9dc5ed'
+cyan = '#92d4d4'
+green = '#a8c98b'
+magenta = '#d6a5d8'
+red = '#f4a17c'
+white = '#f9e6c7'
+yellow = '#f3c873'
+
+[colors.primary]
+background = '#392414'
+foreground = '#f9e6c7'
+
+[colors.selection]
+background = '#8e684a'
+text = '#fff8e8'

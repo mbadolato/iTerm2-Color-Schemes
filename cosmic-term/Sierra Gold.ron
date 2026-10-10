@@ -1,0 +1,41 @@
+(
+    name: "Sierra Gold",
+    foreground: "#f9e6c7",
+    background: "#392414",
+    cursor: "#ffdb91",
+    bright_foreground: "#f9e6c7",
+    dim_foreground: "#e0cdb5",
+
+    normal: (
+        black: "#cbb49b",
+        red: "#f4a17c",
+        green: "#a8c98b",
+        yellow: "#f3c873",
+        blue: "#9dc5ed",
+        magenta: "#d6a5d8",
+        cyan: "#92d4d4",
+        white: "#f9e6c7"
+    ),
+
+    bright: (
+        black: "#e0cdb5",
+        red: "#ffc29d",
+        green: "#c3dca3",
+        yellow: "#ffdb91",
+        blue: "#b9d9fa",
+        magenta: "#e7bde9",
+        cyan: "#afe6e2",
+        white: "#fff5df"
+    ),
+
+    dim: (
+        black: "#cbb49b",
+        red: "#f4a17c",
+        green: "#a8c98b",
+        yellow: "#f3c873",
+        blue: "#9dc5ed",
+        magenta: "#d6a5d8",
+        cyan: "#92d4d4",
+        white: "#f9e6c7"
+    ),
+)

@@ -1,0 +1,33 @@
+# Colors (Jute Espresso)
+
+[colors.bright]
+black = '#efd9c1'
+blue = '#c2ddf7'
+cyan = '#c2ece3'
+green = '#d5e9c1'
+magenta = '#e9cdea'
+red = '#ffd1b3'
+white = '#fff9e9'
+yellow = '#ffe0a4'
+
+[colors.cursor]
+cursor = '#ffe0a4'
+text = '#604331'
+
+[colors.normal]
+black = '#e0c7ab'
+blue = '#a9cbea'
+cyan = '#a9ded6'
+green = '#c4ddad'
+magenta = '#d8b9dc'
+red = '#ffc0a1'
+white = '#fff0d7'
+yellow = '#fbd18a'
+
+[colors.primary]
+background = '#604331'
+foreground = '#fff0d7'
+
+[colors.selection]
+background = '#8e684a'
+text = '#fff8e8'

@@ -1,0 +1,17 @@
+[meta]
+name = "Canyon Walnut"
+mode = "dark"
+
+[terminal]
+foreground = "#f8e4c6"
+background = "#332014"
+palette = [
+    "#c7ad93", "#ed9371", "#b3c98a", "#f2bb5f",
+    "#8fbde7", "#c9a0d9", "#8dd1ce", "#f8e4c6",
+    "#dcc3a8", "#ffb08c", "#c8dd9f", "#ffd27e",
+    "#abd1f5", "#ddb7eb", "#a9e2db", "#fff5dc",
+]
+cursor = "#ffd27e"
+cursor-text = "#332014"
+selection-background = "#8e684a"
+selection-foreground = "#fff8e8"

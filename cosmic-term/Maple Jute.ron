@@ -1,0 +1,41 @@
+(
+    name: "Maple Jute",
+    foreground: "#fbe9d3",
+    background: "#56351f",
+    cursor: "#ffdf9c",
+    bright_foreground: "#fbe9d3",
+    dim_foreground: "#e2cbb7",
+
+    normal: (
+        black: "#cfb7a1",
+        red: "#f5a18d",
+        green: "#b9d8a1",
+        yellow: "#f2c87c",
+        blue: "#a8c9ec",
+        magenta: "#dbb0dd",
+        cyan: "#9ed9d2",
+        white: "#fbe9d3"
+    ),
+
+    bright: (
+        black: "#e2cbb7",
+        red: "#ffbd9e",
+        green: "#cfe6b2",
+        yellow: "#ffdf9c",
+        blue: "#c2dafa",
+        magenta: "#ecc9ec",
+        cyan: "#b9e9e0",
+        white: "#fff7e8"
+    ),
+
+    dim: (
+        black: "#cfb7a1",
+        red: "#f5a18d",
+        green: "#b9d8a1",
+        yellow: "#f2c87c",
+        blue: "#a8c9ec",
+        magenta: "#dbb0dd",
+        cyan: "#9ed9d2",
+        white: "#fbe9d3"
+    ),
+)

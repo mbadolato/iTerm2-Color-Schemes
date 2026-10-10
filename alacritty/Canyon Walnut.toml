@@ -1,0 +1,33 @@
+# Colors (Canyon Walnut)
+
+[colors.bright]
+black = '#dcc3a8'
+blue = '#abd1f5'
+cyan = '#a9e2db'
+green = '#c8dd9f'
+magenta = '#ddb7eb'
+red = '#ffb08c'
+white = '#fff5dc'
+yellow = '#ffd27e'
+
+[colors.cursor]
+cursor = '#ffd27e'
+text = '#332014'
+
+[colors.normal]
+black = '#c7ad93'
+blue = '#8fbde7'
+cyan = '#8dd1ce'
+green = '#b3c98a'
+magenta = '#c9a0d9'
+red = '#ed9371'
+white = '#f8e4c6'
+yellow = '#f2bb5f'
+
+[colors.primary]
+background = '#332014'
+foreground = '#f8e4c6'
+
+[colors.selection]
+background = '#8e684a'
+text = '#fff8e8'
