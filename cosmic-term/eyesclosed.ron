@@ -1,0 +1,41 @@
+(
+    name: "eyesclosed",
+    foreground: "#bbbcc7",
+    background: "#111214",
+    cursor: "#cdcfd1",
+    bright_foreground: "#bbbcc7",
+    dim_foreground: "#696d7d",
+
+    normal: (
+        black: "#383b4a",
+        red: "#ffaba2",
+        green: "#779bb0",
+        yellow: "#ecd8ae",
+        blue: "#b7c8cb",
+        magenta: "#9a9dae",
+        cyan: "#d8d0d0",
+        white: "#bbbcc7"
+    ),
+
+    bright: (
+        black: "#696d7d",
+        red: "#ffaba2",
+        green: "#779bb0",
+        yellow: "#ecd8ae",
+        blue: "#b7c8cb",
+        magenta: "#9a9dae",
+        cyan: "#d8d0d0",
+        white: "#cdcfd1"
+    ),
+
+    dim: (
+        black: "#383b4a",
+        red: "#ffaba2",
+        green: "#779bb0",
+        yellow: "#ecd8ae",
+        blue: "#b7c8cb",
+        magenta: "#9a9dae",
+        cyan: "#d8d0d0",
+        white: "#bbbcc7"
+    ),
+)

@@ -712,6 +712,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/evh-frankentone.png)
 
+### eyesclosed
+
+![Screenshot](/screenshots/eyesclosed.png)
+
 ### Fahrenheit
 
 ![Screenshot](/screenshots/fahrenheit.png)
