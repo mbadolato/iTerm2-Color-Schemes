@@ -1,0 +1,17 @@
+[meta]
+name = "Witches' Brew"
+mode = "dark"
+
+[terminal]
+foreground = "#efffdc"
+background = "#073b25"
+palette = [
+    "#aec2b4", "#f19a72", "#9be86b", "#f0cc58",
+    "#86c8e3", "#d99ed4", "#7ad9ce", "#efffdc",
+    "#c3d2c8", "#f6ae8c", "#b3ef88", "#f6dc7b",
+    "#a4d7eb", "#e5b7df", "#9ae5dc", "#fbfff3",
+]
+cursor = "#9cf04d"
+cursor-text = "#073b25"
+selection-background = "#245c42"
+selection-foreground = "#fbfff3"

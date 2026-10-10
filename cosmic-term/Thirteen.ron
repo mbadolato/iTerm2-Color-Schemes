@@ -1,0 +1,41 @@
+(
+    name: "Thirteen",
+    foreground: "#f4ead8",
+    background: "#260607",
+    cursor: "#d93035",
+    bright_foreground: "#f4ead8",
+    dim_foreground: "#beb0aa",
+
+    normal: (
+        black: "#a99b96",
+        red: "#d97d75",
+        green: "#91b994",
+        yellow: "#c5ad70",
+        blue: "#849fb4",
+        magenta: "#aa8da9",
+        cyan: "#75b3a8",
+        white: "#f4ead8"
+    ),
+
+    bright: (
+        black: "#beb0aa",
+        red: "#e29289",
+        green: "#a6c8a8",
+        yellow: "#d2bd86",
+        blue: "#9db5c6",
+        magenta: "#bba4b9",
+        cyan: "#91c4ba",
+        white: "#fff8eb"
+    ),
+
+    dim: (
+        black: "#a99b96",
+        red: "#d97d75",
+        green: "#91b994",
+        yellow: "#c5ad70",
+        blue: "#849fb4",
+        magenta: "#aa8da9",
+        cyan: "#75b3a8",
+        white: "#f4ead8"
+    ),
+)

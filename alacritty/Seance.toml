@@ -1,0 +1,33 @@
+# Colors (Seance)
+
+[colors.bright]
+black = '#d0c5ca'
+blue = '#b8d1e5'
+cyan = '#addbd5'
+green = '#bbdba5'
+magenta = '#e0bfd5'
+red = '#efb0a5'
+white = '#fffaf2'
+yellow = '#edd796'
+
+[colors.cursor]
+cursor = '#f1c76d'
+text = '#3b2035'
+
+[colors.normal]
+black = '#bdb1b8'
+blue = '#9fc2dc'
+cyan = '#8fcfc8'
+green = '#a8cf8f'
+magenta = '#d5a6c8'
+red = '#e99b8e'
+white = '#f9eddf'
+yellow = '#e5c779'
+
+[colors.primary]
+background = '#3b2035'
+foreground = '#f9eddf'
+
+[colors.selection]
+background = '#5b3b52'
+text = '#fff8ed'

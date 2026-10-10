@@ -1,0 +1,41 @@
+(
+    name: "Jack O' Lantern",
+    foreground: "#fff0d5",
+    background: "#4a1b08",
+    cursor: "#ff9f1c",
+    bright_foreground: "#fff0d5",
+    dim_foreground: "#d1c7ba",
+
+    normal: (
+        black: "#bdb2a4",
+        red: "#ff8b61",
+        green: "#8dcc7a",
+        yellow: "#f3c969",
+        blue: "#8fc5e8",
+        magenta: "#dca2c9",
+        cyan: "#7fd3cf",
+        white: "#fff0d5"
+    ),
+
+    bright: (
+        black: "#d1c7ba",
+        red: "#ffa07c",
+        green: "#a5d99a",
+        yellow: "#f8d98a",
+        blue: "#acd5ef",
+        magenta: "#e8bad8",
+        cyan: "#9fe1dc",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#bdb2a4",
+        red: "#ff8b61",
+        green: "#8dcc7a",
+        yellow: "#f3c969",
+        blue: "#8fc5e8",
+        magenta: "#dca2c9",
+        cyan: "#7fd3cf",
+        white: "#fff0d5"
+    ),
+)

@@ -1,0 +1,12 @@
+# Pumpkin Patch
+[colors]
+foreground = "#f5efd1"
+background = "#243416"
+cursor_bg = "#f2a481"
+cursor_border = "#f2a481"
+cursor_fg = "#243416"
+selection_bg = "#cacfb9"
+selection_fg = "#9d987e"
+
+ansi = ["#c3c8af","#f09870","#95ce77","#e8c95a","#87bfcf","#c79ab7","#79c9bb","#f5efd1"]
+brights = ["#cacfb9","#f2a481","#a2d487","#ebcf6e","#95c7d5","#cea6c0","#89cfc3","#f6f1d7"]

@@ -1,0 +1,33 @@
+# Colors (Poison Apple)
+
+[colors.bright]
+black = '#c4b2b4'
+blue = '#95c1dd'
+cyan = '#8ccbc4'
+green = '#aad772'
+magenta = '#c999c1'
+red = '#f19088'
+white = '#f8ebdd'
+yellow = '#e8cb6f'
+
+[colors.cursor]
+cursor = '#f19088'
+text = '#560b13'
+
+[colors.normal]
+black = '#bca8aa'
+blue = '#86b9d8'
+cyan = '#7cc4bc'
+green = '#9ed25f'
+magenta = '#c28bb9'
+red = '#ef8178'
+white = '#f7e8d8'
+yellow = '#e5c45b'
+
+[colors.primary]
+background = '#560b13'
+foreground = '#f7e8d8'
+
+[colors.selection]
+background = '#c4b2b4'
+text = '#fff8ea'

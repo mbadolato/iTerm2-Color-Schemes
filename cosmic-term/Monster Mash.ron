@@ -1,0 +1,41 @@
+(
+    name: "Monster Mash",
+    foreground: "#f0f5d8",
+    background: "#173b0d",
+    cursor: "#f2a289",
+    bright_foreground: "#f0f5d8",
+    dim_foreground: "#c1cfb8",
+
+    normal: (
+        black: "#b8c9ae",
+        red: "#f09579",
+        green: "#9ee566",
+        yellow: "#e7cf52",
+        blue: "#86c5e8",
+        magenta: "#bd91e8",
+        cyan: "#72d8cc",
+        white: "#f0f5d8"
+    ),
+
+    bright: (
+        black: "#c1cfb8",
+        red: "#f2a289",
+        green: "#aae878",
+        yellow: "#ead567",
+        blue: "#95cceb",
+        magenta: "#c59eeb",
+        cyan: "#83ddd2",
+        white: "#f2f6dd"
+    ),
+
+    dim: (
+        black: "#b8c9ae",
+        red: "#f09579",
+        green: "#9ee566",
+        yellow: "#e7cf52",
+        blue: "#86c5e8",
+        magenta: "#bd91e8",
+        cyan: "#72d8cc",
+        white: "#f0f5d8"
+    ),
+)

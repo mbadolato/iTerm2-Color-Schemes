@@ -1,0 +1,12 @@
+# Poltergeist
+[colors]
+foreground = "#f0ffff"
+background = "#06444b"
+cursor_bg = "#ffa89e"
+cursor_border = "#ffa89e"
+cursor_fg = "#06444b"
+selection_bg = "#c8d7d7"
+selection_fg = "#8c9999"
+
+ansi = ["#c0d1d2","#ff9c91","#8ce0b0","#e9d06c","#8ed4ed","#c5a7e8","#77e1df","#f0ffff"]
+brights = ["#c8d7d7","#ffa89e","#9ae4b9","#ecd67e","#9cd9ef","#ccb2eb","#87e5e3","#f2ffff"]

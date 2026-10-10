@@ -1,0 +1,41 @@
+(
+    name: "Candlelight",
+    foreground: "#f8e7c4",
+    background: "#432708",
+    cursor: "#eba374",
+    bright_foreground: "#f8e7c4",
+    dim_foreground: "#cfc1aa",
+
+    normal: (
+        black: "#c8b99e",
+        red: "#e89661",
+        green: "#9ab57c",
+        yellow: "#dfbb53",
+        blue: "#83aebd",
+        magenta: "#bc91a4",
+        cyan: "#79b8ae",
+        white: "#f8e7c4"
+    ),
+
+    bright: (
+        black: "#cfc1aa",
+        red: "#eba374",
+        green: "#a6be8c",
+        yellow: "#e3c368",
+        blue: "#92b8c5",
+        magenta: "#c49eaf",
+        cyan: "#89c1b8",
+        white: "#f9eacb"
+    ),
+
+    dim: (
+        black: "#c8b99e",
+        red: "#e89661",
+        green: "#9ab57c",
+        yellow: "#dfbb53",
+        blue: "#83aebd",
+        magenta: "#bc91a4",
+        cyan: "#79b8ae",
+        white: "#f8e7c4"
+    ),
+)

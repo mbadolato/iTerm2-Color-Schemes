@@ -1,0 +1,41 @@
+(
+    name: "Seance",
+    foreground: "#f9eddf",
+    background: "#3b2035",
+    cursor: "#f1c76d",
+    bright_foreground: "#f9eddf",
+    dim_foreground: "#d0c5ca",
+
+    normal: (
+        black: "#bdb1b8",
+        red: "#e99b8e",
+        green: "#a8cf8f",
+        yellow: "#e5c779",
+        blue: "#9fc2dc",
+        magenta: "#d5a6c8",
+        cyan: "#8fcfc8",
+        white: "#f9eddf"
+    ),
+
+    bright: (
+        black: "#d0c5ca",
+        red: "#efb0a5",
+        green: "#bbdba5",
+        yellow: "#edd796",
+        blue: "#b8d1e5",
+        magenta: "#e0bfd5",
+        cyan: "#addbd5",
+        white: "#fffaf2"
+    ),
+
+    dim: (
+        black: "#bdb1b8",
+        red: "#e99b8e",
+        green: "#a8cf8f",
+        yellow: "#e5c779",
+        blue: "#9fc2dc",
+        magenta: "#d5a6c8",
+        cyan: "#8fcfc8",
+        white: "#f9eddf"
+    ),
+)

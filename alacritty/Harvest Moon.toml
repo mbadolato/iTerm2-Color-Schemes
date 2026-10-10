@@ -1,0 +1,33 @@
+# Colors (Harvest Moon)
+
+[colors.bright]
+black = '#cbd3d6'
+blue = '#aad1e7'
+cyan = '#9edbdc'
+green = '#b0d6a4'
+magenta = '#d4b8d5'
+red = '#f2ae92'
+white = '#fff9e8'
+yellow = '#f4d585'
+
+[colors.cursor]
+cursor = '#f3b64a'
+text = '#0d3557'
+
+[colors.normal]
+black = '#b8c2c6'
+blue = '#8fc1dd'
+cyan = '#80ced0'
+green = '#9bca8e'
+magenta = '#c7a1c8'
+red = '#ee997d'
+white = '#fff1d2'
+yellow = '#edc667'
+
+[colors.primary]
+background = '#0d3557'
+foreground = '#fff1d2'
+
+[colors.selection]
+background = '#2a5371'
+text = '#fff8e8'

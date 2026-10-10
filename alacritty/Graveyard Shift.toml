@@ -1,0 +1,33 @@
+# Colors (Graveyard Shift)
+
+[colors.bright]
+black = '#c8d1cc'
+blue = '#9ec4cf'
+cyan = '#95cec9'
+green = '#abcea6'
+magenta = '#bfb0c8'
+red = '#efa795'
+white = '#f0f4eb'
+yellow = '#e3cf87'
+
+[colors.cursor]
+cursor = '#efa795'
+text = '#2e4240'
+
+[colors.normal]
+black = '#c0cbc5'
+blue = '#91bcc8'
+cyan = '#87c7c2'
+green = '#9fc79a'
+magenta = '#b6a5c0'
+red = '#ed9b86'
+white = '#eef2e8'
+yellow = '#dfc977'
+
+[colors.primary]
+background = '#2e4240'
+foreground = '#eef2e8'
+
+[colors.selection]
+background = '#c8d1cc'
+text = '#979b92'

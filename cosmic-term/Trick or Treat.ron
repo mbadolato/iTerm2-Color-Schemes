@@ -1,0 +1,41 @@
+(
+    name: "Trick or Treat",
+    foreground: "#fff0e3",
+    background: "#40145f",
+    cursor: "#ff65bd",
+    bright_foreground: "#fff0e3",
+    dim_foreground: "#cec1da",
+
+    normal: (
+        black: "#bbaec8",
+        red: "#ff8b82",
+        green: "#a8dc72",
+        yellow: "#f8c94e",
+        blue: "#8fc9f2",
+        magenta: "#e78bd8",
+        cyan: "#78dce1",
+        white: "#fff0e3"
+    ),
+
+    bright: (
+        black: "#cec1da",
+        red: "#ffa5a0",
+        green: "#bde88d",
+        yellow: "#fbdc72",
+        blue: "#acd9f7",
+        magenta: "#efaae3",
+        cyan: "#99e7ea",
+        white: "#fffaf2"
+    ),
+
+    dim: (
+        black: "#bbaec8",
+        red: "#ff8b82",
+        green: "#a8dc72",
+        yellow: "#f8c94e",
+        blue: "#8fc9f2",
+        magenta: "#e78bd8",
+        cyan: "#78dce1",
+        white: "#fff0e3"
+    ),
+)

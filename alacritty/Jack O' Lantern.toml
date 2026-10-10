@@ -1,0 +1,33 @@
+# Colors (Jack O' Lantern)
+
+[colors.bright]
+black = '#d1c7ba'
+blue = '#acd5ef'
+cyan = '#9fe1dc'
+green = '#a5d99a'
+magenta = '#e8bad8'
+red = '#ffa07c'
+white = '#fffaf0'
+yellow = '#f8d98a'
+
+[colors.cursor]
+cursor = '#ff9f1c'
+text = '#4a1b08'
+
+[colors.normal]
+black = '#bdb2a4'
+blue = '#8fc5e8'
+cyan = '#7fd3cf'
+green = '#8dcc7a'
+magenta = '#dca2c9'
+red = '#ff8b61'
+white = '#fff0d5'
+yellow = '#f3c969'
+
+[colors.primary]
+background = '#4a1b08'
+foreground = '#fff0d5'
+
+[colors.selection]
+background = '#713514'
+text = '#fff7e8'

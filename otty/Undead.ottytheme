@@ -1,0 +1,17 @@
+[meta]
+name = "Undead"
+mode = "dark"
+
+[terminal]
+foreground = "#f3edcf"
+background = "#3d3c1c"
+palette = [
+    "#c0bd9f", "#e69a72", "#a8c97c", "#d9c164",
+    "#91bdb5", "#bd9eb0", "#83c5b5", "#f3edcf",
+    "#d1ceb2", "#ecae8b", "#bad598", "#e4d181",
+    "#a8ccc4", "#cdb6c1", "#9dd4c7", "#fff8e5",
+]
+cursor = "#ded157"
+cursor-text = "#3d3c1c"
+selection-background = "#5d5c37"
+selection-foreground = "#fff8e3"

@@ -1,0 +1,43 @@
+!
+! Crypt Keeper
+!
+*.foreground:  #f2efd5
+*.background:  #353b24
+*.cursorColor: #e0cb62
+!
+! Black
+*.color0:      #bfc1ad
+*.color8:      #d0d1c0
+!
+! Red
+*.color1:      #e89a78
+*.color9:      #eeae8f
+!
+! Green
+*.color2:      #a6cc8c
+*.color10:     #b9d8a3
+!
+! Yellow
+*.color3:      #dec46c
+*.color11:     #e8d58a
+!
+! Blue
+*.color4:      #91bdd0
+*.color12:     #a9ccd9
+!
+! Magenta
+*.color5:      #c9a1b5
+*.color13:     #d6b8c7
+!
+! Cyan
+*.color6:      #82c9bf
+*.color14:     #9fd7cf
+!
+! White
+*.color7:      #f2efd5
+*.color15:     #fff9e8
+!
+! Bold, Italic, Underline
+*.colorBD:     #d9c86f
+!*.colorIT:
+!*.colorUL:

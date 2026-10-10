@@ -1,0 +1,33 @@
+# Colors (Crypt Keeper)
+
+[colors.bright]
+black = '#d0d1c0'
+blue = '#a9ccd9'
+cyan = '#9fd7cf'
+green = '#b9d8a3'
+magenta = '#d6b8c7'
+red = '#eeae8f'
+white = '#fff9e8'
+yellow = '#e8d58a'
+
+[colors.cursor]
+cursor = '#e0cb62'
+text = '#353b24'
+
+[colors.normal]
+black = '#bfc1ad'
+blue = '#91bdd0'
+cyan = '#82c9bf'
+green = '#a6cc8c'
+magenta = '#c9a1b5'
+red = '#e89a78'
+white = '#f2efd5'
+yellow = '#dec46c'
+
+[colors.primary]
+background = '#353b24'
+foreground = '#f2efd5'
+
+[colors.selection]
+background = '#535a3d'
+text = '#fff9e8'

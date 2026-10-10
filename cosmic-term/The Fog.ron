@@ -1,0 +1,41 @@
+(
+    name: "The Fog",
+    foreground: "#eef4f3",
+    background: "#294552",
+    cursor: "#f0a999",
+    bright_foreground: "#eef4f3",
+    dim_foreground: "#c8d4d7",
+
+    normal: (
+        black: "#c0ced2",
+        red: "#ee9d8b",
+        green: "#9bc8ad",
+        yellow: "#dec978",
+        blue: "#93c3d6",
+        magenta: "#baadca",
+        cyan: "#87ced0",
+        white: "#eef4f3"
+    ),
+
+    bright: (
+        black: "#c8d4d7",
+        red: "#f0a999",
+        green: "#a7cfb7",
+        yellow: "#e2cf88",
+        blue: "#a0cadb",
+        magenta: "#bfb2ce",
+        cyan: "#95d4d6",
+        white: "#f0f5f4"
+    ),
+
+    dim: (
+        black: "#c0ced2",
+        red: "#ee9d8b",
+        green: "#9bc8ad",
+        yellow: "#dec978",
+        blue: "#93c3d6",
+        magenta: "#baadca",
+        cyan: "#87ced0",
+        white: "#eef4f3"
+    ),
+)

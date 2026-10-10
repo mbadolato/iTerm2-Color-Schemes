@@ -1,0 +1,41 @@
+(
+    name: "Black Cat",
+    foreground: "#f5edff",
+    background: "#180a2b",
+    cursor: "#ff979f",
+    bright_foreground: "#f5edff",
+    dim_foreground: "#b3abbf",
+
+    normal: (
+        black: "#a9a0b6",
+        red: "#ff8992",
+        green: "#9fda65",
+        yellow: "#edc85e",
+        blue: "#8bbdf0",
+        magenta: "#c78bf0",
+        cyan: "#76d2d1",
+        white: "#f5edff"
+    ),
+
+    bright: (
+        black: "#b3abbf",
+        red: "#ff979f",
+        green: "#abde77",
+        yellow: "#efcf71",
+        blue: "#99c5f2",
+        magenta: "#ce99f2",
+        cyan: "#86d7d7",
+        white: "#f6efff"
+    ),
+
+    dim: (
+        black: "#a9a0b6",
+        red: "#ff8992",
+        green: "#9fda65",
+        yellow: "#edc85e",
+        blue: "#8bbdf0",
+        magenta: "#c78bf0",
+        cyan: "#76d2d1",
+        white: "#f5edff"
+    ),
+)

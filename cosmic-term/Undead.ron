@@ -1,0 +1,41 @@
+(
+    name: "Undead",
+    foreground: "#f3edcf",
+    background: "#3d3c1c",
+    cursor: "#ded157",
+    bright_foreground: "#f3edcf",
+    dim_foreground: "#d1ceb2",
+
+    normal: (
+        black: "#c0bd9f",
+        red: "#e69a72",
+        green: "#a8c97c",
+        yellow: "#d9c164",
+        blue: "#91bdb5",
+        magenta: "#bd9eb0",
+        cyan: "#83c5b5",
+        white: "#f3edcf"
+    ),
+
+    bright: (
+        black: "#d1ceb2",
+        red: "#ecae8b",
+        green: "#bad598",
+        yellow: "#e4d181",
+        blue: "#a8ccc4",
+        magenta: "#cdb6c1",
+        cyan: "#9dd4c7",
+        white: "#fff8e5"
+    ),
+
+    dim: (
+        black: "#c0bd9f",
+        red: "#e69a72",
+        green: "#a8c97c",
+        yellow: "#d9c164",
+        blue: "#91bdb5",
+        magenta: "#bd9eb0",
+        cyan: "#83c5b5",
+        white: "#f3edcf"
+    ),
+)

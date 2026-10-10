@@ -1,0 +1,43 @@
+!
+! Cobweb
+!
+*.foreground:  #eef1f3
+*.background:  #20272d
+*.cursorColor: #e7ebee
+!
+! Black
+*.color0:      #aeb5ba
+*.color8:      #c3c9cd
+!
+! Red
+*.color1:      #ed8e88
+*.color9:      #f0a7a1
+!
+! Green
+*.color2:      #9bc6a3
+*.color10:     #afd3b6
+!
+! Yellow
+*.color3:      #dec575
+*.color11:     #e8d493
+!
+! Blue
+*.color4:      #92bad5
+*.color12:     #abcde0
+!
+! Magenta
+*.color5:      #bba4c9
+*.color13:     #cab8d4
+!
+! Cyan
+*.color6:      #88c8c8
+*.color14:     #a4d6d6
+!
+! White
+*.color7:      #eef1f3
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #c7cdd2
+!*.colorIT:
+!*.colorUL:

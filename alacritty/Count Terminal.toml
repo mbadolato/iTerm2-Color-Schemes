@@ -1,0 +1,33 @@
+# Colors (Count Terminal)
+
+[colors.bright]
+black = '#c4b3b7'
+blue = '#96bedc'
+cyan = '#8bcdc7'
+green = '#a5cc9c'
+magenta = '#cc99c1'
+red = '#f18d96'
+white = '#f8e9e0'
+yellow = '#e5cb79'
+
+[colors.cursor]
+cursor = '#f18d96'
+text = '#480814'
+
+[colors.normal]
+black = '#bca9ad'
+blue = '#88b5d7'
+cyan = '#7bc6bf'
+green = '#99c58e'
+magenta = '#c58bb9'
+red = '#ef7e88'
+white = '#f7e6dc'
+yellow = '#e1c467'
+
+[colors.primary]
+background = '#480814'
+foreground = '#f7e6dc'
+
+[colors.selection]
+background = '#c4b3b7'
+text = '#fff6ed'

@@ -1,0 +1,41 @@
+(
+    name: "Great Pumpkin",
+    foreground: "#34251c",
+    background: "#f98128",
+    cursor: "#24150e",
+    bright_foreground: "#34251c",
+    dim_foreground: "#1e110b",
+
+    normal: (
+        black: "#24150e",
+        red: "#62190d",
+        green: "#29391a",
+        yellow: "#443106",
+        blue: "#16374b",
+        magenta: "#51234c",
+        cyan: "#103a40",
+        white: "#34251c"
+    ),
+
+    bright: (
+        black: "#1e110b",
+        red: "#58160b",
+        green: "#283719",
+        yellow: "#483406",
+        blue: "#143142",
+        magenta: "#421d3e",
+        cyan: "#113d44",
+        white: "#2b1e17"
+    ),
+
+    dim: (
+        black: "#24150e",
+        red: "#62190d",
+        green: "#29391a",
+        yellow: "#443106",
+        blue: "#16374b",
+        magenta: "#51234c",
+        cyan: "#103a40",
+        white: "#34251c"
+    ),
+)

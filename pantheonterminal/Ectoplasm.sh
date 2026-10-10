@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Ectoplasm'
+cursor-color='#f3a79b'
+foreground='#effffb'
+background='rgba(6,69,74,.95)'
+palette='#c1d0cf:#f19b8d:#78e0aa:#d7dd5e:#76c9ef:#afa1e9:#58e0d6:#effffb:#c8d6d5:#f3a79b:#88e4b4:#dce171:#86cff1:#b4a7eb:#6ce4db:#f1fffb'
+COLORS

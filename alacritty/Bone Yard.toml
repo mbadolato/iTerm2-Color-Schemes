@@ -1,0 +1,33 @@
+# Colors (Bone Yard)
+
+[colors.bright]
+black = '#2a2721'
+blue = '#2d414f'
+cyan = '#2c4e4b'
+green = '#384830'
+magenta = '#4f394c'
+red = '#722b24'
+white = '#423930'
+yellow = '#594719'
+
+[colors.cursor]
+cursor = '#24150e'
+text = '#ead9b8'
+
+[colors.normal]
+black = '#332f28'
+blue = '#374f60'
+cyan = '#365f5c'
+green = '#44583b'
+magenta = '#60465d'
+red = '#8b342c'
+white = '#51463b'
+yellow = '#6c571f'
+
+[colors.primary]
+background = '#ead9b8'
+foreground = '#51463b'
+
+[colors.selection]
+background = '#f6c89b'
+text = '#24150e'

@@ -1,0 +1,7 @@
+#!/bin/sh
+# Pumpkin Spice
+printf "\033]4;0;#d6d3d1;1;#dbd1ce;2;#d1d7cf;3;#d9d4c8;4;#ced5d9;5;#dad3db;6;#cbd5d7;7;#fff0d8;8;#d7d3d1;9;#f5e2dc;10;#d1d7d0;11;#f6e5c8;12;#ced6d9;13;#d9d1d9;14;#cbd6d7;15;#fff2dd\007"
+printf "\033]10;#fff0d8;#9a3d08;#dbd1ce\007"
+printf "\033]17;#d7d3d1\007"
+printf "\033]19;#a69984\007"
+printf "\033]5;0;#d9d4c8\007"

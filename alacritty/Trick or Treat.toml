@@ -1,0 +1,33 @@
+# Colors (Trick or Treat)
+
+[colors.bright]
+black = '#cec1da'
+blue = '#acd9f7'
+cyan = '#99e7ea'
+green = '#bde88d'
+magenta = '#efaae3'
+red = '#ffa5a0'
+white = '#fffaf2'
+yellow = '#fbdc72'
+
+[colors.cursor]
+cursor = '#ff65bd'
+text = '#40145f'
+
+[colors.normal]
+black = '#bbaec8'
+blue = '#8fc9f2'
+cyan = '#78dce1'
+green = '#a8dc72'
+magenta = '#e78bd8'
+red = '#ff8b82'
+white = '#fff0e3'
+yellow = '#f8c94e'
+
+[colors.primary]
+background = '#40145f'
+foreground = '#fff0e3'
+
+[colors.selection]
+background = '#642b82'
+text = '#fff9f0'

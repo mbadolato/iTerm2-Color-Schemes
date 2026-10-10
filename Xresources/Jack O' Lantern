@@ -1,0 +1,43 @@
+!
+! Jack O' Lantern
+!
+*.foreground:  #fff0d5
+*.background:  #4a1b08
+*.cursorColor: #ff9f1c
+!
+! Black
+*.color0:      #bdb2a4
+*.color8:      #d1c7ba
+!
+! Red
+*.color1:      #ff8b61
+*.color9:      #ffa07c
+!
+! Green
+*.color2:      #8dcc7a
+*.color10:     #a5d99a
+!
+! Yellow
+*.color3:      #f3c969
+*.color11:     #f8d98a
+!
+! Blue
+*.color4:      #8fc5e8
+*.color12:     #acd5ef
+!
+! Magenta
+*.color5:      #dca2c9
+*.color13:     #e8bad8
+!
+! Cyan
+*.color6:      #7fd3cf
+*.color14:     #9fe1dc
+!
+! White
+*.color7:      #fff0d5
+*.color15:     #fffaf0
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffb347
+!*.colorIT:
+!*.colorUL:

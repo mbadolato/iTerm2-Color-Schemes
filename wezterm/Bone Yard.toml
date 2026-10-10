@@ -1,0 +1,12 @@
+# Bone Yard
+[colors]
+foreground = "#51463b"
+background = "#ead9b8"
+cursor_bg = "#24150e"
+cursor_border = "#24150e"
+cursor_fg = "#ead9b8"
+selection_bg = "#f6c89b"
+selection_fg = "#24150e"
+
+ansi = ["#332f28","#8b342c","#44583b","#6c571f","#374f60","#60465d","#365f5c","#51463b"]
+brights = ["#2a2721","#722b24","#384830","#594719","#2d414f","#4f394c","#2c4e4b","#423930"]

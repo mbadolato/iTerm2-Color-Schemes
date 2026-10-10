@@ -1,0 +1,41 @@
+(
+    name: "Blood Moon",
+    foreground: "#fff0dc",
+    background: "#4b080d",
+    cursor: "#ff454b",
+    bright_foreground: "#fff0dc",
+    dim_foreground: "#cfbfc1",
+
+    normal: (
+        black: "#bbaaad",
+        red: "#f17c78",
+        green: "#9cca8e",
+        yellow: "#e5c36b",
+        blue: "#8db9d8",
+        magenta: "#cd97b7",
+        cyan: "#7fc6c1",
+        white: "#fff0dc"
+    ),
+
+    bright: (
+        black: "#cfbfc1",
+        red: "#f49894",
+        green: "#b0d6a3",
+        yellow: "#edd389",
+        blue: "#a8cbe2",
+        magenta: "#dab0c7",
+        cyan: "#9dd5d0",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#bbaaad",
+        red: "#f17c78",
+        green: "#9cca8e",
+        yellow: "#e5c36b",
+        blue: "#8db9d8",
+        magenta: "#cd97b7",
+        cyan: "#7fc6c1",
+        white: "#fff0dc"
+    ),
+)

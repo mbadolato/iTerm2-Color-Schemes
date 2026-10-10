@@ -728,4 +728,78 @@ The Tailwind Dark theme was created by [Bhajneet S.K.](https://github.com/bhajne
 
 The Tailwind Light theme was created by [Bhajneet S.K.](https://github.com/bhajneet).
 
+The Belfry theme was created by Mark Badolato.
+
+The Blood Moon theme was created by Mark Badolato.
+
+The Cobweb theme was created by Mark Badolato.
+
+The Crypt Keeper theme was created by Mark Badolato.
+
+The Harvest Moon theme was created by Mark Badolato.
+
+The Haunted House theme was created by Mark Badolato.
+
+The Jack O' Lantern theme was created by Mark Badolato.
+
+The Thirteen theme was created by Mark Badolato.
+
+The Trick or Treat theme was created by Mark Badolato.
+
+The Undead theme was created by Mark Badolato.
+
+The Witches' Brew theme was created by Mark Badolato.
+
+The Witching Hour theme was created by Mark Badolato.
+
+The Seance theme was created by Mark Badolato.
+
+The 13th Floor theme was created by Mark Badolato.
+
+The Abandoned theme was created by Mark Badolato.
+
+The Autumn After Dark theme was created by Mark Badolato.
+
+The Black Cat theme was created by Mark Badolato.
+
+The Bone Yard theme was created by Mark Badolato.
+
+The Candlelight theme was created by Mark Badolato.
+
+The Candy Corn theme was created by Mark Badolato.
+
+The Count Terminal theme was created by Mark Badolato.
+
+The Crystal Ball theme was created by Mark Badolato.
+
+The Cursed VHS theme was created by Mark Badolato.
+
+The Ectoplasm theme was created by Mark Badolato.
+
+The Graveyard Shift theme was created by Mark Badolato.
+
+The Great Pumpkin theme was created by Mark Badolato.
+
+The Hellfire theme was created by Mark Badolato.
+
+The Hocus Pocus theme was created by Mark Badolato.
+
+The Monster Mash theme was created by Mark Badolato.
+
+The Poison Apple theme was created by Mark Badolato.
+
+The Poltergeist theme was created by Mark Badolato.
+
+The Pumpkin Patch theme was created by Mark Badolato.
+
+The Pumpkin Spice theme was created by Mark Badolato.
+
+The Salem theme was created by Mark Badolato.
+
+The The Fog theme was created by Mark Badolato.
+
+The Possessed Toaster theme was created by Mark Badolato.
+
+The Pissed Off Pancakes theme was created by Mark Badolato.
+
 The [eyesclosed](https://github.com/thdxg/eyesclosed) theme was created by [thdxg](https://github.com/thdxg).

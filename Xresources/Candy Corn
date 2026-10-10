@@ -1,0 +1,43 @@
+!
+! Candy Corn
+!
+*.foreground:  #51463b
+*.background:  #fff0d2
+*.cursorColor: #24150e
+!
+! Black
+*.color0:      #322b24
+*.color8:      #29231e
+!
+! Red
+*.color1:      #9b2f12
+*.color9:      #7f270f
+!
+! Green
+*.color2:      #46612d
+*.color10:     #395025
+!
+! Yellow
+*.color3:      #785711
+*.color11:     #62470e
+!
+! Blue
+*.color4:      #36516b
+*.color12:     #2c4258
+!
+! Magenta
+*.color5:      #69416e
+*.color13:     #56355a
+!
+! Cyan
+*.color6:      #28656a
+*.color14:     #215357
+!
+! White
+*.color7:      #51463b
+*.color15:     #423930
+!
+! Bold, Italic, Underline
+*.colorBD:     #62470e
+!*.colorIT:
+!*.colorUL:

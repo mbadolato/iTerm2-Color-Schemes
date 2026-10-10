@@ -1,0 +1,33 @@
+# Colors (Cobweb)
+
+[colors.bright]
+black = '#c3c9cd'
+blue = '#abcde0'
+cyan = '#a4d6d6'
+green = '#afd3b6'
+magenta = '#cab8d4'
+red = '#f0a7a1'
+white = '#ffffff'
+yellow = '#e8d493'
+
+[colors.cursor]
+cursor = '#e7ebee'
+text = '#20272d'
+
+[colors.normal]
+black = '#aeb5ba'
+blue = '#92bad5'
+cyan = '#88c8c8'
+green = '#9bc6a3'
+magenta = '#bba4c9'
+red = '#ed8e88'
+white = '#eef1f3'
+yellow = '#dec575'
+
+[colors.primary]
+background = '#20272d'
+foreground = '#eef1f3'
+
+[colors.selection]
+background = '#3d454c'
+text = '#ffffff'

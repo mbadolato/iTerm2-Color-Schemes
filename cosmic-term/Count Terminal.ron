@@ -1,0 +1,41 @@
+(
+    name: "Count Terminal",
+    foreground: "#f7e6dc",
+    background: "#480814",
+    cursor: "#f18d96",
+    bright_foreground: "#f7e6dc",
+    dim_foreground: "#c4b3b7",
+
+    normal: (
+        black: "#bca9ad",
+        red: "#ef7e88",
+        green: "#99c58e",
+        yellow: "#e1c467",
+        blue: "#88b5d7",
+        magenta: "#c58bb9",
+        cyan: "#7bc6bf",
+        white: "#f7e6dc"
+    ),
+
+    bright: (
+        black: "#c4b3b7",
+        red: "#f18d96",
+        green: "#a5cc9c",
+        yellow: "#e5cb79",
+        blue: "#96bedc",
+        magenta: "#cc99c1",
+        cyan: "#8bcdc7",
+        white: "#f8e9e0"
+    ),
+
+    dim: (
+        black: "#bca9ad",
+        red: "#ef7e88",
+        green: "#99c58e",
+        yellow: "#e1c467",
+        blue: "#88b5d7",
+        magenta: "#c58bb9",
+        cyan: "#7bc6bf",
+        white: "#f7e6dc"
+    ),
+)

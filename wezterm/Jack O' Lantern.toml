@@ -1,0 +1,12 @@
+# Jack O' Lantern
+[colors]
+foreground = "#fff0d5"
+background = "#4a1b08"
+cursor_bg = "#ff9f1c"
+cursor_border = "#ff9f1c"
+cursor_fg = "#4a1b08"
+selection_bg = "#713514"
+selection_fg = "#fff7e8"
+
+ansi = ["#bdb2a4","#ff8b61","#8dcc7a","#f3c969","#8fc5e8","#dca2c9","#7fd3cf","#fff0d5"]
+brights = ["#d1c7ba","#ffa07c","#a5d99a","#f8d98a","#acd5ef","#e8bad8","#9fe1dc","#fffaf0"]

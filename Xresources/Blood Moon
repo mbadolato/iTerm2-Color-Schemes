@@ -1,0 +1,43 @@
+!
+! Blood Moon
+!
+*.foreground:  #fff0dc
+*.background:  #4b080d
+*.cursorColor: #ff454b
+!
+! Black
+*.color0:      #bbaaad
+*.color8:      #cfbfc1
+!
+! Red
+*.color1:      #f17c78
+*.color9:      #f49894
+!
+! Green
+*.color2:      #9cca8e
+*.color10:     #b0d6a3
+!
+! Yellow
+*.color3:      #e5c36b
+*.color11:     #edd389
+!
+! Blue
+*.color4:      #8db9d8
+*.color12:     #a8cbe2
+!
+! Magenta
+*.color5:      #cd97b7
+*.color13:     #dab0c7
+!
+! Cyan
+*.color6:      #7fc6c1
+*.color14:     #9dd5d0
+!
+! White
+*.color7:      #fff0dc
+*.color15:     #fffaf0
+!
+! Bold, Italic, Underline
+*.colorBD:     #ff5b5f
+!*.colorIT:
+!*.colorUL:

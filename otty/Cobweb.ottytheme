@@ -1,0 +1,17 @@
+[meta]
+name = "Cobweb"
+mode = "dark"
+
+[terminal]
+foreground = "#eef1f3"
+background = "#20272d"
+palette = [
+    "#aeb5ba", "#ed8e88", "#9bc6a3", "#dec575",
+    "#92bad5", "#bba4c9", "#88c8c8", "#eef1f3",
+    "#c3c9cd", "#f0a7a1", "#afd3b6", "#e8d493",
+    "#abcde0", "#cab8d4", "#a4d6d6", "#ffffff",
+]
+cursor = "#e7ebee"
+cursor-text = "#20272d"
+selection-background = "#3d454c"
+selection-foreground = "#ffffff"

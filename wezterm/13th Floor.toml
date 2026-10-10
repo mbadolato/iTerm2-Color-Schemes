@@ -1,0 +1,12 @@
+# 13th Floor
+[colors]
+foreground = "#f2e2c8"
+background = "#4a0710"
+cursor_bg = "#e48e81"
+cursor_border = "#e48e81"
+cursor_fg = "#4a0710"
+selection_bg = "#c5b4b7"
+selection_fg = "#fff2dc"
+
+ansi = ["#bdaaad","#e07f70","#9eae80","#d0af63","#849caf","#b78ea6","#7bb2aa","#f2e2c8"]
+brights = ["#c5b4b7","#e48e81","#aab88f","#d6b976","#93a8b9","#c09cb1","#8bbbb4","#f4e5cf"]

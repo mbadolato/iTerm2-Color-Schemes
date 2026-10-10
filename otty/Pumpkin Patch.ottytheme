@@ -1,0 +1,17 @@
+[meta]
+name = "Pumpkin Patch"
+mode = "dark"
+
+[terminal]
+foreground = "#f5efd1"
+background = "#243416"
+palette = [
+    "#c3c8af", "#f09870", "#95ce77", "#e8c95a",
+    "#87bfcf", "#c79ab7", "#79c9bb", "#f5efd1",
+    "#cacfb9", "#f2a481", "#a2d487", "#ebcf6e",
+    "#95c7d5", "#cea6c0", "#89cfc3", "#f6f1d7",
+]
+cursor = "#f2a481"
+cursor-text = "#243416"
+selection-background = "#cacfb9"
+selection-foreground = "#9d987e"

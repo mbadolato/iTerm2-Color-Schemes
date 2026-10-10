@@ -1,0 +1,43 @@
+!
+! Pissed Off Pancakes
+!
+*.foreground:  #f8edd7
+*.background:  #1a1208
+*.cursorColor: #f4d35e
+!
+! Black
+*.color0:      #aaa59c
+*.color8:      #c6c0b5
+!
+! Red
+*.color1:      #db533e
+*.color9:      #ff6b4d
+!
+! Green
+*.color2:      #7cb85b
+*.color10:     #a4dc79
+!
+! Yellow
+*.color3:      #e4b33f
+*.color11:     #f7d867
+!
+! Blue
+*.color4:      #4aa3ff
+*.color12:     #73b9ff
+!
+! Magenta
+*.color5:      #b35cff
+*.color13:     #cd8aff
+!
+! Cyan
+*.color6:      #33d6c9
+*.color14:     #62e5d9
+!
+! White
+*.color7:      #f8edd7
+*.color15:     #fff4d2
+!
+! Bold, Italic, Underline
+*.colorBD:     #f4d35e
+!*.colorIT:
+!*.colorUL:

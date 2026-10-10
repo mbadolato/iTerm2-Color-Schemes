@@ -1,0 +1,33 @@
+# Colors (Ectoplasm)
+
+[colors.bright]
+black = '#c8d6d5'
+blue = '#86cff1'
+cyan = '#6ce4db'
+green = '#88e4b4'
+magenta = '#b4a7eb'
+red = '#f3a79b'
+white = '#f1fffb'
+yellow = '#dce171'
+
+[colors.cursor]
+cursor = '#f3a79b'
+text = '#06454a'
+
+[colors.normal]
+black = '#c1d0cf'
+blue = '#76c9ef'
+cyan = '#58e0d6'
+green = '#78e0aa'
+magenta = '#afa1e9'
+red = '#f19b8d'
+white = '#effffb'
+yellow = '#d7dd5e'
+
+[colors.primary]
+background = '#06454a'
+foreground = '#effffb'
+
+[colors.selection]
+background = '#c8d6d5'
+text = '#8b9995'

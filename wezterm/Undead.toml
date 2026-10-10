@@ -1,0 +1,12 @@
+# Undead
+[colors]
+foreground = "#f3edcf"
+background = "#3d3c1c"
+cursor_bg = "#ded157"
+cursor_border = "#ded157"
+cursor_fg = "#3d3c1c"
+selection_bg = "#5d5c37"
+selection_fg = "#fff8e3"
+
+ansi = ["#c0bd9f","#e69a72","#a8c97c","#d9c164","#91bdb5","#bd9eb0","#83c5b5","#f3edcf"]
+brights = ["#d1ceb2","#ecae8b","#bad598","#e4d181","#a8ccc4","#cdb6c1","#9dd4c7","#fff8e5"]

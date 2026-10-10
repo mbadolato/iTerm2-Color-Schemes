@@ -1,0 +1,33 @@
+# Colors (Undead)
+
+[colors.bright]
+black = '#d1ceb2'
+blue = '#a8ccc4'
+cyan = '#9dd4c7'
+green = '#bad598'
+magenta = '#cdb6c1'
+red = '#ecae8b'
+white = '#fff8e5'
+yellow = '#e4d181'
+
+[colors.cursor]
+cursor = '#ded157'
+text = '#3d3c1c'
+
+[colors.normal]
+black = '#c0bd9f'
+blue = '#91bdb5'
+cyan = '#83c5b5'
+green = '#a8c97c'
+magenta = '#bd9eb0'
+red = '#e69a72'
+white = '#f3edcf'
+yellow = '#d9c164'
+
+[colors.primary]
+background = '#3d3c1c'
+foreground = '#f3edcf'
+
+[colors.selection]
+background = '#5d5c37'
+text = '#fff8e3'

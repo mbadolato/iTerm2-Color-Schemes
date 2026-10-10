@@ -1,0 +1,41 @@
+(
+    name: "Possessed Toaster",
+    foreground: "#e8dcc0",
+    background: "#0e0f0d",
+    cursor: "#f4ca4d",
+    bright_foreground: "#e8dcc0",
+    dim_foreground: "#c2c3bd",
+
+    normal: (
+        black: "#a9aaa3",
+        red: "#e0503b",
+        green: "#6aa84f",
+        yellow: "#e0a62e",
+        blue: "#3d9aff",
+        magenta: "#a855f7",
+        cyan: "#2dd4bf",
+        white: "#e8dcc0"
+    ),
+
+    bright: (
+        black: "#c2c3bd",
+        red: "#ff5a3c",
+        green: "#9edb6f",
+        yellow: "#f4ca4d",
+        blue: "#60b5ff",
+        magenta: "#c084fc",
+        cyan: "#4ee6d3",
+        white: "#fff5d7"
+    ),
+
+    dim: (
+        black: "#a9aaa3",
+        red: "#e0503b",
+        green: "#6aa84f",
+        yellow: "#e0a62e",
+        blue: "#3d9aff",
+        magenta: "#a855f7",
+        cyan: "#2dd4bf",
+        white: "#e8dcc0"
+    ),
+)

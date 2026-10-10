@@ -1,0 +1,12 @@
+# Hocus Pocus
+[colors]
+foreground = "#f6edff"
+background = "#431455"
+cursor_bg = "#f3999a"
+cursor_border = "#f3999a"
+cursor_fg = "#431455"
+selection_bg = "#c9bad0"
+selection_fg = "#918999"
+
+ansi = ["#c2b1ca","#f18b8c","#9bd674","#e9c657","#8fc1e8","#d187e4","#7bd3d1","#f6edff"]
+brights = ["#c9bad0","#f3999a","#a7db85","#eccd6b","#9cc8eb","#d795e7","#8bd8d7","#f7efff"]

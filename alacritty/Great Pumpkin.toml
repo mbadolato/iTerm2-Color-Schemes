@@ -1,0 +1,33 @@
+# Colors (Great Pumpkin)
+
+[colors.bright]
+black = '#1e110b'
+blue = '#143142'
+cyan = '#113d44'
+green = '#283719'
+magenta = '#421d3e'
+red = '#58160b'
+white = '#2b1e17'
+yellow = '#483406'
+
+[colors.cursor]
+cursor = '#24150e'
+text = '#f98128'
+
+[colors.normal]
+black = '#24150e'
+blue = '#16374b'
+cyan = '#103a40'
+green = '#29391a'
+magenta = '#51234c'
+red = '#62190d'
+white = '#34251c'
+yellow = '#443106'
+
+[colors.primary]
+background = '#f98128'
+foreground = '#34251c'
+
+[colors.selection]
+background = '#f6c89b'
+text = '#24150e'

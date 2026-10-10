@@ -1,0 +1,43 @@
+!
+! Haunted House
+!
+*.foreground:  #f1f4ed
+*.background:  #23394e
+*.cursorColor: #d5e2ee
+!
+! Black
+*.color0:      #b9c2c9
+*.color8:      #ccd3d8
+!
+! Red
+*.color1:      #ed9b8c
+*.color9:      #f1afa3
+!
+! Green
+*.color2:      #9fcba7
+*.color10:     #b3d8ba
+!
+! Yellow
+*.color3:      #e5cb7c
+*.color11:     #edda99
+!
+! Blue
+*.color4:      #9fc7e5
+*.color12:     #b8d6ec
+!
+! Magenta
+*.color5:      #c2add8
+*.color13:     #d0c2e0
+!
+! Cyan
+*.color6:      #93d0d0
+*.color14:     #addddd
+!
+! White
+*.color7:      #f1f4ed
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #b7cde2
+!*.colorIT:
+!*.colorUL:

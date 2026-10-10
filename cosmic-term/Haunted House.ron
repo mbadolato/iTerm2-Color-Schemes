@@ -1,0 +1,41 @@
+(
+    name: "Haunted House",
+    foreground: "#f1f4ed",
+    background: "#23394e",
+    cursor: "#d5e2ee",
+    bright_foreground: "#f1f4ed",
+    dim_foreground: "#ccd3d8",
+
+    normal: (
+        black: "#b9c2c9",
+        red: "#ed9b8c",
+        green: "#9fcba7",
+        yellow: "#e5cb7c",
+        blue: "#9fc7e5",
+        magenta: "#c2add8",
+        cyan: "#93d0d0",
+        white: "#f1f4ed"
+    ),
+
+    bright: (
+        black: "#ccd3d8",
+        red: "#f1afa3",
+        green: "#b3d8ba",
+        yellow: "#edda99",
+        blue: "#b8d6ec",
+        magenta: "#d0c2e0",
+        cyan: "#addddd",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#b9c2c9",
+        red: "#ed9b8c",
+        green: "#9fcba7",
+        yellow: "#e5cb7c",
+        blue: "#9fc7e5",
+        magenta: "#c2add8",
+        cyan: "#93d0d0",
+        white: "#f1f4ed"
+    ),
+)

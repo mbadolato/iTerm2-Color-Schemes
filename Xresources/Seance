@@ -1,0 +1,43 @@
+!
+! Seance
+!
+*.foreground:  #f9eddf
+*.background:  #3b2035
+*.cursorColor: #f1c76d
+!
+! Black
+*.color0:      #bdb1b8
+*.color8:      #d0c5ca
+!
+! Red
+*.color1:      #e99b8e
+*.color9:      #efb0a5
+!
+! Green
+*.color2:      #a8cf8f
+*.color10:     #bbdba5
+!
+! Yellow
+*.color3:      #e5c779
+*.color11:     #edd796
+!
+! Blue
+*.color4:      #9fc2dc
+*.color12:     #b8d1e5
+!
+! Magenta
+*.color5:      #d5a6c8
+*.color13:     #e0bfd5
+!
+! Cyan
+*.color6:      #8fcfc8
+*.color14:     #addbd5
+!
+! White
+*.color7:      #f9eddf
+*.color15:     #fffaf2
+!
+! Bold, Italic, Underline
+*.colorBD:     #e6bd76
+!*.colorIT:
+!*.colorUL:

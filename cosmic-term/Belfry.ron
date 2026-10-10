@@ -1,0 +1,41 @@
+(
+    name: "Belfry",
+    foreground: "#fff0dc",
+    background: "#4a0c18",
+    cursor: "#ef4858",
+    bright_foreground: "#fff0dc",
+    dim_foreground: "#d0c3c5",
+
+    normal: (
+        black: "#bcaeb0",
+        red: "#f1817b",
+        green: "#9dcc91",
+        yellow: "#e7c56d",
+        blue: "#91bfe0",
+        magenta: "#d29ac0",
+        cyan: "#82cbc7",
+        white: "#fff0dc"
+    ),
+
+    bright: (
+        black: "#d0c3c5",
+        red: "#f59c96",
+        green: "#b2d8a7",
+        yellow: "#efd58b",
+        blue: "#accfe8",
+        magenta: "#dfb3cf",
+        cyan: "#a1d9d5",
+        white: "#fffaf0"
+    ),
+
+    dim: (
+        black: "#bcaeb0",
+        red: "#f1817b",
+        green: "#9dcc91",
+        yellow: "#e7c56d",
+        blue: "#91bfe0",
+        magenta: "#d29ac0",
+        cyan: "#82cbc7",
+        white: "#fff0dc"
+    ),
+)

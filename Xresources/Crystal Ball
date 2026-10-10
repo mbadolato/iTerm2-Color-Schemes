@@ -1,0 +1,43 @@
+!
+! Crystal Ball
+!
+*.foreground:  #f2edff
+*.background:  #2b1050
+*.cursorColor: #f19aaf
+!
+! Black
+*.color0:      #b7acc9
+*.color8:      #c0b6cf
+!
+! Red
+*.color1:      #ef8ca4
+*.color9:      #f19aaf
+!
+! Green
+*.color2:      #9ed08c
+*.color10:     #aad69a
+!
+! Yellow
+*.color3:      #dfc86b
+*.color11:     #e3cf7d
+!
+! Blue
+*.color4:      #82c8ef
+*.color12:     #91cff1
+!
+! Magenta
+*.color5:      #c18df0
+*.color13:     #c89bf2
+!
+! Cyan
+*.color6:      #77d7de
+*.color14:     #87dce2
+!
+! White
+*.color7:      #f2edff
+*.color15:     #f4efff
+!
+! Bold, Italic, Underline
+*.colorBD:     #e3cf7d
+!*.colorIT:
+!*.colorUL:

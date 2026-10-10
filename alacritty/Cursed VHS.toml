@@ -1,0 +1,33 @@
+# Colors (Cursed VHS)
+
+[colors.bright]
+black = '#b9aec5'
+blue = '#75c1f4'
+cyan = '#61dee5'
+green = '#9cdbaa'
+magenta = '#d77ef2'
+red = '#ff7fa4'
+white = '#f5efff'
+yellow = '#e8cf72'
+
+[colors.cursor]
+cursor = '#ff7fa4'
+text = '#1c082c'
+
+[colors.normal]
+black = '#afa3bd'
+blue = '#62b9f2'
+cyan = '#4bd9e1'
+green = '#8ed69e'
+magenta = '#d16cf0'
+red = '#ff6d98'
+white = '#f4edff'
+yellow = '#e5c85f'
+
+[colors.primary]
+background = '#1c082c'
+foreground = '#f4edff'
+
+[colors.selection]
+background = '#b9aec5'
+text = '#f5efff'

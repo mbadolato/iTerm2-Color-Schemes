@@ -1,0 +1,43 @@
+!
+! Possessed Toaster
+!
+*.foreground:  #e8dcc0
+*.background:  #0e0f0d
+*.cursorColor: #f4ca4d
+!
+! Black
+*.color0:      #a9aaa3
+*.color8:      #c2c3bd
+!
+! Red
+*.color1:      #e0503b
+*.color9:      #ff5a3c
+!
+! Green
+*.color2:      #6aa84f
+*.color10:     #9edb6f
+!
+! Yellow
+*.color3:      #e0a62e
+*.color11:     #f4ca4d
+!
+! Blue
+*.color4:      #3d9aff
+*.color12:     #60b5ff
+!
+! Magenta
+*.color5:      #a855f7
+*.color13:     #c084fc
+!
+! Cyan
+*.color6:      #2dd4bf
+*.color14:     #4ee6d3
+!
+! White
+*.color7:      #e8dcc0
+*.color15:     #fff5d7
+!
+! Bold, Italic, Underline
+*.colorBD:     #f4ca4d
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,43 @@
+!
+! Monster Mash
+!
+*.foreground:  #f0f5d8
+*.background:  #173b0d
+*.cursorColor: #f2a289
+!
+! Black
+*.color0:      #b8c9ae
+*.color8:      #c1cfb8
+!
+! Red
+*.color1:      #f09579
+*.color9:      #f2a289
+!
+! Green
+*.color2:      #9ee566
+*.color10:     #aae878
+!
+! Yellow
+*.color3:      #e7cf52
+*.color11:     #ead567
+!
+! Blue
+*.color4:      #86c5e8
+*.color12:     #95cceb
+!
+! Magenta
+*.color5:      #bd91e8
+*.color13:     #c59eeb
+!
+! Cyan
+*.color6:      #72d8cc
+*.color14:     #83ddd2
+!
+! White
+*.color7:      #f0f5d8
+*.color15:     #f2f6dd
+!
+! Bold, Italic, Underline
+*.colorBD:     #ead567
+!*.colorIT:
+!*.colorUL:

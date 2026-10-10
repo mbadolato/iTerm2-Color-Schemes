@@ -1,0 +1,12 @@
+# Witches' Brew
+[colors]
+foreground = "#efffdc"
+background = "#073b25"
+cursor_bg = "#9cf04d"
+cursor_border = "#9cf04d"
+cursor_fg = "#073b25"
+selection_bg = "#245c42"
+selection_fg = "#fbfff3"
+
+ansi = ["#aec2b4","#f19a72","#9be86b","#f0cc58","#86c8e3","#d99ed4","#7ad9ce","#efffdc"]
+brights = ["#c3d2c8","#f6ae8c","#b3ef88","#f6dc7b","#a4d7eb","#e5b7df","#9ae5dc","#fbfff3"]

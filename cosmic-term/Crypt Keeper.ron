@@ -1,0 +1,41 @@
+(
+    name: "Crypt Keeper",
+    foreground: "#f2efd5",
+    background: "#353b24",
+    cursor: "#e0cb62",
+    bright_foreground: "#f2efd5",
+    dim_foreground: "#d0d1c0",
+
+    normal: (
+        black: "#bfc1ad",
+        red: "#e89a78",
+        green: "#a6cc8c",
+        yellow: "#dec46c",
+        blue: "#91bdd0",
+        magenta: "#c9a1b5",
+        cyan: "#82c9bf",
+        white: "#f2efd5"
+    ),
+
+    bright: (
+        black: "#d0d1c0",
+        red: "#eeae8f",
+        green: "#b9d8a3",
+        yellow: "#e8d58a",
+        blue: "#a9ccd9",
+        magenta: "#d6b8c7",
+        cyan: "#9fd7cf",
+        white: "#fff9e8"
+    ),
+
+    dim: (
+        black: "#bfc1ad",
+        red: "#e89a78",
+        green: "#a6cc8c",
+        yellow: "#dec46c",
+        blue: "#91bdd0",
+        magenta: "#c9a1b5",
+        cyan: "#82c9bf",
+        white: "#f2efd5"
+    ),
+)

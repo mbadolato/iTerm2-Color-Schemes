@@ -1,0 +1,12 @@
+# Abandoned
+[colors]
+foreground = "#eee9d7"
+background = "#433d2d"
+cursor_bg = "#e9a689"
+cursor_border = "#e9a689"
+cursor_fg = "#433d2d"
+selection_bg = "#c9c8b8"
+selection_fg = "#979383"
+
+ansi = ["#c2c0ae","#e69a79","#9db692","#d7c06e","#8eafb8","#bda6b4","#82bbb4","#eee9d7"]
+brights = ["#c9c8b8","#e9a689","#a9bf9f","#dcc87f","#9cb9c1","#bea6b4","#91c3bd","#f0ecdc"]

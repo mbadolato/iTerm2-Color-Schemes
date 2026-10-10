@@ -1,0 +1,17 @@
+[meta]
+name = "Jack O' Lantern"
+mode = "dark"
+
+[terminal]
+foreground = "#fff0d5"
+background = "#4a1b08"
+palette = [
+    "#bdb2a4", "#ff8b61", "#8dcc7a", "#f3c969",
+    "#8fc5e8", "#dca2c9", "#7fd3cf", "#fff0d5",
+    "#d1c7ba", "#ffa07c", "#a5d99a", "#f8d98a",
+    "#acd5ef", "#e8bad8", "#9fe1dc", "#fffaf0",
+]
+cursor = "#ff9f1c"
+cursor-text = "#4a1b08"
+selection-background = "#713514"
+selection-foreground = "#fff7e8"

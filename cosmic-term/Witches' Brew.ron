@@ -1,0 +1,41 @@
+(
+    name: "Witches' Brew",
+    foreground: "#efffdc",
+    background: "#073b25",
+    cursor: "#9cf04d",
+    bright_foreground: "#efffdc",
+    dim_foreground: "#c3d2c8",
+
+    normal: (
+        black: "#aec2b4",
+        red: "#f19a72",
+        green: "#9be86b",
+        yellow: "#f0cc58",
+        blue: "#86c8e3",
+        magenta: "#d99ed4",
+        cyan: "#7ad9ce",
+        white: "#efffdc"
+    ),
+
+    bright: (
+        black: "#c3d2c8",
+        red: "#f6ae8c",
+        green: "#b3ef88",
+        yellow: "#f6dc7b",
+        blue: "#a4d7eb",
+        magenta: "#e5b7df",
+        cyan: "#9ae5dc",
+        white: "#fbfff3"
+    ),
+
+    dim: (
+        black: "#aec2b4",
+        red: "#f19a72",
+        green: "#9be86b",
+        yellow: "#f0cc58",
+        blue: "#86c8e3",
+        magenta: "#d99ed4",
+        cyan: "#7ad9ce",
+        white: "#efffdc"
+    ),
+)

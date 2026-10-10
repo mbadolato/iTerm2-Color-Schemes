@@ -1,0 +1,12 @@
+# Crypt Keeper
+[colors]
+foreground = "#f2efd5"
+background = "#353b24"
+cursor_bg = "#e0cb62"
+cursor_border = "#e0cb62"
+cursor_fg = "#353b24"
+selection_bg = "#535a3d"
+selection_fg = "#fff9e8"
+
+ansi = ["#bfc1ad","#e89a78","#a6cc8c","#dec46c","#91bdd0","#c9a1b5","#82c9bf","#f2efd5"]
+brights = ["#d0d1c0","#eeae8f","#b9d8a3","#e8d58a","#a9ccd9","#d6b8c7","#9fd7cf","#fff9e8"]
