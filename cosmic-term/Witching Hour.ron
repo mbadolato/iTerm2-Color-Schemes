@@ -1,0 +1,41 @@
+(
+    name: "Witching Hour",
+    foreground: "#f5edff",
+    background: "#261044",
+    cursor: "#b56cff",
+    bright_foreground: "#f5edff",
+    dim_foreground: "#cec3dc",
+
+    normal: (
+        black: "#b9aec8",
+        red: "#f18a9d",
+        green: "#a4d66e",
+        yellow: "#e9c86b",
+        blue: "#91c4ed",
+        magenta: "#c995f0",
+        cyan: "#80d4d2",
+        white: "#f5edff"
+    ),
+
+    bright: (
+        black: "#cec3dc",
+        red: "#f5a6b4",
+        green: "#bae187",
+        yellow: "#f1d98a",
+        blue: "#add5f3",
+        magenta: "#d9b1f5",
+        cyan: "#a0e1df",
+        white: "#fffaff"
+    ),
+
+    dim: (
+        black: "#b9aec8",
+        red: "#f18a9d",
+        green: "#a4d66e",
+        yellow: "#e9c86b",
+        blue: "#91c4ed",
+        magenta: "#c995f0",
+        cyan: "#80d4d2",
+        white: "#f5edff"
+    ),
+)

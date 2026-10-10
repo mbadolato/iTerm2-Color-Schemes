@@ -1,0 +1,43 @@
+!
+! Black Cat
+!
+*.foreground:  #f5edff
+*.background:  #180a2b
+*.cursorColor: #ff979f
+!
+! Black
+*.color0:      #a9a0b6
+*.color8:      #b3abbf
+!
+! Red
+*.color1:      #ff8992
+*.color9:      #ff979f
+!
+! Green
+*.color2:      #9fda65
+*.color10:     #abde77
+!
+! Yellow
+*.color3:      #edc85e
+*.color11:     #efcf71
+!
+! Blue
+*.color4:      #8bbdf0
+*.color12:     #99c5f2
+!
+! Magenta
+*.color5:      #c78bf0
+*.color13:     #ce99f2
+!
+! Cyan
+*.color6:      #76d2d1
+*.color14:     #86d7d7
+!
+! White
+*.color7:      #f5edff
+*.color15:     #f6efff
+!
+! Bold, Italic, Underline
+*.colorBD:     #efcf71
+!*.colorIT:
+!*.colorUL:

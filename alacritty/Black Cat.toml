@@ -1,0 +1,33 @@
+# Colors (Black Cat)
+
+[colors.bright]
+black = '#b3abbf'
+blue = '#99c5f2'
+cyan = '#86d7d7'
+green = '#abde77'
+magenta = '#ce99f2'
+red = '#ff979f'
+white = '#f6efff'
+yellow = '#efcf71'
+
+[colors.cursor]
+cursor = '#ff979f'
+text = '#180a2b'
+
+[colors.normal]
+black = '#a9a0b6'
+blue = '#8bbdf0'
+cyan = '#76d2d1'
+green = '#9fda65'
+magenta = '#c78bf0'
+red = '#ff8992'
+white = '#f5edff'
+yellow = '#edc85e'
+
+[colors.primary]
+background = '#180a2b'
+foreground = '#f5edff'
+
+[colors.selection]
+background = '#b3abbf'
+text = '#f6efff'

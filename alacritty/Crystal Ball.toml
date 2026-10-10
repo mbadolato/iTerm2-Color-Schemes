@@ -1,0 +1,33 @@
+# Colors (Crystal Ball)
+
+[colors.bright]
+black = '#c0b6cf'
+blue = '#91cff1'
+cyan = '#87dce2'
+green = '#aad69a'
+magenta = '#c89bf2'
+red = '#f19aaf'
+white = '#f4efff'
+yellow = '#e3cf7d'
+
+[colors.cursor]
+cursor = '#f19aaf'
+text = '#2b1050'
+
+[colors.normal]
+black = '#b7acc9'
+blue = '#82c8ef'
+cyan = '#77d7de'
+green = '#9ed08c'
+magenta = '#c18df0'
+red = '#ef8ca4'
+white = '#f2edff'
+yellow = '#dfc86b'
+
+[colors.primary]
+background = '#2b1050'
+foreground = '#f2edff'
+
+[colors.selection]
+background = '#c0b6cf'
+text = '#fffcff'

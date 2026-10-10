@@ -1,0 +1,33 @@
+# Colors (Witching Hour)
+
+[colors.bright]
+black = '#cec3dc'
+blue = '#add5f3'
+cyan = '#a0e1df'
+green = '#bae187'
+magenta = '#d9b1f5'
+red = '#f5a6b4'
+white = '#fffaff'
+yellow = '#f1d98a'
+
+[colors.cursor]
+cursor = '#b56cff'
+text = '#261044'
+
+[colors.normal]
+black = '#b9aec8'
+blue = '#91c4ed'
+cyan = '#80d4d2'
+green = '#a4d66e'
+magenta = '#c995f0'
+red = '#f18a9d'
+white = '#f5edff'
+yellow = '#e9c86b'
+
+[colors.primary]
+background = '#261044'
+foreground = '#f5edff'
+
+[colors.selection]
+background = '#45236b'
+text = '#fff8ff'

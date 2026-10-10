@@ -1,0 +1,43 @@
+!
+! 13th Floor
+!
+*.foreground:  #f2e2c8
+*.background:  #4a0710
+*.cursorColor: #e48e81
+!
+! Black
+*.color0:      #bdaaad
+*.color8:      #c5b4b7
+!
+! Red
+*.color1:      #e07f70
+*.color9:      #e48e81
+!
+! Green
+*.color2:      #9eae80
+*.color10:     #aab88f
+!
+! Yellow
+*.color3:      #d0af63
+*.color11:     #d6b976
+!
+! Blue
+*.color4:      #849caf
+*.color12:     #93a8b9
+!
+! Magenta
+*.color5:      #b78ea6
+*.color13:     #c09cb1
+!
+! Cyan
+*.color6:      #7bb2aa
+*.color14:     #8bbbb4
+!
+! White
+*.color7:      #f2e2c8
+*.color15:     #f4e5cf
+!
+! Bold, Italic, Underline
+*.colorBD:     #d6b976
+!*.colorIT:
+!*.colorUL:

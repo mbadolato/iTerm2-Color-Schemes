@@ -1,0 +1,17 @@
+[meta]
+name = "Poison Apple"
+mode = "dark"
+
+[terminal]
+foreground = "#f7e8d8"
+background = "#560b13"
+palette = [
+    "#bca8aa", "#ef8178", "#9ed25f", "#e5c45b",
+    "#86b9d8", "#c28bb9", "#7cc4bc", "#f7e8d8",
+    "#c4b2b4", "#f19088", "#aad772", "#e8cb6f",
+    "#95c1dd", "#c999c1", "#8ccbc4", "#f8ebdd",
+]
+cursor = "#f19088"
+cursor-text = "#560b13"
+selection-background = "#c4b2b4"
+selection-foreground = "#fff8ea"

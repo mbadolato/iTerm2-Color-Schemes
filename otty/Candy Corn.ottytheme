@@ -1,0 +1,17 @@
+[meta]
+name = "Candy Corn"
+mode = "light"
+
+[terminal]
+foreground = "#51463b"
+background = "#fff0d2"
+palette = [
+    "#322b24", "#9b2f12", "#46612d", "#785711",
+    "#36516b", "#69416e", "#28656a", "#51463b",
+    "#29231e", "#7f270f", "#395025", "#62470e",
+    "#2c4258", "#56355a", "#215357", "#423930",
+]
+cursor = "#24150e"
+cursor-text = "#fff0d2"
+selection-background = "#f6c89b"
+selection-foreground = "#24150e"

@@ -1,0 +1,33 @@
+# Colors (13th Floor)
+
+[colors.bright]
+black = '#c5b4b7'
+blue = '#93a8b9'
+cyan = '#8bbbb4'
+green = '#aab88f'
+magenta = '#c09cb1'
+red = '#e48e81'
+white = '#f4e5cf'
+yellow = '#d6b976'
+
+[colors.cursor]
+cursor = '#e48e81'
+text = '#4a0710'
+
+[colors.normal]
+black = '#bdaaad'
+blue = '#849caf'
+cyan = '#7bb2aa'
+green = '#9eae80'
+magenta = '#b78ea6'
+red = '#e07f70'
+white = '#f2e2c8'
+yellow = '#d0af63'
+
+[colors.primary]
+background = '#4a0710'
+foreground = '#f2e2c8'
+
+[colors.selection]
+background = '#c5b4b7'
+text = '#fff2dc'

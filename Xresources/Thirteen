@@ -1,0 +1,43 @@
+!
+! Thirteen
+!
+*.foreground:  #f4ead8
+*.background:  #260607
+*.cursorColor: #d93035
+!
+! Black
+*.color0:      #a99b96
+*.color8:      #beb0aa
+!
+! Red
+*.color1:      #d97d75
+*.color9:      #e29289
+!
+! Green
+*.color2:      #91b994
+*.color10:     #a6c8a8
+!
+! Yellow
+*.color3:      #c5ad70
+*.color11:     #d2bd86
+!
+! Blue
+*.color4:      #849fb4
+*.color12:     #9db5c6
+!
+! Magenta
+*.color5:      #aa8da9
+*.color13:     #bba4b9
+!
+! Cyan
+*.color6:      #75b3a8
+*.color14:     #91c4ba
+!
+! White
+*.color7:      #f4ead8
+*.color15:     #fff8eb
+!
+! Bold, Italic, Underline
+*.colorBD:     #b7a26d
+!*.colorIT:
+!*.colorUL:

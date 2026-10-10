@@ -1,0 +1,12 @@
+# Great Pumpkin
+[colors]
+foreground = "#34251c"
+background = "#f98128"
+cursor_bg = "#24150e"
+cursor_border = "#24150e"
+cursor_fg = "#f98128"
+selection_bg = "#f6c89b"
+selection_fg = "#24150e"
+
+ansi = ["#24150e","#62190d","#29391a","#443106","#16374b","#51234c","#103a40","#34251c"]
+brights = ["#1e110b","#58160b","#283719","#483406","#143142","#421d3e","#113d44","#2b1e17"]

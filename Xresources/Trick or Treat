@@ -1,0 +1,43 @@
+!
+! Trick or Treat
+!
+*.foreground:  #fff0e3
+*.background:  #40145f
+*.cursorColor: #ff65bd
+!
+! Black
+*.color0:      #bbaec8
+*.color8:      #cec1da
+!
+! Red
+*.color1:      #ff8b82
+*.color9:      #ffa5a0
+!
+! Green
+*.color2:      #a8dc72
+*.color10:     #bde88d
+!
+! Yellow
+*.color3:      #f8c94e
+*.color11:     #fbdc72
+!
+! Blue
+*.color4:      #8fc9f2
+*.color12:     #acd9f7
+!
+! Magenta
+*.color5:      #e78bd8
+*.color13:     #efaae3
+!
+! Cyan
+*.color6:      #78dce1
+*.color14:     #99e7ea
+!
+! White
+*.color7:      #fff0e3
+*.color15:     #fffaf2
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffbd38
+!*.colorIT:
+!*.colorUL:

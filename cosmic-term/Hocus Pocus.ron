@@ -1,0 +1,41 @@
+(
+    name: "Hocus Pocus",
+    foreground: "#f6edff",
+    background: "#431455",
+    cursor: "#f3999a",
+    bright_foreground: "#f6edff",
+    dim_foreground: "#c9bad0",
+
+    normal: (
+        black: "#c2b1ca",
+        red: "#f18b8c",
+        green: "#9bd674",
+        yellow: "#e9c657",
+        blue: "#8fc1e8",
+        magenta: "#d187e4",
+        cyan: "#7bd3d1",
+        white: "#f6edff"
+    ),
+
+    bright: (
+        black: "#c9bad0",
+        red: "#f3999a",
+        green: "#a7db85",
+        yellow: "#eccd6b",
+        blue: "#9cc8eb",
+        magenta: "#d795e7",
+        cyan: "#8bd8d7",
+        white: "#f7efff"
+    ),
+
+    dim: (
+        black: "#c2b1ca",
+        red: "#f18b8c",
+        green: "#9bd674",
+        yellow: "#e9c657",
+        blue: "#8fc1e8",
+        magenta: "#d187e4",
+        cyan: "#7bd3d1",
+        white: "#f6edff"
+    ),
+)

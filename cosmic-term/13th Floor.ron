@@ -1,0 +1,41 @@
+(
+    name: "13th Floor",
+    foreground: "#f2e2c8",
+    background: "#4a0710",
+    cursor: "#e48e81",
+    bright_foreground: "#f2e2c8",
+    dim_foreground: "#c5b4b7",
+
+    normal: (
+        black: "#bdaaad",
+        red: "#e07f70",
+        green: "#9eae80",
+        yellow: "#d0af63",
+        blue: "#849caf",
+        magenta: "#b78ea6",
+        cyan: "#7bb2aa",
+        white: "#f2e2c8"
+    ),
+
+    bright: (
+        black: "#c5b4b7",
+        red: "#e48e81",
+        green: "#aab88f",
+        yellow: "#d6b976",
+        blue: "#93a8b9",
+        magenta: "#c09cb1",
+        cyan: "#8bbbb4",
+        white: "#f4e5cf"
+    ),
+
+    dim: (
+        black: "#bdaaad",
+        red: "#e07f70",
+        green: "#9eae80",
+        yellow: "#d0af63",
+        blue: "#849caf",
+        magenta: "#b78ea6",
+        cyan: "#7bb2aa",
+        white: "#f2e2c8"
+    ),
+)

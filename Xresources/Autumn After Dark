@@ -1,0 +1,43 @@
+!
+! Autumn After Dark
+!
+*.foreground:  #f8e9cf
+*.background:  #57210d
+*.cursorColor: #f39c79
+!
+! Black
+*.color0:      #c8b6a6
+*.color8:      #cfbfb1
+!
+! Red
+*.color1:      #f18f67
+*.color9:      #f39c79
+!
+! Green
+*.color2:      #9ac47c
+*.color10:     #a6cb8c
+!
+! Yellow
+*.color3:      #e9bf55
+*.color11:     #ecc769
+!
+! Blue
+*.color4:      #83b8d0
+*.color12:     #92c1d6
+!
+! Magenta
+*.color5:      #c794af
+*.color13:     #cea1b9
+!
+! Cyan
+*.color6:      #78c4b8
+*.color14:     #88cbc1
+!
+! White
+*.color7:      #f8e9cf
+*.color15:     #f9ecd5
+!
+! Bold, Italic, Underline
+*.colorBD:     #ecc769
+!*.colorIT:
+!*.colorUL:

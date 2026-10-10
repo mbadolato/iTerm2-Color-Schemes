@@ -1,0 +1,41 @@
+(
+    name: "Harvest Moon",
+    foreground: "#fff1d2",
+    background: "#0d3557",
+    cursor: "#f3b64a",
+    bright_foreground: "#fff1d2",
+    dim_foreground: "#cbd3d6",
+
+    normal: (
+        black: "#b8c2c6",
+        red: "#ee997d",
+        green: "#9bca8e",
+        yellow: "#edc667",
+        blue: "#8fc1dd",
+        magenta: "#c7a1c8",
+        cyan: "#80ced0",
+        white: "#fff1d2"
+    ),
+
+    bright: (
+        black: "#cbd3d6",
+        red: "#f2ae92",
+        green: "#b0d6a4",
+        yellow: "#f4d585",
+        blue: "#aad1e7",
+        magenta: "#d4b8d5",
+        cyan: "#9edbdc",
+        white: "#fff9e8"
+    ),
+
+    dim: (
+        black: "#b8c2c6",
+        red: "#ee997d",
+        green: "#9bca8e",
+        yellow: "#edc667",
+        blue: "#8fc1dd",
+        magenta: "#c7a1c8",
+        cyan: "#80ced0",
+        white: "#fff1d2"
+    ),
+)

@@ -1,0 +1,17 @@
+[meta]
+name = "Belfry"
+mode = "dark"
+
+[terminal]
+foreground = "#fff0dc"
+background = "#4a0c18"
+palette = [
+    "#bcaeb0", "#f1817b", "#9dcc91", "#e7c56d",
+    "#91bfe0", "#d29ac0", "#82cbc7", "#fff0dc",
+    "#d0c3c5", "#f59c96", "#b2d8a7", "#efd58b",
+    "#accfe8", "#dfb3cf", "#a1d9d5", "#fffaf0",
+]
+cursor = "#ef4858"
+cursor-text = "#4a0c18"
+selection-background = "#702331"
+selection-foreground = "#fff8eb"

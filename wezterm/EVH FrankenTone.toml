@@ -1,12 +1,12 @@
 # EVH FrankenTone
 [colors]
-foreground = "#e10600"
-background = "#0a0a0a"
-cursor_bg = "#ffd400"
-cursor_border = "#ffd400"
-cursor_fg = "#2b82ff"
-selection_bg = "#ff3b30"
-selection_fg = "#a6e22e"
+foreground = "#f7ede5"
+background = "#76231f"
+cursor_bg = "#f5cc48"
+cursor_border = "#f5cc48"
+cursor_fg = "#171313"
+selection_bg = "#201719"
+selection_fg = "#ffffff"
 
-ansi = ["#151515","#e10600","#8fbd32","#ffd400","#2b82ff","#ff2d6d","#20bde5","#f4f4f4"]
-brights = ["#474747","#ff5555","#b8e986","#ffe066","#66b3ff","#ff8fb1","#22d3ee","#f7f7f7"]
+ansi = ["#e7d8d0","#ffb4a5","#e6d27e","#f4d45d","#a9cbe7","#d9c3c9","#a7d7d7","#f7ede5"]
+brights = ["#c9b8b1","#ffd0bf","#f2e4a0","#ffe27d","#c5ddf3","#f0d8de","#c4e9e8","#ffffff"]

@@ -1,0 +1,41 @@
+(
+    name: "Cursed VHS",
+    foreground: "#f4edff",
+    background: "#1c082c",
+    cursor: "#ff7fa4",
+    bright_foreground: "#f4edff",
+    dim_foreground: "#b9aec5",
+
+    normal: (
+        black: "#afa3bd",
+        red: "#ff6d98",
+        green: "#8ed69e",
+        yellow: "#e5c85f",
+        blue: "#62b9f2",
+        magenta: "#d16cf0",
+        cyan: "#4bd9e1",
+        white: "#f4edff"
+    ),
+
+    bright: (
+        black: "#b9aec5",
+        red: "#ff7fa4",
+        green: "#9cdbaa",
+        yellow: "#e8cf72",
+        blue: "#75c1f4",
+        magenta: "#d77ef2",
+        cyan: "#61dee5",
+        white: "#f5efff"
+    ),
+
+    dim: (
+        black: "#afa3bd",
+        red: "#ff6d98",
+        green: "#8ed69e",
+        yellow: "#e5c85f",
+        blue: "#62b9f2",
+        magenta: "#d16cf0",
+        cyan: "#4bd9e1",
+        white: "#f4edff"
+    ),
+)

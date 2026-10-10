@@ -1,0 +1,41 @@
+(
+    name: "Bone Yard",
+    foreground: "#51463b",
+    background: "#ead9b8",
+    cursor: "#24150e",
+    bright_foreground: "#51463b",
+    dim_foreground: "#2a2721",
+
+    normal: (
+        black: "#332f28",
+        red: "#8b342c",
+        green: "#44583b",
+        yellow: "#6c571f",
+        blue: "#374f60",
+        magenta: "#60465d",
+        cyan: "#365f5c",
+        white: "#51463b"
+    ),
+
+    bright: (
+        black: "#2a2721",
+        red: "#722b24",
+        green: "#384830",
+        yellow: "#594719",
+        blue: "#2d414f",
+        magenta: "#4f394c",
+        cyan: "#2c4e4b",
+        white: "#423930"
+    ),
+
+    dim: (
+        black: "#332f28",
+        red: "#8b342c",
+        green: "#44583b",
+        yellow: "#6c571f",
+        blue: "#374f60",
+        magenta: "#60465d",
+        cyan: "#365f5c",
+        white: "#51463b"
+    ),
+)

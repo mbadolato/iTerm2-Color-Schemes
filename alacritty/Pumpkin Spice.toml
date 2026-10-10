@@ -1,0 +1,33 @@
+# Colors (Pumpkin Spice)
+
+[colors.bright]
+black = '#d7d3d1'
+blue = '#ced6d9'
+cyan = '#cbd6d7'
+green = '#d1d7d0'
+magenta = '#d9d1d9'
+red = '#f5e2dc'
+white = '#fff2dd'
+yellow = '#f6e5c8'
+
+[colors.cursor]
+cursor = '#dbd1ce'
+text = '#9a3d08'
+
+[colors.normal]
+black = '#d6d3d1'
+blue = '#ced5d9'
+cyan = '#cbd5d7'
+green = '#d1d7cf'
+magenta = '#dad3db'
+red = '#dbd1ce'
+white = '#fff0d8'
+yellow = '#d9d4c8'
+
+[colors.primary]
+background = '#9a3d08'
+foreground = '#fff0d8'
+
+[colors.selection]
+background = '#d7d3d1'
+text = '#a69984'

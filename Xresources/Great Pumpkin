@@ -1,0 +1,43 @@
+!
+! Great Pumpkin
+!
+*.foreground:  #34251c
+*.background:  #f98128
+*.cursorColor: #24150e
+!
+! Black
+*.color0:      #24150e
+*.color8:      #1e110b
+!
+! Red
+*.color1:      #62190d
+*.color9:      #58160b
+!
+! Green
+*.color2:      #29391a
+*.color10:     #283719
+!
+! Yellow
+*.color3:      #443106
+*.color11:     #483406
+!
+! Blue
+*.color4:      #16374b
+*.color12:     #143142
+!
+! Magenta
+*.color5:      #51234c
+*.color13:     #421d3e
+!
+! Cyan
+*.color6:      #103a40
+*.color14:     #113d44
+!
+! White
+*.color7:      #34251c
+*.color15:     #2b1e17
+!
+! Bold, Italic, Underline
+*.colorBD:     #483406
+!*.colorIT:
+!*.colorUL:

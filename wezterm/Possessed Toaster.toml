@@ -1,0 +1,12 @@
+# Possessed Toaster
+[colors]
+foreground = "#e8dcc0"
+background = "#0e0f0d"
+cursor_bg = "#f4ca4d"
+cursor_border = "#f4ca4d"
+cursor_fg = "#0e0f0d"
+selection_bg = "#3a3f3a"
+selection_fg = "#fff5da"
+
+ansi = ["#a9aaa3","#e0503b","#6aa84f","#e0a62e","#3d9aff","#a855f7","#2dd4bf","#e8dcc0"]
+brights = ["#c2c3bd","#ff5a3c","#9edb6f","#f4ca4d","#60b5ff","#c084fc","#4ee6d3","#fff5d7"]

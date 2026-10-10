@@ -1,0 +1,41 @@
+(
+    name: "Ectoplasm",
+    foreground: "#effffb",
+    background: "#06454a",
+    cursor: "#f3a79b",
+    bright_foreground: "#effffb",
+    dim_foreground: "#c8d6d5",
+
+    normal: (
+        black: "#c1d0cf",
+        red: "#f19b8d",
+        green: "#78e0aa",
+        yellow: "#d7dd5e",
+        blue: "#76c9ef",
+        magenta: "#afa1e9",
+        cyan: "#58e0d6",
+        white: "#effffb"
+    ),
+
+    bright: (
+        black: "#c8d6d5",
+        red: "#f3a79b",
+        green: "#88e4b4",
+        yellow: "#dce171",
+        blue: "#86cff1",
+        magenta: "#b4a7eb",
+        cyan: "#6ce4db",
+        white: "#f1fffb"
+    ),
+
+    dim: (
+        black: "#c1d0cf",
+        red: "#f19b8d",
+        green: "#78e0aa",
+        yellow: "#d7dd5e",
+        blue: "#76c9ef",
+        magenta: "#afa1e9",
+        cyan: "#58e0d6",
+        white: "#effffb"
+    ),
+)

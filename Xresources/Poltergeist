@@ -1,0 +1,43 @@
+!
+! Poltergeist
+!
+*.foreground:  #f0ffff
+*.background:  #06444b
+*.cursorColor: #ffa89e
+!
+! Black
+*.color0:      #c0d1d2
+*.color8:      #c8d7d7
+!
+! Red
+*.color1:      #ff9c91
+*.color9:      #ffa89e
+!
+! Green
+*.color2:      #8ce0b0
+*.color10:     #9ae4b9
+!
+! Yellow
+*.color3:      #e9d06c
+*.color11:     #ecd67e
+!
+! Blue
+*.color4:      #8ed4ed
+*.color12:     #9cd9ef
+!
+! Magenta
+*.color5:      #c5a7e8
+*.color13:     #ccb2eb
+!
+! Cyan
+*.color6:      #77e1df
+*.color14:     #87e5e3
+!
+! White
+*.color7:      #f0ffff
+*.color15:     #f2ffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ecd67e
+!*.colorIT:
+!*.colorUL:

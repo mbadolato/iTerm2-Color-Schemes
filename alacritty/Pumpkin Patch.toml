@@ -1,0 +1,33 @@
+# Colors (Pumpkin Patch)
+
+[colors.bright]
+black = '#cacfb9'
+blue = '#95c7d5'
+cyan = '#89cfc3'
+green = '#a2d487'
+magenta = '#cea6c0'
+red = '#f2a481'
+white = '#f6f1d7'
+yellow = '#ebcf6e'
+
+[colors.cursor]
+cursor = '#f2a481'
+text = '#243416'
+
+[colors.normal]
+black = '#c3c8af'
+blue = '#87bfcf'
+cyan = '#79c9bb'
+green = '#95ce77'
+magenta = '#c79ab7'
+red = '#f09870'
+white = '#f5efd1'
+yellow = '#e8c95a'
+
+[colors.primary]
+background = '#243416'
+foreground = '#f5efd1'
+
+[colors.selection]
+background = '#cacfb9'
+text = '#9d987e'

@@ -1,0 +1,41 @@
+(
+    name: "Hellfire",
+    foreground: "#f8e2c7",
+    background: "#5b0e05",
+    cursor: "#f49072",
+    bright_foreground: "#f8e2c7",
+    dim_foreground: "#ccb9b2",
+
+    normal: (
+        black: "#c5afa7",
+        red: "#f2815f",
+        green: "#a9bd72",
+        yellow: "#e8bd4e",
+        blue: "#83a9c2",
+        magenta: "#bf879f",
+        cyan: "#76b6ad",
+        white: "#f8e2c7"
+    ),
+
+    bright: (
+        black: "#ccb9b2",
+        red: "#f49072",
+        green: "#b3c583",
+        yellow: "#ebc563",
+        blue: "#92b3c9",
+        magenta: "#c795ab",
+        cyan: "#86bfb7",
+        white: "#f9e5ce"
+    ),
+
+    dim: (
+        black: "#c5afa7",
+        red: "#f2815f",
+        green: "#a9bd72",
+        yellow: "#e8bd4e",
+        blue: "#83a9c2",
+        magenta: "#bf879f",
+        cyan: "#76b6ad",
+        white: "#f8e2c7"
+    ),
+)

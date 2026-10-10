@@ -1,0 +1,43 @@
+!
+! Ectoplasm
+!
+*.foreground:  #effffb
+*.background:  #06454a
+*.cursorColor: #f3a79b
+!
+! Black
+*.color0:      #c1d0cf
+*.color8:      #c8d6d5
+!
+! Red
+*.color1:      #f19b8d
+*.color9:      #f3a79b
+!
+! Green
+*.color2:      #78e0aa
+*.color10:     #88e4b4
+!
+! Yellow
+*.color3:      #d7dd5e
+*.color11:     #dce171
+!
+! Blue
+*.color4:      #76c9ef
+*.color12:     #86cff1
+!
+! Magenta
+*.color5:      #afa1e9
+*.color13:     #b4a7eb
+!
+! Cyan
+*.color6:      #58e0d6
+*.color14:     #6ce4db
+!
+! White
+*.color7:      #effffb
+*.color15:     #f1fffb
+!
+! Bold, Italic, Underline
+*.colorBD:     #dce171
+!*.colorIT:
+!*.colorUL:

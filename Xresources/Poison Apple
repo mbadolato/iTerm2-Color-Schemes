@@ -1,0 +1,43 @@
+!
+! Poison Apple
+!
+*.foreground:  #f7e8d8
+*.background:  #560b13
+*.cursorColor: #f19088
+!
+! Black
+*.color0:      #bca8aa
+*.color8:      #c4b2b4
+!
+! Red
+*.color1:      #ef8178
+*.color9:      #f19088
+!
+! Green
+*.color2:      #9ed25f
+*.color10:     #aad772
+!
+! Yellow
+*.color3:      #e5c45b
+*.color11:     #e8cb6f
+!
+! Blue
+*.color4:      #86b9d8
+*.color12:     #95c1dd
+!
+! Magenta
+*.color5:      #c28bb9
+*.color13:     #c999c1
+!
+! Cyan
+*.color6:      #7cc4bc
+*.color14:     #8ccbc4
+!
+! White
+*.color7:      #f7e8d8
+*.color15:     #f8ebdd
+!
+! Bold, Italic, Underline
+*.colorBD:     #e8cb6f
+!*.colorIT:
+!*.colorUL:

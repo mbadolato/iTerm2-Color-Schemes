@@ -1,0 +1,41 @@
+(
+    name: "Poison Apple",
+    foreground: "#f7e8d8",
+    background: "#560b13",
+    cursor: "#f19088",
+    bright_foreground: "#f7e8d8",
+    dim_foreground: "#c4b2b4",
+
+    normal: (
+        black: "#bca8aa",
+        red: "#ef8178",
+        green: "#9ed25f",
+        yellow: "#e5c45b",
+        blue: "#86b9d8",
+        magenta: "#c28bb9",
+        cyan: "#7cc4bc",
+        white: "#f7e8d8"
+    ),
+
+    bright: (
+        black: "#c4b2b4",
+        red: "#f19088",
+        green: "#aad772",
+        yellow: "#e8cb6f",
+        blue: "#95c1dd",
+        magenta: "#c999c1",
+        cyan: "#8ccbc4",
+        white: "#f8ebdd"
+    ),
+
+    dim: (
+        black: "#bca8aa",
+        red: "#ef8178",
+        green: "#9ed25f",
+        yellow: "#e5c45b",
+        blue: "#86b9d8",
+        magenta: "#c28bb9",
+        cyan: "#7cc4bc",
+        white: "#f7e8d8"
+    ),
+)

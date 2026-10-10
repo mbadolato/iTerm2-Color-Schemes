@@ -1,0 +1,33 @@
+# Colors (Hocus Pocus)
+
+[colors.bright]
+black = '#c9bad0'
+blue = '#9cc8eb'
+cyan = '#8bd8d7'
+green = '#a7db85'
+magenta = '#d795e7'
+red = '#f3999a'
+white = '#f7efff'
+yellow = '#eccd6b'
+
+[colors.cursor]
+cursor = '#f3999a'
+text = '#431455'
+
+[colors.normal]
+black = '#c2b1ca'
+blue = '#8fc1e8'
+cyan = '#7bd3d1'
+green = '#9bd674'
+magenta = '#d187e4'
+red = '#f18b8c'
+white = '#f6edff'
+yellow = '#e9c657'
+
+[colors.primary]
+background = '#431455'
+foreground = '#f6edff'
+
+[colors.selection]
+background = '#c9bad0'
+text = '#918999'

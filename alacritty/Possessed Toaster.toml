@@ -1,0 +1,33 @@
+# Colors (Possessed Toaster)
+
+[colors.bright]
+black = '#c2c3bd'
+blue = '#60b5ff'
+cyan = '#4ee6d3'
+green = '#9edb6f'
+magenta = '#c084fc'
+red = '#ff5a3c'
+white = '#fff5d7'
+yellow = '#f4ca4d'
+
+[colors.cursor]
+cursor = '#f4ca4d'
+text = '#0e0f0d'
+
+[colors.normal]
+black = '#a9aaa3'
+blue = '#3d9aff'
+cyan = '#2dd4bf'
+green = '#6aa84f'
+magenta = '#a855f7'
+red = '#e0503b'
+white = '#e8dcc0'
+yellow = '#e0a62e'
+
+[colors.primary]
+background = '#0e0f0d'
+foreground = '#e8dcc0'
+
+[colors.selection]
+background = '#3a3f3a'
+text = '#fff5da'

@@ -1,0 +1,43 @@
+!
+! Pumpkin Patch
+!
+*.foreground:  #f5efd1
+*.background:  #243416
+*.cursorColor: #f2a481
+!
+! Black
+*.color0:      #c3c8af
+*.color8:      #cacfb9
+!
+! Red
+*.color1:      #f09870
+*.color9:      #f2a481
+!
+! Green
+*.color2:      #95ce77
+*.color10:     #a2d487
+!
+! Yellow
+*.color3:      #e8c95a
+*.color11:     #ebcf6e
+!
+! Blue
+*.color4:      #87bfcf
+*.color12:     #95c7d5
+!
+! Magenta
+*.color5:      #c79ab7
+*.color13:     #cea6c0
+!
+! Cyan
+*.color6:      #79c9bb
+*.color14:     #89cfc3
+!
+! White
+*.color7:      #f5efd1
+*.color15:     #f6f1d7
+!
+! Bold, Italic, Underline
+*.colorBD:     #ebcf6e
+!*.colorIT:
+!*.colorUL:

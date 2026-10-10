@@ -1,0 +1,12 @@
+# Monster Mash
+[colors]
+foreground = "#f0f5d8"
+background = "#173b0d"
+cursor_bg = "#f2a289"
+cursor_border = "#f2a289"
+cursor_fg = "#173b0d"
+selection_bg = "#c1cfb8"
+selection_fg = "#8c9077"
+
+ansi = ["#b8c9ae","#f09579","#9ee566","#e7cf52","#86c5e8","#bd91e8","#72d8cc","#f0f5d8"]
+brights = ["#c1cfb8","#f2a289","#aae878","#ead567","#95cceb","#c59eeb","#83ddd2","#f2f6dd"]

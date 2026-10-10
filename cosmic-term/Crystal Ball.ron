@@ -1,0 +1,41 @@
+(
+    name: "Crystal Ball",
+    foreground: "#f2edff",
+    background: "#2b1050",
+    cursor: "#f19aaf",
+    bright_foreground: "#f2edff",
+    dim_foreground: "#c0b6cf",
+
+    normal: (
+        black: "#b7acc9",
+        red: "#ef8ca4",
+        green: "#9ed08c",
+        yellow: "#dfc86b",
+        blue: "#82c8ef",
+        magenta: "#c18df0",
+        cyan: "#77d7de",
+        white: "#f2edff"
+    ),
+
+    bright: (
+        black: "#c0b6cf",
+        red: "#f19aaf",
+        green: "#aad69a",
+        yellow: "#e3cf7d",
+        blue: "#91cff1",
+        magenta: "#c89bf2",
+        cyan: "#87dce2",
+        white: "#f4efff"
+    ),
+
+    dim: (
+        black: "#b7acc9",
+        red: "#ef8ca4",
+        green: "#9ed08c",
+        yellow: "#dfc86b",
+        blue: "#82c8ef",
+        magenta: "#c18df0",
+        cyan: "#77d7de",
+        white: "#f2edff"
+    ),
+)

@@ -1,0 +1,43 @@
+!
+! Pumpkin Spice
+!
+*.foreground:  #fff0d8
+*.background:  #9a3d08
+*.cursorColor: #dbd1ce
+!
+! Black
+*.color0:      #d6d3d1
+*.color8:      #d7d3d1
+!
+! Red
+*.color1:      #dbd1ce
+*.color9:      #f5e2dc
+!
+! Green
+*.color2:      #d1d7cf
+*.color10:     #d1d7d0
+!
+! Yellow
+*.color3:      #d9d4c8
+*.color11:     #f6e5c8
+!
+! Blue
+*.color4:      #ced5d9
+*.color12:     #ced6d9
+!
+! Magenta
+*.color5:      #dad3db
+*.color13:     #d9d1d9
+!
+! Cyan
+*.color6:      #cbd5d7
+*.color14:     #cbd6d7
+!
+! White
+*.color7:      #fff0d8
+*.color15:     #fff2dd
+!
+! Bold, Italic, Underline
+*.colorBD:     #d9d4c8
+!*.colorIT:
+!*.colorUL:

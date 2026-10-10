@@ -1,0 +1,12 @@
+# Salem
+[colors]
+foreground = "#e6dcc1"
+background = "#0f2a33"
+cursor_bg = "#f4e2a6"
+cursor_border = "#f4e2a6"
+cursor_fg = "#0f2a33"
+selection_bg = "#29434e"
+selection_fg = "#fff4da"
+
+ansi = ["#9daeb3","#e36b61","#94c17f","#e6bc62","#78a9f0","#b477cf","#69c9c7","#e6dcc1"]
+brights = ["#b6c5c9","#f06d5f","#a9d18c","#f4d58b","#94b9f4","#c98de0","#8bd9d7","#fff4da"]

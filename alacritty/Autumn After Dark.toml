@@ -1,0 +1,33 @@
+# Colors (Autumn After Dark)
+
+[colors.bright]
+black = '#cfbfb1'
+blue = '#92c1d6'
+cyan = '#88cbc1'
+green = '#a6cb8c'
+magenta = '#cea1b9'
+red = '#f39c79'
+white = '#f9ecd5'
+yellow = '#ecc769'
+
+[colors.cursor]
+cursor = '#f39c79'
+text = '#57210d'
+
+[colors.normal]
+black = '#c8b6a6'
+blue = '#83b8d0'
+cyan = '#78c4b8'
+green = '#9ac47c'
+magenta = '#c794af'
+red = '#f18f67'
+white = '#f8e9cf'
+yellow = '#e9bf55'
+
+[colors.primary]
+background = '#57210d'
+foreground = '#f8e9cf'
+
+[colors.selection]
+background = '#cfbfb1'
+text = '#93866f'

@@ -1,0 +1,43 @@
+!
+! Belfry
+!
+*.foreground:  #fff0dc
+*.background:  #4a0c18
+*.cursorColor: #ef4858
+!
+! Black
+*.color0:      #bcaeb0
+*.color8:      #d0c3c5
+!
+! Red
+*.color1:      #f1817b
+*.color9:      #f59c96
+!
+! Green
+*.color2:      #9dcc91
+*.color10:     #b2d8a7
+!
+! Yellow
+*.color3:      #e7c56d
+*.color11:     #efd58b
+!
+! Blue
+*.color4:      #91bfe0
+*.color12:     #accfe8
+!
+! Magenta
+*.color5:      #d29ac0
+*.color13:     #dfb3cf
+!
+! Cyan
+*.color6:      #82cbc7
+*.color14:     #a1d9d5
+!
+! White
+*.color7:      #fff0dc
+*.color15:     #fffaf0
+!
+! Bold, Italic, Underline
+*.colorBD:     #f0c56a
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,17 @@
+[meta]
+name = "Thirteen"
+mode = "dark"
+
+[terminal]
+foreground = "#f4ead8"
+background = "#260607"
+palette = [
+    "#a99b96", "#d97d75", "#91b994", "#c5ad70",
+    "#849fb4", "#aa8da9", "#75b3a8", "#f4ead8",
+    "#beb0aa", "#e29289", "#a6c8a8", "#d2bd86",
+    "#9db5c6", "#bba4b9", "#91c4ba", "#fff8eb",
+]
+cursor = "#d93035"
+cursor-text = "#260607"
+selection-background = "#4b1719"
+selection-foreground = "#fff7e9"

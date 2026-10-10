@@ -1,0 +1,12 @@
+# Black Cat
+[colors]
+foreground = "#f5edff"
+background = "#180a2b"
+cursor_bg = "#ff979f"
+cursor_border = "#ff979f"
+cursor_fg = "#180a2b"
+selection_bg = "#b3abbf"
+selection_fg = "#f6efff"
+
+ansi = ["#a9a0b6","#ff8992","#9fda65","#edc85e","#8bbdf0","#c78bf0","#76d2d1","#f5edff"]
+brights = ["#b3abbf","#ff979f","#abde77","#efcf71","#99c5f2","#ce99f2","#86d7d7","#f6efff"]

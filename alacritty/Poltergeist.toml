@@ -1,0 +1,33 @@
+# Colors (Poltergeist)
+
+[colors.bright]
+black = '#c8d7d7'
+blue = '#9cd9ef'
+cyan = '#87e5e3'
+green = '#9ae4b9'
+magenta = '#ccb2eb'
+red = '#ffa89e'
+white = '#f2ffff'
+yellow = '#ecd67e'
+
+[colors.cursor]
+cursor = '#ffa89e'
+text = '#06444b'
+
+[colors.normal]
+black = '#c0d1d2'
+blue = '#8ed4ed'
+cyan = '#77e1df'
+green = '#8ce0b0'
+magenta = '#c5a7e8'
+red = '#ff9c91'
+white = '#f0ffff'
+yellow = '#e9d06c'
+
+[colors.primary]
+background = '#06444b'
+foreground = '#f0ffff'
+
+[colors.selection]
+background = '#c8d7d7'
+text = '#8c9999'

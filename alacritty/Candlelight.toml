@@ -1,0 +1,33 @@
+# Colors (Candlelight)
+
+[colors.bright]
+black = '#cfc1aa'
+blue = '#92b8c5'
+cyan = '#89c1b8'
+green = '#a6be8c'
+magenta = '#c49eaf'
+red = '#eba374'
+white = '#f9eacb'
+yellow = '#e3c368'
+
+[colors.cursor]
+cursor = '#eba374'
+text = '#432708'
+
+[colors.normal]
+black = '#c8b99e'
+blue = '#83aebd'
+cyan = '#79b8ae'
+green = '#9ab57c'
+magenta = '#bc91a4'
+red = '#e89661'
+white = '#f8e7c4'
+yellow = '#dfbb53'
+
+[colors.primary]
+background = '#432708'
+foreground = '#f8e7c4'
+
+[colors.selection]
+background = '#cfc1aa'
+text = '#a09172'

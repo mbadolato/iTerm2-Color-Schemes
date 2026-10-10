@@ -1,0 +1,33 @@
+# Colors (Thirteen)
+
+[colors.bright]
+black = '#beb0aa'
+blue = '#9db5c6'
+cyan = '#91c4ba'
+green = '#a6c8a8'
+magenta = '#bba4b9'
+red = '#e29289'
+white = '#fff8eb'
+yellow = '#d2bd86'
+
+[colors.cursor]
+cursor = '#d93035'
+text = '#260607'
+
+[colors.normal]
+black = '#a99b96'
+blue = '#849fb4'
+cyan = '#75b3a8'
+green = '#91b994'
+magenta = '#aa8da9'
+red = '#d97d75'
+white = '#f4ead8'
+yellow = '#c5ad70'
+
+[colors.primary]
+background = '#260607'
+foreground = '#f4ead8'
+
+[colors.selection]
+background = '#4b1719'
+text = '#fff7e9'

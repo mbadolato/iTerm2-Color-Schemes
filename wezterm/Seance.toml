@@ -1,0 +1,12 @@
+# Seance
+[colors]
+foreground = "#f9eddf"
+background = "#3b2035"
+cursor_bg = "#f1c76d"
+cursor_border = "#f1c76d"
+cursor_fg = "#3b2035"
+selection_bg = "#5b3b52"
+selection_fg = "#fff8ed"
+
+ansi = ["#bdb1b8","#e99b8e","#a8cf8f","#e5c779","#9fc2dc","#d5a6c8","#8fcfc8","#f9eddf"]
+brights = ["#d0c5ca","#efb0a5","#bbdba5","#edd796","#b8d1e5","#e0bfd5","#addbd5","#fffaf2"]

@@ -1,0 +1,43 @@
+!
+! Witches' Brew
+!
+*.foreground:  #efffdc
+*.background:  #073b25
+*.cursorColor: #9cf04d
+!
+! Black
+*.color0:      #aec2b4
+*.color8:      #c3d2c8
+!
+! Red
+*.color1:      #f19a72
+*.color9:      #f6ae8c
+!
+! Green
+*.color2:      #9be86b
+*.color10:     #b3ef88
+!
+! Yellow
+*.color3:      #f0cc58
+*.color11:     #f6dc7b
+!
+! Blue
+*.color4:      #86c8e3
+*.color12:     #a4d7eb
+!
+! Magenta
+*.color5:      #d99ed4
+*.color13:     #e5b7df
+!
+! Cyan
+*.color6:      #7ad9ce
+*.color14:     #9ae5dc
+!
+! White
+*.color7:      #efffdc
+*.color15:     #fbfff3
+!
+! Bold, Italic, Underline
+*.colorBD:     #a9f05f
+!*.colorIT:
+!*.colorUL:

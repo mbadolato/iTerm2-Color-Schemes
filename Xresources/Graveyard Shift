@@ -1,0 +1,43 @@
+!
+! Graveyard Shift
+!
+*.foreground:  #eef2e8
+*.background:  #2e4240
+*.cursorColor: #efa795
+!
+! Black
+*.color0:      #c0cbc5
+*.color8:      #c8d1cc
+!
+! Red
+*.color1:      #ed9b86
+*.color9:      #efa795
+!
+! Green
+*.color2:      #9fc79a
+*.color10:     #abcea6
+!
+! Yellow
+*.color3:      #dfc977
+*.color11:     #e3cf87
+!
+! Blue
+*.color4:      #91bcc8
+*.color12:     #9ec4cf
+!
+! Magenta
+*.color5:      #b6a5c0
+*.color13:     #bfb0c8
+!
+! Cyan
+*.color6:      #87c7c2
+*.color14:     #95cec9
+!
+! White
+*.color7:      #eef2e8
+*.color15:     #f0f4eb
+!
+! Bold, Italic, Underline
+*.colorBD:     #e3cf87
+!*.colorIT:
+!*.colorUL:

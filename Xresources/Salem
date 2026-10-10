@@ -1,0 +1,43 @@
+!
+! Salem
+!
+*.foreground:  #e6dcc1
+*.background:  #0f2a33
+*.cursorColor: #f4e2a6
+!
+! Black
+*.color0:      #9daeb3
+*.color8:      #b6c5c9
+!
+! Red
+*.color1:      #e36b61
+*.color9:      #f06d5f
+!
+! Green
+*.color2:      #94c17f
+*.color10:     #a9d18c
+!
+! Yellow
+*.color3:      #e6bc62
+*.color11:     #f4d58b
+!
+! Blue
+*.color4:      #78a9f0
+*.color12:     #94b9f4
+!
+! Magenta
+*.color5:      #b477cf
+*.color13:     #c98de0
+!
+! Cyan
+*.color6:      #69c9c7
+*.color14:     #8bd9d7
+!
+! White
+*.color7:      #e6dcc1
+*.color15:     #fff4da
+!
+! Bold, Italic, Underline
+*.colorBD:     #f4e2a6
+!*.colorIT:
+!*.colorUL:

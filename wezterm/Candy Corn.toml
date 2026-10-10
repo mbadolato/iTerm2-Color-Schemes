@@ -1,0 +1,12 @@
+# Candy Corn
+[colors]
+foreground = "#51463b"
+background = "#fff0d2"
+cursor_bg = "#24150e"
+cursor_border = "#24150e"
+cursor_fg = "#fff0d2"
+selection_bg = "#f6c89b"
+selection_fg = "#24150e"
+
+ansi = ["#322b24","#9b2f12","#46612d","#785711","#36516b","#69416e","#28656a","#51463b"]
+brights = ["#29231e","#7f270f","#395025","#62470e","#2c4258","#56355a","#215357","#423930"]

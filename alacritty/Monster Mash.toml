@@ -1,0 +1,33 @@
+# Colors (Monster Mash)
+
+[colors.bright]
+black = '#c1cfb8'
+blue = '#95cceb'
+cyan = '#83ddd2'
+green = '#aae878'
+magenta = '#c59eeb'
+red = '#f2a289'
+white = '#f2f6dd'
+yellow = '#ead567'
+
+[colors.cursor]
+cursor = '#f2a289'
+text = '#173b0d'
+
+[colors.normal]
+black = '#b8c9ae'
+blue = '#86c5e8'
+cyan = '#72d8cc'
+green = '#9ee566'
+magenta = '#bd91e8'
+red = '#f09579'
+white = '#f0f5d8'
+yellow = '#e7cf52'
+
+[colors.primary]
+background = '#173b0d'
+foreground = '#f0f5d8'
+
+[colors.selection]
+background = '#c1cfb8'
+text = '#8c9077'

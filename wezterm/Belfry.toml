@@ -1,0 +1,12 @@
+# Belfry
+[colors]
+foreground = "#fff0dc"
+background = "#4a0c18"
+cursor_bg = "#ef4858"
+cursor_border = "#ef4858"
+cursor_fg = "#4a0c18"
+selection_bg = "#702331"
+selection_fg = "#fff8eb"
+
+ansi = ["#bcaeb0","#f1817b","#9dcc91","#e7c56d","#91bfe0","#d29ac0","#82cbc7","#fff0dc"]
+brights = ["#d0c3c5","#f59c96","#b2d8a7","#efd58b","#accfe8","#dfb3cf","#a1d9d5","#fffaf0"]

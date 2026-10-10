@@ -1,0 +1,17 @@
+[meta]
+name = "Great Pumpkin"
+mode = "light"
+
+[terminal]
+foreground = "#34251c"
+background = "#f98128"
+palette = [
+    "#24150e", "#62190d", "#29391a", "#443106",
+    "#16374b", "#51234c", "#103a40", "#34251c",
+    "#1e110b", "#58160b", "#283719", "#483406",
+    "#143142", "#421d3e", "#113d44", "#2b1e17",
+]
+cursor = "#24150e"
+cursor-text = "#f98128"
+selection-background = "#f6c89b"
+selection-foreground = "#24150e"

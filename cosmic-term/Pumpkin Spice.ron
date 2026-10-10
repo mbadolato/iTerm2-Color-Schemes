@@ -1,0 +1,41 @@
+(
+    name: "Pumpkin Spice",
+    foreground: "#fff0d8",
+    background: "#9a3d08",
+    cursor: "#dbd1ce",
+    bright_foreground: "#fff0d8",
+    dim_foreground: "#d7d3d1",
+
+    normal: (
+        black: "#d6d3d1",
+        red: "#dbd1ce",
+        green: "#d1d7cf",
+        yellow: "#d9d4c8",
+        blue: "#ced5d9",
+        magenta: "#dad3db",
+        cyan: "#cbd5d7",
+        white: "#fff0d8"
+    ),
+
+    bright: (
+        black: "#d7d3d1",
+        red: "#f5e2dc",
+        green: "#d1d7d0",
+        yellow: "#f6e5c8",
+        blue: "#ced6d9",
+        magenta: "#d9d1d9",
+        cyan: "#cbd6d7",
+        white: "#fff2dd"
+    ),
+
+    dim: (
+        black: "#d6d3d1",
+        red: "#dbd1ce",
+        green: "#d1d7cf",
+        yellow: "#d9d4c8",
+        blue: "#ced5d9",
+        magenta: "#dad3db",
+        cyan: "#cbd5d7",
+        white: "#fff0d8"
+    ),
+)

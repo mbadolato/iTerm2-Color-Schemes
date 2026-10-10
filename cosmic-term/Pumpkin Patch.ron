@@ -1,0 +1,41 @@
+(
+    name: "Pumpkin Patch",
+    foreground: "#f5efd1",
+    background: "#243416",
+    cursor: "#f2a481",
+    bright_foreground: "#f5efd1",
+    dim_foreground: "#cacfb9",
+
+    normal: (
+        black: "#c3c8af",
+        red: "#f09870",
+        green: "#95ce77",
+        yellow: "#e8c95a",
+        blue: "#87bfcf",
+        magenta: "#c79ab7",
+        cyan: "#79c9bb",
+        white: "#f5efd1"
+    ),
+
+    bright: (
+        black: "#cacfb9",
+        red: "#f2a481",
+        green: "#a2d487",
+        yellow: "#ebcf6e",
+        blue: "#95c7d5",
+        magenta: "#cea6c0",
+        cyan: "#89cfc3",
+        white: "#f6f1d7"
+    ),
+
+    dim: (
+        black: "#c3c8af",
+        red: "#f09870",
+        green: "#95ce77",
+        yellow: "#e8c95a",
+        blue: "#87bfcf",
+        magenta: "#c79ab7",
+        cyan: "#79c9bb",
+        white: "#f5efd1"
+    ),
+)

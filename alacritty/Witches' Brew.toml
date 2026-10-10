@@ -1,0 +1,33 @@
+# Colors (Witches' Brew)
+
+[colors.bright]
+black = '#c3d2c8'
+blue = '#a4d7eb'
+cyan = '#9ae5dc'
+green = '#b3ef88'
+magenta = '#e5b7df'
+red = '#f6ae8c'
+white = '#fbfff3'
+yellow = '#f6dc7b'
+
+[colors.cursor]
+cursor = '#9cf04d'
+text = '#073b25'
+
+[colors.normal]
+black = '#aec2b4'
+blue = '#86c8e3'
+cyan = '#7ad9ce'
+green = '#9be86b'
+magenta = '#d99ed4'
+red = '#f19a72'
+white = '#efffdc'
+yellow = '#f0cc58'
+
+[colors.primary]
+background = '#073b25'
+foreground = '#efffdc'
+
+[colors.selection]
+background = '#245c42'
+text = '#fbfff3'

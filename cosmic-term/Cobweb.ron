@@ -1,0 +1,41 @@
+(
+    name: "Cobweb",
+    foreground: "#eef1f3",
+    background: "#20272d",
+    cursor: "#e7ebee",
+    bright_foreground: "#eef1f3",
+    dim_foreground: "#c3c9cd",
+
+    normal: (
+        black: "#aeb5ba",
+        red: "#ed8e88",
+        green: "#9bc6a3",
+        yellow: "#dec575",
+        blue: "#92bad5",
+        magenta: "#bba4c9",
+        cyan: "#88c8c8",
+        white: "#eef1f3"
+    ),
+
+    bright: (
+        black: "#c3c9cd",
+        red: "#f0a7a1",
+        green: "#afd3b6",
+        yellow: "#e8d493",
+        blue: "#abcde0",
+        magenta: "#cab8d4",
+        cyan: "#a4d6d6",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#aeb5ba",
+        red: "#ed8e88",
+        green: "#9bc6a3",
+        yellow: "#dec575",
+        blue: "#92bad5",
+        magenta: "#bba4c9",
+        cyan: "#88c8c8",
+        white: "#eef1f3"
+    ),
+)

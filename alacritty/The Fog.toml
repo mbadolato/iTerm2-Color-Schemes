@@ -1,0 +1,33 @@
+# Colors (The Fog)
+
+[colors.bright]
+black = '#c8d4d7'
+blue = '#a0cadb'
+cyan = '#95d4d6'
+green = '#a7cfb7'
+magenta = '#bfb2ce'
+red = '#f0a999'
+white = '#f0f5f4'
+yellow = '#e2cf88'
+
+[colors.cursor]
+cursor = '#f0a999'
+text = '#294552'
+
+[colors.normal]
+black = '#c0ced2'
+blue = '#93c3d6'
+cyan = '#87ced0'
+green = '#9bc8ad'
+magenta = '#baadca'
+red = '#ee9d8b'
+white = '#eef4f3'
+yellow = '#dec978'
+
+[colors.primary]
+background = '#294552'
+foreground = '#eef4f3'
+
+[colors.selection]
+background = '#c8d4d7'
+text = '#979c9b'

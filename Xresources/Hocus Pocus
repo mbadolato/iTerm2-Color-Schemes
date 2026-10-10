@@ -1,0 +1,43 @@
+!
+! Hocus Pocus
+!
+*.foreground:  #f6edff
+*.background:  #431455
+*.cursorColor: #f3999a
+!
+! Black
+*.color0:      #c2b1ca
+*.color8:      #c9bad0
+!
+! Red
+*.color1:      #f18b8c
+*.color9:      #f3999a
+!
+! Green
+*.color2:      #9bd674
+*.color10:     #a7db85
+!
+! Yellow
+*.color3:      #e9c657
+*.color11:     #eccd6b
+!
+! Blue
+*.color4:      #8fc1e8
+*.color12:     #9cc8eb
+!
+! Magenta
+*.color5:      #d187e4
+*.color13:     #d795e7
+!
+! Cyan
+*.color6:      #7bd3d1
+*.color14:     #8bd8d7
+!
+! White
+*.color7:      #f6edff
+*.color15:     #f7efff
+!
+! Bold, Italic, Underline
+*.colorBD:     #eccd6b
+!*.colorIT:
+!*.colorUL:

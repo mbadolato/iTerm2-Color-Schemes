@@ -16,6 +16,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/12-bit-rainbow.png)
 
+### 13th Floor
+
+![Screenshot](/screenshots/13th-floor.png)
+
 ### 3024 Night
 
 ![Screenshot](/screenshots/3024-night.png)
@@ -27,6 +31,10 @@ The screenshots are categorized.
 ### Aardvark Ink
 
 ![Screenshot](/screenshots/aardvark-ink.png)
+
+### Abandoned
+
+![Screenshot](/screenshots/abandoned.png)
 
 ### Abernathy
 
@@ -140,6 +148,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/aurora.png)
 
+### Autumn After Dark
+
+![Screenshot](/screenshots/autumn-after-dark.png)
+
 ### Ayu Mirage
 
 ![Screenshot](/screenshots/ayu-mirage.png)
@@ -172,6 +184,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/belafonte-night.png)
 
+### Belfry
+
+![Screenshot](/screenshots/belfry.png)
+
 ### Birds Of Paradise
 
 ![Screenshot](/screenshots/birds-of-paradise.png)
@@ -179,6 +195,10 @@ The screenshots are categorized.
 ### Black Box Recorder
 
 ![Screenshot](/screenshots/black-box-recorder.png)
+
+### Black Cat
+
+![Screenshot](/screenshots/black-cat.png)
 
 ### Black Metal (Bathory)
 
@@ -227,6 +247,10 @@ The screenshots are categorized.
 ### Blazer
 
 ![Screenshot](/screenshots/blazer.png)
+
+### Blood Moon
+
+![Screenshot](/screenshots/blood-moon.png)
 
 ### Blue Berry Pie
 
@@ -295,6 +319,10 @@ The screenshots are categorized.
 ### Caliche
 
 ![Screenshot](/screenshots/caliche.png)
+
+### Candlelight
+
+![Screenshot](/screenshots/candlelight.png)
 
 ### Canyon Shadow
 
@@ -392,6 +420,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/cobalt2.png)
 
+### Cobweb
+
+![Screenshot](/screenshots/cobweb.png)
+
 ### Cool Night
 
 ![Screenshot](/screenshots/cool-night.png)
@@ -399,6 +431,10 @@ The screenshots are categorized.
 ### Copper Canyon
 
 ![Screenshot](/screenshots/copper-canyon.png)
+
+### Count Terminal
+
+![Screenshot](/screenshots/count-terminal.png)
 
 ### Crayon Pony Fish
 
@@ -411,6 +447,18 @@ The screenshots are categorized.
 ### CRT Amber
 
 ![Screenshot](/screenshots/crt-amber.png)
+
+### Crypt Keeper
+
+![Screenshot](/screenshots/crypt-keeper.png)
+
+### Crystal Ball
+
+![Screenshot](/screenshots/crystal-ball.png)
+
+### Cursed VHS
+
+![Screenshot](/screenshots/cursed-vhs.png)
 
 ### Cursor Dark
 
@@ -579,6 +627,10 @@ The screenshots are categorized.
 ### Eclipse
 
 ![Screenshot](/screenshots/eclipse.png)
+
+### Ectoplasm
+
+![Screenshot](/screenshots/ectoplasm.png)
 
 ### Electron Highlighter
 
@@ -796,6 +848,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/grass.png)
 
+### Graveyard Shift
+
+![Screenshot](/screenshots/graveyard-shift.png)
+
 ### Green Phosphor CRT
 
 ![Screenshot](/screenshots/green-phosphor-crt.png)
@@ -848,6 +904,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/harper.png)
 
+### Harvest Moon
+
+![Screenshot](/screenshots/harvest-moon.png)
+
+### Haunted House
+
+![Screenshot](/screenshots/haunted-house.png)
+
 ### Havn Skumring
 
 ![Screenshot](/screenshots/havn-skumring.png)
@@ -868,6 +932,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/heeler.png)
 
+### Hellfire
+
+![Screenshot](/screenshots/hellfire.png)
+
 ### Highway
 
 ![Screenshot](/screenshots/highway.png)
@@ -879,6 +947,10 @@ The screenshots are categorized.
 ### Hivacruz
 
 ![Screenshot](/screenshots/hivacruz.png)
+
+### Hocus Pocus
+
+![Screenshot](/screenshots/hocus-pocus.png)
 
 ### Homebrew
 
@@ -979,6 +1051,10 @@ The screenshots are categorized.
 ### iTerm2 Tango Dark
 
 ![Screenshot](/screenshots/iterm2-tango-dark.png)
+
+### Jack O' Lantern
+
+![Screenshot](/screenshots/jack-o-lantern.png)
 
 ### Jackie Brown
 
@@ -1296,6 +1372,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/monsoon-mesa.png)
 
+### Monster Mash
+
+![Screenshot](/screenshots/monster-mash.png)
+
 ### Moonfly
 
 ![Screenshot](/screenshots/moonfly.png)
@@ -1572,6 +1652,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/pierre-dark.png)
 
+### Pissed Off Pancakes
+
+![Screenshot](/screenshots/pissed-off-pancakes.png)
+
 ### Pnevma
 
 ![Screenshot](/screenshots/pnevma.png)
@@ -1588,9 +1672,21 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/poimandres.png)
 
+### Poison Apple
+
+![Screenshot](/screenshots/poison-apple.png)
+
+### Poltergeist
+
+![Screenshot](/screenshots/poltergeist.png)
+
 ### Popping And Locking
 
 ![Screenshot](/screenshots/popping-and-locking.png)
+
+### Possessed Toaster
+
+![Screenshot](/screenshots/possessed-toaster.png)
 
 ### Powershell
 
@@ -1615,6 +1711,14 @@ The screenshots are categorized.
 ### Pueblo Night
 
 ![Screenshot](/screenshots/pueblo-night.png)
+
+### Pumpkin Patch
+
+![Screenshot](/screenshots/pumpkin-patch.png)
+
+### Pumpkin Spice
+
+![Screenshot](/screenshots/pumpkin-spice.png)
 
 ### Purple Portal
 
@@ -1720,6 +1824,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/sakura.png)
 
+### Salem
+
+![Screenshot](/screenshots/salem.png)
+
 ### Scarlet Protocol
 
 ![Screenshot](/screenshots/scarlet-protocol.png)
@@ -1731,6 +1839,10 @@ The screenshots are categorized.
 ### Seafoam Pastel
 
 ![Screenshot](/screenshots/seafoam-pastel.png)
+
+### Seance
+
+![Screenshot](/screenshots/seance.png)
 
 ### Sedona
 
@@ -2000,9 +2112,17 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/thayer-bright.png)
 
+### The Fog
+
+![Screenshot](/screenshots/the-fog.png)
+
 ### The Hulk
 
 ![Screenshot](/screenshots/the-hulk.png)
+
+### Thirteen
+
+![Screenshot](/screenshots/thirteen.png)
 
 ### Tinacious Design Dark
 
@@ -2064,6 +2184,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/treehouse.png)
 
+### Trick or Treat
+
+![Screenshot](/screenshots/trick-or-treat.png)
+
 ### Turquoise Trail
 
 ![Screenshot](/screenshots/turquoise-trail.png)
@@ -2083,6 +2207,10 @@ The screenshots are categorized.
 ### Ultra Violent
 
 ![Screenshot](/screenshots/ultra-violent.png)
+
+### Undead
+
+![Screenshot](/screenshots/undead.png)
 
 ### Under The Sea
 
@@ -2163,6 +2291,14 @@ The screenshots are categorized.
 ### Wilmersdorf
 
 ![Screenshot](/screenshots/wilmersdorf.png)
+
+### Witches' Brew
+
+![Screenshot](/screenshots/witches-brew.png)
+
+### Witching Hour
+
+![Screenshot](/screenshots/witching-hour.png)
 
 ### Wombat
 
@@ -2286,6 +2422,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/bluloco-light.png)
 
+### Bone Yard
+
+![Screenshot](/screenshots/bone-yard.png)
+
 ### Breadog
 
 ![Screenshot](/screenshots/breadog.png)
@@ -2301,6 +2441,10 @@ The screenshots are categorized.
 ### Cactus Bloom
 
 ![Screenshot](/screenshots/cactus-bloom.png)
+
+### Candy Corn
+
+![Screenshot](/screenshots/candy-corn.png)
 
 ### Carbon Paper
 
@@ -2429,6 +2573,10 @@ The screenshots are categorized.
 ### Golden Retriever Red
 
 ![Screenshot](/screenshots/golden-retriever-red.png)
+
+### Great Pumpkin
+
+![Screenshot](/screenshots/great-pumpkin.png)
 
 ### Grok Day
 

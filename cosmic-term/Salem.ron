@@ -1,0 +1,41 @@
+(
+    name: "Salem",
+    foreground: "#e6dcc1",
+    background: "#0f2a33",
+    cursor: "#f4e2a6",
+    bright_foreground: "#e6dcc1",
+    dim_foreground: "#b6c5c9",
+
+    normal: (
+        black: "#9daeb3",
+        red: "#e36b61",
+        green: "#94c17f",
+        yellow: "#e6bc62",
+        blue: "#78a9f0",
+        magenta: "#b477cf",
+        cyan: "#69c9c7",
+        white: "#e6dcc1"
+    ),
+
+    bright: (
+        black: "#b6c5c9",
+        red: "#f06d5f",
+        green: "#a9d18c",
+        yellow: "#f4d58b",
+        blue: "#94b9f4",
+        magenta: "#c98de0",
+        cyan: "#8bd9d7",
+        white: "#fff4da"
+    ),
+
+    dim: (
+        black: "#9daeb3",
+        red: "#e36b61",
+        green: "#94c17f",
+        yellow: "#e6bc62",
+        blue: "#78a9f0",
+        magenta: "#b477cf",
+        cyan: "#69c9c7",
+        white: "#e6dcc1"
+    ),
+)

@@ -1,33 +1,33 @@
 # Colors (EVH FrankenTone)
 
 [colors.bright]
-black = '#474747'
-blue = '#66b3ff'
-cyan = '#22d3ee'
-green = '#b8e986'
-magenta = '#ff8fb1'
-red = '#ff5555'
-white = '#f7f7f7'
-yellow = '#ffe066'
+black = '#c9b8b1'
+blue = '#c5ddf3'
+cyan = '#c4e9e8'
+green = '#f2e4a0'
+magenta = '#f0d8de'
+red = '#ffd0bf'
+white = '#ffffff'
+yellow = '#ffe27d'
 
 [colors.cursor]
-cursor = '#ffd400'
-text = '#2b82ff'
+cursor = '#f5cc48'
+text = '#171313'
 
 [colors.normal]
-black = '#151515'
-blue = '#2b82ff'
-cyan = '#20bde5'
-green = '#8fbd32'
-magenta = '#ff2d6d'
-red = '#e10600'
-white = '#f4f4f4'
-yellow = '#ffd400'
+black = '#e7d8d0'
+blue = '#a9cbe7'
+cyan = '#a7d7d7'
+green = '#e6d27e'
+magenta = '#d9c3c9'
+red = '#ffb4a5'
+white = '#f7ede5'
+yellow = '#f4d45d'
 
 [colors.primary]
-background = '#0a0a0a'
-foreground = '#e10600'
+background = '#76231f'
+foreground = '#f7ede5'
 
 [colors.selection]
-background = '#ff3b30'
-text = '#a6e22e'
+background = '#201719'
+text = '#ffffff'

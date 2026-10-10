@@ -1,0 +1,33 @@
+# Colors (Pissed Off Pancakes)
+
+[colors.bright]
+black = '#c6c0b5'
+blue = '#73b9ff'
+cyan = '#62e5d9'
+green = '#a4dc79'
+magenta = '#cd8aff'
+red = '#ff6b4d'
+white = '#fff4d2'
+yellow = '#f7d867'
+
+[colors.cursor]
+cursor = '#f4d35e'
+text = '#1a1208'
+
+[colors.normal]
+black = '#aaa59c'
+blue = '#4aa3ff'
+cyan = '#33d6c9'
+green = '#7cb85b'
+magenta = '#b35cff'
+red = '#db533e'
+white = '#f8edd7'
+yellow = '#e4b33f'
+
+[colors.primary]
+background = '#1a1208'
+foreground = '#f8edd7'
+
+[colors.selection]
+background = '#5a3b1a'
+text = '#fff7e8'

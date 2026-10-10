@@ -1,0 +1,41 @@
+(
+    name: "Graveyard Shift",
+    foreground: "#eef2e8",
+    background: "#2e4240",
+    cursor: "#efa795",
+    bright_foreground: "#eef2e8",
+    dim_foreground: "#c8d1cc",
+
+    normal: (
+        black: "#c0cbc5",
+        red: "#ed9b86",
+        green: "#9fc79a",
+        yellow: "#dfc977",
+        blue: "#91bcc8",
+        magenta: "#b6a5c0",
+        cyan: "#87c7c2",
+        white: "#eef2e8"
+    ),
+
+    bright: (
+        black: "#c8d1cc",
+        red: "#efa795",
+        green: "#abcea6",
+        yellow: "#e3cf87",
+        blue: "#9ec4cf",
+        magenta: "#bfb0c8",
+        cyan: "#95cec9",
+        white: "#f0f4eb"
+    ),
+
+    dim: (
+        black: "#c0cbc5",
+        red: "#ed9b86",
+        green: "#9fc79a",
+        yellow: "#dfc977",
+        blue: "#91bcc8",
+        magenta: "#b6a5c0",
+        cyan: "#87c7c2",
+        white: "#eef2e8"
+    ),
+)

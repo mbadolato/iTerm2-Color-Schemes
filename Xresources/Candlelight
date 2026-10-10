@@ -1,0 +1,43 @@
+!
+! Candlelight
+!
+*.foreground:  #f8e7c4
+*.background:  #432708
+*.cursorColor: #eba374
+!
+! Black
+*.color0:      #c8b99e
+*.color8:      #cfc1aa
+!
+! Red
+*.color1:      #e89661
+*.color9:      #eba374
+!
+! Green
+*.color2:      #9ab57c
+*.color10:     #a6be8c
+!
+! Yellow
+*.color3:      #dfbb53
+*.color11:     #e3c368
+!
+! Blue
+*.color4:      #83aebd
+*.color12:     #92b8c5
+!
+! Magenta
+*.color5:      #bc91a4
+*.color13:     #c49eaf
+!
+! Cyan
+*.color6:      #79b8ae
+*.color14:     #89c1b8
+!
+! White
+*.color7:      #f8e7c4
+*.color15:     #f9eacb
+!
+! Bold, Italic, Underline
+*.colorBD:     #e3c368
+!*.colorIT:
+!*.colorUL:

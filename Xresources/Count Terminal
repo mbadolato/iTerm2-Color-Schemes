@@ -1,0 +1,43 @@
+!
+! Count Terminal
+!
+*.foreground:  #f7e6dc
+*.background:  #480814
+*.cursorColor: #f18d96
+!
+! Black
+*.color0:      #bca9ad
+*.color8:      #c4b3b7
+!
+! Red
+*.color1:      #ef7e88
+*.color9:      #f18d96
+!
+! Green
+*.color2:      #99c58e
+*.color10:     #a5cc9c
+!
+! Yellow
+*.color3:      #e1c467
+*.color11:     #e5cb79
+!
+! Blue
+*.color4:      #88b5d7
+*.color12:     #96bedc
+!
+! Magenta
+*.color5:      #c58bb9
+*.color13:     #cc99c1
+!
+! Cyan
+*.color6:      #7bc6bf
+*.color14:     #8bcdc7
+!
+! White
+*.color7:      #f7e6dc
+*.color15:     #f8e9e0
+!
+! Bold, Italic, Underline
+*.colorBD:     #e5cb79
+!*.colorIT:
+!*.colorUL:

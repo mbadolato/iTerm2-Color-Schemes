@@ -1,0 +1,33 @@
+# Colors (Candy Corn)
+
+[colors.bright]
+black = '#29231e'
+blue = '#2c4258'
+cyan = '#215357'
+green = '#395025'
+magenta = '#56355a'
+red = '#7f270f'
+white = '#423930'
+yellow = '#62470e'
+
+[colors.cursor]
+cursor = '#24150e'
+text = '#fff0d2'
+
+[colors.normal]
+black = '#322b24'
+blue = '#36516b'
+cyan = '#28656a'
+green = '#46612d'
+magenta = '#69416e'
+red = '#9b2f12'
+white = '#51463b'
+yellow = '#785711'
+
+[colors.primary]
+background = '#fff0d2'
+foreground = '#51463b'
+
+[colors.selection]
+background = '#f6c89b'
+text = '#24150e'

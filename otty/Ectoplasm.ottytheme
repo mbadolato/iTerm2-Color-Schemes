@@ -1,0 +1,17 @@
+[meta]
+name = "Ectoplasm"
+mode = "dark"
+
+[terminal]
+foreground = "#effffb"
+background = "#06454a"
+palette = [
+    "#c1d0cf", "#f19b8d", "#78e0aa", "#d7dd5e",
+    "#76c9ef", "#afa1e9", "#58e0d6", "#effffb",
+    "#c8d6d5", "#f3a79b", "#88e4b4", "#dce171",
+    "#86cff1", "#b4a7eb", "#6ce4db", "#f1fffb",
+]
+cursor = "#f3a79b"
+cursor-text = "#06454a"
+selection-background = "#c8d6d5"
+selection-foreground = "#8b9995"

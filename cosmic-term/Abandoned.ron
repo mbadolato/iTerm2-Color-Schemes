@@ -1,0 +1,41 @@
+(
+    name: "Abandoned",
+    foreground: "#eee9d7",
+    background: "#433d2d",
+    cursor: "#e9a689",
+    bright_foreground: "#eee9d7",
+    dim_foreground: "#c9c8b8",
+
+    normal: (
+        black: "#c2c0ae",
+        red: "#e69a79",
+        green: "#9db692",
+        yellow: "#d7c06e",
+        blue: "#8eafb8",
+        magenta: "#bda6b4",
+        cyan: "#82bbb4",
+        white: "#eee9d7"
+    ),
+
+    bright: (
+        black: "#c9c8b8",
+        red: "#e9a689",
+        green: "#a9bf9f",
+        yellow: "#dcc87f",
+        blue: "#9cb9c1",
+        magenta: "#bea6b4",
+        cyan: "#91c3bd",
+        white: "#f0ecdc"
+    ),
+
+    dim: (
+        black: "#c2c0ae",
+        red: "#e69a79",
+        green: "#9db692",
+        yellow: "#d7c06e",
+        blue: "#8eafb8",
+        magenta: "#bda6b4",
+        cyan: "#82bbb4",
+        white: "#eee9d7"
+    ),
+)

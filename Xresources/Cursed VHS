@@ -1,0 +1,43 @@
+!
+! Cursed VHS
+!
+*.foreground:  #f4edff
+*.background:  #1c082c
+*.cursorColor: #ff7fa4
+!
+! Black
+*.color0:      #afa3bd
+*.color8:      #b9aec5
+!
+! Red
+*.color1:      #ff6d98
+*.color9:      #ff7fa4
+!
+! Green
+*.color2:      #8ed69e
+*.color10:     #9cdbaa
+!
+! Yellow
+*.color3:      #e5c85f
+*.color11:     #e8cf72
+!
+! Blue
+*.color4:      #62b9f2
+*.color12:     #75c1f4
+!
+! Magenta
+*.color5:      #d16cf0
+*.color13:     #d77ef2
+!
+! Cyan
+*.color6:      #4bd9e1
+*.color14:     #61dee5
+!
+! White
+*.color7:      #f4edff
+*.color15:     #f5efff
+!
+! Bold, Italic, Underline
+*.colorBD:     #e8cf72
+!*.colorIT:
+!*.colorUL:

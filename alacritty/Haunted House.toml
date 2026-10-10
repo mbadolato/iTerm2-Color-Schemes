@@ -1,0 +1,33 @@
+# Colors (Haunted House)
+
+[colors.bright]
+black = '#ccd3d8'
+blue = '#b8d6ec'
+cyan = '#addddd'
+green = '#b3d8ba'
+magenta = '#d0c2e0'
+red = '#f1afa3'
+white = '#ffffff'
+yellow = '#edda99'
+
+[colors.cursor]
+cursor = '#d5e2ee'
+text = '#23394e'
+
+[colors.normal]
+black = '#b9c2c9'
+blue = '#9fc7e5'
+cyan = '#93d0d0'
+green = '#9fcba7'
+magenta = '#c2add8'
+red = '#ed9b8c'
+white = '#f1f4ed'
+yellow = '#e5cb7c'
+
+[colors.primary]
+background = '#23394e'
+foreground = '#f1f4ed'
+
+[colors.selection]
+background = '#40566a'
+text = '#ffffff'

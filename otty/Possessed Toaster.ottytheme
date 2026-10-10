@@ -1,0 +1,17 @@
+[meta]
+name = "Possessed Toaster"
+mode = "dark"
+
+[terminal]
+foreground = "#e8dcc0"
+background = "#0e0f0d"
+palette = [
+    "#a9aaa3", "#e0503b", "#6aa84f", "#e0a62e",
+    "#3d9aff", "#a855f7", "#2dd4bf", "#e8dcc0",
+    "#c2c3bd", "#ff5a3c", "#9edb6f", "#f4ca4d",
+    "#60b5ff", "#c084fc", "#4ee6d3", "#fff5d7",
+]
+cursor = "#f4ca4d"
+cursor-text = "#0e0f0d"
+selection-background = "#3a3f3a"
+selection-foreground = "#fff5da"

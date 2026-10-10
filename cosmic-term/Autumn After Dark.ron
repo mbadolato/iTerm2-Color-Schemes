@@ -1,0 +1,41 @@
+(
+    name: "Autumn After Dark",
+    foreground: "#f8e9cf",
+    background: "#57210d",
+    cursor: "#f39c79",
+    bright_foreground: "#f8e9cf",
+    dim_foreground: "#cfbfb1",
+
+    normal: (
+        black: "#c8b6a6",
+        red: "#f18f67",
+        green: "#9ac47c",
+        yellow: "#e9bf55",
+        blue: "#83b8d0",
+        magenta: "#c794af",
+        cyan: "#78c4b8",
+        white: "#f8e9cf"
+    ),
+
+    bright: (
+        black: "#cfbfb1",
+        red: "#f39c79",
+        green: "#a6cb8c",
+        yellow: "#ecc769",
+        blue: "#92c1d6",
+        magenta: "#cea1b9",
+        cyan: "#88cbc1",
+        white: "#f9ecd5"
+    ),
+
+    dim: (
+        black: "#c8b6a6",
+        red: "#f18f67",
+        green: "#9ac47c",
+        yellow: "#e9bf55",
+        blue: "#83b8d0",
+        magenta: "#c794af",
+        cyan: "#78c4b8",
+        white: "#f8e9cf"
+    ),
+)

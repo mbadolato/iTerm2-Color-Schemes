@@ -1,0 +1,41 @@
+(
+    name: "Poltergeist",
+    foreground: "#f0ffff",
+    background: "#06444b",
+    cursor: "#ffa89e",
+    bright_foreground: "#f0ffff",
+    dim_foreground: "#c8d7d7",
+
+    normal: (
+        black: "#c0d1d2",
+        red: "#ff9c91",
+        green: "#8ce0b0",
+        yellow: "#e9d06c",
+        blue: "#8ed4ed",
+        magenta: "#c5a7e8",
+        cyan: "#77e1df",
+        white: "#f0ffff"
+    ),
+
+    bright: (
+        black: "#c8d7d7",
+        red: "#ffa89e",
+        green: "#9ae4b9",
+        yellow: "#ecd67e",
+        blue: "#9cd9ef",
+        magenta: "#ccb2eb",
+        cyan: "#87e5e3",
+        white: "#f2ffff"
+    ),
+
+    dim: (
+        black: "#c0d1d2",
+        red: "#ff9c91",
+        green: "#8ce0b0",
+        yellow: "#e9d06c",
+        blue: "#8ed4ed",
+        magenta: "#c5a7e8",
+        cyan: "#77e1df",
+        white: "#f0ffff"
+    ),
+)

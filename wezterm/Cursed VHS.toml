@@ -1,0 +1,12 @@
+# Cursed VHS
+[colors]
+foreground = "#f4edff"
+background = "#1c082c"
+cursor_bg = "#ff7fa4"
+cursor_border = "#ff7fa4"
+cursor_fg = "#1c082c"
+selection_bg = "#b9aec5"
+selection_fg = "#f5efff"
+
+ansi = ["#afa3bd","#ff6d98","#8ed69e","#e5c85f","#62b9f2","#d16cf0","#4bd9e1","#f4edff"]
+brights = ["#b9aec5","#ff7fa4","#9cdbaa","#e8cf72","#75c1f4","#d77ef2","#61dee5","#f5efff"]

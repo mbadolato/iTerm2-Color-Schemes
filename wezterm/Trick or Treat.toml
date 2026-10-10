@@ -1,0 +1,12 @@
+# Trick or Treat
+[colors]
+foreground = "#fff0e3"
+background = "#40145f"
+cursor_bg = "#ff65bd"
+cursor_border = "#ff65bd"
+cursor_fg = "#40145f"
+selection_bg = "#642b82"
+selection_fg = "#fff9f0"
+
+ansi = ["#bbaec8","#ff8b82","#a8dc72","#f8c94e","#8fc9f2","#e78bd8","#78dce1","#fff0e3"]
+brights = ["#cec1da","#ffa5a0","#bde88d","#fbdc72","#acd9f7","#efaae3","#99e7ea","#fffaf2"]
