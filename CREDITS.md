@@ -837,3 +837,5 @@ The Canyon Walnut theme was created by [Mark Badolato](https://terminalthemes.co
 The Desert Morning theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Jute Espresso theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Maple Jute theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
