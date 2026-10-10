@@ -801,3 +801,5 @@ The The Fog theme was created by Mark Badolato.
 The Possessed Toaster theme was created by Mark Badolato.
 
 The Pissed Off Pancakes theme was created by Mark Badolato.
+
+The [eyesclosed](https://github.com/thdxg/eyesclosed) theme was created by [thdxg](https://github.com/thdxg).
