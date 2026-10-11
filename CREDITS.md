@@ -843,3 +843,7 @@ The Maple Jute theme was created by [Mark Badolato](https://terminalthemes.com/u
 The Scabos Sand theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Sierra Gold theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Lit Cell theme was created by [Zerebos](https://github.com/zerebos).
+
+The Lit Cell Light theme was created by [Zerebos](https://github.com/zerebos).
