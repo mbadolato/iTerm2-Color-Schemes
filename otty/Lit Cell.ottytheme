@@ -1,0 +1,18 @@
+[meta]
+name = "Lit Cell"
+mode = "dark"
+author = "Zerebos (https://github.com/zerebos)"
+
+[terminal]
+foreground = "#cfddd3"
+background = "#0c110e"
+palette = [
+    "#1c2420", "#ff6b6b", "#3df2a0", "#ffb000",
+    "#6fb3f2", "#c99af2", "#48d6cf", "#b9c7be",
+    "#758679", "#ff9494", "#86ffc6", "#ffcb5c",
+    "#9ccbff", "#ddbcff", "#86ece6", "#edefea",
+]
+cursor = "#3df2a0"
+cursor-text = "#0c110e"
+selection-background = "#1e4533"
+selection-foreground = "#edefea"

@@ -1,0 +1,33 @@
+# Colors (Lit Cell)
+
+[colors.bright]
+black = '#758679'
+blue = '#9ccbff'
+cyan = '#86ece6'
+green = '#86ffc6'
+magenta = '#ddbcff'
+red = '#ff9494'
+white = '#edefea'
+yellow = '#ffcb5c'
+
+[colors.cursor]
+cursor = '#3df2a0'
+text = '#0c110e'
+
+[colors.normal]
+black = '#1c2420'
+blue = '#6fb3f2'
+cyan = '#48d6cf'
+green = '#3df2a0'
+magenta = '#c99af2'
+red = '#ff6b6b'
+white = '#b9c7be'
+yellow = '#ffb000'
+
+[colors.primary]
+background = '#0c110e'
+foreground = '#cfddd3'
+
+[colors.selection]
+background = '#1e4533'
+text = '#edefea'

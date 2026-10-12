@@ -1,0 +1,12 @@
+# Lit Cell
+[colors]
+foreground = "#cfddd3"
+background = "#0c110e"
+cursor_bg = "#3df2a0"
+cursor_border = "#3df2a0"
+cursor_fg = "#0c110e"
+selection_bg = "#1e4533"
+selection_fg = "#edefea"
+
+ansi = ["#1c2420","#ff6b6b","#3df2a0","#ffb000","#6fb3f2","#c99af2","#48d6cf","#b9c7be"]
+brights = ["#758679","#ff9494","#86ffc6","#ffcb5c","#9ccbff","#ddbcff","#86ece6","#edefea"]

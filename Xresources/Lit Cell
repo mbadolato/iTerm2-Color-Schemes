@@ -1,0 +1,43 @@
+!
+! Lit Cell
+!
+*.foreground:  #cfddd3
+*.background:  #0c110e
+*.cursorColor: #3df2a0
+!
+! Black
+*.color0:      #1c2420
+*.color8:      #758679
+!
+! Red
+*.color1:      #ff6b6b
+*.color9:      #ff9494
+!
+! Green
+*.color2:      #3df2a0
+*.color10:     #86ffc6
+!
+! Yellow
+*.color3:      #ffb000
+*.color11:     #ffcb5c
+!
+! Blue
+*.color4:      #6fb3f2
+*.color12:     #9ccbff
+!
+! Magenta
+*.color5:      #c99af2
+*.color13:     #ddbcff
+!
+! Cyan
+*.color6:      #48d6cf
+*.color14:     #86ece6
+!
+! White
+*.color7:      #b9c7be
+*.color15:     #edefea
+!
+! Bold, Italic, Underline
+*.colorBD:     #cfddd3
+!*.colorIT:
+!*.colorUL:

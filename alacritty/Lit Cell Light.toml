@@ -1,0 +1,33 @@
+# Colors (Lit Cell Light)
+
+[colors.bright]
+black = '#5f6e66'
+blue = '#316fb7'
+cyan = '#0c7b75'
+green = '#0c7e4f'
+magenta = '#9a4bb9'
+red = '#c9382f'
+white = '#ffffff'
+yellow = '#9e5f00'
+
+[colors.cursor]
+cursor = '#0b7a4b'
+text = '#f1f4ef'
+
+[colors.normal]
+black = '#1b2620'
+blue = '#225b9d'
+cyan = '#096561'
+green = '#09663f'
+magenta = '#7e3e98'
+red = '#aa2826'
+white = '#a9b4ad'
+yellow = '#834d00'
+
+[colors.primary]
+background = '#f1f4ef'
+foreground = '#1b2620'
+
+[colors.selection]
+background = '#cbe6d6'
+text = '#0f1311'

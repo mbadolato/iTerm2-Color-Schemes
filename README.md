@@ -1414,6 +1414,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/liquid-carbon.png)
 
+### Lit Cell
+
+![Screenshot](/screenshots/lit-cell.png)
+
 ### London Bonfire Night
 
 ![Screenshot](/screenshots/london-bonfire-night.png)
@@ -2915,6 +2919,10 @@ The screenshots are categorized.
 ### Light Owl
 
 ![Screenshot](/screenshots/light-owl.png)
+
+### Lit Cell Light
+
+![Screenshot](/screenshots/lit-cell-light.png)
 
 ### London Columbia Road
 

@@ -1,0 +1,41 @@
+(
+    name: "Lit Cell",
+    foreground: "#cfddd3",
+    background: "#0c110e",
+    cursor: "#3df2a0",
+    bright_foreground: "#cfddd3",
+    dim_foreground: "#758679",
+
+    normal: (
+        black: "#1c2420",
+        red: "#ff6b6b",
+        green: "#3df2a0",
+        yellow: "#ffb000",
+        blue: "#6fb3f2",
+        magenta: "#c99af2",
+        cyan: "#48d6cf",
+        white: "#b9c7be"
+    ),
+
+    bright: (
+        black: "#758679",
+        red: "#ff9494",
+        green: "#86ffc6",
+        yellow: "#ffcb5c",
+        blue: "#9ccbff",
+        magenta: "#ddbcff",
+        cyan: "#86ece6",
+        white: "#edefea"
+    ),
+
+    dim: (
+        black: "#1c2420",
+        red: "#ff6b6b",
+        green: "#3df2a0",
+        yellow: "#ffb000",
+        blue: "#6fb3f2",
+        magenta: "#c99af2",
+        cyan: "#48d6cf",
+        white: "#b9c7be"
+    ),
+)
