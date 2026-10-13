@@ -1,0 +1,43 @@
+!
+! Pharaoh's Voltage
+!
+*.foreground:  #f8e9ca
+*.background:  #102c3c
+*.cursorColor: #ecca78
+!
+! Black
+*.color0:      #a8b2b8
+*.color8:      #b9c1c6
+!
+! Red
+*.color1:      #ea9166
+*.color9:      #ed9e78
+!
+! Green
+*.color2:      #8bc49c
+*.color10:     #99cba8
+!
+! Yellow
+*.color3:      #e9c366
+*.color11:     #ecca78
+!
+! Blue
+*.color4:      #78b9e8
+*.color12:     #88c1eb
+!
+! Magenta
+*.color5:      #c79cda
+*.color13:     #cea8de
+!
+! Cyan
+*.color6:      #74d5d6
+*.color14:     #85dadb
+!
+! White
+*.color7:      #f8e9ca
+*.color15:     #f9edd5
+!
+! Bold, Italic, Underline
+*.colorBD:     #f9edd5
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,41 @@
+(
+    name: "Electric Voodoo",
+    foreground: "#fae6ce",
+    background: "#40213c",
+    cursor: "#efc887",
+    bright_foreground: "#fae6ce",
+    dim_foreground: "#b9c1c6",
+
+    normal: (
+        black: "#a8b2b8",
+        red: "#f08b76",
+        green: "#a9ca89",
+        yellow: "#edc077",
+        blue: "#92bae0",
+        magenta: "#d99fe4",
+        cyan: "#8bd1c9",
+        white: "#fae6ce"
+    ),
+
+    bright: (
+        black: "#b9c1c6",
+        red: "#f29986",
+        green: "#b3d097",
+        yellow: "#efc887",
+        blue: "#9fc2e4",
+        magenta: "#deabe7",
+        cyan: "#99d7cf",
+        white: "#fbebd8"
+    ),
+
+    dim: (
+        black: "#a8b2b8",
+        red: "#f08b76",
+        green: "#a9ca89",
+        yellow: "#edc077",
+        blue: "#92bae0",
+        magenta: "#d99fe4",
+        cyan: "#8bd1c9",
+        white: "#fae6ce"
+    ),
+)

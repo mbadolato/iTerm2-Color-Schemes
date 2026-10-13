@@ -1,0 +1,43 @@
+!
+! Tumbling Stones
+!
+*.foreground:  #f1e9e2
+*.background:  #141212
+*.cursorColor: #f05b54
+!
+! Black
+*.color0:      #a5a4a2
+*.color8:      #c2bfbb
+!
+! Red
+*.color1:      #eb655f
+*.color9:      #fa8177
+!
+! Green
+*.color2:      #9fb5a5
+*.color10:     #b6c9b8
+!
+! Yellow
+*.color3:      #d6b5a1
+*.color11:     #ebcabb
+!
+! Blue
+*.color4:      #89aebc
+*.color12:     #a2c4cf
+!
+! Magenta
+*.color5:      #b6a3b2
+*.color13:     #d0b8c5
+!
+! Cyan
+*.color6:      #8fbac0
+*.color14:     #a9d0d2
+!
+! White
+*.color7:      #f1e9e2
+*.color15:     #fff8f0
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff5e6
+!*.colorIT:
+!*.colorUL:

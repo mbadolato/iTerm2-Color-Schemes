@@ -1,0 +1,7 @@
+#!/bin/sh
+# 5150 Mode
+printf "\033]4;0;#8ca99f;1;#d59a71;2;#70bd83;3;#d2ca72;4;#80b3a0;5;#a8b38a;6;#62c5ac;7;#e5eddb;8;#a8c5b9;9;#e8ab83;10;#8ed69a;11;#e3dc8b;12;#9bc8b5;13;#bec7a0;14;#7ddbc2;15;#ffffff\007"
+printf "\033]10;#ecf4db;#082820;#d5e875\007"
+printf "\033]17;#245444\007"
+printf "\033]19;#ffffff\007"
+printf "\033]5;0;#ffffff\007"

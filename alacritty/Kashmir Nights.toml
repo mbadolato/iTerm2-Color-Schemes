@@ -1,0 +1,33 @@
+# Colors (Kashmir Nights)
+
+[colors.bright]
+black = '#c9b8a9'
+blue = '#b5c2d2'
+cyan = '#bcd1c1'
+green = '#cbc59d'
+magenta = '#ceb5d0'
+red = '#f09b72'
+white = '#fff0dd'
+yellow = '#f7cc82'
+
+[colors.cursor]
+cursor = '#f1bb72'
+text = '#291714'
+
+[colors.normal]
+black = '#b4a29a'
+blue = '#9cacc1'
+cyan = '#a6b6ad'
+green = '#b6b18a'
+magenta = '#b5a0b7'
+red = '#dc805e'
+white = '#f4dfc9'
+yellow = '#e6b46a'
+
+[colors.primary]
+background = '#291714'
+foreground = '#f4dfc9'
+
+[colors.selection]
+background = '#604136'
+text = '#fff9ed'

@@ -1,0 +1,41 @@
+(
+    name: "High Voltage Highway",
+    foreground: "#f1ece4",
+    background: "#151619",
+    cursor: "#e9c987",
+    bright_foreground: "#f1ece4",
+    dim_foreground: "#b9c1c6",
+
+    normal: (
+        black: "#a8b2b8",
+        red: "#e17a64",
+        green: "#9ec49a",
+        yellow: "#e6c277",
+        blue: "#8bb8d4",
+        magenta: "#caa4d5",
+        cyan: "#88d0cb",
+        white: "#f1ece4"
+    ),
+
+    bright: (
+        black: "#b9c1c6",
+        red: "#e58a77",
+        green: "#aacba6",
+        yellow: "#e9c987",
+        blue: "#99c1d9",
+        magenta: "#d0afda",
+        cyan: "#96d6d1",
+        white: "#f4f0e9"
+    ),
+
+    dim: (
+        black: "#a8b2b8",
+        red: "#e17a64",
+        green: "#9ec49a",
+        yellow: "#e6c277",
+        blue: "#8bb8d4",
+        magenta: "#caa4d5",
+        cyan: "#88d0cb",
+        white: "#f1ece4"
+    ),
+)

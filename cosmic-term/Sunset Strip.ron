@@ -1,0 +1,41 @@
+(
+    name: "Sunset Strip",
+    foreground: "#fce9dd",
+    background: "#1c1832",
+    cursor: "#f6cb7e",
+    bright_foreground: "#fce9dd",
+    dim_foreground: "#b9c1c6",
+
+    normal: (
+        black: "#a8b2b8",
+        red: "#f07880",
+        green: "#8ec9a0",
+        yellow: "#f5c46c",
+        blue: "#83b7e7",
+        magenta: "#e58ecb",
+        cyan: "#7bd2d7",
+        white: "#fce9dd"
+    ),
+
+    bright: (
+        black: "#b9c1c6",
+        red: "#f2888f",
+        green: "#9ccfab",
+        yellow: "#f6cb7e",
+        blue: "#92c0ea",
+        magenta: "#e89cd1",
+        cyan: "#8bd7dc",
+        white: "#fdede4"
+    ),
+
+    dim: (
+        black: "#a8b2b8",
+        red: "#f07880",
+        green: "#8ec9a0",
+        yellow: "#f5c46c",
+        blue: "#83b7e7",
+        magenta: "#e58ecb",
+        cyan: "#7bd2d7",
+        white: "#fce9dd"
+    ),
+)

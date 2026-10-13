@@ -1,0 +1,43 @@
+!
+! Stairway Skies
+!
+*.foreground:  #f7e9ca
+*.background:  #201a10
+*.cursorColor: #e7c66e
+!
+! Black
+*.color0:      #a6a7a6
+*.color8:      #c4c7c8
+!
+! Red
+*.color1:      #d59a6b
+*.color9:      #dcaa83
+!
+! Green
+*.color2:      #a6be82
+*.color10:     #b4c896
+!
+! Yellow
+*.color3:      #e7c66e
+*.color11:     #ebcf85
+!
+! Blue
+*.color4:      #8aaed0
+*.color12:     #9dbbd8
+!
+! Magenta
+*.color5:      #c1a3d1
+*.color13:     #cbb2d8
+!
+! Cyan
+*.color6:      #8bc9c2
+*.color14:     #9ed2cc
+!
+! White
+*.color7:      #f7e9ca
+*.color15:     #fff9ee
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff9ee
+!*.colorIT:
+!*.colorUL:

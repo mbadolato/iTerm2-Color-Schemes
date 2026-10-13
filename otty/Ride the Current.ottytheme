@@ -1,0 +1,17 @@
+[meta]
+name = "Ride the Current"
+mode = "dark"
+
+[terminal]
+foreground = "#e0f2fc"
+background = "#041b30"
+palette = [
+    "#9aafbd", "#e7787b", "#7dc5a6", "#e4c476",
+    "#79b4ff", "#ba98f4", "#6ccee0", "#e0f2fc",
+    "#b6c8d2", "#f3949b", "#9ed8ba", "#f2d590",
+    "#a0ccff", "#d0b3fa", "#90e1eb", "#f5fcff",
+]
+cursor = "#58aaff"
+cursor-text = "#041b30"
+selection-background = "#173e67"
+selection-foreground = "#f1faff"

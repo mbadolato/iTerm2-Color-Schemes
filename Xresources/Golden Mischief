@@ -1,0 +1,43 @@
+!
+! Golden Mischief
+!
+*.foreground:  #30233d
+*.background:  #d7b37a
+*.cursorColor: #632b85
+!
+! Black
+*.color0:      #30233d
+*.color8:      #4e3b54
+!
+! Red
+*.color1:      #8b1838
+*.color9:      #881e3a
+!
+! Green
+*.color2:      #145232
+*.color10:     #195233
+!
+! Yellow
+*.color3:      #5f4300
+*.color11:     #604300
+!
+! Blue
+*.color4:      #233f88
+*.color12:     #2d4584
+!
+! Magenta
+*.color5:      #632b85
+*.color13:     #672d88
+!
+! Cyan
+*.color6:      #005058
+*.color14:     #005059
+!
+! White
+*.color7:      #392b1b
+*.color15:     #493727
+!
+! Bold, Italic, Underline
+*.colorBD:     #25182d
+!*.colorIT:
+!*.colorUL:

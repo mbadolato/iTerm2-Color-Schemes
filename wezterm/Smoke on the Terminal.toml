@@ -1,0 +1,12 @@
+# Smoke on the Terminal
+[colors]
+foreground = "#f5e8f4"
+background = "#30243a"
+cursor_bg = "#e7c692"
+cursor_border = "#e7c692"
+cursor_fg = "#30243a"
+selection_bg = "#553f55"
+selection_fg = "#f5e8f4"
+
+ansi = ["#a8b2b8","#df8d80","#a7c996","#e4be83","#a4b5e2","#cf9be2","#8fcbd2","#f5e8f4"]
+brights = ["#b9c1c6","#e39b8f","#b2cfa3","#e7c692","#afbee5","#d5a7e5","#9cd1d7","#f7edf6"]

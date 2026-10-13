@@ -1,0 +1,17 @@
+[meta]
+name = "Dream Onward"
+mode = "dark"
+
+[terminal]
+foreground = "#f7e7ce"
+background = "#19120f"
+palette = [
+    "#a6a7a6", "#dc7862", "#91b88c", "#e3b65b",
+    "#7fa9c8", "#b99ad4", "#7dbeb9", "#f7e7ce",
+    "#c4c7c8", "#e28e7b", "#a3c39e", "#e7c275",
+    "#93b7d1", "#c4aadb", "#92c8c4", "#fff9ee",
+]
+cursor = "#e3b65b"
+cursor-text = "#19120f"
+selection-background = "#4a3830"
+selection-foreground = "#fff8ee"

@@ -1,0 +1,41 @@
+(
+    name: "Puppet's Master",
+    foreground: "#f5e6d5",
+    background: "#25150e",
+    cursor: "#f17938",
+    bright_foreground: "#f5e6d5",
+    dim_foreground: "#d1c2b6",
+
+    normal: (
+        black: "#b5a69a",
+        red: "#e9785e",
+        green: "#a4bc75",
+        yellow: "#e5b65c",
+        blue: "#8daee0",
+        magenta: "#c49cce",
+        cyan: "#7ec9c4",
+        white: "#f5e6d5"
+    ),
+
+    bright: (
+        black: "#d1c2b6",
+        red: "#f59573",
+        green: "#bed08e",
+        yellow: "#f3cb77",
+        blue: "#a9c4e9",
+        magenta: "#d7b3dd",
+        cyan: "#9bdbd4",
+        white: "#fff4e8"
+    ),
+
+    dim: (
+        black: "#b5a69a",
+        red: "#e9785e",
+        green: "#a4bc75",
+        yellow: "#e5b65c",
+        blue: "#8daee0",
+        magenta: "#c49cce",
+        cyan: "#7ec9c4",
+        white: "#f5e6d5"
+    ),
+)

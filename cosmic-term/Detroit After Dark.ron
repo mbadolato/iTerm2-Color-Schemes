@@ -1,0 +1,41 @@
+(
+    name: "Detroit After Dark",
+    foreground: "#f7e6d7",
+    background: "#24141b",
+    cursor: "#ecc578",
+    bright_foreground: "#f7e6d7",
+    dim_foreground: "#b9c1c6",
+
+    normal: (
+        black: "#a8b2b8",
+        red: "#e66e62",
+        green: "#9dc28e",
+        yellow: "#e9bd66",
+        blue: "#8cb3d9",
+        magenta: "#c89bd4",
+        cyan: "#84c9cb",
+        white: "#f7e6d7"
+    ),
+
+    bright: (
+        black: "#b9c1c6",
+        red: "#e97f75",
+        green: "#a9c99c",
+        yellow: "#ecc578",
+        blue: "#9abcde",
+        magenta: "#cfa7d9",
+        cyan: "#93cfd1",
+        white: "#f9ebdf"
+    ),
+
+    dim: (
+        black: "#a8b2b8",
+        red: "#e66e62",
+        green: "#9dc28e",
+        yellow: "#e9bd66",
+        blue: "#8cb3d9",
+        magenta: "#c89bd4",
+        cyan: "#84c9cb",
+        white: "#f7e6d7"
+    ),
+)

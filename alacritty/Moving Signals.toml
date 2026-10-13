@@ -1,0 +1,33 @@
+# Colors (Moving Signals)
+
+[colors.bright]
+black = '#c2b2b2'
+blue = '#a2bfd1'
+cyan = '#a7ccc5'
+green = '#afcbb2'
+magenta = '#cdb2c8'
+red = '#ee8382'
+white = '#fff4e8'
+yellow = '#edc385'
+
+[colors.cursor]
+cursor = '#e6c077'
+text = '#28141b'
+
+[colors.normal]
+black = '#a99b9d'
+blue = '#8baac0'
+cyan = '#91b5b2'
+green = '#9cb6a2'
+magenta = '#b9a0b7'
+red = '#d56b70'
+white = '#efe1d3'
+yellow = '#d7a96c'
+
+[colors.primary]
+background = '#28141b'
+foreground = '#f6e9dc'
+
+[colors.selection]
+background = '#58303b'
+text = '#ffffff'

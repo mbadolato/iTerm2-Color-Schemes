@@ -1,0 +1,12 @@
+# Eight Hundred
+[colors]
+foreground = "#e9e6d9"
+background = "#101c28"
+cursor_bg = "#f3c76c"
+cursor_border = "#f3c76c"
+cursor_fg = "#101c28"
+selection_bg = "#395468"
+selection_fg = "#ffffff"
+
+ansi = ["#b2c0c9","#f08b81","#8ed1a3","#f3c76c","#8bb9ea","#c4a2e6","#69d9cb","#e9e6d9"]
+brights = ["#d1d9de","#ffa69b","#a9e0b9","#ffe09a","#aacdf3","#d8bcee","#91e8dd","#ffffff"]

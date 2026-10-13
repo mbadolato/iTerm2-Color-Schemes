@@ -1,0 +1,17 @@
+[meta]
+name = "Puppet's Master"
+mode = "dark"
+
+[terminal]
+foreground = "#f5e6d5"
+background = "#25150e"
+palette = [
+    "#b5a69a", "#e9785e", "#a4bc75", "#e5b65c",
+    "#8daee0", "#c49cce", "#7ec9c4", "#f5e6d5",
+    "#d1c2b6", "#f59573", "#bed08e", "#f3cb77",
+    "#a9c4e9", "#d7b3dd", "#9bdbd4", "#fff4e8",
+]
+cursor = "#f17938"
+cursor-text = "#25150e"
+selection-background = "#583022"
+selection-foreground = "#fff6e7"

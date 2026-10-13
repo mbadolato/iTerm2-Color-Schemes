@@ -1,0 +1,33 @@
+# Colors (Dream Onward)
+
+[colors.bright]
+black = '#c4c7c8'
+blue = '#93b7d1'
+cyan = '#92c8c4'
+green = '#a3c39e'
+magenta = '#c4aadb'
+red = '#e28e7b'
+white = '#fff9ee'
+yellow = '#e7c275'
+
+[colors.cursor]
+cursor = '#e3b65b'
+text = '#19120f'
+
+[colors.normal]
+black = '#a6a7a6'
+blue = '#7fa9c8'
+cyan = '#7dbeb9'
+green = '#91b88c'
+magenta = '#b99ad4'
+red = '#dc7862'
+white = '#f7e7ce'
+yellow = '#e3b65b'
+
+[colors.primary]
+background = '#19120f'
+foreground = '#f7e7ce'
+
+[colors.selection]
+background = '#4a3830'
+text = '#fff8ee'

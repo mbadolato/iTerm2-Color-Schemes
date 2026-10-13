@@ -1,0 +1,41 @@
+(
+    name: "Pharaoh's Voltage",
+    foreground: "#f8e9ca",
+    background: "#102c3c",
+    cursor: "#ecca78",
+    bright_foreground: "#f8e9ca",
+    dim_foreground: "#b9c1c6",
+
+    normal: (
+        black: "#a8b2b8",
+        red: "#ea9166",
+        green: "#8bc49c",
+        yellow: "#e9c366",
+        blue: "#78b9e8",
+        magenta: "#c79cda",
+        cyan: "#74d5d6",
+        white: "#f8e9ca"
+    ),
+
+    bright: (
+        black: "#b9c1c6",
+        red: "#ed9e78",
+        green: "#99cba8",
+        yellow: "#ecca78",
+        blue: "#88c1eb",
+        magenta: "#cea8de",
+        cyan: "#85dadb",
+        white: "#f9edd5"
+    ),
+
+    dim: (
+        black: "#a8b2b8",
+        red: "#ea9166",
+        green: "#8bc49c",
+        yellow: "#e9c366",
+        blue: "#78b9e8",
+        magenta: "#c79cda",
+        cyan: "#74d5d6",
+        white: "#f8e9ca"
+    ),
+)

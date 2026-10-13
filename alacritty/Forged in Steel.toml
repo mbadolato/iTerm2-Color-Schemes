@@ -1,0 +1,33 @@
+# Colors (Forged in Steel)
+
+[colors.bright]
+black = '#b7c6d0'
+blue = '#a0cbea'
+cyan = '#9ad9e0'
+green = '#a9c9c4'
+magenta = '#c0c8d9'
+red = '#ef8583'
+white = '#ffffff'
+yellow = '#d2cfb7'
+
+[colors.cursor]
+cursor = '#c8dce8'
+text = '#14232f'
+
+[colors.normal]
+black = '#9daebc'
+blue = '#83b8da'
+cyan = '#81c8d4'
+green = '#95b9b7'
+magenta = '#a8b2c9'
+red = '#db7779'
+white = '#dbe8ee'
+yellow = '#bcb9a1'
+
+[colors.primary]
+background = '#14232f'
+foreground = '#e8f1f5'
+
+[colors.selection]
+background = '#354b5a'
+text = '#ffffff'

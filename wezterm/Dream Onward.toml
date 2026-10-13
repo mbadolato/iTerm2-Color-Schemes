@@ -1,0 +1,12 @@
+# Dream Onward
+[colors]
+foreground = "#f7e7ce"
+background = "#19120f"
+cursor_bg = "#e3b65b"
+cursor_border = "#e3b65b"
+cursor_fg = "#19120f"
+selection_bg = "#4a3830"
+selection_fg = "#fff8ee"
+
+ansi = ["#a6a7a6","#dc7862","#91b88c","#e3b65b","#7fa9c8","#b99ad4","#7dbeb9","#f7e7ce"]
+brights = ["#c4c7c8","#e28e7b","#a3c39e","#e7c275","#93b7d1","#c4aadb","#92c8c4","#fff9ee"]

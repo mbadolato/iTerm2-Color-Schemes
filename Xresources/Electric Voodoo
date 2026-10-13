@@ -1,0 +1,43 @@
+!
+! Electric Voodoo
+!
+*.foreground:  #fae6ce
+*.background:  #40213c
+*.cursorColor: #efc887
+!
+! Black
+*.color0:      #a8b2b8
+*.color8:      #b9c1c6
+!
+! Red
+*.color1:      #f08b76
+*.color9:      #f29986
+!
+! Green
+*.color2:      #a9ca89
+*.color10:     #b3d097
+!
+! Yellow
+*.color3:      #edc077
+*.color11:     #efc887
+!
+! Blue
+*.color4:      #92bae0
+*.color12:     #9fc2e4
+!
+! Magenta
+*.color5:      #d99fe4
+*.color13:     #deabe7
+!
+! Cyan
+*.color6:      #8bd1c9
+*.color14:     #99d7cf
+!
+! White
+*.color7:      #fae6ce
+*.color15:     #fbebd8
+!
+! Bold, Italic, Underline
+*.colorBD:     #fbebd8
+!*.colorIT:
+!*.colorUL:

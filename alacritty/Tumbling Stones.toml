@@ -1,0 +1,33 @@
+# Colors (Tumbling Stones)
+
+[colors.bright]
+black = '#c2bfbb'
+blue = '#a2c4cf'
+cyan = '#a9d0d2'
+green = '#b6c9b8'
+magenta = '#d0b8c5'
+red = '#fa8177'
+white = '#fff8f0'
+yellow = '#ebcabb'
+
+[colors.cursor]
+cursor = '#f05b54'
+text = '#141212'
+
+[colors.normal]
+black = '#a5a4a2'
+blue = '#89aebc'
+cyan = '#8fbac0'
+green = '#9fb5a5'
+magenta = '#b6a3b2'
+red = '#eb655f'
+white = '#f1e9e2'
+yellow = '#d6b5a1'
+
+[colors.primary]
+background = '#141212'
+foreground = '#f1e9e2'
+
+[colors.selection]
+background = '#553337'
+text = '#fff9ed'

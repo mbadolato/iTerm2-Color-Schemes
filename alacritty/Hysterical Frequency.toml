@@ -1,0 +1,33 @@
+# Colors (Hysterical Frequency)
+
+[colors.bright]
+black = '#b9c1c6'
+blue = '#91c2f2'
+cyan = '#8bd7df'
+green = '#9bcfab'
+magenta = '#d7aced'
+red = '#ea8ba8'
+white = '#f4effb'
+yellow = '#efcf7f'
+
+[colors.cursor]
+cursor = '#efcf7f'
+text = '#202444'
+
+[colors.normal]
+black = '#a8b2b8'
+blue = '#82baf0'
+cyan = '#7bd1db'
+green = '#8dc8a0'
+magenta = '#d1a1eb'
+red = '#e77b9c'
+white = '#f1ebfa'
+yellow = '#edc86e'
+
+[colors.primary]
+background = '#202444'
+foreground = '#f1ebfa'
+
+[colors.selection]
+background = '#493f5c'
+text = '#f1ebfa'

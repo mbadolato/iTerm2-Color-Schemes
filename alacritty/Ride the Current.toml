@@ -1,0 +1,33 @@
+# Colors (Ride the Current)
+
+[colors.bright]
+black = '#b6c8d2'
+blue = '#a0ccff'
+cyan = '#90e1eb'
+green = '#9ed8ba'
+magenta = '#d0b3fa'
+red = '#f3949b'
+white = '#f5fcff'
+yellow = '#f2d590'
+
+[colors.cursor]
+cursor = '#58aaff'
+text = '#041b30'
+
+[colors.normal]
+black = '#9aafbd'
+blue = '#79b4ff'
+cyan = '#6ccee0'
+green = '#7dc5a6'
+magenta = '#ba98f4'
+red = '#e7787b'
+white = '#e0f2fc'
+yellow = '#e4c476'
+
+[colors.primary]
+background = '#041b30'
+foreground = '#e0f2fc'
+
+[colors.selection]
+background = '#173e67'
+text = '#f1faff'

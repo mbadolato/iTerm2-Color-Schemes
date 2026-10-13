@@ -1,0 +1,17 @@
+[meta]
+name = "Electric Voodoo"
+mode = "dark"
+
+[terminal]
+foreground = "#fae6ce"
+background = "#40213c"
+palette = [
+    "#a8b2b8", "#f08b76", "#a9ca89", "#edc077",
+    "#92bae0", "#d99fe4", "#8bd1c9", "#fae6ce",
+    "#b9c1c6", "#f29986", "#b3d097", "#efc887",
+    "#9fc2e4", "#deabe7", "#99d7cf", "#fbebd8",
+]
+cursor = "#efc887"
+cursor-text = "#40213c"
+selection-background = "#603d56"
+selection-foreground = "#fae6ce"

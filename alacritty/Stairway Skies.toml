@@ -1,0 +1,33 @@
+# Colors (Stairway Skies)
+
+[colors.bright]
+black = '#c4c7c8'
+blue = '#9dbbd8'
+cyan = '#9ed2cc'
+green = '#b4c896'
+magenta = '#cbb2d8'
+red = '#dcaa83'
+white = '#fff9ee'
+yellow = '#ebcf85'
+
+[colors.cursor]
+cursor = '#e7c66e'
+text = '#201a10'
+
+[colors.normal]
+black = '#a6a7a6'
+blue = '#8aaed0'
+cyan = '#8bc9c2'
+green = '#a6be82'
+magenta = '#c1a3d1'
+red = '#d59a6b'
+white = '#f7e9ca'
+yellow = '#e7c66e'
+
+[colors.primary]
+background = '#201a10'
+foreground = '#f7e9ca'
+
+[colors.selection]
+background = '#4a3830'
+text = '#fff8ee'

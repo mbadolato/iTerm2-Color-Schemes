@@ -1,0 +1,17 @@
+[meta]
+name = "Unalive 'Em All"
+mode = "dark"
+
+[terminal]
+foreground = "#eee3dd"
+background = "#110c0b"
+palette = [
+    "#aaa29e", "#ec514a", "#81bb7a", "#e7b75d",
+    "#78aef0", "#c68bd8", "#68c7c7", "#eee3dd",
+    "#c6beba", "#ff7971", "#a1d391", "#f5ce77",
+    "#96c3fa", "#dba8e9", "#87dbd9", "#fff5ed",
+]
+cursor = "#ff4541"
+cursor-text = "#110c0b"
+selection-background = "#3f2223"
+selection-foreground = "#fff4e8"

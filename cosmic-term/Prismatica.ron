@@ -1,0 +1,41 @@
+(
+    name: "Prismatica",
+    foreground: "#edf0f4",
+    background: "#10151e",
+    cursor: "#edcf7d",
+    bright_foreground: "#edf0f4",
+    dim_foreground: "#b9c1c6",
+
+    normal: (
+        black: "#a8b2b8",
+        red: "#ef767d",
+        green: "#87c79c",
+        yellow: "#ebc86b",
+        blue: "#84b5ed",
+        magenta: "#d69edc",
+        cyan: "#79d2d2",
+        white: "#edf0f4"
+    ),
+
+    bright: (
+        black: "#b9c1c6",
+        red: "#f1868d",
+        green: "#95cea8",
+        yellow: "#edcf7d",
+        blue: "#93beef",
+        magenta: "#dbaae0",
+        cyan: "#89d7d7",
+        white: "#f1f3f6"
+    ),
+
+    dim: (
+        black: "#a8b2b8",
+        red: "#ef767d",
+        green: "#87c79c",
+        yellow: "#ebc86b",
+        blue: "#84b5ed",
+        magenta: "#d69edc",
+        cyan: "#79d2d2",
+        white: "#edf0f4"
+    ),
+)

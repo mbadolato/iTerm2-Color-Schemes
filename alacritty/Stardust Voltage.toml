@@ -1,0 +1,33 @@
+# Colors (Stardust Voltage)
+
+[colors.bright]
+black = '#534a47'
+blue = '#224078'
+cyan = '#265a62'
+green = '#2e5f47'
+magenta = '#5c3b68'
+red = '#792737'
+white = '#1f2a3e'
+yellow = '#664a15'
+
+[colors.cursor]
+cursor = '#664a15'
+text = '#f0e5d9'
+
+[colors.normal]
+black = '#685c59'
+blue = '#274988'
+cyan = '#2b666f'
+green = '#346c51'
+magenta = '#684376'
+red = '#892c3e'
+white = '#27354e'
+yellow = '#745418'
+
+[colors.primary]
+background = '#f0e5d9'
+foreground = '#27354e'
+
+[colors.selection]
+background = '#dbc6c4'
+text = '#27354e'

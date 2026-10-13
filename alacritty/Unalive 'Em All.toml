@@ -1,0 +1,33 @@
+# Colors (Unalive 'Em All)
+
+[colors.bright]
+black = '#c6beba'
+blue = '#96c3fa'
+cyan = '#87dbd9'
+green = '#a1d391'
+magenta = '#dba8e9'
+red = '#ff7971'
+white = '#fff5ed'
+yellow = '#f5ce77'
+
+[colors.cursor]
+cursor = '#ff4541'
+text = '#110c0b'
+
+[colors.normal]
+black = '#aaa29e'
+blue = '#78aef0'
+cyan = '#68c7c7'
+green = '#81bb7a'
+magenta = '#c68bd8'
+red = '#ec514a'
+white = '#eee3dd'
+yellow = '#e7b75d'
+
+[colors.primary]
+background = '#110c0b'
+foreground = '#eee3dd'
+
+[colors.selection]
+background = '#3f2223'
+text = '#fff4e8'

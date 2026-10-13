@@ -1,0 +1,43 @@
+!
+! Diary of a Lunatic
+!
+*.foreground:  #d8f5f7
+*.background:  #042631
+*.cursorColor: #eac16a
+!
+! Black
+*.color0:      #9ebdc7
+*.color8:      #b9d3da
+!
+! Red
+*.color1:      #e58c91
+*.color9:      #f1a4aa
+!
+! Green
+*.color2:      #94cfac
+*.color10:     #b0e2c1
+!
+! Yellow
+*.color3:      #e3bb69
+*.color11:     #f2d38b
+!
+! Blue
+*.color4:      #83bce7
+*.color12:     #a0d1f0
+!
+! Magenta
+*.color5:      #b59be8
+*.color13:     #ccb3f5
+!
+! Cyan
+*.color6:      #72d7e3
+*.color14:     #96eaf1
+!
+! White
+*.color7:      #d8f5f7
+*.color15:     #f3ffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #eac16a
+!*.colorIT:
+!*.colorUL:

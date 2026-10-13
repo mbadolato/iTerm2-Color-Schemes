@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='High Voltage Highway'
+cursor-color='#e9c987'
+foreground='#f1ece4'
+background='rgba(21,22,25,.95)'
+palette='#a8b2b8:#e17a64:#9ec49a:#e6c277:#8bb8d4:#caa4d5:#88d0cb:#f1ece4:#b9c1c6:#e58a77:#aacba6:#e9c987:#99c1d9:#d0afda:#96d6d1:#f4f0e9'
+COLORS

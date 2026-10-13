@@ -1,0 +1,43 @@
+!
+! Eight Hundred
+!
+*.foreground:  #e9e6d9
+*.background:  #101c28
+*.cursorColor: #f3c76c
+!
+! Black
+*.color0:      #b2c0c9
+*.color8:      #d1d9de
+!
+! Red
+*.color1:      #f08b81
+*.color9:      #ffa69b
+!
+! Green
+*.color2:      #8ed1a3
+*.color10:     #a9e0b9
+!
+! Yellow
+*.color3:      #f3c76c
+*.color11:     #ffe09a
+!
+! Blue
+*.color4:      #8bb9ea
+*.color12:     #aacdf3
+!
+! Magenta
+*.color5:      #c4a2e6
+*.color13:     #d8bcee
+!
+! Cyan
+*.color6:      #69d9cb
+*.color14:     #91e8dd
+!
+! White
+*.color7:      #e9e6d9
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

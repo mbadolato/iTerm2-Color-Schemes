@@ -1,0 +1,41 @@
+(
+    name: "Mindcrime",
+    foreground: "#eee6dd",
+    background: "#19191c",
+    cursor: "#e86e62",
+    bright_foreground: "#eee6dd",
+    dim_foreground: "#b5bdbb",
+
+    normal: (
+        black: "#9dacae",
+        red: "#e5625a",
+        green: "#82baa0",
+        yellow: "#d3aa77",
+        blue: "#8daebc",
+        magenta: "#b9a3af",
+        cyan: "#8cbab7",
+        white: "#e6dfd6"
+    ),
+
+    bright: (
+        black: "#b5bdbb",
+        red: "#fa8176",
+        green: "#9bc9a9",
+        yellow: "#ebc18b",
+        blue: "#a8c4cf",
+        magenta: "#d1b4c2",
+        cyan: "#a4d1ca",
+        white: "#fff4e8"
+    ),
+
+    dim: (
+        black: "#9dacae",
+        red: "#e5625a",
+        green: "#82baa0",
+        yellow: "#d3aa77",
+        blue: "#8daebc",
+        magenta: "#b9a3af",
+        cyan: "#8cbab7",
+        white: "#e6dfd6"
+    ),
+)

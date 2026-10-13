@@ -1,0 +1,33 @@
+# Colors (Sunset Strip)
+
+[colors.bright]
+black = '#b9c1c6'
+blue = '#92c0ea'
+cyan = '#8bd7dc'
+green = '#9ccfab'
+magenta = '#e89cd1'
+red = '#f2888f'
+white = '#fdede4'
+yellow = '#f6cb7e'
+
+[colors.cursor]
+cursor = '#f6cb7e'
+text = '#1c1832'
+
+[colors.normal]
+black = '#a8b2b8'
+blue = '#83b7e7'
+cyan = '#7bd2d7'
+green = '#8ec9a0'
+magenta = '#e58ecb'
+red = '#f07880'
+white = '#fce9dd'
+yellow = '#f5c46c'
+
+[colors.primary]
+background = '#1c1832'
+foreground = '#fce9dd'
+
+[colors.selection]
+background = '#47374f'
+text = '#fce9dd'

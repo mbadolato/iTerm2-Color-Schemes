@@ -1,0 +1,33 @@
+# Colors (Eight Hundred)
+
+[colors.bright]
+black = '#d1d9de'
+blue = '#aacdf3'
+cyan = '#91e8dd'
+green = '#a9e0b9'
+magenta = '#d8bcee'
+red = '#ffa69b'
+white = '#ffffff'
+yellow = '#ffe09a'
+
+[colors.cursor]
+cursor = '#f3c76c'
+text = '#101c28'
+
+[colors.normal]
+black = '#b2c0c9'
+blue = '#8bb9ea'
+cyan = '#69d9cb'
+green = '#8ed1a3'
+magenta = '#c4a2e6'
+red = '#f08b81'
+white = '#e9e6d9'
+yellow = '#f3c76c'
+
+[colors.primary]
+background = '#101c28'
+foreground = '#e9e6d9'
+
+[colors.selection]
+background = '#395468'
+text = '#ffffff'

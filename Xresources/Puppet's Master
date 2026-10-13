@@ -1,0 +1,43 @@
+!
+! Puppet's Master
+!
+*.foreground:  #f5e6d5
+*.background:  #25150e
+*.cursorColor: #f17938
+!
+! Black
+*.color0:      #b5a69a
+*.color8:      #d1c2b6
+!
+! Red
+*.color1:      #e9785e
+*.color9:      #f59573
+!
+! Green
+*.color2:      #a4bc75
+*.color10:     #bed08e
+!
+! Yellow
+*.color3:      #e5b65c
+*.color11:     #f3cb77
+!
+! Blue
+*.color4:      #8daee0
+*.color12:     #a9c4e9
+!
+! Magenta
+*.color5:      #c49cce
+*.color13:     #d7b3dd
+!
+! Cyan
+*.color6:      #7ec9c4
+*.color14:     #9bdbd4
+!
+! White
+*.color7:      #f5e6d5
+*.color15:     #fff4e8
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff6e7
+!*.colorIT:
+!*.colorUL:

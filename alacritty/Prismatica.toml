@@ -1,0 +1,33 @@
+# Colors (Prismatica)
+
+[colors.bright]
+black = '#b9c1c6'
+blue = '#93beef'
+cyan = '#89d7d7'
+green = '#95cea8'
+magenta = '#dbaae0'
+red = '#f1868d'
+white = '#f1f3f6'
+yellow = '#edcf7d'
+
+[colors.cursor]
+cursor = '#edcf7d'
+text = '#10151e'
+
+[colors.normal]
+black = '#a8b2b8'
+blue = '#84b5ed'
+cyan = '#79d2d2'
+green = '#87c79c'
+magenta = '#d69edc'
+red = '#ef767d'
+white = '#edf0f4'
+yellow = '#ebc86b'
+
+[colors.primary]
+background = '#10151e'
+foreground = '#edf0f4'
+
+[colors.selection]
+background = '#3e3541'
+text = '#edf0f4'

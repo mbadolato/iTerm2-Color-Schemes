@@ -1,0 +1,12 @@
+# Unalive 'Em All
+[colors]
+foreground = "#eee3dd"
+background = "#110c0b"
+cursor_bg = "#ff4541"
+cursor_border = "#ff4541"
+cursor_fg = "#110c0b"
+selection_bg = "#3f2223"
+selection_fg = "#fff4e8"
+
+ansi = ["#aaa29e","#ec514a","#81bb7a","#e7b75d","#78aef0","#c68bd8","#68c7c7","#eee3dd"]
+brights = ["#c6beba","#ff7971","#a1d391","#f5ce77","#96c3fa","#dba8e9","#87dbd9","#fff5ed"]

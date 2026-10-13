@@ -1,0 +1,33 @@
+# Colors (Detroit After Dark)
+
+[colors.bright]
+black = '#b9c1c6'
+blue = '#9abcde'
+cyan = '#93cfd1'
+green = '#a9c99c'
+magenta = '#cfa7d9'
+red = '#e97f75'
+white = '#f9ebdf'
+yellow = '#ecc578'
+
+[colors.cursor]
+cursor = '#ecc578'
+text = '#24141b'
+
+[colors.normal]
+black = '#a8b2b8'
+blue = '#8cb3d9'
+cyan = '#84c9cb'
+green = '#9dc28e'
+magenta = '#c89bd4'
+red = '#e66e62'
+white = '#f7e6d7'
+yellow = '#e9bd66'
+
+[colors.primary]
+background = '#24141b'
+foreground = '#f7e6d7'
+
+[colors.selection]
+background = '#4c343f'
+text = '#f7e6d7'

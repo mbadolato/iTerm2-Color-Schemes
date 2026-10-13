@@ -1,0 +1,17 @@
+[meta]
+name = "Forged in Steel"
+mode = "dark"
+
+[terminal]
+foreground = "#e8f1f5"
+background = "#14232f"
+palette = [
+    "#9daebc", "#db7779", "#95b9b7", "#bcb9a1",
+    "#83b8da", "#a8b2c9", "#81c8d4", "#dbe8ee",
+    "#b7c6d0", "#ef8583", "#a9c9c4", "#d2cfb7",
+    "#a0cbea", "#c0c8d9", "#9ad9e0", "#ffffff",
+]
+cursor = "#c8dce8"
+cursor-text = "#14232f"
+selection-background = "#354b5a"
+selection-foreground = "#ffffff"

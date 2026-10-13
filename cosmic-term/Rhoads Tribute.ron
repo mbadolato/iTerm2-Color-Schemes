@@ -1,0 +1,41 @@
+(
+    name: "Rhoads Tribute",
+    foreground: "#fff0d2",
+    background: "#29212f",
+    cursor: "#f2c36a",
+    bright_foreground: "#fff0d2",
+    dim_foreground: "#d3c8d0",
+
+    normal: (
+        black: "#b9adb9",
+        red: "#ed8b8e",
+        green: "#a9cb92",
+        yellow: "#eac06a",
+        blue: "#a4b9e4",
+        magenta: "#c3a0e5",
+        cyan: "#8bcdd1",
+        white: "#fff0d2"
+    ),
+
+    bright: (
+        black: "#d3c8d0",
+        red: "#f6a3a2",
+        green: "#c1dda7",
+        yellow: "#f5d48a",
+        blue: "#b8cbef",
+        magenta: "#d8b9ef",
+        cyan: "#a6dfe1",
+        white: "#fff9ec"
+    ),
+
+    dim: (
+        black: "#b9adb9",
+        red: "#ed8b8e",
+        green: "#a9cb92",
+        yellow: "#eac06a",
+        blue: "#a4b9e4",
+        magenta: "#c3a0e5",
+        cyan: "#8bcdd1",
+        white: "#fff0d2"
+    ),
+)

@@ -1,0 +1,43 @@
+!
+! 5150 Mode
+!
+*.foreground:  #ecf4db
+*.background:  #082820
+*.cursorColor: #d5e875
+!
+! Black
+*.color0:      #8ca99f
+*.color8:      #a8c5b9
+!
+! Red
+*.color1:      #d59a71
+*.color9:      #e8ab83
+!
+! Green
+*.color2:      #70bd83
+*.color10:     #8ed69a
+!
+! Yellow
+*.color3:      #d2ca72
+*.color11:     #e3dc8b
+!
+! Blue
+*.color4:      #80b3a0
+*.color12:     #9bc8b5
+!
+! Magenta
+*.color5:      #a8b38a
+*.color13:     #bec7a0
+!
+! Cyan
+*.color6:      #62c5ac
+*.color14:     #7ddbc2
+!
+! White
+*.color7:      #e5eddb
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

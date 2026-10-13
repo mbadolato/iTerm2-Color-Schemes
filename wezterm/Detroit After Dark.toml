@@ -1,0 +1,12 @@
+# Detroit After Dark
+[colors]
+foreground = "#f7e6d7"
+background = "#24141b"
+cursor_bg = "#ecc578"
+cursor_border = "#ecc578"
+cursor_fg = "#24141b"
+selection_bg = "#4c343f"
+selection_fg = "#f7e6d7"
+
+ansi = ["#a8b2b8","#e66e62","#9dc28e","#e9bd66","#8cb3d9","#c89bd4","#84c9cb","#f7e6d7"]
+brights = ["#b9c1c6","#e97f75","#a9c99c","#ecc578","#9abcde","#cfa7d9","#93cfd1","#f9ebdf"]

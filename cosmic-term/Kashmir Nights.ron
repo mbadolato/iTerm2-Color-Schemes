@@ -1,0 +1,41 @@
+(
+    name: "Kashmir Nights",
+    foreground: "#f4dfc9",
+    background: "#291714",
+    cursor: "#f1bb72",
+    bright_foreground: "#f4dfc9",
+    dim_foreground: "#c9b8a9",
+
+    normal: (
+        black: "#b4a29a",
+        red: "#dc805e",
+        green: "#b6b18a",
+        yellow: "#e6b46a",
+        blue: "#9cacc1",
+        magenta: "#b5a0b7",
+        cyan: "#a6b6ad",
+        white: "#f4dfc9"
+    ),
+
+    bright: (
+        black: "#c9b8a9",
+        red: "#f09b72",
+        green: "#cbc59d",
+        yellow: "#f7cc82",
+        blue: "#b5c2d2",
+        magenta: "#ceb5d0",
+        cyan: "#bcd1c1",
+        white: "#fff0dd"
+    ),
+
+    dim: (
+        black: "#b4a29a",
+        red: "#dc805e",
+        green: "#b6b18a",
+        yellow: "#e6b46a",
+        blue: "#9cacc1",
+        magenta: "#b5a0b7",
+        cyan: "#a6b6ad",
+        white: "#f4dfc9"
+    ),
+)

@@ -1,0 +1,41 @@
+(
+    name: "Prince of Barkness",
+    foreground: "#f1dfbf",
+    background: "#100e17",
+    cursor: "#f6c85a",
+    bright_foreground: "#f1dfbf",
+    dim_foreground: "#81798f",
+
+    normal: (
+        black: "#7d7b86",
+        red: "#f16b77",
+        green: "#6fe0a2",
+        yellow: "#f6c85a",
+        blue: "#8eaeff",
+        magenta: "#d5a0f5",
+        cyan: "#6adbe2",
+        white: "#f1dfbf"
+    ),
+
+    bright: (
+        black: "#81798f",
+        red: "#ff8e99",
+        green: "#92f2b8",
+        yellow: "#ffe08b",
+        blue: "#b7c8ff",
+        magenta: "#e7b8ff",
+        cyan: "#94eef0",
+        white: "#fff4de"
+    ),
+
+    dim: (
+        black: "#7d7b86",
+        red: "#f16b77",
+        green: "#6fe0a2",
+        yellow: "#f6c85a",
+        blue: "#8eaeff",
+        magenta: "#d5a0f5",
+        cyan: "#6adbe2",
+        white: "#f1dfbf"
+    ),
+)

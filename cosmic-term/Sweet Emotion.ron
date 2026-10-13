@@ -1,0 +1,41 @@
+(
+    name: "Sweet Emotion",
+    foreground: "#f9e5f4",
+    background: "#211027",
+    cursor: "#e6b86b",
+    bright_foreground: "#f9e5f4",
+    dim_foreground: "#c4c7c8",
+
+    normal: (
+        black: "#a6a7a6",
+        red: "#ee75a8",
+        green: "#78c6a6",
+        yellow: "#e6b86b",
+        blue: "#89a8ee",
+        magenta: "#c38bec",
+        cyan: "#75cbd6",
+        white: "#f9e5f4"
+    ),
+
+    bright: (
+        black: "#c4c7c8",
+        red: "#f18bb6",
+        green: "#8ecfb4",
+        yellow: "#eac383",
+        blue: "#9cb6f1",
+        magenta: "#cd9eef",
+        cyan: "#8bd3dd",
+        white: "#fff9ee"
+    ),
+
+    dim: (
+        black: "#a6a7a6",
+        red: "#ee75a8",
+        green: "#78c6a6",
+        yellow: "#e6b86b",
+        blue: "#89a8ee",
+        magenta: "#c38bec",
+        cyan: "#75cbd6",
+        white: "#f9e5f4"
+    ),
+)

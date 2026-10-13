@@ -1,0 +1,43 @@
+!
+! Hysterical Frequency
+!
+*.foreground:  #f1ebfa
+*.background:  #202444
+*.cursorColor: #efcf7f
+!
+! Black
+*.color0:      #a8b2b8
+*.color8:      #b9c1c6
+!
+! Red
+*.color1:      #e77b9c
+*.color9:      #ea8ba8
+!
+! Green
+*.color2:      #8dc8a0
+*.color10:     #9bcfab
+!
+! Yellow
+*.color3:      #edc86e
+*.color11:     #efcf7f
+!
+! Blue
+*.color4:      #82baf0
+*.color12:     #91c2f2
+!
+! Magenta
+*.color5:      #d1a1eb
+*.color13:     #d7aced
+!
+! Cyan
+*.color6:      #7bd1db
+*.color14:     #8bd7df
+!
+! White
+*.color7:      #f1ebfa
+*.color15:     #f4effb
+!
+! Bold, Italic, Underline
+*.colorBD:     #f4effb
+!*.colorIT:
+!*.colorUL:

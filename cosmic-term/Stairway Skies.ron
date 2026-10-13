@@ -1,0 +1,41 @@
+(
+    name: "Stairway Skies",
+    foreground: "#f7e9ca",
+    background: "#201a10",
+    cursor: "#e7c66e",
+    bright_foreground: "#f7e9ca",
+    dim_foreground: "#c4c7c8",
+
+    normal: (
+        black: "#a6a7a6",
+        red: "#d59a6b",
+        green: "#a6be82",
+        yellow: "#e7c66e",
+        blue: "#8aaed0",
+        magenta: "#c1a3d1",
+        cyan: "#8bc9c2",
+        white: "#f7e9ca"
+    ),
+
+    bright: (
+        black: "#c4c7c8",
+        red: "#dcaa83",
+        green: "#b4c896",
+        yellow: "#ebcf85",
+        blue: "#9dbbd8",
+        magenta: "#cbb2d8",
+        cyan: "#9ed2cc",
+        white: "#fff9ee"
+    ),
+
+    dim: (
+        black: "#a6a7a6",
+        red: "#d59a6b",
+        green: "#a6be82",
+        yellow: "#e7c66e",
+        blue: "#8aaed0",
+        magenta: "#c1a3d1",
+        cyan: "#8bc9c2",
+        white: "#f7e9ca"
+    ),
+)

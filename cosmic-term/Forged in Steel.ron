@@ -1,0 +1,41 @@
+(
+    name: "Forged in Steel",
+    foreground: "#e8f1f5",
+    background: "#14232f",
+    cursor: "#c8dce8",
+    bright_foreground: "#e8f1f5",
+    dim_foreground: "#b7c6d0",
+
+    normal: (
+        black: "#9daebc",
+        red: "#db7779",
+        green: "#95b9b7",
+        yellow: "#bcb9a1",
+        blue: "#83b8da",
+        magenta: "#a8b2c9",
+        cyan: "#81c8d4",
+        white: "#dbe8ee"
+    ),
+
+    bright: (
+        black: "#b7c6d0",
+        red: "#ef8583",
+        green: "#a9c9c4",
+        yellow: "#d2cfb7",
+        blue: "#a0cbea",
+        magenta: "#c0c8d9",
+        cyan: "#9ad9e0",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#9daebc",
+        red: "#db7779",
+        green: "#95b9b7",
+        yellow: "#bcb9a1",
+        blue: "#83b8da",
+        magenta: "#a8b2c9",
+        cyan: "#81c8d4",
+        white: "#dbe8ee"
+    ),
+)

@@ -1,0 +1,41 @@
+(
+    name: "Yngwie's Strat",
+    foreground: "#25231f",
+    background: "#fbe68b",
+    cursor: "#9c2922",
+    bright_foreground: "#25231f",
+    dim_foreground: "#51463b",
+
+    normal: (
+        black: "#342d27",
+        red: "#9c2922",
+        green: "#37663e",
+        yellow: "#785015",
+        blue: "#244f85",
+        magenta: "#67416c",
+        cyan: "#17616b",
+        white: "#3e3730"
+    ),
+
+    bright: (
+        black: "#51463b",
+        red: "#b0392b",
+        green: "#3b6d45",
+        yellow: "#845b16",
+        blue: "#315e9c",
+        magenta: "#795080",
+        cyan: "#206f79",
+        white: "#272522"
+    ),
+
+    dim: (
+        black: "#342d27",
+        red: "#9c2922",
+        green: "#37663e",
+        yellow: "#785015",
+        blue: "#244f85",
+        magenta: "#67416c",
+        cyan: "#17616b",
+        white: "#3e3730"
+    ),
+)

@@ -24,6 +24,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/3024-night.png)
 
+### 5150 Mode
+
+![Screenshot](/screenshots/5150-mode.png)
+
 ### Aardvark Blue
 
 ![Screenshot](/screenshots/aardvark-blue.png)
@@ -556,9 +560,17 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/desert.png)
 
+### Detroit After Dark
+
+![Screenshot](/screenshots/detroit-after-dark.png)
+
 ### Detuned
 
 ![Screenshot](/screenshots/detuned.png)
+
+### Diary of a Lunatic
+
+![Screenshot](/screenshots/diary-of-a-lunatic.png)
 
 ### Dimidium
 
@@ -608,6 +620,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/dracula.png)
 
+### Dream Onward
+
+![Screenshot](/screenshots/dream-onward.png)
+
 ### Driftwood
 
 ![Screenshot](/screenshots/driftwood.png)
@@ -635,6 +651,14 @@ The screenshots are categorized.
 ### Ectoplasm
 
 ![Screenshot](/screenshots/ectoplasm.png)
+
+### Eight Hundred
+
+![Screenshot](/screenshots/eight-hundred.png)
+
+### Electric Voodoo
+
+![Screenshot](/screenshots/electric-voodoo.png)
 
 ### Electron Highlighter
 
@@ -775,6 +799,10 @@ The screenshots are categorized.
 ### Forge Ember
 
 ![Screenshot](/screenshots/forge-ember.png)
+
+### Forged in Steel
+
+![Screenshot](/screenshots/forged-in-steel.png)
 
 ### Framer
 
@@ -944,6 +972,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/hellfire.png)
 
+### High Voltage Highway
+
+![Screenshot](/screenshots/high-voltage-highway.png)
+
 ### Highway
 
 ![Screenshot](/screenshots/highway.png)
@@ -991,6 +1023,10 @@ The screenshots are categorized.
 ### Hyper
 
 ![Screenshot](/screenshots/hyper.png)
+
+### Hysterical Frequency
+
+![Screenshot](/screenshots/hysterical-frequency.png)
 
 ### IBM 5153 CGA (Black)
 
@@ -1088,6 +1124,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/jubi.png)
 
+### Jump Start
+
+![Screenshot](/screenshots/jump-start.png)
+
 ### Jute Espresso
 
 ![Screenshot](/screenshots/jute-espresso.png)
@@ -1131,6 +1171,10 @@ The screenshots are categorized.
 ### Karma Dark
 
 ![Screenshot](/screenshots/karma-dark.png)
+
+### Kashmir Nights
+
+![Screenshot](/screenshots/kashmir-nights.png)
 
 ### Keys Ocean Sunset HC
 
@@ -1308,6 +1352,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/midnight-in-mojave.png)
 
+### Midnight Rambler
+
+![Screenshot](/screenshots/midnight-rambler.png)
+
+### Mindcrime
+
+![Screenshot](/screenshots/mindcrime.png)
+
 ### Mirage
 
 ![Screenshot](/screenshots/mirage.png)
@@ -1403,6 +1455,10 @@ The screenshots are categorized.
 ### Motel Vacancy
 
 ![Screenshot](/screenshots/motel-vacancy.png)
+
+### Moving Signals
+
+![Screenshot](/screenshots/moving-signals.png)
 
 ### N0Tch2K
 
@@ -1632,6 +1688,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/paraiso-dark.png)
 
+### Paranoid Circuit
+
+![Screenshot](/screenshots/paranoid-circuit.png)
+
 ### Patina Dark Soft
 
 ![Screenshot](/screenshots/patina-dark-soft.png)
@@ -1667,6 +1727,10 @@ The screenshots are categorized.
 ### Phala Green Dark
 
 ![Screenshot](/screenshots/phala-green-dark.png)
+
+### Pharaoh's Voltage
+
+![Screenshot](/screenshots/pharaohs-voltage.png)
 
 ### Pierre Dark
 
@@ -1716,6 +1780,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/prickly-pear.png)
 
+### Prince of Barkness
+
+![Screenshot](/screenshots/prince-of-barkness.png)
+
 ### Prince of Darkness
 
 ![Screenshot](/screenshots/prince-of-darkness.png)
@@ -1723,6 +1791,10 @@ The screenshots are categorized.
 ### Prism
 
 ![Screenshot](/screenshots/prism.png)
+
+### Prismatica
+
+![Screenshot](/screenshots/prismatica.png)
 
 ### Pro
 
@@ -1739,6 +1811,10 @@ The screenshots are categorized.
 ### Pumpkin Spice
 
 ![Screenshot](/screenshots/pumpkin-spice.png)
+
+### Puppet's Master
+
+![Screenshot](/screenshots/puppets-master.png)
 
 ### Purple Portal
 
@@ -1811,6 +1887,14 @@ The screenshots are categorized.
 ### Rhoads RR Black
 
 ![Screenshot](/screenshots/rhoads-rr-black.png)
+
+### Rhoads Tribute
+
+![Screenshot](/screenshots/rhoads-tribute.png)
+
+### Ride the Current
+
+![Screenshot](/screenshots/ride-the-current.png)
 
 ### Rippedcasts
 
@@ -1964,6 +2048,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/signal-ghost.png)
 
+### Silent Empire
+
+![Screenshot](/screenshots/silent-empire.png)
+
 ### SilkCircuit Glow
 
 ![Screenshot](/screenshots/silkcircuit-glow.png)
@@ -1987,6 +2075,10 @@ The screenshots are categorized.
 ### Sleepy Hollow
 
 ![Screenshot](/screenshots/sleepy-hollow.png)
+
+### Smoke on the Terminal
+
+![Screenshot](/screenshots/smoke-on-the-terminal.png)
 
 ### Smyck
 
@@ -2064,6 +2156,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/srcery.png)
 
+### Stairway Skies
+
+![Screenshot](/screenshots/stairway-skies.png)
+
 ### Starlight
 
 ![Screenshot](/screenshots/starlight.png)
@@ -2091,6 +2187,14 @@ The screenshots are categorized.
 ### Sunset Drive
 
 ![Screenshot](/screenshots/sunset-drive.png)
+
+### Sunset Strip
+
+![Screenshot](/screenshots/sunset-strip.png)
+
+### Sweet Emotion
+
+![Screenshot](/screenshots/sweet-emotion.png)
 
 ### Symfonic
 
@@ -2216,6 +2320,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/trick-or-treat.png)
 
+### Tumbling Stones
+
+![Screenshot](/screenshots/tumbling-stones.png)
+
 ### Turquoise Trail
 
 ![Screenshot](/screenshots/turquoise-trail.png)
@@ -2235,6 +2343,10 @@ The screenshots are categorized.
 ### Ultra Violent
 
 ![Screenshot](/screenshots/ultra-violent.png)
+
+### Unalive 'Em All
+
+![Screenshot](/screenshots/unalive-em-all.png)
 
 ### Undead
 
@@ -2594,6 +2706,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/gitlab-light.png)
 
+### Golden Mischief
+
+![Screenshot](/screenshots/golden-mischief.png)
+
 ### Golden Retriever Cream
 
 ![Screenshot](/screenshots/golden-retriever-cream.png)
@@ -2890,6 +3006,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/rose-pine-dawn.png)
 
+### Royal Rhapsody
+
+![Screenshot](/screenshots/royal-rhapsody.png)
+
 ### Safety Glass
 
 ![Screenshot](/screenshots/safety-glass.png)
@@ -2981,6 +3101,10 @@ The screenshots are categorized.
 ### Squintless
 
 ![Screenshot](/screenshots/squintless.png)
+
+### Stardust Voltage
+
+![Screenshot](/screenshots/stardust-voltage.png)
 
 ### Static Memory
 
@@ -3077,6 +3201,10 @@ The screenshots are categorized.
 ### Y2K Chrome
 
 ![Screenshot](/screenshots/y2k-chrome.png)
+
+### Yngwie's Strat
+
+![Screenshot](/screenshots/yngwies-strat.png)
 
 ### Zenbones Light
 

@@ -1,0 +1,17 @@
+[meta]
+name = "Eight Hundred"
+mode = "dark"
+
+[terminal]
+foreground = "#e9e6d9"
+background = "#101c28"
+palette = [
+    "#b2c0c9", "#f08b81", "#8ed1a3", "#f3c76c",
+    "#8bb9ea", "#c4a2e6", "#69d9cb", "#e9e6d9",
+    "#d1d9de", "#ffa69b", "#a9e0b9", "#ffe09a",
+    "#aacdf3", "#d8bcee", "#91e8dd", "#ffffff",
+]
+cursor = "#f3c76c"
+cursor-text = "#101c28"
+selection-background = "#395468"
+selection-foreground = "#ffffff"

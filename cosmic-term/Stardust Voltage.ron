@@ -1,0 +1,41 @@
+(
+    name: "Stardust Voltage",
+    foreground: "#27354e",
+    background: "#f0e5d9",
+    cursor: "#664a15",
+    bright_foreground: "#27354e",
+    dim_foreground: "#534a47",
+
+    normal: (
+        black: "#685c59",
+        red: "#892c3e",
+        green: "#346c51",
+        yellow: "#745418",
+        blue: "#274988",
+        magenta: "#684376",
+        cyan: "#2b666f",
+        white: "#27354e"
+    ),
+
+    bright: (
+        black: "#534a47",
+        red: "#792737",
+        green: "#2e5f47",
+        yellow: "#664a15",
+        blue: "#224078",
+        magenta: "#5c3b68",
+        cyan: "#265a62",
+        white: "#1f2a3e"
+    ),
+
+    dim: (
+        black: "#685c59",
+        red: "#892c3e",
+        green: "#346c51",
+        yellow: "#745418",
+        blue: "#274988",
+        magenta: "#684376",
+        cyan: "#2b666f",
+        white: "#27354e"
+    ),
+)

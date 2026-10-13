@@ -1,0 +1,12 @@
+# Moving Signals
+[colors]
+foreground = "#f6e9dc"
+background = "#28141b"
+cursor_bg = "#e6c077"
+cursor_border = "#e6c077"
+cursor_fg = "#28141b"
+selection_bg = "#58303b"
+selection_fg = "#ffffff"
+
+ansi = ["#a99b9d","#d56b70","#9cb6a2","#d7a96c","#8baac0","#b9a0b7","#91b5b2","#efe1d3"]
+brights = ["#c2b2b2","#ee8382","#afcbb2","#edc385","#a2bfd1","#cdb2c8","#a7ccc5","#fff4e8"]

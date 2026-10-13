@@ -1,0 +1,41 @@
+(
+    name: "Silent Empire",
+    foreground: "#e3f3f5",
+    background: "#071e29",
+    cursor: "#e6c579",
+    bright_foreground: "#e3f3f5",
+    dim_foreground: "#c4c7c8",
+
+    normal: (
+        black: "#a6a7a6",
+        red: "#df8179",
+        green: "#86c5a4",
+        yellow: "#e6c579",
+        blue: "#7ab8ec",
+        magenta: "#b399e9",
+        cyan: "#71d6de",
+        white: "#e3f3f5"
+    ),
+
+    bright: (
+        black: "#c4c7c8",
+        red: "#e4958e",
+        green: "#99ceb3",
+        yellow: "#eace8e",
+        blue: "#8fc3ef",
+        magenta: "#bfa9ed",
+        cyan: "#88dde3",
+        white: "#fff9ee"
+    ),
+
+    dim: (
+        black: "#a6a7a6",
+        red: "#df8179",
+        green: "#86c5a4",
+        yellow: "#e6c579",
+        blue: "#7ab8ec",
+        magenta: "#b399e9",
+        cyan: "#71d6de",
+        white: "#e3f3f5"
+    ),
+)

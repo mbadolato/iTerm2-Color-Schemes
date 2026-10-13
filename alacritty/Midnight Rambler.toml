@@ -1,0 +1,33 @@
+# Colors (Midnight Rambler)
+
+[colors.bright]
+black = '#c4c7c8'
+blue = '#8dc3f2'
+cyan = '#89dae4'
+green = '#8fd2b9'
+magenta = '#cb9eed'
+red = '#f08a9f'
+white = '#fff9ee'
+yellow = '#e8cc8a'
+
+[colors.cursor]
+cursor = '#e4c274'
+text = '#081a30'
+
+[colors.normal]
+black = '#a6a7a6'
+blue = '#77b8f0'
+cyan = '#73d3df'
+green = '#7ac9ac'
+magenta = '#c18be9'
+red = '#ed748d'
+white = '#e6f0fa'
+yellow = '#e4c274'
+
+[colors.primary]
+background = '#081a30'
+foreground = '#e6f0fa'
+
+[colors.selection]
+background = '#394653'
+text = '#fff8ee'

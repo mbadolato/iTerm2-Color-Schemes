@@ -1,0 +1,17 @@
+[meta]
+name = "Stairway Skies"
+mode = "dark"
+
+[terminal]
+foreground = "#f7e9ca"
+background = "#201a10"
+palette = [
+    "#a6a7a6", "#d59a6b", "#a6be82", "#e7c66e",
+    "#8aaed0", "#c1a3d1", "#8bc9c2", "#f7e9ca",
+    "#c4c7c8", "#dcaa83", "#b4c896", "#ebcf85",
+    "#9dbbd8", "#cbb2d8", "#9ed2cc", "#fff9ee",
+]
+cursor = "#e7c66e"
+cursor-text = "#201a10"
+selection-background = "#4a3830"
+selection-foreground = "#fff8ee"

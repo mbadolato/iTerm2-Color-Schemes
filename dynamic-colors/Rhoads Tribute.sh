@@ -1,0 +1,7 @@
+#!/bin/sh
+# Rhoads Tribute
+printf "\033]4;0;#b9adb9;1;#ed8b8e;2;#a9cb92;3;#eac06a;4;#a4b9e4;5;#c3a0e5;6;#8bcdd1;7;#fff0d2;8;#d3c8d0;9;#f6a3a2;10;#c1dda7;11;#f5d48a;12;#b8cbef;13;#d8b9ef;14;#a6dfe1;15;#fff9ec\007"
+printf "\033]10;#fff0d2;#29212f;#f2c36a\007"
+printf "\033]17;#563a60\007"
+printf "\033]19;#fff8e9\007"
+printf "\033]5;0;#efc66d\007"

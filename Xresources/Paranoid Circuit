@@ -1,0 +1,43 @@
+!
+! Paranoid Circuit
+!
+*.foreground:  #f2e9d3
+*.background:  #27322b
+*.cursorColor: #edc179
+!
+! Black
+*.color0:      #aaa9a1
+*.color8:      #c4c0b4
+!
+! Red
+*.color1:      #dc9771
+*.color9:      #e9aa82
+!
+! Green
+*.color2:      #a7c67c
+*.color10:     #bcd992
+!
+! Yellow
+*.color3:      #d5bd6e
+*.color11:     #e8d084
+!
+! Blue
+*.color4:      #9cb4b5
+*.color12:     #aec8c6
+!
+! Magenta
+*.color5:      #c69cce
+*.color13:     #d7b2dc
+!
+! Cyan
+*.color6:      #9ac7ae
+*.color14:     #afd8c1
+!
+! White
+*.color7:      #eee3cd
+*.color15:     #fff3df
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

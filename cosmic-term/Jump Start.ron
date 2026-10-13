@@ -1,0 +1,41 @@
+(
+    name: "Jump Start",
+    foreground: "#e8f1fa",
+    background: "#071e35",
+    cursor: "#f3cf7d",
+    bright_foreground: "#e8f1fa",
+    dim_foreground: "#b9c1c6",
+
+    normal: (
+        black: "#a8b2b8",
+        red: "#ee798a",
+        green: "#83c7a3",
+        yellow: "#f1c86b",
+        blue: "#81b9f2",
+        magenta: "#d49ee5",
+        cyan: "#79d0e0",
+        white: "#e8f1fa"
+    ),
+
+    bright: (
+        black: "#b9c1c6",
+        red: "#f08998",
+        green: "#92ceae",
+        yellow: "#f3cf7d",
+        blue: "#90c1f4",
+        magenta: "#d9aae8",
+        cyan: "#89d6e4",
+        white: "#edf4fb"
+    ),
+
+    dim: (
+        black: "#a8b2b8",
+        red: "#ee798a",
+        green: "#83c7a3",
+        yellow: "#f1c86b",
+        blue: "#81b9f2",
+        magenta: "#d49ee5",
+        cyan: "#79d0e0",
+        white: "#e8f1fa"
+    ),
+)

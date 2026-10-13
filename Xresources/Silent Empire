@@ -1,0 +1,43 @@
+!
+! Silent Empire
+!
+*.foreground:  #e3f3f5
+*.background:  #071e29
+*.cursorColor: #e6c579
+!
+! Black
+*.color0:      #a6a7a6
+*.color8:      #c4c7c8
+!
+! Red
+*.color1:      #df8179
+*.color9:      #e4958e
+!
+! Green
+*.color2:      #86c5a4
+*.color10:     #99ceb3
+!
+! Yellow
+*.color3:      #e6c579
+*.color11:     #eace8e
+!
+! Blue
+*.color4:      #7ab8ec
+*.color12:     #8fc3ef
+!
+! Magenta
+*.color5:      #b399e9
+*.color13:     #bfa9ed
+!
+! Cyan
+*.color6:      #71d6de
+*.color14:     #88dde3
+!
+! White
+*.color7:      #e3f3f5
+*.color15:     #fff9ee
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff9ee
+!*.colorIT:
+!*.colorUL:

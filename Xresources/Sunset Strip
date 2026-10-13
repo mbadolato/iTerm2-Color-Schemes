@@ -1,0 +1,43 @@
+!
+! Sunset Strip
+!
+*.foreground:  #fce9dd
+*.background:  #1c1832
+*.cursorColor: #f6cb7e
+!
+! Black
+*.color0:      #a8b2b8
+*.color8:      #b9c1c6
+!
+! Red
+*.color1:      #f07880
+*.color9:      #f2888f
+!
+! Green
+*.color2:      #8ec9a0
+*.color10:     #9ccfab
+!
+! Yellow
+*.color3:      #f5c46c
+*.color11:     #f6cb7e
+!
+! Blue
+*.color4:      #83b7e7
+*.color12:     #92c0ea
+!
+! Magenta
+*.color5:      #e58ecb
+*.color13:     #e89cd1
+!
+! Cyan
+*.color6:      #7bd2d7
+*.color14:     #8bd7dc
+!
+! White
+*.color7:      #fce9dd
+*.color15:     #fdede4
+!
+! Bold, Italic, Underline
+*.colorBD:     #fdede4
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,41 @@
+(
+    name: "Unalive 'Em All",
+    foreground: "#eee3dd",
+    background: "#110c0b",
+    cursor: "#ff4541",
+    bright_foreground: "#eee3dd",
+    dim_foreground: "#c6beba",
+
+    normal: (
+        black: "#aaa29e",
+        red: "#ec514a",
+        green: "#81bb7a",
+        yellow: "#e7b75d",
+        blue: "#78aef0",
+        magenta: "#c68bd8",
+        cyan: "#68c7c7",
+        white: "#eee3dd"
+    ),
+
+    bright: (
+        black: "#c6beba",
+        red: "#ff7971",
+        green: "#a1d391",
+        yellow: "#f5ce77",
+        blue: "#96c3fa",
+        magenta: "#dba8e9",
+        cyan: "#87dbd9",
+        white: "#fff5ed"
+    ),
+
+    dim: (
+        black: "#aaa29e",
+        red: "#ec514a",
+        green: "#81bb7a",
+        yellow: "#e7b75d",
+        blue: "#78aef0",
+        magenta: "#c68bd8",
+        cyan: "#68c7c7",
+        white: "#eee3dd"
+    ),
+)

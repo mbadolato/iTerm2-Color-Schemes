@@ -1,0 +1,33 @@
+# Colors (Smoke on the Terminal)
+
+[colors.bright]
+black = '#b9c1c6'
+blue = '#afbee5'
+cyan = '#9cd1d7'
+green = '#b2cfa3'
+magenta = '#d5a7e5'
+red = '#e39b8f'
+white = '#f7edf6'
+yellow = '#e7c692'
+
+[colors.cursor]
+cursor = '#e7c692'
+text = '#30243a'
+
+[colors.normal]
+black = '#a8b2b8'
+blue = '#a4b5e2'
+cyan = '#8fcbd2'
+green = '#a7c996'
+magenta = '#cf9be2'
+red = '#df8d80'
+white = '#f5e8f4'
+yellow = '#e4be83'
+
+[colors.primary]
+background = '#30243a'
+foreground = '#f5e8f4'
+
+[colors.selection]
+background = '#553f55'
+text = '#f5e8f4'

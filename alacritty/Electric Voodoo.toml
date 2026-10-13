@@ -1,0 +1,33 @@
+# Colors (Electric Voodoo)
+
+[colors.bright]
+black = '#b9c1c6'
+blue = '#9fc2e4'
+cyan = '#99d7cf'
+green = '#b3d097'
+magenta = '#deabe7'
+red = '#f29986'
+white = '#fbebd8'
+yellow = '#efc887'
+
+[colors.cursor]
+cursor = '#efc887'
+text = '#40213c'
+
+[colors.normal]
+black = '#a8b2b8'
+blue = '#92bae0'
+cyan = '#8bd1c9'
+green = '#a9ca89'
+magenta = '#d99fe4'
+red = '#f08b76'
+white = '#fae6ce'
+yellow = '#edc077'
+
+[colors.primary]
+background = '#40213c'
+foreground = '#fae6ce'
+
+[colors.selection]
+background = '#603d56'
+text = '#fae6ce'

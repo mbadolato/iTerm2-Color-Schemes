@@ -1,0 +1,12 @@
+# Pharaoh's Voltage
+[colors]
+foreground = "#f8e9ca"
+background = "#102c3c"
+cursor_bg = "#ecca78"
+cursor_border = "#ecca78"
+cursor_fg = "#102c3c"
+selection_bg = "#3e4556"
+selection_fg = "#f8e9ca"
+
+ansi = ["#a8b2b8","#ea9166","#8bc49c","#e9c366","#78b9e8","#c79cda","#74d5d6","#f8e9ca"]
+brights = ["#b9c1c6","#ed9e78","#99cba8","#ecca78","#88c1eb","#cea8de","#85dadb","#f9edd5"]

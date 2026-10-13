@@ -1,0 +1,17 @@
+[meta]
+name = "Diary of a Lunatic"
+mode = "dark"
+
+[terminal]
+foreground = "#d8f5f7"
+background = "#042631"
+palette = [
+    "#9ebdc7", "#e58c91", "#94cfac", "#e3bb69",
+    "#83bce7", "#b59be8", "#72d7e3", "#d8f5f7",
+    "#b9d3da", "#f1a4aa", "#b0e2c1", "#f2d38b",
+    "#a0d1f0", "#ccb3f5", "#96eaf1", "#f3ffff",
+]
+cursor = "#eac16a"
+cursor-text = "#042631"
+selection-background = "#234c64"
+selection-foreground = "#f1ffff"

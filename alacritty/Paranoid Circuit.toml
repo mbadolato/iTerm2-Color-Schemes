@@ -1,0 +1,33 @@
+# Colors (Paranoid Circuit)
+
+[colors.bright]
+black = '#c4c0b4'
+blue = '#aec8c6'
+cyan = '#afd8c1'
+green = '#bcd992'
+magenta = '#d7b2dc'
+red = '#e9aa82'
+white = '#fff3df'
+yellow = '#e8d084'
+
+[colors.cursor]
+cursor = '#edc179'
+text = '#27322b'
+
+[colors.normal]
+black = '#aaa9a1'
+blue = '#9cb4b5'
+cyan = '#9ac7ae'
+green = '#a7c67c'
+magenta = '#c69cce'
+red = '#dc9771'
+white = '#eee3cd'
+yellow = '#d5bd6e'
+
+[colors.primary]
+background = '#27322b'
+foreground = '#f2e9d3'
+
+[colors.selection]
+background = '#4b4a3b'
+text = '#ffffff'

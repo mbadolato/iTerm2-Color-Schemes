@@ -1,0 +1,43 @@
+!
+! Yngwie's Strat
+!
+*.foreground:  #25231f
+*.background:  #fbe68b
+*.cursorColor: #9c2922
+!
+! Black
+*.color0:      #342d27
+*.color8:      #51463b
+!
+! Red
+*.color1:      #9c2922
+*.color9:      #b0392b
+!
+! Green
+*.color2:      #37663e
+*.color10:     #3b6d45
+!
+! Yellow
+*.color3:      #785015
+*.color11:     #845b16
+!
+! Blue
+*.color4:      #244f85
+*.color12:     #315e9c
+!
+! Magenta
+*.color5:      #67416c
+*.color13:     #795080
+!
+! Cyan
+*.color6:      #17616b
+*.color14:     #206f79
+!
+! White
+*.color7:      #3e3730
+*.color15:     #272522
+!
+! Bold, Italic, Underline
+*.colorBD:     #29241d
+!*.colorIT:
+!*.colorUL:

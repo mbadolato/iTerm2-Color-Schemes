@@ -1,0 +1,12 @@
+# Silent Empire
+[colors]
+foreground = "#e3f3f5"
+background = "#071e29"
+cursor_bg = "#e6c579"
+cursor_border = "#e6c579"
+cursor_fg = "#071e29"
+selection_bg = "#394653"
+selection_fg = "#fff8ee"
+
+ansi = ["#a6a7a6","#df8179","#86c5a4","#e6c579","#7ab8ec","#b399e9","#71d6de","#e3f3f5"]
+brights = ["#c4c7c8","#e4958e","#99ceb3","#eace8e","#8fc3ef","#bfa9ed","#88dde3","#fff9ee"]

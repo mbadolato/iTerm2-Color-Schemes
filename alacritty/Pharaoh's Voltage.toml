@@ -1,0 +1,33 @@
+# Colors (Pharaoh's Voltage)
+
+[colors.bright]
+black = '#b9c1c6'
+blue = '#88c1eb'
+cyan = '#85dadb'
+green = '#99cba8'
+magenta = '#cea8de'
+red = '#ed9e78'
+white = '#f9edd5'
+yellow = '#ecca78'
+
+[colors.cursor]
+cursor = '#ecca78'
+text = '#102c3c'
+
+[colors.normal]
+black = '#a8b2b8'
+blue = '#78b9e8'
+cyan = '#74d5d6'
+green = '#8bc49c'
+magenta = '#c79cda'
+red = '#ea9166'
+white = '#f8e9ca'
+yellow = '#e9c366'
+
+[colors.primary]
+background = '#102c3c'
+foreground = '#f8e9ca'
+
+[colors.selection]
+background = '#3e4556'
+text = '#f8e9ca'

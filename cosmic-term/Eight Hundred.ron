@@ -1,0 +1,41 @@
+(
+    name: "Eight Hundred",
+    foreground: "#e9e6d9",
+    background: "#101c28",
+    cursor: "#f3c76c",
+    bright_foreground: "#e9e6d9",
+    dim_foreground: "#d1d9de",
+
+    normal: (
+        black: "#b2c0c9",
+        red: "#f08b81",
+        green: "#8ed1a3",
+        yellow: "#f3c76c",
+        blue: "#8bb9ea",
+        magenta: "#c4a2e6",
+        cyan: "#69d9cb",
+        white: "#e9e6d9"
+    ),
+
+    bright: (
+        black: "#d1d9de",
+        red: "#ffa69b",
+        green: "#a9e0b9",
+        yellow: "#ffe09a",
+        blue: "#aacdf3",
+        magenta: "#d8bcee",
+        cyan: "#91e8dd",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#b2c0c9",
+        red: "#f08b81",
+        green: "#8ed1a3",
+        yellow: "#f3c76c",
+        blue: "#8bb9ea",
+        magenta: "#c4a2e6",
+        cyan: "#69d9cb",
+        white: "#e9e6d9"
+    ),
+)

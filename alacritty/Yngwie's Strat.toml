@@ -1,0 +1,33 @@
+# Colors (Yngwie's Strat)
+
+[colors.bright]
+black = '#51463b'
+blue = '#315e9c'
+cyan = '#206f79'
+green = '#3b6d45'
+magenta = '#795080'
+red = '#b0392b'
+white = '#272522'
+yellow = '#845b16'
+
+[colors.cursor]
+cursor = '#9c2922'
+text = '#fff2bd'
+
+[colors.normal]
+black = '#342d27'
+blue = '#244f85'
+cyan = '#17616b'
+green = '#37663e'
+magenta = '#67416c'
+red = '#9c2922'
+white = '#3e3730'
+yellow = '#785015'
+
+[colors.primary]
+background = '#fbe68b'
+foreground = '#25231f'
+
+[colors.selection]
+background = '#b6a251'
+text = '#211e19'

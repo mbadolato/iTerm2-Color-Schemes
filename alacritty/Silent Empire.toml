@@ -1,0 +1,33 @@
+# Colors (Silent Empire)
+
+[colors.bright]
+black = '#c4c7c8'
+blue = '#8fc3ef'
+cyan = '#88dde3'
+green = '#99ceb3'
+magenta = '#bfa9ed'
+red = '#e4958e'
+white = '#fff9ee'
+yellow = '#eace8e'
+
+[colors.cursor]
+cursor = '#e6c579'
+text = '#071e29'
+
+[colors.normal]
+black = '#a6a7a6'
+blue = '#7ab8ec'
+cyan = '#71d6de'
+green = '#86c5a4'
+magenta = '#b399e9'
+red = '#df8179'
+white = '#e3f3f5'
+yellow = '#e6c579'
+
+[colors.primary]
+background = '#071e29'
+foreground = '#e3f3f5'
+
+[colors.selection]
+background = '#394653'
+text = '#fff8ee'

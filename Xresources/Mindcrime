@@ -1,0 +1,43 @@
+!
+! Mindcrime
+!
+*.foreground:  #eee6dd
+*.background:  #19191c
+*.cursorColor: #e86e62
+!
+! Black
+*.color0:      #9dacae
+*.color8:      #b5bdbb
+!
+! Red
+*.color1:      #e5625a
+*.color9:      #fa8176
+!
+! Green
+*.color2:      #82baa0
+*.color10:     #9bc9a9
+!
+! Yellow
+*.color3:      #d3aa77
+*.color11:     #ebc18b
+!
+! Blue
+*.color4:      #8daebc
+*.color12:     #a8c4cf
+!
+! Magenta
+*.color5:      #b9a3af
+*.color13:     #d1b4c2
+!
+! Cyan
+*.color6:      #8cbab7
+*.color14:     #a4d1ca
+!
+! White
+*.color7:      #e6dfd6
+*.color15:     #fff4e8
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff5e6
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (Royal Rhapsody)
+
+[colors.bright]
+black = '#534a47'
+blue = '#26496c'
+cyan = '#245c5f'
+green = '#31624b'
+magenta = '#603c62'
+red = '#742d3c'
+white = '#24222f'
+yellow = '#654a14'
+
+[colors.cursor]
+cursor = '#654a14'
+text = '#f0e6d8'
+
+[colors.normal]
+black = '#685c59'
+blue = '#2b537b'
+cyan = '#29686c'
+green = '#386f55'
+magenta = '#6d446f'
+red = '#843344'
+white = '#2d2b3b'
+yellow = '#735417'
+
+[colors.primary]
+background = '#f0e6d8'
+foreground = '#2d2b3b'
+
+[colors.selection]
+background = '#dbc7c3'
+text = '#2d2b3b'

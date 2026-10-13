@@ -1,0 +1,43 @@
+!
+! Midnight Rambler
+!
+*.foreground:  #e6f0fa
+*.background:  #081a30
+*.cursorColor: #e4c274
+!
+! Black
+*.color0:      #a6a7a6
+*.color8:      #c4c7c8
+!
+! Red
+*.color1:      #ed748d
+*.color9:      #f08a9f
+!
+! Green
+*.color2:      #7ac9ac
+*.color10:     #8fd2b9
+!
+! Yellow
+*.color3:      #e4c274
+*.color11:     #e8cc8a
+!
+! Blue
+*.color4:      #77b8f0
+*.color12:     #8dc3f2
+!
+! Magenta
+*.color5:      #c18be9
+*.color13:     #cb9eed
+!
+! Cyan
+*.color6:      #73d3df
+*.color14:     #89dae4
+!
+! White
+*.color7:      #e6f0fa
+*.color15:     #fff9ee
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff9ee
+!*.colorIT:
+!*.colorUL:

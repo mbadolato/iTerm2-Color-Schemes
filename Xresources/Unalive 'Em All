@@ -1,0 +1,43 @@
+!
+! Unalive 'Em All
+!
+*.foreground:  #eee3dd
+*.background:  #110c0b
+*.cursorColor: #ff4541
+!
+! Black
+*.color0:      #aaa29e
+*.color8:      #c6beba
+!
+! Red
+*.color1:      #ec514a
+*.color9:      #ff7971
+!
+! Green
+*.color2:      #81bb7a
+*.color10:     #a1d391
+!
+! Yellow
+*.color3:      #e7b75d
+*.color11:     #f5ce77
+!
+! Blue
+*.color4:      #78aef0
+*.color12:     #96c3fa
+!
+! Magenta
+*.color5:      #c68bd8
+*.color13:     #dba8e9
+!
+! Cyan
+*.color6:      #68c7c7
+*.color14:     #87dbd9
+!
+! White
+*.color7:      #eee3dd
+*.color15:     #fff5ed
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff4e8
+!*.colorIT:
+!*.colorUL:

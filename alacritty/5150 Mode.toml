@@ -1,0 +1,33 @@
+# Colors (5150 Mode)
+
+[colors.bright]
+black = '#a8c5b9'
+blue = '#9bc8b5'
+cyan = '#7ddbc2'
+green = '#8ed69a'
+magenta = '#bec7a0'
+red = '#e8ab83'
+white = '#ffffff'
+yellow = '#e3dc8b'
+
+[colors.cursor]
+cursor = '#d5e875'
+text = '#082820'
+
+[colors.normal]
+black = '#8ca99f'
+blue = '#80b3a0'
+cyan = '#62c5ac'
+green = '#70bd83'
+magenta = '#a8b38a'
+red = '#d59a71'
+white = '#e5eddb'
+yellow = '#d2ca72'
+
+[colors.primary]
+background = '#082820'
+foreground = '#ecf4db'
+
+[colors.selection]
+background = '#245444'
+text = '#ffffff'

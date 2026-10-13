@@ -1,0 +1,43 @@
+!
+! Dream Onward
+!
+*.foreground:  #f7e7ce
+*.background:  #19120f
+*.cursorColor: #e3b65b
+!
+! Black
+*.color0:      #a6a7a6
+*.color8:      #c4c7c8
+!
+! Red
+*.color1:      #dc7862
+*.color9:      #e28e7b
+!
+! Green
+*.color2:      #91b88c
+*.color10:     #a3c39e
+!
+! Yellow
+*.color3:      #e3b65b
+*.color11:     #e7c275
+!
+! Blue
+*.color4:      #7fa9c8
+*.color12:     #93b7d1
+!
+! Magenta
+*.color5:      #b99ad4
+*.color13:     #c4aadb
+!
+! Cyan
+*.color6:      #7dbeb9
+*.color14:     #92c8c4
+!
+! White
+*.color7:      #f7e7ce
+*.color15:     #fff9ee
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff9ee
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,33 @@
+# Colors (High Voltage Highway)
+
+[colors.bright]
+black = '#b9c1c6'
+blue = '#99c1d9'
+cyan = '#96d6d1'
+green = '#aacba6'
+magenta = '#d0afda'
+red = '#e58a77'
+white = '#f4f0e9'
+yellow = '#e9c987'
+
+[colors.cursor]
+cursor = '#e9c987'
+text = '#151619'
+
+[colors.normal]
+black = '#a8b2b8'
+blue = '#8bb8d4'
+cyan = '#88d0cb'
+green = '#9ec49a'
+magenta = '#caa4d5'
+red = '#e17a64'
+white = '#f1ece4'
+yellow = '#e6c277'
+
+[colors.primary]
+background = '#151619'
+foreground = '#f1ece4'
+
+[colors.selection]
+background = '#42363e'
+text = '#f1ece4'

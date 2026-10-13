@@ -1,0 +1,41 @@
+(
+    name: "Smoke on the Terminal",
+    foreground: "#f5e8f4",
+    background: "#30243a",
+    cursor: "#e7c692",
+    bright_foreground: "#f5e8f4",
+    dim_foreground: "#b9c1c6",
+
+    normal: (
+        black: "#a8b2b8",
+        red: "#df8d80",
+        green: "#a7c996",
+        yellow: "#e4be83",
+        blue: "#a4b5e2",
+        magenta: "#cf9be2",
+        cyan: "#8fcbd2",
+        white: "#f5e8f4"
+    ),
+
+    bright: (
+        black: "#b9c1c6",
+        red: "#e39b8f",
+        green: "#b2cfa3",
+        yellow: "#e7c692",
+        blue: "#afbee5",
+        magenta: "#d5a7e5",
+        cyan: "#9cd1d7",
+        white: "#f7edf6"
+    ),
+
+    dim: (
+        black: "#a8b2b8",
+        red: "#df8d80",
+        green: "#a7c996",
+        yellow: "#e4be83",
+        blue: "#a4b5e2",
+        magenta: "#cf9be2",
+        cyan: "#8fcbd2",
+        white: "#f5e8f4"
+    ),
+)

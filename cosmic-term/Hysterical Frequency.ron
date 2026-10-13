@@ -1,0 +1,41 @@
+(
+    name: "Hysterical Frequency",
+    foreground: "#f1ebfa",
+    background: "#202444",
+    cursor: "#efcf7f",
+    bright_foreground: "#f1ebfa",
+    dim_foreground: "#b9c1c6",
+
+    normal: (
+        black: "#a8b2b8",
+        red: "#e77b9c",
+        green: "#8dc8a0",
+        yellow: "#edc86e",
+        blue: "#82baf0",
+        magenta: "#d1a1eb",
+        cyan: "#7bd1db",
+        white: "#f1ebfa"
+    ),
+
+    bright: (
+        black: "#b9c1c6",
+        red: "#ea8ba8",
+        green: "#9bcfab",
+        yellow: "#efcf7f",
+        blue: "#91c2f2",
+        magenta: "#d7aced",
+        cyan: "#8bd7df",
+        white: "#f4effb"
+    ),
+
+    dim: (
+        black: "#a8b2b8",
+        red: "#e77b9c",
+        green: "#8dc8a0",
+        yellow: "#edc86e",
+        blue: "#82baf0",
+        magenta: "#d1a1eb",
+        cyan: "#7bd1db",
+        white: "#f1ebfa"
+    ),
+)

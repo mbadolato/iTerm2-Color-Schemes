@@ -1,0 +1,41 @@
+(
+    name: "Dream Onward",
+    foreground: "#f7e7ce",
+    background: "#19120f",
+    cursor: "#e3b65b",
+    bright_foreground: "#f7e7ce",
+    dim_foreground: "#c4c7c8",
+
+    normal: (
+        black: "#a6a7a6",
+        red: "#dc7862",
+        green: "#91b88c",
+        yellow: "#e3b65b",
+        blue: "#7fa9c8",
+        magenta: "#b99ad4",
+        cyan: "#7dbeb9",
+        white: "#f7e7ce"
+    ),
+
+    bright: (
+        black: "#c4c7c8",
+        red: "#e28e7b",
+        green: "#a3c39e",
+        yellow: "#e7c275",
+        blue: "#93b7d1",
+        magenta: "#c4aadb",
+        cyan: "#92c8c4",
+        white: "#fff9ee"
+    ),
+
+    dim: (
+        black: "#a6a7a6",
+        red: "#dc7862",
+        green: "#91b88c",
+        yellow: "#e3b65b",
+        blue: "#7fa9c8",
+        magenta: "#b99ad4",
+        cyan: "#7dbeb9",
+        white: "#f7e7ce"
+    ),
+)

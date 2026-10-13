@@ -1,0 +1,33 @@
+# Colors (Golden Mischief)
+
+[colors.bright]
+black = '#4e3b54'
+blue = '#2d4584'
+cyan = '#005059'
+green = '#195233'
+magenta = '#672d88'
+red = '#881e3a'
+white = '#493727'
+yellow = '#604300'
+
+[colors.cursor]
+cursor = '#632b85'
+text = '#ffffff'
+
+[colors.normal]
+black = '#30233d'
+blue = '#233f88'
+cyan = '#005058'
+green = '#145232'
+magenta = '#632b85'
+red = '#8b1838'
+white = '#392b1b'
+yellow = '#5f4300'
+
+[colors.primary]
+background = '#d7b37a'
+foreground = '#30233d'
+
+[colors.selection]
+background = '#563d70'
+text = '#ffffff'

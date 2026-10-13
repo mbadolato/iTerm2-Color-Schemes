@@ -1,0 +1,41 @@
+(
+    name: "Paranoid Circuit",
+    foreground: "#f2e9d3",
+    background: "#27322b",
+    cursor: "#edc179",
+    bright_foreground: "#f2e9d3",
+    dim_foreground: "#c4c0b4",
+
+    normal: (
+        black: "#aaa9a1",
+        red: "#dc9771",
+        green: "#a7c67c",
+        yellow: "#d5bd6e",
+        blue: "#9cb4b5",
+        magenta: "#c69cce",
+        cyan: "#9ac7ae",
+        white: "#eee3cd"
+    ),
+
+    bright: (
+        black: "#c4c0b4",
+        red: "#e9aa82",
+        green: "#bcd992",
+        yellow: "#e8d084",
+        blue: "#aec8c6",
+        magenta: "#d7b2dc",
+        cyan: "#afd8c1",
+        white: "#fff3df"
+    ),
+
+    dim: (
+        black: "#aaa9a1",
+        red: "#dc9771",
+        green: "#a7c67c",
+        yellow: "#d5bd6e",
+        blue: "#9cb4b5",
+        magenta: "#c69cce",
+        cyan: "#9ac7ae",
+        white: "#eee3cd"
+    ),
+)

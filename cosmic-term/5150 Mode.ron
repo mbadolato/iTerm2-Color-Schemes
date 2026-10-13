@@ -1,0 +1,41 @@
+(
+    name: "5150 Mode",
+    foreground: "#ecf4db",
+    background: "#082820",
+    cursor: "#d5e875",
+    bright_foreground: "#ecf4db",
+    dim_foreground: "#a8c5b9",
+
+    normal: (
+        black: "#8ca99f",
+        red: "#d59a71",
+        green: "#70bd83",
+        yellow: "#d2ca72",
+        blue: "#80b3a0",
+        magenta: "#a8b38a",
+        cyan: "#62c5ac",
+        white: "#e5eddb"
+    ),
+
+    bright: (
+        black: "#a8c5b9",
+        red: "#e8ab83",
+        green: "#8ed69a",
+        yellow: "#e3dc8b",
+        blue: "#9bc8b5",
+        magenta: "#bec7a0",
+        cyan: "#7ddbc2",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#8ca99f",
+        red: "#d59a71",
+        green: "#70bd83",
+        yellow: "#d2ca72",
+        blue: "#80b3a0",
+        magenta: "#a8b38a",
+        cyan: "#62c5ac",
+        white: "#e5eddb"
+    ),
+)

@@ -1,0 +1,12 @@
+# Stairway Skies
+[colors]
+foreground = "#f7e9ca"
+background = "#201a10"
+cursor_bg = "#e7c66e"
+cursor_border = "#e7c66e"
+cursor_fg = "#201a10"
+selection_bg = "#4a3830"
+selection_fg = "#fff8ee"
+
+ansi = ["#a6a7a6","#d59a6b","#a6be82","#e7c66e","#8aaed0","#c1a3d1","#8bc9c2","#f7e9ca"]
+brights = ["#c4c7c8","#dcaa83","#b4c896","#ebcf85","#9dbbd8","#cbb2d8","#9ed2cc","#fff9ee"]

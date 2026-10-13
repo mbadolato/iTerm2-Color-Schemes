@@ -1,0 +1,43 @@
+!
+! Sweet Emotion
+!
+*.foreground:  #f9e5f4
+*.background:  #211027
+*.cursorColor: #e6b86b
+!
+! Black
+*.color0:      #a6a7a6
+*.color8:      #c4c7c8
+!
+! Red
+*.color1:      #ee75a8
+*.color9:      #f18bb6
+!
+! Green
+*.color2:      #78c6a6
+*.color10:     #8ecfb4
+!
+! Yellow
+*.color3:      #e6b86b
+*.color11:     #eac383
+!
+! Blue
+*.color4:      #89a8ee
+*.color12:     #9cb6f1
+!
+! Magenta
+*.color5:      #c38bec
+*.color13:     #cd9eef
+!
+! Cyan
+*.color6:      #75cbd6
+*.color14:     #8bd3dd
+!
+! White
+*.color7:      #f9e5f4
+*.color15:     #fff9ee
+!
+! Bold, Italic, Underline
+*.colorBD:     #fff9ee
+!*.colorIT:
+!*.colorUL:

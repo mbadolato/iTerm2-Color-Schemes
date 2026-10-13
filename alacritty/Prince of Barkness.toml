@@ -1,0 +1,33 @@
+# Colors (Prince of Barkness)
+
+[colors.bright]
+black = '#81798f'
+blue = '#b7c8ff'
+cyan = '#94eef0'
+green = '#92f2b8'
+magenta = '#e7b8ff'
+red = '#ff8e99'
+white = '#fff4de'
+yellow = '#ffe08b'
+
+[colors.cursor]
+cursor = '#f6c85a'
+text = '#100e17'
+
+[colors.normal]
+black = '#7d7b86'
+blue = '#8eaeff'
+cyan = '#6adbe2'
+green = '#6fe0a2'
+magenta = '#d5a0f5'
+red = '#f16b77'
+white = '#f1dfbf'
+yellow = '#f6c85a'
+
+[colors.primary]
+background = '#100e17'
+foreground = '#f1dfbf'
+
+[colors.selection]
+background = '#4c376a'
+text = '#fff4de'

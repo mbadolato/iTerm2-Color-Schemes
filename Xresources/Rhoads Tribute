@@ -1,0 +1,43 @@
+!
+! Rhoads Tribute
+!
+*.foreground:  #fff0d2
+*.background:  #29212f
+*.cursorColor: #f2c36a
+!
+! Black
+*.color0:      #b9adb9
+*.color8:      #d3c8d0
+!
+! Red
+*.color1:      #ed8b8e
+*.color9:      #f6a3a2
+!
+! Green
+*.color2:      #a9cb92
+*.color10:     #c1dda7
+!
+! Yellow
+*.color3:      #eac06a
+*.color11:     #f5d48a
+!
+! Blue
+*.color4:      #a4b9e4
+*.color12:     #b8cbef
+!
+! Magenta
+*.color5:      #c3a0e5
+*.color13:     #d8b9ef
+!
+! Cyan
+*.color6:      #8bcdd1
+*.color14:     #a6dfe1
+!
+! White
+*.color7:      #fff0d2
+*.color15:     #fff9ec
+!
+! Bold, Italic, Underline
+*.colorBD:     #efc66d
+!*.colorIT:
+!*.colorUL:

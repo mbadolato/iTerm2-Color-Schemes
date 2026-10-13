@@ -1,0 +1,12 @@
+# Mindcrime
+[colors]
+foreground = "#eee6dd"
+background = "#19191c"
+cursor_bg = "#e86e62"
+cursor_border = "#e86e62"
+cursor_fg = "#19191c"
+selection_bg = "#51413e"
+selection_fg = "#fff9ed"
+
+ansi = ["#9dacae","#e5625a","#82baa0","#d3aa77","#8daebc","#b9a3af","#8cbab7","#e6dfd6"]
+brights = ["#b5bdbb","#fa8176","#9bc9a9","#ebc18b","#a8c4cf","#d1b4c2","#a4d1ca","#fff4e8"]

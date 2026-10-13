@@ -1,0 +1,41 @@
+(
+    name: "Diary of a Lunatic",
+    foreground: "#d8f5f7",
+    background: "#042631",
+    cursor: "#eac16a",
+    bright_foreground: "#d8f5f7",
+    dim_foreground: "#b9d3da",
+
+    normal: (
+        black: "#9ebdc7",
+        red: "#e58c91",
+        green: "#94cfac",
+        yellow: "#e3bb69",
+        blue: "#83bce7",
+        magenta: "#b59be8",
+        cyan: "#72d7e3",
+        white: "#d8f5f7"
+    ),
+
+    bright: (
+        black: "#b9d3da",
+        red: "#f1a4aa",
+        green: "#b0e2c1",
+        yellow: "#f2d38b",
+        blue: "#a0d1f0",
+        magenta: "#ccb3f5",
+        cyan: "#96eaf1",
+        white: "#f3ffff"
+    ),
+
+    dim: (
+        black: "#9ebdc7",
+        red: "#e58c91",
+        green: "#94cfac",
+        yellow: "#e3bb69",
+        blue: "#83bce7",
+        magenta: "#b59be8",
+        cyan: "#72d7e3",
+        white: "#d8f5f7"
+    ),
+)

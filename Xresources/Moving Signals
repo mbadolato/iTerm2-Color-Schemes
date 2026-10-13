@@ -1,0 +1,43 @@
+!
+! Moving Signals
+!
+*.foreground:  #f6e9dc
+*.background:  #28141b
+*.cursorColor: #e6c077
+!
+! Black
+*.color0:      #a99b9d
+*.color8:      #c2b2b2
+!
+! Red
+*.color1:      #d56b70
+*.color9:      #ee8382
+!
+! Green
+*.color2:      #9cb6a2
+*.color10:     #afcbb2
+!
+! Yellow
+*.color3:      #d7a96c
+*.color11:     #edc385
+!
+! Blue
+*.color4:      #8baac0
+*.color12:     #a2bfd1
+!
+! Magenta
+*.color5:      #b9a0b7
+*.color13:     #cdb2c8
+!
+! Cyan
+*.color6:      #91b5b2
+*.color14:     #a7ccc5
+!
+! White
+*.color7:      #efe1d3
+*.color15:     #fff4e8
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

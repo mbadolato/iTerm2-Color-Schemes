@@ -1,0 +1,17 @@
+[meta]
+name = "Mindcrime"
+mode = "dark"
+
+[terminal]
+foreground = "#eee6dd"
+background = "#19191c"
+palette = [
+    "#9dacae", "#e5625a", "#82baa0", "#d3aa77",
+    "#8daebc", "#b9a3af", "#8cbab7", "#e6dfd6",
+    "#b5bdbb", "#fa8176", "#9bc9a9", "#ebc18b",
+    "#a8c4cf", "#d1b4c2", "#a4d1ca", "#fff4e8",
+]
+cursor = "#e86e62"
+cursor-text = "#19191c"
+selection-background = "#51413e"
+selection-foreground = "#fff9ed"

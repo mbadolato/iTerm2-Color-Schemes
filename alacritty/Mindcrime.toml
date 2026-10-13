@@ -1,0 +1,33 @@
+# Colors (Mindcrime)
+
+[colors.bright]
+black = '#b5bdbb'
+blue = '#a8c4cf'
+cyan = '#a4d1ca'
+green = '#9bc9a9'
+magenta = '#d1b4c2'
+red = '#fa8176'
+white = '#fff4e8'
+yellow = '#ebc18b'
+
+[colors.cursor]
+cursor = '#e86e62'
+text = '#19191c'
+
+[colors.normal]
+black = '#9dacae'
+blue = '#8daebc'
+cyan = '#8cbab7'
+green = '#82baa0'
+magenta = '#b9a3af'
+red = '#e5625a'
+white = '#e6dfd6'
+yellow = '#d3aa77'
+
+[colors.primary]
+background = '#19191c'
+foreground = '#eee6dd'
+
+[colors.selection]
+background = '#51413e'
+text = '#fff9ed'

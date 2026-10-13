@@ -1,0 +1,43 @@
+!
+! Detroit After Dark
+!
+*.foreground:  #f7e6d7
+*.background:  #24141b
+*.cursorColor: #ecc578
+!
+! Black
+*.color0:      #a8b2b8
+*.color8:      #b9c1c6
+!
+! Red
+*.color1:      #e66e62
+*.color9:      #e97f75
+!
+! Green
+*.color2:      #9dc28e
+*.color10:     #a9c99c
+!
+! Yellow
+*.color3:      #e9bd66
+*.color11:     #ecc578
+!
+! Blue
+*.color4:      #8cb3d9
+*.color12:     #9abcde
+!
+! Magenta
+*.color5:      #c89bd4
+*.color13:     #cfa7d9
+!
+! Cyan
+*.color6:      #84c9cb
+*.color14:     #93cfd1
+!
+! White
+*.color7:      #f7e6d7
+*.color15:     #f9ebdf
+!
+! Bold, Italic, Underline
+*.colorBD:     #f9ebdf
+!*.colorIT:
+!*.colorUL:

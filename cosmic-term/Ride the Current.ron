@@ -1,0 +1,41 @@
+(
+    name: "Ride the Current",
+    foreground: "#e0f2fc",
+    background: "#041b30",
+    cursor: "#58aaff",
+    bright_foreground: "#e0f2fc",
+    dim_foreground: "#b6c8d2",
+
+    normal: (
+        black: "#9aafbd",
+        red: "#e7787b",
+        green: "#7dc5a6",
+        yellow: "#e4c476",
+        blue: "#79b4ff",
+        magenta: "#ba98f4",
+        cyan: "#6ccee0",
+        white: "#e0f2fc"
+    ),
+
+    bright: (
+        black: "#b6c8d2",
+        red: "#f3949b",
+        green: "#9ed8ba",
+        yellow: "#f2d590",
+        blue: "#a0ccff",
+        magenta: "#d0b3fa",
+        cyan: "#90e1eb",
+        white: "#f5fcff"
+    ),
+
+    dim: (
+        black: "#9aafbd",
+        red: "#e7787b",
+        green: "#7dc5a6",
+        yellow: "#e4c476",
+        blue: "#79b4ff",
+        magenta: "#ba98f4",
+        cyan: "#6ccee0",
+        white: "#e0f2fc"
+    ),
+)

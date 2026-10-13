@@ -1,0 +1,41 @@
+(
+    name: "Golden Mischief",
+    foreground: "#30233d",
+    background: "#d7b37a",
+    cursor: "#632b85",
+    bright_foreground: "#30233d",
+    dim_foreground: "#4e3b54",
+
+    normal: (
+        black: "#30233d",
+        red: "#8b1838",
+        green: "#145232",
+        yellow: "#5f4300",
+        blue: "#233f88",
+        magenta: "#632b85",
+        cyan: "#005058",
+        white: "#392b1b"
+    ),
+
+    bright: (
+        black: "#4e3b54",
+        red: "#881e3a",
+        green: "#195233",
+        yellow: "#604300",
+        blue: "#2d4584",
+        magenta: "#672d88",
+        cyan: "#005059",
+        white: "#493727"
+    ),
+
+    dim: (
+        black: "#30233d",
+        red: "#8b1838",
+        green: "#145232",
+        yellow: "#5f4300",
+        blue: "#233f88",
+        magenta: "#632b85",
+        cyan: "#005058",
+        white: "#392b1b"
+    ),
+)

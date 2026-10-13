@@ -1,0 +1,12 @@
+# 5150 Mode
+[colors]
+foreground = "#ecf4db"
+background = "#082820"
+cursor_bg = "#d5e875"
+cursor_border = "#d5e875"
+cursor_fg = "#082820"
+selection_bg = "#245444"
+selection_fg = "#ffffff"
+
+ansi = ["#8ca99f","#d59a71","#70bd83","#d2ca72","#80b3a0","#a8b38a","#62c5ac","#e5eddb"]
+brights = ["#a8c5b9","#e8ab83","#8ed69a","#e3dc8b","#9bc8b5","#bec7a0","#7ddbc2","#ffffff"]

@@ -1,0 +1,17 @@
+[meta]
+name = "Midnight Rambler"
+mode = "dark"
+
+[terminal]
+foreground = "#e6f0fa"
+background = "#081a30"
+palette = [
+    "#a6a7a6", "#ed748d", "#7ac9ac", "#e4c274",
+    "#77b8f0", "#c18be9", "#73d3df", "#e6f0fa",
+    "#c4c7c8", "#f08a9f", "#8fd2b9", "#e8cc8a",
+    "#8dc3f2", "#cb9eed", "#89dae4", "#fff9ee",
+]
+cursor = "#e4c274"
+cursor-text = "#081a30"
+selection-background = "#394653"
+selection-foreground = "#fff8ee"

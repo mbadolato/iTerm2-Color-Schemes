@@ -1,0 +1,33 @@
+# Colors (Puppet's Master)
+
+[colors.bright]
+black = '#d1c2b6'
+blue = '#a9c4e9'
+cyan = '#9bdbd4'
+green = '#bed08e'
+magenta = '#d7b3dd'
+red = '#f59573'
+white = '#fff4e8'
+yellow = '#f3cb77'
+
+[colors.cursor]
+cursor = '#f17938'
+text = '#25150e'
+
+[colors.normal]
+black = '#b5a69a'
+blue = '#8daee0'
+cyan = '#7ec9c4'
+green = '#a4bc75'
+magenta = '#c49cce'
+red = '#e9785e'
+white = '#f5e6d5'
+yellow = '#e5b65c'
+
+[colors.primary]
+background = '#25150e'
+foreground = '#f5e6d5'
+
+[colors.selection]
+background = '#583022'
+text = '#fff6e7'

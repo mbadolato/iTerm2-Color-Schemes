@@ -1,0 +1,17 @@
+[meta]
+name = "High Voltage Highway"
+mode = "dark"
+
+[terminal]
+foreground = "#f1ece4"
+background = "#151619"
+palette = [
+    "#a8b2b8", "#e17a64", "#9ec49a", "#e6c277",
+    "#8bb8d4", "#caa4d5", "#88d0cb", "#f1ece4",
+    "#b9c1c6", "#e58a77", "#aacba6", "#e9c987",
+    "#99c1d9", "#d0afda", "#96d6d1", "#f4f0e9",
+]
+cursor = "#e9c987"
+cursor-text = "#151619"
+selection-background = "#42363e"
+selection-foreground = "#f1ece4"

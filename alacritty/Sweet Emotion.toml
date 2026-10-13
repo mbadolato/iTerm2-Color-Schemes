@@ -1,0 +1,33 @@
+# Colors (Sweet Emotion)
+
+[colors.bright]
+black = '#c4c7c8'
+blue = '#9cb6f1'
+cyan = '#8bd3dd'
+green = '#8ecfb4'
+magenta = '#cd9eef'
+red = '#f18bb6'
+white = '#fff9ee'
+yellow = '#eac383'
+
+[colors.cursor]
+cursor = '#e6b86b'
+text = '#211027'
+
+[colors.normal]
+black = '#a6a7a6'
+blue = '#89a8ee'
+cyan = '#75cbd6'
+green = '#78c6a6'
+magenta = '#c38bec'
+red = '#ee75a8'
+white = '#f9e5f4'
+yellow = '#e6b86b'
+
+[colors.primary]
+background = '#211027'
+foreground = '#f9e5f4'
+
+[colors.selection]
+background = '#49343d'
+text = '#fff8ee'

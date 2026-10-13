@@ -1,0 +1,17 @@
+[meta]
+name = "Hysterical Frequency"
+mode = "dark"
+
+[terminal]
+foreground = "#f1ebfa"
+background = "#202444"
+palette = [
+    "#a8b2b8", "#e77b9c", "#8dc8a0", "#edc86e",
+    "#82baf0", "#d1a1eb", "#7bd1db", "#f1ebfa",
+    "#b9c1c6", "#ea8ba8", "#9bcfab", "#efcf7f",
+    "#91c2f2", "#d7aced", "#8bd7df", "#f4effb",
+]
+cursor = "#efcf7f"
+cursor-text = "#202444"
+selection-background = "#493f5c"
+selection-foreground = "#f1ebfa"

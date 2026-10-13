@@ -1,0 +1,43 @@
+!
+! Stardust Voltage
+!
+*.foreground:  #27354e
+*.background:  #f0e5d9
+*.cursorColor: #664a15
+!
+! Black
+*.color0:      #685c59
+*.color8:      #534a47
+!
+! Red
+*.color1:      #892c3e
+*.color9:      #792737
+!
+! Green
+*.color2:      #346c51
+*.color10:     #2e5f47
+!
+! Yellow
+*.color3:      #745418
+*.color11:     #664a15
+!
+! Blue
+*.color4:      #274988
+*.color12:     #224078
+!
+! Magenta
+*.color5:      #684376
+*.color13:     #5c3b68
+!
+! Cyan
+*.color6:      #2b666f
+*.color14:     #265a62
+!
+! White
+*.color7:      #27354e
+*.color15:     #1f2a3e
+!
+! Bold, Italic, Underline
+*.colorBD:     #1f2a3e
+!*.colorIT:
+!*.colorUL:

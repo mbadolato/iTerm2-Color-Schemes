@@ -1,0 +1,43 @@
+!
+! Ride the Current
+!
+*.foreground:  #e0f2fc
+*.background:  #041b30
+*.cursorColor: #58aaff
+!
+! Black
+*.color0:      #9aafbd
+*.color8:      #b6c8d2
+!
+! Red
+*.color1:      #e7787b
+*.color9:      #f3949b
+!
+! Green
+*.color2:      #7dc5a6
+*.color10:     #9ed8ba
+!
+! Yellow
+*.color3:      #e4c476
+*.color11:     #f2d590
+!
+! Blue
+*.color4:      #79b4ff
+*.color12:     #a0ccff
+!
+! Magenta
+*.color5:      #ba98f4
+*.color13:     #d0b3fa
+!
+! Cyan
+*.color6:      #6ccee0
+*.color14:     #90e1eb
+!
+! White
+*.color7:      #e0f2fc
+*.color15:     #f5fcff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f1faff
+!*.colorIT:
+!*.colorUL:

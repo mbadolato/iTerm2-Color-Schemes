@@ -1,0 +1,43 @@
+!
+! High Voltage Highway
+!
+*.foreground:  #f1ece4
+*.background:  #151619
+*.cursorColor: #e9c987
+!
+! Black
+*.color0:      #a8b2b8
+*.color8:      #b9c1c6
+!
+! Red
+*.color1:      #e17a64
+*.color9:      #e58a77
+!
+! Green
+*.color2:      #9ec49a
+*.color10:     #aacba6
+!
+! Yellow
+*.color3:      #e6c277
+*.color11:     #e9c987
+!
+! Blue
+*.color4:      #8bb8d4
+*.color12:     #99c1d9
+!
+! Magenta
+*.color5:      #caa4d5
+*.color13:     #d0afda
+!
+! Cyan
+*.color6:      #88d0cb
+*.color14:     #96d6d1
+!
+! White
+*.color7:      #f1ece4
+*.color15:     #f4f0e9
+!
+! Bold, Italic, Underline
+*.colorBD:     #f4f0e9
+!*.colorIT:
+!*.colorUL:

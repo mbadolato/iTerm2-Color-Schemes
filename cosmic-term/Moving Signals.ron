@@ -1,0 +1,41 @@
+(
+    name: "Moving Signals",
+    foreground: "#f6e9dc",
+    background: "#28141b",
+    cursor: "#e6c077",
+    bright_foreground: "#f6e9dc",
+    dim_foreground: "#c2b2b2",
+
+    normal: (
+        black: "#a99b9d",
+        red: "#d56b70",
+        green: "#9cb6a2",
+        yellow: "#d7a96c",
+        blue: "#8baac0",
+        magenta: "#b9a0b7",
+        cyan: "#91b5b2",
+        white: "#efe1d3"
+    ),
+
+    bright: (
+        black: "#c2b2b2",
+        red: "#ee8382",
+        green: "#afcbb2",
+        yellow: "#edc385",
+        blue: "#a2bfd1",
+        magenta: "#cdb2c8",
+        cyan: "#a7ccc5",
+        white: "#fff4e8"
+    ),
+
+    dim: (
+        black: "#a99b9d",
+        red: "#d56b70",
+        green: "#9cb6a2",
+        yellow: "#d7a96c",
+        blue: "#8baac0",
+        magenta: "#b9a0b7",
+        cyan: "#91b5b2",
+        white: "#efe1d3"
+    ),
+)

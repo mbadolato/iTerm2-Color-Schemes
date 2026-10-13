@@ -1,0 +1,41 @@
+(
+    name: "Midnight Rambler",
+    foreground: "#e6f0fa",
+    background: "#081a30",
+    cursor: "#e4c274",
+    bright_foreground: "#e6f0fa",
+    dim_foreground: "#c4c7c8",
+
+    normal: (
+        black: "#a6a7a6",
+        red: "#ed748d",
+        green: "#7ac9ac",
+        yellow: "#e4c274",
+        blue: "#77b8f0",
+        magenta: "#c18be9",
+        cyan: "#73d3df",
+        white: "#e6f0fa"
+    ),
+
+    bright: (
+        black: "#c4c7c8",
+        red: "#f08a9f",
+        green: "#8fd2b9",
+        yellow: "#e8cc8a",
+        blue: "#8dc3f2",
+        magenta: "#cb9eed",
+        cyan: "#89dae4",
+        white: "#fff9ee"
+    ),
+
+    dim: (
+        black: "#a6a7a6",
+        red: "#ed748d",
+        green: "#7ac9ac",
+        yellow: "#e4c274",
+        blue: "#77b8f0",
+        magenta: "#c18be9",
+        cyan: "#73d3df",
+        white: "#e6f0fa"
+    ),
+)

@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Stairway Skies'
+cursor-color='#e7c66e'
+foreground='#f7e9ca'
+background='rgba(32,26,16,.95)'
+palette='#a6a7a6:#d59a6b:#a6be82:#e7c66e:#8aaed0:#c1a3d1:#8bc9c2:#f7e9ca:#c4c7c8:#dcaa83:#b4c896:#ebcf85:#9dbbd8:#cbb2d8:#9ed2cc:#fff9ee'
+COLORS

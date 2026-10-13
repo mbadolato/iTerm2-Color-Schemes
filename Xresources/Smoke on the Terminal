@@ -1,0 +1,43 @@
+!
+! Smoke on the Terminal
+!
+*.foreground:  #f5e8f4
+*.background:  #30243a
+*.cursorColor: #e7c692
+!
+! Black
+*.color0:      #a8b2b8
+*.color8:      #b9c1c6
+!
+! Red
+*.color1:      #df8d80
+*.color9:      #e39b8f
+!
+! Green
+*.color2:      #a7c996
+*.color10:     #b2cfa3
+!
+! Yellow
+*.color3:      #e4be83
+*.color11:     #e7c692
+!
+! Blue
+*.color4:      #a4b5e2
+*.color12:     #afbee5
+!
+! Magenta
+*.color5:      #cf9be2
+*.color13:     #d5a7e5
+!
+! Cyan
+*.color6:      #8fcbd2
+*.color14:     #9cd1d7
+!
+! White
+*.color7:      #f5e8f4
+*.color15:     #f7edf6
+!
+! Bold, Italic, Underline
+*.colorBD:     #f7edf6
+!*.colorIT:
+!*.colorUL:

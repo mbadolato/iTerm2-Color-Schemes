@@ -1,0 +1,43 @@
+!
+! Prismatica
+!
+*.foreground:  #edf0f4
+*.background:  #10151e
+*.cursorColor: #edcf7d
+!
+! Black
+*.color0:      #a8b2b8
+*.color8:      #b9c1c6
+!
+! Red
+*.color1:      #ef767d
+*.color9:      #f1868d
+!
+! Green
+*.color2:      #87c79c
+*.color10:     #95cea8
+!
+! Yellow
+*.color3:      #ebc86b
+*.color11:     #edcf7d
+!
+! Blue
+*.color4:      #84b5ed
+*.color12:     #93beef
+!
+! Magenta
+*.color5:      #d69edc
+*.color13:     #dbaae0
+!
+! Cyan
+*.color6:      #79d2d2
+*.color14:     #89d7d7
+!
+! White
+*.color7:      #edf0f4
+*.color15:     #f1f3f6
+!
+! Bold, Italic, Underline
+*.colorBD:     #f1f3f6
+!*.colorIT:
+!*.colorUL:

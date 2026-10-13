@@ -1,0 +1,33 @@
+# Colors (Rhoads Tribute)
+
+[colors.bright]
+black = '#d3c8d0'
+blue = '#b8cbef'
+cyan = '#a6dfe1'
+green = '#c1dda7'
+magenta = '#d8b9ef'
+red = '#f6a3a2'
+white = '#fff9ec'
+yellow = '#f5d48a'
+
+[colors.cursor]
+cursor = '#f2c36a'
+text = '#29212f'
+
+[colors.normal]
+black = '#b9adb9'
+blue = '#a4b9e4'
+cyan = '#8bcdd1'
+green = '#a9cb92'
+magenta = '#c3a0e5'
+red = '#ed8b8e'
+white = '#fff0d2'
+yellow = '#eac06a'
+
+[colors.primary]
+background = '#29212f'
+foreground = '#fff0d2'
+
+[colors.selection]
+background = '#563a60'
+text = '#fff8e9'

@@ -1,0 +1,17 @@
+[meta]
+name = "Royal Rhapsody"
+mode = "light"
+
+[terminal]
+foreground = "#2d2b3b"
+background = "#f0e6d8"
+palette = [
+    "#685c59", "#843344", "#386f55", "#735417",
+    "#2b537b", "#6d446f", "#29686c", "#2d2b3b",
+    "#534a47", "#742d3c", "#31624b", "#654a14",
+    "#26496c", "#603c62", "#245c5f", "#24222f",
+]
+cursor = "#654a14"
+cursor-text = "#f0e6d8"
+selection-background = "#dbc7c3"
+selection-foreground = "#2d2b3b"
