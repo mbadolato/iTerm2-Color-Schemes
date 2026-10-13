@@ -1,0 +1,33 @@
+# Colors (iglass Dark)
+
+[colors.bright]
+black = '#a4a5aa'
+blue = '#a3cdff'
+cyan = '#95e0ff'
+green = '#44e968'
+magenta = '#e7b9ff'
+red = '#ffb8b0'
+white = '#ffffff'
+yellow = '#ffeaa3'
+
+[colors.cursor]
+cursor = '#62a7ff'
+text = '#17181c'
+
+[colors.normal]
+black = '#2c2c2e'
+blue = '#62a7ff'
+cyan = '#64d2ff'
+green = '#32d74b'
+magenta = '#d384ff'
+red = '#ff7f70'
+white = '#d1d1d6'
+yellow = '#ffd60a'
+
+[colors.primary]
+background = '#17181c'
+foreground = '#f7f8fd'
+
+[colors.selection]
+background = '#124172'
+text = '#f7f8fd'

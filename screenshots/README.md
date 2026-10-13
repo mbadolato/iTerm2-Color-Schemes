@@ -1056,6 +1056,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/idle-toes.png)
 
+### iglass Dark
+
+![Screenshot](/screenshots/iglass-dark.png)
+
 ### IR Black
 
 ![Screenshot](/screenshots/ir-black.png)
@@ -2769,6 +2773,10 @@ The screenshots are categorized.
 ### Icy Glacier
 
 ![Screenshot](/screenshots/icy-glacier.png)
+
+### iglass Light
+
+![Screenshot](/screenshots/iglass-light.png)
 
 ### Isocon Light
 

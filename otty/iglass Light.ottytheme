@@ -1,0 +1,17 @@
+[meta]
+name = "iglass Light"
+mode = "light"
+
+[terminal]
+foreground = "#1d1d1f"
+background = "#f5f5f7"
+palette = [
+    "#1d1d1f", "#92000b", "#00521b", "#763200",
+    "#0035bb", "#6a238a", "#004a6e", "#bababf",
+    "#605f64", "#c30006", "#007019", "#765d00",
+    "#005cc5", "#902fbd", "#00678d", "#e5e5ea",
+]
+cursor = "#005cc5"
+cursor-text = "#f5f5f7"
+selection-background = "#bad7f9"
+selection-foreground = "#1d1d1f"

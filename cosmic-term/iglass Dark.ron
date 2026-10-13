@@ -1,0 +1,41 @@
+(
+    name: "iglass Dark",
+    foreground: "#f7f8fd",
+    background: "#17181c",
+    cursor: "#62a7ff",
+    bright_foreground: "#f7f8fd",
+    dim_foreground: "#a4a5aa",
+
+    normal: (
+        black: "#2c2c2e",
+        red: "#ff7f70",
+        green: "#32d74b",
+        yellow: "#ffd60a",
+        blue: "#62a7ff",
+        magenta: "#d384ff",
+        cyan: "#64d2ff",
+        white: "#d1d1d6"
+    ),
+
+    bright: (
+        black: "#a4a5aa",
+        red: "#ffb8b0",
+        green: "#44e968",
+        yellow: "#ffeaa3",
+        blue: "#a3cdff",
+        magenta: "#e7b9ff",
+        cyan: "#95e0ff",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#2c2c2e",
+        red: "#ff7f70",
+        green: "#32d74b",
+        yellow: "#ffd60a",
+        blue: "#62a7ff",
+        magenta: "#d384ff",
+        cyan: "#64d2ff",
+        white: "#d1d1d6"
+    ),
+)

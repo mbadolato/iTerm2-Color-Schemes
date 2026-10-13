@@ -1,0 +1,41 @@
+(
+    name: "iglass Light",
+    foreground: "#1d1d1f",
+    background: "#f5f5f7",
+    cursor: "#005cc5",
+    bright_foreground: "#1d1d1f",
+    dim_foreground: "#605f64",
+
+    normal: (
+        black: "#1d1d1f",
+        red: "#92000b",
+        green: "#00521b",
+        yellow: "#763200",
+        blue: "#0035bb",
+        magenta: "#6a238a",
+        cyan: "#004a6e",
+        white: "#bababf"
+    ),
+
+    bright: (
+        black: "#605f64",
+        red: "#c30006",
+        green: "#007019",
+        yellow: "#765d00",
+        blue: "#005cc5",
+        magenta: "#902fbd",
+        cyan: "#00678d",
+        white: "#e5e5ea"
+    ),
+
+    dim: (
+        black: "#1d1d1f",
+        red: "#92000b",
+        green: "#00521b",
+        yellow: "#763200",
+        blue: "#0035bb",
+        magenta: "#6a238a",
+        cyan: "#004a6e",
+        white: "#bababf"
+    ),
+)

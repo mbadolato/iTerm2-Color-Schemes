@@ -1,0 +1,12 @@
+# iglass Light
+[colors]
+foreground = "#1d1d1f"
+background = "#f5f5f7"
+cursor_bg = "#005cc5"
+cursor_border = "#005cc5"
+cursor_fg = "#f5f5f7"
+selection_bg = "#bad7f9"
+selection_fg = "#1d1d1f"
+
+ansi = ["#1d1d1f","#92000b","#00521b","#763200","#0035bb","#6a238a","#004a6e","#bababf"]
+brights = ["#605f64","#c30006","#007019","#765d00","#005cc5","#902fbd","#00678d","#e5e5ea"]

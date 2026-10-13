@@ -1,0 +1,43 @@
+!
+! iglass Light
+!
+*.foreground:  #1d1d1f
+*.background:  #f5f5f7
+*.cursorColor: #005cc5
+!
+! Black
+*.color0:      #1d1d1f
+*.color8:      #605f64
+!
+! Red
+*.color1:      #92000b
+*.color9:      #c30006
+!
+! Green
+*.color2:      #00521b
+*.color10:     #007019
+!
+! Yellow
+*.color3:      #763200
+*.color11:     #765d00
+!
+! Blue
+*.color4:      #0035bb
+*.color12:     #005cc5
+!
+! Magenta
+*.color5:      #6a238a
+*.color13:     #902fbd
+!
+! Cyan
+*.color6:      #004a6e
+*.color14:     #00678d
+!
+! White
+*.color7:      #bababf
+*.color15:     #e5e5ea
+!
+! Bold, Italic, Underline
+*.colorBD:     #1d1d1f
+!*.colorIT:
+*.colorUL:     #1d1d1f
