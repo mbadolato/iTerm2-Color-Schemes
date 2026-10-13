@@ -847,3 +847,67 @@ The Sierra Gold theme was created by [Mark Badolato](https://terminalthemes.com/
 The Lit Cell theme was created by [Zerebos](https://github.com/zerebos).
 
 The Lit Cell Light theme was created by [Zerebos](https://github.com/zerebos).
+
+The 5150 Mode theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Detroit After Dark theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Diary of a Lunatic theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Dream Onward theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Eight Hundred theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Electric Voodoo theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Forged in Steel theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Golden Mischief theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The High Voltage Highway theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Hysterical Frequency theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Jump Start theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Kashmir Nights theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Midnight Rambler theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Mindcrime theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Moving Signals theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Paranoid Circuit theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Pharaoh's Voltage theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Prince of Barkness theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Prismatica theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Puppet's Master theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Rhoads Tribute theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Ride the Current theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Royal Rhapsody theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Silent Empire theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Smoke on the Terminal theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Stairway Skies theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Stardust Voltage theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Sunset Strip theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Sweet Emotion theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Tumbling Stones theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Unalive 'Em All theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Yngwie's Strat theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
