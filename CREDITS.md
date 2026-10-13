@@ -911,3 +911,5 @@ The Tumbling Stones theme was created by [Mark Badolato](https://terminalthemes.
 The Unalive 'Em All theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Yngwie's Strat theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The iglass Dark and iglass Light themes were created by [Vuk Topalovic](https://github.com/vukkt) for [iglass](https://github.com/vukkt/iglass).
