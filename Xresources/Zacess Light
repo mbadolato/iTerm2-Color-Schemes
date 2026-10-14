@@ -1,0 +1,43 @@
+!
+! Zacess Light
+!
+*.foreground:  #111111
+*.background:  #ffffff
+*.cursorColor: #111111
+!
+! Black
+*.color0:      #111111
+*.color8:      #4d4d4d
+!
+! Red
+*.color1:      #640003
+*.color9:      #950007
+!
+! Green
+*.color2:      #003708
+*.color10:     #005512
+!
+! Yellow
+*.color3:      #412900
+*.color11:     #634100
+!
+! Blue
+*.color4:      #002c66
+*.color12:     #004498
+!
+! Magenta
+*.color5:      #580055
+*.color13:     #84007f
+!
+! Cyan
+*.color6:      #003434
+*.color14:     #005151
+!
+! White
+*.color7:      #484848
+*.color15:     #111111
+!
+! Bold, Italic, Underline
+*.colorBD:     #111111
+!*.colorIT:
+!*.colorUL:

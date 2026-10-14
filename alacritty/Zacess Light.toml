@@ -1,0 +1,33 @@
+# Colors (Zacess Light)
+
+[colors.bright]
+black = '#4d4d4d'
+blue = '#004498'
+cyan = '#005151'
+green = '#005512'
+magenta = '#84007f'
+red = '#950007'
+white = '#111111'
+yellow = '#634100'
+
+[colors.cursor]
+cursor = '#111111'
+text = '#ffffff'
+
+[colors.normal]
+black = '#111111'
+blue = '#002c66'
+cyan = '#003434'
+green = '#003708'
+magenta = '#580055'
+red = '#640003'
+white = '#484848'
+yellow = '#412900'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#111111'
+
+[colors.selection]
+background = '#fff1a8'
+text = '#111111'

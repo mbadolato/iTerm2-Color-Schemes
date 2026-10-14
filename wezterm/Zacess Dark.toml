@@ -1,0 +1,12 @@
+# Zacess Dark
+[colors]
+foreground = "#f5f5f5"
+background = "#121212"
+cursor_bg = "#ffd400"
+cursor_border = "#ffd400"
+cursor_fg = "#121212"
+selection_bg = "#1a2436"
+selection_fg = "#f5f5f5"
+
+ansi = ["#2b2b2b","#ffa79b","#8dcd8e","#deb967","#90c1ff","#eba8e4","#52d0cf","#e6e6e6"]
+brights = ["#aeaeae","#ffd5ce","#aceead","#ffda8a","#c9e0ff","#ffd0fa","#76f1f0","#ffffff"]

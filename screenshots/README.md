@@ -2500,6 +2500,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/xcode-wwdc.png)
 
+### Zacess Dark
+
+![Screenshot](/screenshots/zacess-dark.png)
+
+### Zacess Yellow on Black
+
+![Screenshot](/screenshots/zacess-yellow-on-black.png)
+
 ### Zenbones Dark
 
 ![Screenshot](/screenshots/zenbones-dark.png)
@@ -3213,6 +3221,14 @@ The screenshots are categorized.
 ### Yngwie's Strat
 
 ![Screenshot](/screenshots/yngwies-strat.png)
+
+### Zacess Cream
+
+![Screenshot](/screenshots/zacess-cream.png)
+
+### Zacess Light
+
+![Screenshot](/screenshots/zacess-light.png)
 
 ### Zenbones Light
 

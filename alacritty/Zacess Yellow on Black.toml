@@ -1,0 +1,33 @@
+# Colors (Zacess Yellow on Black)
+
+[colors.bright]
+black = '#aeaeae'
+blue = '#c9e0ff'
+cyan = '#55f4f3'
+green = '#a2f1a4'
+magenta = '#ffd0fa'
+red = '#ffd5ce'
+white = '#ffffff'
+yellow = '#ffda8a'
+
+[colors.cursor]
+cursor = '#ffeb3b'
+text = '#000000'
+
+[colors.normal]
+black = '#262626'
+blue = '#90c1ff'
+cyan = '#1fd3d3'
+green = '#82d085'
+magenta = '#f2a4eb'
+red = '#ffa79b'
+white = '#d9d9d9'
+yellow = '#e5b851'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#0a2257'
+text = '#ffeb3b'

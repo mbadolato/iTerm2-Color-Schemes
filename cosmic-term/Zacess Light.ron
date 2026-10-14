@@ -1,0 +1,41 @@
+(
+    name: "Zacess Light",
+    foreground: "#111111",
+    background: "#ffffff",
+    cursor: "#111111",
+    bright_foreground: "#111111",
+    dim_foreground: "#4d4d4d",
+
+    normal: (
+        black: "#111111",
+        red: "#640003",
+        green: "#003708",
+        yellow: "#412900",
+        blue: "#002c66",
+        magenta: "#580055",
+        cyan: "#003434",
+        white: "#484848"
+    ),
+
+    bright: (
+        black: "#4d4d4d",
+        red: "#950007",
+        green: "#005512",
+        yellow: "#634100",
+        blue: "#004498",
+        magenta: "#84007f",
+        cyan: "#005151",
+        white: "#111111"
+    ),
+
+    dim: (
+        black: "#111111",
+        red: "#640003",
+        green: "#003708",
+        yellow: "#412900",
+        blue: "#002c66",
+        magenta: "#580055",
+        cyan: "#003434",
+        white: "#484848"
+    ),
+)

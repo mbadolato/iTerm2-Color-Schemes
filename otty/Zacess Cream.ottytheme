@@ -1,0 +1,17 @@
+[meta]
+name = "Zacess Cream"
+mode = "light"
+
+[terminal]
+foreground = "#000000"
+background = "#fdf6e3"
+palette = [
+    "#000000", "#5b0002", "#003107", "#3b2500",
+    "#00275c", "#4f004d", "#002f2f", "#434343",
+    "#484848", "#8b0006", "#004f10", "#5c3c00",
+    "#003f8e", "#7b0077", "#004b4b", "#000000",
+]
+cursor = "#000000"
+cursor-text = "#fdf6e3"
+selection-background = "#f9e79a"
+selection-foreground = "#000000"
