@@ -1,0 +1,43 @@
+!
+! Sunset Copper Relay
+!
+*.foreground:  #e9ddcf
+*.background:  #211c1b
+*.cursorColor: #f6d69b
+!
+! Black
+*.color0:      #211c1b
+*.color8:      #76625d
+!
+! Red
+*.color1:      #e78c80
+*.color9:      #ffae9d
+!
+! Green
+*.color2:      #a5c994
+*.color10:     #c4dda8
+!
+! Yellow
+*.color3:      #e8c07c
+*.color11:     #f6d69b
+!
+! Blue
+*.color4:      #91bbd9
+*.color12:     #b2d5ed
+!
+! Magenta
+*.color5:      #c8a7dc
+*.color13:     #e1c3ed
+!
+! Cyan
+*.color6:      #86cbc0
+*.color14:     #a7e6da
+!
+! White
+*.color7:      #e9ddcf
+*.color15:     #fff3e5
+!
+! Bold, Italic, Underline
+*.colorBD:     #e9ddcf
+!*.colorIT:
+!*.colorUL:

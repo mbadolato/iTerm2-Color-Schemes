@@ -1,0 +1,33 @@
+# Colors (Analyzed Dark)
+
+[colors.bright]
+black = '#9aafc5'
+blue = '#a1ceff'
+cyan = '#8af0ee'
+green = '#8aebc5'
+magenta = '#d9bdff'
+red = '#ff9bab'
+white = '#ffffff'
+yellow = '#ffe09d'
+
+[colors.cursor]
+cursor = '#5dd5d9'
+text = '#0b1220'
+
+[colors.normal]
+black = '#8395a9'
+blue = '#77b9f8'
+cyan = '#5dd5d9'
+green = '#65d5ae'
+magenta = '#c2a3fa'
+red = '#f0788a'
+white = '#e7eff8'
+yellow = '#f2c477'
+
+[colors.primary]
+background = '#0b1220'
+foreground = '#e7eff8'
+
+[colors.selection]
+background = '#344b64'
+text = '#ffffff'

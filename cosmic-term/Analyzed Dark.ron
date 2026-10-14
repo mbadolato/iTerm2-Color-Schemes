@@ -1,0 +1,41 @@
+(
+    name: "Analyzed Dark",
+    foreground: "#e7eff8",
+    background: "#0b1220",
+    cursor: "#5dd5d9",
+    bright_foreground: "#e7eff8",
+    dim_foreground: "#9aafc5",
+
+    normal: (
+        black: "#8395a9",
+        red: "#f0788a",
+        green: "#65d5ae",
+        yellow: "#f2c477",
+        blue: "#77b9f8",
+        magenta: "#c2a3fa",
+        cyan: "#5dd5d9",
+        white: "#e7eff8"
+    ),
+
+    bright: (
+        black: "#9aafc5",
+        red: "#ff9bab",
+        green: "#8aebc5",
+        yellow: "#ffe09d",
+        blue: "#a1ceff",
+        magenta: "#d9bdff",
+        cyan: "#8af0ee",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#8395a9",
+        red: "#f0788a",
+        green: "#65d5ae",
+        yellow: "#f2c477",
+        blue: "#77b9f8",
+        magenta: "#c2a3fa",
+        cyan: "#5dd5d9",
+        white: "#e7eff8"
+    ),
+)

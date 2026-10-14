@@ -1,0 +1,41 @@
+(
+    name: "Analyzed Light",
+    foreground: "#253449",
+    background: "#f6f5f0",
+    cursor: "#215ea8",
+    bright_foreground: "#253449",
+    dim_foreground: "#48576d",
+
+    normal: (
+        black: "#536177",
+        red: "#b13e55",
+        green: "#16765c",
+        yellow: "#8a590c",
+        blue: "#215ea8",
+        magenta: "#7444a0",
+        cyan: "#08757e",
+        white: "#253449"
+    ),
+
+    bright: (
+        black: "#48576d",
+        red: "#9d2f49",
+        green: "#0d674f",
+        yellow: "#78500b",
+        blue: "#1b5396",
+        magenta: "#673891",
+        cyan: "#06666f",
+        white: "#17273c"
+    ),
+
+    dim: (
+        black: "#536177",
+        red: "#b13e55",
+        green: "#16765c",
+        yellow: "#8a590c",
+        blue: "#215ea8",
+        magenta: "#7444a0",
+        cyan: "#08757e",
+        white: "#253449"
+    ),
+)

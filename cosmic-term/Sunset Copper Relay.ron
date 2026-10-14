@@ -1,0 +1,41 @@
+(
+    name: "Sunset Copper Relay",
+    foreground: "#e9ddcf",
+    background: "#211c1b",
+    cursor: "#f6d69b",
+    bright_foreground: "#e9ddcf",
+    dim_foreground: "#76625d",
+
+    normal: (
+        black: "#211c1b",
+        red: "#e78c80",
+        green: "#a5c994",
+        yellow: "#e8c07c",
+        blue: "#91bbd9",
+        magenta: "#c8a7dc",
+        cyan: "#86cbc0",
+        white: "#e9ddcf"
+    ),
+
+    bright: (
+        black: "#76625d",
+        red: "#ffae9d",
+        green: "#c4dda8",
+        yellow: "#f6d69b",
+        blue: "#b2d5ed",
+        magenta: "#e1c3ed",
+        cyan: "#a7e6da",
+        white: "#fff3e5"
+    ),
+
+    dim: (
+        black: "#211c1b",
+        red: "#e78c80",
+        green: "#a5c994",
+        yellow: "#e8c07c",
+        blue: "#91bbd9",
+        magenta: "#c8a7dc",
+        cyan: "#86cbc0",
+        white: "#e9ddcf"
+    ),
+)

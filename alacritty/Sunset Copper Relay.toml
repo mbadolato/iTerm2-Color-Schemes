@@ -1,0 +1,33 @@
+# Colors (Sunset Copper Relay)
+
+[colors.bright]
+black = '#76625d'
+blue = '#b2d5ed'
+cyan = '#a7e6da'
+green = '#c4dda8'
+magenta = '#e1c3ed'
+red = '#ffae9d'
+white = '#fff3e5'
+yellow = '#f6d69b'
+
+[colors.cursor]
+cursor = '#f6d69b'
+text = '#211c1b'
+
+[colors.normal]
+black = '#211c1b'
+blue = '#91bbd9'
+cyan = '#86cbc0'
+green = '#a5c994'
+magenta = '#c8a7dc'
+red = '#e78c80'
+white = '#e9ddcf'
+yellow = '#e8c07c'
+
+[colors.primary]
+background = '#211c1b'
+foreground = '#e9ddcf'
+
+[colors.selection]
+background = '#e9ddcf'
+text = '#211c1b'

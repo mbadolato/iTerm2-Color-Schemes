@@ -1,0 +1,33 @@
+# Colors (Analyzed Light)
+
+[colors.bright]
+black = '#48576d'
+blue = '#1b5396'
+cyan = '#06666f'
+green = '#0d674f'
+magenta = '#673891'
+red = '#9d2f49'
+white = '#17273c'
+yellow = '#78500b'
+
+[colors.cursor]
+cursor = '#215ea8'
+text = '#ffffff'
+
+[colors.normal]
+black = '#536177'
+blue = '#215ea8'
+cyan = '#08757e'
+green = '#16765c'
+magenta = '#7444a0'
+red = '#b13e55'
+white = '#253449'
+yellow = '#8a590c'
+
+[colors.primary]
+background = '#f6f5f0'
+foreground = '#253449'
+
+[colors.selection]
+background = '#d5e6ef'
+text = '#253449'

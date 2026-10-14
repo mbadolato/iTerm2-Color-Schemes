@@ -1,0 +1,12 @@
+# Analyzed Light
+[colors]
+foreground = "#253449"
+background = "#f6f5f0"
+cursor_bg = "#215ea8"
+cursor_border = "#215ea8"
+cursor_fg = "#ffffff"
+selection_bg = "#d5e6ef"
+selection_fg = "#253449"
+
+ansi = ["#536177","#b13e55","#16765c","#8a590c","#215ea8","#7444a0","#08757e","#253449"]
+brights = ["#48576d","#9d2f49","#0d674f","#78500b","#1b5396","#673891","#06666f","#17273c"]

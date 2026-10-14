@@ -1,0 +1,12 @@
+# Sunset Copper Relay
+[colors]
+foreground = "#e9ddcf"
+background = "#211c1b"
+cursor_bg = "#f6d69b"
+cursor_border = "#f6d69b"
+cursor_fg = "#211c1b"
+selection_bg = "#e9ddcf"
+selection_fg = "#211c1b"
+
+ansi = ["#211c1b","#e78c80","#a5c994","#e8c07c","#91bbd9","#c8a7dc","#86cbc0","#e9ddcf"]
+brights = ["#76625d","#ffae9d","#c4dda8","#f6d69b","#b2d5ed","#e1c3ed","#a7e6da","#fff3e5"]

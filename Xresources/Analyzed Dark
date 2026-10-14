@@ -1,0 +1,43 @@
+!
+! Analyzed Dark
+!
+*.foreground:  #e7eff8
+*.background:  #0b1220
+*.cursorColor: #5dd5d9
+!
+! Black
+*.color0:      #8395a9
+*.color8:      #9aafc5
+!
+! Red
+*.color1:      #f0788a
+*.color9:      #ff9bab
+!
+! Green
+*.color2:      #65d5ae
+*.color10:     #8aebc5
+!
+! Yellow
+*.color3:      #f2c477
+*.color11:     #ffe09d
+!
+! Blue
+*.color4:      #77b9f8
+*.color12:     #a1ceff
+!
+! Magenta
+*.color5:      #c2a3fa
+*.color13:     #d9bdff
+!
+! Cyan
+*.color6:      #5dd5d9
+*.color14:     #8af0ee
+!
+! White
+*.color7:      #e7eff8
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:
