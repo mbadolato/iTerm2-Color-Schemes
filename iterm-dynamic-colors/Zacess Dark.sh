@@ -1,6 +1,6 @@
 #!/bin/sh
 # Zacess Dark
-printf "\033]P02b2b2b\033\\"
+printf "\033]P0a3a3a3\033\\"
 printf "\033]P1ffa79b\033\\"
 printf "\033]P28dcd8e\033\\"
 printf "\033]P3deb967\033\\"
@@ -8,7 +8,7 @@ printf "\033]P490c1ff\033\\"
 printf "\033]P5eba8e4\033\\"
 printf "\033]P652d0cf\033\\"
 printf "\033]P7e6e6e6\033\\"
-printf "\033]P8aeaeae\033\\"
+printf "\033]P8c8c8c8\033\\"
 printf "\033]P9ffd5ce\033\\"
 printf "\033]Paaceead\033\\"
 printf "\033]Pbffda8a\033\\"

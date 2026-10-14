@@ -4,10 +4,10 @@
     background: "#000000",
     cursor: "#ffeb3b",
     bright_foreground: "#ffffff",
-    dim_foreground: "#aeaeae",
+    dim_foreground: "#c8c8c8",
 
     normal: (
-        black: "#262626",
+        black: "#a3a3a3",
         red: "#ffa79b",
         green: "#82d085",
         yellow: "#e5b851",
@@ -18,7 +18,7 @@
     ),
 
     bright: (
-        black: "#aeaeae",
+        black: "#c8c8c8",
         red: "#ffd5ce",
         green: "#a2f1a4",
         yellow: "#ffda8a",
@@ -29,7 +29,7 @@
     ),
 
     dim: (
-        black: "#262626",
+        black: "#a3a3a3",
         red: "#ffa79b",
         green: "#82d085",
         yellow: "#e5b851",
