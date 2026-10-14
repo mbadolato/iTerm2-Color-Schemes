@@ -1,0 +1,43 @@
+!
+! Zacess Cream
+!
+*.foreground:  #000000
+*.background:  #fdf6e3
+*.cursorColor: #000000
+!
+! Black
+*.color0:      #000000
+*.color8:      #484848
+!
+! Red
+*.color1:      #5b0002
+*.color9:      #8b0006
+!
+! Green
+*.color2:      #003107
+*.color10:     #004f10
+!
+! Yellow
+*.color3:      #3b2500
+*.color11:     #5c3c00
+!
+! Blue
+*.color4:      #00275c
+*.color12:     #003f8e
+!
+! Magenta
+*.color5:      #4f004d
+*.color13:     #7b0077
+!
+! Cyan
+*.color6:      #002f2f
+*.color14:     #004b4b
+!
+! White
+*.color7:      #434343
+*.color15:     #000000
+!
+! Bold, Italic, Underline
+*.colorBD:     #000000
+!*.colorIT:
+!*.colorUL:

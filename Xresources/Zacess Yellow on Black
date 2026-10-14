@@ -1,0 +1,43 @@
+!
+! Zacess Yellow on Black
+!
+*.foreground:  #ffffff
+*.background:  #000000
+*.cursorColor: #ffeb3b
+!
+! Black
+*.color0:      #262626
+*.color8:      #aeaeae
+!
+! Red
+*.color1:      #ffa79b
+*.color9:      #ffd5ce
+!
+! Green
+*.color2:      #82d085
+*.color10:     #a2f1a4
+!
+! Yellow
+*.color3:      #e5b851
+*.color11:     #ffda8a
+!
+! Blue
+*.color4:      #90c1ff
+*.color12:     #c9e0ff
+!
+! Magenta
+*.color5:      #f2a4eb
+*.color13:     #ffd0fa
+!
+! Cyan
+*.color6:      #1fd3d3
+*.color14:     #55f4f3
+!
+! White
+*.color7:      #d9d9d9
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

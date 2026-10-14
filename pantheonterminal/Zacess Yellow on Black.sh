@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Zacess Yellow on Black'
+cursor-color='#ffeb3b'
+foreground='#ffffff'
+background='rgba(0,0,0,.95)'
+palette='#262626:#ffa79b:#82d085:#e5b851:#90c1ff:#f2a4eb:#1fd3d3:#d9d9d9:#aeaeae:#ffd5ce:#a2f1a4:#ffda8a:#c9e0ff:#ffd0fa:#55f4f3:#ffffff'
+COLORS

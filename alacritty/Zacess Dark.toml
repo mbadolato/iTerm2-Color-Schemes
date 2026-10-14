@@ -1,0 +1,33 @@
+# Colors (Zacess Dark)
+
+[colors.bright]
+black = '#aeaeae'
+blue = '#c9e0ff'
+cyan = '#76f1f0'
+green = '#aceead'
+magenta = '#ffd0fa'
+red = '#ffd5ce'
+white = '#ffffff'
+yellow = '#ffda8a'
+
+[colors.cursor]
+cursor = '#ffd400'
+text = '#121212'
+
+[colors.normal]
+black = '#2b2b2b'
+blue = '#90c1ff'
+cyan = '#52d0cf'
+green = '#8dcd8e'
+magenta = '#eba8e4'
+red = '#ffa79b'
+white = '#e6e6e6'
+yellow = '#deb967'
+
+[colors.primary]
+background = '#121212'
+foreground = '#f5f5f5'
+
+[colors.selection]
+background = '#1a2436'
+text = '#f5f5f5'

@@ -1,0 +1,41 @@
+(
+    name: "Zacess Cream",
+    foreground: "#000000",
+    background: "#fdf6e3",
+    cursor: "#000000",
+    bright_foreground: "#000000",
+    dim_foreground: "#484848",
+
+    normal: (
+        black: "#000000",
+        red: "#5b0002",
+        green: "#003107",
+        yellow: "#3b2500",
+        blue: "#00275c",
+        magenta: "#4f004d",
+        cyan: "#002f2f",
+        white: "#434343"
+    ),
+
+    bright: (
+        black: "#484848",
+        red: "#8b0006",
+        green: "#004f10",
+        yellow: "#5c3c00",
+        blue: "#003f8e",
+        magenta: "#7b0077",
+        cyan: "#004b4b",
+        white: "#000000"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#5b0002",
+        green: "#003107",
+        yellow: "#3b2500",
+        blue: "#00275c",
+        magenta: "#4f004d",
+        cyan: "#002f2f",
+        white: "#434343"
+    ),
+)
