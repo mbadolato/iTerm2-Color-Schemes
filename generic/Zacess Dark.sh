@@ -25,7 +25,7 @@ else
 fi
 
 # 16 color space
-put_template 0  "2b/2b/2b"
+put_template 0  "a3/a3/a3"
 put_template 1  "ff/a7/9b"
 put_template 2  "8d/cd/8e"
 put_template 3  "de/b9/67"
@@ -33,7 +33,7 @@ put_template 4  "90/c1/ff"
 put_template 5  "eb/a8/e4"
 put_template 6  "52/d0/cf"
 put_template 7  "e6/e6/e6"
-put_template 8  "ae/ae/ae"
+put_template 8  "c8/c8/c8"
 put_template 9  "ff/d5/ce"
 put_template 10 "ac/ee/ad"
 put_template 11 "ff/da/8a"

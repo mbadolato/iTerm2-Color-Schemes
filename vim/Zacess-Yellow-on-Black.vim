@@ -14,7 +14,7 @@ let g:colors_name = "Zacess-Yellow-on-Black"
 hi Normal guifg=#ffffff guibg=#000000
 
 " Syntax highlighting groups
-hi Comment guifg=#aeaeae
+hi Comment guifg=#c8c8c8
 hi Constant guifg=#e5b851
 hi Identifier guifg=#90c1ff
 hi Statement guifg=#ffd5ce
@@ -53,7 +53,7 @@ hi Typedef guifg=#a2f1a4
 hi SpecialChar guifg=#55f4f3
 hi Tag guifg=#55f4f3
 hi Delimiter guifg=#d9d9d9
-hi SpecialComment guifg=#aeaeae
+hi SpecialComment guifg=#c8c8c8
 hi Debug guifg=#ffda8a
 
 hi Ignore guifg=#000000
@@ -71,22 +71,22 @@ hi Search guibg=#ffda8a guifg=#000000
 hi IncSearch guibg=#ffda8a guifg=#000000
 
 " Line numbers
-hi LineNr guifg=#aeaeae
+hi LineNr guifg=#c8c8c8
 hi CursorLineNr guifg=#ffffff
 
 " Status line
-hi StatusLine guifg=#ffffff guibg=#aeaeae
-hi StatusLineNC guifg=#aeaeae guibg=#000000
+hi StatusLine guifg=#ffffff guibg=#c8c8c8
+hi StatusLineNC guifg=#c8c8c8 guibg=#000000
 
 " Tab line
-hi TabLine guifg=#aeaeae guibg=#000000
+hi TabLine guifg=#c8c8c8 guibg=#000000
 hi TabLineSel guifg=#ffffff guibg=#0a2257
 hi TabLineFill guibg=#000000
 
 " Popup menu
-hi Pmenu guifg=#ffffff guibg=#aeaeae
+hi Pmenu guifg=#ffffff guibg=#c8c8c8
 hi PmenuSel guifg=#000000 guibg=#0a2257
-hi PmenuSbar guibg=#aeaeae
+hi PmenuSbar guibg=#c8c8c8
 hi PmenuThumb guibg=#ffffff
 
 " Diff highlighting
@@ -96,8 +96,8 @@ hi DiffDelete guibg=#ffa79b
 hi DiffText guibg=#90c1ff
 
 " Fold highlighting
-hi Folded guifg=#aeaeae guibg=#000000
-hi FoldColumn guifg=#aeaeae guibg=#000000
+hi Folded guifg=#c8c8c8 guibg=#000000
+hi FoldColumn guifg=#c8c8c8 guibg=#000000
 
 " Spell checking
 hi SpellBad gui=undercurl guisp=#ffa79b
@@ -121,7 +121,7 @@ hi Directory guifg=#90c1ff
 hi Title guifg=#f2a4eb
 
 " Match parenthesis
-hi MatchParen guibg=#aeaeae
+hi MatchParen guibg=#c8c8c8
 
 " Sign column
-hi SignColumn guifg=#aeaeae guibg=#000000
+hi SignColumn guifg=#c8c8c8 guibg=#000000

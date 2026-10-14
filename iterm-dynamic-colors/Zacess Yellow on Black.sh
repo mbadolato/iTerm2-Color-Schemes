@@ -1,6 +1,6 @@
 #!/bin/sh
 # Zacess Yellow on Black
-printf "\033]P0262626\033\\"
+printf "\033]P0a3a3a3\033\\"
 printf "\033]P1ffa79b\033\\"
 printf "\033]P282d085\033\\"
 printf "\033]P3e5b851\033\\"
@@ -8,7 +8,7 @@ printf "\033]P490c1ff\033\\"
 printf "\033]P5f2a4eb\033\\"
 printf "\033]P61fd3d3\033\\"
 printf "\033]P7d9d9d9\033\\"
-printf "\033]P8aeaeae\033\\"
+printf "\033]P8c8c8c8\033\\"
 printf "\033]P9ffd5ce\033\\"
 printf "\033]Paa2f1a4\033\\"
 printf "\033]Pbffda8a\033\\"
