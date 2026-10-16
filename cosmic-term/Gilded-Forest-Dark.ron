@@ -1,0 +1,41 @@
+(
+    name: "Gilded-Forest-Dark",
+    foreground: "#f7d27d",
+    background: "#0d1505",
+    cursor: "#f7d27d",
+    bright_foreground: "#f7d27d",
+    dim_foreground: "#655656",
+
+    normal: (
+        black: "#000000",
+        red: "#ec6c8b",
+        green: "#a5fcaf",
+        yellow: "#f3b46d",
+        blue: "#658cf7",
+        magenta: "#ae7bff",
+        cyan: "#72bef9",
+        white: "#fcfef9"
+    ),
+
+    bright: (
+        black: "#655656",
+        red: "#b36562",
+        green: "#9dce62",
+        yellow: "#ddd044",
+        blue: "#4eadbd",
+        magenta: "#751c6c",
+        cyan: "#54adbd",
+        white: "#feffff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#ec6c8b",
+        green: "#a5fcaf",
+        yellow: "#f3b46d",
+        blue: "#658cf7",
+        magenta: "#ae7bff",
+        cyan: "#72bef9",
+        white: "#fcfef9"
+    ),
+)

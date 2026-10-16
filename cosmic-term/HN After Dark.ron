@@ -1,0 +1,41 @@
+(
+    name: "HN After Dark",
+    foreground: "#f6f6ef",
+    background: "#181818",
+    cursor: "#ff6600",
+    bright_foreground: "#f6f6ef",
+    dim_foreground: "#929292",
+
+    normal: (
+        black: "#858585",
+        red: "#ff765c",
+        green: "#65c878",
+        yellow: "#e5b94d",
+        blue: "#5599ff",
+        magenta: "#c27acb",
+        cyan: "#53c5e8",
+        white: "#dddddd"
+    ),
+
+    bright: (
+        black: "#929292",
+        red: "#ff916f",
+        green: "#85dc94",
+        yellow: "#f2d17b",
+        blue: "#83b7ff",
+        magenta: "#d89ce0",
+        cyan: "#78dbee",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#858585",
+        red: "#ff765c",
+        green: "#65c878",
+        yellow: "#e5b94d",
+        blue: "#5599ff",
+        magenta: "#c27acb",
+        cyan: "#53c5e8",
+        white: "#dddddd"
+    ),
+)

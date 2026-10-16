@@ -1,0 +1,41 @@
+(
+    name: "SLOMP",
+    foreground: "#d4d4d4",
+    background: "#1e1e1e",
+    cursor: "#c86ead",
+    bright_foreground: "#d4d4d4",
+    dim_foreground: "#808080",
+
+    normal: (
+        black: "#1e1e1e",
+        red: "#d65a77",
+        green: "#bd9a6e",
+        yellow: "#ca9bbc",
+        blue: "#6774af",
+        magenta: "#c86ead",
+        cyan: "#6cafbd",
+        white: "#d4d4d4"
+    ),
+
+    bright: (
+        black: "#808080",
+        red: "#d65a77",
+        green: "#bd9a6e",
+        yellow: "#bd9a6e",
+        blue: "#a41e6a",
+        magenta: "#c86ead",
+        cyan: "#6cafbd",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#1e1e1e",
+        red: "#d65a77",
+        green: "#bd9a6e",
+        yellow: "#ca9bbc",
+        blue: "#6774af",
+        magenta: "#c86ead",
+        cyan: "#6cafbd",
+        white: "#d4d4d4"
+    ),
+)

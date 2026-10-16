@@ -1,0 +1,43 @@
+!
+! SLOMP
+!
+*.foreground:  #d4d4d4
+*.background:  #1e1e1e
+*.cursorColor: #c86ead
+!
+! Black
+*.color0:      #1e1e1e
+*.color8:      #808080
+!
+! Red
+*.color1:      #d65a77
+*.color9:      #d65a77
+!
+! Green
+*.color2:      #bd9a6e
+*.color10:     #bd9a6e
+!
+! Yellow
+*.color3:      #ca9bbc
+*.color11:     #bd9a6e
+!
+! Blue
+*.color4:      #6774af
+*.color12:     #a41e6a
+!
+! Magenta
+*.color5:      #c86ead
+*.color13:     #c86ead
+!
+! Cyan
+*.color6:      #6cafbd
+*.color14:     #6cafbd
+!
+! White
+*.color7:      #d4d4d4
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #d4d4d4
+!*.colorIT:
+!*.colorUL:

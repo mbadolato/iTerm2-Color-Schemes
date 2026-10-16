@@ -1,0 +1,43 @@
+!
+! HN After Dark
+!
+*.foreground:  #f6f6ef
+*.background:  #181818
+*.cursorColor: #ff6600
+!
+! Black
+*.color0:      #858585
+*.color8:      #929292
+!
+! Red
+*.color1:      #ff765c
+*.color9:      #ff916f
+!
+! Green
+*.color2:      #65c878
+*.color10:     #85dc94
+!
+! Yellow
+*.color3:      #e5b94d
+*.color11:     #f2d17b
+!
+! Blue
+*.color4:      #5599ff
+*.color12:     #83b7ff
+!
+! Magenta
+*.color5:      #c27acb
+*.color13:     #d89ce0
+!
+! Cyan
+*.color6:      #53c5e8
+*.color14:     #78dbee
+!
+! White
+*.color7:      #dddddd
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f6f6ef
+!*.colorIT:
+!*.colorUL:

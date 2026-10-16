@@ -836,6 +836,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/ghostty-default-style-dark.png)
 
+### Gilded-Forest-Dark
+
+![Screenshot](/screenshots/gilded-forest-dark.png)
+
 ### GitHub Dark Colorblind
 
 ![Screenshot](/screenshots/github-dark-colorblind.png)
@@ -991,6 +995,10 @@ The screenshots are categorized.
 ### Hivacruz
 
 ![Screenshot](/screenshots/hivacruz.png)
+
+### HN After Dark
+
+![Screenshot](/screenshots/hn-after-dark.png)
 
 ### Hocus Pocus
 
@@ -2084,6 +2092,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/sleepy-hollow.png)
 
+### SLOMP
+
+![Screenshot](/screenshots/slomp.png)
+
 ### Smoke on the Terminal
 
 ![Screenshot](/screenshots/smoke-on-the-terminal.png)
@@ -2773,6 +2785,10 @@ The screenshots are categorized.
 ### High Desert Snow
 
 ![Screenshot](/screenshots/high-desert-snow.png)
+
+### HN Classic
+
+![Screenshot](/screenshots/hn-classic.png)
 
 ### Horizon Bright
 

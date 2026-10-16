@@ -1,0 +1,12 @@
+# Gilded-Forest-Dark
+[colors]
+foreground = "#f7d27d"
+background = "#0d1505"
+cursor_bg = "#f7d27d"
+cursor_border = "#f7d27d"
+cursor_fg = "#0d1505"
+selection_bg = "#282a73"
+selection_fg = "#f7d27d"
+
+ansi = ["#000000","#ec6c8b","#a5fcaf","#f3b46d","#658cf7","#ae7bff","#72bef9","#fcfef9"]
+brights = ["#655656","#b36562","#9dce62","#ddd044","#4eadbd","#751c6c","#54adbd","#feffff"]

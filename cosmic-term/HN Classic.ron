@@ -1,0 +1,41 @@
+(
+    name: "HN Classic",
+    foreground: "#242424",
+    background: "#f6f6ef",
+    cursor: "#ff6600",
+    bright_foreground: "#242424",
+    dim_foreground: "#575757",
+
+    normal: (
+        black: "#242424",
+        red: "#c52e27",
+        green: "#237a3d",
+        yellow: "#956300",
+        blue: "#0759b8",
+        magenta: "#8747a5",
+        cyan: "#007688",
+        white: "#6d6d69"
+    ),
+
+    bright: (
+        black: "#575757",
+        red: "#c83323",
+        green: "#2b8044",
+        yellow: "#906000",
+        blue: "#1263bf",
+        magenta: "#9250a9",
+        cyan: "#00798f",
+        white: "#383838"
+    ),
+
+    dim: (
+        black: "#242424",
+        red: "#c52e27",
+        green: "#237a3d",
+        yellow: "#956300",
+        blue: "#0759b8",
+        magenta: "#8747a5",
+        cyan: "#007688",
+        white: "#6d6d69"
+    ),
+)

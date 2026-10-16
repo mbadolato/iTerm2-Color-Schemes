@@ -1,0 +1,12 @@
+# HN Classic
+[colors]
+foreground = "#242424"
+background = "#f6f6ef"
+cursor_bg = "#ff6600"
+cursor_border = "#ff6600"
+cursor_fg = "#f6f6ef"
+selection_bg = "#f9d5b5"
+selection_fg = "#242424"
+
+ansi = ["#242424","#c52e27","#237a3d","#956300","#0759b8","#8747a5","#007688","#6d6d69"]
+brights = ["#575757","#c83323","#2b8044","#906000","#1263bf","#9250a9","#00798f","#383838"]

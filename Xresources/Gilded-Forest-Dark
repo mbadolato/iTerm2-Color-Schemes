@@ -1,0 +1,43 @@
+!
+! Gilded-Forest-Dark
+!
+*.foreground:  #f7d27d
+*.background:  #0d1505
+*.cursorColor: #f7d27d
+!
+! Black
+*.color0:      #000000
+*.color8:      #655656
+!
+! Red
+*.color1:      #ec6c8b
+*.color9:      #b36562
+!
+! Green
+*.color2:      #a5fcaf
+*.color10:     #9dce62
+!
+! Yellow
+*.color3:      #f3b46d
+*.color11:     #ddd044
+!
+! Blue
+*.color4:      #658cf7
+*.color12:     #4eadbd
+!
+! Magenta
+*.color5:      #ae7bff
+*.color13:     #751c6c
+!
+! Cyan
+*.color6:      #72bef9
+*.color14:     #54adbd
+!
+! White
+*.color7:      #fcfef9
+*.color15:     #feffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f7d27d
+!*.colorIT:
+!*.colorUL:

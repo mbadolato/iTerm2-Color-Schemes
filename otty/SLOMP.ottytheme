@@ -1,0 +1,17 @@
+[meta]
+name = "SLOMP"
+mode = "dark"
+
+[terminal]
+foreground = "#d4d4d4"
+background = "#1e1e1e"
+palette = [
+    "#1e1e1e", "#d65a77", "#bd9a6e", "#ca9bbc",
+    "#6774af", "#c86ead", "#6cafbd", "#d4d4d4",
+    "#808080", "#d65a77", "#bd9a6e", "#bd9a6e",
+    "#a41e6a", "#c86ead", "#6cafbd", "#ffffff",
+]
+cursor = "#c86ead"
+cursor-text = "#1e1e1e"
+selection-background = "#0c363f"
+selection-foreground = "#d4d4d4"

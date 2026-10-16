@@ -1,0 +1,33 @@
+# Colors (HN Classic)
+
+[colors.bright]
+black = '#575757'
+blue = '#1263bf'
+cyan = '#00798f'
+green = '#2b8044'
+magenta = '#9250a9'
+red = '#c83323'
+white = '#383838'
+yellow = '#906000'
+
+[colors.cursor]
+cursor = '#ff6600'
+text = '#f6f6ef'
+
+[colors.normal]
+black = '#242424'
+blue = '#0759b8'
+cyan = '#007688'
+green = '#237a3d'
+magenta = '#8747a5'
+red = '#c52e27'
+white = '#6d6d69'
+yellow = '#956300'
+
+[colors.primary]
+background = '#f6f6ef'
+foreground = '#242424'
+
+[colors.selection]
+background = '#f9d5b5'
+text = '#242424'

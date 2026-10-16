@@ -1,0 +1,12 @@
+# HN After Dark
+[colors]
+foreground = "#f6f6ef"
+background = "#181818"
+cursor_bg = "#ff6600"
+cursor_border = "#ff6600"
+cursor_fg = "#181818"
+selection_bg = "#454545"
+selection_fg = "#ffffff"
+
+ansi = ["#858585","#ff765c","#65c878","#e5b94d","#5599ff","#c27acb","#53c5e8","#dddddd"]
+brights = ["#929292","#ff916f","#85dc94","#f2d17b","#83b7ff","#d89ce0","#78dbee","#ffffff"]

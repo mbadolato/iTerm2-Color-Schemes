@@ -1,0 +1,17 @@
+[meta]
+name = "Gilded-Forest-Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#f7d27d"
+background = "#0d1505"
+palette = [
+    "#000000", "#ec6c8b", "#a5fcaf", "#f3b46d",
+    "#658cf7", "#ae7bff", "#72bef9", "#fcfef9",
+    "#655656", "#b36562", "#9dce62", "#ddd044",
+    "#4eadbd", "#751c6c", "#54adbd", "#feffff",
+]
+cursor = "#f7d27d"
+cursor-text = "#0d1505"
+selection-background = "#282a73"
+selection-foreground = "#f7d27d"

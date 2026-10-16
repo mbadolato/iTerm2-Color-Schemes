@@ -1,0 +1,17 @@
+[meta]
+name = "HN Classic"
+mode = "light"
+
+[terminal]
+foreground = "#242424"
+background = "#f6f6ef"
+palette = [
+    "#242424", "#c52e27", "#237a3d", "#956300",
+    "#0759b8", "#8747a5", "#007688", "#6d6d69",
+    "#575757", "#c83323", "#2b8044", "#906000",
+    "#1263bf", "#9250a9", "#00798f", "#383838",
+]
+cursor = "#ff6600"
+cursor-text = "#f6f6ef"
+selection-background = "#f9d5b5"
+selection-foreground = "#242424"

@@ -1,0 +1,43 @@
+!
+! HN Classic
+!
+*.foreground:  #242424
+*.background:  #f6f6ef
+*.cursorColor: #ff6600
+!
+! Black
+*.color0:      #242424
+*.color8:      #575757
+!
+! Red
+*.color1:      #c52e27
+*.color9:      #c83323
+!
+! Green
+*.color2:      #237a3d
+*.color10:     #2b8044
+!
+! Yellow
+*.color3:      #956300
+*.color11:     #906000
+!
+! Blue
+*.color4:      #0759b8
+*.color12:     #1263bf
+!
+! Magenta
+*.color5:      #8747a5
+*.color13:     #9250a9
+!
+! Cyan
+*.color6:      #007688
+*.color14:     #00798f
+!
+! White
+*.color7:      #6d6d69
+*.color15:     #383838
+!
+! Bold, Italic, Underline
+*.colorBD:     #242424
+!*.colorIT:
+!*.colorUL:

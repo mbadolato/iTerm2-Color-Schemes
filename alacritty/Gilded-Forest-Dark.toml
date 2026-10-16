@@ -1,0 +1,33 @@
+# Colors (Gilded-Forest-Dark)
+
+[colors.bright]
+black = '#655656'
+blue = '#4eadbd'
+cyan = '#54adbd'
+green = '#9dce62'
+magenta = '#751c6c'
+red = '#b36562'
+white = '#feffff'
+yellow = '#ddd044'
+
+[colors.cursor]
+cursor = '#f7d27d'
+text = '#0d1505'
+
+[colors.normal]
+black = '#000000'
+blue = '#658cf7'
+cyan = '#72bef9'
+green = '#a5fcaf'
+magenta = '#ae7bff'
+red = '#ec6c8b'
+white = '#fcfef9'
+yellow = '#f3b46d'
+
+[colors.primary]
+background = '#0d1505'
+foreground = '#f7d27d'
+
+[colors.selection]
+background = '#282a73'
+text = '#f7d27d'

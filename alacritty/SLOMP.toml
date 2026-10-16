@@ -1,0 +1,33 @@
+# Colors (SLOMP)
+
+[colors.bright]
+black = '#808080'
+blue = '#a41e6a'
+cyan = '#6cafbd'
+green = '#bd9a6e'
+magenta = '#c86ead'
+red = '#d65a77'
+white = '#ffffff'
+yellow = '#bd9a6e'
+
+[colors.cursor]
+cursor = '#c86ead'
+text = '#1e1e1e'
+
+[colors.normal]
+black = '#1e1e1e'
+blue = '#6774af'
+cyan = '#6cafbd'
+green = '#bd9a6e'
+magenta = '#c86ead'
+red = '#d65a77'
+white = '#d4d4d4'
+yellow = '#ca9bbc'
+
+[colors.primary]
+background = '#1e1e1e'
+foreground = '#d4d4d4'
+
+[colors.selection]
+background = '#0c363f'
+text = '#d4d4d4'

@@ -1,0 +1,33 @@
+# Colors (HN After Dark)
+
+[colors.bright]
+black = '#929292'
+blue = '#83b7ff'
+cyan = '#78dbee'
+green = '#85dc94'
+magenta = '#d89ce0'
+red = '#ff916f'
+white = '#ffffff'
+yellow = '#f2d17b'
+
+[colors.cursor]
+cursor = '#ff6600'
+text = '#181818'
+
+[colors.normal]
+black = '#858585'
+blue = '#5599ff'
+cyan = '#53c5e8'
+green = '#65c878'
+magenta = '#c27acb'
+red = '#ff765c'
+white = '#dddddd'
+yellow = '#e5b94d'
+
+[colors.primary]
+background = '#181818'
+foreground = '#f6f6ef'
+
+[colors.selection]
+background = '#454545'
+text = '#ffffff'
