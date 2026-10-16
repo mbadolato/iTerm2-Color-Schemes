@@ -921,3 +921,11 @@ The Analyzed Dark theme was created by [Mark Badolato](https://terminalthemes.co
 The Analyzed Light theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Sunset Copper Relay theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Gilded-Forest-Dark theme was created by [Sudhan Chitgopkar](https://github.com/sudhanchitgopkar/Gilded-Forest).
+
+The HN After Dark theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The HN Classic theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The SLOMP theme was created by [SLOMP](https://terminalthemes.com/users/01M4Z2EPHX225W0N2YTBYSP6SF).
