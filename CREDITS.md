@@ -929,3 +929,5 @@ The HN After Dark theme was created by [Mark Badolato](https://terminalthemes.co
 The HN Classic theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The SLOMP theme was created by [SLOMP](https://terminalthemes.com/users/01M4Z2EPHX225W0N2YTBYSP6SF).
+
+The Callie and Callie Light themes were created by [Lara Kelley](https://larakelley.com) for [Callie](https://callieapp.org). Source: [greylocklabs/themes](https://github.com/greylocklabs/themes).
