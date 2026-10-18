@@ -1,0 +1,43 @@
+!
+! Clu
+!
+*.foreground:  #fdd48d
+*.background:  #000d15
+*.cursorColor: #00b5e4
+!
+! Black
+*.color0:      #21170c
+*.color8:      #653333
+!
+! Red
+*.color1:      #f60004
+*.color9:      #f60004
+!
+! Green
+*.color2:      #00b5e4
+*.color10:     #ffffff
+!
+! Yellow
+*.color3:      #ffff0f
+*.color11:     #ffffff
+!
+! Blue
+*.color4:      #e96700
+*.color12:     #00b5e4
+!
+! Magenta
+*.color5:      #e96700
+*.color13:     #f60004
+!
+! Cyan
+*.color6:      #ffffff
+*.color14:     #f60004
+!
+! White
+*.color7:      #00b5e4
+*.color15:     #e96700
+!
+! Bold, Italic, Underline
+*.colorBD:     #fdd48d
+!*.colorIT:
+!*.colorUL:

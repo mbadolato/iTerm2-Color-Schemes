@@ -1,0 +1,33 @@
+# Colors (Clu)
+
+[colors.bright]
+black = '#653333'
+blue = '#00b5e4'
+cyan = '#f60004'
+green = '#ffffff'
+magenta = '#f60004'
+red = '#f60004'
+white = '#e96700'
+yellow = '#ffffff'
+
+[colors.cursor]
+cursor = '#00b5e4'
+text = '#000d15'
+
+[colors.normal]
+black = '#21170c'
+blue = '#e96700'
+cyan = '#ffffff'
+green = '#00b5e4'
+magenta = '#e96700'
+red = '#f60004'
+white = '#00b5e4'
+yellow = '#ffff0f'
+
+[colors.primary]
+background = '#000d15'
+foreground = '#fdd48d'
+
+[colors.selection]
+background = '#3c0000'
+text = '#fdd48d'

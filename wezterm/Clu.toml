@@ -1,0 +1,12 @@
+# Clu
+[colors]
+foreground = "#fdd48d"
+background = "#000d15"
+cursor_bg = "#00b5e4"
+cursor_border = "#00b5e4"
+cursor_fg = "#000d15"
+selection_bg = "#3c0000"
+selection_fg = "#fdd48d"
+
+ansi = ["#21170c","#f60004","#00b5e4","#ffff0f","#e96700","#e96700","#ffffff","#00b5e4"]
+brights = ["#653333","#f60004","#ffffff","#ffffff","#00b5e4","#f60004","#f60004","#e96700"]

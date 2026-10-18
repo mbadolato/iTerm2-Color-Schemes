@@ -1,0 +1,17 @@
+[meta]
+name = "Clu"
+mode = "dark"
+
+[terminal]
+foreground = "#fdd48d"
+background = "#000d15"
+palette = [
+    "#21170c", "#f60004", "#00b5e4", "#ffff0f",
+    "#e96700", "#e96700", "#ffffff", "#00b5e4",
+    "#653333", "#f60004", "#ffffff", "#ffffff",
+    "#00b5e4", "#f60004", "#f60004", "#e96700",
+]
+cursor = "#00b5e4"
+cursor-text = "#000d15"
+selection-background = "#3c0000"
+selection-foreground = "#fdd48d"

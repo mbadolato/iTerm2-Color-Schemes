@@ -1,0 +1,41 @@
+(
+    name: "Clu",
+    foreground: "#fdd48d",
+    background: "#000d15",
+    cursor: "#00b5e4",
+    bright_foreground: "#fdd48d",
+    dim_foreground: "#653333",
+
+    normal: (
+        black: "#21170c",
+        red: "#f60004",
+        green: "#00b5e4",
+        yellow: "#ffff0f",
+        blue: "#e96700",
+        magenta: "#e96700",
+        cyan: "#ffffff",
+        white: "#00b5e4"
+    ),
+
+    bright: (
+        black: "#653333",
+        red: "#f60004",
+        green: "#ffffff",
+        yellow: "#ffffff",
+        blue: "#00b5e4",
+        magenta: "#f60004",
+        cyan: "#f60004",
+        white: "#e96700"
+    ),
+
+    dim: (
+        black: "#21170c",
+        red: "#f60004",
+        green: "#00b5e4",
+        yellow: "#ffff0f",
+        blue: "#e96700",
+        magenta: "#e96700",
+        cyan: "#ffffff",
+        white: "#00b5e4"
+    ),
+)
