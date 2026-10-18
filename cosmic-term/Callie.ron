@@ -1,0 +1,41 @@
+(
+    name: "Callie",
+    foreground: "#e0d3df",
+    background: "#1c1220",
+    cursor: "#f08fb8",
+    bright_foreground: "#e0d3df",
+    dim_foreground: "#9a8797",
+
+    normal: (
+        black: "#33243a",
+        red: "#eaaba8",
+        green: "#9dcca3",
+        yellow: "#d6ba86",
+        blue: "#a4beef",
+        magenta: "#e5aac1",
+        cyan: "#82cdcd",
+        white: "#c9b7c6"
+    ),
+
+    bright: (
+        black: "#9a8797",
+        red: "#fac5c2",
+        green: "#bae0be",
+        yellow: "#e8d1a8",
+        blue: "#bfd5fd",
+        magenta: "#f5c5d7",
+        cyan: "#a6e1e1",
+        white: "#f6eef5"
+    ),
+
+    dim: (
+        black: "#33243a",
+        red: "#eaaba8",
+        green: "#9dcca3",
+        yellow: "#d6ba86",
+        blue: "#a4beef",
+        magenta: "#e5aac1",
+        cyan: "#82cdcd",
+        white: "#c9b7c6"
+    ),
+)

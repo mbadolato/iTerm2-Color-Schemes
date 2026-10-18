@@ -1,0 +1,33 @@
+# Colors (Callie Light)
+
+[colors.bright]
+black = '#6b5562'
+blue = '#3b5993'
+cyan = '#006869'
+green = '#2d6a39'
+magenta = '#85415f'
+red = '#8a4140'
+white = '#dcc8d3'
+yellow = '#755402'
+
+[colors.cursor]
+cursor = '#e45f97'
+text = '#2e0f20'
+
+[colors.normal]
+black = '#2b1a26'
+blue = '#4b6ba6'
+cyan = '#027c7d'
+green = '#3f7b4a'
+magenta = '#985270'
+red = '#9e5251'
+white = '#8f7a87'
+yellow = '#886518'
+
+[colors.primary]
+background = '#fbf5f8'
+foreground = '#55414e'
+
+[colors.selection]
+background = '#e0ccd7'
+text = '#55414e'

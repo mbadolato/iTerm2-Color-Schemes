@@ -1,0 +1,43 @@
+!
+! Callie
+!
+*.foreground:  #e0d3df
+*.background:  #1c1220
+*.cursorColor: #f08fb8
+!
+! Black
+*.color0:      #33243a
+*.color8:      #9a8797
+!
+! Red
+*.color1:      #eaaba8
+*.color9:      #fac5c2
+!
+! Green
+*.color2:      #9dcca3
+*.color10:     #bae0be
+!
+! Yellow
+*.color3:      #d6ba86
+*.color11:     #e8d1a8
+!
+! Blue
+*.color4:      #a4beef
+*.color12:     #bfd5fd
+!
+! Magenta
+*.color5:      #e5aac1
+*.color13:     #f5c5d7
+!
+! Cyan
+*.color6:      #82cdcd
+*.color14:     #a6e1e1
+!
+! White
+*.color7:      #c9b7c6
+*.color15:     #f6eef5
+!
+! Bold, Italic, Underline
+*.colorBD:     #e0d3df
+!*.colorIT:
+!*.colorUL:

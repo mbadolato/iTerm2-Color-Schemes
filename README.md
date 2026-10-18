@@ -538,6 +538,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/caliche.png)
 
+### Callie
+
+![Screenshot](/screenshots/callie.png)
+
 ### Candlelight
 
 ![Screenshot](/screenshots/candlelight.png)
@@ -2827,6 +2831,10 @@ The screenshots are categorized.
 ### Cactus Bloom
 
 ![Screenshot](/screenshots/cactus-bloom.png)
+
+### Callie Light
+
+![Screenshot](/screenshots/callie-light.png)
 
 ### Candy Corn
 

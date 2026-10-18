@@ -1,0 +1,18 @@
+[meta]
+name = "Callie"
+mode = "dark"
+author = "Greylock Labs (https://github.com/greylocklabs/themes)"
+
+[terminal]
+foreground = "#e0d3df"
+background = "#1c1220"
+palette = [
+    "#33243a", "#eaaba8", "#9dcca3", "#d6ba86",
+    "#a4beef", "#e5aac1", "#82cdcd", "#c9b7c6",
+    "#9a8797", "#fac5c2", "#bae0be", "#e8d1a8",
+    "#bfd5fd", "#f5c5d7", "#a6e1e1", "#f6eef5",
+]
+cursor = "#f08fb8"
+cursor-text = "#2e0f20"
+selection-background = "#3d2c42"
+selection-foreground = "#e0d3df"

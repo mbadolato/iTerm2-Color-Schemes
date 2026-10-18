@@ -1,0 +1,33 @@
+# Colors (Callie)
+
+[colors.bright]
+black = '#9a8797'
+blue = '#bfd5fd'
+cyan = '#a6e1e1'
+green = '#bae0be'
+magenta = '#f5c5d7'
+red = '#fac5c2'
+white = '#f6eef5'
+yellow = '#e8d1a8'
+
+[colors.cursor]
+cursor = '#f08fb8'
+text = '#2e0f20'
+
+[colors.normal]
+black = '#33243a'
+blue = '#a4beef'
+cyan = '#82cdcd'
+green = '#9dcca3'
+magenta = '#e5aac1'
+red = '#eaaba8'
+white = '#c9b7c6'
+yellow = '#d6ba86'
+
+[colors.primary]
+background = '#1c1220'
+foreground = '#e0d3df'
+
+[colors.selection]
+background = '#3d2c42'
+text = '#e0d3df'
