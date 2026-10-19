@@ -1,0 +1,48 @@
+name: Check Scheme Licenses
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "schemes/**"
+      - "yaml/**"
+      - "licenses.yml"
+      - "tools/check_licenses.py"
+      - "tools/test_check_licenses.py"
+      - "tools/gen.py"
+  push:
+    branches:
+      - master
+    paths:
+      - "schemes/**"
+      - "yaml/**"
+      - "licenses.yml"
+      - "tools/check_licenses.py"
+      - "tools/test_check_licenses.py"
+      - "tools/gen.py"
+
+jobs:
+  check-licenses:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y libjpeg-dev
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Check that every scheme has a licenses.yml entry
+        run: python tools/check_licenses.py
+
+      - name: Run check_licenses tests
+        run: python tools/test_check_licenses.py

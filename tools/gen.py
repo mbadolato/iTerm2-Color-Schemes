@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """iTerm2 Schemes Converter Tool
 
-usage: gen.py [-h] [-s [SCHEME [SCHEME ...]]] [-t [TEMPLATE [TEMPLATE ...]]]
+usage: gen.py [-h] [-s [SCHEME [SCHEME ...]]] [-t [TEMPLATE [TEMPLATE ...]]] [--redistributable] [-o OUTPUT_DIR]
 
 A script for generating themes based on a set of schemes and templates.
 If run with no arguments, everything will be re-generated.
@@ -12,6 +12,10 @@ optional arguments:
                         list of schemes for which themes will be generated, default: all
   -t [TEMPLATE [TEMPLATE ...]], --template [TEMPLATE [TEMPLATE ...]]
                         list of templates for which themes will be generated, default: all
+  --redistributable     only generate schemes whose entry in licenses.yml is an SPDX licence,
+                        leaving out schemes marked unknown or nonfree
+  -o OUTPUT_DIR, --output-dir OUTPUT_DIR
+                        directory to write the themes to, default: the repository root
 
 Author: Mikhail Shlyakhov <mike@aleph.space>
 
@@ -45,6 +49,7 @@ import dataclasses
 import json
 import os
 import pathlib
+import shutil
 import sys
 
 import yaml
@@ -55,6 +60,8 @@ from typing import Any
 import math
 import rich.progress
 from jinja2 import Environment, FileSystemLoader
+
+from check_licenses import is_redistributable, load_licenses
 
 TOOLS_PATH = pathlib.Path(__file__).parent
 TEMPLATES_PATH = TOOLS_PATH / "templates"
@@ -490,6 +497,10 @@ def generate_from_template(
     for name, scheme in schemes.items():
         if scheme.source_path.suffix == ".itermcolors" == template_ext == ".itermcolors":
             # Special case: don't overwrite the original iTerm scheme a regeneration of itself.
+            # In a separate output directory, copy the original so the set stays complete.
+            if out_dir.resolve() != REPO_PATH.resolve():
+                os.makedirs(out_dir / f"{template_name}", exist_ok=True)
+                shutil.copyfile(scheme.source_path, out_dir / f"{template_name}/{name}{template_ext}")
             continue
         result = t.render(**scheme.to_dict())
         os.makedirs(out_dir / f"{template_name}", exist_ok=True)
@@ -527,6 +538,19 @@ def main() -> None:
         dest="template",
         help="list of templates for which themes will be generated, default: all",
     )
+    parser.add_argument(
+        "--redistributable",
+        action="store_true",
+        help="only generate schemes whose entry in licenses.yml is an SPDX licence, "
+        + "leaving out schemes marked unknown or nonfree",
+    )
+    parser.add_argument(
+        "-o",
+        "--output-dir",
+        type=pathlib.Path,
+        default=REPO_PATH,
+        help="directory to write the themes to, default: the repository root",
+    )
 
     arguments = parser.parse_args()
 
@@ -558,6 +582,13 @@ def main() -> None:
         if not theme.variant:
             object.__setattr__(theme, 'variant', 'Dark' if theme.dark_theme else 'Light')
 
+    if arguments.redistributable:
+        licenses = load_licenses()
+        skipped = sorted(name for name in schemes if not is_redistributable(licenses.get(name)))
+        for name in skipped:
+            del schemes[name]
+        print(f"Skipped {len(skipped)} scheme(s) without a redistributable licence", file=sys.stderr)
+
     if not schemes:
         parser.error("No schemes found (if you used `-s`, nothing matched)")
         return
@@ -572,7 +603,7 @@ def main() -> None:
         parser.error("No templates found (if you used `-t`, nothing matched)")
         return
 
-    out_dir = REPO_PATH
+    out_dir = arguments.output_dir
     for template in rich.progress.track(templates, description="Generating themes"):
         generate_from_template(jinja_env, template, out_dir, schemes)
 

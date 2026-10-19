@@ -153,9 +153,31 @@ Quote names with spaces in shell commands: `python3 tools/gen.py -s "Your Theme 
    - `pushd tools && python3 -m screenshot_gen && popd`. This will generate new screenshots where they are missing.
    - If you have `oxipng` or `zopflipng` installed, the screenshot will be optimized for you.
 
+#### Add a licence entry
+
+1. Add an entry for your theme to `licenses.yml`, under its display name:
+
+   ```yaml
+   Your Theme Name:
+     license: MIT
+     source: https://github.com/you/your-theme
+   ```
+
+   - `license` is an [SPDX identifier](https://spdx.org/licenses/). Use `unknown` if there is no licence and `nonfree` if the licence does not allow redistribution.
+   - `source` links to where the theme or its licence comes from (use `''` if there is none). An optional `note` can explain anything unusual.
+2. Check the file with `python3 tools/check_licenses.py`. A pull request that adds a theme without an entry fails this check.
+
 #### Update `CREDITS.md` (optional)
 
 1. Update `CREDITS.md` to credit yourself for your contribution.
+
+### Packaging only redistributable themes
+
+`licenses.yml` records the licence of every theme. Packagers who can only ship themes with a known open licence can generate that subset into a directory of their choice, leaving out every theme marked `unknown` or `nonfree`:
+
+- `cd tools/ && python3 gen.py --redistributable -o /path/to/output`
+
+Without `--redistributable` and `-o`, `gen.py` behaves as before and writes every theme into the repository.
 
 ### How to add new template
 
