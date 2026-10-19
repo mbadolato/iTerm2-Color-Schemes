@@ -914,7 +914,7 @@ The Yngwie's Strat theme was created by [Mark Badolato](https://terminalthemes.c
 
 The iglass Dark and iglass Light themes were created by [Vuk Topalovic](https://github.com/vukkt) for [iglass](https://github.com/vukkt/iglass).
 
-The Zacess Light, Zacess Dark, Zacess Yellow on Black, Zacess Cream, Zacess High Contrast Dark and Zacess High Contrast Light themes were created by [Zacess](https://zacess.com). Source: [zacesshq/themes](https://github.com/zacesshq/themes).
+The Zacess Light, Zacess Dark, Zacess Yellow on Black, Zacess Cream, Zacess High Contrast Dark and Zacess High Contrast Light themes were created by [Zacess](https://zacess.com). Source: [zacesshq/themes](https://github.com/zacesshq/themes), released under the [MIT License](https://github.com/zacesshq/themes/blob/main/LICENSE).
 
 The Analyzed Dark theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
