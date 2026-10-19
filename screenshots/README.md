@@ -2532,6 +2532,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/zacess-dark.png)
 
+### Zacess High Contrast Dark
+
+![Screenshot](/screenshots/zacess-high-contrast-dark.png)
+
 ### Zacess Yellow on Black
 
 ![Screenshot](/screenshots/zacess-yellow-on-black.png)
@@ -3265,6 +3269,10 @@ The screenshots are categorized.
 ### Zacess Cream
 
 ![Screenshot](/screenshots/zacess-cream.png)
+
+### Zacess High Contrast Light
+
+![Screenshot](/screenshots/zacess-high-contrast-light.png)
 
 ### Zacess Light
 

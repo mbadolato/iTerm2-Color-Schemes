@@ -1,0 +1,41 @@
+(
+    name: "Zacess High Contrast Light",
+    foreground: "#000000",
+    background: "#ffffff",
+    cursor: "#000000",
+    bright_foreground: "#000000",
+    dim_foreground: "#333333",
+
+    normal: (
+        black: "#000000",
+        red: "#8b0000",
+        green: "#005518",
+        yellow: "#5c3d00",
+        blue: "#003d99",
+        magenta: "#6b0066",
+        cyan: "#004f4e",
+        white: "#3d3d3d"
+    ),
+
+    bright: (
+        black: "#333333",
+        red: "#a30000",
+        green: "#00661a",
+        yellow: "#6b4700",
+        blue: "#0049a3",
+        magenta: "#80007a",
+        cyan: "#005f5f",
+        white: "#000000"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#8b0000",
+        green: "#005518",
+        yellow: "#5c3d00",
+        blue: "#003d99",
+        magenta: "#6b0066",
+        cyan: "#004f4e",
+        white: "#3d3d3d"
+    ),
+)
