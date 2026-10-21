@@ -19,15 +19,15 @@ hi Constant guifg=#f5c400
 hi Identifier guifg=#8fd0ff
 hi Statement guifg=#ffc4bd
 hi PreProc guifg=#ffcdf7
-hi Type guifg=#b8f7b8
-hi Special guifg=#9ef7ee
+hi Type guifg=#95ff98
+hi Special guifg=#56fff3
 hi Underlined guifg=#c8e6ff gui=underline
 hi Error guifg=#ff9e94 guibg=#000000
 hi Todo guifg=#ffe08a guibg=#000000
 
 " Additional groups for better compatibility
-hi String guifg=#8fe88f
-hi Character guifg=#8fe88f
+hi String guifg=#26f444
+hi Character guifg=#26f444
 hi Number guifg=#f5c400
 hi Boolean guifg=#f5c400
 hi Float guifg=#f5c400
@@ -46,12 +46,12 @@ hi Define guifg=#ffcdf7
 hi Macro guifg=#ffcdf7
 hi PreCondit guifg=#ffcdf7
 
-hi StorageClass guifg=#b8f7b8
-hi Structure guifg=#b8f7b8
-hi Typedef guifg=#b8f7b8
+hi StorageClass guifg=#95ff98
+hi Structure guifg=#95ff98
+hi Typedef guifg=#95ff98
 
-hi SpecialChar guifg=#9ef7ee
-hi Tag guifg=#9ef7ee
+hi SpecialChar guifg=#56fff3
+hi Tag guifg=#56fff3
 hi Delimiter guifg=#e0e0e0
 hi SpecialComment guifg=#cccccc
 hi Debug guifg=#ffe08a
@@ -90,7 +90,7 @@ hi PmenuSbar guibg=#cccccc
 hi PmenuThumb guibg=#ffffff
 
 " Diff highlighting
-hi DiffAdd guibg=#8fe88f
+hi DiffAdd guibg=#26f444
 hi DiffChange guibg=#f5c400
 hi DiffDelete guibg=#ff9e94
 hi DiffText guibg=#8fd0ff
@@ -103,16 +103,16 @@ hi FoldColumn guifg=#cccccc guibg=#000000
 hi SpellBad gui=undercurl guisp=#ff9e94
 hi SpellCap gui=undercurl guisp=#8fd0ff
 hi SpellRare gui=undercurl guisp=#f2a6ff
-hi SpellLocal gui=undercurl guisp=#5ef0e0
+hi SpellLocal gui=undercurl guisp=#00f4e0
 
 " Error and warning messages
 hi ErrorMsg guifg=#ff9e94
 hi WarningMsg guifg=#f5c400
 hi MoreMsg guifg=#8fd0ff
-hi Question guifg=#8fe88f
+hi Question guifg=#26f444
 
 " Mode message
-hi ModeMsg guifg=#8fe88f
+hi ModeMsg guifg=#26f444
 
 " Directory
 hi Directory guifg=#8fd0ff

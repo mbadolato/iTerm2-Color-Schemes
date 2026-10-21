@@ -1,0 +1,33 @@
+# Colors (Zacess Deep Contrast Light)
+
+[colors.bright]
+black = '#404040'
+blue = '#0d00ff'
+cyan = '#0178c1'
+green = '#00884f'
+magenta = '#db009a'
+red = '#d14100'
+white = '#000000'
+yellow = '#907300'
+
+[colors.cursor]
+cursor = '#000000'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#0040ff'
+cyan = '#016e78'
+green = '#00892e'
+magenta = '#cd01cd'
+red = '#ca0000'
+white = '#595959'
+yellow = '#ad6500'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#000000'
+
+[colors.selection]
+background = '#f0f5ff'
+text = '#000000'

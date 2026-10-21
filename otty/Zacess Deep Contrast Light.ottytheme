@@ -1,0 +1,17 @@
+[meta]
+name = "Zacess Deep Contrast Light"
+mode = "light"
+
+[terminal]
+foreground = "#000000"
+background = "#ffffff"
+palette = [
+    "#000000", "#ca0000", "#00892e", "#ad6500",
+    "#0040ff", "#cd01cd", "#016e78", "#595959",
+    "#404040", "#d14100", "#00884f", "#907300",
+    "#0d00ff", "#db009a", "#0178c1", "#000000",
+]
+cursor = "#000000"
+cursor-text = "#ffffff"
+selection-background = "#f0f5ff"
+selection-foreground = "#000000"

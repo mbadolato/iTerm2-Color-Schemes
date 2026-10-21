@@ -9,33 +9,33 @@
     normal: (
         black: "#b3b3b3",
         red: "#ff9e94",
-        green: "#8fe88f",
+        green: "#26f444",
         yellow: "#f5c400",
         blue: "#8fd0ff",
         magenta: "#f2a6ff",
-        cyan: "#5ef0e0",
+        cyan: "#00f4e0",
         white: "#e0e0e0"
     ),
 
     bright: (
         black: "#cccccc",
         red: "#ffc4bd",
-        green: "#b8f7b8",
+        green: "#95ff98",
         yellow: "#ffe08a",
         blue: "#c8e6ff",
         magenta: "#ffcdf7",
-        cyan: "#9ef7ee",
+        cyan: "#56fff3",
         white: "#ffffff"
     ),
 
     dim: (
         black: "#b3b3b3",
         red: "#ff9e94",
-        green: "#8fe88f",
+        green: "#26f444",
         yellow: "#f5c400",
         blue: "#8fd0ff",
         magenta: "#f2a6ff",
-        cyan: "#5ef0e0",
+        cyan: "#00f4e0",
         white: "#e0e0e0"
     ),
 )
