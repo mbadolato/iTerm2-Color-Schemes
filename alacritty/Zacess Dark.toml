@@ -3,8 +3,8 @@
 [colors.bright]
 black = '#c8c8c8'
 blue = '#c9e0ff'
-cyan = '#76f1f0'
-green = '#aceead'
+cyan = '#23f6f8'
+green = '#34ff57'
 magenta = '#ffd0fa'
 red = '#ffd5ce'
 white = '#ffffff'
@@ -17,12 +17,12 @@ text = '#121212'
 [colors.normal]
 black = '#a3a3a3'
 blue = '#90c1ff'
-cyan = '#52d0cf'
-green = '#8dcd8e'
-magenta = '#eba8e4'
+cyan = '#37d2cf'
+green = '#1bdb41'
+magenta = '#f7a0f1'
 red = '#ffa79b'
 white = '#e6e6e6'
-yellow = '#deb967'
+yellow = '#f0b40b'
 
 [colors.primary]
 background = '#121212'

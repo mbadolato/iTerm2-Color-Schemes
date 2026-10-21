@@ -9,10 +9,10 @@
     normal: (
         black: "#a3a3a3",
         red: "#ffa79b",
-        green: "#82d085",
-        yellow: "#e5b851",
+        green: "#01dc3f",
+        yellow: "#edb618",
         blue: "#90c1ff",
-        magenta: "#f2a4eb",
+        magenta: "#fd9cf8",
         cyan: "#1fd3d3",
         white: "#d9d9d9"
     ),
@@ -20,21 +20,21 @@
     bright: (
         black: "#c8c8c8",
         red: "#ffd5ce",
-        green: "#a2f1a4",
+        green: "#3cff5d",
         yellow: "#ffda8a",
         blue: "#c9e0ff",
         magenta: "#ffd0fa",
-        cyan: "#55f4f3",
+        cyan: "#00f7f5",
         white: "#ffffff"
     ),
 
     dim: (
         black: "#a3a3a3",
         red: "#ffa79b",
-        green: "#82d085",
-        yellow: "#e5b851",
+        green: "#01dc3f",
+        yellow: "#edb618",
         blue: "#90c1ff",
-        magenta: "#f2a4eb",
+        magenta: "#fd9cf8",
         cyan: "#1fd3d3",
         white: "#d9d9d9"
     ),

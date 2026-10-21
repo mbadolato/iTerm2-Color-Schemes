@@ -8,34 +8,34 @@
 
     normal: (
         black: "#111111",
-        red: "#640003",
-        green: "#003708",
-        yellow: "#412900",
-        blue: "#002c66",
-        magenta: "#580055",
-        cyan: "#003434",
+        red: "#ca010e",
+        green: "#01751c",
+        yellow: "#885a00",
+        blue: "#005fcc",
+        magenta: "#b301ae",
+        cyan: "#026f6f",
         white: "#484848"
     ),
 
     bright: (
         black: "#4d4d4d",
-        red: "#950007",
-        green: "#005512",
-        yellow: "#634100",
-        blue: "#004498",
-        magenta: "#84007f",
-        cyan: "#005151",
+        red: "#e90112",
+        green: "#008722",
+        yellow: "#9d6902",
+        blue: "#006eed",
+        magenta: "#cf01c7",
+        cyan: "#028181",
         white: "#111111"
     ),
 
     dim: (
         black: "#111111",
-        red: "#640003",
-        green: "#003708",
-        yellow: "#412900",
-        blue: "#002c66",
-        magenta: "#580055",
-        cyan: "#003434",
+        red: "#ca010e",
+        green: "#01751c",
+        yellow: "#885a00",
+        blue: "#005fcc",
+        magenta: "#b301ae",
+        cyan: "#026f6f",
         white: "#484848"
     ),
 )

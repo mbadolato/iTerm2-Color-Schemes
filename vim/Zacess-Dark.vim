@@ -15,22 +15,22 @@ hi Normal guifg=#f5f5f5 guibg=#121212
 
 " Syntax highlighting groups
 hi Comment guifg=#c8c8c8
-hi Constant guifg=#deb967
+hi Constant guifg=#f0b40b
 hi Identifier guifg=#90c1ff
 hi Statement guifg=#ffd5ce
 hi PreProc guifg=#ffd0fa
-hi Type guifg=#aceead
-hi Special guifg=#76f1f0
+hi Type guifg=#34ff57
+hi Special guifg=#23f6f8
 hi Underlined guifg=#c9e0ff gui=underline
 hi Error guifg=#ffa79b guibg=#121212
 hi Todo guifg=#ffda8a guibg=#121212
 
 " Additional groups for better compatibility
-hi String guifg=#8dcd8e
-hi Character guifg=#8dcd8e
-hi Number guifg=#deb967
-hi Boolean guifg=#deb967
-hi Float guifg=#deb967
+hi String guifg=#1bdb41
+hi Character guifg=#1bdb41
+hi Number guifg=#f0b40b
+hi Boolean guifg=#f0b40b
+hi Float guifg=#f0b40b
 
 hi Function guifg=#90c1ff
 
@@ -46,12 +46,12 @@ hi Define guifg=#ffd0fa
 hi Macro guifg=#ffd0fa
 hi PreCondit guifg=#ffd0fa
 
-hi StorageClass guifg=#aceead
-hi Structure guifg=#aceead
-hi Typedef guifg=#aceead
+hi StorageClass guifg=#34ff57
+hi Structure guifg=#34ff57
+hi Typedef guifg=#34ff57
 
-hi SpecialChar guifg=#76f1f0
-hi Tag guifg=#76f1f0
+hi SpecialChar guifg=#23f6f8
+hi Tag guifg=#23f6f8
 hi Delimiter guifg=#e6e6e6
 hi SpecialComment guifg=#c8c8c8
 hi Debug guifg=#ffda8a
@@ -90,8 +90,8 @@ hi PmenuSbar guibg=#c8c8c8
 hi PmenuThumb guibg=#f5f5f5
 
 " Diff highlighting
-hi DiffAdd guibg=#8dcd8e
-hi DiffChange guibg=#deb967
+hi DiffAdd guibg=#1bdb41
+hi DiffChange guibg=#f0b40b
 hi DiffDelete guibg=#ffa79b
 hi DiffText guibg=#90c1ff
 
@@ -102,23 +102,23 @@ hi FoldColumn guifg=#c8c8c8 guibg=#121212
 " Spell checking
 hi SpellBad gui=undercurl guisp=#ffa79b
 hi SpellCap gui=undercurl guisp=#90c1ff
-hi SpellRare gui=undercurl guisp=#eba8e4
-hi SpellLocal gui=undercurl guisp=#52d0cf
+hi SpellRare gui=undercurl guisp=#f7a0f1
+hi SpellLocal gui=undercurl guisp=#37d2cf
 
 " Error and warning messages
 hi ErrorMsg guifg=#ffa79b
-hi WarningMsg guifg=#deb967
+hi WarningMsg guifg=#f0b40b
 hi MoreMsg guifg=#90c1ff
-hi Question guifg=#8dcd8e
+hi Question guifg=#1bdb41
 
 " Mode message
-hi ModeMsg guifg=#8dcd8e
+hi ModeMsg guifg=#1bdb41
 
 " Directory
 hi Directory guifg=#90c1ff
 
 " Title
-hi Title guifg=#eba8e4
+hi Title guifg=#f7a0f1
 
 " Match parenthesis
 hi MatchParen guibg=#c8c8c8

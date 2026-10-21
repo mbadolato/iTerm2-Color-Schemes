@@ -5,5 +5,5 @@ name='Zacess Yellow on Black'
 cursor-color='#ffeb3b'
 foreground='#ffffff'
 background='rgba(0,0,0,.95)'
-palette='#a3a3a3:#ffa79b:#82d085:#e5b851:#90c1ff:#f2a4eb:#1fd3d3:#d9d9d9:#c8c8c8:#ffd5ce:#a2f1a4:#ffda8a:#c9e0ff:#ffd0fa:#55f4f3:#ffffff'
+palette='#a3a3a3:#ffa79b:#01dc3f:#edb618:#90c1ff:#fd9cf8:#1fd3d3:#d9d9d9:#c8c8c8:#ffd5ce:#3cff5d:#ffda8a:#c9e0ff:#ffd0fa:#00f7f5:#ffffff'
 COLORS
