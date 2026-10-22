@@ -1,0 +1,12 @@
+# Zacess Deep Contrast Light
+[colors]
+foreground = "#000000"
+background = "#ffffff"
+cursor_bg = "#000000"
+cursor_border = "#000000"
+cursor_fg = "#ffffff"
+selection_bg = "#f0f5ff"
+selection_fg = "#000000"
+
+ansi = ["#000000","#ca0000","#00892e","#ad6500","#0040ff","#cd01cd","#016e78","#595959"]
+brights = ["#404040","#d14100","#00884f","#907300","#0d00ff","#db009a","#0178c1","#000000"]

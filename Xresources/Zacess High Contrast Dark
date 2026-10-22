@@ -1,0 +1,43 @@
+!
+! Zacess High Contrast Dark
+!
+*.foreground:  #ffffff
+*.background:  #000000
+*.cursorColor: #f5c400
+!
+! Black
+*.color0:      #b3b3b3
+*.color8:      #cccccc
+!
+! Red
+*.color1:      #ff9e94
+*.color9:      #ffc4bd
+!
+! Green
+*.color2:      #26f444
+*.color10:     #95ff98
+!
+! Yellow
+*.color3:      #f5c400
+*.color11:     #ffe08a
+!
+! Blue
+*.color4:      #8fd0ff
+*.color12:     #c8e6ff
+!
+! Magenta
+*.color5:      #f2a6ff
+*.color13:     #ffcdf7
+!
+! Cyan
+*.color6:      #00f4e0
+*.color14:     #56fff3
+!
+! White
+*.color7:      #e0e0e0
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

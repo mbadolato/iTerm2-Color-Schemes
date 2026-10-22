@@ -1,0 +1,41 @@
+(
+    name: "Zacess Deep Contrast Dark",
+    foreground: "#ffffff",
+    background: "#000000",
+    cursor: "#ffff00",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#b8b8b8",
+
+    normal: (
+        black: "#000000",
+        red: "#ff5f5f",
+        green: "#00cd00",
+        yellow: "#cdcd00",
+        blue: "#8888ff",
+        magenta: "#ff2aff",
+        cyan: "#00cdcd",
+        white: "#e5e5e5"
+    ),
+
+    bright: (
+        black: "#b8b8b8",
+        red: "#ff9e9e",
+        green: "#00ff00",
+        yellow: "#ffff00",
+        blue: "#b0b0ff",
+        magenta: "#ff8fff",
+        cyan: "#00ffff",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#ff5f5f",
+        green: "#00cd00",
+        yellow: "#cdcd00",
+        blue: "#8888ff",
+        magenta: "#ff2aff",
+        cyan: "#00cdcd",
+        white: "#e5e5e5"
+    ),
+)

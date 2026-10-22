@@ -1,0 +1,33 @@
+# Colors (Zacess High Contrast Light)
+
+[colors.bright]
+black = '#333333'
+blue = '#016eee'
+cyan = '#028181'
+green = '#018726'
+magenta = '#cf00c6'
+red = '#e90100'
+white = '#000000'
+yellow = '#9c6a01'
+
+[colors.cursor]
+cursor = '#000000'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#005bdc'
+cyan = '#006f6e'
+green = '#017424'
+magenta = '#b400ac'
+red = '#ca0000'
+white = '#3d3d3d'
+yellow = '#875b00'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#000000'
+
+[colors.selection]
+background = '#fff1a0'
+text = '#000000'

@@ -1,0 +1,43 @@
+!
+! Zacess Deep Contrast Dark
+!
+*.foreground:  #ffffff
+*.background:  #000000
+*.cursorColor: #ffff00
+!
+! Black
+*.color0:      #000000
+*.color8:      #b8b8b8
+!
+! Red
+*.color1:      #ff5f5f
+*.color9:      #ff9e9e
+!
+! Green
+*.color2:      #00cd00
+*.color10:     #00ff00
+!
+! Yellow
+*.color3:      #cdcd00
+*.color11:     #ffff00
+!
+! Blue
+*.color4:      #8888ff
+*.color12:     #b0b0ff
+!
+! Magenta
+*.color5:      #ff2aff
+*.color13:     #ff8fff
+!
+! Cyan
+*.color6:      #00cdcd
+*.color14:     #00ffff
+!
+! White
+*.color7:      #e5e5e5
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

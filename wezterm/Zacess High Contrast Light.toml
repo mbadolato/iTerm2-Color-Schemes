@@ -1,0 +1,12 @@
+# Zacess High Contrast Light
+[colors]
+foreground = "#000000"
+background = "#ffffff"
+cursor_bg = "#000000"
+cursor_border = "#000000"
+cursor_fg = "#ffffff"
+selection_bg = "#fff1a0"
+selection_fg = "#000000"
+
+ansi = ["#000000","#ca0000","#017424","#875b00","#005bdc","#b400ac","#006f6e","#3d3d3d"]
+brights = ["#333333","#e90100","#018726","#9c6a01","#016eee","#cf00c6","#028181","#000000"]

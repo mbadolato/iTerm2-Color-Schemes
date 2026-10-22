@@ -1,0 +1,41 @@
+(
+    name: "Zacess Deep Contrast Light",
+    foreground: "#000000",
+    background: "#ffffff",
+    cursor: "#000000",
+    bright_foreground: "#000000",
+    dim_foreground: "#404040",
+
+    normal: (
+        black: "#000000",
+        red: "#ca0000",
+        green: "#00892e",
+        yellow: "#ad6500",
+        blue: "#0040ff",
+        magenta: "#cd01cd",
+        cyan: "#016e78",
+        white: "#595959"
+    ),
+
+    bright: (
+        black: "#404040",
+        red: "#d14100",
+        green: "#00884f",
+        yellow: "#907300",
+        blue: "#0d00ff",
+        magenta: "#db009a",
+        cyan: "#0178c1",
+        white: "#000000"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#ca0000",
+        green: "#00892e",
+        yellow: "#ad6500",
+        blue: "#0040ff",
+        magenta: "#cd01cd",
+        cyan: "#016e78",
+        white: "#595959"
+    ),
+)

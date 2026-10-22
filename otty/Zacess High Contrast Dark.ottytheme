@@ -1,0 +1,17 @@
+[meta]
+name = "Zacess High Contrast Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#000000"
+palette = [
+    "#b3b3b3", "#ff9e94", "#26f444", "#f5c400",
+    "#8fd0ff", "#f2a6ff", "#00f4e0", "#e0e0e0",
+    "#cccccc", "#ffc4bd", "#95ff98", "#ffe08a",
+    "#c8e6ff", "#ffcdf7", "#56fff3", "#ffffff",
+]
+cursor = "#f5c400"
+cursor-text = "#000000"
+selection-background = "#0a2552"
+selection-foreground = "#ffffff"
