@@ -1,0 +1,43 @@
+!
+! Lumina Aurora Dark
+!
+*.foreground:  #d9d5e3
+*.background:  #120c1c
+*.cursorColor: #d9d5e3
+!
+! Black
+*.color0:      #171022
+*.color8:      #8a819b
+!
+! Red
+*.color1:      #d45f58
+*.color9:      #e0847c
+!
+! Green
+*.color2:      #53e39c
+*.color10:     #a2f4c4
+!
+! Yellow
+*.color3:      #fecc74
+*.color11:     #ffe4b7
+!
+! Blue
+*.color4:      #b8c5e4
+*.color12:     #d2dfff
+!
+! Magenta
+*.color5:      #eeaae7
+*.color13:     #ffcbf9
+!
+! Cyan
+*.color6:      #75d7e2
+*.color14:     #8ef2fd
+!
+! White
+*.color7:      #b9b5c3
+*.color15:     #d9d5e3
+!
+! Bold, Italic, Underline
+*.colorBD:     #d9d5e3
+!*.colorIT:
+!*.colorUL:

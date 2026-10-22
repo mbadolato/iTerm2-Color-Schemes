@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Parchment Light"
+mode = "light"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#302416"
+background = "#f3e9d2"
+palette = [
+    "#302416", "#811d1d", "#1b4732", "#905c00",
+    "#2b5a94", "#832f6f", "#006476", "#746657",
+    "#706453", "#5c1d1b", "#003520", "#764a00",
+    "#17467e", "#642955", "#004f5e", "#938474",
+]
+cursor = "#302416"
+cursor-text = "#f3e9d2"
+selection-background = "#b6c3b1"
+selection-foreground = "#302416"

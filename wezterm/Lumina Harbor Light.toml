@@ -1,0 +1,12 @@
+# Lumina Harbor Light
+[colors]
+foreground = "#1b2737"
+background = "#e6f2fe"
+cursor_bg = "#1b2737"
+cursor_border = "#1b2737"
+cursor_fg = "#e6f2fe"
+selection_bg = "#a9d1d5"
+selection_fg = "#1b2737"
+
+ansi = ["#1b2737","#992a28","#007742","#a55800","#2863ab","#874882","#006f82","#5f6d80"]
+brights = ["#627080","#712a26","#086035","#884806","#1e508b","#70366c","#005969","#7e8ca0"]

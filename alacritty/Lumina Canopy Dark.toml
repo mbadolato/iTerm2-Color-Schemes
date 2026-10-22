@@ -1,0 +1,33 @@
+# Colors (Lumina Canopy Dark)
+
+[colors.bright]
+black = '#7b9381'
+blue = '#bedeff'
+cyan = '#a1fbf5'
+green = '#aeefbb'
+magenta = '#f2b9f5'
+red = '#df8981'
+white = '#cddbd0'
+yellow = '#ffd989'
+
+[colors.cursor]
+cursor = '#cddbd0'
+text = '#131d16'
+
+[colors.normal]
+black = '#17221a'
+blue = '#8dc6ff'
+cyan = '#8ce3dd'
+green = '#96d4a2'
+magenta = '#d1a5d3'
+red = '#d3665e'
+white = '#adbbb0'
+yellow = '#f2bb31'
+
+[colors.primary]
+background = '#131d16'
+foreground = '#cddbd0'
+
+[colors.selection]
+background = '#434022'
+text = '#cddbd0'

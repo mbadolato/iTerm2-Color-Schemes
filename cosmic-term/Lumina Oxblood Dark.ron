@@ -1,0 +1,41 @@
+(
+    name: "Lumina Oxblood Dark",
+    foreground: "#e4d2d7",
+    background: "#23171b",
+    cursor: "#e4d2d7",
+    bright_foreground: "#e4d2d7",
+    dim_foreground: "#a2858f",
+
+    normal: (
+        black: "#291b20",
+        red: "#de6961",
+        green: "#7dc797",
+        yellow: "#f9c875",
+        blue: "#96c3fb",
+        magenta: "#ddb7ed",
+        cyan: "#00bed0",
+        white: "#c3b2b7"
+    ),
+
+    bright: (
+        black: "#a2858f",
+        red: "#e98e86",
+        green: "#98e1b1",
+        yellow: "#ffe4b8",
+        blue: "#c0dcff",
+        magenta: "#f2d5ff",
+        cyan: "#76d2df",
+        white: "#e4d2d7"
+    ),
+
+    dim: (
+        black: "#291b20",
+        red: "#de6961",
+        green: "#7dc797",
+        yellow: "#f9c875",
+        blue: "#96c3fb",
+        magenta: "#ddb7ed",
+        cyan: "#00bed0",
+        white: "#c3b2b7"
+    ),
+)

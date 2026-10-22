@@ -1,0 +1,43 @@
+!
+! Lumina Nebula Dark
+!
+*.foreground:  #cadceb
+*.background:  #0a111a
+*.cursorColor: #cadceb
+!
+! Black
+*.color0:      #0e1520
+*.color8:      #728295
+!
+! Red
+*.color1:      #d36059
+*.color9:      #df847d
+!
+! Green
+*.color2:      #8bce99
+*.color10:     #a3e9b2
+!
+! Yellow
+*.color3:      #f7cf55
+*.color11:     #ffe6a0
+!
+! Blue
+*.color4:      #92bef8
+*.color12:     #bad7ff
+!
+! Magenta
+*.color5:      #e3a2dc
+*.color13:     #ffbbf7
+!
+! Cyan
+*.color6:      #00dfe5
+*.color14:     #8ff1f4
+!
+! White
+*.color7:      #aabcca
+*.color15:     #cadceb
+!
+! Bold, Italic, Underline
+*.colorBD:     #cadceb
+!*.colorIT:
+!*.colorUL:

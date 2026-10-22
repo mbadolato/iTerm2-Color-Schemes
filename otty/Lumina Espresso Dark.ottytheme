@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Espresso Dark"
+mode = "dark"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#e5dbcd"
+background = "#2f1d11"
+palette = [
+    "#352114", "#d47169", "#92c79c", "#fdcf90",
+    "#92bbea", "#dc8ebb", "#b7dce5", "#c4bbad",
+    "#968678", "#e1938b", "#aae1b5", "#ffe3be",
+    "#b0d5ff", "#efadd2", "#bef2ff", "#e5dbcd",
+]
+cursor = "#e5dbcd"
+cursor-text = "#2f1d11"
+selection-background = "#51472a"
+selection-foreground = "#e5dbcd"

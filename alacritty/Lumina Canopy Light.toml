@@ -1,0 +1,33 @@
+# Colors (Lumina Canopy Light)
+
+[colors.bright]
+black = '#51665c'
+blue = '#0c487f'
+cyan = '#005a6a'
+green = '#006243'
+magenta = '#763560'
+red = '#742d2a'
+white = '#869085'
+yellow = '#874e00'
+
+[colors.cursor]
+cursor = '#3b433a'
+text = '#f1f5f0'
+
+[colors.normal]
+black = '#3b433a'
+blue = '#1d5c99'
+cyan = '#007083'
+green = '#007953'
+magenta = '#9e327d'
+red = '#9c2e2c'
+white = '#687067'
+yellow = '#a06115'
+
+[colors.primary]
+background = '#f1f5f0'
+foreground = '#3b433a'
+
+[colors.selection]
+background = '#dedbcb'
+text = '#3b433a'

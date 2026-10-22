@@ -1,0 +1,41 @@
+(
+    name: "Lumina Lagoon Dark",
+    foreground: "#d4e5ea",
+    background: "#182f36",
+    cursor: "#d4e5ea",
+    bright_foreground: "#d4e5ea",
+    dim_foreground: "#859ea7",
+
+    normal: (
+        black: "#1b343c",
+        red: "#df7370",
+        green: "#8dcea3",
+        yellow: "#dfcc78",
+        blue: "#a0c7f9",
+        magenta: "#da9ef6",
+        cyan: "#84d3dc",
+        white: "#b4c4c9"
+    ),
+
+    bright: (
+        black: "#859ea7",
+        red: "#eb9692",
+        green: "#a7e8bc",
+        yellow: "#fbe68b",
+        blue: "#c8e0ff",
+        magenta: "#eac1ff",
+        cyan: "#9dedf7",
+        white: "#d6e7ec"
+    ),
+
+    dim: (
+        black: "#1b343c",
+        red: "#df7370",
+        green: "#8dcea3",
+        yellow: "#dfcc78",
+        blue: "#a0c7f9",
+        magenta: "#da9ef6",
+        cyan: "#84d3dc",
+        white: "#b4c4c9"
+    ),
+)

@@ -1,0 +1,43 @@
+!
+! Lumina Quartz Light Contrast
+!
+*.foreground:  #0e0f13
+*.background:  #fdfdfe
+*.cursorColor: #0e0f13
+!
+! Black
+*.color0:      #0e0f13
+*.color8:      #595f64
+!
+! Red
+*.color1:      #660005
+*.color9:      #470103
+!
+! Green
+*.color2:      #00581f
+*.color10:     #004215
+!
+! Yellow
+*.color3:      #7e4800
+*.color11:     #643800
+!
+! Blue
+*.color4:      #004b7a
+*.color12:     #00385d
+!
+! Magenta
+*.color5:      #72246e
+*.color13:     #5b0f58
+!
+! Cyan
+*.color6:      #005463
+*.color14:     #00404b
+!
+! White
+*.color7:      #727479
+*.color15:     #929399
+!
+! Bold, Italic, Underline
+*.colorBD:     #0e0f13
+!*.colorIT:
+!*.colorUL:

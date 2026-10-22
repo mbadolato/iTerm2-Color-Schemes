@@ -1,0 +1,41 @@
+(
+    name: "Lumina Aurora Light",
+    foreground: "#302a3b",
+    background: "#f7f6fb",
+    cursor: "#302a3b",
+    bright_foreground: "#302a3b",
+    dim_foreground: "#6b6578",
+
+    normal: (
+        black: "#302a3b",
+        red: "#860e23",
+        green: "#006d3c",
+        yellow: "#9b6400",
+        blue: "#2765b0",
+        magenta: "#9a4580",
+        cyan: "#006d80",
+        white: "#736d81"
+    ),
+
+    bright: (
+        black: "#6b6578",
+        red: "#5f171e",
+        green: "#00572e",
+        yellow: "#815200",
+        blue: "#165196",
+        magenta: "#803569",
+        cyan: "#005867",
+        white: "#938ca1"
+    ),
+
+    dim: (
+        black: "#302a3b",
+        red: "#860e23",
+        green: "#006d3c",
+        yellow: "#9b6400",
+        blue: "#2765b0",
+        magenta: "#9a4580",
+        cyan: "#006d80",
+        white: "#736d81"
+    ),
+)

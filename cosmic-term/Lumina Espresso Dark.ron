@@ -1,0 +1,41 @@
+(
+    name: "Lumina Espresso Dark",
+    foreground: "#e5dbcd",
+    background: "#2f1d11",
+    cursor: "#e5dbcd",
+    bright_foreground: "#e5dbcd",
+    dim_foreground: "#968678",
+
+    normal: (
+        black: "#352114",
+        red: "#d47169",
+        green: "#92c79c",
+        yellow: "#fdcf90",
+        blue: "#92bbea",
+        magenta: "#dc8ebb",
+        cyan: "#b7dce5",
+        white: "#c4bbad"
+    ),
+
+    bright: (
+        black: "#968678",
+        red: "#e1938b",
+        green: "#aae1b5",
+        yellow: "#ffe3be",
+        blue: "#b0d5ff",
+        magenta: "#efadd2",
+        cyan: "#bef2ff",
+        white: "#e5dbcd"
+    ),
+
+    dim: (
+        black: "#352114",
+        red: "#d47169",
+        green: "#92c79c",
+        yellow: "#fdcf90",
+        blue: "#92bbea",
+        magenta: "#dc8ebb",
+        cyan: "#b7dce5",
+        white: "#c4bbad"
+    ),
+)

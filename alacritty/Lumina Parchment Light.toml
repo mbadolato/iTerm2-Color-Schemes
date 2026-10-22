@@ -1,0 +1,33 @@
+# Colors (Lumina Parchment Light)
+
+[colors.bright]
+black = '#706453'
+blue = '#17467e'
+cyan = '#004f5e'
+green = '#003520'
+magenta = '#642955'
+red = '#5c1d1b'
+white = '#938474'
+yellow = '#764a00'
+
+[colors.cursor]
+cursor = '#302416'
+text = '#f3e9d2'
+
+[colors.normal]
+black = '#302416'
+blue = '#2b5a94'
+cyan = '#006476'
+green = '#1b4732'
+magenta = '#832f6f'
+red = '#811d1d'
+white = '#746657'
+yellow = '#905c00'
+
+[colors.primary]
+background = '#f3e9d2'
+foreground = '#302416'
+
+[colors.selection]
+background = '#b6c3b1'
+text = '#302416'

@@ -1,0 +1,33 @@
+# Colors (Lumina Dusk Light)
+
+[colors.bright]
+black = '#6e6073'
+blue = '#283e7a'
+cyan = '#00505e'
+green = '#125529'
+magenta = '#532559'
+red = '#622220'
+white = '#918394'
+yellow = '#593500'
+
+[colors.cursor]
+cursor = '#3f3341'
+text = '#f1eaf2'
+
+[colors.normal]
+black = '#3f3341'
+blue = '#334f9d'
+cyan = '#006576'
+green = '#27693a'
+magenta = '#6f2c79'
+red = '#882322'
+white = '#736575'
+yellow = '#644c31'
+
+[colors.primary]
+background = '#f1eaf2'
+foreground = '#3f3341'
+
+[colors.selection]
+background = '#decee1'
+text = '#3f3341'

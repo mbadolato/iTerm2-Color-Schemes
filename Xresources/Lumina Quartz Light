@@ -1,0 +1,43 @@
+!
+! Lumina Quartz Light
+!
+*.foreground:  #404246
+*.background:  #f6f7f8
+*.cursorColor: #404246
+!
+! Black
+*.color0:      #404246
+*.color8:      #5f656a
+!
+! Red
+*.color1:      #861d1d
+*.color9:      #601e1c
+!
+! Green
+*.color2:      #207f4f
+*.color10:     #0f693e
+!
+! Yellow
+*.color3:      #a16011
+*.color11:     #874e00
+!
+! Blue
+*.color4:      #3566a4
+*.color12:     #21528e
+!
+! Magenta
+*.color5:      #a7367b
+*.color13:     #7e3861
+!
+! Cyan
+*.color6:      #037393
+*.color14:     #005e79
+!
+! White
+*.color7:      #6e7075
+*.color15:     #8d8f94
+!
+! Bold, Italic, Underline
+*.colorBD:     #404246
+!*.colorIT:
+!*.colorUL:

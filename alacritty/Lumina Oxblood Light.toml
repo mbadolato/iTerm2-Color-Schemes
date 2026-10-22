@@ -1,0 +1,33 @@
+# Colors (Lumina Oxblood Light)
+
+[colors.bright]
+black = '#795d6a'
+blue = '#215189'
+cyan = '#004f66'
+green = '#166338'
+magenta = '#70376b'
+red = '#712c24'
+white = '#9f8893'
+yellow = '#845000'
+
+[colors.cursor]
+cursor = '#4f3c45'
+text = '#f9f4f5'
+
+[colors.normal]
+black = '#4f3c45'
+blue = '#35659f'
+cyan = '#3d606e'
+green = '#287849'
+magenta = '#864a81'
+red = '#982e24'
+white = '#7e6973'
+yellow = '#9f6202'
+
+[colors.primary]
+background = '#f9f4f5'
+foreground = '#4f3c45'
+
+[colors.selection]
+background = '#ebd5dd'
+text = '#4f3c45'

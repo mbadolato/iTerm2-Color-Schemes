@@ -1,0 +1,12 @@
+# Lumina Rayleigh Light
+[colors]
+foreground = "#1d2638"
+background = "#f7fbfe"
+cursor_bg = "#1d2638"
+cursor_border = "#1d2638"
+cursor_fg = "#f7fbfe"
+selection_bg = "#bdcfee"
+selection_fg = "#1d2638"
+
+ansi = ["#1d2638","#941419","#187538","#9b6400","#0555b7","#a43687","#005c71","#677388"]
+brights = ["#656f81","#6b1d1b","#005f28","#815200","#0a4490","#81326b","#004758","#8792a9"]

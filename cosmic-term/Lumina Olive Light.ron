@@ -1,0 +1,41 @@
+(
+    name: "Lumina Olive Light",
+    foreground: "#262816",
+    background: "#f1f0d9",
+    cursor: "#262816",
+    bright_foreground: "#262816",
+    dim_foreground: "#6c6e5a",
+
+    normal: (
+        black: "#262816",
+        red: "#861d1d",
+        green: "#29703d",
+        yellow: "#955e00",
+        blue: "#2e5ba6",
+        magenta: "#83457e",
+        cyan: "#006b7d",
+        white: "#6b6d59"
+    ),
+
+    bright: (
+        black: "#6c6e5a",
+        red: "#601e1c",
+        green: "#145b2b",
+        yellow: "#7b4c00",
+        blue: "#244886",
+        magenta: "#6d3268",
+        cyan: "#005664",
+        white: "#898b76"
+    ),
+
+    dim: (
+        black: "#262816",
+        red: "#861d1d",
+        green: "#29703d",
+        yellow: "#955e00",
+        blue: "#2e5ba6",
+        magenta: "#83457e",
+        cyan: "#006b7d",
+        white: "#6b6d59"
+    ),
+)

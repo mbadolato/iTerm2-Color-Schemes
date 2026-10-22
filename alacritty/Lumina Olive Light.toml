@@ -1,0 +1,33 @@
+# Colors (Lumina Olive Light)
+
+[colors.bright]
+black = '#6c6e5a'
+blue = '#244886'
+cyan = '#005664'
+green = '#145b2b'
+magenta = '#6d3268'
+red = '#601e1c'
+white = '#898b76'
+yellow = '#7b4c00'
+
+[colors.cursor]
+cursor = '#262816'
+text = '#f1f0d9'
+
+[colors.normal]
+black = '#262816'
+blue = '#2e5ba6'
+cyan = '#006b7d'
+green = '#29703d'
+magenta = '#83457e'
+red = '#861d1d'
+white = '#6b6d59'
+yellow = '#955e00'
+
+[colors.primary]
+background = '#f1f0d9'
+foreground = '#262816'
+
+[colors.selection]
+background = '#c8c3c3'
+text = '#262816'

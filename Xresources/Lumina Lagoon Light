@@ -1,0 +1,43 @@
+!
+! Lumina Lagoon Light
+!
+*.foreground:  #212829
+*.background:  #eef9fb
+*.cursorColor: #212829
+!
+! Black
+*.color0:      #212829
+*.color8:      #626b6d
+!
+! Red
+*.color1:      #901f1f
+*.color9:      #69221e
+!
+! Green
+*.color2:      #007853
+*.color10:     #006143
+!
+! Yellow
+*.color3:      #a06200
+*.color11:     #855100
+!
+! Blue
+*.color4:      #1e69a2
+*.color12:     #00558b
+!
+! Magenta
+*.color5:      #8a4885
+*.color13:     #73356f
+!
+! Cyan
+*.color6:      #345a61
+*.color14:     #004953
+!
+! White
+*.color7:      #697273
+*.color15:     #889192
+!
+! Bold, Italic, Underline
+*.colorBD:     #212829
+!*.colorIT:
+!*.colorUL:

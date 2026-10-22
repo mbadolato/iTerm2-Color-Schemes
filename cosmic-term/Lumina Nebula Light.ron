@@ -1,0 +1,41 @@
+(
+    name: "Lumina Nebula Light",
+    foreground: "#1f2a38",
+    background: "#f6f8fb",
+    cursor: "#1f2a38",
+    bright_foreground: "#1f2a38",
+    dim_foreground: "#626d7a",
+
+    normal: (
+        black: "#1f2a38",
+        red: "#902725",
+        green: "#2e7241",
+        yellow: "#996000",
+        blue: "#34639e",
+        magenta: "#84487f",
+        cyan: "#00657e",
+        white: "#657283"
+    ),
+
+    bright: (
+        black: "#626d7a",
+        red: "#692623",
+        green: "#1a5d2f",
+        yellow: "#7e4e00",
+        blue: "#214f88",
+        magenta: "#6e3569",
+        cyan: "#005064",
+        white: "#8491a3"
+    ),
+
+    dim: (
+        black: "#1f2a38",
+        red: "#902725",
+        green: "#2e7241",
+        yellow: "#996000",
+        blue: "#34639e",
+        magenta: "#84487f",
+        cyan: "#00657e",
+        white: "#657283"
+    ),
+)

@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Oxblood Dark"
+mode = "dark"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#e4d2d7"
+background = "#23171b"
+palette = [
+    "#291b20", "#de6961", "#7dc797", "#f9c875",
+    "#96c3fb", "#ddb7ed", "#00bed0", "#c3b2b7",
+    "#a2858f", "#e98e86", "#98e1b1", "#ffe4b8",
+    "#c0dcff", "#f2d5ff", "#76d2df", "#e4d2d7",
+]
+cursor = "#e4d2d7"
+cursor-text = "#23171b"
+selection-background = "#553441"
+selection-foreground = "#e4d2d7"

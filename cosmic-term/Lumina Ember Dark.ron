@@ -1,0 +1,41 @@
+(
+    name: "Lumina Ember Dark",
+    foreground: "#e0d8cb",
+    background: "#1c1916",
+    cursor: "#e0d8cb",
+    bright_foreground: "#e0d8cb",
+    dim_foreground: "#978b7e",
+
+    normal: (
+        black: "#211e1a",
+        red: "#d1635b",
+        green: "#90d6b4",
+        yellow: "#e4d874",
+        blue: "#78bbea",
+        magenta: "#e5a7df",
+        cyan: "#77cfd9",
+        white: "#c0b8ab"
+    ),
+
+    bright: (
+        black: "#978b7e",
+        red: "#dd867e",
+        green: "#a3f2cc",
+        yellow: "#f7eb89",
+        blue: "#99d4ff",
+        magenta: "#ffc1f9",
+        cyan: "#90e9f4",
+        white: "#e0d8cb"
+    ),
+
+    dim: (
+        black: "#211e1a",
+        red: "#d1635b",
+        green: "#90d6b4",
+        yellow: "#e4d874",
+        blue: "#78bbea",
+        magenta: "#e5a7df",
+        cyan: "#77cfd9",
+        white: "#c0b8ab"
+    ),
+)

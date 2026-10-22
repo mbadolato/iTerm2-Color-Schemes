@@ -1,0 +1,41 @@
+(
+    name: "Lumina Dusk Light",
+    foreground: "#3f3341",
+    background: "#f1eaf2",
+    cursor: "#3f3341",
+    bright_foreground: "#3f3341",
+    dim_foreground: "#6e6073",
+
+    normal: (
+        black: "#3f3341",
+        red: "#882322",
+        green: "#27693a",
+        yellow: "#644c31",
+        blue: "#334f9d",
+        magenta: "#6f2c79",
+        cyan: "#006576",
+        white: "#736575"
+    ),
+
+    bright: (
+        black: "#6e6073",
+        red: "#622220",
+        green: "#125529",
+        yellow: "#593500",
+        blue: "#283e7a",
+        magenta: "#532559",
+        cyan: "#00505e",
+        white: "#918394"
+    ),
+
+    dim: (
+        black: "#3f3341",
+        red: "#882322",
+        green: "#27693a",
+        yellow: "#644c31",
+        blue: "#334f9d",
+        magenta: "#6f2c79",
+        cyan: "#006576",
+        white: "#736575"
+    ),
+)

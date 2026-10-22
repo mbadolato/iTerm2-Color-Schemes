@@ -1,0 +1,12 @@
+# Lumina Quartz Light Contrast
+[colors]
+foreground = "#0e0f13"
+background = "#fdfdfe"
+cursor_bg = "#0e0f13"
+cursor_border = "#0e0f13"
+cursor_fg = "#fdfdfe"
+selection_bg = "#b7d0d5"
+selection_fg = "#0e0f13"
+
+ansi = ["#0e0f13","#660005","#00581f","#7e4800","#004b7a","#72246e","#005463","#727479"]
+brights = ["#595f64","#470103","#004215","#643800","#00385d","#5b0f58","#00404b","#929399"]

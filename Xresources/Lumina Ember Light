@@ -1,0 +1,43 @@
+!
+! Lumina Ember Light
+!
+*.foreground:  #3d332b
+*.background:  #fbf8f0
+*.cursorColor: #3d332b
+!
+! Black
+*.color0:      #3d332b
+*.color8:      #73665a
+!
+! Red
+*.color1:      #972524
+*.color9:      #6f2623
+!
+! Green
+*.color2:      #23784f
+*.color10:     #00633c
+!
+! Yellow
+*.color3:      #68482d
+*.color11:     #5c3100
+!
+! Blue
+*.color4:      #3770b0
+*.color12:     #235b99
+!
+! Magenta
+*.color5:      #a43a7c
+*.color13:     #7f3762
+!
+! Cyan
+*.color6:      #007488
+*.color14:     #005e6f
+!
+! White
+*.color7:      #7a6f66
+*.color15:     #9a8e85
+!
+! Bold, Italic, Underline
+*.colorBD:     #3d332b
+!*.colorIT:
+!*.colorUL:

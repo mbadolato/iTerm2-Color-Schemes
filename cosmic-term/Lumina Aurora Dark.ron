@@ -1,0 +1,41 @@
+(
+    name: "Lumina Aurora Dark",
+    foreground: "#d9d5e3",
+    background: "#120c1c",
+    cursor: "#d9d5e3",
+    bright_foreground: "#d9d5e3",
+    dim_foreground: "#8a819b",
+
+    normal: (
+        black: "#171022",
+        red: "#d45f58",
+        green: "#53e39c",
+        yellow: "#fecc74",
+        blue: "#b8c5e4",
+        magenta: "#eeaae7",
+        cyan: "#75d7e2",
+        white: "#b9b5c3"
+    ),
+
+    bright: (
+        black: "#8a819b",
+        red: "#e0847c",
+        green: "#a2f4c4",
+        yellow: "#ffe4b7",
+        blue: "#d2dfff",
+        magenta: "#ffcbf9",
+        cyan: "#8ef2fd",
+        white: "#d9d5e3"
+    ),
+
+    dim: (
+        black: "#171022",
+        red: "#d45f58",
+        green: "#53e39c",
+        yellow: "#fecc74",
+        blue: "#b8c5e4",
+        magenta: "#eeaae7",
+        cyan: "#75d7e2",
+        white: "#b9b5c3"
+    ),
+)

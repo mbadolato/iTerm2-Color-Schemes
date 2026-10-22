@@ -1,0 +1,12 @@
+# Lumina Parchment Dark
+[colors]
+foreground = "#eee7d9"
+background = "#342d21"
+cursor_bg = "#eee7d9"
+cursor_border = "#eee7d9"
+cursor_fg = "#342d21"
+selection_bg = "#4f584c"
+selection_fg = "#eee7d9"
+
+ansi = ["#3a3224","#db7d75","#c3dcc7","#f3cb7f","#9ebde6","#dd95ce","#89c7ce","#c5bfb1"]
+brights = ["#a29785","#e89e97","#c4f7cd","#ffe4b3","#b8d7ff","#ecb6e0","#a1e1e8","#eee7d9"]

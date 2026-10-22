@@ -1,0 +1,43 @@
+!
+! Lumina Cherenkov Dark
+!
+*.foreground:  #d0dce9
+*.background:  #0a111f
+*.cursorColor: #d0dce9
+!
+! Black
+*.color0:      #0e1525
+*.color8:      #79879c
+!
+! Red
+*.color1:      #da6159
+*.color9:      #e5867e
+!
+! Green
+*.color2:      #8bd29a
+*.color10:     #a4edb2
+!
+! Yellow
+*.color3:      #e0b955
+*.color11:     #fcd36b
+!
+! Blue
+*.color4:      #c4dbed
+*.color12:     #d3ecff
+!
+! Magenta
+*.color5:      #e7a3e0
+*.color13:     #ffbff8
+!
+! Cyan
+*.color6:      #6ad0db
+*.color14:     #84eaf6
+!
+! White
+*.color7:      #b0bcc8
+*.color15:     #d0dce9
+!
+! Bold, Italic, Underline
+*.colorBD:     #d0dce9
+!*.colorIT:
+!*.colorUL:

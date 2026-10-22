@@ -1,0 +1,43 @@
+!
+! Lumina Rayleigh Light
+!
+*.foreground:  #1d2638
+*.background:  #f7fbfe
+*.cursorColor: #1d2638
+!
+! Black
+*.color0:      #1d2638
+*.color8:      #656f81
+!
+! Red
+*.color1:      #941419
+*.color9:      #6b1d1b
+!
+! Green
+*.color2:      #187538
+*.color10:     #005f28
+!
+! Yellow
+*.color3:      #9b6400
+*.color11:     #815200
+!
+! Blue
+*.color4:      #0555b7
+*.color12:     #0a4490
+!
+! Magenta
+*.color5:      #a43687
+*.color13:     #81326b
+!
+! Cyan
+*.color6:      #005c71
+*.color14:     #004758
+!
+! White
+*.color7:      #677388
+*.color15:     #8792a9
+!
+! Bold, Italic, Underline
+*.colorBD:     #1d2638
+!*.colorIT:
+!*.colorUL:

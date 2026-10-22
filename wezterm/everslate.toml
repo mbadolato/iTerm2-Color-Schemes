@@ -1,0 +1,12 @@
+# everslate
+[colors]
+foreground = "#ede6d5"
+background = "#191f21"
+cursor_bg = "#ede6d5"
+cursor_border = "#ede6d5"
+cursor_fg = "#191f21"
+selection_bg = "#2c5561"
+selection_fg = "#ede6d5"
+
+ansi = ["#66717d","#cf7677","#6e9e8b","#b7875a","#4196c7","#9583b8","#6997a7","#ede6d5"]
+brights = ["#819298","#ff918e","#8bbe95","#dbbc7f","#7fbbb3","#d699b6","#8bbaca","#f8f5e5"]

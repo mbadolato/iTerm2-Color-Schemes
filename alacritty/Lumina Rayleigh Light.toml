@@ -1,0 +1,33 @@
+# Colors (Lumina Rayleigh Light)
+
+[colors.bright]
+black = '#656f81'
+blue = '#0a4490'
+cyan = '#004758'
+green = '#005f28'
+magenta = '#81326b'
+red = '#6b1d1b'
+white = '#8792a9'
+yellow = '#815200'
+
+[colors.cursor]
+cursor = '#1d2638'
+text = '#f7fbfe'
+
+[colors.normal]
+black = '#1d2638'
+blue = '#0555b7'
+cyan = '#005c71'
+green = '#187538'
+magenta = '#a43687'
+red = '#941419'
+white = '#677388'
+yellow = '#9b6400'
+
+[colors.primary]
+background = '#f7fbfe'
+foreground = '#1d2638'
+
+[colors.selection]
+background = '#bdcfee'
+text = '#1d2638'

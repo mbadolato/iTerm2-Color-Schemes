@@ -1,0 +1,43 @@
+!
+! Lumina Aurora Light
+!
+*.foreground:  #302a3b
+*.background:  #f7f6fb
+*.cursorColor: #302a3b
+!
+! Black
+*.color0:      #302a3b
+*.color8:      #6b6578
+!
+! Red
+*.color1:      #860e23
+*.color9:      #5f171e
+!
+! Green
+*.color2:      #006d3c
+*.color10:     #00572e
+!
+! Yellow
+*.color3:      #9b6400
+*.color11:     #815200
+!
+! Blue
+*.color4:      #2765b0
+*.color12:     #165196
+!
+! Magenta
+*.color5:      #9a4580
+*.color13:     #803569
+!
+! Cyan
+*.color6:      #006d80
+*.color14:     #005867
+!
+! White
+*.color7:      #736d81
+*.color15:     #938ca1
+!
+! Bold, Italic, Underline
+*.colorBD:     #302a3b
+!*.colorIT:
+!*.colorUL:

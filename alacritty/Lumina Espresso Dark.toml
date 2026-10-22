@@ -1,0 +1,33 @@
+# Colors (Lumina Espresso Dark)
+
+[colors.bright]
+black = '#968678'
+blue = '#b0d5ff'
+cyan = '#bef2ff'
+green = '#aae1b5'
+magenta = '#efadd2'
+red = '#e1938b'
+white = '#e5dbcd'
+yellow = '#ffe3be'
+
+[colors.cursor]
+cursor = '#e5dbcd'
+text = '#2f1d11'
+
+[colors.normal]
+black = '#352114'
+blue = '#92bbea'
+cyan = '#b7dce5'
+green = '#92c79c'
+magenta = '#dc8ebb'
+red = '#d47169'
+white = '#c4bbad'
+yellow = '#fdcf90'
+
+[colors.primary]
+background = '#2f1d11'
+foreground = '#e5dbcd'
+
+[colors.selection]
+background = '#51472a'
+text = '#e5dbcd'

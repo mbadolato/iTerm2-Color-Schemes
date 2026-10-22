@@ -1,0 +1,33 @@
+# Colors (Lumina Olive Dark)
+
+[colors.bright]
+black = '#8a8b76'
+blue = '#b5d3ff'
+cyan = '#a2e5ed'
+green = '#b2e7bd'
+magenta = '#f8c4f3'
+red = '#da9090'
+white = '#dfddce'
+yellow = '#ffd7a6'
+
+[colors.cursor]
+cursor = '#dfddce'
+text = '#212311'
+
+[colors.normal]
+black = '#262814'
+blue = '#8fb9f7'
+cyan = '#8acbd2'
+green = '#9acca4'
+magenta = '#ddabd8'
+red = '#cd6f71'
+white = '#bfbdae'
+yellow = '#edba7a'
+
+[colors.primary]
+background = '#212311'
+foreground = '#dfddce'
+
+[colors.selection]
+background = '#454343'
+text = '#dfddce'

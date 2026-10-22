@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Dusk Dark"
+mode = "dark"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#e6dee8"
+background = "#322434"
+palette = [
+    "#38283a", "#dd7168", "#97d2a2", "#fad975",
+    "#9ec4f7", "#e3a0f8", "#81d1da", "#c5bec7",
+    "#a495a9", "#e9948c", "#b0edbb", "#ffe69e",
+    "#c4ddff", "#f1c5ff", "#9aebf5", "#e6dee8",
+]
+cursor = "#e6dee8"
+cursor-text = "#322434"
+selection-background = "#5a4161"
+selection-foreground = "#e6dee8"

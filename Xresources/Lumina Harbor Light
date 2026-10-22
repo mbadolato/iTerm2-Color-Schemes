@@ -1,0 +1,43 @@
+!
+! Lumina Harbor Light
+!
+*.foreground:  #1b2737
+*.background:  #e6f2fe
+*.cursorColor: #1b2737
+!
+! Black
+*.color0:      #1b2737
+*.color8:      #627080
+!
+! Red
+*.color1:      #992a28
+*.color9:      #712a26
+!
+! Green
+*.color2:      #007742
+*.color10:     #086035
+!
+! Yellow
+*.color3:      #a55800
+*.color11:     #884806
+!
+! Blue
+*.color4:      #2863ab
+*.color12:     #1e508b
+!
+! Magenta
+*.color5:      #874882
+*.color13:     #70366c
+!
+! Cyan
+*.color6:      #006f82
+*.color14:     #005969
+!
+! White
+*.color7:      #5f6d80
+*.color15:     #7e8ca0
+!
+! Bold, Italic, Underline
+*.colorBD:     #1b2737
+!*.colorIT:
+!*.colorUL:

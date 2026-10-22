@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Harbor Light"
+mode = "light"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#1b2737"
+background = "#e6f2fe"
+palette = [
+    "#1b2737", "#992a28", "#007742", "#a55800",
+    "#2863ab", "#874882", "#006f82", "#5f6d80",
+    "#627080", "#712a26", "#086035", "#884806",
+    "#1e508b", "#70366c", "#005969", "#7e8ca0",
+]
+cursor = "#1b2737"
+cursor-text = "#e6f2fe"
+selection-background = "#a9d1d5"
+selection-foreground = "#1b2737"

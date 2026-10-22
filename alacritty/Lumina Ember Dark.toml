@@ -1,0 +1,33 @@
+# Colors (Lumina Ember Dark)
+
+[colors.bright]
+black = '#978b7e'
+blue = '#99d4ff'
+cyan = '#90e9f4'
+green = '#a3f2cc'
+magenta = '#ffc1f9'
+red = '#dd867e'
+white = '#e0d8cb'
+yellow = '#f7eb89'
+
+[colors.cursor]
+cursor = '#e0d8cb'
+text = '#1c1916'
+
+[colors.normal]
+black = '#211e1a'
+blue = '#78bbea'
+cyan = '#77cfd9'
+green = '#90d6b4'
+magenta = '#e5a7df'
+red = '#d1635b'
+white = '#c0b8ab'
+yellow = '#e4d874'
+
+[colors.primary]
+background = '#1c1916'
+foreground = '#e0d8cb'
+
+[colors.selection]
+background = '#4e3929'
+text = '#e0d8cb'

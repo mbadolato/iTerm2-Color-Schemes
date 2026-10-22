@@ -1,0 +1,43 @@
+!
+! Lumina Parchment Light
+!
+*.foreground:  #302416
+*.background:  #f3e9d2
+*.cursorColor: #302416
+!
+! Black
+*.color0:      #302416
+*.color8:      #706453
+!
+! Red
+*.color1:      #811d1d
+*.color9:      #5c1d1b
+!
+! Green
+*.color2:      #1b4732
+*.color10:     #003520
+!
+! Yellow
+*.color3:      #905c00
+*.color11:     #764a00
+!
+! Blue
+*.color4:      #2b5a94
+*.color12:     #17467e
+!
+! Magenta
+*.color5:      #832f6f
+*.color13:     #642955
+!
+! Cyan
+*.color6:      #006476
+*.color14:     #004f5e
+!
+! White
+*.color7:      #746657
+*.color15:     #938474
+!
+! Bold, Italic, Underline
+*.colorBD:     #302416
+!*.colorIT:
+!*.colorUL:

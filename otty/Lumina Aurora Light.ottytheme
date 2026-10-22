@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Aurora Light"
+mode = "light"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#302a3b"
+background = "#f7f6fb"
+palette = [
+    "#302a3b", "#860e23", "#006d3c", "#9b6400",
+    "#2765b0", "#9a4580", "#006d80", "#736d81",
+    "#6b6578", "#5f171e", "#00572e", "#815200",
+    "#165196", "#803569", "#005867", "#938ca1",
+]
+cursor = "#302a3b"
+cursor-text = "#f7f6fb"
+selection-background = "#d4e0db"
+selection-foreground = "#302a3b"

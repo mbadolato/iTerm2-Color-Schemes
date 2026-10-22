@@ -1,0 +1,41 @@
+(
+    name: "Lumina Canopy Dark",
+    foreground: "#cddbd0",
+    background: "#131d16",
+    cursor: "#cddbd0",
+    bright_foreground: "#cddbd0",
+    dim_foreground: "#7b9381",
+
+    normal: (
+        black: "#17221a",
+        red: "#d3665e",
+        green: "#96d4a2",
+        yellow: "#f2bb31",
+        blue: "#8dc6ff",
+        magenta: "#d1a5d3",
+        cyan: "#8ce3dd",
+        white: "#adbbb0"
+    ),
+
+    bright: (
+        black: "#7b9381",
+        red: "#df8981",
+        green: "#aeefbb",
+        yellow: "#ffd989",
+        blue: "#bedeff",
+        magenta: "#f2b9f5",
+        cyan: "#a1fbf5",
+        white: "#cddbd0"
+    ),
+
+    dim: (
+        black: "#17221a",
+        red: "#d3665e",
+        green: "#96d4a2",
+        yellow: "#f2bb31",
+        blue: "#8dc6ff",
+        magenta: "#d1a5d3",
+        cyan: "#8ce3dd",
+        white: "#adbbb0"
+    ),
+)

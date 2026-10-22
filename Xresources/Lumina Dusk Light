@@ -1,0 +1,43 @@
+!
+! Lumina Dusk Light
+!
+*.foreground:  #3f3341
+*.background:  #f1eaf2
+*.cursorColor: #3f3341
+!
+! Black
+*.color0:      #3f3341
+*.color8:      #6e6073
+!
+! Red
+*.color1:      #882322
+*.color9:      #622220
+!
+! Green
+*.color2:      #27693a
+*.color10:     #125529
+!
+! Yellow
+*.color3:      #644c31
+*.color11:     #593500
+!
+! Blue
+*.color4:      #334f9d
+*.color12:     #283e7a
+!
+! Magenta
+*.color5:      #6f2c79
+*.color13:     #532559
+!
+! Cyan
+*.color6:      #006576
+*.color14:     #00505e
+!
+! White
+*.color7:      #736575
+*.color15:     #918394
+!
+! Bold, Italic, Underline
+*.colorBD:     #3f3341
+!*.colorIT:
+!*.colorUL:

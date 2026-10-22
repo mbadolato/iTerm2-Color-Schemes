@@ -1,0 +1,41 @@
+(
+    name: "Lumina Rayleigh Light",
+    foreground: "#1d2638",
+    background: "#f7fbfe",
+    cursor: "#1d2638",
+    bright_foreground: "#1d2638",
+    dim_foreground: "#656f81",
+
+    normal: (
+        black: "#1d2638",
+        red: "#941419",
+        green: "#187538",
+        yellow: "#9b6400",
+        blue: "#0555b7",
+        magenta: "#a43687",
+        cyan: "#005c71",
+        white: "#677388"
+    ),
+
+    bright: (
+        black: "#656f81",
+        red: "#6b1d1b",
+        green: "#005f28",
+        yellow: "#815200",
+        blue: "#0a4490",
+        magenta: "#81326b",
+        cyan: "#004758",
+        white: "#8792a9"
+    ),
+
+    dim: (
+        black: "#1d2638",
+        red: "#941419",
+        green: "#187538",
+        yellow: "#9b6400",
+        blue: "#0555b7",
+        magenta: "#a43687",
+        cyan: "#005c71",
+        white: "#677388"
+    ),
+)

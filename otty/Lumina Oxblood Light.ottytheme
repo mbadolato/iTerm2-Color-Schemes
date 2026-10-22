@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Oxblood Light"
+mode = "light"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#4f3c45"
+background = "#f9f4f5"
+palette = [
+    "#4f3c45", "#982e24", "#287849", "#9f6202",
+    "#35659f", "#864a81", "#3d606e", "#7e6973",
+    "#795d6a", "#712c24", "#166338", "#845000",
+    "#215189", "#70376b", "#004f66", "#9f8893",
+]
+cursor = "#4f3c45"
+cursor-text = "#f9f4f5"
+selection-background = "#ebd5dd"
+selection-foreground = "#4f3c45"

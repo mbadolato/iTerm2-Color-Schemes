@@ -1,0 +1,41 @@
+(
+    name: "Lumina Canopy Light",
+    foreground: "#3b433a",
+    background: "#f1f5f0",
+    cursor: "#3b433a",
+    bright_foreground: "#3b433a",
+    dim_foreground: "#51665c",
+
+    normal: (
+        black: "#3b433a",
+        red: "#9c2e2c",
+        green: "#007953",
+        yellow: "#a06115",
+        blue: "#1d5c99",
+        magenta: "#9e327d",
+        cyan: "#007083",
+        white: "#687067"
+    ),
+
+    bright: (
+        black: "#51665c",
+        red: "#742d2a",
+        green: "#006243",
+        yellow: "#874e00",
+        blue: "#0c487f",
+        magenta: "#763560",
+        cyan: "#005a6a",
+        white: "#869085"
+    ),
+
+    dim: (
+        black: "#3b433a",
+        red: "#9c2e2c",
+        green: "#007953",
+        yellow: "#a06115",
+        blue: "#1d5c99",
+        magenta: "#9e327d",
+        cyan: "#007083",
+        white: "#687067"
+    ),
+)

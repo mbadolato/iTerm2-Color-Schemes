@@ -1,0 +1,41 @@
+(
+    name: "Lumina Parchment Light",
+    foreground: "#302416",
+    background: "#f3e9d2",
+    cursor: "#302416",
+    bright_foreground: "#302416",
+    dim_foreground: "#706453",
+
+    normal: (
+        black: "#302416",
+        red: "#811d1d",
+        green: "#1b4732",
+        yellow: "#905c00",
+        blue: "#2b5a94",
+        magenta: "#832f6f",
+        cyan: "#006476",
+        white: "#746657"
+    ),
+
+    bright: (
+        black: "#706453",
+        red: "#5c1d1b",
+        green: "#003520",
+        yellow: "#764a00",
+        blue: "#17467e",
+        magenta: "#642955",
+        cyan: "#004f5e",
+        white: "#938474"
+    ),
+
+    dim: (
+        black: "#302416",
+        red: "#811d1d",
+        green: "#1b4732",
+        yellow: "#905c00",
+        blue: "#2b5a94",
+        magenta: "#832f6f",
+        cyan: "#006476",
+        white: "#746657"
+    ),
+)

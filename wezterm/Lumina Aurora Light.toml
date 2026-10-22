@@ -1,0 +1,12 @@
+# Lumina Aurora Light
+[colors]
+foreground = "#302a3b"
+background = "#f7f6fb"
+cursor_bg = "#302a3b"
+cursor_border = "#302a3b"
+cursor_fg = "#f7f6fb"
+selection_bg = "#d4e0db"
+selection_fg = "#302a3b"
+
+ansi = ["#302a3b","#860e23","#006d3c","#9b6400","#2765b0","#9a4580","#006d80","#736d81"]
+brights = ["#6b6578","#5f171e","#00572e","#815200","#165196","#803569","#005867","#938ca1"]

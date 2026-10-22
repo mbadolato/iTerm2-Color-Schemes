@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Lumina Aurora Dark'
+cursor-color='#d9d5e3'
+foreground='#d9d5e3'
+background='rgba(18,12,28,.95)'
+palette='#171022:#d45f58:#53e39c:#fecc74:#b8c5e4:#eeaae7:#75d7e2:#b9b5c3:#8a819b:#e0847c:#a2f4c4:#ffe4b7:#d2dfff:#ffcbf9:#8ef2fd:#d9d5e3'
+COLORS

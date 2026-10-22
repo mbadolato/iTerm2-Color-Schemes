@@ -1,0 +1,41 @@
+(
+    name: "Lumina Parchment Dark",
+    foreground: "#eee7d9",
+    background: "#342d21",
+    cursor: "#eee7d9",
+    bright_foreground: "#eee7d9",
+    dim_foreground: "#a29785",
+
+    normal: (
+        black: "#3a3224",
+        red: "#db7d75",
+        green: "#c3dcc7",
+        yellow: "#f3cb7f",
+        blue: "#9ebde6",
+        magenta: "#dd95ce",
+        cyan: "#89c7ce",
+        white: "#c5bfb1"
+    ),
+
+    bright: (
+        black: "#a29785",
+        red: "#e89e97",
+        green: "#c4f7cd",
+        yellow: "#ffe4b3",
+        blue: "#b8d7ff",
+        magenta: "#ecb6e0",
+        cyan: "#a1e1e8",
+        white: "#eee7d9"
+    ),
+
+    dim: (
+        black: "#3a3224",
+        red: "#db7d75",
+        green: "#c3dcc7",
+        yellow: "#f3cb7f",
+        blue: "#9ebde6",
+        magenta: "#dd95ce",
+        cyan: "#89c7ce",
+        white: "#c5bfb1"
+    ),
+)

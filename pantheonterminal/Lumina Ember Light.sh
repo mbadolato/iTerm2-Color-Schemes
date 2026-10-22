@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Lumina Ember Light'
+cursor-color='#3d332b'
+foreground='#3d332b'
+background='rgba(251,248,240,.95)'
+palette='#3d332b:#972524:#23784f:#68482d:#3770b0:#a43a7c:#007488:#7a6f66:#73665a:#6f2623:#00633c:#5c3100:#235b99:#7f3762:#005e6f:#9a8e85'
+COLORS

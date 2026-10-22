@@ -1,0 +1,41 @@
+(
+    name: "Lumina Harbor Light",
+    foreground: "#1b2737",
+    background: "#e6f2fe",
+    cursor: "#1b2737",
+    bright_foreground: "#1b2737",
+    dim_foreground: "#627080",
+
+    normal: (
+        black: "#1b2737",
+        red: "#992a28",
+        green: "#007742",
+        yellow: "#a55800",
+        blue: "#2863ab",
+        magenta: "#874882",
+        cyan: "#006f82",
+        white: "#5f6d80"
+    ),
+
+    bright: (
+        black: "#627080",
+        red: "#712a26",
+        green: "#086035",
+        yellow: "#884806",
+        blue: "#1e508b",
+        magenta: "#70366c",
+        cyan: "#005969",
+        white: "#7e8ca0"
+    ),
+
+    dim: (
+        black: "#1b2737",
+        red: "#992a28",
+        green: "#007742",
+        yellow: "#a55800",
+        blue: "#2863ab",
+        magenta: "#874882",
+        cyan: "#006f82",
+        white: "#5f6d80"
+    ),
+)

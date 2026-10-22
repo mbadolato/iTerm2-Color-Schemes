@@ -748,6 +748,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/evergreen.png)
 
+### everslate
+
+![Screenshot](/screenshots/everslate.png)
+
 ### EVH FrankenTone
 
 ![Screenshot](/screenshots/evh-frankentone.png)
@@ -1291,6 +1295,66 @@ The screenshots are categorized.
 ### Lovelace
 
 ![Screenshot](/screenshots/lovelace.png)
+
+### Lumina Aurora Dark
+
+![Screenshot](/screenshots/lumina-aurora-dark.png)
+
+### Lumina Canopy Dark
+
+![Screenshot](/screenshots/lumina-canopy-dark.png)
+
+### Lumina Cherenkov Dark
+
+![Screenshot](/screenshots/lumina-cherenkov-dark.png)
+
+### Lumina Dusk Dark
+
+![Screenshot](/screenshots/lumina-dusk-dark.png)
+
+### Lumina Ember Dark
+
+![Screenshot](/screenshots/lumina-ember-dark.png)
+
+### Lumina Espresso Dark
+
+![Screenshot](/screenshots/lumina-espresso-dark.png)
+
+### Lumina Harbor Dark
+
+![Screenshot](/screenshots/lumina-harbor-dark.png)
+
+### Lumina Lagoon Dark
+
+![Screenshot](/screenshots/lumina-lagoon-dark.png)
+
+### Lumina Nebula Dark
+
+![Screenshot](/screenshots/lumina-nebula-dark.png)
+
+### Lumina Olive Dark
+
+![Screenshot](/screenshots/lumina-olive-dark.png)
+
+### Lumina Oxblood Dark
+
+![Screenshot](/screenshots/lumina-oxblood-dark.png)
+
+### Lumina Parchment Dark
+
+![Screenshot](/screenshots/lumina-parchment-dark.png)
+
+### Lumina Quartz Dark Contrast
+
+![Screenshot](/screenshots/lumina-quartz-dark-contrast.png)
+
+### Lumina Quartz Dark
+
+![Screenshot](/screenshots/lumina-quartz-dark.png)
+
+### Lumina Rayleigh Dark
+
+![Screenshot](/screenshots/lumina-rayleigh-dark.png)
 
 ### Madman's Diary
 
@@ -2288,6 +2352,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/thirteen.png)
 
+### This One Goes to 11
+
+![Screenshot](/screenshots/this-one-goes-to-11.png)
+
 ### Tinacious Design Dark
 
 ![Screenshot](/screenshots/tinacious-design-dark.png)
@@ -2897,6 +2965,66 @@ The screenshots are categorized.
 ### London Columbia Road
 
 ![Screenshot](/screenshots/london-columbia-road.png)
+
+### Lumina Aurora Light
+
+![Screenshot](/screenshots/lumina-aurora-light.png)
+
+### Lumina Canopy Light
+
+![Screenshot](/screenshots/lumina-canopy-light.png)
+
+### Lumina Cherenkov Light
+
+![Screenshot](/screenshots/lumina-cherenkov-light.png)
+
+### Lumina Dusk Light
+
+![Screenshot](/screenshots/lumina-dusk-light.png)
+
+### Lumina Ember Light
+
+![Screenshot](/screenshots/lumina-ember-light.png)
+
+### Lumina Espresso Light
+
+![Screenshot](/screenshots/lumina-espresso-light.png)
+
+### Lumina Harbor Light
+
+![Screenshot](/screenshots/lumina-harbor-light.png)
+
+### Lumina Lagoon Light
+
+![Screenshot](/screenshots/lumina-lagoon-light.png)
+
+### Lumina Nebula Light
+
+![Screenshot](/screenshots/lumina-nebula-light.png)
+
+### Lumina Olive Light
+
+![Screenshot](/screenshots/lumina-olive-light.png)
+
+### Lumina Oxblood Light
+
+![Screenshot](/screenshots/lumina-oxblood-light.png)
+
+### Lumina Parchment Light
+
+![Screenshot](/screenshots/lumina-parchment-light.png)
+
+### Lumina Quartz Light Contrast
+
+![Screenshot](/screenshots/lumina-quartz-light-contrast.png)
+
+### Lumina Quartz Light
+
+![Screenshot](/screenshots/lumina-quartz-light.png)
+
+### Lumina Rayleigh Light
+
+![Screenshot](/screenshots/lumina-rayleigh-light.png)
 
 ### Lunar Dust
 

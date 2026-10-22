@@ -1,0 +1,7 @@
+#!/bin/sh
+# Lumina Parchment Dark
+printf "\033]4;0;#3a3224;1;#db7d75;2;#c3dcc7;3;#f3cb7f;4;#9ebde6;5;#dd95ce;6;#89c7ce;7;#c5bfb1;8;#a29785;9;#e89e97;10;#c4f7cd;11;#ffe4b3;12;#b8d7ff;13;#ecb6e0;14;#a1e1e8;15;#eee7d9\007"
+printf "\033]10;#eee7d9;#342d21;#eee7d9\007"
+printf "\033]17;#4f584c\007"
+printf "\033]19;#eee7d9\007"
+printf "\033]5;0;#eee7d9\007"

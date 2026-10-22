@@ -1,0 +1,41 @@
+(
+    name: "Lumina Quartz Light",
+    foreground: "#404246",
+    background: "#f6f7f8",
+    cursor: "#404246",
+    bright_foreground: "#404246",
+    dim_foreground: "#5f656a",
+
+    normal: (
+        black: "#404246",
+        red: "#861d1d",
+        green: "#207f4f",
+        yellow: "#a16011",
+        blue: "#3566a4",
+        magenta: "#a7367b",
+        cyan: "#037393",
+        white: "#6e7075"
+    ),
+
+    bright: (
+        black: "#5f656a",
+        red: "#601e1c",
+        green: "#0f693e",
+        yellow: "#874e00",
+        blue: "#21528e",
+        magenta: "#7e3861",
+        cyan: "#005e79",
+        white: "#8d8f94"
+    ),
+
+    dim: (
+        black: "#404246",
+        red: "#861d1d",
+        green: "#207f4f",
+        yellow: "#a16011",
+        blue: "#3566a4",
+        magenta: "#a7367b",
+        cyan: "#037393",
+        white: "#6e7075"
+    ),
+)

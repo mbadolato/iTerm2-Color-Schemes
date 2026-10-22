@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Canopy Dark"
+mode = "dark"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#cddbd0"
+background = "#131d16"
+palette = [
+    "#17221a", "#d3665e", "#96d4a2", "#f2bb31",
+    "#8dc6ff", "#d1a5d3", "#8ce3dd", "#adbbb0",
+    "#7b9381", "#df8981", "#aeefbb", "#ffd989",
+    "#bedeff", "#f2b9f5", "#a1fbf5", "#cddbd0",
+]
+cursor = "#cddbd0"
+cursor-text = "#131d16"
+selection-background = "#434022"
+selection-foreground = "#cddbd0"

@@ -1,0 +1,43 @@
+!
+! Lumina Oxblood Light
+!
+*.foreground:  #4f3c45
+*.background:  #f9f4f5
+*.cursorColor: #4f3c45
+!
+! Black
+*.color0:      #4f3c45
+*.color8:      #795d6a
+!
+! Red
+*.color1:      #982e24
+*.color9:      #712c24
+!
+! Green
+*.color2:      #287849
+*.color10:     #166338
+!
+! Yellow
+*.color3:      #9f6202
+*.color11:     #845000
+!
+! Blue
+*.color4:      #35659f
+*.color12:     #215189
+!
+! Magenta
+*.color5:      #864a81
+*.color13:     #70376b
+!
+! Cyan
+*.color6:      #3d606e
+*.color14:     #004f66
+!
+! White
+*.color7:      #7e6973
+*.color15:     #9f8893
+!
+! Bold, Italic, Underline
+*.colorBD:     #4f3c45
+!*.colorIT:
+!*.colorUL:

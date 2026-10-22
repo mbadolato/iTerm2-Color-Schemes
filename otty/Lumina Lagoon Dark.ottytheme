@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Lagoon Dark"
+mode = "dark"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#d4e5ea"
+background = "#182f36"
+palette = [
+    "#1b343c", "#df7370", "#8dcea3", "#dfcc78",
+    "#a0c7f9", "#da9ef6", "#84d3dc", "#b4c4c9",
+    "#859ea7", "#eb9692", "#a7e8bc", "#fbe68b",
+    "#c8e0ff", "#eac1ff", "#9dedf7", "#d6e7ec",
+]
+cursor = "#d4e5ea"
+cursor-text = "#182f36"
+selection-background = "#33525f"
+selection-foreground = "#d4e5ea"

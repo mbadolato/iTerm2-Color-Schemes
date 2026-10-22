@@ -1,0 +1,43 @@
+!
+! Lumina Espresso Light
+!
+*.foreground:  #322219
+*.background:  #fbeedf
+*.cursorColor: #322219
+!
+! Black
+*.color0:      #322219
+*.color8:      #7a685b
+!
+! Red
+*.color1:      #cd2e3f
+*.color9:      #974043
+!
+! Green
+*.color2:      #1e6d37
+*.color10:     #065826
+!
+! Yellow
+*.color3:      #9d5c09
+*.color11:     #834a00
+!
+! Blue
+*.color4:      #03679f
+*.color12:     #005381
+!
+! Magenta
+*.color5:      #803f7b
+*.color13:     #6a2c65
+!
+! Cyan
+*.color6:      #28596c
+*.color14:     #00465c
+!
+! White
+*.color7:      #7c685e
+*.color15:     #9b867c
+!
+! Bold, Italic, Underline
+*.colorBD:     #322219
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Olive Light"
+mode = "light"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#262816"
+background = "#f1f0d9"
+palette = [
+    "#262816", "#861d1d", "#29703d", "#955e00",
+    "#2e5ba6", "#83457e", "#006b7d", "#6b6d59",
+    "#6c6e5a", "#601e1c", "#145b2b", "#7b4c00",
+    "#244886", "#6d3268", "#005664", "#898b76",
+]
+cursor = "#262816"
+cursor-text = "#f1f0d9"
+selection-background = "#c8c3c3"
+selection-foreground = "#262816"

@@ -1,0 +1,43 @@
+!
+! Lumina Canopy Light
+!
+*.foreground:  #3b433a
+*.background:  #f1f5f0
+*.cursorColor: #3b433a
+!
+! Black
+*.color0:      #3b433a
+*.color8:      #51665c
+!
+! Red
+*.color1:      #9c2e2c
+*.color9:      #742d2a
+!
+! Green
+*.color2:      #007953
+*.color10:     #006243
+!
+! Yellow
+*.color3:      #a06115
+*.color11:     #874e00
+!
+! Blue
+*.color4:      #1d5c99
+*.color12:     #0c487f
+!
+! Magenta
+*.color5:      #9e327d
+*.color13:     #763560
+!
+! Cyan
+*.color6:      #007083
+*.color14:     #005a6a
+!
+! White
+*.color7:      #687067
+*.color15:     #869085
+!
+! Bold, Italic, Underline
+*.colorBD:     #3b433a
+!*.colorIT:
+!*.colorUL:

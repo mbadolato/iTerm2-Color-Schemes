@@ -1,0 +1,43 @@
+!
+! everslate
+!
+*.foreground:  #ede6d5
+*.background:  #191f21
+*.cursorColor: #ede6d5
+!
+! Black
+*.color0:      #66717d
+*.color8:      #819298
+!
+! Red
+*.color1:      #cf7677
+*.color9:      #ff918e
+!
+! Green
+*.color2:      #6e9e8b
+*.color10:     #8bbe95
+!
+! Yellow
+*.color3:      #b7875a
+*.color11:     #dbbc7f
+!
+! Blue
+*.color4:      #4196c7
+*.color12:     #7fbbb3
+!
+! Magenta
+*.color5:      #9583b8
+*.color13:     #d699b6
+!
+! Cyan
+*.color6:      #6997a7
+*.color14:     #8bbaca
+!
+! White
+*.color7:      #ede6d5
+*.color15:     #f8f5e5
+!
+! Bold, Italic, Underline
+*.colorBD:     #dbbc7f
+!*.colorIT:
+!*.colorUL:

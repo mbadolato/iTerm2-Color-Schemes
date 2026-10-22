@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Quartz Light"
+mode = "light"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#404246"
+background = "#f6f7f8"
+palette = [
+    "#404246", "#861d1d", "#207f4f", "#a16011",
+    "#3566a4", "#a7367b", "#037393", "#6e7075",
+    "#5f656a", "#601e1c", "#0f693e", "#874e00",
+    "#21528e", "#7e3861", "#005e79", "#8d8f94",
+]
+cursor = "#404246"
+cursor-text = "#f6f7f8"
+selection-background = "#dddaee"
+selection-foreground = "#404246"

@@ -1,0 +1,41 @@
+(
+    name: "Lumina Olive Dark",
+    foreground: "#dfddce",
+    background: "#212311",
+    cursor: "#dfddce",
+    bright_foreground: "#dfddce",
+    dim_foreground: "#8a8b76",
+
+    normal: (
+        black: "#262814",
+        red: "#cd6f71",
+        green: "#9acca4",
+        yellow: "#edba7a",
+        blue: "#8fb9f7",
+        magenta: "#ddabd8",
+        cyan: "#8acbd2",
+        white: "#bfbdae"
+    ),
+
+    bright: (
+        black: "#8a8b76",
+        red: "#da9090",
+        green: "#b2e7bd",
+        yellow: "#ffd7a6",
+        blue: "#b5d3ff",
+        magenta: "#f8c4f3",
+        cyan: "#a2e5ed",
+        white: "#dfddce"
+    ),
+
+    dim: (
+        black: "#262814",
+        red: "#cd6f71",
+        green: "#9acca4",
+        yellow: "#edba7a",
+        blue: "#8fb9f7",
+        magenta: "#ddabd8",
+        cyan: "#8acbd2",
+        white: "#bfbdae"
+    ),
+)

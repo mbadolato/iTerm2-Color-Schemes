@@ -1,0 +1,41 @@
+(
+    name: "Lumina Oxblood Light",
+    foreground: "#4f3c45",
+    background: "#f9f4f5",
+    cursor: "#4f3c45",
+    bright_foreground: "#4f3c45",
+    dim_foreground: "#795d6a",
+
+    normal: (
+        black: "#4f3c45",
+        red: "#982e24",
+        green: "#287849",
+        yellow: "#9f6202",
+        blue: "#35659f",
+        magenta: "#864a81",
+        cyan: "#3d606e",
+        white: "#7e6973"
+    ),
+
+    bright: (
+        black: "#795d6a",
+        red: "#712c24",
+        green: "#166338",
+        yellow: "#845000",
+        blue: "#215189",
+        magenta: "#70376b",
+        cyan: "#004f66",
+        white: "#9f8893"
+    ),
+
+    dim: (
+        black: "#4f3c45",
+        red: "#982e24",
+        green: "#287849",
+        yellow: "#9f6202",
+        blue: "#35659f",
+        magenta: "#864a81",
+        cyan: "#3d606e",
+        white: "#7e6973"
+    ),
+)

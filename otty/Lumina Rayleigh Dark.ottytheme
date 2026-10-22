@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Rayleigh Dark"
+mode = "dark"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#d4dbea"
+background = "#14182c"
+palette = [
+    "#181c33", "#da6d65", "#96d2a1", "#f8c970",
+    "#7cbdff", "#ed9ecb", "#acdae6", "#b4bbc9",
+    "#7d859f", "#e69088", "#afedba", "#ffe4b4",
+    "#aed6ff", "#ffbee2", "#bff2ff", "#d4dbea",
+]
+cursor = "#d4dbea"
+cursor-text = "#14182c"
+selection-background = "#2d3e5d"
+selection-foreground = "#d4dbea"
