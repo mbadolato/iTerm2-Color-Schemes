@@ -1,0 +1,2997 @@
+# Licence of every colour scheme in this repository, one entry per scheme.
+#
+# Each key is the scheme's display name: the file name in schemes/ without
+# the extension or the `name:` of a YAML source in yaml/.
+#
+#   license  An SPDX licence identifier (https://spdx.org/licenses/). Use
+#            `unknown` when no licence has been found and `nonfree` when the
+#            licence does not allow redistribution.
+#   source   Where the scheme or its licence comes from ("" if not known).
+#   note     Optional, for example why a licence is unclear.
+#
+# The initial data comes from Jan200101's research in
+# https://github.com/mbadolato/iTerm2-Color-Schemes/issues/638 and is still to
+# be checked by the maintainers. Schemes added after that research are
+# `unknown` unless their licence is documented.
+#
+# New schemes need an entry here: tools/check_licenses.py fails without one.
+# `python gen.py --redistributable -o <dir>` generates every scheme except
+# those marked `unknown` or `nonfree` into <dir>.
+
+'0x96f':
+  license: MIT
+  source: https://github.com/filipjanevski/0x96f-term-theme
+12-bit Rainbow:
+  license: CC0-1.0
+  source: https://iamkate.com/data/12-bit-rainbow/
+13th Floor:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+3024 Day:
+  license: unknown
+  source: https://github.com/0x3024
+  note: Theme is based on artwork of a record label and reuses the same name https://3024world.com/
+3024 Night:
+  license: unknown
+  source: https://github.com/0x3024
+  note: Theme is based on artwork of a record label and reuses the same name https://3024world.com/
+5150 Mode:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Aardvark Blue:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/417
+Aardvark Ink:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Abandoned:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Abernathy:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/326
+Acid Lime:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Adobe Moon:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Adventure:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/249
+Adventure Time:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Adwaita:
+  license: LGPL-2.1-or-later
+  source: https://gitlab.gnome.org/GNOME/libadwaita/
+Adwaita Dark:
+  license: LGPL-2.1-or-later
+  source: https://gitlab.gnome.org/GNOME/libadwaita/
+After Hours:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Afterglow:
+  license: unknown
+  source: https://github.com/YabataDesign/afterglow-itermcolors
+Afterimage:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Agave Dusk:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Aizen Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Aizen Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Alabaster:
+  license: MIT
+  source: 'https://github.com/mkaschenko/iterm2-theme-alabaster
+
+    https://github.com/tonsky/sublime-scheme-alabaster'
+Alien Blood:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Amber CRT Retro:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Analyzed Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Analyzed Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Andromeda:
+  license: MIT
+  source: https://github.com/EliverLara/Andromeda
+Apple Classic:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/issues/394
+  note: Submitted as a zip archive
+Apple System Colors:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/423
+Apple System Colors Light:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/508
+  note: Based on Apple System Colors
+Arcoiris:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/366
+Ardoise:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/544
+Argonaut:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Arizona Monsoon:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Arthur:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Atelier Sulphurpool:
+  license: MIT
+  source: https://atelierbram.mit-license.org/
+Atlas Ragnarok:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Atom:
+  license: WTFPL
+  source: https://github.com/bahlo/iterm-colors
+Atom One Dark:
+  license: MIT
+  source: https://github.com/atom/atom/tree/master/packages/one-dark-ui
+Atom One Light:
+  license: MIT
+  source: https://github.com/atom/atom/tree/master/packages/one-light-ui
+Aubade:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Aura:
+  license: MIT
+  source: https://github.com/daltonmenezes/aura-theme
+Aura Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Aurora:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/262
+Aurora Drift:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Autumn After Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Ayu:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/89
+Ayu Light:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/262
+Ayu Mirage:
+  license: MIT
+  source: https://github.com/ayu-theme/vscode-ayu
+Aztec Sunset:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Banana Blueberry:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/222
+Barrel Cactus:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+base16-icy:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Batman:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/36
+Belafonte Day:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Belafonte Night:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Belfry:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Birds Of Paradise:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Black Box Recorder:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Black Cat:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Black Metal:
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Black Metal (Bathory):
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Black Metal (Burzum):
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Black Metal (Dark Funeral):
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Black Metal (Gorgoroth):
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Black Metal (Immortal):
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Black Metal (Khold):
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Black Metal (Marduk):
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Black Metal (Mayhem):
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Black Metal (Nile):
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Black Metal (Venom):
+  license: MIT
+  source: https://github.com/metalelf0/base16-black-metal-scheme
+Blazer:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fc5617e2a2e4493d61be0b8d34fc6466798d641f
+  note: No Credits entry
+Blood Moon:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Blue Berry Pie:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/223
+Blue Dolphin:
+  license: MIT
+  source: https://github.com/vimiomori/BlueDolphin
+Blue Matrix:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/222
+Blueprint:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Bluloco Dark:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/118
+  note: No Credits entry
+Bluloco Light:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/118
+  note: No Credits entry
+Bone Yard:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Borland:
+  license: unknown
+  source: https://gist.github.com/delip/9e16c606d9331d69d681
+Box:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/549
+branch:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Breadog:
+  license: 0BSD
+  source: https://gitlab.com/warningnonpotablewater/breadog
+Breeze:
+  license: GPL-2.0-only
+  source: https://github.com/KDE/konsole/blob/master/data/color-schemes/Breeze.colorscheme
+Bright Lights:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/61
+Broadcast:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/679004ec041ef68b3944ba7b73de12185e52a0cf
+  note: Upstream has been deleted https://github.com/vinkla/broadcast-theme
+Brogrammer:
+  license: WTFPL
+  source: https://github.com/bahlo/iterm-colors
+Builtin Dark:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Essentially the same as the iTerm2 schemes
+Builtin Light:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Essentially the same as the iTerm2 schemes
+Builtin Pastel Dark:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Essentially the same as the iTerm2 schemes
+Builtin Tango Dark:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Essentially the same as the iTerm2 schemes
+Builtin Tango Light:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Essentially the same as the iTerm2 schemes
+C64:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Cactus Bloom:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Calamity:
+  license: MIT
+  source: https://github.com/Pustur/calamity-vscode
+Caliche:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Callie:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Callie Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Candlelight:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Candy Corn:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Canyon Shadow:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Canyon Walnut:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Carbon Paper:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Carbonfox:
+  license: MIT
+  source: https://github.com/EdenEast/nightfox.nvim/tree/main/extra
+  note: No Credits entry
+Cassette Tape:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Catppuccin Frappe:
+  license: MIT
+  source: https://github.com/catppuccin/palette
+Catppuccin Latte:
+  license: MIT
+  source: https://github.com/catppuccin/palette
+Catppuccin Macchiato:
+  license: MIT
+  source: https://github.com/catppuccin/palette
+Catppuccin Mocha:
+  license: MIT
+  source: https://github.com/catppuccin/palette
+Catthode:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+CGA:
+  license: MIT
+  source: https://github.com/jdhmtl/cga-theme
+Chalk:
+  license: unknown
+  source: https://github.com/achalv/chalk
+Chalkboard:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/ae8f0bb01052f34f6f4de38cbe17b0271af01cb8
+Challenger Deep:
+  license: MIT
+  source: https://github.com/challenger-deep-theme/vim
+Charcoal:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Chester:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/162
+  note: Author deleted their account
+Cholla:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Ciapre:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Citrus Ink:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Citruszest:
+  license: MIT
+  source: https://github.com/zootedb0t/citruszest.nvim
+Claude:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Claude Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Claude Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Clear Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Clear Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Clockwork Gold:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+CLRS:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/e89464b73ef5301d13dafaddbb139d7562e700a9
+Clu:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Cobalt Neon:
+  license: unknown
+  source: https://github.com/vazquez/cobalt-neon-iterm
+  note: Based on cobalt2
+Cobalt Next:
+  license: MIT
+  source: https://github.com/davidleininger/cobaltnext-vscode
+Cobalt Next Dark:
+  license: MIT
+  source: https://github.com/davidleininger/cobaltnext-vscode
+Cobalt Next Minimal:
+  license: MIT
+  source: https://github.com/davidleininger/cobaltnext-vscode
+Cobalt2:
+  license: unknown
+  source: https://github.com/wesbos/cobalt2
+  note: License has been requested in 2019 https://github.com/wesbos/cobalt2/issues/175
+Cobweb:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Coffee Theme:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/220
+Cold Storage:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Cool Night:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Copper Canyon:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Count Terminal:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Crayon Pony Fish:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+CRT Afterglow:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+CRT Amber:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Crypt Keeper:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Crystal Ball:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Cursed VHS:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Cursor Dark:
+  license: unknown
+  source: https://github.com/Takk8IS/cursor-theme-for-zed/
+Cursor Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Cutie Pro:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/435
+Cyberdyne:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/222
+Cyberpunk:
+  license: unknown
+  source: https://github.com/Murderlon/cyberpunk-iterm
+Cyberpunk Scarlet Protocol:
+  license: GPL-3.0-only
+  source: https://github.com/prometheux-ar/cyberpunk
+cyberpunk-icy:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Dalton Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Dark 2026:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Dark Modern:
+  license: MIT
+  source: https://github.com/microsoft/vscode
+  note: based on the official Default Dark Modern VS Code theme
+Dark Pastel:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/9573406201b3430faf1b8f9b3799424277605189
+Dark+:
+  license: MIT
+  source: https://github.com/microsoft/vscode
+  note: based on the official Default Dark+ VS Code theme
+Darkermatrix:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/328
+  note: Based on Darkmatrix
+Darkmatrix:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/327
+Darkside:
+  license: WTFPL
+  source: https://github.com/bahlo/iterm-colors
+datum (dark):
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+datum (light):
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Dawnfox:
+  license: MIT
+  source: https://github.com/EdenEast/nightfox.nvim/tree/main/extra
+  note: No Credits entry
+Daybreak:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Daybreaker:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Dayfox:
+  license: MIT
+  source: https://github.com/edeneast/nightfox.nvim
+Dead Letter Office:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Deep:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/110
+Deep Current:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Desert:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/9573406201b3430faf1b8f9b3799424277605189
+Desert Bloom:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Desert Moon:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Desert Morning:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Desert Rose:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Desert Thunder:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Detroit After Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Detuned:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/488
+Diary of a Lunatic:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Dimidium:
+  license: Zlib
+  source: https://github.com/dofuuz/dimidium
+Dimmed Monokai:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Django:
+  license: unknown
+  source: https://code.djangoproject.com/wiki/TextMate
+Django Reborn Again:
+  license: unknown
+  source: https://github.com/christopherscott/django-reborn
+  note: based on Django
+Django Smooth:
+  license: unknown
+  source: https://code.djangoproject.com/wiki/TextMate
+Dogxi Misty:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Doom One:
+  license: MIT
+  source: https://github.com/doomemacs/themes
+Doom Peacock:
+  license: MIT
+  source: https://github.com/doomemacs/themes
+Dot Gov:
+  license: CC0-1.0
+  source: https://v1.designsystem.digital.gov/components/colors/
+  note: 'Listed in the research as Public Domain. The colours come from the US Web Design System, a US government work that also waives its rights worldwide under CC0 1.0: https://github.com/uswds/uswds/blob/v1.6.14/LICENSE.md'
+Dracula:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/e89464b73ef5301d13dafaddbb139d7562e700a9
+Dracula+:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/241
+Dracula+ High Contrast:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Dream Onward:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Driftwood:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Duckbones:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Duotone Dark:
+  license: MIT
+  source: https://github.com/simurai/duotone-dark-syntax
+Duskfox:
+  license: MIT
+  source: https://github.com/EdenEast/nightfox.nvim/tree/main/extra
+  note: No Credits entry
+Earl Grey:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Earthsong:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Eclipse:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Ectoplasm:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Eight Hundred:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Electric Voodoo:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Electron Highlighter:
+  license: MIT
+  source: https://github.com/electron-highlighter/ghostty
+Electron Highlighter Day:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Elegant:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/522
+  note: Based on Overnight Slumber
+Elemental:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Elementary:
+  license: LGPL-3.0-or-later
+  source: https://github.com/elementary/terminal
+  note: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/86
+Embark:
+  license: MIT
+  source: https://github.com/embark-theme/vim
+Ember:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Ember Peak:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Emberglass:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Embers Dark:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/470
+Emerald Synth:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+ENCOM:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/2d707dc1fa9d3aa93febac01fd8adaa5868b2be2
+Espresso:
+  license: nonfree
+  source: ''
+  note: Comes from the built-in Mac Terminal
+Espresso Libre:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Eventide:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Everblush:
+  license: MIT
+  source: https://github.com/Everblush/everblush
+Everforest Dark Hard:
+  license: MIT
+  source: https://github.com/icewind/everforest.iterm2
+Everforest Dark Med:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Everforest Dark Soft:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Everforest Light Hard:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Everforest Light Med:
+  license: MIT
+  source: https://github.com/icewind/everforest.iterm2
+Everforest Light Soft:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Evergreen:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+EVH FrankenTone:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+eyesclosed:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Fahrenheit:
+  license: CC-BY-SA-4.0
+  source: https://github.com/fcpg/vim-fahrenheit
+Fairyfloss:
+  license: MIT
+  source: https://github.com/sailorhg/fairyfloss
+Farmhouse Dark:
+  license: MIT
+  source: https://github.com/mattly/iterm-colors-farmhouse
+Farmhouse Light:
+  license: MIT
+  source: https://github.com/mattly/iterm-colors-farmhouse
+Fideloper:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/bdaa8d285833a9abdffe64abf717e6f2d99212a7
+Firefly Traditional:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/426
+Firefox Dev:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/cfdd99cecd307ae8990bb464cb467853f229cf93
+Firewatch:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/70
+Fish Tank:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Flat:
+  license: unknown
+  source: 'https://github.com/ahmetsulek/flat-terminal
+
+    https://designmodo.github.io/Flat-UI/'
+Flatland:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/53fad15089dfa5cdab188ef366b4838dd3c80d19
+  note: Credits links to gambling website
+Flexoki Dark:
+  license: MIT
+  source: https://github.com/kepano/flexoki
+Flexoki Light:
+  license: MIT
+  source: https://github.com/kepano/flexoki
+Floraverse:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/6db865cd2ec57d4bf43dee9cfa9331a908b47eea
+Forest Blue:
+  license: unknown
+  source: https://github.com/olkinn/forest-blue-iTerm
+Forge Ember:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Forged in Steel:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Framer:
+  license: unknown
+  source: ''
+  note: Framer seems to have changed since, cannot find a source
+Front End Delight:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Frostbyte:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Frostline:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Fun Forrest:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Galaxy:
+  license: MIT
+  source: https://github.com/jglovier/galaxy-theme-iterm
+Galizur:
+  license: MIT
+  source: https://github.com/razielanarki/vscode-galizur-theme
+Ghost Circuit:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Ghostty Default Style Dark:
+  license: MIT
+  source: https://github.com/ghostty-org/ghostty
+Gilded-Forest-Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+GitHub:
+  license: unknown
+  source: ''
+  note: inspired by the color theme palette used at Github for their UI and in some of their mascot images
+GitHub Dark:
+  license: MIT
+  source: https://github.com/primer/github-vscode-theme
+GitHub Dark Colorblind:
+  license: MIT
+  source: https://github.com/primer/github-vscode-theme
+GitHub Dark Default:
+  license: MIT
+  source: https://github.com/primer/github-vscode-theme
+GitHub Dark Dimmed:
+  license: MIT
+  source: https://github.com/primer/github-vscode-theme
+GitHub Dark High Contrast:
+  license: MIT
+  source: https://github.com/primer/github-vscode-theme
+GitHub Light Colorblind:
+  license: MIT
+  source: https://github.com/primer/github-vscode-theme
+GitHub Light Default:
+  license: MIT
+  source: https://github.com/primer/github-vscode-theme
+GitHub Light High Contrast:
+  license: MIT
+  source: https://github.com/primer/github-vscode-theme
+GitLab Dark:
+  license: MIT
+  source: https://github.com/albertorestifo/gitlab-webide-theme
+GitLab Dark Grey:
+  license: MIT
+  source: https://github.com/albertorestifo/gitlab-webide-theme
+GitLab Light:
+  license: MIT
+  source: https://github.com/albertorestifo/gitlab-webide-theme
+Glacier:
+  license: WTFPL
+  source: https://github.com/bahlo/iterm-colors
+Gleam:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Gleam Classic:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Golden Mischief:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Golden Retriever Cream:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Golden Retriever Honey:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Golden Retriever Red:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Grape:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Graphite:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Grass:
+  license: nonfree
+  source: ''
+  note: Comes from the built-in Mac Terminal
+Graveyard Shift:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Great Pumpkin:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Green Phosphor CRT:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Green Screen:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Grey Green:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/363
+Grok Day:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Grok Night:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Gruber Darker:
+  license: MIT
+  source: https://github.com/rexim/gruber-darker-theme
+  note: Credits claims its "inspired" but color values match exactly
+Gruvbox Dark:
+  license: MIT
+  source: https://github.com/morhetz/gruvbox/blob/697c00291db857ca0af00ec154e5bd514a79191f/package.json#L6
+Gruvbox Dark Hard:
+  license: MIT
+  source: https://github.com/morhetz/gruvbox/blob/697c00291db857ca0af00ec154e5bd514a79191f/package.json#L6
+Gruvbox Light:
+  license: MIT
+  source: https://github.com/morhetz/gruvbox/blob/697c00291db857ca0af00ec154e5bd514a79191f/package.json#L6
+Gruvbox Light Hard:
+  license: MIT
+  source: https://github.com/morhetz/gruvbox/blob/697c00291db857ca0af00ec154e5bd514a79191f/package.json#L6
+Gruvbox Material:
+  license: MIT
+  source: https://github.com/sainnhe/gruvbox-material
+  note: Based on gruvbox
+Gruvbox Material Dark:
+  license: MIT
+  source: https://github.com/sainnhe/gruvbox-material
+  note: Based on gruvbox
+Gruvbox Material Light:
+  license: MIT
+  source: https://github.com/sainnhe/gruvbox-material
+  note: Based on gruvbox
+Guezwhoz:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/266
+Hacktober:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/90
+Hardcore:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Harper:
+  license: CC-BY-SA-4.0
+  source: https://github.com/idleberg/Harper-iTerm2
+Harvest Moon:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Haunted House:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Havn Daggry:
+  license: GPL-3.0-or-later
+  source: https://github.com/Erlendms/Havn-themes
+Havn Skumring:
+  license: GPL-3.0-or-later
+  source: https://github.com/Erlendms/Havn-themes
+HaX0R Blue:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/304
+HaX0R Gr33N:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/304
+HaX0R R3D:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/304
+Heeler:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/463
+  note: Based on "Bluey"
+Hellfire:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+High Desert Snow:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+High Voltage Highway:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Highway:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Hipster Green:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/19
+Hivacruz:
+  license: MIT
+  source: https://github.com/kinoute/hivacruz-itermcolors
+HN After Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+HN Classic:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Hocus Pocus:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Homebrew:
+  license: nonfree
+  source: ''
+  note: Comes from the built-in Mac Terminal
+Hopscotch:
+  license: CC0-1.0
+  source: https://github.com/idleberg/Hopscotch
+Hopscotch.256:
+  license: CC0-1.0
+  source: https://github.com/idleberg/Hopscotch
+Horizon:
+  license: MIT
+  source: https://github.com/jolaleye/horizon-theme-vscode
+Horizon Bright:
+  license: MIT
+  source: https://github.com/jolaleye/horizon-theme-vscode
+Horizons:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Hot Dog Stand:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/618
+  note: Based on a Windows 3.1 Theme
+Hot Dog Stand (Mustard):
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/618
+  note: Based on a Windows 3.1 Theme
+Hurtado:
+  license: unknown
+  source: https://github.com/juanghurtado/dotfiles
+Hybrid:
+  license: MIT
+  source: https://github.com/w0ng/vim-hybrid
+Hyper:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Hysterical Frequency:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+IBM 5153 CGA:
+  license: unknown
+  source: https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/
+  note: Based on The IBM 5153's True CGA Palette and Color Output
+IBM 5153 CGA (Black):
+  license: unknown
+  source: https://int10h.org/blog/2022/06/ibm-5153-color-true-cga-palette/
+  note: Based on The IBM 5153's True CGA Palette and Color Output
+IC Green PPL:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+IC Orange PPL:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Iceberg Dark:
+  license: MIT
+  source: https://github.com/cocopon/iceberg.vim
+Iceberg Light:
+  license: MIT
+  source: https://github.com/cocopon/iceberg.vim
+Icy Glacier:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Idea:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/144
+  note: No Credits entry
+Idle Toes:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/02125196db9779a0ec8d35ec612995d909272591
+  note: https://web.archive.org/web/20120621162341/http://idlefingers.co.uk/
+iglass Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+iglass Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+IR Black:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/5583431946887aa1f99d0879546d370dae3ba819
+IRIX Console:
+  license: unknown
+  source: ''
+  note: Theme is based on IRIX from Silicon Graphics gathered through reddit.
+IRIX Terminal:
+  license: unknown
+  source: ''
+  note: Theme is based on IRIX from Silicon Graphics gathered through reddit.
+Isocon Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Isocon Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+iTerm2 Dark Background:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Comes from iTerm2 v3.4.19
+iTerm2 Default:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Comes from iTerm2 v3.4.19
+iTerm2 Light Background:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Comes from iTerm2 v3.4.19
+iTerm2 Pastel Dark Background:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Comes from iTerm2 v3.4.19
+iTerm2 Smoooooth:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Comes from iTerm2 v3.4.19
+iTerm2 Solarized Dark:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Comes from iTerm2 v3.4.19
+iTerm2 Solarized Light:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Comes from iTerm2 v3.4.19
+iTerm2 Tango Dark:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Comes from iTerm2 v3.4.19
+iTerm2 Tango Light:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: Comes from iTerm2 v3.4.19
+Jack O' Lantern:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Jackie Brown:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/19
+Japanesque:
+  license: MIT
+  source: https://github.com/aereal/vim-colors-japanesque
+Jellybeans:
+  license: unknown
+  source: https://github.com/qtpi/Jellybeans.itermcolors
+JetBrains Darcula:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/57
+  note: Based on Webstorm console colors
+JetBrains Islands Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+JetCalm Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Jubi:
+  license: unknown
+  source: https://github.com/jutretel/themes
+Jump Start:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Jute Espresso:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Kanagawa Dragon:
+  license: MIT
+  source: https://github.com/rebelot/kanagawa.nvim
+Kanagawa Lotus:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Kanagawa Wave:
+  license: MIT
+  source: https://github.com/rebelot/kanagawa.nvim
+Kanagawabones:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Kanso Ink:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Kanso Mist:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Kanso Pearl:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Kanso Zen:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Karasu Night:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Karasu Snow:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Karma Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Karma Dark Dimmed:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Karma Dark HC:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Karma Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Karma Light Dimmed:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Karma Light HC:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Kashmir Nights:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Keys Ocean Sunset:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Keys Ocean Sunset HC:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Kibble:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/8e8fd20a074b089b53d4b023e95323001602dd32
+Kitty Default:
+  license: GPL-3.0-only
+  source: https://github.com/kovidgoyal/kitty
+Kitty Low Contrast:
+  license: GPL-3.0-only
+  source: https://github.com/kovidgoyal/kitty
+Klein Void:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Kolorit:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/163
+Konsolas:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/246
+Kurokula:
+  license: unknown
+  source: https://github.com/Indyandie/kurokula-obsidian-theme
+  note: Listed in the research as "Unknown (GPL-3.0?)". See README of source, its based on dracula/obsidian and takes colors from helix-editor/helix
+Kwyjibo:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Lab Fox:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/171
+  note: inspired by the Gitlab design system
+Laser:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/222
+Last Broadcast:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Later This Evening:
+  license: unknown
+  source: https://github.com/vilhalmer/System
+Lavandula:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Lemon Graphite:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Letterpress:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Light 2026:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Light Owl:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/546
+Liquid Carbon:
+  license: unknown
+  source: https://github.com/markcho/iTerm2_LiquidCarbon
+Liquid Carbon Transparent:
+  license: unknown
+  source: https://github.com/markcho/iTerm2_LiquidCarbon
+Lit Cell:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Lit Cell Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+London Bonfire Night:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+London Columbia Road:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+London Embankment Dusk:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+London Soho Night:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Lovelace:
+  license: GPL-2.0-only
+  source: https://github.com/elenapan/dotfiles
+Lunar Dust:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Madman's Diary:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Man Page:
+  license: nonfree
+  source: ''
+  note: Comes from the built-in Mac Terminal
+Maple Jute:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Mariana:
+  license: unknown
+  source: https://www.sublimetext.com/
+  note: Built-in Sublime Theme
+Matcha Zen:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Material:
+  license: MIT
+  source: https://github.com/kaicataldo/material.vim
+Material Dark:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/6db865cd2ec57d4bf43dee9cfa9331a908b47eea
+Material Darker:
+  license: MIT
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/241
+  note: Color values match the Material Darker from material.nvim
+Material Design Colors:
+  license: MIT
+  source: https://github.com/MartinSeeler/iterm2-material-design
+  note: based on http://www.google.com/design/spec/style/color.html
+Material Ocean:
+  license: MIT
+  source: https://github.com/kaicataldo/material.vim
+Mathias:
+  license: unknown
+  source: https://github.com/mathiasbynens/dotfiles/blob/0a38d10ca2d2c4c83377e8ad1a75301590796f93/init/Mathias.itermcolors
+  note: Listed in the research as "Unknown ("MIT")". based on https://gist.github.com/gf3/328089
+Matrix:
+  license: MIT
+  source: https://github.com/i3d/vim-jimbothemes/tree/2731e2279e627f64c52119ada3e13bbc2e99fabd
+Matte Black:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/617
+  note: References an "Omarchy"
+Medallion:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Melange Dark:
+  license: MIT
+  source: https://github.com/savq/melange-nvim
+Melange Light:
+  license: MIT
+  source: https://github.com/savq/melange-nvim
+Mellifluous:
+  license: MIT
+  source: https://github.com/ramojus/mellifluous.nvim
+Mellow:
+  license: MIT
+  source: https://github.com/mellow-theme/mellow.nvim
+Mesa Blue:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Mesa Twilight:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Mesila One:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Miami Heat:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Miasma:
+  license: CC0-1.0
+  source: https://github.com/xero/miasma.nvim
+Midnight Arcade:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Midnight In Mojave:
+  license: unknown
+  source: ''
+  note: based on the colors outlined in the Human Interface Guidelines
+Midnight Rambler:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Mindcrime:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Mirage:
+  license: unknown
+  source: https://github.com/tristanremy/mirage
+Misterioso:
+  license: unknown
+  source: https://github.com/flooose/misterioso-iterm2
+Modus Operandi:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Modus Operandi Deuteranopia:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Modus Operandi Tinted:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Modus Operandi Tritanopia:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Modus Vivendi:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Modus Vivendi Deuteranopia:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Modus Vivendi Tinted:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Modus Vivendi Tritanopia:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Molokai:
+  license: MIT
+  source: https://github.com/tomasr/molokai
+Molten Core:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Mona Lisa:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/e89464b73ef5301d13dafaddbb139d7562e700a9
+Monokai Classic:
+  license: nonfree
+  source: https://monokai.pro/license
+Monokai Pro:
+  license: nonfree
+  source: https://monokai.pro/license
+  note: The research lists this row without a name, in the place where Monokai Pro sorts.
+Monokai Pro Light:
+  license: nonfree
+  source: https://monokai.pro/license
+Monokai Pro Light Sun:
+  license: nonfree
+  source: https://monokai.pro/license
+Monokai Pro Machine:
+  license: nonfree
+  source: https://monokai.pro/license
+Monokai Pro Octagon:
+  license: nonfree
+  source: https://monokai.pro/license
+Monokai Pro Ristretto:
+  license: nonfree
+  source: https://monokai.pro/license
+Monokai Pro Spectrum:
+  license: nonfree
+  source: https://monokai.pro/license
+Monokai Remastered:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/135
+Monokai Soda:
+  license: unknown
+  source: https://github.com/deepsweet/Monokai-Soda-iTerm
+Monokai SublimeText:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Monokai Vivid:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/72
+Monospace Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Monospace Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Monsoon Mesa:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Monster Mash:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Moonfly:
+  license: MIT
+  source: https://github.com/bluz71/vim-moonfly-colors
+Moonwalk:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Motel Vacancy:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Moving Signals:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+N0Tch2K:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Nachtschicht:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Nebula Drift:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Neobones Dark:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Neobones Light:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Neon:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/364
+Neon Analog:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Neon Purple:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Neopolitan:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/4
+Neutron:
+  license: unknown
+  source: https://github.com/brentd/neutron-ui
+  note: Forked from https://github.com/cannikin/spacegray-dark-ui, probably MIT
+Night Lion V1:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/7
+Night Lion V2:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/7
+Night Owl:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/546
+  note: Possibly based on https://github.com/sdras/night-owl-vscode-theme, also check for Light Owl
+Night Owlish Light:
+  license: MIT
+  source: https://github.com/praveenpuglia/night-owlish-theme
+  note: Based on https://github.com/sdras/night-owl-vscode-theme
+Night Pharmacy:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Nightfall:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Nightfox:
+  license: MIT
+  source: https://github.com/edeneast/nightfox.nvim
+Niji:
+  license: unknown
+  source: ''
+  note: Listed in the research as "Unknown and MPL-2.0". Based on Arcoiris and Helix'x darcula
+No Clown Fiesta:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+No Clown Fiesta Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis Azureus:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis Bordo:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis Hibernus:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis Lilac:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis Lux:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis Minimus:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis Obscuro:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis Sereno:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis Uva:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Noctis Viola:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Nocturnal Winter:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/2f12ecf6fc90aa4d1aed70ae65a5764ac202dbe3
+Nord:
+  license: MIT
+  source: https://github.com/nordtheme/iterm2
+  note: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/243
+Nord Light:
+  license: MIT
+  source: https://github.com/nordtheme/iterm2
+Nord Wave:
+  license: unknown
+  source: https://github.com/dimitrisnl/nord-wave
+Nordfox:
+  license: MIT
+  source: https://github.com/EdenEast/nightfox.nvim/tree/main/extra
+  note: No Credits entry
+Northstar:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Novel:
+  license: nonfree
+  source: ''
+  note: Comes from the built-in Mac Terminal
+novmbr:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Numbers Station:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Nvim Dark:
+  license: Apache-2.0
+  source: https://github.com/neovim/neovim/pull/26540
+  note: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/429
+Nvim Light:
+  license: Apache-2.0
+  source: https://github.com/neovim/neovim/pull/26540
+  note: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/429
+Obsidian:
+  license: unknown
+  source: ''
+  note: '"The Obsidian theme was on my hard drive and I don''t recall where it came from. "'
+Obsurdian:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Ocean:
+  license: nonfree
+  source: ''
+  note: Comes from the built-in Mac Terminal
+Oceanic Material:
+  license: MIT
+  source: https://github.com/rahulpatel/oceanic-material-iterm
+Oceanic Next:
+  license: unknown
+  source: https://github.com/mhartington/oceanic-next-iterm
+Ocotillo:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Ollie:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+One Dark Two:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+One Double Dark:
+  license: unknown
+  source: ''
+  note: based on One Half and Atom's One
+One Double Light:
+  license: unknown
+  source: ''
+  note: based on One Half and Atom's One
+One Half Dark:
+  license: MIT
+  source: https://github.com/sonph/onehalf
+  note: based on Atom's One
+One Half Light:
+  license: MIT
+  source: https://github.com/sonph/onehalf
+  note: based on Atom's One
+Onenord:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Onenord Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Opaline:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Operator Mono Dark:
+  license: MIT
+  source: https://github.com/vharadkou/OperatorMonoThemes
+Outrun Electric:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Overnight Slumber:
+  license: MIT
+  source: https://github.com/cevr/overnight
+  note: Based on https://github.com/sdras/night-owl-vscode-theme
+owl:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Oxblood:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Oxide:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Oxocarbon:
+  license: MIT
+  source: https://github.com/nyoom-engineering/oxocarbon.nvim
+Ozz's Blizzard:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Painted Desert:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Pale Night Hc:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/270
+Pandora:
+  license: unknown
+  source: https://github.com/milosmatic/Pandora-iterm
+Paper Tiger:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Paraiso Dark:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Paranoid Circuit:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Parchment:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Patina:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Patina Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Patina Dark Soft:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Patina Lichen:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Patina Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Patina Moss:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Patina Stellar:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Paul Millr:
+  license: MIT
+  source: https://github.com/paulmillr/dotfiles/tree/master/terminal
+Pencil Dark:
+  license: unknown
+  source: https://github.com/mattly/iterm-colors-pencil
+Pencil Light:
+  license: unknown
+  source: https://github.com/mattly/iterm-colors-pencil
+Peppermint:
+  license: unknown
+  source: https://noahfrederick.com/log/lion-terminal-theme-peppermint
+  note: endorsed iTerm2 theme https://github.com/dotzero/iTerm-2-Peppermint
+Petrified:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Phala Green Dark:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/577
+Pharaoh's Voltage:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Piatto Light:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/42
+Pierre Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Pierre Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Pissed Off Pancakes:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Pnevma:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Poimandres:
+  license: MIT
+  source: https://github.com/drcmda/poimandres-theme
+Poimandres Darker:
+  license: MIT
+  source: https://github.com/drcmda/poimandres-theme
+Poimandres Storm:
+  license: MIT
+  source: https://github.com/drcmda/poimandres-theme
+Poimandres White:
+  license: MIT
+  source: https://github.com/drcmda/poimandres-theme
+Poison Apple:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Poltergeist:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Popping And Locking:
+  license: MIT
+  source: https://github.com/hedinne/popping-and-locking-vscode
+Porcelain:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Possessed Toaster:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Powershell:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/593
+  note: Potentially based on Microsoft's Powershell, have not checked
+Prickly Pear:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Primary:
+  license: Apache-2.0
+  source: https://github.com/google/vim-colorscheme-primary
+Prince of Barkness:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Prince of Darkness:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Prism:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Prismatica:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Pro:
+  license: nonfree
+  source: ''
+  note: Comes from the built-in Mac Terminal
+Pro Light:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/116
+  note: Based on Pro theme
+Pueblo Night:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Pumpkin Patch:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Pumpkin Spice:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Puppet's Master:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Purple Portal:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Purple Rain:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/142
+  note: Creator deleted account, melsorrells23 might be their new account
+Purplepeter:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/143
+Pyrokai:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Pyrokai Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+RadicalReborn:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Rapture:
+  license: MIT
+  source: https://github.com/Pustur/rapture-vscode
+Raycast Dark:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/276
+  note: Created by Raycast Employees
+Raycast Light:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/277
+  note: Created by Raycast Employees
+Rebecca:
+  license: MIT
+  source: https://github.com/vic/rebecca-theme
+Red Alert:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/87f12cf4ed4188ef649394631cb0d5b79bf189ee
+Red Planet:
+  license: MIT
+  source: https://github.com/eliquious/Red-Planet-Theme
+Red Rock:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Red Sands:
+  license: nonfree
+  source: ''
+  note: Comes from the built-in Mac Terminal
+Redacted:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Relaxed:
+  license: MIT
+  source: https://github.com/Relaxed-Theme/relaxed-terminal-themes
+  note: Was renamed from "Relaxed Afterglow" to "Relaxed" https://github.com/mbadolato/iTerm2-Color-Schemes/pull/158
+Retro:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/352
+Retro Legends:
+  license: unknown
+  source: https://github.com/veteranbv/RetroLegends
+  note: '"A tribute to classic computer terminals including the DEC VT100 (P1 phosphor), Wyse 60 (P3 phosphor), Commodore 64, IBM 3278, Kaypro, and Osborne 1."'
+Rhoads Concord:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Rhoads Insipired:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Rhoads Legacy:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Rhoads LP:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Rhoads RR Black:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Rhoads Tribute:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Ride the Current:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Rippedcasts:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Rose Pine:
+  license: MIT
+  source: https://github.com/rose-pine/build
+  note: Endorsed by upstream https://github.com/rose-pine/ghostty
+Rose Pine Dawn:
+  license: MIT
+  source: https://github.com/rose-pine/build
+  note: Endorsed by upstream https://github.com/rose-pine/ghostty
+Rose Pine Moon:
+  license: MIT
+  source: https://github.com/rose-pine/build
+  note: Endorsed by upstream https://github.com/rose-pine/ghostty
+Rouge 2:
+  license: MIT
+  source: https://github.com/josefaidt/rouge-theme
+Royal:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Royal Rhapsody:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Ryuuko:
+  license: MIT
+  source: https://github.com/dylanaraps/ryuuko
+Safety Glass:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Saguaro:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sakura:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/230
+  note: Based on Urple from zdj
+Salem:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sandstone Classic:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sandstone Ink:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sandstone Warm:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sauber:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Scabos Sand:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Scarlet Protocol:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/222
+Sea Shells:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Seafoam Pastel:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/156b6177b8ed2a4741495d76f9b8eca4bc36f989
+Seance:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sedona:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Abyss:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Amethyst:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Canopy:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Carbon:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Coral:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Ember:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Glacier:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Inkwell:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Ivory:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Nightfall:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Phosphor:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Pulse:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Ultraviolet:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Voltage:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SeedFlip Wavelength:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Selenized Black:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/630
+Selenized Dark:
+  license: MIT
+  source: https://github.com/jan-warchol/selenized
+Selenized Light:
+  license: MIT
+  source: https://github.com/jan-warchol/selenized
+Seoulbones Dark:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Seoulbones Light:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Sequoia Monochrome Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sequoia Monochrome Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sequoia Moonlight Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sequoia Moonlight Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sequoia Retro Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sequoia Retro Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Serendipity Midnight:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Serendipity Morning:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Serendipity Sunset:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Seti:
+  license: MIT
+  source: https://github.com/jesseweed/seti-syntax/
+Shades Of Purple:
+  license: MIT
+  source: https://github.com/ahmadawais/shades-of-purple-iterm2
+Shaman:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Shokunin:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sierra Gold:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Signal Ghost:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Silent Empire:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SilkCircuit Dawn:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SilkCircuit Glow:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SilkCircuit Neon:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SilkCircuit Soft:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+SilkCircuit Vibrant:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Slate:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/27
+Sleepy Hollow:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+SLOMP:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Smoke on the Terminal:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Smyck:
+  license: MIT
+  source: https://github.com/hukl/Smyck-Color-Scheme
+Snazzy:
+  license: MIT
+  source: https://github.com/sindresorhus/iterm2-snazzy
+  note: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/97
+Snazzy Soft:
+  license: MIT
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/474
+  note: Based on Snazzy
+Soft Server:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Solar Flare:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Solarized Darcula:
+  license: unknown
+  source: https://github.com/rickhanlonii/Solarized-Darcula
+  note: A theme blending Solarized Dark and Darcula. http://ethanschoonover.com/solarized
+Solarized Dark Higher Contrast:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Solarized Dark Patched:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/63
+  note: Modified Solarized Dark
+Solarized Osaka Night:
+  license: Apache-2.0
+  source: https://github.com/craftzdog/solarized-osaka.nvim
+Sonokai:
+  license: MIT
+  source: https://github.com/sainnhe/sonokai
+Sonoran Dusk:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Spacedust:
+  license: MIT
+  source: https://github.com/hallski/spacedust-theme
+Spacegray:
+  license: MIT
+  source: https://github.com/SublimeText/Spacegray
+Spacegray Bright:
+  license: MIT
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/452
+  note: Based on Spacegray
+Spacegray Eighties:
+  license: MIT
+  source: https://github.com/SublimeText/Spacegray
+Spacegray Eighties Dull:
+  license: MIT
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/843cf2bb81ae932df2a5288d4e3f34135408ce9a
+  note: Based on Spacegray
+Spiderman:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/36
+Spring:
+  license: unknown
+  source: https://github.com/t3chnoboy/spring-iTerm
+Springfield Resident:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Springfield Resident Hight Contrast:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Square:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Squintless:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Squirrelsong Dark:
+  license: MIT
+  source: https://github.com/sapegin/squirrelsong
+Srcery:
+  license: MIT
+  source: https://github.com/srcery-colors/srcery-terminal
+Stairway Skies:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Stardust Voltage:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Starlight:
+  license: Unlicense
+  source: https://github.com/CosmicToast/starlight
+Static Memory:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sublette:
+  license: MIT
+  source: https://github.com/sublee/sublette
+Subliminal:
+  license: MIT
+  source: https://github.com/gdsrosa/subliminal-itermcolors
+Sugarplum:
+  license: MIT
+  source: https://github.com/lemonlime0x3C33/iTerm2-Color-Schemes-Sugarplum
+Sumi Linen:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sumi Phosphor:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sun Bleached:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sundried:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Sunset Copper Relay:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sunset Drive:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sunset Strip:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Sweet Emotion:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Symfonic:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/59aee3e5eab69f7fbd710d7e479c54185897be18
+  note: Renamed from "Symfony" to "Symfonic" inspired by the color scheme used in the documentation for the Symfony PHP Framework.
+Syncopation:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Synthwave:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/122
+Synthwave Alpha:
+  license: unknown
+  source: https://github.com/vikpe/synthwave-alpha
+  note: Synthwave inspired color palette
+Synthwave Everything:
+  license: MIT
+  source: https://github.com/robb0wen/synthwave-vscode
+Tailwind Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Tailwind Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Tango Adapted:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: based on iTerm2's Tango Light theme
+Tango Half Adapted:
+  license: GPL-2.0-or-later
+  source: https://github.com/gnachman/iTerm2/blob/master/plists/ColorPresets.plist
+  note: based on iTerm2's Tango Light theme
+Tearout:
+  license: MIT
+  source: https://github.com/leobeosab/tearout.nvim
+Teerb:
+  license: unknown
+  source: https://gist.github.com/teerb/1360453
+  note: based on Pnevma and Xoria256
+Terafox:
+  license: MIT
+  source: https://github.com/edeneast/nightfox.nvim
+Terminal Basic:
+  license: nonfree
+  source: ''
+  note: Comes from the built-in Mac Terminal
+Terminal Basic Dark:
+  license: nonfree
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/525
+  note: Based on Terminal Basic
+Terminal Green 1999:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Thayer Bright:
+  license: unknown
+  source: https://github.com/t3chnoboy/thayer-bright-iTerm
+The Fog:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+The Hulk:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/36
+Thermal Receipt:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Thirteen:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Tinacious Design Dark:
+  license: unknown
+  source: https://github.com/tinacious/iterm-tinacious-design-theme
+  note: based on https://github.com/tinacious/vscode-tinacious-design-syntax from the same creator
+Tinacious Design Light:
+  license: unknown
+  source: https://github.com/tinacious/iterm-tinacious-design-theme
+  note: based on https://github.com/tinacious/vscode-tinacious-design-syntax from the same creator
+Token Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Token Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+TokyoNight:
+  license: Apache-2.0
+  source: https://github.com/folke/tokyonight.nvim
+TokyoNight Day:
+  license: Apache-2.0
+  source: https://github.com/folke/tokyonight.nvim
+TokyoNight Moon:
+  license: Apache-2.0
+  source: https://github.com/folke/tokyonight.nvim
+TokyoNight Night:
+  license: Apache-2.0
+  source: https://github.com/folke/tokyonight.nvim
+TokyoNight Storm:
+  license: Apache-2.0
+  source: https://github.com/folke/tokyonight.nvim
+Tomorrow:
+  license: MIT
+  source: https://github.com/chriskempson/tomorrow-theme
+Tomorrow Night:
+  license: MIT
+  source: https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2
+Tomorrow Night Blue:
+  license: MIT
+  source: https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2
+Tomorrow Night Bright:
+  license: MIT
+  source: https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2
+Tomorrow Night Burns:
+  license: MIT
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/123
+  note: Based on Tomorrow Night
+Tomorrow Night Eighties:
+  license: MIT
+  source: https://github.com/chriskempson/tomorrow-theme/tree/master/iTerm2
+Toy Chest:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+traffic:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Trapped in Amber:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Treehouse:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Trick or Treat:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Tumbling Stones:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Turquoise Trail:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Twilight:
+  license: unknown
+  source: https://gist.github.com/stefri/1183140
+Ubuntu:
+  license: unknown
+  source: https://design.ubuntu.com/brand/colour-palette
+  note: trademark problem
+Ultra Dark:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/295
+  note: Creator account gone
+Ultra Violent:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/161
+  note: Creator account gone
+Unalive 'Em All:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Undead:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Under The Sea:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/101
+Unikitty:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/174
+urban:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Urple:
+  license: unknown
+  source: ''
+  note: Imported from the zdj/themes repo
+Vacuum Tube:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Vague:
+  license: MIT
+  source: https://github.com/vague-theme/vague.nvim
+Vaporwave Sunset:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Vaughn:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/bc8e60f289245bd9291f1c8e6278065c3d1fd2af
+  note: Renamed from "Xavier" to "Vaughn"
+Velvet Court:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Vercel:
+  license: unknown
+  source: https://vercel.com/geist/colors
+  note: Listed in the research as "Unknown (MIT)". Brand Color Scheme! Possible trademark Problem https://github.com/vercel/turborepo/blob/2801cb35c14bd4b3725c787b813932acace712b7/docs/site/app/design-system.css
+Verdigris:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Vesper:
+  license: MIT
+  source: https://github.com/raunofreiberg/vesper
+Vibrant Ink:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Vimbones:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Violet Dark:
+  license: unknown
+  source: https://github.com/ashfinal/vim-colors-violet
+Violet Light:
+  license: unknown
+  source: https://github.com/ashfinal/vim-colors-violet
+Violite:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/pull/575
+Warm Burnout Dark:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Warm Burnout Light:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Warm Neon:
+  license: unknown
+  source: https://plugins.jetbrains.com/plugin/18789-warmneon-color-scheme
+  note: Created by JetBrains
+Wez:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Whimsy:
+  license: MIT
+  source: https://github.com/rod/iterm2-whimsy/tree/master
+White Sands:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Wild Cherry:
+  license: MIT
+  source: https://github.com/mashaal/wild-cherry
+Willow Grove:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Wilmersdorf:
+  license: unknown
+  source: https://github.com/sayeefm0/iterm2-wilmersdorf
+  note: upstream deleted
+Witches' Brew:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Witching Hour:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Wombat:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+Wryan:
+  license: unknown
+  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
+X:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X Berlin:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X Bogota:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X Helsinki:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X Lahabana:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X London:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X Madrid:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X Miami:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X Oslo:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X Paris:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X Praha:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+X Tokio:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Xcode Dark:
+  license: ISC
+  source: https://github.com/lunacookies/vim-colors-xcode
+Xcode Dark hc:
+  license: ISC
+  source: https://github.com/lunacookies/vim-colors-xcode
+Xcode Light:
+  license: ISC
+  source: https://github.com/lunacookies/vim-colors-xcode
+Xcode Light hc:
+  license: ISC
+  source: https://github.com/lunacookies/vim-colors-xcode
+Xcode WWDC:
+  license: ISC
+  source: https://github.com/lunacookies/vim-colors-xcode
+Y2K Chrome:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Yngwie's Strat:
+  license: unknown
+  source: ''
+  note: 'Not covered by the research in #638.'
+Zacess Cream:
+  license: MIT
+  source: https://github.com/zacesshq/themes/blob/main/LICENSE
+Zacess Dark:
+  license: MIT
+  source: https://github.com/zacesshq/themes/blob/main/LICENSE
+Zacess Light:
+  license: MIT
+  source: https://github.com/zacesshq/themes/blob/main/LICENSE
+Zacess Yellow on Black:
+  license: MIT
+  source: https://github.com/zacesshq/themes/blob/main/LICENSE
+Zenbones:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Zenbones Dark:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Zenbones Light:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Zenburn:
+  license: unknown
+  source: https://github.com/jnurmine/Zenburn
+  note: Listed in the research as "Unknown (“GPL”)". License is only specified to be “GPL” and not which exact version, since its unclear what license its under I consider this invalid.
+Zenburned:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Zenwritten Dark:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim
+Zenwritten Light:
+  license: MIT
+  source: https://github.com/zenbones-theme/zenbones.nvim

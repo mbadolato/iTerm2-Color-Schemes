@@ -51,6 +51,12 @@ python tools/wcag_check.py --schemes-dir schemes   # all schemes
 cd tools && python gen.py -s "Your Theme Name"
 python tools/wcag_check.py -s "Your Theme Name"
 
+# Check that every theme has a licenses.yml entry
+python tools/check_licenses.py
+
+# Generate only themes with a known open licence, into a separate directory
+cd tools && python gen.py --redistributable -o /path/to/output
+
 # Visual preview (display-only truecolor; does not change terminal palette)
 python tools/preview_theme.py -s "Your Theme Name"
 ```
@@ -70,7 +76,7 @@ python tools/preview_theme.py -s "Your Theme Name"
 1. Export from iTerm2 and add `schemes/Your Theme Name.itermcolors`.
 2. Regenerate with `cd tools && python gen.py -s "Your Theme Name"`.
 
-For both paths: optionally update `CREDITS.md`, and do **not** hand-edit files in generated format directories. See `README.md` (Contribute) for full details.
+For both paths: add the theme's entry to `licenses.yml` (SPDX identifier, `unknown` or `nonfree`, plus a source URL) and run `python tools/check_licenses.py`. Optionally update `CREDITS.md`. Do **not** hand-edit files in generated format directories. See `README.md` (Contribute) for full details.
 
 ## Adding a new output format
 
