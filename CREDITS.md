@@ -931,3 +931,7 @@ The HN Classic theme was created by [Mark Badolato](https://terminalthemes.com/u
 The SLOMP theme was created by [SLOMP](https://terminalthemes.com/users/01M4Z2EPHX225W0N2YTBYSP6SF).
 
 The Callie and Callie Light themes were created by [Lara Kelley](https://larakelley.com) for [Callie](https://callieapp.org). Source: [greylocklabs/themes](https://github.com/greylocklabs/themes).
+
+The everslate theme was created by [zeroskull](https://github.com/zeroskull/everslate).
+
+The This One Goes to 11 theme was created by Mark Badolato.
