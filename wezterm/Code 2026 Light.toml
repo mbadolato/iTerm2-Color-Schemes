@@ -1,0 +1,12 @@
+# Code 2026 Light
+[colors]
+foreground = "#202020"
+background = "#ffffff"
+cursor_bg = "#0069cc"
+cursor_border = "#0069cc"
+cursor_fg = "#ffffff"
+selection_bg = "#c2daf5"
+selection_fg = "#202020"
+
+ansi = ["#f0f1f2","#cf222e","#116329","#953800","#0550ae","#8250df","#116329","#202020"]
+brights = ["#999999","#cf222e","#116329","#953800","#0550ae","#8250df","#116329","#ffffff"]

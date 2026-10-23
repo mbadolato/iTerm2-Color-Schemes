@@ -1,0 +1,43 @@
+!
+! Code 2026 Light
+!
+*.foreground:  #202020
+*.background:  #ffffff
+*.cursorColor: #0069cc
+!
+! Black
+*.color0:      #f0f1f2
+*.color8:      #999999
+!
+! Red
+*.color1:      #cf222e
+*.color9:      #cf222e
+!
+! Green
+*.color2:      #116329
+*.color10:     #116329
+!
+! Yellow
+*.color3:      #953800
+*.color11:     #953800
+!
+! Blue
+*.color4:      #0550ae
+*.color12:     #0550ae
+!
+! Magenta
+*.color5:      #8250df
+*.color13:     #8250df
+!
+! Cyan
+*.color6:      #116329
+*.color14:     #116329
+!
+! White
+*.color7:      #202020
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #202020
+!*.colorIT:
+!*.colorUL:

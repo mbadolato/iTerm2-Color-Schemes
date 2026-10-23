@@ -1,0 +1,41 @@
+(
+    name: "Code 2026 Dark",
+    foreground: "#bbbebf",
+    background: "#121314",
+    cursor: "#bbbebf",
+    bright_foreground: "#bbbebf",
+    dim_foreground: "#555555",
+
+    normal: (
+        black: "#202122",
+        red: "#ff7b72",
+        green: "#7ee787",
+        yellow: "#cd9731",
+        blue: "#79c0ff",
+        magenta: "#d2a8ff",
+        cyan: "#4ec9b0",
+        white: "#bbbebf"
+    ),
+
+    bright: (
+        black: "#555555",
+        red: "#ffa198",
+        green: "#91eb99",
+        yellow: "#ffa657",
+        blue: "#a5d6ff",
+        magenta: "#b267e6",
+        cyan: "#71d4c0",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#202122",
+        red: "#ff7b72",
+        green: "#7ee787",
+        yellow: "#cd9731",
+        blue: "#79c0ff",
+        magenta: "#d2a8ff",
+        cyan: "#4ec9b0",
+        white: "#bbbebf"
+    ),
+)

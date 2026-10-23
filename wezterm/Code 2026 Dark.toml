@@ -1,0 +1,12 @@
+# Code 2026 Dark
+[colors]
+foreground = "#bbbebf"
+background = "#121314"
+cursor_bg = "#bbbebf"
+cursor_border = "#bbbebf"
+cursor_fg = "#121314"
+selection_bg = "#276782"
+selection_fg = "#ffffff"
+
+ansi = ["#202122","#ff7b72","#7ee787","#cd9731","#79c0ff","#d2a8ff","#4ec9b0","#bbbebf"]
+brights = ["#555555","#ffa198","#91eb99","#ffa657","#a5d6ff","#b267e6","#71d4c0","#ffffff"]

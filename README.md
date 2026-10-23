@@ -676,6 +676,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/cobweb.png)
 
+### Code 2026 Dark
+
+![Screenshot](/screenshots/code-2026-dark.png)
+
 ### Cool Night
 
 ![Screenshot](/screenshots/cool-night.png)
@@ -2977,6 +2981,10 @@ The screenshots are categorized.
 ### CLRS
 
 ![Screenshot](/screenshots/clrs.png)
+
+### Code 2026 Light
+
+![Screenshot](/screenshots/code-2026-light.png)
 
 ### Coffee Theme
 

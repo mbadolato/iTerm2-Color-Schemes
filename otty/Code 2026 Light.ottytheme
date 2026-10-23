@@ -1,0 +1,17 @@
+[meta]
+name = "Code 2026 Light"
+mode = "light"
+
+[terminal]
+foreground = "#202020"
+background = "#ffffff"
+palette = [
+    "#f0f1f2", "#cf222e", "#116329", "#953800",
+    "#0550ae", "#8250df", "#116329", "#202020",
+    "#999999", "#cf222e", "#116329", "#953800",
+    "#0550ae", "#8250df", "#116329", "#ffffff",
+]
+cursor = "#0069cc"
+cursor-text = "#ffffff"
+selection-background = "#c2daf5"
+selection-foreground = "#202020"

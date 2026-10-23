@@ -1,0 +1,41 @@
+(
+    name: "Code 2026 Light",
+    foreground: "#202020",
+    background: "#ffffff",
+    cursor: "#0069cc",
+    bright_foreground: "#202020",
+    dim_foreground: "#999999",
+
+    normal: (
+        black: "#f0f1f2",
+        red: "#cf222e",
+        green: "#116329",
+        yellow: "#953800",
+        blue: "#0550ae",
+        magenta: "#8250df",
+        cyan: "#116329",
+        white: "#202020"
+    ),
+
+    bright: (
+        black: "#999999",
+        red: "#cf222e",
+        green: "#116329",
+        yellow: "#953800",
+        blue: "#0550ae",
+        magenta: "#8250df",
+        cyan: "#116329",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#f0f1f2",
+        red: "#cf222e",
+        green: "#116329",
+        yellow: "#953800",
+        blue: "#0550ae",
+        magenta: "#8250df",
+        cyan: "#116329",
+        white: "#202020"
+    ),
+)

@@ -1,0 +1,33 @@
+# Colors (Code 2026 Light)
+
+[colors.bright]
+black = '#999999'
+blue = '#0550ae'
+cyan = '#116329'
+green = '#116329'
+magenta = '#8250df'
+red = '#cf222e'
+white = '#ffffff'
+yellow = '#953800'
+
+[colors.cursor]
+cursor = '#0069cc'
+text = '#ffffff'
+
+[colors.normal]
+black = '#f0f1f2'
+blue = '#0550ae'
+cyan = '#116329'
+green = '#116329'
+magenta = '#8250df'
+red = '#cf222e'
+white = '#202020'
+yellow = '#953800'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#202020'
+
+[colors.selection]
+background = '#c2daf5'
+text = '#202020'
