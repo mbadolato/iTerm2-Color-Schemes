@@ -1,0 +1,33 @@
+name: "Vercel Light"
+author: "Vercel (https://vercel.com/)"
+variant: "light"
+# Preserve the reviewed palette exactly; the theme's own validation records the
+# stricter 4.5:1 text threshold used for foreground ANSI roles.
+wcag_adjust: false
+
+color_01: "#24292F"
+color_02: "#CF2F36"
+color_03: "#18703A"
+color_04: "#8A5300"
+color_05: "#1A5FB4"
+color_06: "#7E3AB8"
+color_07: "#0B7268"
+color_08: "#4F5359"
+
+color_09: "#656A70"
+color_10: "#A8242B"
+color_11: "#0F5A2C"
+color_12: "#6B3F00"
+color_13: "#124A8C"
+color_14: "#622A92"
+color_15: "#085A52"
+color_16: "#171717"
+
+background: "#FBFBFA"
+foreground: "#24292F"
+bold: "#24292F"
+cursor: "#24292F"
+cursor_text: "#FBFBFA"
+cursor_guide: "#24292F"
+selection: "#DCE3EC"
+selection_text: "#24292F"
