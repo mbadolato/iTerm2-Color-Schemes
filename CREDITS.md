@@ -935,3 +935,7 @@ The Callie and Callie Light themes were created by [Lara Kelley](https://larakel
 The everslate theme was created by [zeroskull](https://github.com/zeroskull/everslate).
 
 The This One Goes to 11 theme was created by Mark Badolato.
+
+The Code 2026 Dark theme was created by [Angel Rada](https://github.com/code-2026-theme).
+
+The Code 2026 Light theme was created by [Angel Rada](https://github.com/code-2026-theme).
