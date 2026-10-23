@@ -1,0 +1,12 @@
+# Vercel Light
+[colors]
+foreground = "#24292f"
+background = "#fbfbfa"
+cursor_bg = "#24292f"
+cursor_border = "#24292f"
+cursor_fg = "#fbfbfa"
+selection_bg = "#dce3ec"
+selection_fg = "#24292f"
+
+ansi = ["#24292f","#cf2f36","#18703a","#8a5300","#1a5fb4","#7e3ab8","#0b7268","#4f5359"]
+brights = ["#656a70","#a8242b","#0f5a2c","#6b3f00","#124a8c","#622a92","#085a52","#171717"]

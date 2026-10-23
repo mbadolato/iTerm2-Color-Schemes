@@ -1,0 +1,41 @@
+(
+    name: "Vercel Light",
+    foreground: "#24292f",
+    background: "#fbfbfa",
+    cursor: "#24292f",
+    bright_foreground: "#24292f",
+    dim_foreground: "#656a70",
+
+    normal: (
+        black: "#24292f",
+        red: "#cf2f36",
+        green: "#18703a",
+        yellow: "#8a5300",
+        blue: "#1a5fb4",
+        magenta: "#7e3ab8",
+        cyan: "#0b7268",
+        white: "#4f5359"
+    ),
+
+    bright: (
+        black: "#656a70",
+        red: "#a8242b",
+        green: "#0f5a2c",
+        yellow: "#6b3f00",
+        blue: "#124a8c",
+        magenta: "#622a92",
+        cyan: "#085a52",
+        white: "#171717"
+    ),
+
+    dim: (
+        black: "#24292f",
+        red: "#cf2f36",
+        green: "#18703a",
+        yellow: "#8a5300",
+        blue: "#1a5fb4",
+        magenta: "#7e3ab8",
+        cyan: "#0b7268",
+        white: "#4f5359"
+    ),
+)

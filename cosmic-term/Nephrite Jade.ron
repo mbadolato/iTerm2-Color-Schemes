@@ -1,0 +1,41 @@
+(
+    name: "Nephrite Jade",
+    foreground: "#e7f2eb",
+    background: "#132e20",
+    cursor: "#4dbf74",
+    bright_foreground: "#e7f2eb",
+    dim_foreground: "#7f9187",
+
+    normal: (
+        black: "#2e4639",
+        red: "#ffaaa7",
+        green: "#4dbf74",
+        yellow: "#e0c262",
+        blue: "#96c9fe",
+        magenta: "#d5b2ff",
+        cyan: "#4cdbe3",
+        white: "#bdccc3"
+    ),
+
+    bright: (
+        black: "#7f9187",
+        red: "#ffaaa7",
+        green: "#65ddbb",
+        yellow: "#e0c262",
+        blue: "#96c9fe",
+        magenta: "#fea4cc",
+        cyan: "#4cdbe3",
+        white: "#e7f2eb"
+    ),
+
+    dim: (
+        black: "#2e4639",
+        red: "#ffaaa7",
+        green: "#4dbf74",
+        yellow: "#e0c262",
+        blue: "#96c9fe",
+        magenta: "#d5b2ff",
+        cyan: "#4cdbe3",
+        white: "#bdccc3"
+    ),
+)

@@ -1,0 +1,33 @@
+# Colors (Nephrite Mint)
+
+[colors.bright]
+black = '#607268'
+blue = '#2672b7'
+cyan = '#017b80'
+green = '#037e65'
+magenta = '#a54a77'
+red = '#ad4b4b'
+white = '#192e23'
+yellow = '#866c02'
+
+[colors.cursor]
+cursor = '#048149'
+text = '#edfbf3'
+
+[colors.normal]
+black = '#cbe1d4'
+blue = '#2672b7'
+cyan = '#017b80'
+green = '#048149'
+magenta = '#8058ab'
+red = '#ad4b4b'
+white = '#3f5247'
+yellow = '#866c02'
+
+[colors.primary]
+background = '#edfbf3'
+foreground = '#192e23'
+
+[colors.selection]
+background = '#bdd5c7'
+text = '#192e23'

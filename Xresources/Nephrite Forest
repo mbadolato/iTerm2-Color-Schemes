@@ -1,0 +1,43 @@
+!
+! Nephrite Forest
+!
+*.foreground:  #e0ebe5
+*.background:  #0d1c14
+*.cursorColor: #4dbf74
+!
+! Black
+*.color0:      #25342c
+*.color8:      #76847c
+!
+! Red
+*.color1:      #ffa09c
+*.color9:      #ffa09c
+!
+! Green
+*.color2:      #4dbf74
+*.color10:     #5ed7b5
+!
+! Yellow
+*.color3:      #d9bb5c
+*.color11:     #d9bb5c
+!
+! Blue
+*.color4:      #89c3fe
+*.color12:     #89c3fe
+!
+! Magenta
+*.color5:      #d0aafc
+*.color13:     #f99dc6
+!
+! Cyan
+*.color6:      #43d5dc
+*.color14:     #43d5dc
+!
+! White
+*.color7:      #b4c1ba
+*.color15:     #e0ebe5
+!
+! Bold, Italic, Underline
+*.colorBD:     #e0ebe5
+!*.colorIT:
+!*.colorUL:

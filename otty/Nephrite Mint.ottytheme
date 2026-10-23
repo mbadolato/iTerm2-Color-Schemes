@@ -1,0 +1,18 @@
+[meta]
+name = "Nephrite Mint"
+mode = "light"
+author = "Nephrite (https://github.com/Nephrite-theme/terminal)"
+
+[terminal]
+foreground = "#192e23"
+background = "#edfbf3"
+palette = [
+    "#cbe1d4", "#ad4b4b", "#048149", "#866c02",
+    "#2672b7", "#8058ab", "#017b80", "#3f5247",
+    "#607268", "#ad4b4b", "#037e65", "#866c02",
+    "#2672b7", "#a54a77", "#017b80", "#192e23",
+]
+cursor = "#048149"
+cursor-text = "#edfbf3"
+selection-background = "#bdd5c7"
+selection-foreground = "#192e23"

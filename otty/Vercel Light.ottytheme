@@ -1,0 +1,18 @@
+[meta]
+name = "Vercel Light"
+mode = "light"
+author = "Vercel (https://vercel.com/)"
+
+[terminal]
+foreground = "#24292f"
+background = "#fbfbfa"
+palette = [
+    "#24292f", "#cf2f36", "#18703a", "#8a5300",
+    "#1a5fb4", "#7e3ab8", "#0b7268", "#4f5359",
+    "#656a70", "#a8242b", "#0f5a2c", "#6b3f00",
+    "#124a8c", "#622a92", "#085a52", "#171717",
+]
+cursor = "#24292f"
+cursor-text = "#fbfbfa"
+selection-background = "#dce3ec"
+selection-foreground = "#24292f"

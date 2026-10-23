@@ -1,41 +1,41 @@
 (
     name: "Vercel",
-    foreground: "#fafafa",
-    background: "#101010",
-    cursor: "#f32882",
-    bright_foreground: "#fafafa",
-    dim_foreground: "#a8a8a8",
+    foreground: "#ededed",
+    background: "#000000",
+    cursor: "#ededed",
+    bright_foreground: "#ededed",
+    dim_foreground: "#8f8f8f",
 
     normal: (
-        black: "#000000",
-        red: "#fc0036",
-        green: "#29a948",
-        yellow: "#ffae00",
-        blue: "#006aff",
-        magenta: "#f32882",
-        cyan: "#00ac96",
-        white: "#feffff"
+        black: "#1a1a1a",
+        red: "#e5484d",
+        green: "#63c174",
+        yellow: "#f1a10d",
+        blue: "#52a9ff",
+        magenta: "#bf7af0",
+        cyan: "#0ac5b3",
+        white: "#a0a0a0"
     ),
 
     bright: (
-        black: "#a8a8a8",
-        red: "#ff8080",
-        green: "#4be15d",
-        yellow: "#ffae00",
-        blue: "#49aeff",
-        magenta: "#f97ea8",
-        cyan: "#00e4c4",
-        white: "#fefefe"
+        black: "#8f8f8f",
+        red: "#fe7573",
+        green: "#83e293",
+        yellow: "#ffc983",
+        blue: "#97c9fe",
+        magenta: "#d7a4ff",
+        cyan: "#4be6d3",
+        white: "#ffffff"
     ),
 
     dim: (
-        black: "#000000",
-        red: "#fc0036",
-        green: "#29a948",
-        yellow: "#ffae00",
-        blue: "#006aff",
-        magenta: "#f32882",
-        cyan: "#00ac96",
-        white: "#feffff"
+        black: "#1a1a1a",
+        red: "#e5484d",
+        green: "#63c174",
+        yellow: "#f1a10d",
+        blue: "#52a9ff",
+        magenta: "#bf7af0",
+        cyan: "#0ac5b3",
+        white: "#a0a0a0"
     ),
 )

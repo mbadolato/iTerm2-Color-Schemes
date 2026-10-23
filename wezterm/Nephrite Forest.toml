@@ -1,0 +1,12 @@
+# Nephrite Forest
+[colors]
+foreground = "#e0ebe5"
+background = "#0d1c14"
+cursor_bg = "#4dbf74"
+cursor_border = "#4dbf74"
+cursor_fg = "#0d1c14"
+selection_bg = "#324139"
+selection_fg = "#e0ebe5"
+
+ansi = ["#25342c","#ffa09c","#4dbf74","#d9bb5c","#89c3fe","#d0aafc","#43d5dc","#b4c1ba"]
+brights = ["#76847c","#ffa09c","#5ed7b5","#d9bb5c","#89c3fe","#f99dc6","#43d5dc","#e0ebe5"]

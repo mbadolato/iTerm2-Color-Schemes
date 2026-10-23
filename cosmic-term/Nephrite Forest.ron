@@ -1,0 +1,41 @@
+(
+    name: "Nephrite Forest",
+    foreground: "#e0ebe5",
+    background: "#0d1c14",
+    cursor: "#4dbf74",
+    bright_foreground: "#e0ebe5",
+    dim_foreground: "#76847c",
+
+    normal: (
+        black: "#25342c",
+        red: "#ffa09c",
+        green: "#4dbf74",
+        yellow: "#d9bb5c",
+        blue: "#89c3fe",
+        magenta: "#d0aafc",
+        cyan: "#43d5dc",
+        white: "#b4c1ba"
+    ),
+
+    bright: (
+        black: "#76847c",
+        red: "#ffa09c",
+        green: "#5ed7b5",
+        yellow: "#d9bb5c",
+        blue: "#89c3fe",
+        magenta: "#f99dc6",
+        cyan: "#43d5dc",
+        white: "#e0ebe5"
+    ),
+
+    dim: (
+        black: "#25342c",
+        red: "#ffa09c",
+        green: "#4dbf74",
+        yellow: "#d9bb5c",
+        blue: "#89c3fe",
+        magenta: "#d0aafc",
+        cyan: "#43d5dc",
+        white: "#b4c1ba"
+    ),
+)

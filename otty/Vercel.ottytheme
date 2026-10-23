@@ -1,17 +1,18 @@
 [meta]
 name = "Vercel"
 mode = "dark"
+author = "Vercel (https://vercel.com/)"
 
 [terminal]
-foreground = "#fafafa"
-background = "#101010"
+foreground = "#ededed"
+background = "#000000"
 palette = [
-    "#000000", "#fc0036", "#29a948", "#ffae00",
-    "#006aff", "#f32882", "#00ac96", "#feffff",
-    "#a8a8a8", "#ff8080", "#4be15d", "#ffae00",
-    "#49aeff", "#f97ea8", "#00e4c4", "#fefefe",
+    "#1a1a1a", "#e5484d", "#63c174", "#f1a10d",
+    "#52a9ff", "#bf7af0", "#0ac5b3", "#a0a0a0",
+    "#8f8f8f", "#fe7573", "#83e293", "#ffc983",
+    "#97c9fe", "#d7a4ff", "#4be6d3", "#ffffff",
 ]
-cursor = "#f32882"
-cursor-text = "#fafafa"
-selection-background = "#005be7"
-selection-foreground = "#fafafa"
+cursor = "#ededed"
+cursor-text = "#000000"
+selection-background = "#2e2e2e"
+selection-foreground = "#ededed"

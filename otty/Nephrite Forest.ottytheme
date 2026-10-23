@@ -1,0 +1,18 @@
+[meta]
+name = "Nephrite Forest"
+mode = "dark"
+author = "Nephrite (https://github.com/Nephrite-theme/terminal)"
+
+[terminal]
+foreground = "#e0ebe5"
+background = "#0d1c14"
+palette = [
+    "#25342c", "#ffa09c", "#4dbf74", "#d9bb5c",
+    "#89c3fe", "#d0aafc", "#43d5dc", "#b4c1ba",
+    "#76847c", "#ffa09c", "#5ed7b5", "#d9bb5c",
+    "#89c3fe", "#f99dc6", "#43d5dc", "#e0ebe5",
+]
+cursor = "#4dbf74"
+cursor-text = "#0d1c14"
+selection-background = "#324139"
+selection-foreground = "#e0ebe5"

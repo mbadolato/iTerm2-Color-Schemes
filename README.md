@@ -1812,6 +1812,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/neopolitan.png)
 
+### Nephrite Forest
+
+![Screenshot](/screenshots/nephrite-forest.png)
+
+### Nephrite Jade
+
+![Screenshot](/screenshots/nephrite-jade.png)
+
 ### Neutron
 
 ![Screenshot](/screenshots/neutron.png)
@@ -3314,6 +3322,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/neobones-light.png)
 
+### Nephrite Mint
+
+![Screenshot](/screenshots/nephrite-mint.png)
+
 ### Night Owlish Light
 
 ![Screenshot](/screenshots/night-owlish-light.png)
@@ -3581,6 +3593,10 @@ The screenshots are categorized.
 ### Unikitty
 
 ![Screenshot](/screenshots/unikitty.png)
+
+### Vercel Light
+
+![Screenshot](/screenshots/vercel-light.png)
 
 ### Vimbones
 

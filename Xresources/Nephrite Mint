@@ -1,0 +1,43 @@
+!
+! Nephrite Mint
+!
+*.foreground:  #192e23
+*.background:  #edfbf3
+*.cursorColor: #048149
+!
+! Black
+*.color0:      #cbe1d4
+*.color8:      #607268
+!
+! Red
+*.color1:      #ad4b4b
+*.color9:      #ad4b4b
+!
+! Green
+*.color2:      #048149
+*.color10:     #037e65
+!
+! Yellow
+*.color3:      #866c02
+*.color11:     #866c02
+!
+! Blue
+*.color4:      #2672b7
+*.color12:     #2672b7
+!
+! Magenta
+*.color5:      #8058ab
+*.color13:     #a54a77
+!
+! Cyan
+*.color6:      #017b80
+*.color14:     #017b80
+!
+! White
+*.color7:      #3f5247
+*.color15:     #192e23
+!
+! Bold, Italic, Underline
+*.colorBD:     #192e23
+!*.colorIT:
+!*.colorUL:

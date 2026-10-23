@@ -1,0 +1,33 @@
+# Colors (Nephrite Forest)
+
+[colors.bright]
+black = '#76847c'
+blue = '#89c3fe'
+cyan = '#43d5dc'
+green = '#5ed7b5'
+magenta = '#f99dc6'
+red = '#ffa09c'
+white = '#e0ebe5'
+yellow = '#d9bb5c'
+
+[colors.cursor]
+cursor = '#4dbf74'
+text = '#0d1c14'
+
+[colors.normal]
+black = '#25342c'
+blue = '#89c3fe'
+cyan = '#43d5dc'
+green = '#4dbf74'
+magenta = '#d0aafc'
+red = '#ffa09c'
+white = '#b4c1ba'
+yellow = '#d9bb5c'
+
+[colors.primary]
+background = '#0d1c14'
+foreground = '#e0ebe5'
+
+[colors.selection]
+background = '#324139'
+text = '#e0ebe5'

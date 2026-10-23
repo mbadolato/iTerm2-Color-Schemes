@@ -1,0 +1,12 @@
+# Nephrite Jade
+[colors]
+foreground = "#e7f2eb"
+background = "#132e20"
+cursor_bg = "#4dbf74"
+cursor_border = "#4dbf74"
+cursor_fg = "#132e20"
+selection_bg = "#3c5346"
+selection_fg = "#e7f2eb"
+
+ansi = ["#2e4639","#ffaaa7","#4dbf74","#e0c262","#96c9fe","#d5b2ff","#4cdbe3","#bdccc3"]
+brights = ["#7f9187","#ffaaa7","#65ddbb","#e0c262","#96c9fe","#fea4cc","#4cdbe3","#e7f2eb"]

@@ -1,33 +1,33 @@
 # Colors (Vercel)
 
 [colors.bright]
-black = '#a8a8a8'
-blue = '#49aeff'
-cyan = '#00e4c4'
-green = '#4be15d'
-magenta = '#f97ea8'
-red = '#ff8080'
-white = '#fefefe'
-yellow = '#ffae00'
+black = '#8f8f8f'
+blue = '#97c9fe'
+cyan = '#4be6d3'
+green = '#83e293'
+magenta = '#d7a4ff'
+red = '#fe7573'
+white = '#ffffff'
+yellow = '#ffc983'
 
 [colors.cursor]
-cursor = '#f32882'
-text = '#fafafa'
+cursor = '#ededed'
+text = '#000000'
 
 [colors.normal]
-black = '#000000'
-blue = '#006aff'
-cyan = '#00ac96'
-green = '#29a948'
-magenta = '#f32882'
-red = '#fc0036'
-white = '#feffff'
-yellow = '#ffae00'
+black = '#1a1a1a'
+blue = '#52a9ff'
+cyan = '#0ac5b3'
+green = '#63c174'
+magenta = '#bf7af0'
+red = '#e5484d'
+white = '#a0a0a0'
+yellow = '#f1a10d'
 
 [colors.primary]
-background = '#101010'
-foreground = '#fafafa'
+background = '#000000'
+foreground = '#ededed'
 
 [colors.selection]
-background = '#005be7'
-text = '#fafafa'
+background = '#2e2e2e'
+text = '#ededed'

@@ -1,12 +1,12 @@
 # Vercel
 [colors]
-foreground = "#fafafa"
-background = "#101010"
-cursor_bg = "#f32882"
-cursor_border = "#f32882"
-cursor_fg = "#fafafa"
-selection_bg = "#005be7"
-selection_fg = "#fafafa"
+foreground = "#ededed"
+background = "#000000"
+cursor_bg = "#ededed"
+cursor_border = "#ededed"
+cursor_fg = "#000000"
+selection_bg = "#2e2e2e"
+selection_fg = "#ededed"
 
-ansi = ["#000000","#fc0036","#29a948","#ffae00","#006aff","#f32882","#00ac96","#feffff"]
-brights = ["#a8a8a8","#ff8080","#4be15d","#ffae00","#49aeff","#f97ea8","#00e4c4","#fefefe"]
+ansi = ["#1a1a1a","#e5484d","#63c174","#f1a10d","#52a9ff","#bf7af0","#0ac5b3","#a0a0a0"]
+brights = ["#8f8f8f","#fe7573","#83e293","#ffc983","#97c9fe","#d7a4ff","#4be6d3","#ffffff"]
