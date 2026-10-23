@@ -358,6 +358,8 @@ The theme Neon was created by [phosphorcube](https://github.com/phosphorcube/iTe
 
 The Neon Purple theme was created by [imcarvalho](https://github.com/imcarvalho/neonpurple)
 
+The Nephrite Forest, Jade and Mint themes were created by [Nephrite](https://github.com/Nephrite-theme), generated from the [Nephrite palette](https://github.com/Nephrite-theme/palette).
+
 The Neutron theme was created by [Ch4s3](https://github.com/Ch4s3/iTerm2-Neutron)
 
 The Nightfox, Dayfox and Terafox theme was created by [EdenEast](https://github.com/edeneast/nightfox.nvim)
