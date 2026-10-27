@@ -941,3 +941,7 @@ The This One Goes to 11 theme was created by Mark Badolato.
 The Code 2026 Dark theme was created by [Angel Rada](https://github.com/code-2026-theme).
 
 The Code 2026 Light theme was created by [Angel Rada](https://github.com/code-2026-theme).
+
+The Bauhaus Dark theme was created by [Damien Seguin](https://github.com/dmnsgn).
+
+The Bauhaus Light theme was created by [Damien Seguin](https://github.com/dmnsgn).
