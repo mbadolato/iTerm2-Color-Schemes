@@ -944,6 +944,22 @@ The Code 2026 Dark theme was created by [Angel Rada](https://github.com/code-202
 
 The Code 2026 Light theme was created by [Angel Rada](https://github.com/code-2026-theme).
 
-The Bauhaus Dark theme was created by [Damien Seguin](https://github.com/dmnsgn).
+The Analog Heartbeat theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
-The Bauhaus Light theme was created by [Damien Seguin](https://github.com/dmnsgn).
+The Analog Heartbeat: Phosphor theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Hadal Bloom theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Moss & Ember theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Neon Raincheck theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Neon Raincheck: After Hours theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Paper Crane theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Paper Crane: Midnight Ink theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Sonoran Afterglow theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Sonoran Blue Hour theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
