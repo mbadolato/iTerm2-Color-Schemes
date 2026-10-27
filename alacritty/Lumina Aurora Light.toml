@@ -1,33 +1,33 @@
 # Colors (Lumina Aurora Light)
 
 [colors.bright]
-black = '#6b6578'
-blue = '#165196'
-cyan = '#005867'
-green = '#00572e'
-magenta = '#803569'
-red = '#5f171e'
-white = '#938ca1'
-yellow = '#815200'
+black = '#556f71'
+blue = '#17467d'
+cyan = '#005d6d'
+green = '#005734'
+magenta = '#733a6e'
+red = '#6d2926'
+white = '#77959a'
+yellow = '#864e01'
 
 [colors.cursor]
-cursor = '#302a3b'
-text = '#f7f6fb'
+cursor = '#163236'
+text = '#f2faf9'
 
 [colors.normal]
-black = '#302a3b'
-blue = '#2765b0'
-cyan = '#006d80'
-green = '#006d3c'
-magenta = '#9a4580'
-red = '#860e23'
-white = '#736d81'
-yellow = '#9b6400'
+black = '#163236'
+blue = '#425b7a'
+cyan = '#007386'
+green = '#026d43'
+magenta = '#894c84'
+red = '#942a28'
+white = '#59767b'
+yellow = '#9f6116'
 
 [colors.primary]
-background = '#f7f6fb'
-foreground = '#302a3b'
+background = '#f2faf9'
+foreground = '#163236'
 
 [colors.selection]
-background = '#d4e0db'
-text = '#302a3b'
+background = '#b9d4c9'
+text = '#163236'

@@ -1,33 +1,33 @@
 # Colors (Lumina Harbor Light)
 
 [colors.bright]
-black = '#627080'
-blue = '#1e508b'
-cyan = '#005969'
-green = '#086035'
-magenta = '#70366c'
-red = '#712a26'
-white = '#7e8ca0'
-yellow = '#884806'
+black = '#5d6b7e'
+blue = '#005486'
+cyan = '#00535a'
+green = '#00623c'
+magenta = '#713b7d'
+red = '#651f1d'
+white = '#7a8fb8'
+yellow = '#874e00'
 
 [colors.cursor]
-cursor = '#1b2737'
-text = '#e6f2fe'
+cursor = '#1c2d4f'
+text = '#fbf5ec'
 
 [colors.normal]
-black = '#1b2737'
-blue = '#2863ab'
-cyan = '#006f82'
-green = '#007742'
-magenta = '#874882'
-red = '#992a28'
-white = '#5f6d80'
-yellow = '#a55800'
+black = '#1c2d4f'
+blue = '#0468a4'
+cyan = '#046871'
+green = '#19784d'
+magenta = '#8b499a'
+red = '#8c1c1d'
+white = '#5b7097'
+yellow = '#a25f06'
 
 [colors.primary]
-background = '#e6f2fe'
-foreground = '#1b2737'
+background = '#fbf5ec'
+foreground = '#1c2d4f'
 
 [colors.selection]
-background = '#a9d1d5'
-text = '#1b2737'
+background = '#e3bcce'
+text = '#1c2d4f'

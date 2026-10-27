@@ -1,0 +1,33 @@
+# Colors (Lumina Polaire Light)
+
+[colors.bright]
+black = '#556a74'
+blue = '#173e76'
+cyan = '#005264'
+green = '#1f6133'
+magenta = '#723a6e'
+red = '#63221f'
+white = '#7694a4'
+yellow = '#7f4700'
+
+[colors.cursor]
+cursor = '#17323f'
+text = '#f0f9fa'
+
+[colors.normal]
+black = '#17323f'
+blue = '#3e5372'
+cyan = '#06677c'
+green = '#327645'
+magenta = '#884c84'
+red = '#882322'
+white = '#587483'
+yellow = '#965a1c'
+
+[colors.primary]
+background = '#f0f9fa'
+foreground = '#17323f'
+
+[colors.selection]
+background = '#b8d1de'
+text = '#17323f'

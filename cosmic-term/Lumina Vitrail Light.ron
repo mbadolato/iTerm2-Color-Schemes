@@ -1,0 +1,41 @@
+(
+    name: "Lumina Vitrail Light",
+    foreground: "#0f141d",
+    background: "#fcfaf4",
+    cursor: "#0f141d",
+    bright_foreground: "#0f141d",
+    dim_foreground: "#5f5e54",
+
+    normal: (
+        black: "#0f141d",
+        red: "#752200",
+        green: "#00490f",
+        yellow: "#7c4700",
+        blue: "#1729b2",
+        magenta: "#62127e",
+        cyan: "#005b72",
+        white: "#6c727e"
+    ),
+
+    bright: (
+        black: "#5f5e54",
+        red: "#581700",
+        green: "#003408",
+        yellow: "#623700",
+        blue: "#12247b",
+        magenta: "#480d5e",
+        cyan: "#004659",
+        white: "#8b929e"
+    ),
+
+    dim: (
+        black: "#0f141d",
+        red: "#752200",
+        green: "#00490f",
+        yellow: "#7c4700",
+        blue: "#1729b2",
+        magenta: "#62127e",
+        cyan: "#005b72",
+        white: "#6c727e"
+    ),
+)

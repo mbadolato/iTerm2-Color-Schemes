@@ -1,0 +1,12 @@
+# Lumina Vitrail Light
+[colors]
+foreground = "#0f141d"
+background = "#fcfaf4"
+cursor_bg = "#0f141d"
+cursor_border = "#0f141d"
+cursor_fg = "#fcfaf4"
+selection_bg = "#bac7e8"
+selection_fg = "#0f141d"
+
+ansi = ["#0f141d","#752200","#00490f","#7c4700","#1729b2","#62127e","#005b72","#6c727e"]
+brights = ["#5f5e54","#581700","#003408","#623700","#12247b","#480d5e","#004659","#8b929e"]

@@ -1,33 +1,33 @@
 # Colors (Lumina Dusk Dark)
 
 [colors.bright]
-black = '#a495a9'
-blue = '#c4ddff'
-cyan = '#9aebf5'
-green = '#b0edbb'
-magenta = '#f1c5ff'
-red = '#e9948c'
-white = '#e6dee8'
-yellow = '#ffe69e'
+black = '#8a8499'
+blue = '#bdd8ff'
+cyan = '#a9e9f2'
+green = '#b9ecc2'
+magenta = '#fcc9f7'
+red = '#de958d'
+white = '#e0dcea'
+yellow = '#ffe5ad'
 
 [colors.cursor]
-cursor = '#e6dee8'
-text = '#322434'
+cursor = '#e0dcea'
+text = '#1a1825'
 
 [colors.normal]
-black = '#38283a'
-blue = '#9ec4f7'
-cyan = '#81d1da'
-green = '#97d2a2'
-magenta = '#e3a0f8'
-red = '#dd7168'
-white = '#c5bec7'
-yellow = '#fad975'
+black = '#1f1c2b'
+blue = '#9bbef2'
+cyan = '#90cfd7'
+green = '#a0d1a9'
+magenta = '#e1b0dc'
+red = '#d0746c'
+white = '#c0bcc9'
+yellow = '#efcb7b'
 
 [colors.primary]
-background = '#322434'
-foreground = '#e6dee8'
+background = '#1a1825'
+foreground = '#e0dcea'
 
 [colors.selection]
-background = '#5a4161'
-text = '#e6dee8'
+background = '#4c373f'
+text = '#e0dcea'

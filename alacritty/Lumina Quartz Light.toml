@@ -1,33 +1,33 @@
 # Colors (Lumina Quartz Light)
 
 [colors.bright]
-black = '#5f656a'
-blue = '#21528e'
-cyan = '#005e79'
-green = '#0f693e'
-magenta = '#7e3861'
-red = '#601e1c'
-white = '#8d8f94'
-yellow = '#874e00'
+black = '#656b72'
+blue = '#31547e'
+cyan = '#115a74'
+green = '#215e41'
+magenta = '#6c3f69'
+red = '#5a2522'
+white = '#8a9097'
+yellow = '#82511c'
 
 [colors.cursor]
-cursor = '#404246'
-text = '#f6f7f8'
+cursor = '#30353b'
+text = '#f5f7fa'
 
 [colors.normal]
-black = '#404246'
-blue = '#3566a4'
-cyan = '#037393'
-green = '#207f4f'
-magenta = '#a7367b'
-red = '#861d1d'
-white = '#6e7075'
-yellow = '#a16011'
+black = '#30353b'
+blue = '#446894'
+cyan = '#007092'
+green = '#217550'
+magenta = '#82527e'
+red = '#7d2b28'
+white = '#6b7177'
+yellow = '#9a642c'
 
 [colors.primary]
-background = '#f6f7f8'
-foreground = '#404246'
+background = '#f5f7fa'
+foreground = '#30353b'
 
 [colors.selection]
-background = '#dddaee'
-text = '#404246'
+background = '#bbbec1'
+text = '#30353b'

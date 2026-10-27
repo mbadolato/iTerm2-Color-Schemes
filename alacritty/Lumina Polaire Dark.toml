@@ -1,0 +1,33 @@
+# Colors (Lumina Polaire Dark)
+
+[colors.bright]
+black = '#8395a2'
+blue = '#d1e5ff'
+cyan = '#c2efff'
+green = '#c2f1ca'
+magenta = '#ffd3fa'
+red = '#dc978f'
+white = '#d7e1e8'
+yellow = '#fde099'
+
+[colors.cursor]
+cursor = '#d7e1e8'
+text = '#0f1a21'
+
+[colors.normal]
+black = '#121f27'
+blue = '#aeccf2'
+cyan = '#8cd9f4'
+green = '#a9d6b1'
+magenta = '#e6b8e1'
+red = '#cd776f'
+white = '#b7c1c7'
+yellow = '#e2c682'
+
+[colors.primary]
+background = '#0f1a21'
+foreground = '#d7e1e8'
+
+[colors.selection]
+background = '#2c4551'
+text = '#d7e1e8'

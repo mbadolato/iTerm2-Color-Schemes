@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Lumina Cherenkov Light'
-cursor-color='#1e2735'
-foreground='#1e2735'
-background='rgba(242,248,252,.95)'
-palette='#1e2735:#cb3f3c:#4a7d26:#a35f00:#2c516b:#814a8d:#00697b:#677182:#65707d:#9e423d:#3b671b:#874e00:#003e60:#6d347a:#005462:#8590a2'
+cursor-color='#1f2e53'
+foreground='#1f2e53'
+background='rgba(245,248,255,.95)'
+palette='#1f2e53:#a32224:#227a3e:#a35f00:#0a4fcc:#90478a:#087181:#5e709b:#5b6b89:#792825:#07652c:#874e00:#1d448f:#793474:#005c69:#7c90bc'
 COLORS

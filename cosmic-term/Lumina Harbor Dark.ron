@@ -1,41 +1,41 @@
 (
     name: "Lumina Harbor Dark",
-    foreground: "#cfdceb",
-    background: "#0c1e37",
-    cursor: "#cfdceb",
-    bright_foreground: "#cfdceb",
-    dim_foreground: "#76889e",
+    foreground: "#dde1eb",
+    background: "#0d111d",
+    cursor: "#dde1eb",
+    bright_foreground: "#dde1eb",
+    dim_foreground: "#808599",
 
     normal: (
-        black: "#0e233f",
-        red: "#dd6b62",
-        green: "#82d9b4",
-        yellow: "#e8d66b",
-        blue: "#87c6f2",
-        magenta: "#e8a9e1",
-        cyan: "#bedee4",
-        white: "#afbcca"
+        black: "#111523",
+        red: "#d0756c",
+        green: "#9bd8b4",
+        yellow: "#eace8c",
+        blue: "#91c5ea",
+        magenta: "#d3a9dd",
+        cyan: "#91cfd6",
+        white: "#bdc1ca"
     ),
 
     bright: (
-        black: "#76889e",
-        red: "#e88f86",
-        green: "#a1f2ce",
-        yellow: "#fbea87",
+        black: "#808599",
+        red: "#de968e",
+        green: "#b9f1d0",
+        yellow: "#ffe5a9",
         blue: "#b1deff",
-        magenta: "#ffc5f8",
-        cyan: "#b8f4ff",
-        white: "#cfdceb"
+        magenta: "#ebc4f5",
+        cyan: "#aae9f0",
+        white: "#dde1eb"
     ),
 
     dim: (
-        black: "#0e233f",
-        red: "#dd6b62",
-        green: "#82d9b4",
-        yellow: "#e8d66b",
-        blue: "#87c6f2",
-        magenta: "#e8a9e1",
-        cyan: "#bedee4",
-        white: "#afbcca"
+        black: "#111523",
+        red: "#d0756c",
+        green: "#9bd8b4",
+        yellow: "#eace8c",
+        blue: "#91c5ea",
+        magenta: "#d3a9dd",
+        cyan: "#91cfd6",
+        white: "#bdc1ca"
     ),
 )

@@ -1,0 +1,7 @@
+#!/bin/sh
+# Lumina Vitrail Dark
+printf "\033]4;0;#0a0d17;1;#ff763b;2;#76d983;3;#fbca3f;4;#7299ff;5;#d19cdf;6;#4de0f7;7;#d0cdc5;8;#959fac;9;#ffa37f;10;#93f39f;11;#ffe6a7;12;#97b6ff;13;#efb2ff;14;#abf2ff;15;#f1eee6\007"
+printf "\033]10;#f1eee6;#070912;#f1eee6\007"
+printf "\033]17;#1f2946\007"
+printf "\033]19;#f1eee6\007"
+printf "\033]5;0;#f1eee6\007"

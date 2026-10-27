@@ -1,33 +1,33 @@
 # Colors (Lumina Espresso Light)
 
 [colors.bright]
-black = '#7a685b'
-blue = '#005381'
-cyan = '#00465c'
-green = '#065826'
-magenta = '#6a2c65'
-red = '#974043'
-white = '#9b867c'
-yellow = '#834a00'
+black = '#756457'
+blue = '#1a5488'
+cyan = '#005a6a'
+green = '#005e3c'
+magenta = '#70386b'
+red = '#5f201e'
+white = '#9f877a'
+yellow = '#653400'
 
 [colors.cursor]
-cursor = '#322219'
-text = '#fbeedf'
+cursor = '#39261b'
+text = '#fcf0e3'
 
 [colors.normal]
-black = '#322219'
-blue = '#03679f'
-cyan = '#28596c'
-green = '#1e6d37'
-magenta = '#803f7b'
-red = '#cd2e3f'
-white = '#7c685e'
-yellow = '#9d5c09'
+black = '#39261b'
+blue = '#2868a3'
+cyan = '#007083'
+green = '#15744d'
+magenta = '#864b81'
+red = '#842120'
+white = '#7f685c'
+yellow = '#6d4e36'
 
 [colors.primary]
-background = '#fbeedf'
-foreground = '#322219'
+background = '#fcf0e3'
+foreground = '#39261b'
 
 [colors.selection]
-background = '#d0c4a1'
-text = '#322219'
+background = '#d8bccc'
+text = '#39261b'

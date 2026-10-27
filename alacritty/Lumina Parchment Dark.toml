@@ -1,33 +1,33 @@
 # Colors (Lumina Parchment Dark)
 
 [colors.bright]
-black = '#a29785'
-blue = '#b8d7ff'
-cyan = '#a1e1e8'
-green = '#c4f7cd'
-magenta = '#ecb6e0'
-red = '#e89e97'
-white = '#eee7d9'
-yellow = '#ffe4b3'
+black = '#9f9180'
+blue = '#bbd7ff'
+cyan = '#9ee5ee'
+green = '#aaeed2'
+magenta = '#ecbef3'
+red = '#e1938b'
+white = '#efe5d0'
+yellow = '#fad484'
 
 [colors.cursor]
-cursor = '#eee7d9'
-text = '#342d21'
+cursor = '#efe5d0'
+text = '#2a2116'
 
 [colors.normal]
-black = '#3a3224'
-blue = '#9ebde6'
-cyan = '#89c7ce'
-green = '#c3dcc7'
-magenta = '#dd95ce'
-red = '#db7d75'
-white = '#c5bfb1'
-yellow = '#f3cb7f'
+black = '#302619'
+blue = '#97bdf4'
+cyan = '#85cbd3'
+green = '#92d3b9'
+magenta = '#d4a3dc'
+red = '#d47169'
+white = '#cec4b0'
+yellow = '#e0ba6a'
 
 [colors.primary]
-background = '#342d21'
-foreground = '#eee7d9'
+background = '#2a2116'
+foreground = '#efe5d0'
 
 [colors.selection]
-background = '#4f584c'
-text = '#eee7d9'
+background = '#54452a'
+text = '#efe5d0'

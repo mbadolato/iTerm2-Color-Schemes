@@ -1,12 +1,12 @@
 # Lumina Harbor Dark
 [colors]
-foreground = "#cfdceb"
-background = "#0c1e37"
-cursor_bg = "#cfdceb"
-cursor_border = "#cfdceb"
-cursor_fg = "#0c1e37"
-selection_bg = "#3e4a4b"
-selection_fg = "#cfdceb"
+foreground = "#dde1eb"
+background = "#0d111d"
+cursor_bg = "#dde1eb"
+cursor_border = "#dde1eb"
+cursor_fg = "#0d111d"
+selection_bg = "#423139"
+selection_fg = "#dde1eb"
 
-ansi = ["#0e233f","#dd6b62","#82d9b4","#e8d66b","#87c6f2","#e8a9e1","#bedee4","#afbcca"]
-brights = ["#76889e","#e88f86","#a1f2ce","#fbea87","#b1deff","#ffc5f8","#b8f4ff","#cfdceb"]
+ansi = ["#111523","#d0756c","#9bd8b4","#eace8c","#91c5ea","#d3a9dd","#91cfd6","#bdc1ca"]
+brights = ["#808599","#de968e","#b9f1d0","#ffe5a9","#b1deff","#ebc4f5","#aae9f0","#dde1eb"]

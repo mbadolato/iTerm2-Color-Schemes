@@ -1,12 +1,12 @@
 # Lumina Aurora Dark
 [colors]
-foreground = "#d9d5e3"
-background = "#120c1c"
-cursor_bg = "#d9d5e3"
-cursor_border = "#d9d5e3"
-cursor_fg = "#120c1c"
-selection_bg = "#263a3a"
-selection_fg = "#d9d5e3"
+foreground = "#d6e3e2"
+background = "#041212"
+cursor_bg = "#d6e3e2"
+cursor_border = "#d6e3e2"
+cursor_fg = "#041212"
+selection_bg = "#1a3e32"
+selection_fg = "#d6e3e2"
 
-ansi = ["#171022","#d45f58","#53e39c","#fecc74","#b8c5e4","#eeaae7","#75d7e2","#b9b5c3"]
-brights = ["#8a819b","#e0847c","#a2f4c4","#ffe4b7","#d2dfff","#ffcbf9","#8ef2fd","#d9d5e3"]
+ansi = ["#061717","#d86f66","#6cd79d","#e9d487","#c5d8ed","#e7ade1","#84d2db","#b6c3c2"]
+brights = ["#789091","#e59289","#a7eac2","#ffe791","#d7eaff","#ffc9f9","#9decf6","#d6e3e2"]

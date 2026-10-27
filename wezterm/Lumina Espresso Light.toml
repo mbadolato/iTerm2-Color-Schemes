@@ -1,12 +1,12 @@
 # Lumina Espresso Light
 [colors]
-foreground = "#322219"
-background = "#fbeedf"
-cursor_bg = "#322219"
-cursor_border = "#322219"
-cursor_fg = "#fbeedf"
-selection_bg = "#d0c4a1"
-selection_fg = "#322219"
+foreground = "#39261b"
+background = "#fcf0e3"
+cursor_bg = "#39261b"
+cursor_border = "#39261b"
+cursor_fg = "#fcf0e3"
+selection_bg = "#d8bccc"
+selection_fg = "#39261b"
 
-ansi = ["#322219","#cd2e3f","#1e6d37","#9d5c09","#03679f","#803f7b","#28596c","#7c685e"]
-brights = ["#7a685b","#974043","#065826","#834a00","#005381","#6a2c65","#00465c","#9b867c"]
+ansi = ["#39261b","#842120","#15744d","#6d4e36","#2868a3","#864b81","#007083","#7f685c"]
+brights = ["#756457","#5f201e","#005e3c","#653400","#1a5488","#70386b","#005a6a","#9f877a"]

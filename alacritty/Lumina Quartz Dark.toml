@@ -1,33 +1,33 @@
 # Colors (Lumina Quartz Dark)
 
 [colors.bright]
-black = '#82898f'
-blue = '#c0dbff'
-cyan = '#acf7ff'
-green = '#cbf8b6'
-magenta = '#fec2f8'
-red = '#e59189'
-white = '#cdd0d4'
-yellow = '#f9d57d'
+black = '#868b90'
+blue = '#d6e8ff'
+cyan = '#c1eff6'
+green = '#c2edd5'
+magenta = '#ffd7fa'
+red = '#d59a93'
+white = '#ccd0d3'
+yellow = '#ffe5b1'
 
 [colors.cursor]
-cursor = '#cdd0d4'
-text = '#1a1b1c'
+cursor = '#ccd0d3'
+text = '#161719'
 
 [colors.normal]
-black = '#1f2021'
-blue = '#9cc2f4'
-cyan = '#95e0e8'
-green = '#b9daaa'
-magenta = '#e2a9dd'
-red = '#d96e66'
-white = '#adb0b4'
-yellow = '#ddbb67'
+black = '#1a1c1e'
+blue = '#b6ceed'
+cyan = '#a8d5db'
+green = '#9dd7b7'
+magenta = '#e4bddf'
+red = '#c57c74'
+white = '#acb0b3'
+yellow = '#dfcfb0'
 
 [colors.primary]
-background = '#1a1b1c'
-foreground = '#cdd0d4'
+background = '#161719'
+foreground = '#ccd0d3'
 
 [colors.selection]
-background = '#403b54'
-text = '#cdd0d4'
+background = '#44474a'
+text = '#ccd0d3'

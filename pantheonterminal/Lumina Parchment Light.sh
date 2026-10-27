@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Lumina Parchment Light'
-cursor-color='#302416'
-foreground='#302416'
-background='rgba(243,233,210,.95)'
-palette='#302416:#811d1d:#1b4732:#905c00:#2b5a94:#832f6f:#006476:#746657:#706453:#5c1d1b:#003520:#764a00:#17467e:#642955:#004f5e:#938474'
+cursor-color='#352516'
+foreground='#352516'
+background='rgba(249,239,218,.95)'
+palette='#352516:#912918:#2d7341:#654935:#2e5fb0:#87418e:#006e81:#7b6858:#706251:#6b281c:#195e2f:#5f2f00:#284d8a:#6b3770:#005868:#9b8776'
 COLORS

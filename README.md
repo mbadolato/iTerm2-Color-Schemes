@@ -1604,9 +1604,9 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/lumina-parchment-dark.png)
 
-### Lumina Quartz Dark Contrast
+### Lumina Polaire Dark
 
-![Screenshot](/screenshots/lumina-quartz-dark-contrast.png)
+![Screenshot](/screenshots/lumina-polaire-dark.png)
 
 ### Lumina Quartz Dark
 
@@ -1615,6 +1615,10 @@ The screenshots are categorized.
 ### Lumina Rayleigh Dark
 
 ![Screenshot](/screenshots/lumina-rayleigh-dark.png)
+
+### Lumina Vitrail Dark
+
+![Screenshot](/screenshots/lumina-vitrail-dark.png)
 
 ### Madman's Diary
 
@@ -3318,9 +3322,9 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/lumina-parchment-light.png)
 
-### Lumina Quartz Light Contrast
+### Lumina Polaire Light
 
-![Screenshot](/screenshots/lumina-quartz-light-contrast.png)
+![Screenshot](/screenshots/lumina-polaire-light.png)
 
 ### Lumina Quartz Light
 
@@ -3329,6 +3333,10 @@ The screenshots are categorized.
 ### Lumina Rayleigh Light
 
 ![Screenshot](/screenshots/lumina-rayleigh-light.png)
+
+### Lumina Vitrail Light
+
+![Screenshot](/screenshots/lumina-vitrail-light.png)
 
 ### Lunar Dust
 

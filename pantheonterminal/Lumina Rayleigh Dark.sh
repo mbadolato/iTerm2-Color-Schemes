@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Lumina Rayleigh Dark'
-cursor-color='#d4dbea'
-foreground='#d4dbea'
-background='rgba(20,24,44,.95)'
-palette='#181c33:#da6d65:#96d2a1:#f8c970:#7cbdff:#ed9ecb:#acdae6:#b4bbc9:#7d859f:#e69088:#afedba:#ffe4b4:#aed6ff:#ffbee2:#bff2ff:#d4dbea'
+cursor-color='#d4dfeb'
+foreground='#d4dfeb'
+background='rgba(9,29,48,.95)'
+palette='#0b2237:#d96d65:#96d2a2:#f1cc79:#6fc3ff:#eea3c9:#afdee6:#b4bfca:#849bb4:#e59088:#aeedbb:#ffe5ad:#aadaff:#ffc3e0:#b6f4ff:#d4dfeb'
 COLORS

@@ -1,0 +1,12 @@
+# Lumina Polaire Light
+[colors]
+foreground = "#17323f"
+background = "#f0f9fa"
+cursor_bg = "#17323f"
+cursor_border = "#17323f"
+cursor_fg = "#f0f9fa"
+selection_bg = "#b8d1de"
+selection_fg = "#17323f"
+
+ansi = ["#17323f","#882322","#327645","#965a1c","#3e5372","#884c84","#06677c","#587483"]
+brights = ["#556a74","#63221f","#1f6133","#7f4700","#173e76","#723a6e","#005264","#7694a4"]

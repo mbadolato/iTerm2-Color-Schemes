@@ -1,0 +1,41 @@
+(
+    name: "Lumina Polaire Light",
+    foreground: "#17323f",
+    background: "#f0f9fa",
+    cursor: "#17323f",
+    bright_foreground: "#17323f",
+    dim_foreground: "#556a74",
+
+    normal: (
+        black: "#17323f",
+        red: "#882322",
+        green: "#327645",
+        yellow: "#965a1c",
+        blue: "#3e5372",
+        magenta: "#884c84",
+        cyan: "#06677c",
+        white: "#587483"
+    ),
+
+    bright: (
+        black: "#556a74",
+        red: "#63221f",
+        green: "#1f6133",
+        yellow: "#7f4700",
+        blue: "#173e76",
+        magenta: "#723a6e",
+        cyan: "#005264",
+        white: "#7694a4"
+    ),
+
+    dim: (
+        black: "#17323f",
+        red: "#882322",
+        green: "#327645",
+        yellow: "#965a1c",
+        blue: "#3e5372",
+        magenta: "#884c84",
+        cyan: "#06677c",
+        white: "#587483"
+    ),
+)

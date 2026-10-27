@@ -1,41 +1,41 @@
 (
     name: "Lumina Nebula Dark",
-    foreground: "#cadceb",
-    background: "#0a111a",
-    cursor: "#cadceb",
-    bright_foreground: "#cadceb",
-    dim_foreground: "#728295",
+    foreground: "#dde1ec",
+    background: "#161826",
+    cursor: "#dde1ec",
+    bright_foreground: "#dde1ec",
+    dim_foreground: "#838ba5",
 
     normal: (
-        black: "#0e1520",
-        red: "#d36059",
-        green: "#8bce99",
-        yellow: "#f7cf55",
-        blue: "#92bef8",
-        magenta: "#e3a2dc",
-        cyan: "#00dfe5",
-        white: "#aabcca"
+        black: "#1a1c2c",
+        red: "#d57068",
+        green: "#8fdcba",
+        yellow: "#f3c085",
+        blue: "#c6d6e8",
+        magenta: "#e5aedf",
+        cyan: "#88d2da",
+        white: "#bdc1cb"
     ),
 
     bright: (
-        black: "#728295",
-        red: "#df847d",
-        green: "#a3e9b2",
-        yellow: "#ffe6a0",
-        blue: "#bad7ff",
-        magenta: "#ffbbf7",
-        cyan: "#8ff1f4",
-        white: "#cadceb"
+        black: "#838ba5",
+        red: "#e2928a",
+        green: "#b0f5d5",
+        yellow: "#ffdfba",
+        blue: "#d8eaff",
+        magenta: "#ffc8f9",
+        cyan: "#a1ecf5",
+        white: "#dde1ec"
     ),
 
     dim: (
-        black: "#0e1520",
-        red: "#d36059",
-        green: "#8bce99",
-        yellow: "#f7cf55",
-        blue: "#92bef8",
-        magenta: "#e3a2dc",
-        cyan: "#00dfe5",
-        white: "#aabcca"
+        black: "#1a1c2c",
+        red: "#d57068",
+        green: "#8fdcba",
+        yellow: "#f3c085",
+        blue: "#c6d6e8",
+        magenta: "#e5aedf",
+        cyan: "#88d2da",
+        white: "#bdc1cb"
     ),
 )

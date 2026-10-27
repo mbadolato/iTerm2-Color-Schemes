@@ -1,12 +1,12 @@
 # Lumina Cherenkov Dark
 [colors]
-foreground = "#d0dce9"
-background = "#0a111f"
-cursor_bg = "#d0dce9"
-cursor_border = "#d0dce9"
-cursor_fg = "#0a111f"
-selection_bg = "#252f52"
-selection_fg = "#d0dce9"
+foreground = "#d7e7f5"
+background = "#021129"
+cursor_bg = "#d7e7f5"
+cursor_border = "#d7e7f5"
+cursor_fg = "#021129"
+selection_bg = "#10325a"
+selection_fg = "#d7e7f5"
 
-ansi = ["#0e1525","#da6159","#8bd29a","#e0b955","#c4dbed","#e7a3e0","#6ad0db","#b0bcc8"]
-brights = ["#79879c","#e5867e","#a4edb2","#fcd36b","#d3ecff","#ffbff8","#84eaf6","#d0dce9"]
+ansi = ["#031530","#db6c64","#9ad8a6","#ead293","#4ca1ff","#ecafe6","#8fe7fd","#b7c6d4"]
+brights = ["#738fad","#e79088","#b2f3bf","#ffe6a4","#90bbee","#ffcefa","#bff2ff","#d7e7f5"]

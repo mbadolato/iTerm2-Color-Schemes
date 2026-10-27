@@ -4,112 +4,112 @@
   "colors": [
     {
       "name": "Foreground",
-      "color": "#dfddce",
+      "color": "#e1dfce",
       "terminalMapping": "foreground"
     },
     {
       "name": "BoldForeground",
-      "color": "#dfddce",
+      "color": "#e1dfce",
       "terminalMapping": "boldforeground"
     },
     {
       "name": "Background",
-      "color": "#212311",
+      "color": "#1a1b0c",
       "terminalMapping": "background"
     },
     {
       "name": "BoldBackground",
-      "color": "#212311",
+      "color": "#1a1b0c",
       "terminalMapping": "boldbackground"
     },
     {
       "name": "CursorForeground",
-      "color": "#212311",
+      "color": "#1a1b0c",
       "terminalMapping": "cursorForeground"
     },
     {
       "name": "CursorBackground",
-      "color": "#dfddce",
+      "color": "#e1dfce",
       "terminalMapping": "cursorBackground"
     },
     {
       "name": "Black",
-      "color": "#262814",
+      "color": "#1f200f",
       "terminalMapping": "ansiBlack"
     },
     {
       "name": "Red",
-      "color": "#cd6f71",
+      "color": "#d3726a",
       "terminalMapping": "ansiRed"
     },
     {
       "name": "Green",
-      "color": "#9acca4",
+      "color": "#b5d5c6",
       "terminalMapping": "ansiGreen"
     },
     {
       "name": "Yellow",
-      "color": "#edba7a",
+      "color": "#ebc27c",
       "terminalMapping": "ansiYellow"
     },
     {
       "name": "Blue",
-      "color": "#8fb9f7",
+      "color": "#a2c4f0",
       "terminalMapping": "ansiBlue"
     },
     {
       "name": "Magenta",
-      "color": "#ddabd8",
+      "color": "#d5a2d0",
       "terminalMapping": "ansiMagenta"
     },
     {
       "name": "Cyan",
-      "color": "#8acbd2",
+      "color": "#8bcfd7",
       "terminalMapping": "ansiCyan"
     },
     {
       "name": "White",
-      "color": "#bfbdae",
+      "color": "#c1bfae",
       "terminalMapping": "ansiWhite"
     },
     {
       "name": "BrightBlack",
-      "color": "#8a8b76",
+      "color": "#8c8c76",
       "terminalMapping": "ansiBrightBlack"
     },
     {
       "name": "BrightRed",
-      "color": "#da9090",
+      "color": "#e0938c",
       "terminalMapping": "ansiBrightRed"
     },
     {
       "name": "BrightGreen",
-      "color": "#b2e7bd",
+      "color": "#b5f7da",
       "terminalMapping": "ansiBrightGreen"
     },
     {
       "name": "BrightYellow",
-      "color": "#ffd7a6",
+      "color": "#ffdea7",
       "terminalMapping": "ansiBrightYellow"
     },
     {
       "name": "BrightBlue",
-      "color": "#b5d3ff",
+      "color": "#c4ddff",
       "terminalMapping": "ansiBrightBlue"
     },
     {
       "name": "BrightMagenta",
-      "color": "#f8c4f3",
+      "color": "#f0bbeb",
       "terminalMapping": "ansiBrightMagenta"
     },
     {
       "name": "BrightCyan",
-      "color": "#a2e5ed",
+      "color": "#a3e9f2",
       "terminalMapping": "ansiBrightCyan"
     },
     {
       "name": "BrightWhite",
-      "color": "#dfddce",
+      "color": "#e1dfce",
       "terminalMapping": "ansiBrightWhite"
     }
   ],

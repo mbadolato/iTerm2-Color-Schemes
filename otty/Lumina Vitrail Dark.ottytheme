@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Vitrail Dark"
+mode = "dark"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#f1eee6"
+background = "#070912"
+palette = [
+    "#0a0d17", "#ff763b", "#76d983", "#fbca3f",
+    "#7299ff", "#d19cdf", "#4de0f7", "#d0cdc5",
+    "#959fac", "#ffa37f", "#93f39f", "#ffe6a7",
+    "#97b6ff", "#efb2ff", "#abf2ff", "#f1eee6",
+]
+cursor = "#f1eee6"
+cursor-text = "#070912"
+selection-background = "#1f2946"
+selection-foreground = "#f1eee6"

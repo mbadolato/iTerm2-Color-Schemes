@@ -1,43 +1,43 @@
 !
 ! Lumina Olive Dark
 !
-*.foreground:  #dfddce
-*.background:  #212311
-*.cursorColor: #dfddce
+*.foreground:  #e1dfce
+*.background:  #1a1b0c
+*.cursorColor: #e1dfce
 !
 ! Black
-*.color0:      #262814
-*.color8:      #8a8b76
+*.color0:      #1f200f
+*.color8:      #8c8c76
 !
 ! Red
-*.color1:      #cd6f71
-*.color9:      #da9090
+*.color1:      #d3726a
+*.color9:      #e0938c
 !
 ! Green
-*.color2:      #9acca4
-*.color10:     #b2e7bd
+*.color2:      #b5d5c6
+*.color10:     #b5f7da
 !
 ! Yellow
-*.color3:      #edba7a
-*.color11:     #ffd7a6
+*.color3:      #ebc27c
+*.color11:     #ffdea7
 !
 ! Blue
-*.color4:      #8fb9f7
-*.color12:     #b5d3ff
+*.color4:      #a2c4f0
+*.color12:     #c4ddff
 !
 ! Magenta
-*.color5:      #ddabd8
-*.color13:     #f8c4f3
+*.color5:      #d5a2d0
+*.color13:     #f0bbeb
 !
 ! Cyan
-*.color6:      #8acbd2
-*.color14:     #a2e5ed
+*.color6:      #8bcfd7
+*.color14:     #a3e9f2
 !
 ! White
-*.color7:      #bfbdae
-*.color15:     #dfddce
+*.color7:      #c1bfae
+*.color15:     #e1dfce
 !
 ! Bold, Italic, Underline
-*.colorBD:     #dfddce
+*.colorBD:     #e1dfce
 !*.colorIT:
 !*.colorUL:

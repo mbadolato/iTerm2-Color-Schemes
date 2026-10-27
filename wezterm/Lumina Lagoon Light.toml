@@ -1,12 +1,12 @@
 # Lumina Lagoon Light
 [colors]
-foreground = "#212829"
-background = "#eef9fb"
-cursor_bg = "#212829"
-cursor_border = "#212829"
-cursor_fg = "#eef9fb"
-selection_bg = "#cce0ed"
-selection_fg = "#212829"
+foreground = "#0b323b"
+background = "#e9fafa"
+cursor_bg = "#0b323b"
+cursor_border = "#0b323b"
+cursor_fg = "#e9fafa"
+selection_bg = "#afd3d7"
+selection_fg = "#0b323b"
 
-ansi = ["#212829","#901f1f","#007853","#a06200","#1e69a2","#8a4885","#345a61","#697273"]
-brights = ["#626b6d","#69221e","#006143","#855100","#00558b","#73356f","#004953","#889192"]
+ansi = ["#0b323b","#8f2121","#2e6147","#a1600d","#185ca9","#894984","#006e71","#507580"]
+brights = ["#546f74","#682220","#005031","#874e00","#154986","#72366e","#00585b","#6f95a0"]

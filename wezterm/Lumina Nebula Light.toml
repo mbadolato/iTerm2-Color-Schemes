@@ -1,12 +1,12 @@
 # Lumina Nebula Light
 [colors]
-foreground = "#1f2a38"
-background = "#f6f8fb"
-cursor_bg = "#1f2a38"
-cursor_border = "#1f2a38"
-cursor_fg = "#f6f8fb"
-selection_bg = "#d3e0e7"
-selection_fg = "#1f2a38"
+foreground = "#2d2c46"
+background = "#f8f4ff"
+cursor_bg = "#2d2c46"
+cursor_border = "#2d2c46"
+cursor_fg = "#f8f4ff"
+selection_bg = "#c7c7ef"
+selection_fg = "#2d2c46"
 
-ansi = ["#1f2a38","#902725","#2e7241","#996000","#34639e","#84487f","#00657e","#657283"]
-brights = ["#626d7a","#692623","#1a5d2f","#7e4e00","#214f88","#6e3569","#005064","#8491a3"]
+ansi = ["#2d2c46","#932222","#007650","#955b01","#3f5777","#894884","#016e90","#6d6d8b"]
+brights = ["#676680","#6c2421","#005f40","#7a4a00","#0e417f","#72356e","#005975","#8c8cab"]

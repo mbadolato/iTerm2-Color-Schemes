@@ -1,0 +1,18 @@
+[meta]
+name = "Lumina Polaire Dark"
+mode = "dark"
+author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
+
+[terminal]
+foreground = "#d7e1e8"
+background = "#0f1a21"
+palette = [
+    "#121f27", "#cd776f", "#a9d6b1", "#e2c682",
+    "#aeccf2", "#e6b8e1", "#8cd9f4", "#b7c1c7",
+    "#8395a2", "#dc978f", "#c2f1ca", "#fde099",
+    "#d1e5ff", "#ffd3fa", "#c2efff", "#d7e1e8",
+]
+cursor = "#d7e1e8"
+cursor-text = "#0f1a21"
+selection-background = "#2c4551"
+selection-foreground = "#d7e1e8"

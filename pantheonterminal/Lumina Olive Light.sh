@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Lumina Olive Light'
-cursor-color='#262816'
-foreground='#262816'
-background='rgba(241,240,217,.95)'
-palette='#262816:#861d1d:#29703d:#955e00:#2e5ba6:#83457e:#006b7d:#6b6d59:#6c6e5a:#601e1c:#145b2b:#7b4c00:#244886:#6d3268:#005664:#898b76'
+cursor-color='#302e16'
+foreground='#302e16'
+background='rgba(247,246,229,.95)'
+palette='#302e16:#8a1f1f:#30624e:#a16010:#3264a3:#8e4c89:#006f83:#727056:#6a6b54:#64201e:#005139:#874e00:#1e508c:#763a72:#00596a:#918f74'
 COLORS

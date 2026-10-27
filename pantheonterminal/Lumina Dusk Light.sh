@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Lumina Dusk Light'
-cursor-color='#3f3341'
-foreground='#3f3341'
-background='rgba(241,234,242,.95)'
-palette='#3f3341:#882322:#27693a:#644c31:#334f9d:#6f2c79:#006576:#736575:#6e6073:#622220:#125529:#593500:#283e7a:#532559:#00505e:#918394'
+cursor-color='#2e2945'
+foreground='#2e2945'
+background='rgba(246,243,254,.95)'
+palette='#2e2945:#872423:#357545:#9e611b:#3163ad:#874d82:#007185:#706b8b:#69637b:#622320:#216033:#854e07:#2b5088:#713a6c:#005b6c:#8e8aac'
 COLORS

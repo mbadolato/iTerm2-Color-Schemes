@@ -1,7 +1,7 @@
 #!/bin/sh
 # Lumina Dusk Dark
-printf "\033]4;0;#38283a;1;#dd7168;2;#97d2a2;3;#fad975;4;#9ec4f7;5;#e3a0f8;6;#81d1da;7;#c5bec7;8;#a495a9;9;#e9948c;10;#b0edbb;11;#ffe69e;12;#c4ddff;13;#f1c5ff;14;#9aebf5;15;#e6dee8\007"
-printf "\033]10;#e6dee8;#322434;#e6dee8\007"
-printf "\033]17;#5a4161\007"
-printf "\033]19;#e6dee8\007"
-printf "\033]5;0;#e6dee8\007"
+printf "\033]4;0;#1f1c2b;1;#d0746c;2;#a0d1a9;3;#efcb7b;4;#9bbef2;5;#e1b0dc;6;#90cfd7;7;#c0bcc9;8;#8a8499;9;#de958d;10;#b9ecc2;11;#ffe5ad;12;#bdd8ff;13;#fcc9f7;14;#a9e9f2;15;#e0dcea\007"
+printf "\033]10;#e0dcea;#1a1825;#e0dcea\007"
+printf "\033]17;#4c373f\007"
+printf "\033]19;#e0dcea\007"
+printf "\033]5;0;#e0dcea\007"

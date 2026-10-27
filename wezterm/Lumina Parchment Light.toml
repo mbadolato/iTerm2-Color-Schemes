@@ -1,12 +1,12 @@
 # Lumina Parchment Light
 [colors]
-foreground = "#302416"
-background = "#f3e9d2"
-cursor_bg = "#302416"
-cursor_border = "#302416"
-cursor_fg = "#f3e9d2"
-selection_bg = "#b6c3b1"
-selection_fg = "#302416"
+foreground = "#352516"
+background = "#f9efda"
+cursor_bg = "#352516"
+cursor_border = "#352516"
+cursor_fg = "#f9efda"
+selection_bg = "#d4be95"
+selection_fg = "#352516"
 
-ansi = ["#302416","#811d1d","#1b4732","#905c00","#2b5a94","#832f6f","#006476","#746657"]
-brights = ["#706453","#5c1d1b","#003520","#764a00","#17467e","#642955","#004f5e","#938474"]
+ansi = ["#352516","#912918","#2d7341","#654935","#2e5fb0","#87418e","#006e81","#7b6858"]
+brights = ["#706251","#6b281c","#195e2f","#5f2f00","#284d8a","#6b3770","#005868","#9b8776"]

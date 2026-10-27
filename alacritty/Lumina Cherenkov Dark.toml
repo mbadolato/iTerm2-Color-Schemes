@@ -1,33 +1,33 @@
 # Colors (Lumina Cherenkov Dark)
 
 [colors.bright]
-black = '#79879c'
-blue = '#d3ecff'
-cyan = '#84eaf6'
-green = '#a4edb2'
-magenta = '#ffbff8'
-red = '#e5867e'
-white = '#d0dce9'
-yellow = '#fcd36b'
+black = '#738fad'
+blue = '#90bbee'
+cyan = '#bff2ff'
+green = '#b2f3bf'
+magenta = '#ffcefa'
+red = '#e79088'
+white = '#d7e7f5'
+yellow = '#ffe6a4'
 
 [colors.cursor]
-cursor = '#d0dce9'
-text = '#0a111f'
+cursor = '#d7e7f5'
+text = '#021129'
 
 [colors.normal]
-black = '#0e1525'
-blue = '#c4dbed'
-cyan = '#6ad0db'
-green = '#8bd29a'
-magenta = '#e7a3e0'
-red = '#da6159'
-white = '#b0bcc8'
-yellow = '#e0b955'
+black = '#031530'
+blue = '#4ca1ff'
+cyan = '#8fe7fd'
+green = '#9ad8a6'
+magenta = '#ecafe6'
+red = '#db6c64'
+white = '#b7c6d4'
+yellow = '#ead293'
 
 [colors.primary]
-background = '#0a111f'
-foreground = '#d0dce9'
+background = '#021129'
+foreground = '#d7e7f5'
 
 [colors.selection]
-background = '#252f52'
-text = '#d0dce9'
+background = '#10325a'
+text = '#d7e7f5'

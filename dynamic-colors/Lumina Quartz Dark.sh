@@ -1,7 +1,7 @@
 #!/bin/sh
 # Lumina Quartz Dark
-printf "\033]4;0;#1f2021;1;#d96e66;2;#b9daaa;3;#ddbb67;4;#9cc2f4;5;#e2a9dd;6;#95e0e8;7;#adb0b4;8;#82898f;9;#e59189;10;#cbf8b6;11;#f9d57d;12;#c0dbff;13;#fec2f8;14;#acf7ff;15;#cdd0d4\007"
-printf "\033]10;#cdd0d4;#1a1b1c;#cdd0d4\007"
-printf "\033]17;#403b54\007"
-printf "\033]19;#cdd0d4\007"
-printf "\033]5;0;#cdd0d4\007"
+printf "\033]4;0;#1a1c1e;1;#c57c74;2;#9dd7b7;3;#dfcfb0;4;#b6ceed;5;#e4bddf;6;#a8d5db;7;#acb0b3;8;#868b90;9;#d59a93;10;#c2edd5;11;#ffe5b1;12;#d6e8ff;13;#ffd7fa;14;#c1eff6;15;#ccd0d3\007"
+printf "\033]10;#ccd0d3;#161719;#ccd0d3\007"
+printf "\033]17;#44474a\007"
+printf "\033]19;#ccd0d3\007"
+printf "\033]5;0;#ccd0d3\007"

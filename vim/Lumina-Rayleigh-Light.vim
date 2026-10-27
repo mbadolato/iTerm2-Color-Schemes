@@ -11,117 +11,117 @@ endif
 let g:colors_name = "Lumina-Rayleigh-Light"
 
 " Normal colors
-hi Normal guifg=#1d2638 guibg=#f7fbfe
+hi Normal guifg=#1d2f47 guibg=#edf8ff
 
 " Syntax highlighting groups
-hi Comment guifg=#656f81
-hi Constant guifg=#9b6400
-hi Identifier guifg=#0555b7
-hi Statement guifg=#6b1d1b
-hi PreProc guifg=#81326b
-hi Type guifg=#005f28
-hi Special guifg=#004758
-hi Underlined guifg=#0a4490 gui=underline
-hi Error guifg=#941419 guibg=#f7fbfe
-hi Todo guifg=#815200 guibg=#f7fbfe
+hi Comment guifg=#576c81
+hi Constant guifg=#a35f00
+hi Identifier guifg=#0160a7
+hi Statement guifg=#6c1f1d
+hi PreProc guifg=#763171
+hi Type guifg=#01622a
+hi Special guifg=#004d59
+hi Underlined guifg=#004c87 gui=underline
+hi Error guifg=#94171b guibg=#edf8ff
+hi Todo guifg=#874e00 guibg=#edf8ff
 
 " Additional groups for better compatibility
-hi String guifg=#187538
-hi Character guifg=#187538
-hi Number guifg=#9b6400
-hi Boolean guifg=#9b6400
-hi Float guifg=#9b6400
+hi String guifg=#1e773b
+hi Character guifg=#1e773b
+hi Number guifg=#a35f00
+hi Boolean guifg=#a35f00
+hi Float guifg=#a35f00
 
-hi Function guifg=#0555b7
+hi Function guifg=#0160a7
 
-hi Conditional guifg=#6b1d1b
-hi Repeat guifg=#6b1d1b
-hi Label guifg=#6b1d1b
-hi Operator guifg=#677388
-hi Keyword guifg=#6b1d1b
-hi Exception guifg=#941419
+hi Conditional guifg=#6c1f1d
+hi Repeat guifg=#6c1f1d
+hi Label guifg=#6c1f1d
+hi Operator guifg=#5d718d
+hi Keyword guifg=#6c1f1d
+hi Exception guifg=#94171b
 
-hi Include guifg=#81326b
-hi Define guifg=#81326b
-hi Macro guifg=#81326b
-hi PreCondit guifg=#81326b
+hi Include guifg=#763171
+hi Define guifg=#763171
+hi Macro guifg=#763171
+hi PreCondit guifg=#763171
 
-hi StorageClass guifg=#005f28
-hi Structure guifg=#005f28
-hi Typedef guifg=#005f28
+hi StorageClass guifg=#01622a
+hi Structure guifg=#01622a
+hi Typedef guifg=#01622a
 
-hi SpecialChar guifg=#004758
-hi Tag guifg=#004758
-hi Delimiter guifg=#677388
-hi SpecialComment guifg=#656f81
-hi Debug guifg=#815200
+hi SpecialChar guifg=#004d59
+hi Tag guifg=#004d59
+hi Delimiter guifg=#5d718d
+hi SpecialComment guifg=#576c81
+hi Debug guifg=#874e00
 
-hi Ignore guifg=#f7fbfe
+hi Ignore guifg=#edf8ff
 
 " Cursor and line highlighting
-hi Cursor guifg=#f7fbfe guibg=#1d2638
-hi CursorLine guibg=#bdcfee
-hi CursorColumn guibg=#bdcfee
+hi Cursor guifg=#edf8ff guibg=#1d2f47
+hi CursorLine guibg=#b5d0e9
+hi CursorColumn guibg=#b5d0e9
 
 " Visual selection
-hi Visual guibg=#bdcfee
+hi Visual guibg=#b5d0e9
 
 " Search highlighting
-hi Search guibg=#815200 guifg=#f7fbfe
-hi IncSearch guibg=#815200 guifg=#f7fbfe
+hi Search guibg=#874e00 guifg=#edf8ff
+hi IncSearch guibg=#874e00 guifg=#edf8ff
 
 " Line numbers
-hi LineNr guifg=#656f81
-hi CursorLineNr guifg=#1d2638
+hi LineNr guifg=#576c81
+hi CursorLineNr guifg=#1d2f47
 
 " Status line
-hi StatusLine guifg=#1d2638 guibg=#656f81
-hi StatusLineNC guifg=#656f81 guibg=#f7fbfe
+hi StatusLine guifg=#1d2f47 guibg=#576c81
+hi StatusLineNC guifg=#576c81 guibg=#edf8ff
 
 " Tab line
-hi TabLine guifg=#656f81 guibg=#f7fbfe
-hi TabLineSel guifg=#1d2638 guibg=#bdcfee
-hi TabLineFill guibg=#f7fbfe
+hi TabLine guifg=#576c81 guibg=#edf8ff
+hi TabLineSel guifg=#1d2f47 guibg=#b5d0e9
+hi TabLineFill guibg=#edf8ff
 
 " Popup menu
-hi Pmenu guifg=#1d2638 guibg=#656f81
-hi PmenuSel guifg=#f7fbfe guibg=#bdcfee
-hi PmenuSbar guibg=#656f81
-hi PmenuThumb guibg=#1d2638
+hi Pmenu guifg=#1d2f47 guibg=#576c81
+hi PmenuSel guifg=#edf8ff guibg=#b5d0e9
+hi PmenuSbar guibg=#576c81
+hi PmenuThumb guibg=#1d2f47
 
 " Diff highlighting
-hi DiffAdd guibg=#187538
-hi DiffChange guibg=#9b6400
-hi DiffDelete guibg=#941419
-hi DiffText guibg=#0555b7
+hi DiffAdd guibg=#1e773b
+hi DiffChange guibg=#a35f00
+hi DiffDelete guibg=#94171b
+hi DiffText guibg=#0160a7
 
 " Fold highlighting
-hi Folded guifg=#656f81 guibg=#f7fbfe
-hi FoldColumn guifg=#656f81 guibg=#f7fbfe
+hi Folded guifg=#576c81 guibg=#edf8ff
+hi FoldColumn guifg=#576c81 guibg=#edf8ff
 
 " Spell checking
-hi SpellBad gui=undercurl guisp=#941419
-hi SpellCap gui=undercurl guisp=#0555b7
-hi SpellRare gui=undercurl guisp=#a43687
-hi SpellLocal gui=undercurl guisp=#005c71
+hi SpellBad gui=undercurl guisp=#94171b
+hi SpellCap gui=undercurl guisp=#0160a7
+hi SpellRare gui=undercurl guisp=#8d4487
+hi SpellLocal gui=undercurl guisp=#056271
 
 " Error and warning messages
-hi ErrorMsg guifg=#941419
-hi WarningMsg guifg=#9b6400
-hi MoreMsg guifg=#0555b7
-hi Question guifg=#187538
+hi ErrorMsg guifg=#94171b
+hi WarningMsg guifg=#a35f00
+hi MoreMsg guifg=#0160a7
+hi Question guifg=#1e773b
 
 " Mode message
-hi ModeMsg guifg=#187538
+hi ModeMsg guifg=#1e773b
 
 " Directory
-hi Directory guifg=#0555b7
+hi Directory guifg=#0160a7
 
 " Title
-hi Title guifg=#a43687
+hi Title guifg=#8d4487
 
 " Match parenthesis
-hi MatchParen guibg=#656f81
+hi MatchParen guibg=#576c81
 
 " Sign column
-hi SignColumn guifg=#656f81 guibg=#f7fbfe
+hi SignColumn guifg=#576c81 guibg=#edf8ff

@@ -1,12 +1,12 @@
 # Lumina Olive Dark
 [colors]
-foreground = "#dfddce"
-background = "#212311"
-cursor_bg = "#dfddce"
-cursor_border = "#dfddce"
-cursor_fg = "#212311"
-selection_bg = "#454343"
-selection_fg = "#dfddce"
+foreground = "#e1dfce"
+background = "#1a1b0c"
+cursor_bg = "#e1dfce"
+cursor_border = "#e1dfce"
+cursor_fg = "#1a1b0c"
+selection_bg = "#3d4224"
+selection_fg = "#e1dfce"
 
-ansi = ["#262814","#cd6f71","#9acca4","#edba7a","#8fb9f7","#ddabd8","#8acbd2","#bfbdae"]
-brights = ["#8a8b76","#da9090","#b2e7bd","#ffd7a6","#b5d3ff","#f8c4f3","#a2e5ed","#dfddce"]
+ansi = ["#1f200f","#d3726a","#b5d5c6","#ebc27c","#a2c4f0","#d5a2d0","#8bcfd7","#c1bfae"]
+brights = ["#8c8c76","#e0938c","#b5f7da","#ffdea7","#c4ddff","#f0bbeb","#a3e9f2","#e1dfce"]

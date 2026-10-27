@@ -1,33 +1,33 @@
 # Colors (Lumina Rayleigh Dark)
 
 [colors.bright]
-black = '#7d859f'
-blue = '#aed6ff'
-cyan = '#bff2ff'
-green = '#afedba'
-magenta = '#ffbee2'
-red = '#e69088'
-white = '#d4dbea'
-yellow = '#ffe4b4'
+black = '#849bb4'
+blue = '#aadaff'
+cyan = '#b6f4ff'
+green = '#aeedbb'
+magenta = '#ffc3e0'
+red = '#e59088'
+white = '#d4dfeb'
+yellow = '#ffe5ad'
 
 [colors.cursor]
-cursor = '#d4dbea'
-text = '#14182c'
+cursor = '#d4dfeb'
+text = '#091d30'
 
 [colors.normal]
-black = '#181c33'
-blue = '#7cbdff'
-cyan = '#acdae6'
-green = '#96d2a1'
-magenta = '#ed9ecb'
-red = '#da6d65'
-white = '#b4bbc9'
-yellow = '#f8c970'
+black = '#0b2237'
+blue = '#6fc3ff'
+cyan = '#afdee6'
+green = '#96d2a2'
+magenta = '#eea3c9'
+red = '#d96d65'
+white = '#b4bfca'
+yellow = '#f1cc79'
 
 [colors.primary]
-background = '#14182c'
-foreground = '#d4dbea'
+background = '#091d30'
+foreground = '#d4dfeb'
 
 [colors.selection]
-background = '#2d3e5d'
-text = '#d4dbea'
+background = '#204360'
+text = '#d4dfeb'

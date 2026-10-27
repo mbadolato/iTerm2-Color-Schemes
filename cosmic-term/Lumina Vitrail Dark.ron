@@ -1,0 +1,41 @@
+(
+    name: "Lumina Vitrail Dark",
+    foreground: "#f1eee6",
+    background: "#070912",
+    cursor: "#f1eee6",
+    bright_foreground: "#f1eee6",
+    dim_foreground: "#959fac",
+
+    normal: (
+        black: "#0a0d17",
+        red: "#ff763b",
+        green: "#76d983",
+        yellow: "#fbca3f",
+        blue: "#7299ff",
+        magenta: "#d19cdf",
+        cyan: "#4de0f7",
+        white: "#d0cdc5"
+    ),
+
+    bright: (
+        black: "#959fac",
+        red: "#ffa37f",
+        green: "#93f39f",
+        yellow: "#ffe6a7",
+        blue: "#97b6ff",
+        magenta: "#efb2ff",
+        cyan: "#abf2ff",
+        white: "#f1eee6"
+    ),
+
+    dim: (
+        black: "#0a0d17",
+        red: "#ff763b",
+        green: "#76d983",
+        yellow: "#fbca3f",
+        blue: "#7299ff",
+        magenta: "#d19cdf",
+        cyan: "#4de0f7",
+        white: "#d0cdc5"
+    ),
+)

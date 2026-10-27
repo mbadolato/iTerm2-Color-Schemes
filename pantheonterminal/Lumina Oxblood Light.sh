@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Lumina Oxblood Light'
-cursor-color='#4f3c45'
-foreground='#4f3c45'
-background='rgba(249,244,245,.95)'
-palette='#4f3c45:#982e24:#287849:#9f6202:#35659f:#864a81:#3d606e:#7e6973:#795d6a:#712c24:#166338:#845000:#215189:#70376b:#004f66:#9f8893'
+cursor-color='#42222f'
+foreground='#42222f'
+background='rgba(254,242,244,.95)'
+palette='#42222f:#9b2827:#237742:#a1600a:#3166a6:#82469d:#087380:#8a6472:#7d5d68:#732926:#0f6131:#874e00:#1c5290:#683a7d:#005d68:#ab8392'
 COLORS

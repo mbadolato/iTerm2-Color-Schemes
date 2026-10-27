@@ -1,41 +1,41 @@
 (
     name: "Lumina Lagoon Dark",
-    foreground: "#d4e5ea",
-    background: "#182f36",
-    cursor: "#d4e5ea",
-    bright_foreground: "#d4e5ea",
-    dim_foreground: "#859ea7",
+    foreground: "#d7e6e7",
+    background: "#042930",
+    cursor: "#d7e6e7",
+    bright_foreground: "#d7e6e7",
+    dim_foreground: "#7d9ba2",
 
     normal: (
-        black: "#1b343c",
-        red: "#df7370",
-        green: "#8dcea3",
-        yellow: "#dfcc78",
-        blue: "#a0c7f9",
-        magenta: "#da9ef6",
-        cyan: "#84d3dc",
-        white: "#b4c4c9"
+        black: "#042e36",
+        red: "#d3726a",
+        green: "#9fd4a9",
+        yellow: "#e7cf94",
+        blue: "#8ec3f9",
+        magenta: "#e5b0df",
+        cyan: "#5ad3d6",
+        white: "#b7c5c6"
     ),
 
     bright: (
-        black: "#859ea7",
-        red: "#eb9692",
-        green: "#a7e8bc",
-        yellow: "#fbe68b",
-        blue: "#c8e0ff",
-        magenta: "#eac1ff",
-        cyan: "#9dedf7",
-        white: "#d6e7ec"
+        black: "#7d9ba2",
+        red: "#e0938c",
+        green: "#b8efc2",
+        yellow: "#ffe6a7",
+        blue: "#badcff",
+        magenta: "#ffcaf9",
+        cyan: "#9fe6e8",
+        white: "#d7e6e7"
     ),
 
     dim: (
-        black: "#1b343c",
-        red: "#df7370",
-        green: "#8dcea3",
-        yellow: "#dfcc78",
-        blue: "#a0c7f9",
-        magenta: "#da9ef6",
-        cyan: "#84d3dc",
-        white: "#b4c4c9"
+        black: "#042e36",
+        red: "#d3726a",
+        green: "#9fd4a9",
+        yellow: "#e7cf94",
+        blue: "#8ec3f9",
+        magenta: "#e5b0df",
+        cyan: "#5ad3d6",
+        white: "#b7c5c6"
     ),
 )

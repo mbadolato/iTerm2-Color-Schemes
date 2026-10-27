@@ -1,7 +1,7 @@
 #!/bin/sh
 # Lumina Olive Dark
-printf "\033]4;0;#262814;1;#cd6f71;2;#9acca4;3;#edba7a;4;#8fb9f7;5;#ddabd8;6;#8acbd2;7;#bfbdae;8;#8a8b76;9;#da9090;10;#b2e7bd;11;#ffd7a6;12;#b5d3ff;13;#f8c4f3;14;#a2e5ed;15;#dfddce\007"
-printf "\033]10;#dfddce;#212311;#dfddce\007"
-printf "\033]17;#454343\007"
-printf "\033]19;#dfddce\007"
-printf "\033]5;0;#dfddce\007"
+printf "\033]4;0;#1f200f;1;#d3726a;2;#b5d5c6;3;#ebc27c;4;#a2c4f0;5;#d5a2d0;6;#8bcfd7;7;#c1bfae;8;#8c8c76;9;#e0938c;10;#b5f7da;11;#ffdea7;12;#c4ddff;13;#f0bbeb;14;#a3e9f2;15;#e1dfce\007"
+printf "\033]10;#e1dfce;#1a1b0c;#e1dfce\007"
+printf "\033]17;#3d4224\007"
+printf "\033]19;#e1dfce\007"
+printf "\033]5;0;#e1dfce\007"

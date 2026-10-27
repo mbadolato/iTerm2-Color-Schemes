@@ -1,12 +1,12 @@
 # Lumina Canopy Light
 [colors]
-foreground = "#3b433a"
-background = "#f1f5f0"
-cursor_bg = "#3b433a"
-cursor_border = "#3b433a"
-cursor_fg = "#f1f5f0"
-selection_bg = "#dedbcb"
-selection_fg = "#3b433a"
+foreground = "#1e3323"
+background = "#f1f9ef"
+cursor_bg = "#1e3323"
+cursor_border = "#1e3323"
+cursor_fg = "#f1f9ef"
+selection_bg = "#cecda8"
+selection_fg = "#1e3323"
 
-ansi = ["#3b433a","#9c2e2c","#007953","#a06115","#1d5c99","#9e327d","#007083","#687067"]
-brights = ["#51665c","#742d2a","#006243","#874e00","#0c487f","#763560","#005a6a","#869085"]
+ansi = ["#1e3323","#860c2c","#337545","#905705","#046aa7","#864c82","#007184","#5e7563"]
+brights = ["#5b6f5d","#5b1d26","#206033","#764600","#0e5686","#70396c","#005b6b","#7d9582"]

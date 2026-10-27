@@ -1,33 +1,33 @@
 # Colors (Lumina Olive Dark)
 
 [colors.bright]
-black = '#8a8b76'
-blue = '#b5d3ff'
-cyan = '#a2e5ed'
-green = '#b2e7bd'
-magenta = '#f8c4f3'
-red = '#da9090'
-white = '#dfddce'
-yellow = '#ffd7a6'
+black = '#8c8c76'
+blue = '#c4ddff'
+cyan = '#a3e9f2'
+green = '#b5f7da'
+magenta = '#f0bbeb'
+red = '#e0938c'
+white = '#e1dfce'
+yellow = '#ffdea7'
 
 [colors.cursor]
-cursor = '#dfddce'
-text = '#212311'
+cursor = '#e1dfce'
+text = '#1a1b0c'
 
 [colors.normal]
-black = '#262814'
-blue = '#8fb9f7'
-cyan = '#8acbd2'
-green = '#9acca4'
-magenta = '#ddabd8'
-red = '#cd6f71'
-white = '#bfbdae'
-yellow = '#edba7a'
+black = '#1f200f'
+blue = '#a2c4f0'
+cyan = '#8bcfd7'
+green = '#b5d5c6'
+magenta = '#d5a2d0'
+red = '#d3726a'
+white = '#c1bfae'
+yellow = '#ebc27c'
 
 [colors.primary]
-background = '#212311'
-foreground = '#dfddce'
+background = '#1a1b0c'
+foreground = '#e1dfce'
 
 [colors.selection]
-background = '#454343'
-text = '#dfddce'
+background = '#3d4224'
+text = '#e1dfce'

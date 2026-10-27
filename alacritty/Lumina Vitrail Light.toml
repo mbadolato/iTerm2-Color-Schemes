@@ -1,0 +1,33 @@
+# Colors (Lumina Vitrail Light)
+
+[colors.bright]
+black = '#5f5e54'
+blue = '#12247b'
+cyan = '#004659'
+green = '#003408'
+magenta = '#480d5e'
+red = '#581700'
+white = '#8b929e'
+yellow = '#623700'
+
+[colors.cursor]
+cursor = '#0f141d'
+text = '#fcfaf4'
+
+[colors.normal]
+black = '#0f141d'
+blue = '#1729b2'
+cyan = '#005b72'
+green = '#00490f'
+magenta = '#62127e'
+red = '#752200'
+white = '#6c727e'
+yellow = '#7c4700'
+
+[colors.primary]
+background = '#fcfaf4'
+foreground = '#0f141d'
+
+[colors.selection]
+background = '#bac7e8'
+text = '#0f141d'

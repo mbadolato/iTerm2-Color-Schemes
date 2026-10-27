@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Lumina Canopy Dark'
-cursor-color='#cddbd0'
-foreground='#cddbd0'
-background='rgba(19,29,22,.95)'
-palette='#17221a:#d3665e:#96d4a2:#f2bb31:#8dc6ff:#d1a5d3:#8ce3dd:#adbbb0:#7b9381:#df8981:#aeefbb:#ffd989:#bedeff:#f2b9f5:#a1fbf5:#cddbd0'
+cursor-color='#d8e3d6'
+foreground='#d8e3d6'
+background='rgba(12,27,16,.95)'
+palette='#0f2014:#d57068:#99d0a4:#d1cca8:#9acaf1:#e2acdd:#86cfd7:#b8c3b6:#7c917e:#e1928b:#b2ebbd:#f4e792:#c0e3ff:#fdc5f8:#9fe9f1:#d8e3d6'
 COLORS

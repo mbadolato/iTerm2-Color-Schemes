@@ -1,33 +1,33 @@
 # Colors (Lumina Canopy Dark)
 
 [colors.bright]
-black = '#7b9381'
-blue = '#bedeff'
-cyan = '#a1fbf5'
-green = '#aeefbb'
-magenta = '#f2b9f5'
-red = '#df8981'
-white = '#cddbd0'
-yellow = '#ffd989'
+black = '#7c917e'
+blue = '#c0e3ff'
+cyan = '#9fe9f1'
+green = '#b2ebbd'
+magenta = '#fdc5f8'
+red = '#e1928b'
+white = '#d8e3d6'
+yellow = '#f4e792'
 
 [colors.cursor]
-cursor = '#cddbd0'
-text = '#131d16'
+cursor = '#d8e3d6'
+text = '#0c1b10'
 
 [colors.normal]
-black = '#17221a'
-blue = '#8dc6ff'
-cyan = '#8ce3dd'
-green = '#96d4a2'
-magenta = '#d1a5d3'
-red = '#d3665e'
-white = '#adbbb0'
-yellow = '#f2bb31'
+black = '#0f2014'
+blue = '#9acaf1'
+cyan = '#86cfd7'
+green = '#99d0a4'
+magenta = '#e2acdd'
+red = '#d57068'
+white = '#b8c3b6'
+yellow = '#d1cca8'
 
 [colors.primary]
-background = '#131d16'
-foreground = '#cddbd0'
+background = '#0c1b10'
+foreground = '#d8e3d6'
 
 [colors.selection]
-background = '#434022'
-text = '#cddbd0'
+background = '#403e24'
+text = '#d8e3d6'

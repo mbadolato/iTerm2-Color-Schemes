@@ -1,12 +1,12 @@
 # Lumina Rayleigh Dark
 [colors]
-foreground = "#d4dbea"
-background = "#14182c"
-cursor_bg = "#d4dbea"
-cursor_border = "#d4dbea"
-cursor_fg = "#14182c"
-selection_bg = "#2d3e5d"
-selection_fg = "#d4dbea"
+foreground = "#d4dfeb"
+background = "#091d30"
+cursor_bg = "#d4dfeb"
+cursor_border = "#d4dfeb"
+cursor_fg = "#091d30"
+selection_bg = "#204360"
+selection_fg = "#d4dfeb"
 
-ansi = ["#181c33","#da6d65","#96d2a1","#f8c970","#7cbdff","#ed9ecb","#acdae6","#b4bbc9"]
-brights = ["#7d859f","#e69088","#afedba","#ffe4b4","#aed6ff","#ffbee2","#bff2ff","#d4dbea"]
+ansi = ["#0b2237","#d96d65","#96d2a2","#f1cc79","#6fc3ff","#eea3c9","#afdee6","#b4bfca"]
+brights = ["#849bb4","#e59088","#aeedbb","#ffe5ad","#aadaff","#ffc3e0","#b6f4ff","#d4dfeb"]

@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Lumina Harbor Dark'
-cursor-color='#cfdceb'
-foreground='#cfdceb'
-background='rgba(12,30,55,.95)'
-palette='#0e233f:#dd6b62:#82d9b4:#e8d66b:#87c6f2:#e8a9e1:#bedee4:#afbcca:#76889e:#e88f86:#a1f2ce:#fbea87:#b1deff:#ffc5f8:#b8f4ff:#cfdceb'
+cursor-color='#dde1eb'
+foreground='#dde1eb'
+background='rgba(13,17,29,.95)'
+palette='#111523:#d0756c:#9bd8b4:#eace8c:#91c5ea:#d3a9dd:#91cfd6:#bdc1ca:#808599:#de968e:#b9f1d0:#ffe5a9:#b1deff:#ebc4f5:#aae9f0:#dde1eb'
 COLORS

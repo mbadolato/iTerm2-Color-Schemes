@@ -1,12 +1,12 @@
 # Lumina Dusk Light
 [colors]
-foreground = "#3f3341"
-background = "#f1eaf2"
-cursor_bg = "#3f3341"
-cursor_border = "#3f3341"
-cursor_fg = "#f1eaf2"
-selection_bg = "#decee1"
-selection_fg = "#3f3341"
+foreground = "#2e2945"
+background = "#f6f3fe"
+cursor_bg = "#2e2945"
+cursor_border = "#2e2945"
+cursor_fg = "#f6f3fe"
+selection_bg = "#d7bcc6"
+selection_fg = "#2e2945"
 
-ansi = ["#3f3341","#882322","#27693a","#644c31","#334f9d","#6f2c79","#006576","#736575"]
-brights = ["#6e6073","#622220","#125529","#593500","#283e7a","#532559","#00505e","#918394"]
+ansi = ["#2e2945","#872423","#357545","#9e611b","#3163ad","#874d82","#007185","#706b8b"]
+brights = ["#69637b","#622320","#216033","#854e07","#2b5088","#713a6c","#005b6c","#8e8aac"]

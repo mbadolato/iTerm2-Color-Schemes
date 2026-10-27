@@ -1,12 +1,12 @@
 # Lumina Quartz Light
 [colors]
-foreground = "#404246"
-background = "#f6f7f8"
-cursor_bg = "#404246"
-cursor_border = "#404246"
-cursor_fg = "#f6f7f8"
-selection_bg = "#dddaee"
-selection_fg = "#404246"
+foreground = "#30353b"
+background = "#f5f7fa"
+cursor_bg = "#30353b"
+cursor_border = "#30353b"
+cursor_fg = "#f5f7fa"
+selection_bg = "#bbbec1"
+selection_fg = "#30353b"
 
-ansi = ["#404246","#861d1d","#207f4f","#a16011","#3566a4","#a7367b","#037393","#6e7075"]
-brights = ["#5f656a","#601e1c","#0f693e","#874e00","#21528e","#7e3861","#005e79","#8d8f94"]
+ansi = ["#30353b","#7d2b28","#217550","#9a642c","#446894","#82527e","#007092","#6b7177"]
+brights = ["#656b72","#5a2522","#215e41","#82511c","#31547e","#6c3f69","#115a74","#8a9097"]

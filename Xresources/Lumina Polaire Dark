@@ -1,0 +1,43 @@
+!
+! Lumina Polaire Dark
+!
+*.foreground:  #d7e1e8
+*.background:  #0f1a21
+*.cursorColor: #d7e1e8
+!
+! Black
+*.color0:      #121f27
+*.color8:      #8395a2
+!
+! Red
+*.color1:      #cd776f
+*.color9:      #dc978f
+!
+! Green
+*.color2:      #a9d6b1
+*.color10:     #c2f1ca
+!
+! Yellow
+*.color3:      #e2c682
+*.color11:     #fde099
+!
+! Blue
+*.color4:      #aeccf2
+*.color12:     #d1e5ff
+!
+! Magenta
+*.color5:      #e6b8e1
+*.color13:     #ffd3fa
+!
+! Cyan
+*.color6:      #8cd9f4
+*.color14:     #c2efff
+!
+! White
+*.color7:      #b7c1c7
+*.color15:     #d7e1e8
+!
+! Bold, Italic, Underline
+*.colorBD:     #d7e1e8
+!*.colorIT:
+!*.colorUL:

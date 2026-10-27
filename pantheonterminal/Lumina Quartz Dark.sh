@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Lumina Quartz Dark'
-cursor-color='#cdd0d4'
-foreground='#cdd0d4'
-background='rgba(26,27,28,.95)'
-palette='#1f2021:#d96e66:#b9daaa:#ddbb67:#9cc2f4:#e2a9dd:#95e0e8:#adb0b4:#82898f:#e59189:#cbf8b6:#f9d57d:#c0dbff:#fec2f8:#acf7ff:#cdd0d4'
+cursor-color='#ccd0d3'
+foreground='#ccd0d3'
+background='rgba(22,23,25,.95)'
+palette='#1a1c1e:#c57c74:#9dd7b7:#dfcfb0:#b6ceed:#e4bddf:#a8d5db:#acb0b3:#868b90:#d59a93:#c2edd5:#ffe5b1:#d6e8ff:#ffd7fa:#c1eff6:#ccd0d3'
 COLORS

@@ -2,8 +2,8 @@
 dconf load /org/pantheon/terminal/settings/ <<COLORS
 [/]
 name='Lumina Ember Dark'
-cursor-color='#e0d8cb'
-foreground='#e0d8cb'
-background='rgba(28,25,22,.95)'
-palette='#211e1a:#d1635b:#90d6b4:#e4d874:#78bbea:#e5a7df:#77cfd9:#c0b8ab:#978b7e:#dd867e:#a3f2cc:#f7eb89:#99d4ff:#ffc1f9:#90e9f4:#e0d8cb'
+cursor-color='#e4ddd0'
+foreground='#e4ddd0'
+background='rgba(23,21,17,.95)'
+palette='#1c1a15:#cb7870:#a9cc97:#e5cc88:#94bedc:#d7a2c6:#91c7cd:#c4bdb0:#8e8577:#da9890:#c5e5b5:#ffe6a2:#b0d7f4:#f0bcdf:#aae1e7:#e4ddd0'
 COLORS

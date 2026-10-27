@@ -1,33 +1,33 @@
 # Colors (Lumina Nebula Light)
 
 [colors.bright]
-black = '#626d7a'
-blue = '#214f88'
-cyan = '#005064'
-green = '#1a5d2f'
-magenta = '#6e3569'
-red = '#692623'
-white = '#8491a3'
-yellow = '#7e4e00'
+black = '#676680'
+blue = '#0e417f'
+cyan = '#005975'
+green = '#005f40'
+magenta = '#72356e'
+red = '#6c2421'
+white = '#8c8cab'
+yellow = '#7a4a00'
 
 [colors.cursor]
-cursor = '#1f2a38'
-text = '#f6f8fb'
+cursor = '#2d2c46'
+text = '#f8f4ff'
 
 [colors.normal]
-black = '#1f2a38'
-blue = '#34639e'
-cyan = '#00657e'
-green = '#2e7241'
-magenta = '#84487f'
-red = '#902725'
-white = '#657283'
-yellow = '#996000'
+black = '#2d2c46'
+blue = '#3f5777'
+cyan = '#016e90'
+green = '#007650'
+magenta = '#894884'
+red = '#932222'
+white = '#6d6d8b'
+yellow = '#955b01'
 
 [colors.primary]
-background = '#f6f8fb'
-foreground = '#1f2a38'
+background = '#f8f4ff'
+foreground = '#2d2c46'
 
 [colors.selection]
-background = '#d3e0e7'
-text = '#1f2a38'
+background = '#c7c7ef'
+text = '#2d2c46'

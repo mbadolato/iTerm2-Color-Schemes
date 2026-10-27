@@ -4,15 +4,15 @@ mode = "light"
 author = "Razik Ikhlef (https://github.com/RazikSF/lumina-themes)"
 
 [terminal]
-foreground = "#302416"
-background = "#f3e9d2"
+foreground = "#352516"
+background = "#f9efda"
 palette = [
-    "#302416", "#811d1d", "#1b4732", "#905c00",
-    "#2b5a94", "#832f6f", "#006476", "#746657",
-    "#706453", "#5c1d1b", "#003520", "#764a00",
-    "#17467e", "#642955", "#004f5e", "#938474",
+    "#352516", "#912918", "#2d7341", "#654935",
+    "#2e5fb0", "#87418e", "#006e81", "#7b6858",
+    "#706251", "#6b281c", "#195e2f", "#5f2f00",
+    "#284d8a", "#6b3770", "#005868", "#9b8776",
 ]
-cursor = "#302416"
-cursor-text = "#f3e9d2"
-selection-background = "#b6c3b1"
-selection-foreground = "#302416"
+cursor = "#352516"
+cursor-text = "#f9efda"
+selection-background = "#d4be95"
+selection-foreground = "#352516"

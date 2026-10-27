@@ -1,0 +1,41 @@
+(
+    name: "Lumina Polaire Dark",
+    foreground: "#d7e1e8",
+    background: "#0f1a21",
+    cursor: "#d7e1e8",
+    bright_foreground: "#d7e1e8",
+    dim_foreground: "#8395a2",
+
+    normal: (
+        black: "#121f27",
+        red: "#cd776f",
+        green: "#a9d6b1",
+        yellow: "#e2c682",
+        blue: "#aeccf2",
+        magenta: "#e6b8e1",
+        cyan: "#8cd9f4",
+        white: "#b7c1c7"
+    ),
+
+    bright: (
+        black: "#8395a2",
+        red: "#dc978f",
+        green: "#c2f1ca",
+        yellow: "#fde099",
+        blue: "#d1e5ff",
+        magenta: "#ffd3fa",
+        cyan: "#c2efff",
+        white: "#d7e1e8"
+    ),
+
+    dim: (
+        black: "#121f27",
+        red: "#cd776f",
+        green: "#a9d6b1",
+        yellow: "#e2c682",
+        blue: "#aeccf2",
+        magenta: "#e6b8e1",
+        cyan: "#8cd9f4",
+        white: "#b7c1c7"
+    ),
+)

@@ -1,0 +1,43 @@
+!
+! Lumina Vitrail Light
+!
+*.foreground:  #0f141d
+*.background:  #fcfaf4
+*.cursorColor: #0f141d
+!
+! Black
+*.color0:      #0f141d
+*.color8:      #5f5e54
+!
+! Red
+*.color1:      #752200
+*.color9:      #581700
+!
+! Green
+*.color2:      #00490f
+*.color10:     #003408
+!
+! Yellow
+*.color3:      #7c4700
+*.color11:     #623700
+!
+! Blue
+*.color4:      #1729b2
+*.color12:     #12247b
+!
+! Magenta
+*.color5:      #62127e
+*.color13:     #480d5e
+!
+! Cyan
+*.color6:      #005b72
+*.color14:     #004659
+!
+! White
+*.color7:      #6c727e
+*.color15:     #8b929e
+!
+! Bold, Italic, Underline
+*.colorBD:     #0f141d
+!*.colorIT:
+!*.colorUL:

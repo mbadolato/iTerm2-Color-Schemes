@@ -1,33 +1,33 @@
 # Colors (Lumina Olive Light)
 
 [colors.bright]
-black = '#6c6e5a'
-blue = '#244886'
-cyan = '#005664'
-green = '#145b2b'
-magenta = '#6d3268'
-red = '#601e1c'
-white = '#898b76'
-yellow = '#7b4c00'
+black = '#6a6b54'
+blue = '#1e508c'
+cyan = '#00596a'
+green = '#005139'
+magenta = '#763a72'
+red = '#64201e'
+white = '#918f74'
+yellow = '#874e00'
 
 [colors.cursor]
-cursor = '#262816'
-text = '#f1f0d9'
+cursor = '#302e16'
+text = '#f7f6e5'
 
 [colors.normal]
-black = '#262816'
-blue = '#2e5ba6'
-cyan = '#006b7d'
-green = '#29703d'
-magenta = '#83457e'
-red = '#861d1d'
-white = '#6b6d59'
-yellow = '#955e00'
+black = '#302e16'
+blue = '#3264a3'
+cyan = '#006f83'
+green = '#30624e'
+magenta = '#8e4c89'
+red = '#8a1f1f'
+white = '#727056'
+yellow = '#a16010'
 
 [colors.primary]
-background = '#f1f0d9'
-foreground = '#262816'
+background = '#f7f6e5'
+foreground = '#302e16'
 
 [colors.selection]
-background = '#c8c3c3'
-text = '#262816'
+background = '#c6cda8'
+text = '#302e16'
