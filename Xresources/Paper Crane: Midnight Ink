@@ -1,0 +1,43 @@
+!
+! Paper Crane: Midnight Ink
+!
+*.foreground:  #e6e2d6
+*.background:  #20272a
+*.cursorColor: #d9826b
+!
+! Black
+*.color0:      #303a3c
+*.color8:      #607073
+!
+! Red
+*.color1:      #b9685c
+*.color9:      #dc8977
+!
+! Green
+*.color2:      #7d9e85
+*.color10:     #a2c2a4
+!
+! Yellow
+*.color3:      #c1a06b
+*.color11:     #dfc08b
+!
+! Blue
+*.color4:      #819cbd
+*.color12:     #a5bbdb
+!
+! Magenta
+*.color5:      #aa88a7
+*.color13:     #c7a9c4
+!
+! Cyan
+*.color6:      #79a9a5
+*.color14:     #a1d0c8
+!
+! White
+*.color7:      #d4d3c9
+*.color15:     #fff8e8
+!
+! Bold, Italic, Underline
+*.colorBD:     #e6e2d6
+!*.colorIT:
+!*.colorUL:

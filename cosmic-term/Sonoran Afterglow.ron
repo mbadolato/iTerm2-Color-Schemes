@@ -1,0 +1,41 @@
+(
+    name: "Sonoran Afterglow",
+    foreground: "#ede1d9",
+    background: "#201a2b",
+    cursor: "#e9b872",
+    bright_foreground: "#ede1d9",
+    dim_foreground: "#67586d",
+
+    normal: (
+        black: "#30283a",
+        red: "#d66d73",
+        green: "#83ad89",
+        yellow: "#d9ae69",
+        blue: "#819cd3",
+        magenta: "#b78ec5",
+        cyan: "#67b8b0",
+        white: "#d8ccc7"
+    ),
+
+    bright: (
+        black: "#67586d",
+        red: "#f47c65",
+        green: "#a5d0a3",
+        yellow: "#f2cb82",
+        blue: "#a5baf1",
+        magenta: "#d7ace0",
+        cyan: "#86e0d3",
+        white: "#fff1e3"
+    ),
+
+    dim: (
+        black: "#30283a",
+        red: "#d66d73",
+        green: "#83ad89",
+        yellow: "#d9ae69",
+        blue: "#819cd3",
+        magenta: "#b78ec5",
+        cyan: "#67b8b0",
+        white: "#d8ccc7"
+    ),
+)

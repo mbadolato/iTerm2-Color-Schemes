@@ -1,0 +1,17 @@
+[meta]
+name = "Analog Heartbeat: Phosphor"
+mode = "dark"
+
+[terminal]
+foreground = "#c5e6ac"
+background = "#101c14"
+palette = [
+    "#263128", "#a96757", "#79b95d", "#b8a35b",
+    "#7b9c86", "#a28b78", "#73a79b", "#bfcdb2",
+    "#536454", "#d88c73", "#9ce878", "#e9ba69",
+    "#a0c4ab", "#c5ac92", "#95d1bb", "#e7f4d5",
+]
+cursor = "#f0bb6d"
+cursor-text = "#101c14"
+selection-background = "#344637"
+selection-foreground = "#69756d"

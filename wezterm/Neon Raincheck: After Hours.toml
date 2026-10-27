@@ -1,0 +1,12 @@
+# Neon Raincheck: After Hours
+[colors]
+foreground = "#b8c9d9"
+background = "#0b1019"
+cursor_bg = "#79c9d8"
+cursor_border = "#79c9d8"
+cursor_fg = "#0b1019"
+selection_bg = "#202c42"
+selection_fg = "#575c66"
+
+ansi = ["#18202d","#b95c7b","#609d8c","#b8a46b","#6586c0","#9679c5","#4c9faf","#a4b5c5"]
+brights = ["#3d4c63","#d77c99","#7abba5","#d5c183","#86a6dc","#b69adb","#6bc4d1","#dceaf2"]

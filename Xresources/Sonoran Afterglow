@@ -1,0 +1,43 @@
+!
+! Sonoran Afterglow
+!
+*.foreground:  #ede1d9
+*.background:  #201a2b
+*.cursorColor: #e9b872
+!
+! Black
+*.color0:      #30283a
+*.color8:      #67586d
+!
+! Red
+*.color1:      #d66d73
+*.color9:      #f47c65
+!
+! Green
+*.color2:      #83ad89
+*.color10:     #a5d0a3
+!
+! Yellow
+*.color3:      #d9ae69
+*.color11:     #f2cb82
+!
+! Blue
+*.color4:      #819cd3
+*.color12:     #a5baf1
+!
+! Magenta
+*.color5:      #b78ec5
+*.color13:     #d7ace0
+!
+! Cyan
+*.color6:      #67b8b0
+*.color14:     #86e0d3
+!
+! White
+*.color7:      #d8ccc7
+*.color15:     #fff1e3
+!
+! Bold, Italic, Underline
+*.colorBD:     #ede1d9
+!*.colorIT:
+!*.colorUL:

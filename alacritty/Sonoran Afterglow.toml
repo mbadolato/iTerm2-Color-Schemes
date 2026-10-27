@@ -1,0 +1,33 @@
+# Colors (Sonoran Afterglow)
+
+[colors.bright]
+black = '#67586d'
+blue = '#a5baf1'
+cyan = '#86e0d3'
+green = '#a5d0a3'
+magenta = '#d7ace0'
+red = '#f47c65'
+white = '#fff1e3'
+yellow = '#f2cb82'
+
+[colors.cursor]
+cursor = '#e9b872'
+text = '#201a2b'
+
+[colors.normal]
+black = '#30283a'
+blue = '#819cd3'
+cyan = '#67b8b0'
+green = '#83ad89'
+magenta = '#b78ec5'
+red = '#d66d73'
+white = '#d8ccc7'
+yellow = '#d9ae69'
+
+[colors.primary]
+background = '#201a2b'
+foreground = '#ede1d9'
+
+[colors.selection]
+background = '#49364c'
+text = '#6c6677'

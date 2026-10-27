@@ -1,0 +1,33 @@
+# Colors (Neon Raincheck)
+
+[colors.bright]
+black = '#4c5871'
+blue = '#9cb8ff'
+cyan = '#77e7f3'
+green = '#91e9c9'
+magenta = '#d2a9ff'
+red = '#ff86a5'
+white = '#f5f8ff'
+yellow = '#f6d894'
+
+[colors.cursor]
+cursor = '#51d9e8'
+text = '#101522'
+
+[colors.normal]
+black = '#1c2435'
+blue = '#789de8'
+cyan = '#51b9cd'
+green = '#70c6ad'
+magenta = '#b58deb'
+red = '#e36b8d'
+white = '#c8d4e6'
+yellow = '#e2c179'
+
+[colors.primary]
+background = '#101522'
+foreground = '#dce6f5'
+
+[colors.selection]
+background = '#293452'
+text = '#5c626e'

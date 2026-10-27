@@ -1,0 +1,41 @@
+(
+    name: "Paper Crane",
+    foreground: "#353b3a",
+    background: "#f5f1e8",
+    cursor: "#b85d4b",
+    bright_foreground: "#353b3a",
+    dim_foreground: "#777d76",
+
+    normal: (
+        black: "#424845",
+        red: "#a74e45",
+        green: "#53765e",
+        yellow: "#8a6c2b",
+        blue: "#4c688f",
+        magenta: "#805b83",
+        cyan: "#3e7b7a",
+        white: "#626c66"
+    ),
+
+    bright: (
+        black: "#777d76",
+        red: "#bf6354",
+        green: "#668a6d",
+        yellow: "#a3833d",
+        blue: "#607eaa",
+        magenta: "#966f9b",
+        cyan: "#529392",
+        white: "#454f49"
+    ),
+
+    dim: (
+        black: "#424845",
+        red: "#a74e45",
+        green: "#53765e",
+        yellow: "#8a6c2b",
+        blue: "#4c688f",
+        magenta: "#805b83",
+        cyan: "#3e7b7a",
+        white: "#626c66"
+    ),
+)

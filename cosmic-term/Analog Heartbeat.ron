@@ -1,0 +1,41 @@
+(
+    name: "Analog Heartbeat",
+    foreground: "#e6ddcb",
+    background: "#211f1c",
+    cursor: "#f2b35d",
+    bright_foreground: "#e6ddcb",
+    dim_foreground: "#62594d",
+
+    normal: (
+        black: "#302c27",
+        red: "#c96f64",
+        green: "#94b26a",
+        yellow: "#d9ac63",
+        blue: "#839eb2",
+        magenta: "#b28da1",
+        cyan: "#7eafa5",
+        white: "#d6cbb8"
+    ),
+
+    bright: (
+        black: "#62594d",
+        red: "#e57b73",
+        green: "#b7d36b",
+        yellow: "#f2c87b",
+        blue: "#a8c4d6",
+        magenta: "#d0a9bd",
+        cyan: "#a1d4c5",
+        white: "#fff0d6"
+    ),
+
+    dim: (
+        black: "#302c27",
+        red: "#c96f64",
+        green: "#94b26a",
+        yellow: "#d9ac63",
+        blue: "#839eb2",
+        magenta: "#b28da1",
+        cyan: "#7eafa5",
+        white: "#d6cbb8"
+    ),
+)

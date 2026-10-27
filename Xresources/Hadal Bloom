@@ -1,0 +1,43 @@
+!
+! Hadal Bloom
+!
+*.foreground:  #d6eaf0
+*.background:  #091923
+*.cursorColor: #59d9cb
+!
+! Black
+*.color0:      #142a35
+*.color8:      #42606d
+!
+! Red
+*.color1:      #d97494
+*.color9:      #f3a0bc
+!
+! Green
+*.color2:      #65bfa7
+*.color10:     #87e3c2
+!
+! Yellow
+*.color3:      #c7b87c
+*.color11:     #e7d89d
+!
+! Blue
+*.color4:      #6e9cd6
+*.color12:     #94bef6
+!
+! Magenta
+*.color5:      #a995ed
+*.color13:     #c9b5ff
+!
+! Cyan
+*.color6:      #4abfc6
+*.color14:     #76eaf0
+!
+! White
+*.color7:      #bfd6df
+*.color15:     #f1fcff
+!
+! Bold, Italic, Underline
+*.colorBD:     #d6eaf0
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,43 @@
+!
+! Moss & Ember
+!
+*.foreground:  #e9ddc6
+*.background:  #18231f
+*.cursorColor: #d98a59
+!
+! Black
+*.color0:      #26342c
+*.color8:      #586a59
+!
+! Red
+*.color1:      #c5755e
+*.color9:      #e69a75
+!
+! Green
+*.color2:      #829d69
+*.color10:     #a9bd79
+!
+! Yellow
+*.color3:      #c6a667
+*.color11:     #e4c481
+!
+! Blue
+*.color4:      #799ca0
+*.color12:     #9ebcc0
+!
+! Magenta
+*.color5:      #ad8a9b
+*.color13:     #c8a4b6
+!
+! Cyan
+*.color6:      #72a69b
+*.color14:     #92cec0
+!
+! White
+*.color7:      #d8ceb9
+*.color15:     #fff0d6
+!
+! Bold, Italic, Underline
+*.colorBD:     #e9ddc6
+!*.colorIT:
+!*.colorUL:

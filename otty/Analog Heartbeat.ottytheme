@@ -1,0 +1,17 @@
+[meta]
+name = "Analog Heartbeat"
+mode = "dark"
+
+[terminal]
+foreground = "#e6ddcb"
+background = "#211f1c"
+palette = [
+    "#302c27", "#c96f64", "#94b26a", "#d9ac63",
+    "#839eb2", "#b28da1", "#7eafa5", "#d6cbb8",
+    "#62594d", "#e57b73", "#b7d36b", "#f2c87b",
+    "#a8c4d6", "#d0a9bd", "#a1d4c5", "#fff0d6",
+]
+cursor = "#f2b35d"
+cursor-text = "#211f1c"
+selection-background = "#454034"
+selection-foreground = "#6e6b68"

@@ -1,0 +1,43 @@
+!
+! Analog Heartbeat: Phosphor
+!
+*.foreground:  #c5e6ac
+*.background:  #101c14
+*.cursorColor: #f0bb6d
+!
+! Black
+*.color0:      #263128
+*.color8:      #536454
+!
+! Red
+*.color1:      #a96757
+*.color9:      #d88c73
+!
+! Green
+*.color2:      #79b95d
+*.color10:     #9ce878
+!
+! Yellow
+*.color3:      #b8a35b
+*.color11:     #e9ba69
+!
+! Blue
+*.color4:      #7b9c86
+*.color12:     #a0c4ab
+!
+! Magenta
+*.color5:      #a28b78
+*.color13:     #c5ac92
+!
+! Cyan
+*.color6:      #73a79b
+*.color14:     #95d1bb
+!
+! White
+*.color7:      #bfcdb2
+*.color15:     #e7f4d5
+!
+! Bold, Italic, Underline
+*.colorBD:     #c5e6ac
+!*.colorIT:
+!*.colorUL:

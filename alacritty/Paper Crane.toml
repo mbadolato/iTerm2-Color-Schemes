@@ -1,0 +1,33 @@
+# Colors (Paper Crane)
+
+[colors.bright]
+black = '#777d76'
+blue = '#607eaa'
+cyan = '#529392'
+green = '#668a6d'
+magenta = '#966f9b'
+red = '#bf6354'
+white = '#454f49'
+yellow = '#a3833d'
+
+[colors.cursor]
+cursor = '#b85d4b'
+text = '#f5f1e8'
+
+[colors.normal]
+black = '#424845'
+blue = '#4c688f'
+cyan = '#3e7b7a'
+green = '#53765e'
+magenta = '#805b83'
+red = '#a74e45'
+white = '#626c66'
+yellow = '#8a6c2b'
+
+[colors.primary]
+background = '#f5f1e8'
+foreground = '#353b3a'
+
+[colors.selection]
+background = '#b8cdb6'
+text = '#353b3a'

@@ -1,0 +1,41 @@
+(
+    name: "Analog Heartbeat: Phosphor",
+    foreground: "#c5e6ac",
+    background: "#101c14",
+    cursor: "#f0bb6d",
+    bright_foreground: "#c5e6ac",
+    dim_foreground: "#536454",
+
+    normal: (
+        black: "#263128",
+        red: "#a96757",
+        green: "#79b95d",
+        yellow: "#b8a35b",
+        blue: "#7b9c86",
+        magenta: "#a28b78",
+        cyan: "#73a79b",
+        white: "#bfcdb2"
+    ),
+
+    bright: (
+        black: "#536454",
+        red: "#d88c73",
+        green: "#9ce878",
+        yellow: "#e9ba69",
+        blue: "#a0c4ab",
+        magenta: "#c5ac92",
+        cyan: "#95d1bb",
+        white: "#e7f4d5"
+    ),
+
+    dim: (
+        black: "#263128",
+        red: "#a96757",
+        green: "#79b95d",
+        yellow: "#b8a35b",
+        blue: "#7b9c86",
+        magenta: "#a28b78",
+        cyan: "#73a79b",
+        white: "#bfcdb2"
+    ),
+)

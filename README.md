@@ -320,6 +320,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/amber-crt-retro.png)
 
+### Analog Heartbeat
+
+![Screenshot](/screenshots/analog-heartbeat.png)
+
+### Analog Heartbeat: Phosphor
+
+![Screenshot](/screenshots/analog-heartbeat-phosphor.png)
+
 ### Analyzed Dark
 
 ![Screenshot](/screenshots/analyzed-dark.png)
@@ -1200,6 +1208,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/hacktober.png)
 
+### Hadal Bloom
+
+![Screenshot](/screenshots/hadal-bloom.png)
+
 ### Hardcore
 
 ![Screenshot](/screenshots/hardcore.png)
@@ -1788,6 +1800,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/moonfly.png)
 
+### Moss & Ember
+
+![Screenshot](/screenshots/moss--ember.png)
+
 ### Motel Vacancy
 
 ![Screenshot](/screenshots/motel-vacancy.png)
@@ -1819,6 +1835,14 @@ The screenshots are categorized.
 ### Neon Purple
 
 ![Screenshot](/screenshots/neon-purple.png)
+
+### Neon Raincheck
+
+![Screenshot](/screenshots/neon-raincheck.png)
+
+### Neon Raincheck: After Hours
+
+![Screenshot](/screenshots/neon-raincheck-after-hours.png)
 
 ### Neon
 
@@ -2027,6 +2051,10 @@ The screenshots are categorized.
 ### Pandora
 
 ![Screenshot](/screenshots/pandora.png)
+
+### Paper Crane: Midnight Ink
+
+![Screenshot](/screenshots/paper-crane-midnight-ink.png)
 
 ### Paraiso Dark
 
@@ -2463,6 +2491,14 @@ The screenshots are categorized.
 ### Sonokai
 
 ![Screenshot](/screenshots/sonokai.png)
+
+### Sonoran Afterglow
+
+![Screenshot](/screenshots/sonoran-afterglow.png)
+
+### Sonoran Blue Hour
+
+![Screenshot](/screenshots/sonoran-blue-hour.png)
 
 ### Sonoran Dusk
 
@@ -3397,6 +3433,10 @@ The screenshots are categorized.
 ### Onenord Light
 
 ![Screenshot](/screenshots/onenord-light.png)
+
+### Paper Crane
+
+![Screenshot](/screenshots/paper-crane.png)
 
 ### Paper Tiger
 

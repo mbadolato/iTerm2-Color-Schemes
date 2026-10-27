@@ -1,0 +1,17 @@
+[meta]
+name = "Neon Raincheck"
+mode = "dark"
+
+[terminal]
+foreground = "#dce6f5"
+background = "#101522"
+palette = [
+    "#1c2435", "#e36b8d", "#70c6ad", "#e2c179",
+    "#789de8", "#b58deb", "#51b9cd", "#c8d4e6",
+    "#4c5871", "#ff86a5", "#91e9c9", "#f6d894",
+    "#9cb8ff", "#d2a9ff", "#77e7f3", "#f5f8ff",
+]
+cursor = "#51d9e8"
+cursor-text = "#101522"
+selection-background = "#293452"
+selection-foreground = "#5c626e"

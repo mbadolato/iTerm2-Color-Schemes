@@ -1,0 +1,43 @@
+!
+! Paper Crane
+!
+*.foreground:  #353b3a
+*.background:  #f5f1e8
+*.cursorColor: #b85d4b
+!
+! Black
+*.color0:      #424845
+*.color8:      #777d76
+!
+! Red
+*.color1:      #a74e45
+*.color9:      #bf6354
+!
+! Green
+*.color2:      #53765e
+*.color10:     #668a6d
+!
+! Yellow
+*.color3:      #8a6c2b
+*.color11:     #a3833d
+!
+! Blue
+*.color4:      #4c688f
+*.color12:     #607eaa
+!
+! Magenta
+*.color5:      #805b83
+*.color13:     #966f9b
+!
+! Cyan
+*.color6:      #3e7b7a
+*.color14:     #529392
+!
+! White
+*.color7:      #626c66
+*.color15:     #454f49
+!
+! Bold, Italic, Underline
+*.colorBD:     #353b3a
+!*.colorIT:
+!*.colorUL:

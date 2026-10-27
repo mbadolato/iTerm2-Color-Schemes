@@ -1,0 +1,33 @@
+# Colors (Sonoran Blue Hour)
+
+[colors.bright]
+black = '#555c82'
+blue = '#a9bcf3'
+cyan = '#9be4e5'
+green = '#a6d2c7'
+magenta = '#d2b7ed'
+red = '#ef9b91'
+white = '#fff1e8'
+yellow = '#f2cc9e'
+
+[colors.cursor]
+cursor = '#f0af94'
+text = '#171d35'
+
+[colors.normal]
+black = '#252b48'
+blue = '#799bd6'
+cyan = '#72bfc6'
+green = '#83adab'
+magenta = '#a894cb'
+red = '#cb777d'
+white = '#d5cfd6'
+yellow = '#d4ae85'
+
+[colors.primary]
+background = '#171d35'
+foreground = '#e9dcd8'
+
+[colors.selection]
+background = '#353a61'
+text = '#636a82'

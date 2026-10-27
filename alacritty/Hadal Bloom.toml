@@ -1,0 +1,33 @@
+# Colors (Hadal Bloom)
+
+[colors.bright]
+black = '#42606d'
+blue = '#94bef6'
+cyan = '#76eaf0'
+green = '#87e3c2'
+magenta = '#c9b5ff'
+red = '#f3a0bc'
+white = '#f1fcff'
+yellow = '#e7d89d'
+
+[colors.cursor]
+cursor = '#59d9cb'
+text = '#091923'
+
+[colors.normal]
+black = '#142a35'
+blue = '#6e9cd6'
+cyan = '#4abfc6'
+green = '#65bfa7'
+magenta = '#a995ed'
+red = '#d97494'
+white = '#bfd6df'
+yellow = '#c7b87c'
+
+[colors.primary]
+background = '#091923'
+foreground = '#d6eaf0'
+
+[colors.selection]
+background = '#214454'
+text = '#62727c'

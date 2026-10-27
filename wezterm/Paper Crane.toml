@@ -1,0 +1,12 @@
+# Paper Crane
+[colors]
+foreground = "#353b3a"
+background = "#f5f1e8"
+cursor_bg = "#b85d4b"
+cursor_border = "#b85d4b"
+cursor_fg = "#f5f1e8"
+selection_bg = "#b8cdb6"
+selection_fg = "#353b3a"
+
+ansi = ["#424845","#a74e45","#53765e","#8a6c2b","#4c688f","#805b83","#3e7b7a","#626c66"]
+brights = ["#777d76","#bf6354","#668a6d","#a3833d","#607eaa","#966f9b","#529392","#454f49"]

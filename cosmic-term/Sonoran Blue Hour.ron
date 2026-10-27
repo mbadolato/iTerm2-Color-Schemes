@@ -1,0 +1,41 @@
+(
+    name: "Sonoran Blue Hour",
+    foreground: "#e9dcd8",
+    background: "#171d35",
+    cursor: "#f0af94",
+    bright_foreground: "#e9dcd8",
+    dim_foreground: "#555c82",
+
+    normal: (
+        black: "#252b48",
+        red: "#cb777d",
+        green: "#83adab",
+        yellow: "#d4ae85",
+        blue: "#799bd6",
+        magenta: "#a894cb",
+        cyan: "#72bfc6",
+        white: "#d5cfd6"
+    ),
+
+    bright: (
+        black: "#555c82",
+        red: "#ef9b91",
+        green: "#a6d2c7",
+        yellow: "#f2cc9e",
+        blue: "#a9bcf3",
+        magenta: "#d2b7ed",
+        cyan: "#9be4e5",
+        white: "#fff1e8"
+    ),
+
+    dim: (
+        black: "#252b48",
+        red: "#cb777d",
+        green: "#83adab",
+        yellow: "#d4ae85",
+        blue: "#799bd6",
+        magenta: "#a894cb",
+        cyan: "#72bfc6",
+        white: "#d5cfd6"
+    ),
+)

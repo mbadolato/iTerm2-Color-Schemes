@@ -1,0 +1,33 @@
+# Colors (Analog Heartbeat)
+
+[colors.bright]
+black = '#62594d'
+blue = '#a8c4d6'
+cyan = '#a1d4c5'
+green = '#b7d36b'
+magenta = '#d0a9bd'
+red = '#e57b73'
+white = '#fff0d6'
+yellow = '#f2c87b'
+
+[colors.cursor]
+cursor = '#f2b35d'
+text = '#211f1c'
+
+[colors.normal]
+black = '#302c27'
+blue = '#839eb2'
+cyan = '#7eafa5'
+green = '#94b26a'
+magenta = '#b28da1'
+red = '#c96f64'
+white = '#d6cbb8'
+yellow = '#d9ac63'
+
+[colors.primary]
+background = '#211f1c'
+foreground = '#e6ddcb'
+
+[colors.selection]
+background = '#454034'
+text = '#6e6b68'

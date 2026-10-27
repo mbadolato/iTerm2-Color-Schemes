@@ -1,0 +1,33 @@
+# Colors (Analog Heartbeat: Phosphor)
+
+[colors.bright]
+black = '#536454'
+blue = '#a0c4ab'
+cyan = '#95d1bb'
+green = '#9ce878'
+magenta = '#c5ac92'
+red = '#d88c73'
+white = '#e7f4d5'
+yellow = '#e9ba69'
+
+[colors.cursor]
+cursor = '#f0bb6d'
+text = '#101c14'
+
+[colors.normal]
+black = '#263128'
+blue = '#7b9c86'
+cyan = '#73a79b'
+green = '#79b95d'
+magenta = '#a28b78'
+red = '#a96757'
+white = '#bfcdb2'
+yellow = '#b8a35b'
+
+[colors.primary]
+background = '#101c14'
+foreground = '#c5e6ac'
+
+[colors.selection]
+background = '#344637'
+text = '#69756d'

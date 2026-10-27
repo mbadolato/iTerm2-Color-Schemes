@@ -1,0 +1,43 @@
+!
+! Neon Raincheck
+!
+*.foreground:  #dce6f5
+*.background:  #101522
+*.cursorColor: #51d9e8
+!
+! Black
+*.color0:      #1c2435
+*.color8:      #4c5871
+!
+! Red
+*.color1:      #e36b8d
+*.color9:      #ff86a5
+!
+! Green
+*.color2:      #70c6ad
+*.color10:     #91e9c9
+!
+! Yellow
+*.color3:      #e2c179
+*.color11:     #f6d894
+!
+! Blue
+*.color4:      #789de8
+*.color12:     #9cb8ff
+!
+! Magenta
+*.color5:      #b58deb
+*.color13:     #d2a9ff
+!
+! Cyan
+*.color6:      #51b9cd
+*.color14:     #77e7f3
+!
+! White
+*.color7:      #c8d4e6
+*.color15:     #f5f8ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #dce6f5
+!*.colorIT:
+!*.colorUL:

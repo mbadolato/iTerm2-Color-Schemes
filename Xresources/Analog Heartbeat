@@ -1,0 +1,43 @@
+!
+! Analog Heartbeat
+!
+*.foreground:  #e6ddcb
+*.background:  #211f1c
+*.cursorColor: #f2b35d
+!
+! Black
+*.color0:      #302c27
+*.color8:      #62594d
+!
+! Red
+*.color1:      #c96f64
+*.color9:      #e57b73
+!
+! Green
+*.color2:      #94b26a
+*.color10:     #b7d36b
+!
+! Yellow
+*.color3:      #d9ac63
+*.color11:     #f2c87b
+!
+! Blue
+*.color4:      #839eb2
+*.color12:     #a8c4d6
+!
+! Magenta
+*.color5:      #b28da1
+*.color13:     #d0a9bd
+!
+! Cyan
+*.color6:      #7eafa5
+*.color14:     #a1d4c5
+!
+! White
+*.color7:      #d6cbb8
+*.color15:     #fff0d6
+!
+! Bold, Italic, Underline
+*.colorBD:     #e6ddcb
+!*.colorIT:
+!*.colorUL:

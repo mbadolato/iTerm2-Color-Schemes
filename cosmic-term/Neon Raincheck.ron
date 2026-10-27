@@ -1,0 +1,41 @@
+(
+    name: "Neon Raincheck",
+    foreground: "#dce6f5",
+    background: "#101522",
+    cursor: "#51d9e8",
+    bright_foreground: "#dce6f5",
+    dim_foreground: "#4c5871",
+
+    normal: (
+        black: "#1c2435",
+        red: "#e36b8d",
+        green: "#70c6ad",
+        yellow: "#e2c179",
+        blue: "#789de8",
+        magenta: "#b58deb",
+        cyan: "#51b9cd",
+        white: "#c8d4e6"
+    ),
+
+    bright: (
+        black: "#4c5871",
+        red: "#ff86a5",
+        green: "#91e9c9",
+        yellow: "#f6d894",
+        blue: "#9cb8ff",
+        magenta: "#d2a9ff",
+        cyan: "#77e7f3",
+        white: "#f5f8ff"
+    ),
+
+    dim: (
+        black: "#1c2435",
+        red: "#e36b8d",
+        green: "#70c6ad",
+        yellow: "#e2c179",
+        blue: "#789de8",
+        magenta: "#b58deb",
+        cyan: "#51b9cd",
+        white: "#c8d4e6"
+    ),
+)

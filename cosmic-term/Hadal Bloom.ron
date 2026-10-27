@@ -1,0 +1,41 @@
+(
+    name: "Hadal Bloom",
+    foreground: "#d6eaf0",
+    background: "#091923",
+    cursor: "#59d9cb",
+    bright_foreground: "#d6eaf0",
+    dim_foreground: "#42606d",
+
+    normal: (
+        black: "#142a35",
+        red: "#d97494",
+        green: "#65bfa7",
+        yellow: "#c7b87c",
+        blue: "#6e9cd6",
+        magenta: "#a995ed",
+        cyan: "#4abfc6",
+        white: "#bfd6df"
+    ),
+
+    bright: (
+        black: "#42606d",
+        red: "#f3a0bc",
+        green: "#87e3c2",
+        yellow: "#e7d89d",
+        blue: "#94bef6",
+        magenta: "#c9b5ff",
+        cyan: "#76eaf0",
+        white: "#f1fcff"
+    ),
+
+    dim: (
+        black: "#142a35",
+        red: "#d97494",
+        green: "#65bfa7",
+        yellow: "#c7b87c",
+        blue: "#6e9cd6",
+        magenta: "#a995ed",
+        cyan: "#4abfc6",
+        white: "#bfd6df"
+    ),
+)

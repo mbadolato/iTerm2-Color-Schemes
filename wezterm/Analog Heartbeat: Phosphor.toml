@@ -1,0 +1,12 @@
+# Analog Heartbeat: Phosphor
+[colors]
+foreground = "#c5e6ac"
+background = "#101c14"
+cursor_bg = "#f0bb6d"
+cursor_border = "#f0bb6d"
+cursor_fg = "#101c14"
+selection_bg = "#344637"
+selection_fg = "#69756d"
+
+ansi = ["#263128","#a96757","#79b95d","#b8a35b","#7b9c86","#a28b78","#73a79b","#bfcdb2"]
+brights = ["#536454","#d88c73","#9ce878","#e9ba69","#a0c4ab","#c5ac92","#95d1bb","#e7f4d5"]

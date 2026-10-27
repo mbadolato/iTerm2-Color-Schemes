@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Hadal Bloom'
+cursor-color='#59d9cb'
+foreground='#d6eaf0'
+background='rgba(9,25,35,.95)'
+palette='#142a35:#d97494:#65bfa7:#c7b87c:#6e9cd6:#a995ed:#4abfc6:#bfd6df:#42606d:#f3a0bc:#87e3c2:#e7d89d:#94bef6:#c9b5ff:#76eaf0:#f1fcff'
+COLORS

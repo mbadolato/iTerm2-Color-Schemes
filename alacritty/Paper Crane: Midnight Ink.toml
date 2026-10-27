@@ -1,0 +1,33 @@
+# Colors (Paper Crane: Midnight Ink)
+
+[colors.bright]
+black = '#607073'
+blue = '#a5bbdb'
+cyan = '#a1d0c8'
+green = '#a2c2a4'
+magenta = '#c7a9c4'
+red = '#dc8977'
+white = '#fff8e8'
+yellow = '#dfc08b'
+
+[colors.cursor]
+cursor = '#d9826b'
+text = '#20272a'
+
+[colors.normal]
+black = '#303a3c'
+blue = '#819cbd'
+cyan = '#79a9a5'
+green = '#7d9e85'
+magenta = '#aa88a7'
+red = '#b9685c'
+white = '#d4d3c9'
+yellow = '#c1a06b'
+
+[colors.primary]
+background = '#20272a'
+foreground = '#e6e2d6'
+
+[colors.selection]
+background = '#3c4b49'
+text = '#6c7376'

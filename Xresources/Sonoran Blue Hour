@@ -1,0 +1,43 @@
+!
+! Sonoran Blue Hour
+!
+*.foreground:  #e9dcd8
+*.background:  #171d35
+*.cursorColor: #f0af94
+!
+! Black
+*.color0:      #252b48
+*.color8:      #555c82
+!
+! Red
+*.color1:      #cb777d
+*.color9:      #ef9b91
+!
+! Green
+*.color2:      #83adab
+*.color10:     #a6d2c7
+!
+! Yellow
+*.color3:      #d4ae85
+*.color11:     #f2cc9e
+!
+! Blue
+*.color4:      #799bd6
+*.color12:     #a9bcf3
+!
+! Magenta
+*.color5:      #a894cb
+*.color13:     #d2b7ed
+!
+! Cyan
+*.color6:      #72bfc6
+*.color14:     #9be4e5
+!
+! White
+*.color7:      #d5cfd6
+*.color15:     #fff1e8
+!
+! Bold, Italic, Underline
+*.colorBD:     #e9dcd8
+!*.colorIT:
+!*.colorUL:

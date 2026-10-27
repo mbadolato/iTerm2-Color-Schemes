@@ -1,0 +1,33 @@
+# Colors (Moss & Ember)
+
+[colors.bright]
+black = '#586a59'
+blue = '#9ebcc0'
+cyan = '#92cec0'
+green = '#a9bd79'
+magenta = '#c8a4b6'
+red = '#e69a75'
+white = '#fff0d6'
+yellow = '#e4c481'
+
+[colors.cursor]
+cursor = '#d98a59'
+text = '#18231f'
+
+[colors.normal]
+black = '#26342c'
+blue = '#799ca0'
+cyan = '#72a69b'
+green = '#829d69'
+magenta = '#ad8a9b'
+red = '#c5755e'
+white = '#d8ceb9'
+yellow = '#c6a667'
+
+[colors.primary]
+background = '#18231f'
+foreground = '#e9ddc6'
+
+[colors.selection]
+background = '#36483a'
+text = '#646f6b'
