@@ -59,6 +59,8 @@ The Ayu and Ayu Light themes were created by [alebcay](https://github.com/alebca
 
 The Ayu Mirage theme was adapted from the [VS Code theme](https://github.com/ayu-theme/vscode-ayu) of the same name.
 
+The Barbenheimer Bunker, Dreamhouse and Nuclear Sunrise themes are based on the [Barbenheimer Zed theme](https://github.com/jayvicsanantonio/barbenheimer-zed-theme) by [Jayvic San Antonio](https://github.com/jayvicsanantonio) and were ported by [JangHyun-bin](https://github.com/JangHyun-bin).
+
 The Batman, Spiderman, and The Hulk themes were created by [pyrophos](https://github.com/pyrophos)
 
 The Belafonte Day, Belafonte Night, Paraiso Dark, and C64 themes were created by [idleberg](https://github.com/idleberg)
