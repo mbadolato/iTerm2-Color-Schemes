@@ -1,0 +1,43 @@
+!
+! Barbenheimer Nuclear Sunrise
+!
+*.foreground:  #ffffff
+*.background:  #0f0f0a
+*.cursorColor: #ff69b4
+!
+! Black
+*.color0:      #0f0f0a
+*.color8:      #eeeeee
+!
+! Red
+*.color1:      #ff69b4
+*.color9:      #ff69b4
+!
+! Green
+*.color2:      #80c0a0
+*.color10:     #80c0a0
+!
+! Yellow
+*.color3:      #c0c080
+*.color11:     #c0c080
+!
+! Blue
+*.color4:      #80a0c0
+*.color12:     #80a0c0
+!
+! Magenta
+*.color5:      #c080c0
+*.color13:     #c080c0
+!
+! Cyan
+*.color6:      #80c0c0
+*.color14:     #80c0c0
+!
+! White
+*.color7:      #d0d0d0
+*.color15:     #e0e0e0
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

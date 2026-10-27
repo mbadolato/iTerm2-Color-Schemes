@@ -176,6 +176,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/banana-blueberry.png)
 
+### Barbenheimer Bunker
+
+![Screenshot](/screenshots/barbenheimer-bunker.png)
+
+### Barbenheimer Nuclear Sunrise
+
+![Screenshot](/screenshots/barbenheimer-nuclear-sunrise.png)
+
 ### Barrel Cactus
 
 ![Screenshot](/screenshots/barrel-cactus.png)
@@ -187,6 +195,10 @@ The screenshots are categorized.
 ### Batman
 
 ![Screenshot](/screenshots/batman.png)
+
+### Bauhaus Dark
+
+![Screenshot](/screenshots/bauhaus-dark.png)
 
 ### Belafonte Night
 
@@ -2681,6 +2693,14 @@ The screenshots are categorized.
 ### Ayu Light
 
 ![Screenshot](/screenshots/ayu-light.png)
+
+### Barbenheimer Dreamhouse
+
+![Screenshot](/screenshots/barbenheimer-dreamhouse.png)
+
+### Bauhaus Light
+
+![Screenshot](/screenshots/bauhaus-light.png)
 
 ### Belafonte Day
 

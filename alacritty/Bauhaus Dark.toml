@@ -1,0 +1,33 @@
+# Colors (Bauhaus Dark)
+
+[colors.bright]
+black = '#9a9a9a'
+blue = '#88adf6'
+cyan = '#38bfbc'
+green = '#9cb855'
+magenta = '#ed86f6'
+red = '#ff8d84'
+white = '#f2f2f2'
+yellow = '#dea301'
+
+[colors.cursor]
+cursor = '#f60529'
+text = '#2b2119'
+
+[colors.normal]
+black = '#574d43'
+blue = '#6689cf'
+cyan = '#099997'
+green = '#79932d'
+magenta = '#c661cf'
+red = '#ff3e42'
+white = '#9a9a9a'
+yellow = '#b18201'
+
+[colors.primary]
+background = '#2b2119'
+foreground = '#f2f2f2'
+
+[colors.selection]
+background = '#2e354a'
+text = '#f2f2f2'

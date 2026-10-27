@@ -1,0 +1,12 @@
+# Barbenheimer Nuclear Sunrise
+[colors]
+foreground = "#ffffff"
+background = "#0f0f0a"
+cursor_bg = "#ff69b4"
+cursor_border = "#ff69b4"
+cursor_fg = "#0f0f0a"
+selection_bg = "#ffffff"
+selection_fg = "#0f0f0a"
+
+ansi = ["#0f0f0a","#ff69b4","#80c0a0","#c0c080","#80a0c0","#c080c0","#80c0c0","#d0d0d0"]
+brights = ["#eeeeee","#ff69b4","#80c0a0","#c0c080","#80a0c0","#c080c0","#80c0c0","#e0e0e0"]

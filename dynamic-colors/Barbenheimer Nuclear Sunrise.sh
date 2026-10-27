@@ -1,0 +1,7 @@
+#!/bin/sh
+# Barbenheimer Nuclear Sunrise
+printf "\033]4;0;#0f0f0a;1;#ff69b4;2;#80c0a0;3;#c0c080;4;#80a0c0;5;#c080c0;6;#80c0c0;7;#d0d0d0;8;#eeeeee;9;#ff69b4;10;#80c0a0;11;#c0c080;12;#80a0c0;13;#c080c0;14;#80c0c0;15;#e0e0e0\007"
+printf "\033]10;#ffffff;#0f0f0a;#ff69b4\007"
+printf "\033]17;#ffffff\007"
+printf "\033]19;#0f0f0a\007"
+printf "\033]5;0;#ffffff\007"

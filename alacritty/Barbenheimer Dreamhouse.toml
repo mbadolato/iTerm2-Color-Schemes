@@ -1,0 +1,33 @@
+# Colors (Barbenheimer Dreamhouse)
+
+[colors.bright]
+black = '#4a443a'
+blue = '#64b5d9'
+cyan = '#609e9a'
+green = '#86b465'
+magenta = '#9b40b4'
+red = '#dc5687'
+white = '#000000'
+yellow = '#d3b363'
+
+[colors.cursor]
+cursor = '#f060a0'
+text = '#fff8f0'
+
+[colors.normal]
+black = '#302820'
+blue = '#7ac1ed'
+cyan = '#80cbc4'
+green = '#9bcc6a'
+magenta = '#ba55d3'
+red = '#f060a0'
+white = '#14140b'
+yellow = '#d1b161'
+
+[colors.primary]
+background = '#fff8f0'
+foreground = '#14140b'
+
+[colors.selection]
+background = '#14140b'
+text = '#fff8f0'

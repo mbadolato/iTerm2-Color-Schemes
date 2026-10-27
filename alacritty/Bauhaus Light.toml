@@ -1,0 +1,33 @@
+# Colors (Bauhaus Light)
+
+[colors.bright]
+black = '#616161'
+blue = '#254283'
+cyan = '#034d4d'
+green = '#3b4b01'
+magenta = '#790d83'
+red = '#8f0113'
+white = '#f5ebe3'
+yellow = '#5a4100'
+
+[colors.cursor]
+cursor = '#9b0015'
+text = '#e5dbd3'
+
+[colors.normal]
+black = '#2b2119'
+blue = '#4060a3'
+cyan = '#036d6c'
+green = '#546903'
+magenta = '#9935a2'
+red = '#c5031f'
+white = '#afa59e'
+yellow = '#7e5c05'
+
+[colors.primary]
+background = '#e5dbd3'
+foreground = '#2b2119'
+
+[colors.selection]
+background = '#c1bdbe'
+text = '#2b2119'

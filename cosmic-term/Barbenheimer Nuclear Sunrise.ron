@@ -1,0 +1,41 @@
+(
+    name: "Barbenheimer Nuclear Sunrise",
+    foreground: "#ffffff",
+    background: "#0f0f0a",
+    cursor: "#ff69b4",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#eeeeee",
+
+    normal: (
+        black: "#0f0f0a",
+        red: "#ff69b4",
+        green: "#80c0a0",
+        yellow: "#c0c080",
+        blue: "#80a0c0",
+        magenta: "#c080c0",
+        cyan: "#80c0c0",
+        white: "#d0d0d0"
+    ),
+
+    bright: (
+        black: "#eeeeee",
+        red: "#ff69b4",
+        green: "#80c0a0",
+        yellow: "#c0c080",
+        blue: "#80a0c0",
+        magenta: "#c080c0",
+        cyan: "#80c0c0",
+        white: "#e0e0e0"
+    ),
+
+    dim: (
+        black: "#0f0f0a",
+        red: "#ff69b4",
+        green: "#80c0a0",
+        yellow: "#c0c080",
+        blue: "#80a0c0",
+        magenta: "#c080c0",
+        cyan: "#80c0c0",
+        white: "#d0d0d0"
+    ),
+)

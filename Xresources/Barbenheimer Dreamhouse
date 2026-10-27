@@ -1,0 +1,43 @@
+!
+! Barbenheimer Dreamhouse
+!
+*.foreground:  #14140b
+*.background:  #fff8f0
+*.cursorColor: #f060a0
+!
+! Black
+*.color0:      #302820
+*.color8:      #4a443a
+!
+! Red
+*.color1:      #f060a0
+*.color9:      #dc5687
+!
+! Green
+*.color2:      #9bcc6a
+*.color10:     #86b465
+!
+! Yellow
+*.color3:      #d1b161
+*.color11:     #d3b363
+!
+! Blue
+*.color4:      #7ac1ed
+*.color12:     #64b5d9
+!
+! Magenta
+*.color5:      #ba55d3
+*.color13:     #9b40b4
+!
+! Cyan
+*.color6:      #80cbc4
+*.color14:     #609e9a
+!
+! White
+*.color7:      #14140b
+*.color15:     #000000
+!
+! Bold, Italic, Underline
+*.colorBD:     #14140b
+!*.colorIT:
+!*.colorUL:
