@@ -1,0 +1,43 @@
+!
+! Bauhaus Light
+!
+*.foreground:  #2b2119
+*.background:  #e5dbd3
+*.cursorColor: #9b0015
+!
+! Black
+*.color0:      #2b2119
+*.color8:      #616161
+!
+! Red
+*.color1:      #c5031f
+*.color9:      #8f0113
+!
+! Green
+*.color2:      #546903
+*.color10:     #3b4b01
+!
+! Yellow
+*.color3:      #7e5c05
+*.color11:     #5a4100
+!
+! Blue
+*.color4:      #4060a3
+*.color12:     #254283
+!
+! Magenta
+*.color5:      #9935a2
+*.color13:     #790d83
+!
+! Cyan
+*.color6:      #036d6c
+*.color14:     #034d4d
+!
+! White
+*.color7:      #afa59e
+*.color15:     #f5ebe3
+!
+! Bold, Italic, Underline
+*.colorBD:     #2b2119
+!*.colorIT:
+!*.colorUL:

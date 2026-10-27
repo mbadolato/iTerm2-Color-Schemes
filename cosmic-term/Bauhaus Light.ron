@@ -1,0 +1,41 @@
+(
+    name: "Bauhaus Light",
+    foreground: "#2b2119",
+    background: "#e5dbd3",
+    cursor: "#9b0015",
+    bright_foreground: "#2b2119",
+    dim_foreground: "#616161",
+
+    normal: (
+        black: "#2b2119",
+        red: "#c5031f",
+        green: "#546903",
+        yellow: "#7e5c05",
+        blue: "#4060a3",
+        magenta: "#9935a2",
+        cyan: "#036d6c",
+        white: "#afa59e"
+    ),
+
+    bright: (
+        black: "#616161",
+        red: "#8f0113",
+        green: "#3b4b01",
+        yellow: "#5a4100",
+        blue: "#254283",
+        magenta: "#790d83",
+        cyan: "#034d4d",
+        white: "#f5ebe3"
+    ),
+
+    dim: (
+        black: "#2b2119",
+        red: "#c5031f",
+        green: "#546903",
+        yellow: "#7e5c05",
+        blue: "#4060a3",
+        magenta: "#9935a2",
+        cyan: "#036d6c",
+        white: "#afa59e"
+    ),
+)

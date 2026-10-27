@@ -420,6 +420,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/batman.png)
 
+### Bauhaus Dark
+
+![Screenshot](/screenshots/bauhaus-dark.png)
+
 ### Belafonte Night
 
 ![Screenshot](/screenshots/belafonte-night.png)
@@ -2913,6 +2917,10 @@ The screenshots are categorized.
 ### Ayu Light
 
 ![Screenshot](/screenshots/ayu-light.png)
+
+### Bauhaus Light
+
+![Screenshot](/screenshots/bauhaus-light.png)
 
 ### Belafonte Day
 

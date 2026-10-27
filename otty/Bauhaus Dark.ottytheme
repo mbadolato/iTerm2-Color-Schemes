@@ -1,0 +1,18 @@
+[meta]
+name = "Bauhaus Dark"
+mode = "dark"
+author = "Damien Seguin (https://github.com/dmnsgn)"
+
+[terminal]
+foreground = "#f2f2f2"
+background = "#2b2119"
+palette = [
+    "#574d43", "#ff3e42", "#79932d", "#b18201",
+    "#6689cf", "#c661cf", "#099997", "#9a9a9a",
+    "#9a9a9a", "#ff8d84", "#9cb855", "#dea301",
+    "#88adf6", "#ed86f6", "#38bfbc", "#f2f2f2",
+]
+cursor = "#f60529"
+cursor-text = "#2b2119"
+selection-background = "#2e354a"
+selection-foreground = "#f2f2f2"
