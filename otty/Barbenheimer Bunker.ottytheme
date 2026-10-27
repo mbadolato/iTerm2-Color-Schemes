@@ -1,0 +1,18 @@
+[meta]
+name = "Barbenheimer Bunker"
+mode = "dark"
+author = "Jayvic San Antonio (https://github.com/jayvicsanantonio/barbenheimer-zed-theme)"
+
+[terminal]
+foreground = "#f2c0d7"
+background = "#14140b"
+palette = [
+    "#14140b", "#f672ac", "#a0e0c0", "#f0e0b0",
+    "#a0c0f0", "#d4a8f9", "#a0e0d0", "#e0e0e0",
+    "#af9f94", "#f672ac", "#a0e0c0", "#f0e0b0",
+    "#a0c0f0", "#d4a8f9", "#a0e0d0", "#e0e0e0",
+]
+cursor = "#f672ac"
+cursor-text = "#14140b"
+selection-background = "#f2c0d7"
+selection-foreground = "#14140b"

@@ -1,0 +1,18 @@
+[meta]
+name = "Barbenheimer Nuclear Sunrise"
+mode = "dark"
+author = "Jayvic San Antonio (https://github.com/jayvicsanantonio/barbenheimer-zed-theme)"
+
+[terminal]
+foreground = "#ffffff"
+background = "#0f0f0a"
+palette = [
+    "#0f0f0a", "#ff69b4", "#80c0a0", "#c0c080",
+    "#80a0c0", "#c080c0", "#80c0c0", "#d0d0d0",
+    "#eeeeee", "#ff69b4", "#80c0a0", "#c0c080",
+    "#80a0c0", "#c080c0", "#80c0c0", "#e0e0e0",
+]
+cursor = "#ff69b4"
+cursor-text = "#0f0f0a"
+selection-background = "#ffffff"
+selection-foreground = "#0f0f0a"

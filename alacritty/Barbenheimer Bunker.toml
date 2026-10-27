@@ -1,0 +1,33 @@
+# Colors (Barbenheimer Bunker)
+
+[colors.bright]
+black = '#af9f94'
+blue = '#a0c0f0'
+cyan = '#a0e0d0'
+green = '#a0e0c0'
+magenta = '#d4a8f9'
+red = '#f672ac'
+white = '#e0e0e0'
+yellow = '#f0e0b0'
+
+[colors.cursor]
+cursor = '#f672ac'
+text = '#14140b'
+
+[colors.normal]
+black = '#14140b'
+blue = '#a0c0f0'
+cyan = '#a0e0d0'
+green = '#a0e0c0'
+magenta = '#d4a8f9'
+red = '#f672ac'
+white = '#e0e0e0'
+yellow = '#f0e0b0'
+
+[colors.primary]
+background = '#14140b'
+foreground = '#f2c0d7'
+
+[colors.selection]
+background = '#f2c0d7'
+text = '#14140b'

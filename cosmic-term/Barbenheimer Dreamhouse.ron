@@ -1,0 +1,41 @@
+(
+    name: "Barbenheimer Dreamhouse",
+    foreground: "#14140b",
+    background: "#fff8f0",
+    cursor: "#f060a0",
+    bright_foreground: "#14140b",
+    dim_foreground: "#4a443a",
+
+    normal: (
+        black: "#302820",
+        red: "#f060a0",
+        green: "#9bcc6a",
+        yellow: "#d1b161",
+        blue: "#7ac1ed",
+        magenta: "#ba55d3",
+        cyan: "#80cbc4",
+        white: "#14140b"
+    ),
+
+    bright: (
+        black: "#4a443a",
+        red: "#dc5687",
+        green: "#86b465",
+        yellow: "#d3b363",
+        blue: "#64b5d9",
+        magenta: "#9b40b4",
+        cyan: "#609e9a",
+        white: "#000000"
+    ),
+
+    dim: (
+        black: "#302820",
+        red: "#f060a0",
+        green: "#9bcc6a",
+        yellow: "#d1b161",
+        blue: "#7ac1ed",
+        magenta: "#ba55d3",
+        cyan: "#80cbc4",
+        white: "#14140b"
+    ),
+)

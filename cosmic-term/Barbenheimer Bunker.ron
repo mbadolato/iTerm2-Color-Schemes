@@ -1,0 +1,41 @@
+(
+    name: "Barbenheimer Bunker",
+    foreground: "#f2c0d7",
+    background: "#14140b",
+    cursor: "#f672ac",
+    bright_foreground: "#f2c0d7",
+    dim_foreground: "#af9f94",
+
+    normal: (
+        black: "#14140b",
+        red: "#f672ac",
+        green: "#a0e0c0",
+        yellow: "#f0e0b0",
+        blue: "#a0c0f0",
+        magenta: "#d4a8f9",
+        cyan: "#a0e0d0",
+        white: "#e0e0e0"
+    ),
+
+    bright: (
+        black: "#af9f94",
+        red: "#f672ac",
+        green: "#a0e0c0",
+        yellow: "#f0e0b0",
+        blue: "#a0c0f0",
+        magenta: "#d4a8f9",
+        cyan: "#a0e0d0",
+        white: "#e0e0e0"
+    ),
+
+    dim: (
+        black: "#14140b",
+        red: "#f672ac",
+        green: "#a0e0c0",
+        yellow: "#f0e0b0",
+        blue: "#a0c0f0",
+        magenta: "#d4a8f9",
+        cyan: "#a0e0d0",
+        white: "#e0e0e0"
+    ),
+)

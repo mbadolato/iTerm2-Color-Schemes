@@ -1,0 +1,33 @@
+# Colors (Barbenheimer Nuclear Sunrise)
+
+[colors.bright]
+black = '#eeeeee'
+blue = '#80a0c0'
+cyan = '#80c0c0'
+green = '#80c0a0'
+magenta = '#c080c0'
+red = '#ff69b4'
+white = '#e0e0e0'
+yellow = '#c0c080'
+
+[colors.cursor]
+cursor = '#ff69b4'
+text = '#0f0f0a'
+
+[colors.normal]
+black = '#0f0f0a'
+blue = '#80a0c0'
+cyan = '#80c0c0'
+green = '#80c0a0'
+magenta = '#c080c0'
+red = '#ff69b4'
+white = '#d0d0d0'
+yellow = '#c0c080'
+
+[colors.primary]
+background = '#0f0f0a'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#ffffff'
+text = '#0f0f0a'

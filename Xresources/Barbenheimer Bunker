@@ -1,0 +1,43 @@
+!
+! Barbenheimer Bunker
+!
+*.foreground:  #f2c0d7
+*.background:  #14140b
+*.cursorColor: #f672ac
+!
+! Black
+*.color0:      #14140b
+*.color8:      #af9f94
+!
+! Red
+*.color1:      #f672ac
+*.color9:      #f672ac
+!
+! Green
+*.color2:      #a0e0c0
+*.color10:     #a0e0c0
+!
+! Yellow
+*.color3:      #f0e0b0
+*.color11:     #f0e0b0
+!
+! Blue
+*.color4:      #a0c0f0
+*.color12:     #a0c0f0
+!
+! Magenta
+*.color5:      #d4a8f9
+*.color13:     #d4a8f9
+!
+! Cyan
+*.color6:      #a0e0d0
+*.color14:     #a0e0d0
+!
+! White
+*.color7:      #e0e0e0
+*.color15:     #e0e0e0
+!
+! Bold, Italic, Underline
+*.colorBD:     #f2c0d7
+!*.colorIT:
+!*.colorUL:
