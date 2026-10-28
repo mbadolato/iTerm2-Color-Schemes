@@ -9,6 +9,8 @@ on:
       - "licenses.yml"
       - "tools/check_licenses.py"
       - "tools/test_check_licenses.py"
+      - "tools/set_license.py"
+      - "tools/test_set_license.py"
       - "tools/gen.py"
   push:
     branches:
@@ -19,6 +21,8 @@ on:
       - "licenses.yml"
       - "tools/check_licenses.py"
       - "tools/test_check_licenses.py"
+      - "tools/set_license.py"
+      - "tools/test_set_license.py"
       - "tools/gen.py"
 
 jobs:
@@ -46,3 +50,6 @@ jobs:
 
       - name: Run check_licenses tests
         run: python tools/test_check_licenses.py
+
+      - name: Run set_license tests
+        run: python tools/test_set_license.py
