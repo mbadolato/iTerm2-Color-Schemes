@@ -438,6 +438,8 @@ The Purple Rain theme was created by [msorre2](https://github.com/msorre2)
 
 The [Raycast](https://raycast.com) Dark/Light themes were created by [thomaspaulmann](https://github.com/thomaspaulmann) and [itsnwa](https://github.com/itsnwa).
 
+The Rainbows and Unicorns themes (Rainbows and Unicorns, Arcade, Den, EGA 85, Mane, Miami, Paper White, Sorbet, VHS and Workbench) were created by [Rod Leviton](https://github.com/rodleviton) for [SparkleBIOS](https://github.com/reactivepixels/sparklebios).
+
 The Rebecca theme was created [vic](https://github.com/vic) based on his [emacs rebecca-theme](https://github.com/vic/rebecca-theme)
 
 The Red Planet theme was created by [ibrokemypie](https://github.com/ibrokemypie) based on [eliquious](https://github.com/eliquious)'s [Red Planet](https://github.com/eliquious/Red-Planet-Theme) Sublime Text theme.
