@@ -167,6 +167,12 @@ Quote names with spaces in shell commands: `python3 tools/gen.py -s "Your Theme 
    - `source` links to where the theme or its licence comes from (use `''` if there is none). An optional `note` can explain anything unusual.
 2. Check the file with `python3 tools/check_licenses.py`. A pull request that adds a theme without an entry fails this check.
 
+Scripts that add, rename or remove themes (such as the daily sync) can keep `licenses.yml` in step with `tools/set_license.py`, which leaves every other entry untouched and keeps the alphabetical order:
+
+- `python3 tools/set_license.py set "Your Theme Name" --license MIT --source https://github.com/you/your-theme`
+- `python3 tools/set_license.py rename "Old Name" "New Name"`
+- `python3 tools/set_license.py remove "Old Name"`
+
 #### Update `CREDITS.md` (optional)
 
 1. Update `CREDITS.md` to credit yourself for your contribution.
