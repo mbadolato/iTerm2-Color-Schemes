@@ -22,7 +22,7 @@ import sys
 
 import yaml
 
-from check_licenses import ALLOWED_LICENSES, LICENSES_PATH, NONFREE, UNKNOWN
+from check_licenses import LICENSES_PATH, NONFREE, UNKNOWN, is_allowed
 
 # an entry starts at a line that is neither indented nor a comment
 ENTRY_START = re.compile(r"(?m)^(?=[^\s#])")
@@ -58,7 +58,7 @@ def join_entries(header: str, entries: dict[str, str]) -> str:
 
 
 def set_entry(entries: dict[str, str], name: str, license_id: str, source: str, note: str | None) -> None:
-    if license_id not in ALLOWED_LICENSES:
+    if not is_allowed(license_id):
         raise ValueError(
             f"license {license_id!r} is not a listed SPDX identifier, {UNKNOWN!r} or {NONFREE!r}"
             " (add new identifiers to SPDX_LICENSES in check_licenses.py)"
