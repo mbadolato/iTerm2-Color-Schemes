@@ -223,16 +223,29 @@
 		<key>Red Component</key>
 		<real>0.0</real>
 	</dict>
+	<key>Badge Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.2314</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.9216</real>
+		<key>Red Component</key>
+		<real>1.0</real>
+	</dict>
 	<key>Bold Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>1.0</real>
+		<real>0.2314</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>1.0</real>
+		<real>0.9216</real>
 		<key>Red Component</key>
 		<real>1.0</real>
 	</dict>
@@ -254,13 +267,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.2314</real>
+		<real>0.149</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.9216</real>
+		<real>0.149</real>
 		<key>Red Component</key>
-		<real>1.0</real>
+		<real>0.149</real>
 	</dict>
 	<key>Cursor Text Color</key>
 	<dict>
@@ -280,19 +293,6 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>1.0</real>
-		<key>Color Space</key>
-		<string>sRGB</string>
-		<key>Green Component</key>
-		<real>1.0</real>
-		<key>Red Component</key>
-		<real>1.0</real>
-	</dict>
-	<key>Selected Text Color</key>
-	<dict>
-		<key>Alpha Component</key>
-		<real>1</real>
-		<key>Blue Component</key>
 		<real>0.2314</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
@@ -301,18 +301,44 @@
 		<key>Red Component</key>
 		<real>1.0</real>
 	</dict>
+	<key>Link Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.9294</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.8941</real>
+		<key>Red Component</key>
+		<real>0.1059</real>
+	</dict>
+	<key>Selected Text Color</key>
+	<dict>
+		<key>Alpha Component</key>
+		<real>1</real>
+		<key>Blue Component</key>
+		<real>0.0</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.0</real>
+		<key>Red Component</key>
+		<real>0.0</real>
+	</dict>
 	<key>Selection Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.3412</real>
+		<real>0.7686</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.1333</real>
+		<real>0.7373</real>
 		<key>Red Component</key>
-		<real>0.0392</real>
+		<real>0.0353</real>
 	</dict>
 </dict>
 </plist>

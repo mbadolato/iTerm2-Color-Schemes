@@ -18,9 +18,9 @@
 #define Badge_Color #f5c400
 #define Bold_Color #ffffff
 #define Cursor_Color #f5c400
-#define Cursor_Guide_Color #1a1a1a
+#define Cursor_Guide_Color #262626
 #define Cursor_Text_Color #000000
 #define Foreground_Color #ffffff
 #define Link_Color #8fd0ff
-#define Selected_Text_Color #ffffff
-#define Selection_Color #0a2552
+#define Selected_Text_Color #000000
+#define Selection_Color #bf96ff

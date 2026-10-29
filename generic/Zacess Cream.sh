@@ -50,8 +50,8 @@ if [ -n "$ITERM_SESSION_ID" ]; then
   put_template_custom Pg "000000"
   put_template_custom Ph "fdf6e3"
   put_template_custom Pi "000000"
-  put_template_custom Pj "f9e79a"
-  put_template_custom Pk "000000"
+  put_template_custom Pj "7401ca"
+  put_template_custom Pk "fdf6e3"
   put_template_custom Pl "000000"
   put_template_custom Pm "fdf6e3"
 else

@@ -1,9 +1,9 @@
 (
     name: "Zacess Yellow on Black",
-    foreground: "#ffffff",
+    foreground: "#ffeb3b",
     background: "#000000",
     cursor: "#ffeb3b",
-    bright_foreground: "#ffffff",
+    bright_foreground: "#ffeb3b",
     dim_foreground: "#c8c8c8",
 
     normal: (
