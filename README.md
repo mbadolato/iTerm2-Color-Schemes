@@ -163,7 +163,7 @@ Quote names with spaces in shell commands: `python3 tools/gen.py -s "Your Theme 
      source: https://github.com/you/your-theme
    ```
 
-   - `license` is an [SPDX identifier](https://spdx.org/licenses/). Use `unknown` if there is no licence and `nonfree` if the licence does not allow redistribution.
+   - `license` is an [SPDX identifier](https://spdx.org/licenses/) or an SPDX expression of them, such as `MIT OR Apache-2.0`. Use `unknown` if there is no licence and `nonfree` if the licence does not allow redistribution.
    - `source` links to where the theme or its licence comes from (use `''` if there is none). An optional `note` can explain anything unusual.
 2. Check the file with `python3 tools/check_licenses.py`. A pull request that adds a theme without an entry fails this check.
 

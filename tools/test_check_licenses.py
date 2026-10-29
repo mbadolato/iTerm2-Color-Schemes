@@ -14,7 +14,7 @@ GEN = TOOLS_PATH / "gen.py"
 if str(TOOLS_PATH) not in sys.path:
     sys.path.insert(0, str(TOOLS_PATH))
 
-from check_licenses import is_redistributable  # noqa: E402
+from check_licenses import is_allowed, is_redistributable  # noqa: E402
 
 VALID_LICENSES = """\
 Alpha:
@@ -88,6 +88,19 @@ class CheckLicensesCliTests(unittest.TestCase):
         self.assertEqual(result.returncode, 1)
         self.assertIn("Alpha: source must be a URL", result.stderr)
         self.assertIn("Beta Two: unexpected key 'author'", result.stderr)
+
+
+class LicenseExpressionTests(unittest.TestCase):
+    def test_expressions_of_listed_identifiers_are_allowed(self) -> None:
+        self.assertTrue(is_allowed("MIT OR Apache-2.0"))
+        self.assertTrue(is_allowed("MIT AND CC0-1.0"))
+        self.assertTrue(is_redistributable({"license": "MIT OR Apache-2.0", "source": ""}))
+
+    def test_expressions_with_an_unlisted_part_are_refused(self) -> None:
+        self.assertFalse(is_allowed("MIT OR Made-Up-1.0"))
+        self.assertFalse(is_allowed("MIT OR"))
+        self.assertFalse(is_allowed("unknown OR MIT"))
+        self.assertFalse(is_redistributable({"license": "unknown", "source": ""}))
 
 
 class RedistributableTests(unittest.TestCase):

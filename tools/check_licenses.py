@@ -5,13 +5,15 @@ usage: check_licenses.py [-h] [--licenses LICENSES] [--schemes-dir SCHEMES_DIR] 
 
 Fails when a scheme has no entry, when an entry names a scheme that does not
 exist or when an entry is malformed. The `license` of an entry must be an
-SPDX identifier from SPDX_LICENSES below, `unknown` or `nonfree`.
+SPDX identifier from SPDX_LICENSES below, an SPDX expression joining them with
+OR or AND (`MIT OR Apache-2.0`), `unknown` or `nonfree`.
 """
 
 from __future__ import annotations
 
 import argparse
 import pathlib
+import re
 import sys
 from typing import Any
 
@@ -87,9 +89,22 @@ def load_licenses(path: pathlib.Path = LICENSES_PATH) -> dict[str, Any]:
     return {str(name): entry for name, entry in data.items()}
 
 
+def is_spdx(license_id: Any) -> bool:
+    """True for a listed SPDX identifier or an SPDX expression of them, such as `MIT OR Apache-2.0`."""
+    if not isinstance(license_id, str):
+        return False
+    parts = re.split(r"\s+(?:OR|AND)\s+", license_id.strip())
+    return all(part in SPDX_LICENSES for part in parts)
+
+
+def is_allowed(license_id: Any) -> bool:
+    """True for anything licenses.yml may record: an SPDX licence or expression, unknown or nonfree."""
+    return license_id in (UNKNOWN, NONFREE) or is_spdx(license_id)
+
+
 def is_redistributable(entry: Any) -> bool:
     """True when the entry names an SPDX licence, so not unknown, nonfree or missing."""
-    return isinstance(entry, dict) and entry.get("license") in SPDX_LICENSES
+    return isinstance(entry, dict) and is_spdx(entry.get("license"))
 
 
 def check(licenses: dict[str, Any], names: set[str]) -> list[str]:
@@ -114,7 +129,7 @@ def check(licenses: dict[str, Any], names: set[str]) -> list[str]:
             errors.append(f"{name}: unexpected key {key!r}")
 
         license_id = entry.get("license")
-        if "license" in entry and license_id not in ALLOWED_LICENSES:
+        if "license" in entry and not is_allowed(license_id):
             errors.append(
                 f"{name}: license {license_id!r} is not a listed SPDX identifier, {UNKNOWN!r} or {NONFREE!r}"
             )
