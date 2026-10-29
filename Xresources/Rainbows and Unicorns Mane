@@ -1,0 +1,43 @@
+!
+! Rainbows and Unicorns Mane
+!
+*.foreground:  #e9e7f2
+*.background:  #14131a
+*.cursorColor: #ffd65a
+!
+! Black
+*.color0:      #24222e
+*.color8:      #6e6a82
+!
+! Red
+*.color1:      #eb413a
+*.color9:      #fa821e
+!
+! Green
+*.color2:      #68c44a
+*.color10:     #8fdb74
+!
+! Yellow
+*.color3:      #fede3c
+*.color11:     #ffe978
+!
+! Blue
+*.color4:      #3092e2
+*.color12:     #62b0f0
+!
+! Magenta
+*.color5:      #b866d6
+*.color13:     #f0a0be
+!
+! Cyan
+*.color6:      #45c8c0
+*.color14:     #7fe0d8
+!
+! White
+*.color7:      #c8cae4
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #e9e7f2
+!*.colorIT:
+!*.colorUL:

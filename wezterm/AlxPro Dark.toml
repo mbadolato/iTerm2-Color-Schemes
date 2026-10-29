@@ -1,0 +1,12 @@
+# AlxPro Dark
+[colors]
+foreground = "#ededed"
+background = "#000000"
+cursor_bg = "#ffffff"
+cursor_border = "#ffffff"
+cursor_fg = "#000000"
+selection_bg = "#19334d"
+selection_fg = "#ededed"
+
+ansi = ["#1f1f1f","#ff6166","#62c073","#f2a20d","#52a8ff","#bf7af0","#0bc6b4","#d4d4d4"]
+brights = ["#8f8f8f","#ff8a8e","#8bd99a","#ffc53d","#8cc8ff","#d6a6f7","#4edbcb","#ffffff"]

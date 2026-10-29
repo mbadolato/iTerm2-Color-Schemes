@@ -1,0 +1,41 @@
+(
+    name: "Rainbows and Unicorns Sorbet",
+    foreground: "#f3e8f5",
+    background: "#241b2f",
+    cursor: "#ff9eb5",
+    bright_foreground: "#f3e8f5",
+    dim_foreground: "#8a789e",
+
+    normal: (
+        black: "#3a2d48",
+        red: "#ff9eb5",
+        green: "#a8e6c3",
+        yellow: "#ffe8a3",
+        blue: "#a7c7ff",
+        magenta: "#d7b3ff",
+        cyan: "#9fe8e6",
+        white: "#e4d6ec"
+    ),
+
+    bright: (
+        black: "#8a789e",
+        red: "#ffbe98",
+        green: "#c6f3d9",
+        yellow: "#fff2c7",
+        blue: "#c7dbff",
+        magenta: "#e8d1ff",
+        cyan: "#c5f4f2",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#3a2d48",
+        red: "#ff9eb5",
+        green: "#a8e6c3",
+        yellow: "#ffe8a3",
+        blue: "#a7c7ff",
+        magenta: "#d7b3ff",
+        cyan: "#9fe8e6",
+        white: "#e4d6ec"
+    ),
+)

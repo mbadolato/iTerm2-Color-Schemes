@@ -1,0 +1,12 @@
+# AlxPro Light
+[colors]
+foreground = "#171717"
+background = "#ffffff"
+cursor_bg = "#000000"
+cursor_border = "#000000"
+cursor_fg = "#ffffff"
+selection_bg = "#d9e8f9"
+selection_fg = "#171717"
+
+ansi = ["#171717","#cb2a2e","#287a3a","#a35200","#0068d6","#781fbb","#08796e","#a1a1a1"]
+brights = ["#666666","#e1292f","#358443","#b45e00","#1072e2","#9d4ddb","#0c8378","#d4d4d4"]

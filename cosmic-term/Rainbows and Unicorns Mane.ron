@@ -1,0 +1,41 @@
+(
+    name: "Rainbows and Unicorns Mane",
+    foreground: "#e9e7f2",
+    background: "#14131a",
+    cursor: "#ffd65a",
+    bright_foreground: "#e9e7f2",
+    dim_foreground: "#6e6a82",
+
+    normal: (
+        black: "#24222e",
+        red: "#eb413a",
+        green: "#68c44a",
+        yellow: "#fede3c",
+        blue: "#3092e2",
+        magenta: "#b866d6",
+        cyan: "#45c8c0",
+        white: "#c8cae4"
+    ),
+
+    bright: (
+        black: "#6e6a82",
+        red: "#fa821e",
+        green: "#8fdb74",
+        yellow: "#ffe978",
+        blue: "#62b0f0",
+        magenta: "#f0a0be",
+        cyan: "#7fe0d8",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#24222e",
+        red: "#eb413a",
+        green: "#68c44a",
+        yellow: "#fede3c",
+        blue: "#3092e2",
+        magenta: "#b866d6",
+        cyan: "#45c8c0",
+        white: "#c8cae4"
+    ),
+)

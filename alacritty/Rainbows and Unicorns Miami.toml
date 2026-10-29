@@ -1,0 +1,33 @@
+# Colors (Rainbows and Unicorns Miami)
+
+[colors.bright]
+black = '#7a6c9c'
+blue = '#a3d2ff'
+cyan = '#8af0e4'
+green = '#a8f7c6'
+magenta = '#ffa3e8'
+red = '#ff9e64'
+white = '#ffffff'
+yellow = '#ffefae'
+
+[colors.cursor]
+cursor = '#ff6fd8'
+text = '#1b1433'
+
+[colors.normal]
+black = '#2a2148'
+blue = '#6fb7ff'
+cyan = '#3fe0d0'
+green = '#7cf0a8'
+magenta = '#ff6fd8'
+red = '#ff5c8a'
+white = '#d9cbe8'
+yellow = '#ffe27a'
+
+[colors.primary]
+background = '#1b1433'
+foreground = '#f9ecf5'
+
+[colors.selection]
+background = '#ff6fd8'
+text = '#1b1433'

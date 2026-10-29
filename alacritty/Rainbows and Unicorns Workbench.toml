@@ -1,0 +1,33 @@
+# Colors (Rainbows and Unicorns Workbench)
+
+[colors.bright]
+black = '#7fa3cf'
+blue = '#c2e4ff'
+cyan = '#bcf5ee'
+green = '#c8f7b6'
+magenta = '#f7cff8'
+red = '#ffb066'
+white = '#ffffff'
+yellow = '#ffe9a6'
+
+[colors.cursor]
+cursor = '#ff8800'
+text = '#00204a'
+
+[colors.normal]
+black = '#000022'
+blue = '#9ad2ff'
+cyan = '#8cece2'
+green = '#a6ee8e'
+magenta = '#f0b0f2'
+red = '#ffa79b'
+white = '#dce6f2'
+yellow = '#ffd978'
+
+[colors.primary]
+background = '#00408f'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#ffffff'
+text = '#00408f'

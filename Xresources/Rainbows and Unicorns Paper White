@@ -1,0 +1,43 @@
+!
+! Rainbows and Unicorns Paper White
+!
+*.foreground:  #1b1b1f
+*.background:  #efede6
+*.cursorColor: #1b1b1f
+!
+! Black
+*.color0:      #1b1b1f
+*.color8:      #8b8a84
+!
+! Red
+*.color1:      #c2272d
+*.color9:      #b04e00
+!
+! Green
+*.color2:      #2f7d1f
+*.color10:     #33851f
+!
+! Yellow
+*.color3:      #8a6100
+*.color11:     #946a00
+!
+! Blue
+*.color4:      #0b6fa6
+*.color12:     #1279b5
+!
+! Magenta
+*.color5:      #8a2f8c
+*.color13:     #a8429f
+!
+! Cyan
+*.color6:      #0b7f78
+*.color14:     #0b807a
+!
+! White
+*.color7:      #5e5d58
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #1b1b1f
+!*.colorIT:
+!*.colorUL:

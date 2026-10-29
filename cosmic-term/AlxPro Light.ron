@@ -1,0 +1,41 @@
+(
+    name: "AlxPro Light",
+    foreground: "#171717",
+    background: "#ffffff",
+    cursor: "#000000",
+    bright_foreground: "#171717",
+    dim_foreground: "#666666",
+
+    normal: (
+        black: "#171717",
+        red: "#cb2a2e",
+        green: "#287a3a",
+        yellow: "#a35200",
+        blue: "#0068d6",
+        magenta: "#781fbb",
+        cyan: "#08796e",
+        white: "#a1a1a1"
+    ),
+
+    bright: (
+        black: "#666666",
+        red: "#e1292f",
+        green: "#358443",
+        yellow: "#b45e00",
+        blue: "#1072e2",
+        magenta: "#9d4ddb",
+        cyan: "#0c8378",
+        white: "#d4d4d4"
+    ),
+
+    dim: (
+        black: "#171717",
+        red: "#cb2a2e",
+        green: "#287a3a",
+        yellow: "#a35200",
+        blue: "#0068d6",
+        magenta: "#781fbb",
+        cyan: "#08796e",
+        white: "#a1a1a1"
+    ),
+)

@@ -1,0 +1,18 @@
+[meta]
+name = "AlxPro Dark"
+mode = "dark"
+author = "Alex Prostamo (https://github.com/al-xpro/alxpro-theme)"
+
+[terminal]
+foreground = "#ededed"
+background = "#000000"
+palette = [
+    "#1f1f1f", "#ff6166", "#62c073", "#f2a20d",
+    "#52a8ff", "#bf7af0", "#0bc6b4", "#d4d4d4",
+    "#8f8f8f", "#ff8a8e", "#8bd99a", "#ffc53d",
+    "#8cc8ff", "#d6a6f7", "#4edbcb", "#ffffff",
+]
+cursor = "#ffffff"
+cursor-text = "#000000"
+selection-background = "#19334d"
+selection-foreground = "#ededed"

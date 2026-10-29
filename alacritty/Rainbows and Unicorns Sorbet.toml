@@ -1,0 +1,33 @@
+# Colors (Rainbows and Unicorns Sorbet)
+
+[colors.bright]
+black = '#8a789e'
+blue = '#c7dbff'
+cyan = '#c5f4f2'
+green = '#c6f3d9'
+magenta = '#e8d1ff'
+red = '#ffbe98'
+white = '#ffffff'
+yellow = '#fff2c7'
+
+[colors.cursor]
+cursor = '#ff9eb5'
+text = '#241b2f'
+
+[colors.normal]
+black = '#3a2d48'
+blue = '#a7c7ff'
+cyan = '#9fe8e6'
+green = '#a8e6c3'
+magenta = '#d7b3ff'
+red = '#ff9eb5'
+white = '#e4d6ec'
+yellow = '#ffe8a3'
+
+[colors.primary]
+background = '#241b2f'
+foreground = '#f3e8f5'
+
+[colors.selection]
+background = '#d7b3ff'
+text = '#241b2f'

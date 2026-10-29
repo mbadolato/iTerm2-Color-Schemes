@@ -1,0 +1,17 @@
+[meta]
+name = "Rainbows and Unicorns"
+mode = "dark"
+
+[terminal]
+foreground = "#e6e3d8"
+background = "#0e0e13"
+palette = [
+    "#23232d", "#e0453f", "#62bb47", "#fcb827",
+    "#1d9be3", "#bb62c0", "#35c9be", "#c9c6bc",
+    "#6f6e7d", "#f5821f", "#8ad46b", "#ffd35c",
+    "#5db9f0", "#d68adb", "#6fddd3", "#fffdf5",
+]
+cursor = "#fcb827"
+cursor-text = "#0e0e13"
+selection-background = "#963d97"
+selection-foreground = "#fffdf5"

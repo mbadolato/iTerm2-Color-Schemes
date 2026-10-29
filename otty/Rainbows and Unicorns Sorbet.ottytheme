@@ -1,0 +1,17 @@
+[meta]
+name = "Rainbows and Unicorns Sorbet"
+mode = "dark"
+
+[terminal]
+foreground = "#f3e8f5"
+background = "#241b2f"
+palette = [
+    "#3a2d48", "#ff9eb5", "#a8e6c3", "#ffe8a3",
+    "#a7c7ff", "#d7b3ff", "#9fe8e6", "#e4d6ec",
+    "#8a789e", "#ffbe98", "#c6f3d9", "#fff2c7",
+    "#c7dbff", "#e8d1ff", "#c5f4f2", "#ffffff",
+]
+cursor = "#ff9eb5"
+cursor-text = "#241b2f"
+selection-background = "#d7b3ff"
+selection-foreground = "#241b2f"

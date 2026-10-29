@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Rainbows and Unicorns Paper White'
+cursor-color='#1b1b1f'
+foreground='#1b1b1f'
+background='rgba(239,237,230,.95)'
+palette='#1b1b1f:#c2272d:#2f7d1f:#8a6100:#0b6fa6:#8a2f8c:#0b7f78:#5e5d58:#8b8a84:#b04e00:#33851f:#946a00:#1279b5:#a8429f:#0b807a:#ffffff'
+COLORS

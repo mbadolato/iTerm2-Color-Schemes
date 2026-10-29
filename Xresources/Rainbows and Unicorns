@@ -1,0 +1,43 @@
+!
+! Rainbows and Unicorns
+!
+*.foreground:  #e6e3d8
+*.background:  #0e0e13
+*.cursorColor: #fcb827
+!
+! Black
+*.color0:      #23232d
+*.color8:      #6f6e7d
+!
+! Red
+*.color1:      #e0453f
+*.color9:      #f5821f
+!
+! Green
+*.color2:      #62bb47
+*.color10:     #8ad46b
+!
+! Yellow
+*.color3:      #fcb827
+*.color11:     #ffd35c
+!
+! Blue
+*.color4:      #1d9be3
+*.color12:     #5db9f0
+!
+! Magenta
+*.color5:      #bb62c0
+*.color13:     #d68adb
+!
+! Cyan
+*.color6:      #35c9be
+*.color14:     #6fddd3
+!
+! White
+*.color7:      #c9c6bc
+*.color15:     #fffdf5
+!
+! Bold, Italic, Underline
+*.colorBD:     #e6e3d8
+!*.colorIT:
+!*.colorUL:

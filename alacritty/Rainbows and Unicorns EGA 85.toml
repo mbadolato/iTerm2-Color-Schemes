@@ -1,0 +1,33 @@
+# Colors (Rainbows and Unicorns EGA 85)
+
+[colors.bright]
+black = '#6a6a72'
+blue = '#7b7bff'
+cyan = '#55ffff'
+green = '#55ff55'
+magenta = '#ff55ff'
+red = '#ff5555'
+white = '#ffffff'
+yellow = '#ffff55'
+
+[colors.cursor]
+cursor = '#aaaaaa'
+text = '#050507'
+
+[colors.normal]
+black = '#1a1a1f'
+blue = '#4a6cf0'
+cyan = '#2bb8b8'
+green = '#2fb84a'
+magenta = '#c24bc2'
+red = '#cc3b3b'
+white = '#aaaaaa'
+yellow = '#c2782e'
+
+[colors.primary]
+background = '#050507'
+foreground = '#aaaaaa'
+
+[colors.selection]
+background = '#aaaaaa'
+text = '#050507'

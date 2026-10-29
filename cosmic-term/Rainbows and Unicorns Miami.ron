@@ -1,0 +1,41 @@
+(
+    name: "Rainbows and Unicorns Miami",
+    foreground: "#f9ecf5",
+    background: "#1b1433",
+    cursor: "#ff6fd8",
+    bright_foreground: "#f9ecf5",
+    dim_foreground: "#7a6c9c",
+
+    normal: (
+        black: "#2a2148",
+        red: "#ff5c8a",
+        green: "#7cf0a8",
+        yellow: "#ffe27a",
+        blue: "#6fb7ff",
+        magenta: "#ff6fd8",
+        cyan: "#3fe0d0",
+        white: "#d9cbe8"
+    ),
+
+    bright: (
+        black: "#7a6c9c",
+        red: "#ff9e64",
+        green: "#a8f7c6",
+        yellow: "#ffefae",
+        blue: "#a3d2ff",
+        magenta: "#ffa3e8",
+        cyan: "#8af0e4",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#2a2148",
+        red: "#ff5c8a",
+        green: "#7cf0a8",
+        yellow: "#ffe27a",
+        blue: "#6fb7ff",
+        magenta: "#ff6fd8",
+        cyan: "#3fe0d0",
+        white: "#d9cbe8"
+    ),
+)

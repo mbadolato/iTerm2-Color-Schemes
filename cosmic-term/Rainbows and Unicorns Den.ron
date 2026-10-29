@@ -1,0 +1,41 @@
+(
+    name: "Rainbows and Unicorns Den",
+    foreground: "#ebd9b8",
+    background: "#1e150d",
+    cursor: "#e0a030",
+    bright_foreground: "#ebd9b8",
+    dim_foreground: "#7d6a50",
+
+    normal: (
+        black: "#2e2115",
+        red: "#d9583b",
+        green: "#9db85c",
+        yellow: "#e0a030",
+        blue: "#6f9fb8",
+        magenta: "#b87a9a",
+        cyan: "#7fb0a0",
+        white: "#cdbb98"
+    ),
+
+    bright: (
+        black: "#7d6a50",
+        red: "#d98036",
+        green: "#bbd47e",
+        yellow: "#f0be5c",
+        blue: "#95bdd2",
+        magenta: "#d29cb8",
+        cyan: "#a2cdbf",
+        white: "#fff3da"
+    ),
+
+    dim: (
+        black: "#2e2115",
+        red: "#d9583b",
+        green: "#9db85c",
+        yellow: "#e0a030",
+        blue: "#6f9fb8",
+        magenta: "#b87a9a",
+        cyan: "#7fb0a0",
+        white: "#cdbb98"
+    ),
+)

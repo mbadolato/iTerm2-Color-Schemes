@@ -1,0 +1,33 @@
+# Colors (Rainbows and Unicorns Arcade)
+
+[colors.bright]
+black = '#6e6e6e'
+blue = '#6fb4ff'
+cyan = '#7af7ff'
+green = '#8cff75'
+magenta = '#ff7df5'
+red = '#ff8a1f'
+white = '#ffffff'
+yellow = '#fff777'
+
+[colors.cursor]
+cursor = '#39ff14'
+text = '#000000'
+
+[colors.normal]
+black = '#1a1a1a'
+blue = '#1f8bff'
+cyan = '#00f0ff'
+green = '#39ff14'
+magenta = '#ff2cf0'
+red = '#ff2a4d'
+white = '#c8c8c8'
+yellow = '#fff01f'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ededed'
+
+[colors.selection]
+background = '#39ff14'
+text = '#000000'

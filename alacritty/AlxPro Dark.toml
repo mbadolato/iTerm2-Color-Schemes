@@ -1,0 +1,33 @@
+# Colors (AlxPro Dark)
+
+[colors.bright]
+black = '#8f8f8f'
+blue = '#8cc8ff'
+cyan = '#4edbcb'
+green = '#8bd99a'
+magenta = '#d6a6f7'
+red = '#ff8a8e'
+white = '#ffffff'
+yellow = '#ffc53d'
+
+[colors.cursor]
+cursor = '#ffffff'
+text = '#000000'
+
+[colors.normal]
+black = '#1f1f1f'
+blue = '#52a8ff'
+cyan = '#0bc6b4'
+green = '#62c073'
+magenta = '#bf7af0'
+red = '#ff6166'
+white = '#d4d4d4'
+yellow = '#f2a20d'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ededed'
+
+[colors.selection]
+background = '#19334d'
+text = '#ededed'

@@ -1,0 +1,43 @@
+!
+! Rainbows and Unicorns Workbench
+!
+*.foreground:  #ffffff
+*.background:  #00408f
+*.cursorColor: #ff8800
+!
+! Black
+*.color0:      #000022
+*.color8:      #7fa3cf
+!
+! Red
+*.color1:      #ffa79b
+*.color9:      #ffb066
+!
+! Green
+*.color2:      #a6ee8e
+*.color10:     #c8f7b6
+!
+! Yellow
+*.color3:      #ffd978
+*.color11:     #ffe9a6
+!
+! Blue
+*.color4:      #9ad2ff
+*.color12:     #c2e4ff
+!
+! Magenta
+*.color5:      #f0b0f2
+*.color13:     #f7cff8
+!
+! Cyan
+*.color6:      #8cece2
+*.color14:     #bcf5ee
+!
+! White
+*.color7:      #dce6f2
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:

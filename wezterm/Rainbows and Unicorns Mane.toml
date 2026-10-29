@@ -1,0 +1,12 @@
+# Rainbows and Unicorns Mane
+[colors]
+foreground = "#e9e7f2"
+background = "#14131a"
+cursor_bg = "#ffd65a"
+cursor_border = "#ffd65a"
+cursor_fg = "#14131a"
+selection_bg = "#9230aa"
+selection_fg = "#ffffff"
+
+ansi = ["#24222e","#eb413a","#68c44a","#fede3c","#3092e2","#b866d6","#45c8c0","#c8cae4"]
+brights = ["#6e6a82","#fa821e","#8fdb74","#ffe978","#62b0f0","#f0a0be","#7fe0d8","#ffffff"]

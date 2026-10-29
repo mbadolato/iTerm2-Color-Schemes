@@ -1,0 +1,43 @@
+!
+! AlxPro Light
+!
+*.foreground:  #171717
+*.background:  #ffffff
+*.cursorColor: #000000
+!
+! Black
+*.color0:      #171717
+*.color8:      #666666
+!
+! Red
+*.color1:      #cb2a2e
+*.color9:      #e1292f
+!
+! Green
+*.color2:      #287a3a
+*.color10:     #358443
+!
+! Yellow
+*.color3:      #a35200
+*.color11:     #b45e00
+!
+! Blue
+*.color4:      #0068d6
+*.color12:     #1072e2
+!
+! Magenta
+*.color5:      #781fbb
+*.color13:     #9d4ddb
+!
+! Cyan
+*.color6:      #08796e
+*.color14:     #0c8378
+!
+! White
+*.color7:      #a1a1a1
+*.color15:     #d4d4d4
+!
+! Bold, Italic, Underline
+*.colorBD:     #171717
+!*.colorIT:
+!*.colorUL:

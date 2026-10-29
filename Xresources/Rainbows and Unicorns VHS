@@ -1,0 +1,43 @@
+!
+! Rainbows and Unicorns VHS
+!
+*.foreground:  #f2ebdd
+*.background:  #101b45
+*.cursorColor: #f2ebdd
+!
+! Black
+*.color0:      #0a1230
+*.color8:      #6f7ba8
+!
+! Red
+*.color1:      #ff6b6b
+*.color9:      #ffa862
+!
+! Green
+*.color2:      #8fe3a0
+*.color10:     #b5f0c1
+!
+! Yellow
+*.color3:      #f7d774
+*.color11:     #fbe6a3
+!
+! Blue
+*.color4:      #7fb2ff
+*.color12:     #abcdff
+!
+! Magenta
+*.color5:      #d59cff
+*.color13:     #e5c2ff
+!
+! Cyan
+*.color6:      #7fe3e0
+*.color14:     #aef0ee
+!
+! White
+*.color7:      #d6d0c2
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f2ebdd
+!*.colorIT:
+!*.colorUL:

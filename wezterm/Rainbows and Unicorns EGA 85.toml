@@ -1,0 +1,12 @@
+# Rainbows and Unicorns EGA 85
+[colors]
+foreground = "#aaaaaa"
+background = "#050507"
+cursor_bg = "#aaaaaa"
+cursor_border = "#aaaaaa"
+cursor_fg = "#050507"
+selection_bg = "#aaaaaa"
+selection_fg = "#050507"
+
+ansi = ["#1a1a1f","#cc3b3b","#2fb84a","#c2782e","#4a6cf0","#c24bc2","#2bb8b8","#aaaaaa"]
+brights = ["#6a6a72","#ff5555","#55ff55","#ffff55","#7b7bff","#ff55ff","#55ffff","#ffffff"]

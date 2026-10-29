@@ -1,0 +1,12 @@
+# Rainbows and Unicorns
+[colors]
+foreground = "#e6e3d8"
+background = "#0e0e13"
+cursor_bg = "#fcb827"
+cursor_border = "#fcb827"
+cursor_fg = "#0e0e13"
+selection_bg = "#963d97"
+selection_fg = "#fffdf5"
+
+ansi = ["#23232d","#e0453f","#62bb47","#fcb827","#1d9be3","#bb62c0","#35c9be","#c9c6bc"]
+brights = ["#6f6e7d","#f5821f","#8ad46b","#ffd35c","#5db9f0","#d68adb","#6fddd3","#fffdf5"]

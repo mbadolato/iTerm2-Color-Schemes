@@ -1,0 +1,43 @@
+!
+! Rainbows and Unicorns Miami
+!
+*.foreground:  #f9ecf5
+*.background:  #1b1433
+*.cursorColor: #ff6fd8
+!
+! Black
+*.color0:      #2a2148
+*.color8:      #7a6c9c
+!
+! Red
+*.color1:      #ff5c8a
+*.color9:      #ff9e64
+!
+! Green
+*.color2:      #7cf0a8
+*.color10:     #a8f7c6
+!
+! Yellow
+*.color3:      #ffe27a
+*.color11:     #ffefae
+!
+! Blue
+*.color4:      #6fb7ff
+*.color12:     #a3d2ff
+!
+! Magenta
+*.color5:      #ff6fd8
+*.color13:     #ffa3e8
+!
+! Cyan
+*.color6:      #3fe0d0
+*.color14:     #8af0e4
+!
+! White
+*.color7:      #d9cbe8
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f9ecf5
+!*.colorIT:
+!*.colorUL:

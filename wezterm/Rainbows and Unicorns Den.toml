@@ -1,0 +1,12 @@
+# Rainbows and Unicorns Den
+[colors]
+foreground = "#ebd9b8"
+background = "#1e150d"
+cursor_bg = "#e0a030"
+cursor_border = "#e0a030"
+cursor_fg = "#1e150d"
+selection_bg = "#e0a030"
+selection_fg = "#1e150d"
+
+ansi = ["#2e2115","#d9583b","#9db85c","#e0a030","#6f9fb8","#b87a9a","#7fb0a0","#cdbb98"]
+brights = ["#7d6a50","#d98036","#bbd47e","#f0be5c","#95bdd2","#d29cb8","#a2cdbf","#fff3da"]

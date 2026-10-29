@@ -1,0 +1,7 @@
+#!/bin/sh
+# AlxPro Dark
+printf "\033]4;0;#1f1f1f;1;#ff6166;2;#62c073;3;#f2a20d;4;#52a8ff;5;#bf7af0;6;#0bc6b4;7;#d4d4d4;8;#8f8f8f;9;#ff8a8e;10;#8bd99a;11;#ffc53d;12;#8cc8ff;13;#d6a6f7;14;#4edbcb;15;#ffffff\007"
+printf "\033]10;#ededed;#000000;#ffffff\007"
+printf "\033]17;#19334d\007"
+printf "\033]19;#ededed\007"
+printf "\033]5;0;#ededed\007"

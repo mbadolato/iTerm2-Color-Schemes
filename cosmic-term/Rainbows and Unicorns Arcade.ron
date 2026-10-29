@@ -1,0 +1,41 @@
+(
+    name: "Rainbows and Unicorns Arcade",
+    foreground: "#ededed",
+    background: "#000000",
+    cursor: "#39ff14",
+    bright_foreground: "#ededed",
+    dim_foreground: "#6e6e6e",
+
+    normal: (
+        black: "#1a1a1a",
+        red: "#ff2a4d",
+        green: "#39ff14",
+        yellow: "#fff01f",
+        blue: "#1f8bff",
+        magenta: "#ff2cf0",
+        cyan: "#00f0ff",
+        white: "#c8c8c8"
+    ),
+
+    bright: (
+        black: "#6e6e6e",
+        red: "#ff8a1f",
+        green: "#8cff75",
+        yellow: "#fff777",
+        blue: "#6fb4ff",
+        magenta: "#ff7df5",
+        cyan: "#7af7ff",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#1a1a1a",
+        red: "#ff2a4d",
+        green: "#39ff14",
+        yellow: "#fff01f",
+        blue: "#1f8bff",
+        magenta: "#ff2cf0",
+        cyan: "#00f0ff",
+        white: "#c8c8c8"
+    ),
+)

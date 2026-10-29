@@ -84,6 +84,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/alien-blood.png)
 
+### AlxPro Dark
+
+![Screenshot](/screenshots/alxpro-dark.png)
+
 ### Amber CRT Retro
 
 ![Screenshot](/screenshots/amber-crt-retro.png)
@@ -1980,6 +1984,42 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/radicalreborn.png)
 
+### Rainbows and Unicorns Arcade
+
+![Screenshot](/screenshots/rainbows-and-unicorns-arcade.png)
+
+### Rainbows and Unicorns Den
+
+![Screenshot](/screenshots/rainbows-and-unicorns-den.png)
+
+### Rainbows and Unicorns EGA 85
+
+![Screenshot](/screenshots/rainbows-and-unicorns-ega-85.png)
+
+### Rainbows and Unicorns Mane
+
+![Screenshot](/screenshots/rainbows-and-unicorns-mane.png)
+
+### Rainbows and Unicorns Miami
+
+![Screenshot](/screenshots/rainbows-and-unicorns-miami.png)
+
+### Rainbows and Unicorns Sorbet
+
+![Screenshot](/screenshots/rainbows-and-unicorns-sorbet.png)
+
+### Rainbows and Unicorns VHS
+
+![Screenshot](/screenshots/rainbows-and-unicorns-vhs.png)
+
+### Rainbows and Unicorns Workbench
+
+![Screenshot](/screenshots/rainbows-and-unicorns-workbench.png)
+
+### Rainbows and Unicorns
+
+![Screenshot](/screenshots/rainbows-and-unicorns.png)
+
 ### Rapture
 
 ![Screenshot](/screenshots/rapture.png)
@@ -2714,6 +2754,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/alabaster.png)
 
+### AlxPro Light
+
+![Screenshot](/screenshots/alxpro-light.png)
+
 ### Analyzed Light
 
 ![Screenshot](/screenshots/analyzed-light.png)
@@ -3265,6 +3309,10 @@ The screenshots are categorized.
 ### Pyrokai Light
 
 ![Screenshot](/screenshots/pyrokai-light.png)
+
+### Rainbows and Unicorns Paper White
+
+![Screenshot](/screenshots/rainbows-and-unicorns-paper-white.png)
 
 ### Raycast Light
 

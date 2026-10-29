@@ -1,0 +1,43 @@
+!
+! Rainbows and Unicorns Arcade
+!
+*.foreground:  #ededed
+*.background:  #000000
+*.cursorColor: #39ff14
+!
+! Black
+*.color0:      #1a1a1a
+*.color8:      #6e6e6e
+!
+! Red
+*.color1:      #ff2a4d
+*.color9:      #ff8a1f
+!
+! Green
+*.color2:      #39ff14
+*.color10:     #8cff75
+!
+! Yellow
+*.color3:      #fff01f
+*.color11:     #fff777
+!
+! Blue
+*.color4:      #1f8bff
+*.color12:     #6fb4ff
+!
+! Magenta
+*.color5:      #ff2cf0
+*.color13:     #ff7df5
+!
+! Cyan
+*.color6:      #00f0ff
+*.color14:     #7af7ff
+!
+! White
+*.color7:      #c8c8c8
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ededed
+!*.colorIT:
+!*.colorUL:

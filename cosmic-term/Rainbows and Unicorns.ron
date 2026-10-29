@@ -1,0 +1,41 @@
+(
+    name: "Rainbows and Unicorns",
+    foreground: "#e6e3d8",
+    background: "#0e0e13",
+    cursor: "#fcb827",
+    bright_foreground: "#e6e3d8",
+    dim_foreground: "#6f6e7d",
+
+    normal: (
+        black: "#23232d",
+        red: "#e0453f",
+        green: "#62bb47",
+        yellow: "#fcb827",
+        blue: "#1d9be3",
+        magenta: "#bb62c0",
+        cyan: "#35c9be",
+        white: "#c9c6bc"
+    ),
+
+    bright: (
+        black: "#6f6e7d",
+        red: "#f5821f",
+        green: "#8ad46b",
+        yellow: "#ffd35c",
+        blue: "#5db9f0",
+        magenta: "#d68adb",
+        cyan: "#6fddd3",
+        white: "#fffdf5"
+    ),
+
+    dim: (
+        black: "#23232d",
+        red: "#e0453f",
+        green: "#62bb47",
+        yellow: "#fcb827",
+        blue: "#1d9be3",
+        magenta: "#bb62c0",
+        cyan: "#35c9be",
+        white: "#c9c6bc"
+    ),
+)

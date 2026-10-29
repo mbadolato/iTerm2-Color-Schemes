@@ -1,0 +1,41 @@
+(
+    name: "Rainbows and Unicorns Workbench",
+    foreground: "#ffffff",
+    background: "#00408f",
+    cursor: "#ff8800",
+    bright_foreground: "#ffffff",
+    dim_foreground: "#7fa3cf",
+
+    normal: (
+        black: "#000022",
+        red: "#ffa79b",
+        green: "#a6ee8e",
+        yellow: "#ffd978",
+        blue: "#9ad2ff",
+        magenta: "#f0b0f2",
+        cyan: "#8cece2",
+        white: "#dce6f2"
+    ),
+
+    bright: (
+        black: "#7fa3cf",
+        red: "#ffb066",
+        green: "#c8f7b6",
+        yellow: "#ffe9a6",
+        blue: "#c2e4ff",
+        magenta: "#f7cff8",
+        cyan: "#bcf5ee",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#000022",
+        red: "#ffa79b",
+        green: "#a6ee8e",
+        yellow: "#ffd978",
+        blue: "#9ad2ff",
+        magenta: "#f0b0f2",
+        cyan: "#8cece2",
+        white: "#dce6f2"
+    ),
+)

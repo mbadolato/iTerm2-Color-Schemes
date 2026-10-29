@@ -1,0 +1,43 @@
+!
+! Rainbows and Unicorns Sorbet
+!
+*.foreground:  #f3e8f5
+*.background:  #241b2f
+*.cursorColor: #ff9eb5
+!
+! Black
+*.color0:      #3a2d48
+*.color8:      #8a789e
+!
+! Red
+*.color1:      #ff9eb5
+*.color9:      #ffbe98
+!
+! Green
+*.color2:      #a8e6c3
+*.color10:     #c6f3d9
+!
+! Yellow
+*.color3:      #ffe8a3
+*.color11:     #fff2c7
+!
+! Blue
+*.color4:      #a7c7ff
+*.color12:     #c7dbff
+!
+! Magenta
+*.color5:      #d7b3ff
+*.color13:     #e8d1ff
+!
+! Cyan
+*.color6:      #9fe8e6
+*.color14:     #c5f4f2
+!
+! White
+*.color7:      #e4d6ec
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #f3e8f5
+!*.colorIT:
+!*.colorUL:

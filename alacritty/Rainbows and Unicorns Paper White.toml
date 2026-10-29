@@ -1,0 +1,33 @@
+# Colors (Rainbows and Unicorns Paper White)
+
+[colors.bright]
+black = '#8b8a84'
+blue = '#1279b5'
+cyan = '#0b807a'
+green = '#33851f'
+magenta = '#a8429f'
+red = '#b04e00'
+white = '#ffffff'
+yellow = '#946a00'
+
+[colors.cursor]
+cursor = '#1b1b1f'
+text = '#efede6'
+
+[colors.normal]
+black = '#1b1b1f'
+blue = '#0b6fa6'
+cyan = '#0b7f78'
+green = '#2f7d1f'
+magenta = '#8a2f8c'
+red = '#c2272d'
+white = '#5e5d58'
+yellow = '#8a6100'
+
+[colors.primary]
+background = '#efede6'
+foreground = '#1b1b1f'
+
+[colors.selection]
+background = '#1b1b1f'
+text = '#efede6'

@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Rainbows and Unicorns VHS'
+cursor-color='#f2ebdd'
+foreground='#f2ebdd'
+background='rgba(16,27,69,.95)'
+palette='#0a1230:#ff6b6b:#8fe3a0:#f7d774:#7fb2ff:#d59cff:#7fe3e0:#d6d0c2:#6f7ba8:#ffa862:#b5f0c1:#fbe6a3:#abcdff:#e5c2ff:#aef0ee:#ffffff'
+COLORS

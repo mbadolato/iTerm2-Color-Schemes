@@ -1,0 +1,12 @@
+# Rainbows and Unicorns Sorbet
+[colors]
+foreground = "#f3e8f5"
+background = "#241b2f"
+cursor_bg = "#ff9eb5"
+cursor_border = "#ff9eb5"
+cursor_fg = "#241b2f"
+selection_bg = "#d7b3ff"
+selection_fg = "#241b2f"
+
+ansi = ["#3a2d48","#ff9eb5","#a8e6c3","#ffe8a3","#a7c7ff","#d7b3ff","#9fe8e6","#e4d6ec"]
+brights = ["#8a789e","#ffbe98","#c6f3d9","#fff2c7","#c7dbff","#e8d1ff","#c5f4f2","#ffffff"]

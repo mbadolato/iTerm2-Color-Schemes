@@ -1,0 +1,33 @@
+# Colors (Rainbows and Unicorns)
+
+[colors.bright]
+black = '#6f6e7d'
+blue = '#5db9f0'
+cyan = '#6fddd3'
+green = '#8ad46b'
+magenta = '#d68adb'
+red = '#f5821f'
+white = '#fffdf5'
+yellow = '#ffd35c'
+
+[colors.cursor]
+cursor = '#fcb827'
+text = '#0e0e13'
+
+[colors.normal]
+black = '#23232d'
+blue = '#1d9be3'
+cyan = '#35c9be'
+green = '#62bb47'
+magenta = '#bb62c0'
+red = '#e0453f'
+white = '#c9c6bc'
+yellow = '#fcb827'
+
+[colors.primary]
+background = '#0e0e13'
+foreground = '#e6e3d8'
+
+[colors.selection]
+background = '#963d97'
+text = '#fffdf5'

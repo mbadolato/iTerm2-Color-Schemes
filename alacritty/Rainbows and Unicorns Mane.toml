@@ -1,0 +1,33 @@
+# Colors (Rainbows and Unicorns Mane)
+
+[colors.bright]
+black = '#6e6a82'
+blue = '#62b0f0'
+cyan = '#7fe0d8'
+green = '#8fdb74'
+magenta = '#f0a0be'
+red = '#fa821e'
+white = '#ffffff'
+yellow = '#ffe978'
+
+[colors.cursor]
+cursor = '#ffd65a'
+text = '#14131a'
+
+[colors.normal]
+black = '#24222e'
+blue = '#3092e2'
+cyan = '#45c8c0'
+green = '#68c44a'
+magenta = '#b866d6'
+red = '#eb413a'
+white = '#c8cae4'
+yellow = '#fede3c'
+
+[colors.primary]
+background = '#14131a'
+foreground = '#e9e7f2'
+
+[colors.selection]
+background = '#9230aa'
+text = '#ffffff'

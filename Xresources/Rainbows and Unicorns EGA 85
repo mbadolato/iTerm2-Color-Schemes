@@ -1,0 +1,43 @@
+!
+! Rainbows and Unicorns EGA 85
+!
+*.foreground:  #aaaaaa
+*.background:  #050507
+*.cursorColor: #aaaaaa
+!
+! Black
+*.color0:      #1a1a1f
+*.color8:      #6a6a72
+!
+! Red
+*.color1:      #cc3b3b
+*.color9:      #ff5555
+!
+! Green
+*.color2:      #2fb84a
+*.color10:     #55ff55
+!
+! Yellow
+*.color3:      #c2782e
+*.color11:     #ffff55
+!
+! Blue
+*.color4:      #4a6cf0
+*.color12:     #7b7bff
+!
+! Magenta
+*.color5:      #c24bc2
+*.color13:     #ff55ff
+!
+! Cyan
+*.color6:      #2bb8b8
+*.color14:     #55ffff
+!
+! White
+*.color7:      #aaaaaa
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #aaaaaa
+!*.colorIT:
+!*.colorUL:

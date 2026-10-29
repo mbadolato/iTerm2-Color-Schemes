@@ -1,0 +1,33 @@
+# Colors (Rainbows and Unicorns Den)
+
+[colors.bright]
+black = '#7d6a50'
+blue = '#95bdd2'
+cyan = '#a2cdbf'
+green = '#bbd47e'
+magenta = '#d29cb8'
+red = '#d98036'
+white = '#fff3da'
+yellow = '#f0be5c'
+
+[colors.cursor]
+cursor = '#e0a030'
+text = '#1e150d'
+
+[colors.normal]
+black = '#2e2115'
+blue = '#6f9fb8'
+cyan = '#7fb0a0'
+green = '#9db85c'
+magenta = '#b87a9a'
+red = '#d9583b'
+white = '#cdbb98'
+yellow = '#e0a030'
+
+[colors.primary]
+background = '#1e150d'
+foreground = '#ebd9b8'
+
+[colors.selection]
+background = '#e0a030'
+text = '#1e150d'
