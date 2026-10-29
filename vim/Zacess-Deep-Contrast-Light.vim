@@ -60,11 +60,11 @@ hi Ignore guifg=#ffffff
 
 " Cursor and line highlighting
 hi Cursor guifg=#ffffff guibg=#000000
-hi CursorLine guibg=#f0f5ff
-hi CursorColumn guibg=#f0f5ff
+hi CursorLine guibg=#990098
+hi CursorColumn guibg=#990098
 
 " Visual selection
-hi Visual guibg=#f0f5ff
+hi Visual guibg=#990098
 
 " Search highlighting
 hi Search guibg=#907300 guifg=#ffffff
@@ -80,12 +80,12 @@ hi StatusLineNC guifg=#404040 guibg=#ffffff
 
 " Tab line
 hi TabLine guifg=#404040 guibg=#ffffff
-hi TabLineSel guifg=#000000 guibg=#f0f5ff
+hi TabLineSel guifg=#000000 guibg=#990098
 hi TabLineFill guibg=#ffffff
 
 " Popup menu
 hi Pmenu guifg=#000000 guibg=#404040
-hi PmenuSel guifg=#ffffff guibg=#f0f5ff
+hi PmenuSel guifg=#ffffff guibg=#990098
 hi PmenuSbar guibg=#404040
 hi PmenuThumb guibg=#000000
 

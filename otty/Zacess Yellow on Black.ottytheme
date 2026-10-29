@@ -3,7 +3,7 @@ name = "Zacess Yellow on Black"
 mode = "dark"
 
 [terminal]
-foreground = "#ffffff"
+foreground = "#ffeb3b"
 background = "#000000"
 palette = [
     "#a3a3a3", "#ffa79b", "#01dc3f", "#edb618",
@@ -13,5 +13,5 @@ palette = [
 ]
 cursor = "#ffeb3b"
 cursor-text = "#000000"
-selection-background = "#0a2257"
-selection-foreground = "#ffeb3b"
+selection-background = "#09bcc4"
+selection-foreground = "#000000"

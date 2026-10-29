@@ -11,7 +11,7 @@ endif
 let g:colors_name = "Zacess-Yellow-on-Black"
 
 " Normal colors
-hi Normal guifg=#ffffff guibg=#000000
+hi Normal guifg=#ffeb3b guibg=#000000
 
 " Syntax highlighting groups
 hi Comment guifg=#c8c8c8
@@ -60,11 +60,11 @@ hi Ignore guifg=#000000
 
 " Cursor and line highlighting
 hi Cursor guifg=#000000 guibg=#ffeb3b
-hi CursorLine guibg=#0a2257
-hi CursorColumn guibg=#0a2257
+hi CursorLine guibg=#09bcc4
+hi CursorColumn guibg=#09bcc4
 
 " Visual selection
-hi Visual guibg=#0a2257
+hi Visual guibg=#09bcc4
 
 " Search highlighting
 hi Search guibg=#ffda8a guifg=#000000
@@ -72,22 +72,22 @@ hi IncSearch guibg=#ffda8a guifg=#000000
 
 " Line numbers
 hi LineNr guifg=#c8c8c8
-hi CursorLineNr guifg=#ffffff
+hi CursorLineNr guifg=#ffeb3b
 
 " Status line
-hi StatusLine guifg=#ffffff guibg=#c8c8c8
+hi StatusLine guifg=#ffeb3b guibg=#c8c8c8
 hi StatusLineNC guifg=#c8c8c8 guibg=#000000
 
 " Tab line
 hi TabLine guifg=#c8c8c8 guibg=#000000
-hi TabLineSel guifg=#ffffff guibg=#0a2257
+hi TabLineSel guifg=#ffeb3b guibg=#09bcc4
 hi TabLineFill guibg=#000000
 
 " Popup menu
-hi Pmenu guifg=#ffffff guibg=#c8c8c8
-hi PmenuSel guifg=#000000 guibg=#0a2257
+hi Pmenu guifg=#ffeb3b guibg=#c8c8c8
+hi PmenuSel guifg=#000000 guibg=#09bcc4
 hi PmenuSbar guibg=#c8c8c8
-hi PmenuThumb guibg=#ffffff
+hi PmenuThumb guibg=#ffeb3b
 
 " Diff highlighting
 hi DiffAdd guibg=#01dc3f
