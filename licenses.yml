@@ -1433,6 +1433,9 @@ Kitty Default:
 Kitty Low Contrast:
   license: GPL-3.0-only
   source: https://github.com/kovidgoyal/kitty
+KIZZ:
+  license: MIT
+  source: 'https://terminalthemes.com/themes/kizz'
 Klein Void:
   license: unknown
   source: ''
@@ -3008,9 +3011,8 @@ Vaporwave Sunset:
   source: ''
   note: 'Not covered by the research in #638.'
 Vaughn:
-  license: unknown
-  source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/bc8e60f289245bd9291f1c8e6278065c3d1fd2af
-  note: Renamed from "Xavier" to "Vaughn"
+  license: MIT
+  source: 'https://terminalthemes.com/themes/vaughn'
 Velvet Court:
   license: unknown
   source: ''
