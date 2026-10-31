@@ -965,3 +965,7 @@ The Paper Crane: Midnight Ink theme was created by [Mark Badolato](https://termi
 The Sonoran Afterglow theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Sonoran Blue Hour theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The KIZZ theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Vaughn theme was created by [Mark Badolato](https://github.com/mbadolato).
