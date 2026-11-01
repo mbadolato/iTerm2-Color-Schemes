@@ -1,0 +1,33 @@
+# Colors (Edge Light)
+
+[colors.bright]
+black = '#afb8c2'
+blue = '#6996e0'
+cyan = '#5dbbc1'
+green = '#76af6f'
+magenta = '#bf75d6'
+red = '#e17373'
+white = '#7e869b'
+yellow = '#deb974'
+
+[colors.cursor]
+cursor = '#3a8b84'
+text = '#fafafa'
+
+[colors.normal]
+black = '#fafafa'
+blue = '#5079be'
+cyan = '#3a8b84'
+green = '#608e32'
+magenta = '#b05ccc'
+red = '#d05858'
+white = '#8790a0'
+yellow = '#be7e05'
+
+[colors.primary]
+background = '#fafafa'
+foreground = '#4b505b'
+
+[colors.selection]
+background = '#e3eaf6'
+text = '#45505b'
