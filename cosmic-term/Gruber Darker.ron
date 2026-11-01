@@ -1,41 +1,41 @@
 (
     name: "Gruber Darker",
-    foreground: "#e4e4e4",
+    foreground: "#e4e4ef",
     background: "#181818",
-    cursor: "#ffdb00",
-    bright_foreground: "#e4e4e4",
-    dim_foreground: "#54494e",
+    cursor: "#ffdd33",
+    bright_foreground: "#e4e4ef",
+    dim_foreground: "#52494e",
 
     normal: (
         black: "#181818",
-        red: "#ff0a36",
-        green: "#42dc00",
-        yellow: "#ffdb00",
-        blue: "#92a7cb",
-        magenta: "#a095cb",
-        cyan: "#90aa9e",
-        white: "#e4e4e4"
+        red: "#f43841",
+        green: "#73c936",
+        yellow: "#ffdd33",
+        blue: "#96a6c8",
+        magenta: "#9e95c7",
+        cyan: "#95a99f",
+        white: "#e4e4ef"
     ),
 
     bright: (
-        black: "#54494e",
-        red: "#ff3851",
-        green: "#42dc00",
-        yellow: "#ffdb00",
-        blue: "#92a7cb",
-        magenta: "#afafda",
-        cyan: "#90aa9e",
+        black: "#52494e",
+        red: "#ff4f58",
+        green: "#73c936",
+        yellow: "#ffdd33",
+        blue: "#96a6c8",
+        magenta: "#afafd7",
+        cyan: "#95a99f",
         white: "#f5f5f5"
     ),
 
     dim: (
         black: "#181818",
-        red: "#ff0a36",
-        green: "#42dc00",
-        yellow: "#ffdb00",
-        blue: "#92a7cb",
-        magenta: "#a095cb",
-        cyan: "#90aa9e",
-        white: "#e4e4e4"
+        red: "#f43841",
+        green: "#73c936",
+        yellow: "#ffdd33",
+        blue: "#96a6c8",
+        magenta: "#9e95c7",
+        cyan: "#95a99f",
+        white: "#e4e4ef"
     ),
 )
