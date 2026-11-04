@@ -1,0 +1,43 @@
+!
+! Wasteland Terminal
+!
+*.foreground:  #18ff62
+*.background:  #050b05
+*.cursorColor: #39ff72
+!
+! Black
+*.color0:      #050b05
+*.color8:      #2c6b3f
+!
+! Red
+*.color1:      #26b34f
+*.color9:      #3fd068
+!
+! Green
+*.color2:      #18ff62
+*.color10:     #5cff8f
+!
+! Yellow
+*.color3:      #a1d64b
+*.color11:     #c4ee70
+!
+! Blue
+*.color4:      #3e9b67
+*.color12:     #56bd84
+!
+! Magenta
+*.color5:      #64b879
+*.color13:     #84d69a
+!
+! Cyan
+*.color6:      #60e899
+*.color14:     #8cf5b8
+!
+! White
+*.color7:      #b5ffc5
+*.color15:     #e0ffe6
+!
+! Bold, Italic, Underline
+*.colorBD:     #18ff62
+!*.colorIT:
+!*.colorUL:

@@ -1,0 +1,41 @@
+(
+    name: "Wasteland Terminal",
+    foreground: "#18ff62",
+    background: "#050b05",
+    cursor: "#39ff72",
+    bright_foreground: "#18ff62",
+    dim_foreground: "#2c6b3f",
+
+    normal: (
+        black: "#050b05",
+        red: "#26b34f",
+        green: "#18ff62",
+        yellow: "#a1d64b",
+        blue: "#3e9b67",
+        magenta: "#64b879",
+        cyan: "#60e899",
+        white: "#b5ffc5"
+    ),
+
+    bright: (
+        black: "#2c6b3f",
+        red: "#3fd068",
+        green: "#5cff8f",
+        yellow: "#c4ee70",
+        blue: "#56bd84",
+        magenta: "#84d69a",
+        cyan: "#8cf5b8",
+        white: "#e0ffe6"
+    ),
+
+    dim: (
+        black: "#050b05",
+        red: "#26b34f",
+        green: "#18ff62",
+        yellow: "#a1d64b",
+        blue: "#3e9b67",
+        magenta: "#64b879",
+        cyan: "#60e899",
+        white: "#b5ffc5"
+    ),
+)

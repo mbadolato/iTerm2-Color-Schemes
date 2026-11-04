@@ -1,0 +1,17 @@
+[meta]
+name = "Wasteland Terminal"
+mode = "dark"
+
+[terminal]
+foreground = "#18ff62"
+background = "#050b05"
+palette = [
+    "#050b05", "#26b34f", "#18ff62", "#a1d64b",
+    "#3e9b67", "#64b879", "#60e899", "#b5ffc5",
+    "#2c6b3f", "#3fd068", "#5cff8f", "#c4ee70",
+    "#56bd84", "#84d69a", "#8cf5b8", "#e0ffe6",
+]
+cursor = "#39ff72"
+cursor-text = "#050b05"
+selection-background = "#1a4d27"
+selection-foreground = "#e0ffe6"
