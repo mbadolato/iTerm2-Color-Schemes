@@ -2400,6 +2400,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/sugarplum.png)
 
+### Sumi Ink
+
+![Screenshot](/screenshots/sumi-ink.png)
+
 ### Sumi Phosphor
 
 ![Screenshot](/screenshots/sumi-phosphor.png)
@@ -2929,6 +2933,10 @@ The screenshots are categorized.
 ### Earl Grey
 
 ![Screenshot](/screenshots/earl-grey.png)
+
+### Edge Light
+
+![Screenshot](/screenshots/edge-light.png)
 
 ### Electron Highlighter Day
 

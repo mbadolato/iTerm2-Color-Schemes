@@ -1,0 +1,41 @@
+(
+    name: "Sumi Ink",
+    foreground: "#e6dcc6",
+    background: "#1e1b18",
+    cursor: "#a3362a",
+    bright_foreground: "#e6dcc6",
+    dim_foreground: "#7a7166",
+
+    normal: (
+        black: "#3a342e",
+        red: "#c0503f",
+        green: "#7f9a6a",
+        yellow: "#c9a45c",
+        blue: "#6f86a8",
+        magenta: "#a66b86",
+        cyan: "#6fa39a",
+        white: "#d8ccb4"
+    ),
+
+    bright: (
+        black: "#7a7166",
+        red: "#d8705e",
+        green: "#9cb585",
+        yellow: "#dcbd7a",
+        blue: "#8ea2c0",
+        magenta: "#c08aa2",
+        cyan: "#8fbdb3",
+        white: "#efe5d1"
+    ),
+
+    dim: (
+        black: "#3a342e",
+        red: "#c0503f",
+        green: "#7f9a6a",
+        yellow: "#c9a45c",
+        blue: "#6f86a8",
+        magenta: "#a66b86",
+        cyan: "#6fa39a",
+        white: "#d8ccb4"
+    ),
+)

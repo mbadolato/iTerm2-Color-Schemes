@@ -1,0 +1,43 @@
+!
+! Sumi Ink
+!
+*.foreground:  #e6dcc6
+*.background:  #1e1b18
+*.cursorColor: #a3362a
+!
+! Black
+*.color0:      #3a342e
+*.color8:      #7a7166
+!
+! Red
+*.color1:      #c0503f
+*.color9:      #d8705e
+!
+! Green
+*.color2:      #7f9a6a
+*.color10:     #9cb585
+!
+! Yellow
+*.color3:      #c9a45c
+*.color11:     #dcbd7a
+!
+! Blue
+*.color4:      #6f86a8
+*.color12:     #8ea2c0
+!
+! Magenta
+*.color5:      #a66b86
+*.color13:     #c08aa2
+!
+! Cyan
+*.color6:      #6fa39a
+*.color14:     #8fbdb3
+!
+! White
+*.color7:      #d8ccb4
+*.color15:     #efe5d1
+!
+! Bold, Italic, Underline
+*.colorBD:     #e6dcc6
+!*.colorIT:
+!*.colorUL:

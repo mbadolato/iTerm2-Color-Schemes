@@ -1,0 +1,41 @@
+(
+    name: "Edge Light",
+    foreground: "#4b505b",
+    background: "#fafafa",
+    cursor: "#3a8b84",
+    bright_foreground: "#4b505b",
+    dim_foreground: "#afb8c2",
+
+    normal: (
+        black: "#fafafa",
+        red: "#d05858",
+        green: "#608e32",
+        yellow: "#be7e05",
+        blue: "#5079be",
+        magenta: "#b05ccc",
+        cyan: "#3a8b84",
+        white: "#8790a0"
+    ),
+
+    bright: (
+        black: "#afb8c2",
+        red: "#e17373",
+        green: "#76af6f",
+        yellow: "#deb974",
+        blue: "#6996e0",
+        magenta: "#bf75d6",
+        cyan: "#5dbbc1",
+        white: "#7e869b"
+    ),
+
+    dim: (
+        black: "#fafafa",
+        red: "#d05858",
+        green: "#608e32",
+        yellow: "#be7e05",
+        blue: "#5079be",
+        magenta: "#b05ccc",
+        cyan: "#3a8b84",
+        white: "#8790a0"
+    ),
+)

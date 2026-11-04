@@ -500,6 +500,8 @@ The theme Subliminal was created by [gdsrosa](https://github.com/gdsrosa/sublimi
 
 The theme Sugarplum was created by [lemonlime0x3C33](https://github.com/lemonlime0x3C33/iTerm2-Color-Schemes-Sugarplum)
 
+The Sumi Ink theme was created by [EldinBegano](https://github.com/EldinBegano); it also ships ports for yazi, fzf, delta and oh-my-posh in [sumi-ink](https://github.com/EldinBegano/sumi-ink).
+
 The Sunset Drive theme was created by [tahayvr](https://github.com/tahayvr)
 
 The scheme Symfonic was inspired by the color scheme used in the [documentation](http://symfony.com/doc/current/book/index.html) for the [Symfony](http://www.symfony.com) PHP Framework.
@@ -965,3 +967,15 @@ The Paper Crane: Midnight Ink theme was created by [Mark Badolato](https://termi
 The Sonoran Afterglow theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Sonoran Blue Hour theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The KIZZ theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Vaughn theme was created by [Mark Badolato](https://github.com/mbadolato).
+
+The All-Nighter theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Numix Dark theme was created by [Tom Hardy](https://terminalthemes.com/users/01M6G8VVMHJBGX9E7F7NM54JF8).
+
+The Numix Light theme was created by [Tom Hardy](https://terminalthemes.com/users/01M6G8VVMHJBGX9E7F7NM54JF8).
+
+The Tideglass theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).

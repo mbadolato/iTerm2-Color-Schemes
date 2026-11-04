@@ -1,0 +1,29 @@
+# Edge light theme ported from https://github.com/sainnhe/edge
+name: "Edge Light"
+variant: "light"
+license: MIT
+
+color_01: "#fafafa"
+color_02: "#d05858"
+color_03: "#608e32"
+color_04: "#be7e05"
+color_05: "#5079be"
+color_06: "#b05ccc"
+color_07: "#3a8b84"
+color_08: "#8790a0"
+
+color_09: "#bcc5cf"
+color_10: "#e17373"
+color_11: "#76af6f"
+color_12: "#deb974"
+color_13: "#6996e0"
+color_14: "#bf75d6"
+color_15: "#5dBBC1"
+color_16: "#7e869B"
+
+background: "#fafafa"
+foreground: "#4b505b"
+cursor: "#3a8b84"
+cursor_text: "#fafafa"
+selection: "#e3eaf6"
+selection_text: "#45505B"
