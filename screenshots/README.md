@@ -2372,6 +2372,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/sugarplum.png)
 
+### Sumi Ink
+
+![Screenshot](/screenshots/sumi-ink.png)
+
 ### Sumi Phosphor
 
 ![Screenshot](/screenshots/sumi-phosphor.png)
