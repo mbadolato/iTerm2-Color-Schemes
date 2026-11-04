@@ -1,0 +1,41 @@
+(
+    name: "Saffron Nightfall",
+    foreground: "#d9d4c8",
+    background: "#131320",
+    cursor: "#ffc247",
+    bright_foreground: "#d9d4c8",
+    dim_foreground: "#625f72",
+
+    normal: (
+        black: "#1e1e30",
+        red: "#e0705f",
+        green: "#9cb56b",
+        yellow: "#ffc247",
+        blue: "#7d8fd0",
+        magenta: "#bb87c0",
+        cyan: "#76b7ad",
+        white: "#b7b2a5"
+    ),
+
+    bright: (
+        black: "#625f72",
+        red: "#ee8b7a",
+        green: "#b6cc87",
+        yellow: "#ffd36e",
+        blue: "#98a9e0",
+        magenta: "#d0a3d3",
+        cyan: "#93cfc5",
+        white: "#f1ecdf"
+    ),
+
+    dim: (
+        black: "#1e1e30",
+        red: "#e0705f",
+        green: "#9cb56b",
+        yellow: "#ffc247",
+        blue: "#7d8fd0",
+        magenta: "#bb87c0",
+        cyan: "#76b7ad",
+        white: "#b7b2a5"
+    ),
+)

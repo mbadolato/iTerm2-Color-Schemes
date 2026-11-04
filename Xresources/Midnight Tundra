@@ -1,0 +1,43 @@
+!
+! Midnight Tundra
+!
+*.foreground:  #c9d4de
+*.background:  #0e141b
+*.cursorColor: #8fb8d8
+!
+! Black
+*.color0:      #17202a
+*.color8:      #4f6272
+!
+! Red
+*.color1:      #d9707c
+*.color9:      #e88a95
+!
+! Green
+*.color2:      #7fb88a
+*.color10:     #99cfa3
+!
+! Yellow
+*.color3:      #d8b174
+*.color11:     #e8c88f
+!
+! Blue
+*.color4:      #6da3cf
+*.color12:     #8abde4
+!
+! Magenta
+*.color5:      #a58cc7
+*.color13:     #bda6dd
+!
+! Cyan
+*.color6:      #6fb5b8
+*.color14:     #8cced0
+!
+! White
+*.color7:      #aebccb
+*.color15:     #e6eef5
+!
+! Bold, Italic, Underline
+*.colorBD:     #c9d4de
+!*.colorIT:
+!*.colorUL:

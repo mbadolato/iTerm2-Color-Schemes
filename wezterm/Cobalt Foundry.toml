@@ -1,0 +1,12 @@
+# Cobalt Foundry
+[colors]
+foreground = "#c2cedb"
+background = "#10151c"
+cursor_bg = "#4fa8ff"
+cursor_border = "#4fa8ff"
+cursor_fg = "#10151c"
+selection_bg = "#1f3a5c"
+selection_fg = "#e2eaf2"
+
+ansi = ["#1a2129","#e57373","#81b366","#d4a95f","#4f95e0","#9d85cf","#56b3c4","#a2b0be"]
+brights = ["#56626f","#ef8f8f","#9cc983","#e5c07e","#74aeec","#b5a0e0","#78cbda","#e2eaf2"]

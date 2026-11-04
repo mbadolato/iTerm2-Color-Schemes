@@ -1,0 +1,33 @@
+# Colors (Midnight Tundra)
+
+[colors.bright]
+black = '#4f6272'
+blue = '#8abde4'
+cyan = '#8cced0'
+green = '#99cfa3'
+magenta = '#bda6dd'
+red = '#e88a95'
+white = '#e6eef5'
+yellow = '#e8c88f'
+
+[colors.cursor]
+cursor = '#8fb8d8'
+text = '#0e141b'
+
+[colors.normal]
+black = '#17202a'
+blue = '#6da3cf'
+cyan = '#6fb5b8'
+green = '#7fb88a'
+magenta = '#a58cc7'
+red = '#d9707c'
+white = '#aebccb'
+yellow = '#d8b174'
+
+[colors.primary]
+background = '#0e141b'
+foreground = '#c9d4de'
+
+[colors.selection]
+background = '#24384a'
+text = '#e6eef5'

@@ -1,0 +1,12 @@
+# Static Noir
+[colors]
+foreground = "#ededed"
+background = "#0a0a0a"
+cursor_bg = "#ff3b30"
+cursor_border = "#ff3b30"
+cursor_fg = "#0a0a0a"
+selection_bg = "#333333"
+selection_fg = "#ffffff"
+
+ansi = ["#1a1a1a","#ff4d42","#9fd08a","#e6c15c","#7fb2e8","#d093d0","#74cfd1","#c9c9c9"]
+brights = ["#666666","#ff6e64","#b7e2a3","#f2d47c","#9dc7f2","#e0aede","#93e1e2","#ffffff"]

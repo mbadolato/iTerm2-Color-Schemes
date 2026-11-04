@@ -1,0 +1,17 @@
+[meta]
+name = "Neon Arcade"
+mode = "dark"
+
+[terminal]
+foreground = "#d8dcf0"
+background = "#0d0d15"
+palette = [
+    "#1a1a28", "#ff5370", "#3ddc97", "#ffd166",
+    "#4f9cff", "#c774ff", "#2fd6e0", "#b8bcd8",
+    "#5c5e78", "#ff7a92", "#6ceeb4", "#ffe08a",
+    "#7cb6ff", "#da9bff", "#63e6ee", "#f0f2ff",
+]
+cursor = "#ff4fd8"
+cursor-text = "#0d0d15"
+selection-background = "#2c2c4a"
+selection-foreground = "#f0f2ff"

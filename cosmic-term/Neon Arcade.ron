@@ -1,0 +1,41 @@
+(
+    name: "Neon Arcade",
+    foreground: "#d8dcf0",
+    background: "#0d0d15",
+    cursor: "#ff4fd8",
+    bright_foreground: "#d8dcf0",
+    dim_foreground: "#5c5e78",
+
+    normal: (
+        black: "#1a1a28",
+        red: "#ff5370",
+        green: "#3ddc97",
+        yellow: "#ffd166",
+        blue: "#4f9cff",
+        magenta: "#c774ff",
+        cyan: "#2fd6e0",
+        white: "#b8bcd8"
+    ),
+
+    bright: (
+        black: "#5c5e78",
+        red: "#ff7a92",
+        green: "#6ceeb4",
+        yellow: "#ffe08a",
+        blue: "#7cb6ff",
+        magenta: "#da9bff",
+        cyan: "#63e6ee",
+        white: "#f0f2ff"
+    ),
+
+    dim: (
+        black: "#1a1a28",
+        red: "#ff5370",
+        green: "#3ddc97",
+        yellow: "#ffd166",
+        blue: "#4f9cff",
+        magenta: "#c774ff",
+        cyan: "#2fd6e0",
+        white: "#b8bcd8"
+    ),
+)

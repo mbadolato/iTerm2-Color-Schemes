@@ -1,0 +1,43 @@
+!
+! Neon Arcade
+!
+*.foreground:  #d8dcf0
+*.background:  #0d0d15
+*.cursorColor: #ff4fd8
+!
+! Black
+*.color0:      #1a1a28
+*.color8:      #5c5e78
+!
+! Red
+*.color1:      #ff5370
+*.color9:      #ff7a92
+!
+! Green
+*.color2:      #3ddc97
+*.color10:     #6ceeb4
+!
+! Yellow
+*.color3:      #ffd166
+*.color11:     #ffe08a
+!
+! Blue
+*.color4:      #4f9cff
+*.color12:     #7cb6ff
+!
+! Magenta
+*.color5:      #c774ff
+*.color13:     #da9bff
+!
+! Cyan
+*.color6:      #2fd6e0
+*.color14:     #63e6ee
+!
+! White
+*.color7:      #b8bcd8
+*.color15:     #f0f2ff
+!
+! Bold, Italic, Underline
+*.colorBD:     #d8dcf0
+!*.colorIT:
+!*.colorUL:

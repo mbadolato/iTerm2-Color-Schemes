@@ -1,0 +1,43 @@
+!
+! Static Noir
+!
+*.foreground:  #ededed
+*.background:  #0a0a0a
+*.cursorColor: #ff3b30
+!
+! Black
+*.color0:      #1a1a1a
+*.color8:      #666666
+!
+! Red
+*.color1:      #ff4d42
+*.color9:      #ff6e64
+!
+! Green
+*.color2:      #9fd08a
+*.color10:     #b7e2a3
+!
+! Yellow
+*.color3:      #e6c15c
+*.color11:     #f2d47c
+!
+! Blue
+*.color4:      #7fb2e8
+*.color12:     #9dc7f2
+!
+! Magenta
+*.color5:      #d093d0
+*.color13:     #e0aede
+!
+! Cyan
+*.color6:      #74cfd1
+*.color14:     #93e1e2
+!
+! White
+*.color7:      #c9c9c9
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #ededed
+!*.colorIT:
+!*.colorUL:

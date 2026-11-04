@@ -1,0 +1,41 @@
+(
+    name: "Merino Light",
+    foreground: "#1f2328",
+    background: "#ffffff",
+    cursor: "#0969da",
+    bright_foreground: "#1f2328",
+    dim_foreground: "#57606a",
+
+    normal: (
+        black: "#24292f",
+        red: "#cf222e",
+        green: "#116329",
+        yellow: "#9d5c00",
+        blue: "#0969da",
+        magenta: "#8250df",
+        cyan: "#1b7c83",
+        white: "#6e7781"
+    ),
+
+    bright: (
+        black: "#57606a",
+        red: "#a40e26",
+        green: "#1a7f37",
+        yellow: "#c47a00",
+        blue: "#218bff",
+        magenta: "#a475f9",
+        cyan: "#3192aa",
+        white: "#8c959f"
+    ),
+
+    dim: (
+        black: "#24292f",
+        red: "#cf222e",
+        green: "#116329",
+        yellow: "#9d5c00",
+        blue: "#0969da",
+        magenta: "#8250df",
+        cyan: "#1b7c83",
+        white: "#6e7781"
+    ),
+)

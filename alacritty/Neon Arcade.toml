@@ -1,0 +1,33 @@
+# Colors (Neon Arcade)
+
+[colors.bright]
+black = '#5c5e78'
+blue = '#7cb6ff'
+cyan = '#63e6ee'
+green = '#6ceeb4'
+magenta = '#da9bff'
+red = '#ff7a92'
+white = '#f0f2ff'
+yellow = '#ffe08a'
+
+[colors.cursor]
+cursor = '#ff4fd8'
+text = '#0d0d15'
+
+[colors.normal]
+black = '#1a1a28'
+blue = '#4f9cff'
+cyan = '#2fd6e0'
+green = '#3ddc97'
+magenta = '#c774ff'
+red = '#ff5370'
+white = '#b8bcd8'
+yellow = '#ffd166'
+
+[colors.primary]
+background = '#0d0d15'
+foreground = '#d8dcf0'
+
+[colors.selection]
+background = '#2c2c4a'
+text = '#f0f2ff'

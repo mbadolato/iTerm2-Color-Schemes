@@ -1,0 +1,33 @@
+# Colors (Petrol Lagoon)
+
+[colors.bright]
+black = '#4d6467'
+blue = '#7db8d8'
+cyan = '#66d9cd'
+green = '#8adaa8'
+magenta = '#b5a7dd'
+red = '#ec8f88'
+white = '#dfeeee'
+yellow = '#e2c985'
+
+[colors.cursor]
+cursor = '#35d0c0'
+text = '#0c1618'
+
+[colors.normal]
+black = '#152325'
+blue = '#5b9fc4'
+cyan = '#3fc4b7'
+green = '#6cc48e'
+magenta = '#9d8ccc'
+red = '#e0736e'
+white = '#a0b8b8'
+yellow = '#d1b366'
+
+[colors.primary]
+background = '#0c1618'
+foreground = '#c2d8d8'
+
+[colors.selection]
+background = '#17393d'
+text = '#dfeeee'

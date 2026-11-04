@@ -1,0 +1,43 @@
+!
+! Saffron Nightfall
+!
+*.foreground:  #d9d4c8
+*.background:  #131320
+*.cursorColor: #ffc247
+!
+! Black
+*.color0:      #1e1e30
+*.color8:      #625f72
+!
+! Red
+*.color1:      #e0705f
+*.color9:      #ee8b7a
+!
+! Green
+*.color2:      #9cb56b
+*.color10:     #b6cc87
+!
+! Yellow
+*.color3:      #ffc247
+*.color11:     #ffd36e
+!
+! Blue
+*.color4:      #7d8fd0
+*.color12:     #98a9e0
+!
+! Magenta
+*.color5:      #bb87c0
+*.color13:     #d0a3d3
+!
+! Cyan
+*.color6:      #76b7ad
+*.color14:     #93cfc5
+!
+! White
+*.color7:      #b7b2a5
+*.color15:     #f1ecdf
+!
+! Bold, Italic, Underline
+*.colorBD:     #d9d4c8
+!*.colorIT:
+!*.colorUL:

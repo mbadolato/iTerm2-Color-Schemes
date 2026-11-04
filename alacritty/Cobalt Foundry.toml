@@ -1,0 +1,33 @@
+# Colors (Cobalt Foundry)
+
+[colors.bright]
+black = '#56626f'
+blue = '#74aeec'
+cyan = '#78cbda'
+green = '#9cc983'
+magenta = '#b5a0e0'
+red = '#ef8f8f'
+white = '#e2eaf2'
+yellow = '#e5c07e'
+
+[colors.cursor]
+cursor = '#4fa8ff'
+text = '#10151c'
+
+[colors.normal]
+black = '#1a2129'
+blue = '#4f95e0'
+cyan = '#56b3c4'
+green = '#81b366'
+magenta = '#9d85cf'
+red = '#e57373'
+white = '#a2b0be'
+yellow = '#d4a95f'
+
+[colors.primary]
+background = '#10151c'
+foreground = '#c2cedb'
+
+[colors.selection]
+background = '#1f3a5c'
+text = '#e2eaf2'

@@ -1,0 +1,33 @@
+# Colors (Glacier Mint)
+
+[colors.bright]
+black = '#6c837c'
+blue = '#5190cc'
+cyan = '#32ada6'
+green = '#4aa971'
+magenta = '#9e6ec1'
+red = '#d76458'
+white = '#fbfffd'
+yellow = '#bb9830'
+
+[colors.cursor]
+cursor = '#2aa88a'
+text = '#f0f9f6'
+
+[colors.normal]
+black = '#2f4640'
+blue = '#3f7ab8'
+cyan = '#26948e'
+green = '#3d9060'
+magenta = '#8858ab'
+red = '#c05045'
+white = '#acc2ba'
+yellow = '#a48224'
+
+[colors.primary]
+background = '#f0f9f6'
+foreground = '#2f4640'
+
+[colors.selection]
+background = '#c6ebdd'
+text = '#2f4640'

@@ -1,0 +1,41 @@
+(
+    name: "Petrol Lagoon",
+    foreground: "#c2d8d8",
+    background: "#0c1618",
+    cursor: "#35d0c0",
+    bright_foreground: "#c2d8d8",
+    dim_foreground: "#4d6467",
+
+    normal: (
+        black: "#152325",
+        red: "#e0736e",
+        green: "#6cc48e",
+        yellow: "#d1b366",
+        blue: "#5b9fc4",
+        magenta: "#9d8ccc",
+        cyan: "#3fc4b7",
+        white: "#a0b8b8"
+    ),
+
+    bright: (
+        black: "#4d6467",
+        red: "#ec8f88",
+        green: "#8adaa8",
+        yellow: "#e2c985",
+        blue: "#7db8d8",
+        magenta: "#b5a7dd",
+        cyan: "#66d9cd",
+        white: "#dfeeee"
+    ),
+
+    dim: (
+        black: "#152325",
+        red: "#e0736e",
+        green: "#6cc48e",
+        yellow: "#d1b366",
+        blue: "#5b9fc4",
+        magenta: "#9d8ccc",
+        cyan: "#3fc4b7",
+        white: "#a0b8b8"
+    ),
+)

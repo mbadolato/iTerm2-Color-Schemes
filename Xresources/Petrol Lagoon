@@ -1,0 +1,43 @@
+!
+! Petrol Lagoon
+!
+*.foreground:  #c2d8d8
+*.background:  #0c1618
+*.cursorColor: #35d0c0
+!
+! Black
+*.color0:      #152325
+*.color8:      #4d6467
+!
+! Red
+*.color1:      #e0736e
+*.color9:      #ec8f88
+!
+! Green
+*.color2:      #6cc48e
+*.color10:     #8adaa8
+!
+! Yellow
+*.color3:      #d1b366
+*.color11:     #e2c985
+!
+! Blue
+*.color4:      #5b9fc4
+*.color12:     #7db8d8
+!
+! Magenta
+*.color5:      #9d8ccc
+*.color13:     #b5a7dd
+!
+! Cyan
+*.color6:      #3fc4b7
+*.color14:     #66d9cd
+!
+! White
+*.color7:      #a0b8b8
+*.color15:     #dfeeee
+!
+! Bold, Italic, Underline
+*.colorBD:     #c2d8d8
+!*.colorIT:
+!*.colorUL:

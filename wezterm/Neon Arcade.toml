@@ -1,0 +1,12 @@
+# Neon Arcade
+[colors]
+foreground = "#d8dcf0"
+background = "#0d0d15"
+cursor_bg = "#ff4fd8"
+cursor_border = "#ff4fd8"
+cursor_fg = "#0d0d15"
+selection_bg = "#2c2c4a"
+selection_fg = "#f0f2ff"
+
+ansi = ["#1a1a28","#ff5370","#3ddc97","#ffd166","#4f9cff","#c774ff","#2fd6e0","#b8bcd8"]
+brights = ["#5c5e78","#ff7a92","#6ceeb4","#ffe08a","#7cb6ff","#da9bff","#63e6ee","#f0f2ff"]

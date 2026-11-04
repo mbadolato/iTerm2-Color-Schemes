@@ -1,0 +1,41 @@
+(
+    name: "Newsprint Fog",
+    foreground: "#333331",
+    background: "#f2f2f0",
+    cursor: "#b3402e",
+    bright_foreground: "#333331",
+    dim_foreground: "#78786f",
+
+    normal: (
+        black: "#333331",
+        red: "#b3402e",
+        green: "#5d7f52",
+        yellow: "#987921",
+        blue: "#4f6d94",
+        magenta: "#85607f",
+        cyan: "#4d7f7c",
+        white: "#d5d5d0"
+    ),
+
+    bright: (
+        black: "#78786f",
+        red: "#cc4f3b",
+        green: "#6f9562",
+        yellow: "#af8e2c",
+        blue: "#6182ab",
+        magenta: "#9b7494",
+        cyan: "#5e9692",
+        white: "#fdfdfb"
+    ),
+
+    dim: (
+        black: "#333331",
+        red: "#b3402e",
+        green: "#5d7f52",
+        yellow: "#987921",
+        blue: "#4f6d94",
+        magenta: "#85607f",
+        cyan: "#4d7f7c",
+        white: "#d5d5d0"
+    ),
+)
