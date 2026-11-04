@@ -967,3 +967,11 @@ The Paper Crane: Midnight Ink theme was created by [Mark Badolato](https://termi
 The Sonoran Afterglow theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Sonoran Blue Hour theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The All-Nighter theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Numix Dark theme was created by [Tom Hardy](https://terminalthemes.com/users/01M6G8VVMHJBGX9E7F7NM54JF8).
+
+The Numix Light theme was created by [Tom Hardy](https://terminalthemes.com/users/01M6G8VVMHJBGX9E7F7NM54JF8).
+
+The Tideglass theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
