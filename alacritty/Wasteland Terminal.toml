@@ -1,0 +1,33 @@
+# Colors (Wasteland Terminal)
+
+[colors.bright]
+black = '#2c6b3f'
+blue = '#56bd84'
+cyan = '#8cf5b8'
+green = '#5cff8f'
+magenta = '#84d69a'
+red = '#3fd068'
+white = '#e0ffe6'
+yellow = '#c4ee70'
+
+[colors.cursor]
+cursor = '#39ff72'
+text = '#050b05'
+
+[colors.normal]
+black = '#050b05'
+blue = '#3e9b67'
+cyan = '#60e899'
+green = '#18ff62'
+magenta = '#64b879'
+red = '#26b34f'
+white = '#b5ffc5'
+yellow = '#a1d64b'
+
+[colors.primary]
+background = '#050b05'
+foreground = '#18ff62'
+
+[colors.selection]
+background = '#1a4d27'
+text = '#e0ffe6'
