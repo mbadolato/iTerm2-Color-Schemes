@@ -1,0 +1,12 @@
+# Edge Light
+[colors]
+foreground = "#4b505b"
+background = "#fafafa"
+cursor_bg = "#3a8b84"
+cursor_border = "#3a8b84"
+cursor_fg = "#fafafa"
+selection_bg = "#e3eaf6"
+selection_fg = "#45505b"
+
+ansi = ["#fafafa","#d05858","#608e32","#be7e05","#5079be","#b05ccc","#3a8b84","#8790a0"]
+brights = ["#afb8c2","#e17373","#76af6f","#deb974","#6996e0","#bf75d6","#5dbbc1","#7e869b"]

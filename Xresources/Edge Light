@@ -1,0 +1,43 @@
+!
+! Edge Light
+!
+*.foreground:  #4b505b
+*.background:  #fafafa
+*.cursorColor: #3a8b84
+!
+! Black
+*.color0:      #fafafa
+*.color8:      #afb8c2
+!
+! Red
+*.color1:      #d05858
+*.color9:      #e17373
+!
+! Green
+*.color2:      #608e32
+*.color10:     #76af6f
+!
+! Yellow
+*.color3:      #be7e05
+*.color11:     #deb974
+!
+! Blue
+*.color4:      #5079be
+*.color12:     #6996e0
+!
+! Magenta
+*.color5:      #b05ccc
+*.color13:     #bf75d6
+!
+! Cyan
+*.color6:      #3a8b84
+*.color14:     #5dbbc1
+!
+! White
+*.color7:      #8790a0
+*.color15:     #7e869b
+!
+! Bold, Italic, Underline
+*.colorBD:     #4b505b
+!*.colorIT:
+!*.colorUL:
