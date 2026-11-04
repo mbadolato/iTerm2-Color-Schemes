@@ -1,0 +1,41 @@
+(
+    name: "Static Noir",
+    foreground: "#ededed",
+    background: "#0a0a0a",
+    cursor: "#ff3b30",
+    bright_foreground: "#ededed",
+    dim_foreground: "#666666",
+
+    normal: (
+        black: "#1a1a1a",
+        red: "#ff4d42",
+        green: "#9fd08a",
+        yellow: "#e6c15c",
+        blue: "#7fb2e8",
+        magenta: "#d093d0",
+        cyan: "#74cfd1",
+        white: "#c9c9c9"
+    ),
+
+    bright: (
+        black: "#666666",
+        red: "#ff6e64",
+        green: "#b7e2a3",
+        yellow: "#f2d47c",
+        blue: "#9dc7f2",
+        magenta: "#e0aede",
+        cyan: "#93e1e2",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#1a1a1a",
+        red: "#ff4d42",
+        green: "#9fd08a",
+        yellow: "#e6c15c",
+        blue: "#7fb2e8",
+        magenta: "#d093d0",
+        cyan: "#74cfd1",
+        white: "#c9c9c9"
+    ),
+)

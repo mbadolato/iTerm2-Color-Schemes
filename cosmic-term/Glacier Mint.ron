@@ -1,0 +1,41 @@
+(
+    name: "Glacier Mint",
+    foreground: "#2f4640",
+    background: "#f0f9f6",
+    cursor: "#2aa88a",
+    bright_foreground: "#2f4640",
+    dim_foreground: "#6c837c",
+
+    normal: (
+        black: "#2f4640",
+        red: "#c05045",
+        green: "#3d9060",
+        yellow: "#a48224",
+        blue: "#3f7ab8",
+        magenta: "#8858ab",
+        cyan: "#26948e",
+        white: "#acc2ba"
+    ),
+
+    bright: (
+        black: "#6c837c",
+        red: "#d76458",
+        green: "#4aa971",
+        yellow: "#bb9830",
+        blue: "#5190cc",
+        magenta: "#9e6ec1",
+        cyan: "#32ada6",
+        white: "#fbfffd"
+    ),
+
+    dim: (
+        black: "#2f4640",
+        red: "#c05045",
+        green: "#3d9060",
+        yellow: "#a48224",
+        blue: "#3f7ab8",
+        magenta: "#8858ab",
+        cyan: "#26948e",
+        white: "#acc2ba"
+    ),
+)

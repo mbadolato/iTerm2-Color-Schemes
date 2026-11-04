@@ -1,0 +1,43 @@
+!
+! Alpine Milk
+!
+*.foreground:  #333940
+*.background:  #fafafa
+*.cursorColor: #4a90d9
+!
+! Black
+*.color0:      #333940
+*.color8:      #757d86
+!
+! Red
+*.color1:      #c94f46
+*.color9:      #e0655b
+!
+! Green
+*.color2:      #4a9256
+*.color10:     #58ab66
+!
+! Yellow
+*.color3:      #b28422
+*.color11:     #c9982e
+!
+! Blue
+*.color4:      #3d7cc9
+*.color12:     #5292dd
+!
+! Magenta
+*.color5:      #8a5fb0
+*.color13:     #a075c6
+!
+! Cyan
+*.color6:      #2e8fa0
+*.color14:     #3ba6b8
+!
+! White
+*.color7:      #b1b4b8
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #333940
+!*.colorIT:
+!*.colorUL:

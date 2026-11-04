@@ -1,0 +1,33 @@
+# Colors (Alpine Milk)
+
+[colors.bright]
+black = '#757d86'
+blue = '#5292dd'
+cyan = '#3ba6b8'
+green = '#58ab66'
+magenta = '#a075c6'
+red = '#e0655b'
+white = '#ffffff'
+yellow = '#c9982e'
+
+[colors.cursor]
+cursor = '#4a90d9'
+text = '#ffffff'
+
+[colors.normal]
+black = '#333940'
+blue = '#3d7cc9'
+cyan = '#2e8fa0'
+green = '#4a9256'
+magenta = '#8a5fb0'
+red = '#c94f46'
+white = '#b1b4b8'
+yellow = '#b28422'
+
+[colors.primary]
+background = '#fafafa'
+foreground = '#333940'
+
+[colors.selection]
+background = '#d6e6f7'
+text = '#333940'

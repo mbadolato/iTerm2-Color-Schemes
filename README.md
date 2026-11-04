@@ -682,6 +682,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/clu.png)
 
+### Cobalt Foundry
+
+![Screenshot](/screenshots/cobalt-foundry.png)
+
 ### Cobalt Neon
 
 ![Screenshot](/screenshots/cobalt-neon.png)
@@ -1686,6 +1690,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/mellow.png)
 
+### Merino Dark
+
+![Screenshot](/screenshots/merino-dark.png)
+
 ### Mesa Blue
 
 ![Screenshot](/screenshots/mesa-blue.png)
@@ -1717,6 +1725,10 @@ The screenshots are categorized.
 ### Midnight Rambler
 
 ![Screenshot](/screenshots/midnight-rambler.png)
+
+### Midnight Tundra
+
+![Screenshot](/screenshots/midnight-tundra.png)
 
 ### Mindcrime
 
@@ -1845,6 +1857,10 @@ The screenshots are categorized.
 ### Neon Analog
 
 ![Screenshot](/screenshots/neon-analog.png)
+
+### Neon Arcade
+
+![Screenshot](/screenshots/neon-arcade.png)
 
 ### Neon Purple
 
@@ -2110,6 +2126,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/petrified.png)
 
+### Petrol Lagoon
+
+![Screenshot](/screenshots/petrol-lagoon.png)
+
 ### Phala Green Dark
 
 ![Screenshot](/screenshots/phala-green-dark.png)
@@ -2341,6 +2361,10 @@ The screenshots are categorized.
 ### Ryuuko
 
 ![Screenshot](/screenshots/ryuuko.png)
+
+### Saffron Nightfall
+
+![Screenshot](/screenshots/saffron-nightfall.png)
 
 ### Saguaro
 
@@ -2597,6 +2621,10 @@ The screenshots are categorized.
 ### Starlight
 
 ![Screenshot](/screenshots/starlight.png)
+
+### Static Noir
+
+![Screenshot](/screenshots/static-noir.png)
 
 ### Sublette
 
@@ -2996,6 +3024,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/alabaster.png)
 
+### Alpine Milk
+
+![Screenshot](/screenshots/alpine-milk.png)
+
 ### AlxPro Light
 
 ![Screenshot](/screenshots/alxpro-light.png)
@@ -3195,6 +3227,10 @@ The screenshots are categorized.
 ### GitLab Light
 
 ![Screenshot](/screenshots/gitlab-light.png)
+
+### Glacier Mint
+
+![Screenshot](/screenshots/glacier-mint.png)
 
 ### Golden Mischief
 
@@ -3416,6 +3452,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/melange-light.png)
 
+### Merino Light
+
+![Screenshot](/screenshots/merino-light.png)
+
 ### Modus Operandi Deuteranopia
 
 ![Screenshot](/screenshots/modus-operandi-deuteranopia.png)
@@ -3455,6 +3495,10 @@ The screenshots are categorized.
 ### Nephrite Mint
 
 ![Screenshot](/screenshots/nephrite-mint.png)
+
+### Newsprint Fog
+
+![Screenshot](/screenshots/newsprint-fog.png)
 
 ### Night Owlish Light
 

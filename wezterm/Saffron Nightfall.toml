@@ -1,0 +1,12 @@
+# Saffron Nightfall
+[colors]
+foreground = "#d9d4c8"
+background = "#131320"
+cursor_bg = "#ffc247"
+cursor_border = "#ffc247"
+cursor_fg = "#131320"
+selection_bg = "#33324e"
+selection_fg = "#f1ecdf"
+
+ansi = ["#1e1e30","#e0705f","#9cb56b","#ffc247","#7d8fd0","#bb87c0","#76b7ad","#b7b2a5"]
+brights = ["#625f72","#ee8b7a","#b6cc87","#ffd36e","#98a9e0","#d0a3d3","#93cfc5","#f1ecdf"]

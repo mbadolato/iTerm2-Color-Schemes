@@ -1,0 +1,43 @@
+!
+! Cobalt Foundry
+!
+*.foreground:  #c2cedb
+*.background:  #10151c
+*.cursorColor: #4fa8ff
+!
+! Black
+*.color0:      #1a2129
+*.color8:      #56626f
+!
+! Red
+*.color1:      #e57373
+*.color9:      #ef8f8f
+!
+! Green
+*.color2:      #81b366
+*.color10:     #9cc983
+!
+! Yellow
+*.color3:      #d4a95f
+*.color11:     #e5c07e
+!
+! Blue
+*.color4:      #4f95e0
+*.color12:     #74aeec
+!
+! Magenta
+*.color5:      #9d85cf
+*.color13:     #b5a0e0
+!
+! Cyan
+*.color6:      #56b3c4
+*.color14:     #78cbda
+!
+! White
+*.color7:      #a2b0be
+*.color15:     #e2eaf2
+!
+! Bold, Italic, Underline
+*.colorBD:     #c2cedb
+!*.colorIT:
+!*.colorUL:

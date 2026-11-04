@@ -1,0 +1,33 @@
+# Colors (Newsprint Fog)
+
+[colors.bright]
+black = '#78786f'
+blue = '#6182ab'
+cyan = '#5e9692'
+green = '#6f9562'
+magenta = '#9b7494'
+red = '#cc4f3b'
+white = '#fdfdfb'
+yellow = '#af8e2c'
+
+[colors.cursor]
+cursor = '#b3402e'
+text = '#f2f2f0'
+
+[colors.normal]
+black = '#333331'
+blue = '#4f6d94'
+cyan = '#4d7f7c'
+green = '#5d7f52'
+magenta = '#85607f'
+red = '#b3402e'
+white = '#d5d5d0'
+yellow = '#987921'
+
+[colors.primary]
+background = '#f2f2f0'
+foreground = '#333331'
+
+[colors.selection]
+background = '#ddddd6'
+text = '#333331'

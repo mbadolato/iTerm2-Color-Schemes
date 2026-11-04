@@ -1,0 +1,9 @@
+#!/bin/bash
+dconf load /org/pantheon/terminal/settings/ <<COLORS
+[/]
+name='Petrol Lagoon'
+cursor-color='#35d0c0'
+foreground='#c2d8d8'
+background='rgba(12,22,24,.95)'
+palette='#152325:#e0736e:#6cc48e:#d1b366:#5b9fc4:#9d8ccc:#3fc4b7:#a0b8b8:#4d6467:#ec8f88:#8adaa8:#e2c985:#7db8d8:#b5a7dd:#66d9cd:#dfeeee'
+COLORS

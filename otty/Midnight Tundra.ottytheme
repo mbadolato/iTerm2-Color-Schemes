@@ -1,0 +1,17 @@
+[meta]
+name = "Midnight Tundra"
+mode = "dark"
+
+[terminal]
+foreground = "#c9d4de"
+background = "#0e141b"
+palette = [
+    "#17202a", "#d9707c", "#7fb88a", "#d8b174",
+    "#6da3cf", "#a58cc7", "#6fb5b8", "#aebccb",
+    "#4f6272", "#e88a95", "#99cfa3", "#e8c88f",
+    "#8abde4", "#bda6dd", "#8cced0", "#e6eef5",
+]
+cursor = "#8fb8d8"
+cursor-text = "#0e141b"
+selection-background = "#24384a"
+selection-foreground = "#e6eef5"

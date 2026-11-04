@@ -1,0 +1,33 @@
+# Colors (Saffron Nightfall)
+
+[colors.bright]
+black = '#625f72'
+blue = '#98a9e0'
+cyan = '#93cfc5'
+green = '#b6cc87'
+magenta = '#d0a3d3'
+red = '#ee8b7a'
+white = '#f1ecdf'
+yellow = '#ffd36e'
+
+[colors.cursor]
+cursor = '#ffc247'
+text = '#131320'
+
+[colors.normal]
+black = '#1e1e30'
+blue = '#7d8fd0'
+cyan = '#76b7ad'
+green = '#9cb56b'
+magenta = '#bb87c0'
+red = '#e0705f'
+white = '#b7b2a5'
+yellow = '#ffc247'
+
+[colors.primary]
+background = '#131320'
+foreground = '#d9d4c8'
+
+[colors.selection]
+background = '#33324e'
+text = '#f1ecdf'

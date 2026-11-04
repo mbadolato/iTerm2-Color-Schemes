@@ -1,0 +1,12 @@
+# Midnight Tundra
+[colors]
+foreground = "#c9d4de"
+background = "#0e141b"
+cursor_bg = "#8fb8d8"
+cursor_border = "#8fb8d8"
+cursor_fg = "#0e141b"
+selection_bg = "#24384a"
+selection_fg = "#e6eef5"
+
+ansi = ["#17202a","#d9707c","#7fb88a","#d8b174","#6da3cf","#a58cc7","#6fb5b8","#aebccb"]
+brights = ["#4f6272","#e88a95","#99cfa3","#e8c88f","#8abde4","#bda6dd","#8cced0","#e6eef5"]

@@ -1,0 +1,12 @@
+# Newsprint Fog
+[colors]
+foreground = "#333331"
+background = "#f2f2f0"
+cursor_bg = "#b3402e"
+cursor_border = "#b3402e"
+cursor_fg = "#f2f2f0"
+selection_bg = "#ddddd6"
+selection_fg = "#333331"
+
+ansi = ["#333331","#b3402e","#5d7f52","#987921","#4f6d94","#85607f","#4d7f7c","#d5d5d0"]
+brights = ["#78786f","#cc4f3b","#6f9562","#af8e2c","#6182ab","#9b7494","#5e9692","#fdfdfb"]

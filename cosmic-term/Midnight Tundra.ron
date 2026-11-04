@@ -1,0 +1,41 @@
+(
+    name: "Midnight Tundra",
+    foreground: "#c9d4de",
+    background: "#0e141b",
+    cursor: "#8fb8d8",
+    bright_foreground: "#c9d4de",
+    dim_foreground: "#4f6272",
+
+    normal: (
+        black: "#17202a",
+        red: "#d9707c",
+        green: "#7fb88a",
+        yellow: "#d8b174",
+        blue: "#6da3cf",
+        magenta: "#a58cc7",
+        cyan: "#6fb5b8",
+        white: "#aebccb"
+    ),
+
+    bright: (
+        black: "#4f6272",
+        red: "#e88a95",
+        green: "#99cfa3",
+        yellow: "#e8c88f",
+        blue: "#8abde4",
+        magenta: "#bda6dd",
+        cyan: "#8cced0",
+        white: "#e6eef5"
+    ),
+
+    dim: (
+        black: "#17202a",
+        red: "#d9707c",
+        green: "#7fb88a",
+        yellow: "#d8b174",
+        blue: "#6da3cf",
+        magenta: "#a58cc7",
+        cyan: "#6fb5b8",
+        white: "#aebccb"
+    ),
+)
