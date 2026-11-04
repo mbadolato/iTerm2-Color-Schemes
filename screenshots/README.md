@@ -2898,6 +2898,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/earl-grey.png)
 
+### Edge Light
+
+![Screenshot](/screenshots/edge-light.png)
+
 ### Electron Highlighter Day
 
 ![Screenshot](/screenshots/electron-highlighter-day.png)
