@@ -968,6 +968,10 @@ The Sonoran Afterglow theme was created by [Mark Badolato](https://terminaltheme
 
 The Sonoran Blue Hour theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
+The KIZZ theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Vaughn theme was created by [Mark Badolato](https://github.com/mbadolato).
+
 The All-Nighter theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Numix Dark theme was created by [Tom Hardy](https://terminalthemes.com/users/01M6G8VVMHJBGX9E7F7NM54JF8).
