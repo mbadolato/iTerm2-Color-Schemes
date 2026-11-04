@@ -979,3 +979,5 @@ The Numix Dark theme was created by [Tom Hardy](https://terminalthemes.com/users
 The Numix Light theme was created by [Tom Hardy](https://terminalthemes.com/users/01M6G8VVMHJBGX9E7F7NM54JF8).
 
 The Tideglass theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Wasteland Terminal theme was created by [chlp](https://github.com/chlp/ghostty-fallout-theme).

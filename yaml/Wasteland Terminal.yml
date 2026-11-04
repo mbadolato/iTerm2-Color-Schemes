@@ -1,0 +1,25 @@
+# Green phosphor CRT theme inspired by retro-futuristic wrist-computer terminals.
+# Source: https://github.com/chlp/ghostty-fallout-theme
+name:           "Wasteland Terminal"
+color_01:       "#050b05"             # black
+color_02:       "#26b34f"             # red
+color_03:       "#18ff62"             # green
+color_04:       "#a1d64b"             # yellow
+color_05:       "#3e9b67"             # blue
+color_06:       "#64b879"             # magenta
+color_07:       "#60e899"             # cyan
+color_08:       "#b5ffc5"             # white
+color_09:       "#2c6b3f"             # bright black
+color_10:       "#3fd068"             # bright red
+color_11:       "#5cff8f"             # bright green
+color_12:       "#c4ee70"             # bright yellow
+color_13:       "#56bd84"             # bright blue
+color_14:       "#84d69a"             # bright magenta
+color_15:       "#8cf5b8"             # bright cyan
+color_16:       "#e0ffe6"             # bright white
+background:     "#050b05"
+foreground:     "#18ff62"
+cursor:         "#39ff72"
+cursor_text:    "#050b05"
+selection:      "#1a4d27"
+selection_text: "#e0ffe6"
