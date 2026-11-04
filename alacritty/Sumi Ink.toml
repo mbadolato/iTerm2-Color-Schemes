@@ -1,0 +1,33 @@
+# Colors (Sumi Ink)
+
+[colors.bright]
+black = '#7a7166'
+blue = '#8ea2c0'
+cyan = '#8fbdb3'
+green = '#9cb585'
+magenta = '#c08aa2'
+red = '#d8705e'
+white = '#efe5d1'
+yellow = '#dcbd7a'
+
+[colors.cursor]
+cursor = '#a3362a'
+text = '#efe5d1'
+
+[colors.normal]
+black = '#3a342e'
+blue = '#6f86a8'
+cyan = '#6fa39a'
+green = '#7f9a6a'
+magenta = '#a66b86'
+red = '#c0503f'
+white = '#d8ccb4'
+yellow = '#c9a45c'
+
+[colors.primary]
+background = '#1e1b18'
+foreground = '#e6dcc6'
+
+[colors.selection]
+background = '#a3362a'
+text = '#efe5d1'
