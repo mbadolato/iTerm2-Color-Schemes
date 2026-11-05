@@ -221,7 +221,9 @@ The Gleam and Gleam Classic themes were created by [trag1c](https://github.com/t
 
 The Grok Day and Grok Night themes come from [promptegrity/grok-themes](https://github.com/promptegrity/grok-themes). The palettes are adapted from [xai-org/grok-build](https://github.com/xai-org/grok-build). [zasdaym](https://github.com/zasdaym) added these themes.
 
-The Gruber Darker theme was inspired by [Alexey Kutepov](https://github.com/rexim)
+The Gruber Darker theme was created for Emacs by [Jason Blevins](https://jblevins.org/projects/emacs-color-themes/) as a darker variant of [John Gruber's Gruber Dark theme for BBEdit](https://daringfireball.net/projects/bbcolors/schemes/), then adapted and extended by [Alexey Kutepov](https://github.com/rexim/gruber-darker-theme). Abi contributed the terminal port in [#447](https://github.com/mbadolato/iTerm2-Color-Schemes/pull/447).
+
+The Gruber Darker Legacy theme preserves that terminal port's original iTerm2 source and existing generated colors before the color-space and palette corrections in [#899](https://github.com/mbadolato/iTerm2-Color-Schemes/pull/899). It retains the P3 color-space tags and the differing green and foreground values; no colors have been redesigned.
 
 The Gruvbox Dark theme was created by [morhetz](https://github.com/morhetz) and added by [saccarosium](https://github.com/mcchrish)
 

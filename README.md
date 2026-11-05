@@ -1194,6 +1194,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/grok-night.png)
 
+### Gruber Darker Legacy
+
+![Screenshot](/screenshots/gruber-darker-legacy.png)
+
 ### Gruber Darker
 
 ![Screenshot](/screenshots/gruber-darker.png)

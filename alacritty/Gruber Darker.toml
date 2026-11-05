@@ -1,33 +1,33 @@
 # Colors (Gruber Darker)
 
 [colors.bright]
-black = '#54494e'
-blue = '#92a7cb'
-cyan = '#90aa9e'
-green = '#42dc00'
-magenta = '#afafda'
-red = '#ff3851'
+black = '#52494e'
+blue = '#96a6c8'
+cyan = '#95a99f'
+green = '#73c936'
+magenta = '#afafd7'
+red = '#ff4f58'
 white = '#f5f5f5'
-yellow = '#ffdb00'
+yellow = '#ffdd33'
 
 [colors.cursor]
-cursor = '#ffdb00'
+cursor = '#ffdd33'
 text = '#a6a6a6'
 
 [colors.normal]
 black = '#181818'
-blue = '#92a7cb'
-cyan = '#90aa9e'
-green = '#42dc00'
-magenta = '#a095cb'
-red = '#ff0a36'
-white = '#e4e4e4'
-yellow = '#ffdb00'
+blue = '#96a6c8'
+cyan = '#95a99f'
+green = '#73c936'
+magenta = '#9e95c7'
+red = '#f43841'
+white = '#e4e4ef'
+yellow = '#ffdd33'
 
 [colors.primary]
 background = '#181818'
-foreground = '#e4e4e4'
+foreground = '#e4e4ef'
 
 [colors.selection]
 background = '#ffffff'
-text = '#54494e'
+text = '#52494e'
