@@ -1075,7 +1075,11 @@ Grok Night:
 Gruber Darker:
   license: MIT
   source: https://github.com/rexim/gruber-darker-theme
-  note: Credits claims its "inspired" but color values match exactly
+  note: Uses the Emacs palette in sRGB, retaining terminal-specific bright and selection colors.
+Gruber Darker Legacy:
+  license: MIT
+  source: https://github.com/rexim/gruber-darker-theme
+  note: 'Preserves the pre-#899 terminal port from #447, including its P3 color-space tags and palette differences.'
 Gruvbox Dark:
   license: MIT
   source: https://github.com/morhetz/gruvbox/blob/697c00291db857ca0af00ec154e5bd514a79191f/package.json#L6
