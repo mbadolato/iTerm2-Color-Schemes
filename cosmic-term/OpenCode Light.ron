@@ -1,0 +1,41 @@
+(
+    name: "OpenCode Light",
+    foreground: "#1a1a1a",
+    background: "#ffffff",
+    cursor: "#d68c27",
+    bright_foreground: "#1a1a1a",
+    dim_foreground: "#8a8a8a",
+
+    normal: (
+        black: "#1a1a1a",
+        red: "#c20f26",
+        green: "#1f8c44",
+        yellow: "#c7811e",
+        blue: "#226bcc",
+        magenta: "#6b47a7",
+        cyan: "#077786",
+        white: "#bebebe"
+    ),
+
+    bright: (
+        black: "#8a8a8a",
+        red: "#d1383d",
+        green: "#3d9a57",
+        yellow: "#d68c27",
+        blue: "#3b7dd8",
+        magenta: "#7b5bb6",
+        cyan: "#318795",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#1a1a1a",
+        red: "#c20f26",
+        green: "#1f8c44",
+        yellow: "#c7811e",
+        blue: "#226bcc",
+        magenta: "#6b47a7",
+        cyan: "#077786",
+        white: "#bebebe"
+    ),
+)

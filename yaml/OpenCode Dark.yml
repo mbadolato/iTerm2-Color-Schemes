@@ -1,0 +1,31 @@
+# Derived from the OpenCode "opencode" theme (dark mode).
+# Source: https://github.com/sst/opencode/blob/dev/packages/tui/src/theme/assets/v2/opencode.json
+name: "OpenCode Dark"
+
+color_01: "#1e1e1e"
+color_02: "#e06c75"
+color_03: "#7fd88f"
+color_04: "#f5a742"
+color_05: "#5c9cf5"
+color_06: "#9d7cd8"
+color_07: "#56b6c2"
+color_08: "#eeeeee"
+
+color_09: "#808080"
+color_10: "#fd7e87"
+color_11: "#96f7a7"
+color_12: "#fab283"
+color_13: "#82b4fb"
+color_14: "#b38ff4"
+color_15: "#68d0dd"
+color_16: "#ffffff"
+
+background: "#0a0a0a"
+foreground: "#eeeeee"
+bold: "#ffffff"
+cursor: "#fab283"
+cursor_text: "#0a0a0a"
+selection: "#3d1d06"
+selection_text: "#eeeeee"
+badge: "#fab283"
+link: "#fab283"

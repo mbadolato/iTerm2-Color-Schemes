@@ -1,0 +1,33 @@
+# Colors (OpenCode Light)
+
+[colors.bright]
+black = '#8a8a8a'
+blue = '#3b7dd8'
+cyan = '#318795'
+green = '#3d9a57'
+magenta = '#7b5bb6'
+red = '#d1383d'
+white = '#ffffff'
+yellow = '#d68c27'
+
+[colors.cursor]
+cursor = '#d68c27'
+text = '#ffffff'
+
+[colors.normal]
+black = '#1a1a1a'
+blue = '#226bcc'
+cyan = '#077786'
+green = '#1f8c44'
+magenta = '#6b47a7'
+red = '#c20f26'
+white = '#bebebe'
+yellow = '#c7811e'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#1a1a1a'
+
+[colors.selection]
+background = '#d4e5fd'
+text = '#1a1a1a'
