@@ -1,0 +1,43 @@
+!
+! OpenCode Light
+!
+*.foreground:  #1a1a1a
+*.background:  #ffffff
+*.cursorColor: #d68c27
+!
+! Black
+*.color0:      #1a1a1a
+*.color8:      #8a8a8a
+!
+! Red
+*.color1:      #c20f26
+*.color9:      #d1383d
+!
+! Green
+*.color2:      #1f8c44
+*.color10:     #3d9a57
+!
+! Yellow
+*.color3:      #c7811e
+*.color11:     #d68c27
+!
+! Blue
+*.color4:      #226bcc
+*.color12:     #3b7dd8
+!
+! Magenta
+*.color5:      #6b47a7
+*.color13:     #7b5bb6
+!
+! Cyan
+*.color6:      #077786
+*.color14:     #318795
+!
+! White
+*.color7:      #bebebe
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #000000
+!*.colorIT:
+!*.colorUL:

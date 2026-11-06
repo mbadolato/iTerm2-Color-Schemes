@@ -1,0 +1,41 @@
+(
+    name: "OpenCode Dark",
+    foreground: "#eeeeee",
+    background: "#0a0a0a",
+    cursor: "#fab283",
+    bright_foreground: "#eeeeee",
+    dim_foreground: "#808080",
+
+    normal: (
+        black: "#1e1e1e",
+        red: "#e06c75",
+        green: "#7fd88f",
+        yellow: "#f5a742",
+        blue: "#5c9cf5",
+        magenta: "#9d7cd8",
+        cyan: "#56b6c2",
+        white: "#eeeeee"
+    ),
+
+    bright: (
+        black: "#808080",
+        red: "#fd7e87",
+        green: "#96f7a7",
+        yellow: "#fab283",
+        blue: "#82b4fb",
+        magenta: "#b38ff4",
+        cyan: "#68d0dd",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#1e1e1e",
+        red: "#e06c75",
+        green: "#7fd88f",
+        yellow: "#f5a742",
+        blue: "#5c9cf5",
+        magenta: "#9d7cd8",
+        cyan: "#56b6c2",
+        white: "#eeeeee"
+    ),
+)

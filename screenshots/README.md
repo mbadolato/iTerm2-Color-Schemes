@@ -1804,6 +1804,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/opaline.png)
 
+### OpenCode Dark
+
+![Screenshot](/screenshots/opencode-dark.png)
+
 ### Operator Mono Dark
 
 ![Screenshot](/screenshots/operator-mono-dark.png)
@@ -3309,6 +3313,10 @@ The screenshots are categorized.
 ### Onenord Light
 
 ![Screenshot](/screenshots/onenord-light.png)
+
+### OpenCode Light
+
+![Screenshot](/screenshots/opencode-light.png)
 
 ### Paper Crane
 

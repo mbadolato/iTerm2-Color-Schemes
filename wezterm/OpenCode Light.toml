@@ -1,0 +1,12 @@
+# OpenCode Light
+[colors]
+foreground = "#1a1a1a"
+background = "#ffffff"
+cursor_bg = "#d68c27"
+cursor_border = "#d68c27"
+cursor_fg = "#ffffff"
+selection_bg = "#d4e5fd"
+selection_fg = "#1a1a1a"
+
+ansi = ["#1a1a1a","#c20f26","#1f8c44","#c7811e","#226bcc","#6b47a7","#077786","#bebebe"]
+brights = ["#8a8a8a","#d1383d","#3d9a57","#d68c27","#3b7dd8","#7b5bb6","#318795","#ffffff"]
