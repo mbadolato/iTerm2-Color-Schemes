@@ -1,33 +1,34 @@
 # SPDX-License-Identifier: MIT
 # Copyright (c) 2026 Kyle Purdon
 # Original palette created with OpenAI Codex assistance.
-# Background sampled from the macOS Stone desktop in sRGB; no Apple artwork is included.
+# Inspired by the macOS Stone desktop, with a slightly darker background.
+# No Apple artwork is included.
 name: "Stone"
 author: "Kyle Purdon"
 variant: "dark"
 
 color_01: "#191C1A" # charcoal
-color_02: "#F3B4AC" # clay
-color_03: "#CADBB2" # sage
-color_04: "#EBDDAD" # sand
-color_05: "#B6D2E8" # slate
-color_06: "#DCC0DF" # quartz
-color_07: "#B3DDD5" # sea glass
-color_08: "#DEDCD4" # chalk
-color_09: "#B5B8B2" # weathered stone
-color_10: "#FFD4CC"
-color_11: "#E1EECB"
-color_12: "#FFF0C7"
-color_13: "#D4E7FA"
-color_14: "#F1DCF2"
-color_15: "#D3F1E9"
-color_16: "#FFFFFF"
+color_02: "#C29B91" # clay
+color_03: "#AEB59A" # lichen
+color_04: "#C3B38D" # sandstone
+color_05: "#9FAFB9" # slate
+color_06: "#B3A2AE" # smoky quartz
+color_07: "#9FB5AE" # weathered copper
+color_08: "#C6C5BD" # limestone
+color_09: "#979B94" # weathered stone
+color_10: "#D1ADA3"
+color_11: "#C1C7AC"
+color_12: "#D4C5A1"
+color_13: "#B3C1CA"
+color_14: "#C4B4BF"
+color_15: "#B2C8C0"
+color_16: "#ECEAE3"
 
-background: "#545554"
-foreground: "#F3F0E8"
-bold: "#FFFFFF"
-cursor: "#F3F0E8"
-cursor_text: "#30332F"
-selection: "#CFD8C5"
-selection_text: "#30332F"
-link: "#D4E7FA"
+background: "#4E4F4E"
+foreground: "#DEDCD5"
+bold: "#ECEAE3"
+cursor: "#D8D3C4"
+cursor_text: "#2B2E2B"
+selection: "#B6B8AA"
+selection_text: "#2B2E2B"
+link: "#B3C1CA"
