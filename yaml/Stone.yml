@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: MIT
 # Copyright (c) 2026 Kyle Purdon
 # Original palette created with OpenAI Codex assistance.
-# Background matches macOS Stone converted to sRGB; no Apple artwork is included.
+# Background sampled from the macOS Stone desktop in sRGB; no Apple artwork is included.
 name: "Stone"
 author: "Kyle Purdon"
 variant: "dark"
@@ -23,7 +23,7 @@ color_14: "#F1DCF2"
 color_15: "#D3F1E9"
 color_16: "#FFFFFF"
 
-background: "#676867"
+background: "#545554"
 foreground: "#F3F0E8"
 bold: "#FFFFFF"
 cursor: "#F3F0E8"
