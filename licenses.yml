@@ -732,6 +732,9 @@ Dogxi Misty:
   license: unknown
   source: ''
   note: 'Not covered by the research in #638.'
+"Don't Panic":
+  license: MIT
+  source: 'https://terminalthemes.com/themes/don-t-panic'
 Doom One:
   license: MIT
   source: https://github.com/doomemacs/themes
@@ -2838,6 +2841,10 @@ Static Noir:
   license: unknown
   source: ''
   note: Submitted by the theme author via the palette editor screenshots.
+Stone:
+  license: MIT
+  source: https://github.com/kpurdon/iTerm2-Color-Schemes/blob/feat/stone-theme/yaml/Stone.yml
+  note: Original palette by Kyle Purdon, created with OpenAI Codex assistance.
 Sublette:
   license: MIT
   source: https://github.com/sublee/sublette
