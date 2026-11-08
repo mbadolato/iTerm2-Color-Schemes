@@ -985,3 +985,5 @@ The Tideglass theme was created by [Mark Badolato](https://terminalthemes.com/us
 The Wasteland Terminal theme was created by [chlp](https://github.com/chlp/ghostty-fallout-theme).
 
 The Nudisia theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Stone theme was created by [Kyle Purdon](https://github.com/kpurdon) with OpenAI Codex assistance. Inspired by the macOS Stone solid desktop color, it pairs a slightly darker neutral gray background with an original, muted mineral palette.
