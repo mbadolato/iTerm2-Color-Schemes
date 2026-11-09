@@ -1,0 +1,41 @@
+(
+    name: "mistpine",
+    foreground: "#c4c9d0",
+    background: "#0b1f27",
+    cursor: "#c4c9d0",
+    bright_foreground: "#c4c9d0",
+    dim_foreground: "#546b76",
+
+    normal: (
+        black: "#0f272e",
+        red: "#be7356",
+        green: "#8a9a5b",
+        yellow: "#c2a55b",
+        blue: "#6f8fa8",
+        magenta: "#9a88a8",
+        cyan: "#5f9a96",
+        white: "#a7b0bb"
+    ),
+
+    bright: (
+        black: "#546b76",
+        red: "#d08a6e",
+        green: "#a9b97a",
+        yellow: "#dcc27e",
+        blue: "#93afc4",
+        magenta: "#b8a8c6",
+        cyan: "#86bcb6",
+        white: "#d0d1d6"
+    ),
+
+    dim: (
+        black: "#0f272e",
+        red: "#be7356",
+        green: "#8a9a5b",
+        yellow: "#c2a55b",
+        blue: "#6f8fa8",
+        magenta: "#9a88a8",
+        cyan: "#5f9a96",
+        white: "#a7b0bb"
+    ),
+)
