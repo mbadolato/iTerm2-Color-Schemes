@@ -1,0 +1,33 @@
+# The terminal colors of the mistpine spec:
+# https://github.com/mistpine/mistpine/blob/main/palette/mistpine.json
+name: "mistpine"
+author: "Luan Utimura (https://github.com/mistpine/mistpine)"
+variant: "dark"
+
+color_01: "#0f272e"       # ANSI 0, black: bg2
+color_02: "#be7356"       # ANSI 1, red
+color_03: "#8a9a5b"       # ANSI 2, green
+color_04: "#c2a55b"       # ANSI 3, yellow
+color_05: "#6f8fa8"       # ANSI 4, blue
+color_06: "#9a88a8"       # ANSI 5, magenta
+color_07: "#5f9a96"       # ANSI 6, cyan
+color_08: "#a7b0bb"       # ANSI 7, white: fg2
+
+color_09: "#546b76"       # ANSI 8, bright black
+color_10: "#d08a6e"       # ANSI 9, bright red
+color_11: "#a9b97a"       # ANSI 10, bright green
+color_12: "#dcc27e"       # ANSI 11, bright yellow
+color_13: "#93afc4"       # ANSI 12, bright blue
+color_14: "#b8a8c6"       # ANSI 13, bright magenta
+color_15: "#86bcb6"       # ANSI 14, bright cyan
+color_16: "#d0d1d6"       # ANSI 15, bright white
+
+background: "#0b1f27"     # bg1
+foreground: "#c4c9d0"     # fg3
+
+cursor: "#c4c9d0"         # fg3
+cursor_text: "#0b1f27"    # bg1
+cursor_guide: "#0f272e"   # cursor line: bg2
+selection: "#26414a"      # bg4
+selection_text: "#d0d1d6"
+link: "#5f9a96"           # links: cyan

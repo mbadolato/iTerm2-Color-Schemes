@@ -1,0 +1,33 @@
+# Colors (mistpine)
+
+[colors.bright]
+black = '#546b76'
+blue = '#93afc4'
+cyan = '#86bcb6'
+green = '#a9b97a'
+magenta = '#b8a8c6'
+red = '#d08a6e'
+white = '#d0d1d6'
+yellow = '#dcc27e'
+
+[colors.cursor]
+cursor = '#c4c9d0'
+text = '#0b1f27'
+
+[colors.normal]
+black = '#0f272e'
+blue = '#6f8fa8'
+cyan = '#5f9a96'
+green = '#8a9a5b'
+magenta = '#9a88a8'
+red = '#be7356'
+white = '#a7b0bb'
+yellow = '#c2a55b'
+
+[colors.primary]
+background = '#0b1f27'
+foreground = '#c4c9d0'
+
+[colors.selection]
+background = '#26414a'
+text = '#d0d1d6'

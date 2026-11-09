@@ -1746,6 +1746,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/misterioso.png)
 
+### mistpine
+
+![Screenshot](/screenshots/mistpine.png)
+
 ### Modus Vivendi Deuteranopia
 
 ![Screenshot](/screenshots/modus-vivendi-deuteranopia.png)
