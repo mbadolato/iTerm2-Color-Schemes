@@ -993,3 +993,15 @@ The Don't Panic theme was created by [Mark Badolato](https://terminalthemes.com/
 The Stone theme was created by [Kyle Purdon](https://github.com/kpurdon) with OpenAI Codex assistance. Inspired by the macOS Stone solid desktop color, it pairs a slightly darker neutral gray background with an original, muted mineral palette.
 
 The mistpine theme was created by [Luan Utimura](https://github.com/mistpine/mistpine).
+
+The 🇺🇸 U.S. Air Force theme was created by Mark Badolato.
+
+The 🇺🇸 U.S. Army theme was created by Mark Badolato.
+
+The 🇺🇸 U.S. Coast Guard theme was created by Mark Badolato.
+
+The 🇺🇸 U.S. Marine Corps theme was created by Mark Badolato.
+
+The 🇺🇸 U.S. Navy theme was created by Mark Badolato.
+
+The 🇺🇸 U.S. Space Force theme was created by Mark Badolato.
