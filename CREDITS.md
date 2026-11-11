@@ -994,6 +994,8 @@ The Stone theme was created by [Kyle Purdon](https://github.com/kpurdon) with Op
 
 The mistpine theme was created by [Luan Utimura](https://github.com/mistpine/mistpine).
 
+The Stranger Theme Dimension X, Stranger Theme Hawkins, Stranger Theme Starcourt, Stranger Theme The Lab, Stranger Theme Tigers and Stranger Theme Upside Down themes were created by [Stranger Theme](https://github.com/stranger-theme/stranger-theme).
+
 The 🇺🇸 U.S. Air Force theme was created by Mark Badolato.
 
 The 🇺🇸 U.S. Army theme was created by Mark Badolato.
