@@ -2966,6 +2966,14 @@ Terminal Green 1999:
   license: unknown
   source: ''
   note: 'Not covered by the research in #638.'
+Termius Dark:
+  license: unknown
+  source: https://termius.com
+  note: Default dark scheme of the Termius SSH client
+Termius Light:
+  license: unknown
+  source: https://termius.com
+  note: Default light scheme of the Termius SSH client
 Thayer Bright:
   license: unknown
   source: https://github.com/t3chnoboy/thayer-bright-iTerm

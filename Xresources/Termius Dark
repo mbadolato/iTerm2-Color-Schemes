@@ -1,0 +1,43 @@
+!
+! Termius Dark
+!
+*.foreground:  #21b568
+*.background:  #141729
+*.cursorColor: #21b568
+!
+! Black
+*.color0:      #343851
+*.color8:      #8d91a5
+!
+! Red
+*.color1:      #f24e50
+*.color9:      #ff7375
+!
+! Green
+*.color2:      #008463
+*.color10:     #3ed7be
+!
+! Yellow
+*.color3:      #eca855
+*.color11:     #fdc47d
+!
+! Blue
+*.color4:      #08639f
+*.color12:     #6ba0c3
+!
+! Magenta
+*.color5:      #c13282
+*.color13:     #ff7dc5
+!
+! Cyan
+*.color6:      #2091f6
+*.color14:     #44a7ff
+!
+! White
+*.color7:      #e2e3e8
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #21b568
+!*.colorIT:
+!*.colorUL:

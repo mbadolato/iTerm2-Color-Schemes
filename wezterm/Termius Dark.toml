@@ -1,0 +1,12 @@
+# Termius Dark
+[colors]
+foreground = "#21b568"
+background = "#141729"
+cursor_bg = "#21b568"
+cursor_border = "#21b568"
+cursor_fg = "#141729"
+selection_bg = "#1b6649"
+selection_fg = "#21b568"
+
+ansi = ["#343851","#f24e50","#008463","#eca855","#08639f","#c13282","#2091f6","#e2e3e8"]
+brights = ["#8d91a5","#ff7375","#3ed7be","#fdc47d","#6ba0c3","#ff7dc5","#44a7ff","#ffffff"]

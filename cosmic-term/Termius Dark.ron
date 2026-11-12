@@ -1,0 +1,41 @@
+(
+    name: "Termius Dark",
+    foreground: "#21b568",
+    background: "#141729",
+    cursor: "#21b568",
+    bright_foreground: "#21b568",
+    dim_foreground: "#8d91a5",
+
+    normal: (
+        black: "#343851",
+        red: "#f24e50",
+        green: "#008463",
+        yellow: "#eca855",
+        blue: "#08639f",
+        magenta: "#c13282",
+        cyan: "#2091f6",
+        white: "#e2e3e8"
+    ),
+
+    bright: (
+        black: "#8d91a5",
+        red: "#ff7375",
+        green: "#3ed7be",
+        yellow: "#fdc47d",
+        blue: "#6ba0c3",
+        magenta: "#ff7dc5",
+        cyan: "#44a7ff",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#343851",
+        red: "#f24e50",
+        green: "#008463",
+        yellow: "#eca855",
+        blue: "#08639f",
+        magenta: "#c13282",
+        cyan: "#2091f6",
+        white: "#e2e3e8"
+    ),
+)

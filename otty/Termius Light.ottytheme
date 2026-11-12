@@ -1,0 +1,18 @@
+[meta]
+name = "Termius Light"
+mode = "light"
+author = "Termius (https://termius.com)"
+
+[terminal]
+foreground = "#32364a"
+background = "#d5dde0"
+palette = [
+    "#141729", "#f24e50", "#198c51", "#ab6918",
+    "#004878", "#8f3c91", "#2091f6", "#eeeeee",
+    "#3e4257", "#ff7375", "#21b568", "#fdc47d",
+    "#1d6da2", "#ff7dc5", "#44a7ff", "#ffffff",
+]
+cursor = "#32364a"
+cursor-text = "#d5dde0"
+selection-background = "#838995"
+selection-foreground = "#32364a"

@@ -1,0 +1,33 @@
+# Colors (Termius Light)
+
+[colors.bright]
+black = '#3e4257'
+blue = '#1d6da2'
+cyan = '#44a7ff'
+green = '#21b568'
+magenta = '#ff7dc5'
+red = '#ff7375'
+white = '#ffffff'
+yellow = '#fdc47d'
+
+[colors.cursor]
+cursor = '#32364a'
+text = '#d5dde0'
+
+[colors.normal]
+black = '#141729'
+blue = '#004878'
+cyan = '#2091f6'
+green = '#198c51'
+magenta = '#8f3c91'
+red = '#f24e50'
+white = '#eeeeee'
+yellow = '#ab6918'
+
+[colors.primary]
+background = '#d5dde0'
+foreground = '#32364a'
+
+[colors.selection]
+background = '#838995'
+text = '#32364a'

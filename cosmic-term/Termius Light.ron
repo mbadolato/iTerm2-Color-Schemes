@@ -1,0 +1,41 @@
+(
+    name: "Termius Light",
+    foreground: "#32364a",
+    background: "#d5dde0",
+    cursor: "#32364a",
+    bright_foreground: "#32364a",
+    dim_foreground: "#3e4257",
+
+    normal: (
+        black: "#141729",
+        red: "#f24e50",
+        green: "#198c51",
+        yellow: "#ab6918",
+        blue: "#004878",
+        magenta: "#8f3c91",
+        cyan: "#2091f6",
+        white: "#eeeeee"
+    ),
+
+    bright: (
+        black: "#3e4257",
+        red: "#ff7375",
+        green: "#21b568",
+        yellow: "#fdc47d",
+        blue: "#1d6da2",
+        magenta: "#ff7dc5",
+        cyan: "#44a7ff",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#141729",
+        red: "#f24e50",
+        green: "#198c51",
+        yellow: "#ab6918",
+        blue: "#004878",
+        magenta: "#8f3c91",
+        cyan: "#2091f6",
+        white: "#eeeeee"
+    ),
+)
