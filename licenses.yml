@@ -3204,25 +3204,20 @@ Wryan:
   license: unknown
   source: https://github.com/mbadolato/iTerm2-Color-Schemes/commit/fd97e4b9e4c8edd7fb47f6a02e30c366688c73c0
 X:
-  license: unknown
-  source: ''
-  note: 'Not covered by the research in #638.'
-X Berlin:
-  license: unknown
-  source: ''
-  note: 'Not covered by the research in #638.'
-X Bogota:
-  license: unknown
-  source: ''
-  note: 'Not covered by the research in #638.'
-X Helsinki:
-  license: unknown
-  source: ''
-  note: 'Not covered by the research in #638.'
-X Lahabana:
-  license: unknown
-  source: ''
-  note: 'Not covered by the research in #638.'
+  license: MIT
+  source: 'https://terminalthemes.com/themes/x'
+'X Berlin':
+  license: MIT
+  source: 'https://terminalthemes.com/themes/x-berlin'
+'X Bogota':
+  license: MIT
+  source: 'https://terminalthemes.com/themes/x-bogota'
+'X Helsinki':
+  license: MIT
+  source: 'https://terminalthemes.com/themes/x-helsinki'
+'X Lahabana':
+  license: MIT
+  source: 'https://terminalthemes.com/themes/x-lahabana'
 X London:
   license: unknown
   source: ''
