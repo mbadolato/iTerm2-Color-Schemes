@@ -1,0 +1,41 @@
+(
+    name: "Zacess Warm Dark",
+    foreground: "#e5d5b6",
+    background: "#211b17",
+    cursor: "#fec9a7",
+    bright_foreground: "#e5d5b6",
+    dim_foreground: "#b9b1a9",
+
+    normal: (
+        black: "#ada398",
+        red: "#fc9a8d",
+        green: "#a2be6f",
+        yellow: "#e4b35b",
+        blue: "#88b9e3",
+        magenta: "#dfa1ca",
+        cyan: "#73c2b8",
+        white: "#cbc1b1"
+    ),
+
+    bright: (
+        black: "#b9b1a9",
+        red: "#fee4e0",
+        green: "#d9f2b0",
+        yellow: "#ffe9b6",
+        blue: "#d7ecff",
+        magenta: "#ffe1f4",
+        cyan: "#b1f7ed",
+        white: "#fbf1dc"
+    ),
+
+    dim: (
+        black: "#ada398",
+        red: "#fc9a8d",
+        green: "#a2be6f",
+        yellow: "#e4b35b",
+        blue: "#88b9e3",
+        magenta: "#dfa1ca",
+        cyan: "#73c2b8",
+        white: "#cbc1b1"
+    ),
+)
