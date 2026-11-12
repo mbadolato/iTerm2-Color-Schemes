@@ -1,0 +1,33 @@
+# Colors (Termius Dark)
+
+[colors.bright]
+black = '#8d91a5'
+blue = '#6ba0c3'
+cyan = '#44a7ff'
+green = '#3ed7be'
+magenta = '#ff7dc5'
+red = '#ff7375'
+white = '#ffffff'
+yellow = '#fdc47d'
+
+[colors.cursor]
+cursor = '#21b568'
+text = '#141729'
+
+[colors.normal]
+black = '#343851'
+blue = '#08639f'
+cyan = '#2091f6'
+green = '#008463'
+magenta = '#c13282'
+red = '#f24e50'
+white = '#e2e3e8'
+yellow = '#eca855'
+
+[colors.primary]
+background = '#141729'
+foreground = '#21b568'
+
+[colors.selection]
+background = '#1b6649'
+text = '#21b568'

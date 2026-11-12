@@ -526,6 +526,8 @@ The Tango Adapted theme and its slightly less bright counterpart Tango Half Adap
 
 The Teerb theme was created by [Teerb](https://gist.github.com/teerb/1360453)
 
+The Termius Dark and Termius Light themes are the default color schemes of the [Termius](https://termius.com) SSH client and were ported by [KubesDavid](https://github.com/KubesDavid).
+
 The Thayer Bright theme was found [here](https://github.com/t3chnoboy/thayer-bright-iTerm)
 
 The theme Tinacious Design was created by [Tina Holly](https://tinaciousdesign.com)

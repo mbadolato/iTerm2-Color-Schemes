@@ -1,0 +1,43 @@
+!
+! Termius Light
+!
+*.foreground:  #32364a
+*.background:  #d5dde0
+*.cursorColor: #32364a
+!
+! Black
+*.color0:      #141729
+*.color8:      #3e4257
+!
+! Red
+*.color1:      #f24e50
+*.color9:      #ff7375
+!
+! Green
+*.color2:      #198c51
+*.color10:     #21b568
+!
+! Yellow
+*.color3:      #ab6918
+*.color11:     #fdc47d
+!
+! Blue
+*.color4:      #004878
+*.color12:     #1d6da2
+!
+! Magenta
+*.color5:      #8f3c91
+*.color13:     #ff7dc5
+!
+! Cyan
+*.color6:      #2091f6
+*.color14:     #44a7ff
+!
+! White
+*.color7:      #eeeeee
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #32364a
+!*.colorIT:
+!*.colorUL:

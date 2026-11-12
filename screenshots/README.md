@@ -2484,6 +2484,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/terminal-green-1999.png)
 
+### Termius Dark
+
+![Screenshot](/screenshots/termius-dark.png)
+
 ### Thayer Bright
 
 ![Screenshot](/screenshots/thayer-bright.png)
@@ -3533,6 +3537,10 @@ The screenshots are categorized.
 ### Terminal Basic
 
 ![Screenshot](/screenshots/terminal-basic.png)
+
+### Termius Light
+
+![Screenshot](/screenshots/termius-light.png)
 
 ### Thermal Receipt
 
