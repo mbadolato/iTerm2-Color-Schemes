@@ -1,0 +1,33 @@
+# Colors (Zacess Warm Light)
+
+[colors.bright]
+black = '#60574c'
+blue = '#115f93'
+cyan = '#066662'
+green = '#386616'
+magenta = '#8a4074'
+red = '#a4332b'
+white = '#342410'
+yellow = '#845701'
+
+[colors.cursor]
+cursor = '#5b1301'
+text = '#f4ead5'
+
+[colors.normal]
+black = '#342410'
+blue = '#014b79'
+cyan = '#05514d'
+green = '#275200'
+magenta = '#742c60'
+red = '#8c1a16'
+white = '#574e44'
+yellow = '#6a4603'
+
+[colors.primary]
+background = '#f4ead5'
+foreground = '#342410'
+
+[colors.selection]
+background = '#215779'
+text = '#f4ead5'

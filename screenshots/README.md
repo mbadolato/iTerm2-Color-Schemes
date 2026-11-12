@@ -2756,6 +2756,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/zacess-high-contrast-dark.png)
 
+### Zacess Warm Dark
+
+![Screenshot](/screenshots/zacess-warm-dark.png)
+
 ### Zacess Yellow on Black
 
 ![Screenshot](/screenshots/zacess-yellow-on-black.png)
@@ -3621,6 +3625,10 @@ The screenshots are categorized.
 ### Zacess Light
 
 ![Screenshot](/screenshots/zacess-light.png)
+
+### Zacess Warm Light
+
+![Screenshot](/screenshots/zacess-warm-light.png)
 
 ### Zenbones Light
 

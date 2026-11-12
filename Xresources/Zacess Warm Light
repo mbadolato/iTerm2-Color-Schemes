@@ -1,0 +1,43 @@
+!
+! Zacess Warm Light
+!
+*.foreground:  #342410
+*.background:  #f4ead5
+*.cursorColor: #5b1301
+!
+! Black
+*.color0:      #342410
+*.color8:      #60574c
+!
+! Red
+*.color1:      #8c1a16
+*.color9:      #a4332b
+!
+! Green
+*.color2:      #275200
+*.color10:     #386616
+!
+! Yellow
+*.color3:      #6a4603
+*.color11:     #845701
+!
+! Blue
+*.color4:      #014b79
+*.color12:     #115f93
+!
+! Magenta
+*.color5:      #742c60
+*.color13:     #8a4074
+!
+! Cyan
+*.color6:      #05514d
+*.color14:     #066662
+!
+! White
+*.color7:      #574e44
+*.color15:     #342410
+!
+! Bold, Italic, Underline
+*.colorBD:     #342410
+!*.colorIT:
+!*.colorUL:

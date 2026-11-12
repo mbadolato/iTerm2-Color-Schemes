@@ -1,0 +1,12 @@
+# Zacess Warm Light
+[colors]
+foreground = "#342410"
+background = "#f4ead5"
+cursor_bg = "#5b1301"
+cursor_border = "#5b1301"
+cursor_fg = "#f4ead5"
+selection_bg = "#215779"
+selection_fg = "#f4ead5"
+
+ansi = ["#342410","#8c1a16","#275200","#6a4603","#014b79","#742c60","#05514d","#574e44"]
+brights = ["#60574c","#a4332b","#386616","#845701","#115f93","#8a4074","#066662","#342410"]
