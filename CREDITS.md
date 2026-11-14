@@ -1067,3 +1067,5 @@ The Thankful Twilight theme was created by [Mark Badolato](https://terminaltheme
 The Turkey Trot theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Wishbone theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Heritage Themes schemes (Ainu, Aizome, Bengal, Danqing, Edo, Gujarat, Hmong, Holi, Kalaallisuut, Kalamkari, Kashubia, Kerala, Łowicz, Maramureș, Maya, Morocco, Mudhif, Mughal, Ndebele, Peru, Podhale, Punjab, Rajasthan, Sardinia, Shaker, Shuimo, Tamil, Wixárika, Wuxing, Yolŋu, Zalipie and Złotnica) were created by [Heritage Themes](https://github.com/heritage-themes/heritage-themes).
