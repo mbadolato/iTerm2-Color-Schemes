@@ -322,6 +322,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/alien-blood.png)
 
+### All-Nighter
+
+![Screenshot](/screenshots/all-nighter.png)
+
 ### AlxPro Dark
 
 ![Screenshot](/screenshots/alxpro-dark.png)
@@ -410,6 +414,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/autumn-after-dark.png)
 
+### Autumn Quilt
+
+![Screenshot](/screenshots/autumn-quilt.png)
+
 ### Ayu Mirage
 
 ![Screenshot](/screenshots/ayu-mirage.png)
@@ -469,6 +477,10 @@ The screenshots are categorized.
 ### Black Cat
 
 ![Screenshot](/screenshots/black-cat.png)
+
+### Black Friday
+
+![Screenshot](/screenshots/black-friday.png)
 
 ### Black Metal (Bathory)
 
@@ -534,6 +546,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/blue-matrix.png)
 
+### Blue Ribbon Turkey
+
+![Screenshot](/screenshots/blue-ribbon-turkey.png)
+
 ### Bluloco Dark
 
 ![Screenshot](/screenshots/bluloco-dark.png)
@@ -598,6 +614,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/candlelight.png)
 
+### Candlelit Table
+
+![Screenshot](/screenshots/candlelit-table.png)
+
 ### Canyon Shadow
 
 ![Screenshot](/screenshots/canyon-shadow.png)
@@ -657,6 +677,10 @@ The screenshots are categorized.
 ### Ciapre
 
 ![Screenshot](/screenshots/ciapre.png)
+
+### Cider Press
+
+![Screenshot](/screenshots/cider-press.png)
 
 ### Citrus Ink
 
@@ -722,9 +746,17 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/copper-canyon.png)
 
+### Cornucopia
+
+![Screenshot](/screenshots/cornucopia.png)
+
 ### Count Terminal
 
 ![Screenshot](/screenshots/count-terminal.png)
+
+### Cranberry Sauce
+
+![Screenshot](/screenshots/cranberry-sauce.png)
 
 ### Crayon Pony Fish
 
@@ -818,6 +850,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/deep-current.png)
 
+### Deep In Purple
+
+![Screenshot](/screenshots/deep-in-purple.png)
+
 ### Deep
 
 ![Screenshot](/screenshots/deep.png)
@@ -877,6 +913,10 @@ The screenshots are categorized.
 ### Dogxi Misty
 
 ![Screenshot](/screenshots/dogxi-misty.png)
+
+### Don't Panic
+
+![Screenshot](/screenshots/dont-panic.png)
 
 ### Doom One
 
@@ -1054,6 +1094,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/firefox-dev.png)
 
+### Fireside Feast
+
+![Screenshot](/screenshots/fireside-feast.png)
+
 ### Firewatch
 
 ![Screenshot](/screenshots/firewatch.png)
@@ -1178,6 +1222,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/graveyard-shift.png)
 
+### Gravy
+
+![Screenshot](/screenshots/gravy.png)
+
+### Green Bean Casserole
+
+![Screenshot](/screenshots/green-bean-casserole.png)
+
 ### Green Phosphor CRT
 
 ![Screenshot](/screenshots/green-phosphor-crt.png)
@@ -1241,6 +1293,10 @@ The screenshots are categorized.
 ### Harvest Moon
 
 ![Screenshot](/screenshots/harvest-moon.png)
+
+### Harvest Time Moon
+
+![Screenshot](/screenshots/harvest-time-moon.png)
 
 ### Haunted House
 
@@ -1502,6 +1558,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/kitty-low-contrast.png)
 
+### KIZZ
+
+![Screenshot](/screenshots/kizz.png)
+
 ### Klein Void
 
 ![Screenshot](/screenshots/klein-void.png)
@@ -1642,6 +1702,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/madmans-diary.png)
 
+### Maple Glaze
+
+![Screenshot](/screenshots/maple-glaze.png)
+
 ### Maple Jute
 
 ![Screenshot](/screenshots/maple-jute.png)
@@ -1677,6 +1741,10 @@ The screenshots are categorized.
 ### Matte Black
 
 ![Screenshot](/screenshots/matte-black.png)
+
+### Mayflower
+
+![Screenshot](/screenshots/mayflower.png)
 
 ### Medallion
 
@@ -1986,6 +2054,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/northstar.png)
 
+### November Night
+
+![Screenshot](/screenshots/november-night.png)
+
 ### novmbr
 
 ![Screenshot](/screenshots/novmbr.png)
@@ -1993,6 +2065,10 @@ The screenshots are categorized.
 ### Numbers Station
 
 ![Screenshot](/screenshots/numbers-station.png)
+
+### Numix Dark
+
+![Screenshot](/screenshots/numix-dark.png)
 
 ### Nvim Dark
 
@@ -2126,6 +2202,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/paul-millr.png)
 
+### Pecan Pie
+
+![Screenshot](/screenshots/pecan-pie.png)
+
 ### Pencil Dark
 
 ![Screenshot](/screenshots/pencil-dark.png)
@@ -2153,6 +2233,10 @@ The screenshots are categorized.
 ### Pierre Dark
 
 ![Screenshot](/screenshots/pierre-dark.png)
+
+### Pilgrim Hat
+
+![Screenshot](/screenshots/pilgrim-hat.png)
 
 ### Pissed Off Pancakes
 
@@ -2225,6 +2309,10 @@ The screenshots are categorized.
 ### Pumpkin Patch
 
 ![Screenshot](/screenshots/pumpkin-patch.png)
+
+### Pumpkin Pie
+
+![Screenshot](/screenshots/pumpkin-pie.png)
 
 ### Pumpkin Spice
 
@@ -2354,6 +2442,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/rippedcasts.png)
 
+### Roast Turkey
+
+![Screenshot](/screenshots/roast-turkey.png)
+
 ### Rose Pine Moon
 
 ![Screenshot](/screenshots/rose-pine-moon.png)
@@ -2377,6 +2469,10 @@ The screenshots are categorized.
 ### Saffron Nightfall
 
 ![Screenshot](/screenshots/saffron-nightfall.png)
+
+### Sage Stuffing
+
+![Screenshot](/screenshots/sage-stuffing.png)
 
 ### Saguaro
 
@@ -2638,6 +2734,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/static-noir.png)
 
+### Stone
+
+![Screenshot](/screenshots/stone.png)
+
 ### Sublette
 
 ![Screenshot](/screenshots/sublette.png)
@@ -2677,6 +2777,10 @@ The screenshots are categorized.
 ### Sweet Emotion
 
 ![Screenshot](/screenshots/sweet-emotion.png)
+
+### Sweet Potato Casserole
+
+![Screenshot](/screenshots/sweet-potato-casserole.png)
 
 ### Symfonic
 
@@ -2726,6 +2830,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/termius-dark.png)
 
+### Thankful Twilight
+
+![Screenshot](/screenshots/thankful-twilight.png)
+
 ### Thayer Bright
 
 ![Screenshot](/screenshots/thayer-bright.png)
@@ -2745,6 +2853,10 @@ The screenshots are categorized.
 ### This One Goes to 11
 
 ![Screenshot](/screenshots/this-one-goes-to-11.png)
+
+### Tideglass
+
+![Screenshot](/screenshots/tideglass.png)
 
 ### Tinacious Design Dark
 
@@ -2813,6 +2925,10 @@ The screenshots are categorized.
 ### Tumbling Stones
 
 ![Screenshot](/screenshots/tumbling-stones.png)
+
+### Turkey Trot
+
+![Screenshot](/screenshots/turkey-trot.png)
 
 ### Turquoise Trail
 
@@ -2905,6 +3021,10 @@ The screenshots are categorized.
 ### Warm Neon
 
 ![Screenshot](/screenshots/warm-neon.png)
+
+### Wasteland Terminal
+
+![Screenshot](/screenshots/wasteland-terminal.png)
 
 ### Wez
 
@@ -3026,6 +3146,26 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/zenwritten-dark.png)
 
+### 🇺🇸 U.S. Air Force
+
+![Screenshot](/screenshots/-us-air-force.png)
+
+### 🇺🇸 U.S. Army
+
+![Screenshot](/screenshots/-us-army.png)
+
+### 🇺🇸 U.S. Marine Corps
+
+![Screenshot](/screenshots/-us-marine-corps.png)
+
+### 🇺🇸 U.S. Navy
+
+![Screenshot](/screenshots/-us-navy.png)
+
+### 🇺🇸 U.S. Space Force
+
+![Screenshot](/screenshots/-us-space-force.png)
+
 ### Light Themes<a name="lightthemes"><a/>
 
 ### 3024 Day
@@ -3059,6 +3199,10 @@ The screenshots are categorized.
 ### Analyzed Light
 
 ![Screenshot](/screenshots/analyzed-light.png)
+
+### Apple Pie
+
+![Screenshot](/screenshots/apple-pie.png)
 
 ### Apple System Colors Light
 
@@ -3112,6 +3256,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/builtin-tango-light.png)
 
+### Butternut Squash
+
+![Screenshot](/screenshots/butternut-squash.png)
+
 ### Cactus Bloom
 
 ![Screenshot](/screenshots/cactus-bloom.png)
@@ -3163,6 +3311,10 @@ The screenshots are categorized.
 ### Cold Storage
 
 ![Screenshot](/screenshots/cold-storage.png)
+
+### Corn
+
+![Screenshot](/screenshots/corn.png)
 
 ### Cursor Light
 
@@ -3219,6 +3371,10 @@ The screenshots are categorized.
 ### Farmhouse Light
 
 ![Screenshot](/screenshots/farmhouse-light.png)
+
+### First Frost
+
+![Screenshot](/screenshots/first-frost.png)
 
 ### Flexoki Light
 
@@ -3372,6 +3528,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/karma-light.png)
 
+### Leftover Sandwich
+
+![Screenshot](/screenshots/leftover-sandwich.png)
+
 ### Letterpress
 
 ![Screenshot](/screenshots/letterpress.png)
@@ -3464,6 +3624,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/man-page.png)
 
+### Mashed Potatoes
+
+![Screenshot](/screenshots/mashed-potatoes.png)
+
 ### Matcha Zen
 
 ![Screenshot](/screenshots/matcha-zen.png)
@@ -3552,6 +3716,14 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/novel.png)
 
+### Nudisia
+
+![Screenshot](/screenshots/nudisia.png)
+
+### Numix Light
+
+![Screenshot](/screenshots/numix-light.png)
+
 ### Nvim Light
 
 ![Screenshot](/screenshots/nvim-light.png)
@@ -3607,6 +3779,10 @@ The screenshots are categorized.
 ### Pierre Light
 
 ![Screenshot](/screenshots/pierre-light.png)
+
+### Pilgrim Linen
+
+![Screenshot](/screenshots/pilgrim-linen.png)
 
 ### Poimandres White
 
@@ -3836,6 +4012,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/willow-grove.png)
 
+### Wishbone
+
+![Screenshot](/screenshots/wishbone.png)
+
 ### X Helsinki
 
 ![Screenshot](/screenshots/x-helsinki.png)
@@ -3884,10 +4064,6 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/zacess-warm-light.png)
 
-### Zenbones Light
-
-![Screenshot](/screenshots/zenbones-light.png)
-
 ### Zenbones
 
 ![Screenshot](/screenshots/zenbones.png)
@@ -3895,6 +4071,10 @@ The screenshots are categorized.
 ### Zenwritten Light
 
 ![Screenshot](/screenshots/zenwritten-light.png)
+
+### 🇺🇸 U.S. Coast Guard
+
+![Screenshot](/screenshots/-us-coast-guard.png)
 <!-- SCREENSHOTS_END -->
 
 ## Credits
