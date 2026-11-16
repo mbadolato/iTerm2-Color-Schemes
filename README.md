@@ -2914,6 +2914,10 @@ The screenshots are categorized.
 
 ![Screenshot](/screenshots/whimsy.png)
 
+### Wild Charm Dark
+
+![Screenshot](/screenshots/wild-charm-dark.png)
+
 ### Wild Cherry
 
 ![Screenshot](/screenshots/wild-cherry.png)
@@ -3823,6 +3827,10 @@ The screenshots are categorized.
 ### White Sands
 
 ![Screenshot](/screenshots/white-sands.png)
+
+### Wild Charm Light
+
+![Screenshot](/screenshots/wild-charm-light.png)
 
 ### Willow Grove
 

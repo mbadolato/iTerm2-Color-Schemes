@@ -1,0 +1,17 @@
+[meta]
+name = "Wild Charm Dark"
+mode = "dark"
+
+[terminal]
+foreground = "#ffffff"
+background = "#000000"
+palette = [
+    "#000000", "#d7005f", "#00af5f", "#d78700",
+    "#0087d7", "#d787d7", "#00afaf", "#d0d0d0",
+    "#767676", "#ff5f87", "#00d75f", "#ffaf00",
+    "#00afff", "#ff87ff", "#00d7d7", "#ffffff",
+]
+cursor = "#767676"
+cursor-text = "#ffffff"
+selection-background = "#00afff"
+selection-foreground = "#000000"

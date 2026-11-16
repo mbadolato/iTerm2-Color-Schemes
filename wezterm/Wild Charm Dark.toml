@@ -1,0 +1,12 @@
+# Wild Charm Dark
+[colors]
+foreground = "#ffffff"
+background = "#000000"
+cursor_bg = "#767676"
+cursor_border = "#767676"
+cursor_fg = "#ffffff"
+selection_bg = "#00afff"
+selection_fg = "#000000"
+
+ansi = ["#000000","#d7005f","#00af5f","#d78700","#0087d7","#d787d7","#00afaf","#d0d0d0"]
+brights = ["#767676","#ff5f87","#00d75f","#ffaf00","#00afff","#ff87ff","#00d7d7","#ffffff"]

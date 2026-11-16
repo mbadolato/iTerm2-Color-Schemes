@@ -1,0 +1,43 @@
+!
+! Wild Charm Light
+!
+*.foreground:  #000000
+*.background:  #ffffff
+*.cursorColor: #767676
+!
+! Black
+*.color0:      #000000
+*.color8:      #808080
+!
+! Red
+*.color1:      #af0000
+*.color9:      #d70000
+!
+! Green
+*.color2:      #008700
+*.color10:     #5faf5f
+!
+! Yellow
+*.color3:      #af5f00
+*.color11:     #d78700
+!
+! Blue
+*.color4:      #005faf
+*.color12:     #0087d7
+!
+! Magenta
+*.color5:      #870087
+*.color13:     #af00af
+!
+! Cyan
+*.color6:      #008f9f
+*.color14:     #00afaf
+!
+! White
+*.color7:      #8a8a8a
+*.color15:     #ffffff
+!
+! Bold, Italic, Underline
+*.colorBD:     #000000
+!*.colorIT:
+!*.colorUL:

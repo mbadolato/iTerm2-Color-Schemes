@@ -1,0 +1,33 @@
+# Colors (Wild Charm Dark)
+
+[colors.bright]
+black = '#767676'
+blue = '#00afff'
+cyan = '#00d7d7'
+green = '#00d75f'
+magenta = '#ff87ff'
+red = '#ff5f87'
+white = '#ffffff'
+yellow = '#ffaf00'
+
+[colors.cursor]
+cursor = '#767676'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#0087d7'
+cyan = '#00afaf'
+green = '#00af5f'
+magenta = '#d787d7'
+red = '#d7005f'
+white = '#d0d0d0'
+yellow = '#d78700'
+
+[colors.primary]
+background = '#000000'
+foreground = '#ffffff'
+
+[colors.selection]
+background = '#00afff'
+text = '#000000'
