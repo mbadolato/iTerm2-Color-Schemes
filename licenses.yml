@@ -3432,9 +3432,6 @@ White Sands:
   license: unknown
   source: ''
   note: 'Not covered by the research in #638.'
-Wild Cherry:
-  license: MIT
-  source: https://github.com/mashaal/wild-cherry
 Wild Charm Dark:
   license: Vim
   source: https://github.com/vim/colorschemes/blob/master/colors/wildcharm.vim
@@ -3443,6 +3440,9 @@ Wild Charm Light:
   license: Vim
   source: https://github.com/vim/colorschemes/blob/master/colors/wildcharm.vim
   note: 'Built-in colorscheme for Vim, distributed under the same license as the rest of Vim.'
+Wild Cherry:
+  license: MIT
+  source: https://github.com/mashaal/wild-cherry
 Willow Grove:
   license: unknown
   source: ''
