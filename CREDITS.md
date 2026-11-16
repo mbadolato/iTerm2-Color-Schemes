@@ -1069,3 +1069,5 @@ The Turkey Trot theme was created by [Mark Badolato](https://terminalthemes.com/
 The Wishbone theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Heritage Themes schemes (Ainu, Aizome, Bengal, Danqing, Edo, Gujarat, Hmong, Holi, Kalaallisuut, Kalamkari, Kashubia, Kerala, Łowicz, Maramureș, Maya, Morocco, Mudhif, Mughal, Ndebele, Peru, Podhale, Punjab, Rajasthan, Sardinia, Shaker, Shuimo, Tamil, Wixárika, Wuxing, Yolŋu, Zalipie and Złotnica) were created by [Heritage Themes](https://github.com/heritage-themes/heritage-themes).
+
+The Wild Charm themes (Wild Charm Dark, Wild Charm Light) were created by [Maxim Kim](https://github.com/habamax) to be a vibrant and playful colorscheme for [Vim](https://github.com/vim/colorschemes/blob/master/colors/wildcharm.vim). They were added by [ran8km](https://github.com/ran8km).

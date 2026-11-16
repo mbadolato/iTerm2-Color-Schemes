@@ -1,0 +1,33 @@
+# Colors (Wild Charm Light)
+
+[colors.bright]
+black = '#808080'
+blue = '#0087d7'
+cyan = '#00afaf'
+green = '#5faf5f'
+magenta = '#af00af'
+red = '#d70000'
+white = '#ffffff'
+yellow = '#d78700'
+
+[colors.cursor]
+cursor = '#767676'
+text = '#ffffff'
+
+[colors.normal]
+black = '#000000'
+blue = '#005faf'
+cyan = '#008f9f'
+green = '#008700'
+magenta = '#870087'
+red = '#af0000'
+white = '#8a8a8a'
+yellow = '#af5f00'
+
+[colors.primary]
+background = '#ffffff'
+foreground = '#000000'
+
+[colors.selection]
+background = '#00afff'
+text = '#ffffff'

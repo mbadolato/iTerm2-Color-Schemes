@@ -1,0 +1,41 @@
+(
+    name: "Wild Charm Light",
+    foreground: "#000000",
+    background: "#ffffff",
+    cursor: "#767676",
+    bright_foreground: "#000000",
+    dim_foreground: "#808080",
+
+    normal: (
+        black: "#000000",
+        red: "#af0000",
+        green: "#008700",
+        yellow: "#af5f00",
+        blue: "#005faf",
+        magenta: "#870087",
+        cyan: "#008f9f",
+        white: "#8a8a8a"
+    ),
+
+    bright: (
+        black: "#808080",
+        red: "#d70000",
+        green: "#5faf5f",
+        yellow: "#d78700",
+        blue: "#0087d7",
+        magenta: "#af00af",
+        cyan: "#00afaf",
+        white: "#ffffff"
+    ),
+
+    dim: (
+        black: "#000000",
+        red: "#af0000",
+        green: "#008700",
+        yellow: "#af5f00",
+        blue: "#005faf",
+        magenta: "#870087",
+        cyan: "#008f9f",
+        white: "#8a8a8a"
+    ),
+)

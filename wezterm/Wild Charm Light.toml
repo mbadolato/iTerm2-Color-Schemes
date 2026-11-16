@@ -1,0 +1,12 @@
+# Wild Charm Light
+[colors]
+foreground = "#000000"
+background = "#ffffff"
+cursor_bg = "#767676"
+cursor_border = "#767676"
+cursor_fg = "#ffffff"
+selection_bg = "#00afff"
+selection_fg = "#ffffff"
+
+ansi = ["#000000","#af0000","#008700","#af5f00","#005faf","#870087","#008f9f","#8a8a8a"]
+brights = ["#808080","#d70000","#5faf5f","#d78700","#0087d7","#af00af","#00afaf","#ffffff"]
