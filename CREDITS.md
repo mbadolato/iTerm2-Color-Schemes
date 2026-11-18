@@ -1077,3 +1077,41 @@ The 1K Confetti theme was created by [Mark Badolato](https://terminalthemes.com/
 The Comma Club theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
 
 The Grand Terminal theme was created by [Mark Badolato](https://terminalthemes.com/users/01M38A2BPFG85ZT6EQ6PFA2WTM).
+
+The Arabian Knights theme was created by Mark Badolato.
+
+The Atom Ant theme was created by Mark Badolato.
+
+The Banana Buggies theme was created by Mark Badolato.
+
+The Banana Vac theme was created by Mark Badolato.
+
+The Bingo theme was created by Mark Badolato.
+
+The Danger Island theme was created by Mark Badolato.
+
+The Drooper theme was created by Mark Badolato.
+
+The Fleegle theme was created by Mark Badolato.
+
+The Micro Ventures theme was created by Mark Badolato.
+
+The Precious Pupp theme was created by Mark Badolato.
+
+The Secret Squirrel theme was created by Mark Badolato.
+
+The Snorky theme was created by Mark Badolato.
+
+The Sour Grapes theme was created by Mark Badolato.
+
+The Splits Clubhouse theme was created by Mark Badolato.
+
+The The Adventures of Gulliver theme was created by Mark Badolato.
+
+The The Hillbilly Bears theme was created by Mark Badolato.
+
+The The New Adventures of Huckleberry Finn theme was created by Mark Badolato.
+
+The The Three Musketeers theme was created by Mark Badolato.
+
+The Tra La La theme was created by Mark Badolato.
