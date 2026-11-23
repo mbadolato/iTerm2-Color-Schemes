@@ -3,15 +3,15 @@ name = "Atom One Light"
 mode = "light"
 
 [terminal]
-foreground = "#2a2c33"
-background = "#f9f9f9"
+foreground = "#383a42"
+background = "#fafafa"
 palette = [
     "#000000", "#de3e35", "#3f953a", "#d2b67c",
-    "#2f5af3", "#950095", "#3f953a", "#bbbbbb",
+    "#2f5af3", "#950095", "#0184bc", "#bbbbbb",
     "#000000", "#de3e35", "#3f953a", "#d2b67c",
-    "#2f5af3", "#a00095", "#3f953a", "#ffffff",
+    "#2f5af3", "#a00095", "#0184bc", "#ffffff",
 ]
-cursor = "#bbbbbb"
+cursor = "#526fff"
 cursor-text = "#ffffff"
 selection-background = "#d0dffc"
 selection-foreground = "#2a2c33"

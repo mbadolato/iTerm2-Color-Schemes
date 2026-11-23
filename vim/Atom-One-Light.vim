@@ -11,7 +11,7 @@ endif
 let g:colors_name = "Atom-One-Light"
 
 " Normal colors
-hi Normal guifg=#2a2c33 guibg=#f9f9f9
+hi Normal guifg=#383a42 guibg=#fafafa
 
 " Syntax highlighting groups
 hi Comment guifg=#000000
@@ -20,10 +20,10 @@ hi Identifier guifg=#2f5af3
 hi Statement guifg=#de3e35
 hi PreProc guifg=#a00095
 hi Type guifg=#3f953a
-hi Special guifg=#3f953a
+hi Special guifg=#0184bc
 hi Underlined guifg=#2f5af3 gui=underline
-hi Error guifg=#de3e35 guibg=#f9f9f9
-hi Todo guifg=#d2b67c guibg=#f9f9f9
+hi Error guifg=#de3e35 guibg=#fafafa
+hi Todo guifg=#d2b67c guibg=#fafafa
 
 " Additional groups for better compatibility
 hi String guifg=#3f953a
@@ -50,16 +50,16 @@ hi StorageClass guifg=#3f953a
 hi Structure guifg=#3f953a
 hi Typedef guifg=#3f953a
 
-hi SpecialChar guifg=#3f953a
-hi Tag guifg=#3f953a
+hi SpecialChar guifg=#0184bc
+hi Tag guifg=#0184bc
 hi Delimiter guifg=#bbbbbb
 hi SpecialComment guifg=#000000
 hi Debug guifg=#d2b67c
 
-hi Ignore guifg=#f9f9f9
+hi Ignore guifg=#fafafa
 
 " Cursor and line highlighting
-hi Cursor guifg=#ffffff guibg=#bbbbbb
+hi Cursor guifg=#ffffff guibg=#526fff
 hi CursorLine guibg=#d0dffc
 hi CursorColumn guibg=#d0dffc
 
@@ -67,27 +67,27 @@ hi CursorColumn guibg=#d0dffc
 hi Visual guibg=#d0dffc
 
 " Search highlighting
-hi Search guibg=#d2b67c guifg=#f9f9f9
-hi IncSearch guibg=#d2b67c guifg=#f9f9f9
+hi Search guibg=#d2b67c guifg=#fafafa
+hi IncSearch guibg=#d2b67c guifg=#fafafa
 
 " Line numbers
 hi LineNr guifg=#000000
-hi CursorLineNr guifg=#2a2c33
+hi CursorLineNr guifg=#383a42
 
 " Status line
-hi StatusLine guifg=#2a2c33 guibg=#000000
-hi StatusLineNC guifg=#000000 guibg=#f9f9f9
+hi StatusLine guifg=#383a42 guibg=#000000
+hi StatusLineNC guifg=#000000 guibg=#fafafa
 
 " Tab line
-hi TabLine guifg=#000000 guibg=#f9f9f9
-hi TabLineSel guifg=#2a2c33 guibg=#d0dffc
-hi TabLineFill guibg=#f9f9f9
+hi TabLine guifg=#000000 guibg=#fafafa
+hi TabLineSel guifg=#383a42 guibg=#d0dffc
+hi TabLineFill guibg=#fafafa
 
 " Popup menu
-hi Pmenu guifg=#2a2c33 guibg=#000000
-hi PmenuSel guifg=#f9f9f9 guibg=#d0dffc
+hi Pmenu guifg=#383a42 guibg=#000000
+hi PmenuSel guifg=#fafafa guibg=#d0dffc
 hi PmenuSbar guibg=#000000
-hi PmenuThumb guibg=#2a2c33
+hi PmenuThumb guibg=#383a42
 
 " Diff highlighting
 hi DiffAdd guibg=#3f953a
@@ -96,14 +96,14 @@ hi DiffDelete guibg=#de3e35
 hi DiffText guibg=#2f5af3
 
 " Fold highlighting
-hi Folded guifg=#000000 guibg=#f9f9f9
-hi FoldColumn guifg=#000000 guibg=#f9f9f9
+hi Folded guifg=#000000 guibg=#fafafa
+hi FoldColumn guifg=#000000 guibg=#fafafa
 
 " Spell checking
 hi SpellBad gui=undercurl guisp=#de3e35
 hi SpellCap gui=undercurl guisp=#2f5af3
 hi SpellRare gui=undercurl guisp=#950095
-hi SpellLocal gui=undercurl guisp=#3f953a
+hi SpellLocal gui=undercurl guisp=#0184bc
 
 " Error and warning messages
 hi ErrorMsg guifg=#de3e35
@@ -124,4 +124,4 @@ hi Title guifg=#950095
 hi MatchParen guibg=#000000
 
 " Sign column
-hi SignColumn guifg=#000000 guibg=#f9f9f9
+hi SignColumn guifg=#000000 guibg=#fafafa

@@ -1,8 +1,8 @@
 tags = ["light"]
 
 [theme.colors]
-background = "#f9f9f9"
-foreground = "#2a2c33"
+background = "#fafafa"
+foreground = "#383a42"
 bright-foreground = "#000000"
 
 [theme.colors.palette]
@@ -12,7 +12,7 @@ bright-foreground = "#000000"
 3 = "#d2b67c"
 4 = "#2f5af3"
 5 = "#950095"
-6 = "#3f953a"
+6 = "#0184bc"
 7 = "#bbbbbb"
 8 = "#000000"
 9 = "#de3e35"
@@ -20,5 +20,5 @@ bright-foreground = "#000000"
 11 = "#d2b67c"
 12 = "#2f5af3"
 13 = "#a00095"
-14 = "#3f953a"
+14 = "#0184bc"
 15 = "#ffffff"
