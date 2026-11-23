@@ -1115,3 +1115,51 @@ The The New Adventures of Huckleberry Finn theme was created by Mark Badolato.
 The The Three Musketeers theme was created by Mark Badolato.
 
 The Tra La La theme was created by Mark Badolato.
+
+The Blue Hour Desk theme was created by Mark Badolato.
+
+The Campfire theme was created by Mark Badolato.
+
+The Deep Orchard theme was created by Mark Badolato.
+
+The Dogbody theme was created by Mark Badolato.
+
+The Duskwater theme was created by Mark Badolato.
+
+The Great Hall theme was created by Mark Badolato.
+
+The Inkstone theme was created by Mark Badolato.
+
+The Inside the Cabins theme was created by Mark Badolato.
+
+The Laughing Loon theme was created by Mark Badolato.
+
+The Lilac Paper theme was created by Mark Badolato.
+
+The Nightjar theme was created by Mark Badolato.
+
+The North Woods theme was created by Mark Badolato.
+
+The Oatmilk theme was created by Mark Badolato.
+
+The Open Sky theme was created by Mark Badolato.
+
+The Porcelain Field theme was created by Mark Badolato.
+
+The Quiet Sage theme was created by Mark Badolato.
+
+The Rosewood Ink theme was created by Mark Badolato.
+
+The Shirley's Shop theme was created by Mark Badolato.
+
+The Snipe theme was created by Mark Badolato.
+
+The The Great Road theme was created by Mark Badolato.
+
+The The Waterfront theme was created by Mark Badolato.
+
+The Towering Pines theme was created by Mark Badolato.
+
+The Velvet Slate theme was created by Mark Badolato.
+
+The Wake Up Bell theme was created by Mark Badolato.
