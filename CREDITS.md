@@ -1163,3 +1163,5 @@ The Towering Pines theme was created by Mark Badolato.
 The Velvet Slate theme was created by Mark Badolato.
 
 The Wake Up Bell theme was created by Mark Badolato.
+
+The Oxocarbon Grey theme was created by [Viraj](https://github.com/viraj-s15/oxocarbon-grey).
