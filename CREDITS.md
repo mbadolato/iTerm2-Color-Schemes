@@ -1165,3 +1165,5 @@ The Velvet Slate theme was created by Mark Badolato.
 The Wake Up Bell theme was created by Mark Badolato.
 
 The Oxocarbon Grey theme was created by [Viraj](https://github.com/viraj-s15/oxocarbon-grey).
+
+The 56 Gallery Zero themes, after paintings by Rothko, de Amaral, Condo, Monet, Tanaka, Riley, Pelton and Demuth, were created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
