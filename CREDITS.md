@@ -1165,3 +1165,117 @@ The Velvet Slate theme was created by Mark Badolato.
 The Wake Up Bell theme was created by Mark Badolato.
 
 The Oxocarbon Grey theme was created by [Viraj](https://github.com/viraj-s15/oxocarbon-grey).
+
+The Condo — Couple on Blue Striped Chair theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Condo — Dancing to Miles theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Condo — Green and Purple Head theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Condo — Lost at Sea theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Condo — Nude 33 theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Condo — The Fallen Butler theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Condo — Untitled 1983 theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Daylight theme was created by [Woodwose](https://terminalthemes.com/users/01M89WTEBS7W2VS9HGVCQ27FNE).
+
+The De Amaral — Alquimia Plata theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The De Amaral — Bruma D1 theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The De Amaral — Cenit 2 theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The De Amaral — Lienzo B theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The De Amaral — Moya F theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The De Amaral — Nébula 8 theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The De Amaral — Pirámide D theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Demuth — Buildings Lancaster theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Demuth — Calla Lilies theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Demuth — End of the Parade theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Demuth — My Egypt theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Demuth — Provincetown Dunes theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Demuth — Sail in Two Movements theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Demuth — Welcome to Our City theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Monet — Brume theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Monet — Crépuscule theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Monet — Effet du Matin theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Monet — Lumière Dorée theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Monet — Nymphéas theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Monet — Plein Soleil theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Monet — Soleil Couchant theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Pelton — Ahmi in Egypt theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Pelton — Messengers theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Pelton — Orbits theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Pelton — Sea Change theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Pelton — Tall Ginger theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Pelton — The Fountains theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Pelton — Winter theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Riley — Cataract theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Riley — Fall theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Riley — Ka theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Riley — Late Morning theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Riley — Nataraja theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Riley — Red with Red 1 theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Riley — To a Summer's Day theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Rothko — Black and Gray theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Rothko — Blue and Gray theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Rothko — Blue Divided by Blue theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Rothko — Four Darks in Red theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Rothko — No. 4 theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Rothko — Untitled 1957 theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Rothko — Untitled 1969 theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Tanaka — Electric Dress theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Tanaka — Gate of Hell theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Tanaka — Late Clarity theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Tanaka — Neon District theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Tanaka — Red and Black theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Tanaka — Thanks Sam theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Tanaka — The Void theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
