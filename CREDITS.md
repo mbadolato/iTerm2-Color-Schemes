@@ -1279,3 +1279,121 @@ The Tanaka — Red and Black theme was created by [BigCactusLabs](https://github
 The Tanaka — Thanks Sam theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
 
 The Tanaka — The Void theme was created by [BigCactusLabs](https://github.com/BigCactusLabs/gallery-zero).
+
+The Aurora Pause theme was created by Mark Badolato.
+
+The Blue on Blue Hour theme was created by Mark Badolato.
+
+The Boxing Day Breather theme was created by Mark Badolato.
+
+The Candle in the Window theme was created by Mark Badolato.
+
+The Candy Cane theme was created by Mark Badolato.
+
+The Champagne theme was created by Mark Badolato.
+
+The Champagne Buffer theme was created by Mark Badolato.
+
+The Coal in the Console theme was created by Mark Badolato.
+
+The Confetti Countdown theme was created by Mark Badolato.
+
+The Disco Diff theme was created by Mark Badolato.
+
+The Dreidel Spin theme was created by Mark Badolato.
+
+The Eight Bright Nights theme was created by Mark Badolato.
+
+The Evergreen Escape theme was created by Mark Badolato.
+
+The Festival of Bytes theme was created by Mark Badolato.
+
+The Fresh Page Pending theme was created by Mark Badolato.
+
+The Frosted Fern theme was created by Mark Badolato.
+
+The Frosty the Snowterminal theme was created by Mark Badolato.
+
+The Gelt Trip theme was created by Mark Badolato.
+
+The Gift Wrap Party theme was created by Mark Badolato.
+
+The Gingerbread Debugger theme was created by Mark Badolato.
+
+The Golden Stocking theme was created by Mark Badolato.
+
+The Happy New Year theme was created by Mark Badolato.
+
+The Hearthside Pages theme was created by Mark Badolato.
+
+The Imani Dawn theme was created by Mark Badolato.
+
+The Jingle Bells theme was created by Mark Badolato.
+
+The Kente Cadence theme was created by Mark Badolato.
+
+The Kinara Glow theme was created by Mark Badolato.
+
+The Kujichagulia theme was created by Mark Badolato.
+
+The Kuumba Canvas theme was created by Mark Badolato.
+
+The Las Posadas Lanterns theme was created by Mark Badolato.
+
+The Last Save of the Year theme was created by Mark Badolato.
+
+The Latke Break theme was created by Mark Badolato.
+
+The Longest Night theme was created by Mark Badolato.
+
+The Mazao Morning theme was created by Mark Badolato.
+
+The Midnight Commit theme was created by Mark Badolato.
+
+The Midwinter Moss theme was created by Mark Badolato.
+
+The Mistletoe Mode theme was created by Mark Badolato.
+
+The Nia by Night theme was created by Mark Badolato.
+
+The North Pole Post Office theme was created by Mark Badolato.
+
+The Ōmisoka Quiet theme was created by Mark Badolato.
+
+The One More Candle theme was created by Mark Badolato.
+
+The Peppermint Plot theme was created by Mark Badolato.
+
+The Presents Tense theme was created by Mark Badolato.
+
+The Returning Light theme was created by Mark Badolato.
+
+The Ribbon & Return theme was created by Mark Badolato.
+
+The Rudolph the Red-Nosed Renderer theme was created by Mark Badolato.
+
+The Saint Lucia Morning theme was created by Mark Badolato.
+
+The Santa Syntax theme was created by Mark Badolato.
+
+The Silent Night Shift theme was created by Mark Badolato.
+
+The Silver Shamash theme was created by Mark Badolato.
+
+The Sleigh Ride theme was created by Mark Badolato.
+
+The Snowglobe Stories theme was created by Mark Badolato.
+
+The Sugarplum Syntax theme was created by Mark Badolato.
+
+The Tinsel Town theme was created by Mark Badolato.
+
+The Ujamaa Market theme was created by Mark Badolato.
+
+The Ujima Workshop theme was created by Mark Badolato.
+
+The Umoja Afterglow theme was created by Mark Badolato.
+
+The Velvet Noel theme was created by Mark Badolato.
+
+The Yule Log On theme was created by Mark Badolato.
